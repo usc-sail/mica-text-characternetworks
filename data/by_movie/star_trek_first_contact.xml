@@ -1,0 +1,2934 @@
+<movie id="515" title="Star Trek First Contact">
+
+<dialogue id="1" n_utterances="2">
+   <speaker>BORG</speaker>
+      <mode></mode>
+      <context>The images on the monitors now change to show us images from 21ST CENTURY Earth history. Again, it's a collection of still photography, video footage, text, artwork, etc. We hear snippets of sound- bites, music, speeches from the period. A lot of enticing details. As the images race across the monitors, we should learn the following. -- The turn of the 21st century brought chaos. Regional wars, the collapse of the United Nations. Societal break-down. Crime, starvation, desperation. -- A Third World War. Nuclear explosions, environmental disasters, tens of millions dead. The United States ceases to exist. All political authority vanishes. Humanity teetering on the edge of the Second Dark Age. -- The image of a single man -- ZEPHRAM COCHRANE. A visionary scientist. He see the spacecraft he created out of a nuclear missile. He flies the first warp test, breaking the light barrier. It changes history. -- Grainy black and white images of a VULCAN SCOUT SHIP landing on Earth. They saw Cochrane's flight, followed him back to Earth, and made First Contact with the human race. -- Humanity turns the corner. First Contact with an alien civilization brings the planet together as never before. Humans and Vulcans working together, beginning to solve long-standing problems with new technology. We see an early replicator producing food for the starving millions. A new World Government is formed. -- People from planet Earth and people from Vulcan form an Alliance. They call it the United Federation of Planets. And they commission a fleet of starships for protection and exploration. They call it Starfleet. -- These are images recounting the birth of the Star Trek universe. Another muffled EXPLOSION, this one stronger, SHAKES the entire wall. One of the monitors BLOWS OUT in a shower of sparks. And now a new voice, a woman's voice, low, threatening, with a slight metallic inflection, speaks for the first time:</context>
+      <utterance>Restrict search parameters to 1-9- 9-8 through 2-0-8-4.</utterance>
+   <speaker>WOMAN'S VOICE</speaker>
+      <mode></mode>
+      <context>Another explosion ROCKS the room and it takes us to:</context>
+      <utterance>Stop search. Calculate temporal coordinates. J-Fourteen.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="6">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>We'll cover them.</context>
+      <utterance>Signal the Endeavor to fall back.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context>She works her console. 11 EXT. SPACE - THE ENTERPRISE &amp; BORG SHIP 11 The Endeavor moves off as the Borg FIRE at the Enterprise and BLASTS the saucer section. This should also produce an unusual effect -- instead of the traditional "bubble" shielding, the new armor of this Enterprise ABSORBS the blast and dissipates the energy across the hull. The ship is undamaged.</context>
+      <utterance>Aye, sir.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dispersive armor is holding.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bring us about. Target Borg ship alpha four, port side battery.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Port battery, ready sir!</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fire.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="5">
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Borg ship has modified its shields, Captain. Our phasers will no longer be effective.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ready quantum torpedo.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>Another JOLT as we're hit.</context>
+      <utterance>Aye, sir. Only three left.</utterance>
+   <speaker>GEORDI'S COM VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>La Forge to bridge.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go ahead.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="2">
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain, I'm starting to worry about the hull integrity. We've been running the support field at full power for three hours straight. I don't know how much longer it's going to hold up.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Understood. Keep me informed.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="5">
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Incoming transmission from the Borg.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Data works and the viewer changes to a view of the INTERIOR of the BORG CUBE. A vast CHAMBER crammed with HUNDREDS of BORG DRONES standing upright in individual alcoves. They're everywhere -- on the ceiling, walls, floor. This is a BORG COLLECTIVE -- hundreds of Borg that form a gigantic "hive" mind. The Borg are half- man/half machine. No individual personalities. No feelings. They have only one goal in life: to assimilate new races into their collective. To become a Borg is to experience living death. When they speak, they speak as a collective -- thousands of voices speaking as one:</context>
+      <utterance>On screen.</utterance>
+   <speaker>BORG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your defense perimeter is useless. You will be assimilated.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Break off your attack. By now, you must realize you can't win...</utterance>
+   <speaker>BORG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your opinion is irrelevant. We are the Borg. Resistance is futile.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="8">
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>Riker looks at his console.</context>
+      <utterance>Main power still on-line, Captain.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Casualties are light, Captain. Minor buckling on the port nacelle. Nothing serious.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Incoming message from the Starship Intrepid. Admiral Hayes.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>The viewer shows ADMIRAL HAYES on the Bridge of his starship.</context>
+      <utterance>On screen.</utterance>
+   <speaker>ADMIRAL HAYES</speaker>
+      <mode></mode>
+      <context>Can you handle it?</context>
+      <utterance>The new quantum torpedoes are doing the trick, Jean-Luc. We've destroyed forty-seven Borg ships so far... and only lost fifteen of our own.  But one of the Borg ships has broken through our defenses, and it's heading directly for Earth.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Absolutely.</utterance>
+   <speaker>ADMIRAL HAYES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good hunting. Hayes out.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Maximum warp.</context>
+      <utterance>Mister Data, set a pursuit course.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="9">
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We are approaching the Terran System, Captain.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go to impulse. Where's the Borg ship?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It has entered Earth orbit.  Correction -- it is not in orbit. It is heading directly toward the surface.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Picard gets up, moves to Data's console.</context>
+      <utterance>What?</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some sort of suicide tactic?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>Data reacts to his console.</context>
+      <utterance>Unknown, sir. Suicide tactics are not normally associated with the Borg.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>Picard studies Data's monitor.</context>
+      <utterance>Sensors show a temporal signature emanating from the Sphere. High concentrations of tachyons...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>A beat as Picard makes a shocking realization.</context>
+      <utterance>And chronometric particles... it's as though they're trying to create a temporal vortex...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Time travel... they're attempting time travel...  Full power, Mister Data. Worf, quantum torpedoes at my command!</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="2">
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Range -- fifty kilometers.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A temporal vortex is forming directly ahead of the Sphere.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="4">
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Main power off-line!</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>Riker checks a console.</context>
+      <utterance>Switching to emergency back-ups.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're caught in some kind of energy wake from the vortex...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Worf works...</context>
+      <utterance>Worf... torpedo... now!</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="22">
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have helm control.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's the Sphere?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>Disturbed reactions.</context>
+      <utterance>They have traveled into the vortex... through time.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The vortex is collapsing, sir.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Contact Starfleet Command.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No response.  I'm not reading any Starfleet com traffic in this entire sector.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain, I've scanned the planet. The atmosphere contains a high concentration of methane, carbon monoxide and fluorine. The oceans have been chemically altered, as well.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>She works, and on the View screen EARTH appears as seen from orbit. The crystal blue marble is now covered by a thick, turbulent DARK ATMOSPHERE -- polluted and ugly. Reactions.</context>
+      <utterance>On screen.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Life signs?</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context>A shocking moment.</context>
+      <utterance>Population... thirty-five billion...  All Borg.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The planet's surface is covered with Borg technology.  So is the moon... and three other planets in this solar system.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But how?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They must've done it in the past... they went back and changed history...</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They did it... they assimilated Earth.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>then why are we still here?</context>
+      <utterance>But if they changed history...</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>Worf's console sounds an alarm.</context>
+      <utterance>We were caught in the temporal wake from the vortex. It must have protected us from any changes in the time-line.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain, there are five Borg ships closing in on our position.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Data, set a course for that vortex.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain...?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have to follow them back... repair whatever damage they've done to that time-line.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hull integrity down to thirty percent...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Steady as she goes.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="2">
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>The ship is HIT AGAIN AND AGAIN. On the View Screen, we're nearly on the vortex, but it's closing fast.</context>
+      <utterance>Borg vessels are closing to two thousand meters.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>36 EXT. SPACE - ENTERPRISE &amp; VORTEX (OPTICAL) 36 The Enterprise just barely makes it inside the vortex as it finally COLLAPSES. Both the Enterprise and the vortex VANISH.</context>
+      <utterance>Take us in!</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="9">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Report.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're still in Earth orbit.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On screen.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What year is it?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>According to our astrometric readings... the year is 2063.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain, I've found the Borg Sphere. It's on the far side of the planet...firing at the surface.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Intercept course, full impulse.  Weapons status?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Phasers are off-line... we have two quantum torpedoes left. But the computer targeting system has been destroyed.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Worf pops open a panel and a high-tech TARGETING console emerges with a small MONITOR and a traditional CROSS- HAIR in the center. Worf grabs the targeting hand- controls -- futuristic joysticks.</context>
+      <utterance>Go to manual.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="11">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Track their weapons fire.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Western hemisphere... North American continent...</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We are within torpedo range.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They've seen us. They're taking evasive action.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Worf struggles with the targeting system.</context>
+      <utterance>Mister Worf?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>The crosshairs keep missing the image of the Borg Sphere, which is now twisting and turning to evade us. Troi reacts to her console.</context>
+      <utterance>Target...</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain, they're firing at a nuclear missile silo... in central Montana.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Target...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>The crosshairs finally LOCK on the Borg Sphere.</context>
+      <utterance>Montana...</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Target locked!</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fire!</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="13">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mister Data, I want to know the exact date and time.  Give me a damage report on that missile silo.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Today is March second, 2063. The time in Montana is oh-eight-forty- five.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks like they damaged the silo...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Life signs?</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>Picard thinks for a moment... makes an instant decision and turns to Worf.</context>
+      <utterance>Can't tell. Long-range bio- sensors are off-line.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Civilian clothes.</context>
+      <utterance>Worf, have Doctor Crusher, Mister La Forge and a security team meet me in Transporter Room Three.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>Worf works. Riker turns to him, curious.</context>
+      <utterance>Aye, sir.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In twenty-four hours, Zephram Cochrane is supposed to conduct the very first warp test... from a missile silo in Montana. If I'm right, the Borg were trying to change the course of human history by killing him or destroying his ship.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And if they succeed, humans won't make First Contact with the Vulcans tomorrow.  As First Officer I should be the one beaming down...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>He grins slightly, has to agree.</context>
+      <utterance>Normally, I would agree. But in this case, the mission requires a certain knowledge of 21st century history. You're many things, Number One, but you're not much of an historian.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good luck, sir.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Picard EXITS...</context>
+      <utterance>I'll keep in contact. You have the Bridge.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="3">
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>Beverly joins them on the pad.</context>
+      <utterance>Will somebody please tell me where we're going?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Montana.  Energize.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Montana? Well, that answers everything. Why the hell are we -- They DEMATERIALIZE.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="10">
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>Picard and Geordi take out their tricorders and start scanning the landscape.</context>
+      <utterance>-- going to Montana?</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have the silo, sir. Bearing three one zero... distance, three hundred meters.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>They start walking...</context>
+      <utterance>Let's go.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go where? Hello? Is anyone going to tell me what we're doing here?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're here to find Zephram Cochrane. He may be injured or dead.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cochrane... the inventor of warp drive?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes...</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But he's been dead for three hundred...  Oh God... we've gone back in time again, haven't we?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid so. If the Borg succeed in preventing First Contact with the Vulcans... Earth will remain in the Second Dark Age... an easy target when the Borg arrive in the 24th century.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>Picard gives her a look. As they keep walking...</context>
+      <utterance>Well, why didn't you just say so in the first place?</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="11">
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context>WIDEN to REVEAL Troi and Data. Data is holding back the sheet while Troi scans the body with a tricorder. There is repair work going on in the b.g. Two medical N.D.s stand by.</context>
+      <utterance>Lieutenant Sandra Farrel.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context>Troi glances at Data, who is clearly disturbed by the sight of the dead woman, holding his EMOTIONS in check with difficulty.</context>
+      <utterance>It appears death was caused by a plasma discharge.  I'll note in her record that she never left her post.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you know her?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>Troi looks at him in concern.</context>
+      <utterance>Not very well. We met shortly after the Enterprise-E was commissioned. I found her to be a most... promising officer.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Data... are you sure you're all right?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am still having difficulty integrating certain emotions into my programming. Grief, loss, remorse...</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context>Data considers.</context>
+      <utterance>We still have to make reports on ten more crewmen killed in action. Maybe you should deactivate your emotion chip until we're done.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Human beings do not have that luxury, and neither should I.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will admit... there are times when I wish I had an emotion chip I could turn on and off.</utterance>
+   <speaker>RIKER'S COM VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Riker to Data.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go ahead, Commander.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="2">
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're reading some kind of gas leak in the Environmental Control Room. Take a repair team down and check it out.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>As Data EXITS...</context>
+      <utterance>On my way, Commander.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="4">
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One of the diathermic oxygen tanks has been damaged.</utterance>
+   <speaker>PORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Diathermic oxygen?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is a new subsystem of Nova Class ships. It regulates hydropressure and temperature variance.  Remain here. The gas is highly corrosive to organic material. It would liquefy your flesh on contact.</utterance>
+   <speaker>PORTER</speaker>
+      <mode></mode>
+      <context>Data walks over to the spewing gas tank, and without concern shoves both hands into the corrosive gas... ... groping around for the broken conduit, finally grabs hold of it... and with android strength BENDS the metal conduit back into the bulkhead. The gas stops leaking. Data is completely unaffected by the corrosive gas.</context>
+      <utterance>Be my guest, sir.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="2">
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Begin a diagnostic on the safety interlocks. There appears to have been some damage during the attack.</utterance>
+   <speaker>PORTER</speaker>
+      <mode></mode>
+      <context>Porter moves around a corner, behind some equipment, out of Data's vision...</context>
+      <utterance>Right.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="2">
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>He stands there for a moment, puzzled. Then a faint SKITTERING SCRAPE can be heard -- like tiny claws on a metal surface. He whirls at the sound.</context>
+      <utterance>Ensign Porter?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>No response. Data walks around the now deathly quiet room... turns the corner to where Porter was working. He's gone. The open panel is still there, and there doesn't appear to be any place Porter could've gone. Data looks puzzled, takes a step forward when his boots make a squishing sound. He looks down...</context>
+      <utterance>Ensign... are you all right?</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="2">
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>No response.</context>
+      <utterance>Data to Bridge.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>Nothing. Data quickly turns and heads for the door. There's a metallic SCRAPE above him and he looks up --</context>
+      <utterance>Data to Security.  This is Lieutenant Data to anyone who can hear my signal. I need assistance in the Environmental Control Room.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="10">
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This must be it.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How serious is the damage?</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm having trouble scanning underground. There's a lot of radiation leaking from something.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>As they speak, Beverly pulls out a hypospray and gives everyone injections.</context>
+      <utterance>Probably from the nuclear warhead. Cochrane was planning to use it to ignite the warp drive.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>Geordi moves to the thick, concrete missile door, scans it.</context>
+      <utterance>This will protect us from the radiation.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm picking up faint life signs twenty meters below.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Everyone spreads out... looking for the hatch. One of the guards -- LANGE -- finds it.</context>
+      <utterance>There should be an access hatch nearby...</utterance>
+   <speaker>LANGE</speaker>
+      <mode></mode>
+      <context>Everyone rushes over to him. There's a small HATCH on the ground that has been partially hidden by weeds and brush. Geordi kneels down, starts working a complex- looking LOCK on the hatch.</context>
+      <utterance>Over here.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alphanumeric lock. We need a password to get in...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Picard pulls out his phaser and everyone steps back. He aims and FIRES at the hatch, which is BLOWN OPEN, revealing a ladder that leads down into the darkness. As they start to crawl inside...</context>
+      <utterance>I have the password right here.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="3">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Geordi and the Guards start checking the dead bodies.</context>
+      <utterance>See if any of these men are Cochrane.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mitchell... DePaul...</utterance>
+   <speaker>LANGE</speaker>
+      <mode></mode>
+      <context>Picard and Beverly move toward the immense blast door. As Beverly scans it, Picard glances at a nearby desk...</context>
+      <utterance>This one's a woman... named Kirby.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="6">
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>Geordi moves to the door.</context>
+      <utterance>There's a life sign behind this door... about ten meters below.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Blast door. It's designed to protect the control room when the missile is launched.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>They hunt around for a moment. Geordi runs his hand along the edge of the blast door. Picard turns to the Guards.</context>
+      <utterance>There should be some kind of manual release...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get those fires out and then try to restore main power to the control room.</utterance>
+   <speaker>LANGE</speaker>
+      <mode></mode>
+      <context>The Guards move off.</context>
+      <utterance>Aye, sir.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>Geordi has found an emergency BOX with several pneumatic tubes and a hydraulic lever labeled "emergency use only." He pulls down the lever, there is a hissing sound, and the blast door slowly SLIDES DOWN into the floor. We can now see the MISSILE SILO itself beyond the door. Picard, Geordi and Beverly step into...</context>
+      <utterance>Got it, Captain.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="7">
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>Geordi looks over at the section of the missile on their level. The side panels have been removed, revealing complex circuitry within. Picard joins Beverly, who turns over the injured man. It's ZEPHRAM COCHRANE -- the man whose picture we saw on the Borg monitors. Beverly begins pulling devices out of her medkit, injects Cochrane with a hypospray. Cochrane is a man in his mid-forties. He has a youthful, dynamic appearance marred by recent radiation burns.</context>
+      <utterance>Severe radiation exposure...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's Cochrane.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>Picard nods, reaches into his pants pocket, takes out a combadge.</context>
+      <utterance>I've stabilized him for now... but he's in a coma and he's going to need radiometric therapy. I want to take him to the ship.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Picard to Enterprise.  Enterprise, please respond.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>Picard nods... then takes a deep breath, tries to orient himself to the task at hand... there's a lot at stake and a lot to do. He turns to Geordi.</context>
+      <utterance>It could be the radiation, Captain. Try from the surface.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Geordi takes a deep breath, it's a tall order.</context>
+      <utterance>Mister La Forge, listen very carefully. If you remember your history... in less than twenty- four hours, a Vulcan ship will be passing through this system. When it does, this ship needs to be in space, flying at warp speed.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>Geordi goes to work. Picard bends down and carefully hoists Cochrane up into a fireman's carry. Beverly follows him up the catwalk...</context>
+      <utterance>I'd better get started.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="9">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not the radiation... and there's nothing wrong with the combadges... the Enterprise just isn't responding.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jean-Luc, this man needs medical attention, now.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Picard looks troubled at the thought.</context>
+      <utterance>As I recall, the town of Resurrection is about two kilometers East of here. They might have a hospital...</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are we waiting for? Let's go.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It may not be that simple. This is an extremely difficult and paranoid time in human history.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you saying they won't help us?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm saying they might shoot us on sight. You have to remember... these people have watched their entire way of life collapse around them.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>even in this time.</context>
+      <utterance>There must be some good people...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Picard kneels down and they begin to carefully put Cochrane on the stretcher...</context>
+      <utterance>Let's hope so. Because if Cochrane dies... the future may die with him.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="10">
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have assigned two damage control teams to locate the source of our communication problems. So far, they've had no success.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>Worf nods and begins making notes on a PADD.</context>
+      <utterance>Assign another team if you need to. I want to re-establish communication with the Captain as soon as possible.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are we in any danger of being detected by Earth defense systems?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There were no planetary defense systems in this era. Their weapons were designed to fight each other... not extraterrestrials.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>Just then the ship SHUDDERS and the LIGHTS FLICKER.</context>
+      <utterance>We have to start thinking about a way to get home.  Analyze our readings from the temporal vortex. We're going to have to recreate whatever the Borg did to --</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Report.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context>An ALARM goes off on Worf's console. He reacts to it.</context>
+      <utterance>We just lost main power... and we've got Class-Three alerts all over the ship. I'm not sure what's --</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A ship-wide decompression has been initiated!</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're venting our internal atmosphere directly into space!</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="7">
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell is happening, Worf?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It appears that someone has taken over the Environmental Control Room.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Someone...?</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Borg. Some of them must've beamed over before we destroyed their ship.  Seal off that entire deck with emergency force fields.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wil... Data was down there.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mister Worf... find Data if you can, but your top priority is isolating the Borg.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>Worf heads for a Turbolift. OFF Riker's disturbed expression...</context>
+      <utterance>Understood.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="3">
+   <speaker>WOMAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But now... they are all one with the Borg.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am unlike any lifeform you have encountered before. As an android, I am in complete control of my neural net. The information contained there cannot be forcibly removed.</utterance>
+   <speaker>WOMAN'S VOICE</speaker>
+      <mode></mode>
+      <context>Suddenly three Borg drones converge on Data with various wicked-looking Borg devices. One of the Borg has a specialized cybernetic ARM, which EXTRUDES a series of stiletto-tipped DRILL SPIKES. As the six- inch spikes begin to BORE INTO Data's head...</context>
+      <utterance>You are an imperfect being... created by an imperfect being. Finding your weakness is only a matter of time.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="17">
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long has he been unconscious?</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>He checks Cochran's head injury as Beverly takes out her tricorder and scans him.</context>
+      <utterance>At least four hours.</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context>One of the nurses runs off.</context>
+      <utterance>It looks like he has a cranial fracture, but I'll need X-rays to be sure.  Get Ruby in here.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>He looks at her curiously.</context>
+      <utterance>He has a severe fracture of the left occipital plate. He's not hemorrhaging... but the radiation has damaged his KNA and his APR cell count...</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"APR cell count?" What the hell are you talking about?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doctor Crusher has been... studying some advanced medical theories.</utterance>
+   <speaker>NURSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is that?</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>The Doctor eyes it.</context>
+      <utterance>It's a... new medical scanner. It's a little more precise than an X-ray machine.</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it Japanese?</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Um... yeah.  Now he's going to need a respirator. Do you have one?</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have two... but we don't have the juice to run them.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Juice?</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Power. There hasn't been a lot of wind through here for the last couple of weeks. Most of the batteries are depleted.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>The Doctor throws her an irritated look.</context>
+      <utterance>Don't you have any generators, or other fuel sources?</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context>Cochrane wheezes -- breathing becoming labored and ragged. Beverly scans him, urgent.</context>
+      <utterance>Maybe you'd like to take your patient to the hospital in Bozemen... it's only two hundred miles away.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His automatic reflexes are fluctuating. We've got to get him on a respirator.</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context>The nurse picks up a portable respirator sack -- puts it on Cochrane's face and squeezes the bag, forcing air into Cochrane's lungs. Picard has been thinking through this scene, finally has a solution.</context>
+      <utterance>Bag him.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="5">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>She hands him her tricorder.</context>
+      <utterance>Beverly -- your tricorder.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's the battery room for the hospital?</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you, there's no --</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where?</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Outside, around back. Next to the water tank.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="5">
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you do to the batteries?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>How is he?</context>
+      <utterance>Oh... just a little tinkering.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's stable... for now.  But it would be better if we could contact... our friends.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. But until then, you'll have to make do with what you've got.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That'll be interesting.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="14">
+   <speaker>RUBY'S VOICE</speaker>
+      <mode></mode>
+      <context>Everyone turns.</context>
+      <utterance>What happened to him?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>She looks at him for a moment, her eyes boring into him without expression, as though probing the truthfulness of his statement.</context>
+      <utterance>There was some kind of explosion out at the missile silo...</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ruby, we're going to need a series of cranial X-rays tonight.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have a fresh set of plates at home. I'll have them here by eight. She turns back to Cochrane, moves to his side, gently takes his hand and looks at him with sad affection.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take care of him. He's a very special man.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>She looks up at Picard, and again there's a slight feeling of chemistry in the air. And then she turns and starts to walk out of the room. Picard's combadge BEEPS. Reactions.</context>
+      <utterance>Yes, he is.</utterance>
+   <speaker>GEORDI'S COM VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>La Forge to Picard.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think there's someone in your pants.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Picard takes a few steps away, pulls the combadge out of his pants pocket, taps it. Ruby watches him a beat, then walks out of the room.</context>
+      <utterance>Excuse me. I have a... telephone call.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Picard here.</utterance>
+   <speaker>GEORDI'S COM VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain, we have a problem. I think you'd better get back here.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Picard moves to Beverly.</context>
+      <utterance>I'm on my way. Picard out.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Will you be all right?</context>
+      <utterance>I have to go back to the silo.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>Beverly begins examining the medical equipment she'll have to work with as Picard exits...</context>
+      <utterance>I'll be fine.  He's a different story.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="12">
+   <speaker>MAN'S VOICE</speaker>
+      <mode></mode>
+      <context>Picard turns just in time to catch a small, metal canister with a screw-top. The man who threw it steps into view. It's LIEUTENANT SCRIMM. Scrimm is the head of the town's militia. While not a physically threatening man, there is a quietly disturbing quality about him which conveys an intelligence laced with a tightly reined volatility. He's wearing futuristic combat fatigues and always carries a sidearm. Before the war, Scrimm was probably one of the "survivalists" who used to be dismissed as radicals until their predictions of Armageddon came true. At the moment, Scrimm is presenting his friendliest face to Picard.</context>
+      <utterance>Catch.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context>Picard eyes the canister, not sure what to make of it.</context>
+      <utterance>Think you'll need that.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's no zone solution.  You know. "No ozone." He points to the sky.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Mister...?</context>
+      <utterance>Oh... yes... ultraviolet protection. Thank you.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lieutenant, actually. Lieutenant Jonathan Scrimm. I'm the head of the Resurrection Protective Force.  And you are?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jean-Luc Picard.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great name. French?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context>Scrimm is still smiling at him, but his eyes never leave Picard.</context>
+      <utterance>You don't sound French.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Picard begins to walk away, not wanting to engage any citizens of the town. Scrimm falls in next to him.</context>
+      <utterance>I was raised in England and here in the States. Thank you for the... no zone.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where in the States?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh... here and there. You know how it is.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="19">
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context>He casually steps in front of Picard, blocking his way.</context>
+      <utterance>Not really. I was born and raised right here. Never had much use for travel.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you from most recently?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>California. San Francisco.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Beautiful city. Used to be, anyway. I didn't think anyone still lived there.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Picard steps around him and continues walking down the street. Scrimm waits a beat, then walks after him again.</context>
+      <utterance>There's a few of us left.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context>How'd you do it?</context>
+      <utterance>That was a pretty clever trick you did with the hospital's batteries.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It wasn't a trick. I used to be an electrical engineer.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context>He steps in front of Picard again, still pleasant but a little bit of a smile fading from his face. Picard realizes he isn't going to shake this man so easily.</context>
+      <utterance>Huh.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And what were you doing out at the missile silo?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>I wanted to see how he was doing.</context>
+      <utterance>I'm an old friend of Cochrane's...</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lucky for him you came by when you did. He might be dead now.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you can tell me what he's been doing in that silo. We heard some explosions out there this morning...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Scrimm eyes him evenly.</context>
+      <utterance>I think he was running a test on an old rocket engine... and one of the fuel cells burst.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You seem to have an answer for everything.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Something wrong with that?</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context>A tense beat. Then Scrimm smiles easily.</context>
+      <utterance>Not yet.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context>He holds Picard's eyes for a moment.</context>
+      <utterance>Be sure you put that on. You need a lot of protection around here.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Now it's Picard's turn to smile pleasantly at Scrimm. Picard walks around him and heads for the gates. Scrimm watches him go with a thoughtful expression -- clearly, he's more than a little suspicious...</context>
+      <utterance>Thank you. But I've never had much trouble protecting myself.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="3">
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Worf to Bridge.</utterance>
+   <speaker>RIKER'S COM VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Riker here.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>The team continue to explore Deck 47. It's spooky, eerie, a sense of menace around every corner. They open doors, check room by room, section by section, still no sign of the Borg in the freezing cold darkness.</context>
+      <utterance>There's a dampening field in place on this deck. Our tricorders are useless.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="2">
+   <speaker>ENSIGN HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell is going on?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>Worf signals the team forward, and they slowly begin picking their way down the Borgified Corridor. It's not easy -- they have to choose their footing carefully as they walk through the maze of cables, circuits, and machinery... Ensign Hawk accidentally steps on some circuitry, which gives off a BEEP. The entire team suddenly whirls their lights and weapons on the unfortunate Ensign, who pales at their sudden attention. Worf looks irritated, then motions his team to continue their search. They continue making their way down the spooky corridor... and as they turn a corner...</context>
+      <utterance>Borg...</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="5">
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Worf to Bridge. We're about to enter the Environmental Control Room.</utterance>
+   <speaker>RIKER'S COM VOICE</speaker>
+      <mode></mode>
+      <context>As Work and Riker continue talking, we MOVE TO Ensign Hawk, who is now the last man in the formation, covering the rear. He's shining his phaser-beacon into the empty darkness. He can't help looking back over his shoulder at the rest of the team and the distant Environmental Control Room -- that seems to be where the action is. As he turns, his beacon moves with him, throwing the Corridor behind them in and out of darkness.</context>
+      <utterance>Any sign of Data, or the Borg themselves?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>Everyone looks around, surprised that he's not there. Everyone is alert, keyed up. The tension is thick. Utter silence, except for the hum of the machinery and the frosty breathing of the team.</context>
+      <utterance>Stand by, Commander  Where's Ensign Hawk?</utterance>
+   <speaker>RIKER'S COM VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Worf? Is something wrong?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>Worf gives hand signals for the team to move out. But just as they start to fall back, everything happens at once.</context>
+      <utterance>Something is very wrong, Commander. We're falling back.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="3">
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>But the Borg are already on top of them. It's a brutal fight in close quarters with no escape. Phasers and Borg lasers lighting up the corridor, bodies flying through the air... utter chaos and terror. The fight goes hand to hand and Worf sees that they don't have a chance...</context>
+      <utterance>Fire at will!</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>The team starts backpedaling, FIRING as they go...but the Borg are unstoppable now -- they put up personal force fields to protect themselves.</context>
+      <utterance>Fall back!</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>Worf pushes his men down the corridor. Everyone turns and RUNS like hell. Worf bends down and grabs a frightened Lieutenant by the collar, pulling him along.</context>
+      <utterance>Go, go, GO!</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="4">
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>The force field FLASHES into place. Worf and his team sit there a moment, catching their breath, stunned at what they've just been through.</context>
+      <utterance>Worf to Bridge -- force fields!</utterance>
+   <speaker>RIKER'S COM VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell happened down there, Worf?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Commander... we have a problem.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>OFF Worf's shaken expression...</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="8">
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cochrane was going to use this solid rocket booster to lift the ship into orbit. Before the warp drive took over... everything would depend on these old chemical engines.  Now here's the problem... They arrive at a point on the fuselage where we can see a large section of the engines have been BLASTED AWAY, leaving a deep, ugly SCAR -- broken conduit lines, wires that now lead to nothing. It's clear that a key piece of equipment has been destroyed.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This used to be the throttle valve assembly.  It controls the thrust of the engines. It's been completely vaporized... and without it, there's no way to launch the ship.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you reconstruct the throttle valve?</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah... if I knew what it looked like. There's probably five hundred ways to design a valve like this...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We need to launch this ship in under eighteen hours...  There must be some design schematics... blueprints...</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>They look at the damage in frustration.</context>
+      <utterance>We're tearing this place apart looking for them... but the computers are down, and the fires destroyed half the files...so far, nothing.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>Picard thinks, remembers something.</context>
+      <utterance>If it was just part of the warp drive, I'd know what to do. But this... it's like trying to rebuild Orville Wright's airplane with canvass and sticks.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute...</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="5">
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>Geordi points to a photo of the ship -- a worker is walking in front of the throttle assembly, blocking most of it from view.</context>
+      <utterance>Yeah, I looked at these already.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>Picard considers, absently sticks his hand in his jacket pocket. He pulls out the canister of balm Scrimm gave him and tosses it onto the table.</context>
+      <utterance>You can almost see the throttle assembly in this one... but this guy walked in front of it when they took the picture.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Geordi thinks it over.</context>
+      <utterance>Could you reconstruct the throttle from a photograph like this... if that man wasn't blocking the view?</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe...  Sure. Yeah. As long as I could get a clear look at the intake configuration. But so far, we haven't found any other photos.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If there are other photographs... I think I may know how to find them.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="8">
+   <speaker>WOMAN'S VOICE</speaker>
+      <mode></mode>
+      <context>Data stares at the murky ceiling.</context>
+      <utterance>Your resistance is... illogical. To us, your neural net is simply another piece of technology. We will learn its secrets.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>WOMAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am the Borg.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>There are no individuals.</context>
+      <utterance>That is a contradiction. The Borg act as a collective consciousness.</utterance>
+   <speaker>WOMAN'S VOICE</speaker>
+      <mode></mode>
+      <context>Out of the mist that hugs the top of the room DESCENDS the BORG QUEEN. She is unlike any of the Borg drones we've ever seen -- a humanoid female with conduits and tubes running out of her body. She has no legs. Her torso is SUSPENDED by a complex rig of CABLES and HYDRAULICS. Her face and upper-torso are much more humanoid, with the pasty- pale white of Borg flesh. Her EYES have a silvery glint to them. Her demeanor is seductive and sensual in contrast to the harsh, mechanical surroundings. She is an eerie blend of two worlds -- organic and mechanical. With the soft HISS of hydraulics, she LOWERS herself down to where her face is very close to that of Data's. Her features are almost angelic, but the silvery glint in her eyes betrays an inner-darkness.</context>
+      <utterance>I am the beginning... the end. I am the one who is many. I am the Borg.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are the guiding intelligence behind the Borg...?</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>She studies his face with a certain child-like quality.</context>
+      <utterance>Intelligence... ambition... desire... I bring order to chaos...</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's unfortunate we will have to destroy you to obtain the information we need. You are a... unique lifeform.  Synthetic... and yet far more than a simple automaton. You have no idea how close to perfection you are.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="7">
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>The Queen opens her arms slightly, clearly indicating herself.</context>
+      <utterance>How do you define perfection?</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>Data eyes her, considering.</context>
+      <utterance>A blending of the organic and the synthetic. The highest form of life in the galaxy.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>She looks at him as a new thought crosses her mind. She might've just found the chink in Data's armor.</context>
+      <utterance>An interesting definition. But it is not one that applies to me. I am completely artificial. I have no organic components.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you ever wondered what it's like to have flesh?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is impossible to imagine sensations for which I have no frame of reference.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She smiles.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>The Queen looks to the three Borg drones and gives them a silent command. The drones immediately stop working on Data's open panels... and shift their attention to his right ARM. One of the drones tears off the sleeve on Data's uniform, exposing his bare arm. Another then uses a small cutting device to SLICE OFF the synthetic skin from Data's arm. As Data prepares himself for the worst...</context>
+      <utterance>That... can change.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="2">
+   <speaker>GUARD #1</speaker>
+      <mode></mode>
+      <context>They make adjustments to their weapons just as the bulkhead doors EXPLODE INWARD in a blinding flash. The guards shield themselves against the fire and debris... looks up just in time to see the swift and lethal shapes of the BORG jumping through the smashed bulkhead, racing down the corridor toward them. The guards FIRE, and when they do the PHASER BLASTS alternate color -- red, blue, green, purple, orange -- a staccato of colors as the phasers shift frequency. The phaser blasts TAKE DOWN a few of the BORG... but then we see the distinctive PERSONAL FORCEFIELDS of the other Borg begin to compensate, and the phasers no longer affect them.</context>
+      <utterance>Set phasers to rotating modulation!</utterance>
+   <speaker>GUARD #1</speaker>
+      <mode></mode>
+      <context>They turn to run but BORG PHASER FIRE lances out from the Borg soldiers and RIPS them apart.</context>
+      <utterance>That's it, they've adjusted -- fall back!</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="3">
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>one Shuttlebay.</context>
+      <utterance>All right... we've lost control of eight decks... three Cargo Bays...</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do we have any idea how many Borg we're dealing with?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>including Commander Data.</context>
+      <utterance>We saw at least thirty...and there are twenty-two Enterprise crewmembers reported missing...</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="7">
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll have to assume they've been assimilated into the Collective.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Even Data?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Data's positronic net contains classified information on the Enterprise. Command codes, security protocols...</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>A grim beat.</context>
+      <utterance>If they control Data, they control the ship.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>They stare at the schematic.</context>
+      <utterance>We can't worry about that right now. Let's concentrate on what we can.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To control the Enterprise, they'll have to gain access to one of two locations. Main Engineering... or the Bridge.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>Worf nods and EXITS. As Riker and Troi exchange a tense look...</context>
+      <utterance>We have to cover both possibilities.  We'll take care of the Bridge. Worf, take your men and seal off Main Engineering. Turn it into a fortress -- nothing gets in.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="8">
+   <speaker>RUBY'S VOICE</speaker>
+      <mode></mode>
+      <context>Picard quickly shuts the door behind him, looks around the room. Ruby, who's working at a tray of chemicals, turns around in fury.</context>
+      <utterance>Shut that door!</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you, an idiot? Didn't you see the red light was on?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah... yes... but, I didn't realize that --</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>She pulls down a small pane of glass (probably from a window) out of a tub of water... holds it up to the light. And there on the glass is a X-RAY of a man's SKULL. Picard moves to her.</context>
+      <utterance>Thank God this plate was already fixed.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cochrane?</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes... and I only had enough silver halide for one shot. So you're lucky you didn't screw it up.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>She glances at him, sees he feels genuinely bad. She softens a little.</context>
+      <utterance>I'm very sorry.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>She picks up a rubber squeegee and carefully starts to dry off the pane of glass.</context>
+      <utterance>Don't worry about it.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="8">
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you need something?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>printed on some kind of fabric.</context>
+      <utterance>Yes... I wanted to ask you about some photographs I saw out at the silo. There were three of them...</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bed sheets.  I used my last set of bed sheets to make those prints. Not the best material, but I haven't seen a clean piece of paper in five years.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>The X-ray is now dry, and Ruby turns and looks at him.</context>
+      <utterance>Did you take any other pictures of the rocket?</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Why, did you want to buy them? Picard doesn't realize she was kidding -- jumps on the opportunity to get the photos.</context>
+      <utterance>Sure.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Ruby looks at him for a moment -- is he serious? She gives him a curious smile.</context>
+      <utterance>Yes. I don't have any money right now, but I may be able to get some.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Money." So you can get dome money...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can try.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="4">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No... but sometimes I feel that way.  What I meant was, I'd be willing to trade for the photographs.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Trade. Okay. The photographs... for a straight answer.  Who are you? And how do you know Zephram?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm an old friend... I met him when he was doing his undergraduate work at Cornell back in --</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Ruby walks past him with the X-ray...</context>
+      <utterance>'Fraid not.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="6">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're lying.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What makes you say that?</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not someone who lies very easily... so it's obvious when you do... at least to me.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>She stops, turns, looks at him.</context>
+      <utterance>Are you always sucha good judge of character?</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Ruby turns and walks off. Picard follows her, doggedly determined to get those photos...</context>
+      <utterance>Always.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="13">
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The occipital fracture is widening... we're going to have to fuse the bones...</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context>As Beverly and the Doctor examine the X-ray, we MOVE TO Ruby, who's looking down at Cochrane. He's still in bed and on a respirator. She smoothes his hair with affection. Picard stands on the other side of the bed, watching her.</context>
+      <utterance>I'm a little worried about some of these bone fragments. If they move any closer to the brain, we could be looking at a hemorrhage.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Were the two of you... involved?</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No... not like you and Doctor Crusher used to be.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Ruby looks at him with a smile.</context>
+      <utterance>How did you know about that?</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Her smile widens, and then she leaves the bed to join the Doctor and Beverly. Picard shakes his head and smiles after her -- chagrinned and amused at the same time.</context>
+      <utterance>I didn't.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can't take any more X-rays until I can mix up a new batch of the silver halide.</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you do it tonight? We may have to operate.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Ruby turns and heads for the door. Picard moves after her.</context>
+      <utterance>Sure. It'll be ready by morning.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ruby... I need to talk to you about those photographs. It's very important.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure it is. But it'll have to wait until tomorrow.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It can't wait until tomorrow...</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too bad.  Besides, it'll give you all night to think up a new set of lies. She flashes him that smile again, then darts out the door. Picard is left frustrated -- he knows that he can't let it go at that...</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="5">
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Double check each assault phaser... make certain that the range setting is no more than thirty meters. We don't want to blast through the hull. Worf turns and picks up his BAT'LETH SWORD off a nearby console. He checks the sharpness of the blade.</utterance>
+   <speaker>SECURITY OFFICER</speaker>
+      <mode></mode>
+      <context>sophisticated, sir?</context>
+      <utterance>Are you sure you don't want something a little more...</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>The Lieutenant decides not to pursue the matter and moves off. Worf makes a quick practiced motion with the sword... decides he's ready.</context>
+      <utterance>Mind your post, Lieutenant.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Riker to Engineering. Mister Worf...the Borg are approaching your position.</utterance>
+   <speaker>WORF'S COM VOICE</speaker>
+      <mode></mode>
+      <context>Riker and Troi watch as the DOTS move closer... closer...right up to the perimeter of Engineering. The dots begin surrounding Engineering -- which looks like it's being swarmed over by a sea of ants.</context>
+      <utterance>Understood. We're ready.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="2">
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're bypassing Engineering...</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>OFF the mystery...</context>
+      <utterance>Where the hell are they going?</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="7">
+   <speaker>BORG QUEEN'S VOICE</speaker>
+      <mode></mode>
+      <context>Data's eyes fly open, now awake. We PULL BACK revealing that Data is still strapped to the Borg operating table... his right arm and shoulder are encased in some kind of strange cybernetic SHELL, obscured from view. Clear tubes run out of the shell into Borg machinery -- liquid is coursing through the tubes. A couple of Borg drones are moving about the room, carrying out various tasks. There's been a change since we've been here last. There are now several Plexiglass CYLINDERS surrounding Data's table -- each of them filled with some kind of murky red fluid, which is swirling around. Every once in awhile, something that looks like RAW FLESH bumps up against the clear Plexiglass, then disappears again. We don't know what these tubes are for, but they're definitely creepy. Data takes all this in, but there is nothing he can do, he's still immobilized. Suddenly the table ROTATES and begins to MOVE up toward the mist and cabling at the top of the ceiling. It stops a few feet away... and Data finds himself face-to- face with the Borg Queen again.</context>
+      <utterance>Data...</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've taken your first step toward perfection. How does it feel?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I do not know what you are referring to.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>A WHOOSH of hydraulic power signals another movement by the Borg Queen. She slithers through the air and down slightly, so that she is on the same level as Data. She looks at the cybernetic shell that is encasing Data's right arm, which OPENS at her silent command and moves away... We can now see that all of the skin has been removed from Data's right arm, showing the INNER-WORKINGS of his android limb -- circuitry and servos, etc. But on the top of the mechanical forearm there is something new -- a small PATCH of HUMAN FLESH held in place with various nasty-looking hooks and clamps and small tubes carrying blood. It's a delicate, fragile piece of organic life on an ugly, mechanical surface. Data looks down at the patch of flesh with a little puzzlement.</context>
+      <utterance>That's because you haven't been properly... stimulated yet.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know what this is, Data?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It would appear that you are attempting to graft organic skin onto my endo-skeletal structure.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>She smiles slightly, utterly confident. She leans her face in close to Data's still immobilized right arm.</context>
+      <utterance>What a cold description... for such a beautiful gift.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="3">
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>Data can barely describe the sensation. But clearly, it was pleasurable.</context>
+      <utterance>Was that good for you?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>He looks at her.</context>
+      <utterance>It was... interesting.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>As she smiles...</context>
+      <utterance>Do it again... please.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="23">
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Picard glances down at the doorway, sees the flashing red light in the doorjamb. He's busted.</context>
+      <utterance>You should pay closer attention to those little red lights.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Picard glances at the photograph of himself.</context>
+      <utterance>You know, I'd be perfectly justified in shooting you right now.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd say you already have.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>She perches herself on the arm of a small couch, holds the gun loosely, but never taking the aim away from Picard.</context>
+      <utterance>Don't flatter yourself. I take pictures of a lot of junk.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, let's hear it. I'm sure you have a great explanation for why those rocket photos are so important you broke into my house.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're trying to repair Doctor Cochrane's ship. It's been damaged and --</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Myself... and a few other friends of Zephram's.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Friends from Cornell...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lie. That's one. Keep going.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A key piece of the ship has been destroyed... and our only hope to reconstruct it is if one of your photographs shows us what it looked like.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right. Truth. I believe that one. Why is it so urgent you couldn't wait until morning?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have to launch his ship by tomorrow afternoon.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Picard has to come up with something -- decides to throw her off with a high-tech explanation.</context>
+      <utterance>Or...?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Ruby eyes him evenly.</context>
+      <utterance>Or the shielding around the plutonium core will begin to deteriorate. Within a day, the entire silo will become so radioactive that no one will be able to come near it for a hundred years.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Picard is starting to get angry.</context>
+      <utterance>Lie. That's two. One more, and I pull the trigger.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you being so difficult? All I'm asking for is to look at one of the photographs. It'll take five minutes.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And all I'm asking for is the truth. That would take five minutes.  For all I know, you caused the explosions at the silo... and now you're trying to steal Zephram's ship.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Ruby's had enough -- her temper flares and she gets off the couch, takes a threatening step toward Picard.</context>
+      <utterance>I am not a thief...</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Picard jumps in with a quiet, forceful quality:</context>
+      <utterance>No, you're a petty burglar and a liar...  You're no friend of Zephram's. He is a great man. He's not like you or me or any of the other zombies walking around this town.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>She eyes him for a moment -- and we're not sure if his words have had any effect. Ruby still has her doubts, but decides to go with her gut...and finally hands him the photographs. Picard glances through them -- his expression tells us the photo he needs is in there.</context>
+      <utterance>No. He's a man with vision. He can see beyond the problems that surround us. He knows there's a better future out there for everyone... a future where crime, poverty and war are things of the past... a future where we reach out and seek our destiny in the stars.  I believe in that future, too, Ruby. I believe in it in every fiber of my being. And I'm telling you... if we don't launch that warp ship tomorrow, there's a very good chance that future will never happen.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>They share a look... and then Picard turns and walks off into the night. Ruby watches him go... and we can see on her face a confused jumble of mixed emotions. Something about that man has touched her...</context>
+      <utterance>You won't regret this.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="11">
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are they doing?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They appear to be modifying the deflector dish.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To do what? If they wanted a weapon, they could've taken over a phaser bank or torpedo bay...</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Deflector dish... why the deflector dish...?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>Riker stares at the screen... notices something.</context>
+      <utterance>It doesn't make sense. The deflector is only used for shielding and long range sensors...</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>The image on the Viewscreen ZOOMS IN to a specific point on the deflector dish, giving us a clear view of two Borg who have opened a gigantic panel on the dish. They appear top be modifying power conduits in some fashion.</context>
+      <utterance>Computer -- magnify grid twenty- one alpha.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're re-routing the deflector power conduits...</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>The image now is overlaid with an INFRARED VIEW of what they're doing. The power conduits are glowing bright red, very hot -- we can see the heat signature travel back behind the dish and connect to a corkscrew-shaped coil, which is pulsing.</context>
+      <utterance>Computer -- thermal enhancement.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're connecting the conduits to subspace communications...</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're converting the deflector dish into an antennae...</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They may be trying to send a message to the other Borg...the Borg in this time period...</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="11">
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What kind of message?</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If it was me... I'd say "attack Earth now... in the 21st century... they'll be too strong in the 24th." They think about this for a moment as they watch the Borg swarming on the deflector array.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have to stop them from sending that message.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Agreed. Options?</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Destroy the deflector dish.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context>Riker shakes his head.</context>
+      <utterance>Can we aim our dorsal phasers at it?</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>They think.</context>
+      <utterance>We've lost control of all weapons systems... Transporters are down... we can't get to a Shuttlecraft... and it would take us too long to fight our way down to deflector control...</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>Riker looks a little wary at the suggestion.</context>
+      <utterance>There is another way, Commander. Do you remember your zero-G combat training?</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I remember it made me sick.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you suggesting?</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>OFF their expressions...</context>
+      <utterance>I think Mister Worf is suggesting that we go outside for a little stroll...</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="2">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's you get the alloy for the throttle itself?</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They used copper pipes in their plumbing... so I melted it down... and fused it with some tritanium from one of our phaser casings.  It's not the strongest alloy... but it's better than all this crude aluminum and steel.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="3">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mister Lange -- have you brought the computer systems back on-line yet?</utterance>
+   <speaker>LANGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, Captain. This trinary language is pretty archaic... but I think I understand it now.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>As they speak, CAMERA MOVES in on the metal canister of lotion Picard set on the desk earlier...</context>
+      <utterance>Good.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="9">
+   <speaker>PICARD'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are we on schedule? The Vulcan ship will be here in less than two hours.</utterance>
+   <speaker>GEORDI'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It'll be tight, but we should make it.</utterance>
+   <speaker>PICARD'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about our warp signature? It has to be strong enough for them to detect.</utterance>
+   <speaker>GEORDI'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've enhanced the plasma injectors -- don't worry, they'll see it.</utterance>
+   <speaker>PICARD'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, with any luck... the Vulcans will land outside Resurrection tomorrow morning... and Earth will never be the same again.</utterance>
+   <speaker>PICARD'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Scrimm and his men listen with growing alarm -- it sounds like Picard is planning an invasion!</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>A console BUZZES. Lange moves to it, and activates a small color video MONITOR. It shows an external view of the MISSILE silo, just outside the hatch. Beverly can be seen standing nearby with a now conscious Zephram Cochrane.</context>
+      <utterance>All right. I'd better start familiarizing myself with the flight controls.</utterance>
+   <speaker>LANGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doctor Crusher's at the access hatch, Captain.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Lange hits a couple of buttons...</context>
+      <utterance>Let her in.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="10">
+   <speaker>COCHRANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me get this straight... you're from the future... I'm about to change history... and all I have to do is sit here and let you fly my ship?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>He studies their faces -- sees they're serious. He smiles a little ruefully.</context>
+      <utterance>That's right.</utterance>
+   <speaker>COCHRANE</speaker>
+      <mode></mode>
+      <context>Picard smiles.</context>
+      <utterance>And people say I'm crazy...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Cochrane considers them...finally nods, what the hell.</context>
+      <utterance>I assure you, Doctor, that after today... no one will ever call you that again.</utterance>
+   <speaker>COCHRANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just do me a favor... bring my ship back in one piece.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Picard turns and walks off with Beverly. Geordi moves to Cochrane with a little bit of awe.</context>
+      <utterance>That's a promise.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>Cochrane is touched by Geordi's obvious respect. They shake hands.</context>
+      <utterance>Doctor... my name is Geordi La Forge. I'm an engineer. Can I shake your hand?</utterance>
+   <speaker>COCHRANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wish I could go with you. Is there anything I can do to help?</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not really... but I do have about a thousand questions I've always wanted to ask you.</utterance>
+   <speaker>COCHRANE</speaker>
+      <mode></mode>
+      <context>Geordi smiles...</context>
+      <utterance>Since time is short... why don't you pick the top ten and fire away?</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="16">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You actually performed surgery...?</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>She looks up with a smile, pulls a small DEVICE out of the medkit -- a surgical transporter.</context>
+      <utterance>It was an experience. Metal scalpels... needle and thread...</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I had a little help. Surgical transporter. I used it to beam out most of the bone fragments from his brain.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did Doctor Almack react to that?</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was so confused by what I was doing, I don't think he even noticed.  Any word from the Enterprise?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not yet.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think they're still up there?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If they're not... we'd better get used to living in Montana.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>She's kidding, but Picard is a little defensive.</context>
+      <utterance>That might not be so bad... at least for you.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>There is no animosity or hint of jealousy in Beverly's attitude, she's simply making an observation about someone she cares about.</context>
+      <utterance>What's that supposed to mean?</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>Picard doesn't want to argue about this -- to him, it's a pointless conversation.</context>
+      <utterance>I saw the way you looker at her... and I know that look.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Regardless of how I may feel about Ruby... our fates lie along different paths. Nothing can change that.</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want some advice? Don't do this again.  You know exactly what I mean.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Beverly, there were many reasons why you and I...</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>She holds his look for a moment.</context>
+      <utterance>I'd call them excuses. And the first excuse on both our lists was our "sense of duty." We convinced ourselves that it was more important than anything else. And you know what? It's not.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Picard turns and leaves. Beverly watches him go... wondering whether her words had any affect...</context>
+      <utterance>I have a ship to launch.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="2">
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you feel?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Different.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="10">
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My internal sensors tell me the ambient temperature in the room is ten point two degrees Celsius...  But my</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're not your friends... they've held you back... kept you from your destiny...</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That is not true. They have tried to help me.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have they given you what I have given you? Did they even try?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>But his words have a certain hollow quality to them. He is no longer as convinced as he was before and the Borg Queen notes this immediately. She reaches out with a hand and gently strokes Data's cheek.</context>
+      <utterance>I... do not want this...</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're becoming more human all the time, Data. Now you're learning how to lie.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wish to... go back to the way I was.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>She SLAPS him hard across the face. Data feels the</context>
+      <utterance>More lies.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My creator did not intend for me to experience these things.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>She rubs her body against his, cat-like... then pulls him to her and kisses him deeply. Off the image of their bizarre embrace...</context>
+      <utterance>I'm your creator now.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="4">
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess I'd better get it right the first time.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Borg will undoubtedly attack. Set phasers to rotating modulation. The Security Officers check their phasers and wait as Riker and Worf finish putting on their suits. Riker straps a tool case to his suit.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>Everyone nods. Riker goes to a wall panel and activates the control. The Airlock door seen earlier OPENS. Riker turns back to Troi.</context>
+      <utterance>Ready?</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context>Riker nods. Then he, Worf, and the Guards ENTER the airlock and Troi close the door behind them.</context>
+      <utterance>Good luck.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="5">
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you alright?</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just a little queasy...</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>keep your eyes on the ship.</context>
+      <utterance>Try not to look at the stars...</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>do</context>
+      <utterance>And Commander, whatever you do...</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="2">
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Worf! I'm going to need at least five minutes!</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>Worf and his team lie down on the hull and begin exchanging fire with the approaching mass of Borg. They pick off a few Borg, who also go FLYING into space. As Riker begins to work...</context>
+      <utterance>Understood!</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="5">
+   <speaker>GEORDI'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>ATR setting...</utterance>
+   <speaker>PICARD'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Active.</utterance>
+   <speaker>GEORDI'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Main bus...</utterance>
+   <speaker>PICARD'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ready.</utterance>
+   <speaker>GEORDI'S VOICE</speaker>
+      <mode></mode>
+      <context>-- The Phoenix ENGINES at the base of the ship begin spewing nitrogen gas.</context>
+      <utterance>Initiate pre-ignition sequence.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="4">
+   <speaker>GEORDI'S COM VOICE</speaker>
+      <mode></mode>
+      <context>Going to internal power.</context>
+      <utterance>Pre-ignition sequence complete.</utterance>
+   <speaker>LANGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Acknowledged, Phoenix. You're on internal power and ready for lift- off.</utterance>
+   <speaker>GEORDI'S COM VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Final launch sequence checks... complete. Ready to begin final countdown.</utterance>
+   <speaker>LANGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Understood. Begin five minute countdown on your mark.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="3">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ready to make a little history?</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Always am.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>A few monitors in the cockpit indicate that the countdown is underway.</context>
+      <utterance>Phoenix to control.  Initiating five minute countdown... mark.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="6">
+   <speaker>LANGE'S COM VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want me to do, sir?</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can't let her in... she'll see Cochrane isn't making the flight.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can't leave her out there. When the ship launches... she'll be killed.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell her to go back to Resurrection.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's a very... determined woman.  Phoenix to control. Mister Lange... let her in.</utterance>
+   <speaker>LANGE'S COM VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, sir.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="5">
+   <speaker>COM OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Borg are charging the subspace emitters.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long until they can send a message?</utterance>
+   <speaker>COM OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About seven or eight minutes.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Computer -- this is Commander Deanna Troi. Initiate self- destruct in six minutes, thirty seconds. Authorization Troi, gamma six five. Enable.</utterance>
+   <speaker>COMPUTER VOICE</speaker>
+      <mode></mode>
+      <context>Monitors all around the Bridge show the countdown.</context>
+      <utterance>Countdown underway. Self-destruct in six minutes, twenty-five seconds...</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="6">
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No good, sir. They're on internal power. We can't stop the launch from here.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about these doors?</utterance>
+   <speaker>PRIVATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're locked down tight from the inside.</utterance>
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context>Scrimm looks frustrated for a moment...then turns his attention to Ruby.</context>
+      <utterance>And those doors were made to withstand a nuclear attack.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One minute to launch.</utterance>
+   <speaker>SCRIMM'S COM VOICE</speaker>
+      <mode></mode>
+      <context>As Picard reacts in shock...</context>
+      <utterance>Mister Picard... this is Lieutenant Scrimm. I'm going to have to insist that you shut down the launch. You see, I know what you're doing... and I'm not going to just stand by and let it happen.  Stop the launch, or I'll kill every one of your people out here... and I think you know who'll be first.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="2">
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context>Ruby is scared, but trying to keep it together.</context>
+      <utterance>Say hello...</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>(beat)</context>
+      <utterance>Jean-Luc... remember that future we talked about? It's all that matters...</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="3">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is Picard. I've suspended the launch sequence.</utterance>
+   <speaker>SCRIMM'S COM VOICE</speaker>
+      <mode></mode>
+      <context>Picard unstraps himself and takes off the headset.</context>
+      <utterance>Thanks. Now, why don't you join us and we'll have a little talk?</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain... we've got less than ten minutes before that Vulcan ship leaves the system. We've got to go</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="4">
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No... the door's too thick.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then we'll just have to assume it's still there...</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's still there?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Geordi moves off. Clearly, Picard has a plan...</context>
+      <utterance>Get a tricorder. You're going to have to track my exact position in that room...</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="4">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want?</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The invasion plans.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Invasion.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These people you're calling "Vulcans"... who are they? Where do they come from? How many troops? What kind of weapons?</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="2">
+   <speaker>ENSIGN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tractor beam engaged. We've got 'em, Commander.</utterance>
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context>As the tractor beam from the Enterprise SPLITS in two and separates Riker from the Borg. The second beam disappears, throwing the Borg off into space, while Riker is towed back toward the hull of the ship.</context>
+      <utterance>Prismify the beam. Get rid of that Borg. 186 EXT. SPACE - RIKER &amp; BORG 186</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="3">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There is no invasion...</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context>He shoves his gun against Ruby's head. The tension rises a notch.</context>
+      <utterance>Wrong answer, Mister Picard. Try again.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right. You want the truth...  The Vulcans... are highly intelligent aliens.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="8">
+   <speaker>SCRIMM'S COM VOICE</speaker>
+      <mode></mode>
+      <context>The tricorder BEEPS and he smiles...</context>
+      <utterance>Aliens... that's what I thought. From where... Canada?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>From another planet.  Oh, I almost forgot... they have green blood and pointed ears.</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you know all this... because</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context>Scrimm cocks back the hammer on the pistol he's holding to Ruby's head. The following happens</context>
+      <utterance>You're an entertaining man, Mister Picard. But you're also full of shit.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Actually,</utterance>
+   <speaker>SCRIMM</speaker>
+      <mode></mode>
+      <context>The other militia soldiers drop their weapons, which are quickly picked up by Beverly and a Starfleet N.D. Picard hands his gun to Lange, who covers Scrimm with it. Ruby turns to Picard.</context>
+      <utterance>Weapons... down.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Ruby throws her arms around him and pulls him close. He hugs her back, grateful she's alive. Ruby pulls away.</context>
+      <utterance>Are you all --</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Picard smiles and heads back toward the Phoenix...</context>
+      <utterance>I think you have a plane to catch.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="6">
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Solid rocket fuel at twenty-five thousand kilograms...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Altitude fifty kilometers...</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Entering the upper ionospere...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a red light on the second intake valve.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ignore it. We'll be fine.  Prepare for first stage shut-down and separation on my mark...</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three... two... one... mark!</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="12">
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>Data, although clearly enraptured with his new sensations and feelings still struggles to maintain his own sense of identity.</context>
+      <utterance>A Borg in all but name.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am... grateful for what you have given me. But I still do not wish to be assimilated.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>To his surprise, Data finds that he is becoming drawn to this strange creature and all that she can offer him.</context>
+      <utterance>A universe of sensation is waiting for you... don't you want to explore it... with me?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes...</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>He struggles, but ultimately there's only one answer.</context>
+      <utterance>Then take the final step... give me the Enterprise... and we can be together... always.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>Without taking her eyes away from Data, she reaches out a hand and touches a control on a nearby console. The color of Data's FACE turns an ASHEN GRAY -- as though the blood has drained from his skin. Another droplet of moisture falls and hits him on the cheek -- but this time his eyes widen in shock. The sensation of human feeling is gone.</context>
+      <utterance>No... I cannot.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've deactivated the sensory inputs. That flesh on your body is just meat, now.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>She moves in close on him, an edge creeping into her voice:</context>
+      <utterance>No... no, please... you cannot...</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>She hits the control, and the COLOR returns to his face. Data gasps -- filled with</context>
+      <utterance>You must give me what I want... now. Without the deflector dish, we can no longer send for an early invasion. We must assimilate Earth ourselves. I need this ship.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes... but the Enterprise... my duty...</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>She touches the control again. Data is</context>
+      <utterance>... is to yourself. Don't make me hurt you again...</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>Data struggles, anguished... we've never seen him like this before... completely beaten down... finally, he nods. The Borg Queen touches the control again. A sharp intake of breath as the feeling returns to Data. And the Queen</context>
+      <utterance>And I need to control this ship. Let me into your mind.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="2">
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ready to deploy the warp nacelles.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Geordi works his console...</context>
+      <utterance>As they used to say... all systems are go.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="3">
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Vulcans should be out there right now. We need to break the warp barrier in the next five minutes if we're going to get their attention.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bring the warp core on-line. I'll lay in a heading.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The nacelles are charged... nuclear warhead standing by. We're ready to ignite the warp drive.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="2">
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>Picard activates a monitor which begins showing a digital display of their speed.</context>
+      <utterance>Warp field looks good... structural integrity holding...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Speed... twenty thousand kilometers per second.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="5">
+   <speaker>TROI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have to admit there was a moment there when --</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>He turns away and then doubles over behind a console and begins vomiting off screen. Worf shrugs.</context>
+      <utterance>Hold that thought.</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context>A light beat, and then suddenly the entire Bridge GOES DARK -- ALL POWER GONE. Console, monitors, everything.</context>
+      <utterance>Strong heart. Weak stomach.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Report!</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've lost Bridge control!</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="2">
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Emergency override!</utterance>
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="2">
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>Data nods... but then one of the consoles BEEPS.</context>
+      <utterance>Eliminate their remaining defenses. I will send Borg to assimilate the rest of the crew.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There is a perimeter alert. A ship has entered sensor range.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="2">
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Vulcan?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>Data tilts his head and --</context>
+      <utterance>No.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="6">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Passing one-half light speed. The starboard nacelle's running a little hot...</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>The CABIN shakes a little.</context>
+      <utterance>I'm on it...</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The inertial dampers are having trouble compensating... I don't think Cochrane built this thing for comfort.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>WHOOSH! A weird DISTORTION passes through the cabin like a wave, then vanishes.</context>
+      <utterance>Speed -- two hundred, seventy-five thousand kilometers per second.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's no temporal shielding in here! We're starting to pick up relativistic effects!</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One minute to warp threshold...</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="4">
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain, the Enterprise!</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>No response.</context>
+      <utterance>Picard to Enterprise.  Picard to Enterprise -- do you read me?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Their com system must still be down.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I feel a whole lot better with them out there. We may need some help.</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="5">
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>A floating CROSSHAIR appears on the monitor showing the warp ship. The Queen works the console. The crosshair moves, but refuses to lock onto the warp ship. She frowns.</context>
+      <utterance>I have repaired the weapons array. Phasers are on-line.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>Data looks puzzled.</context>
+      <utterance>The targeting lock isn't working.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>The Queen works furiously, still can't get the crosshairs to lock onto the ship.</context>
+      <utterance>I do not understand. The optical data network has been repaired, and all systems are functioning.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your diagnostics are in error. I need weapons.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The problem must lie in the interface between Starfleet and Borg technology. Your console may not be configured to handle the data flow.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="3">
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you configure it?</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I believe so.</utterance>
+   <speaker>BORG QUEEN</speaker>
+      <mode></mode>
+      <context>She hits a series of Borg controls on a nearby console... and the restraints holding Data to the table are RELEASED. Two Borg drones move to him... as he stands up and heads for the Queen, the specialized cable still attached to his head...</context>
+      <utterance>Do it.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="2">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Geordi glances out a side window.</context>
+      <utterance>Approaching light speed...</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>what the hell are they doing?</context>
+      <utterance>They're getting awfully close...</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="3">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>A beat as Geordi works.</context>
+      <utterance>Bring us about...</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>Out the front windows, the warp stars STOP... the ship JOLTS slightly... turns to the left... Earth can be seen in the distance. They smile. It's a moment of victory.</context>
+      <utterance>Dropping out of warp.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's begin the landing procedure.</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="4">
+   <speaker>PICARD'S VOICE</speaker>
+      <mode></mode>
+      <context>Everyone looks up to see --</context>
+      <utterance>Isn't anyone going to say welcome back?</utterance>
+   <speaker>BEVERLY</speaker>
+      <mode></mode>
+      <context>Picard nods. Beverly, Lange and the N.D. look relieved. Ruby takes a few steps toward Picard.</context>
+      <utterance>Did it work?</utterance>
+   <speaker>COCHRANE</speaker>
+      <mode></mode>
+      <context>Geordi smiles and walks over to him.</context>
+      <utterance>Mister La Forge... now I'd like to shake your hand.</utterance>
+   <speaker>PICARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Captain's log, March 3rd, 2063. The voyage of the Phoenix was a success... again.</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="6">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Cochrane looks a little bewildered, tries to grapple with the moment.</context>
+      <utterance>Doctor Cochrane... this is your moment.</utterance>
+   <speaker>COCHRANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My God... they're really from another world?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Cochrane looks at him.</context>
+      <utterance>That's right. And they're going to want to meet the man who flew that warp ship.</utterance>
+   <speaker>COCHRANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And that's supposed to be me...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Cochrane looks at him for a moment... takes a breath, nods...</context>
+      <utterance>Zephram, you had the vision to build that ship when no one else on this planet could see beyond their own problems.  You flew that ship... all I did was push a few buttons.</utterance>
+   <speaker>COCHRANE</speaker>
+      <mode></mode>
+      <context>They hear a mechanical WHIRR and a HISS of air.</context>
+      <utterance>All right.  And don't worry -- I'll keep your secret.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="2">
+   <speaker>VULCAN</speaker>
+      <mode></mode>
+      <context>Cochrane tries to emulate the Vulcan hand-sign...but can't quite do the awkward finger-split.</context>
+      <utterance>Live Long and Prosper.</utterance>
+   <speaker>COCHRANE</speaker>
+      <mode></mode>
+      <context>The Vulcan cocks an eyebrow at him. The very first Alien-Human relationship is underway...</context>
+      <utterance>Um... thanks.</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="17">
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're leaving, aren't you?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have to...</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where? And don't tell me San Francisco...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. It's a lot further than that.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the future, isn't it? Just like you told Scrimm.  I knew you weren't from around here.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No... I'm from France.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't care if you're from France or Venus... just take me with you.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's impossible.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This may be hard for you to understand... but I'm duty-bound not to interfere with you, or anyone else here... any more than is absolutely necessary.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Picard struggles... he doesn't want to do this, but he's torn between his heart and his duty.</context>
+      <utterance>You've been interfering with my life ever since I met you.  Don't stop now.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>A long, difficult moment... then he lets her go... turns and starts walking off into the night. She stands where she is, watching him go with tears in her eyes... Picard hits his combadge.</context>
+      <utterance>Ruby... I'm sorry.  But our fates lie along different paths.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>He stops where he is.</context>
+      <utterance>Picard to Enterprise. One to...</utterance>
+   <speaker>RIKER'S COM VOICE</speaker>
+      <mode></mode>
+      <context>Picard turns, looks back at Ruby. Their eyes meet... and he makes the decision.</context>
+      <utterance>Riker here. Captain, we didn't get your whole transmission.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To hell with fate.</utterance>
+   <speaker>RIKER'S COM VOICE</speaker>
+      <mode></mode>
+      <context>He starts walking towards her. She sees him coming... starts running to him. She throws herself into his arms and he holds her close. They kiss. A magical moment, then...</context>
+      <utterance>Say again, Captain?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>They DEMATERIALIZE holding each other tight...</context>
+      <utterance>Enterprise. Two to beam up.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="7">
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Riker glances at Ruby uneasily.</context>
+      <utterance>How's Mister Data?</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>He glances at Ruby again, awkward. But Picard finishes his thought.</context>
+      <utterance>He's in Sickbay. Doctor Crusher says he can be repaired... but we have to wait until we...</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Return to our own time?</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context>Picard sits in his chair. Riker hesitates.</context>
+      <utterance>Then make it so. Have you determined how to recreate the temporal vortex?</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir. But Captain... are we... all going back?</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Unless you'd like to stay.</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="2">
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context>Ruby stands stock-still, staring at Worf. Worf looks up at her with a Klingon smile -- teeth and all. Ruby manages a weak smile in return, then moves off to stand next to Picard.</context>
+      <utterance>No, sir.</utterance>
+   <speaker>RIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bridge to Engineering. Mister La Forge... initiate the temporal vortex.</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="7">
+   <speaker>WORF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Incoming transmission from Starfleet Command. Admiral Hayes.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Onscreen.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Admiral... what's the status of the Borg fleet?</utterance>
+   <speaker>ADMIRAL HAYES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's been destroyed. The Borg threat is over.  Are you all right? The Enterprise disappeared from our sensors for a moment.</utterance>
+   <speaker>PICARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're fine, sir. It will take some... time to explain.</utterance>
+   <speaker>ADMIRAL HAYES</speaker>
+      <mode></mode>
+      <context>The transmission ends. Ruby turns to Picard with amazement.</context>
+      <utterance>I look forward to reading your report.</utterance>
+   <speaker>RUBY</speaker>
+      <mode></mode>
+      <context>Picard gives her a gentle smile. OFF the moment...</context>
+      <utterance>That makes two of us.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="10">
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>The N.D.s move off, making notes on their PADDS. Geordi turns and sees Data standing in the doorway. He's now been fully restored to his original android self.</context>
+      <utterance>No, no -- we'll have to rip out this entire bulkhead. We'll need new bracing members for the deck above and below.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>Geordi moves to him, puts a hand on his shoulder.</context>
+      <utterance>Data...</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You look good as new.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could say that I'm back to my old self.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>Geordi's smile fades a little as Data walks into the room.</context>
+      <utterance>That's great.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>Geordi points over to a corner, where some N.D.s are about to close a storage container. Data walks over. Geordi goes with him. The N.D.s move aside, and Data looks down into the storage container. The broken, mangles pieces of machinery are all that's left of the Borg Queen.</context>
+      <utterance>Her remains... are they still here?</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>Data stares down at the remains with a haunted look.</context>
+      <utterance>I'm sending them to the Daystrom Institute for analysis.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I never realized how powerful an emotion temptation could be.</utterance>
+   <speaker>GEORDI</speaker>
+      <mode></mode>
+      <context>A quiet beat.</context>
+      <utterance>Temptation? You said in your report it was all a ruse... you were manipulating her.</utterance>
+   <speaker>DATA</speaker>
+      <mode></mode>
+      <context>Geordi smiles a little.</context>
+      <utterance>She was... a unique lifeform. In her own way... nearly perfect.</utterance>
+</dialogue>
+
+
+</movie>

@@ -1,0 +1,3523 @@
+<movie id="272" title="Hesher">
+
+<dialogue id="1" n_utterances="6">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This car has to go back.</utterance>
+   <speaker>TOW TRUCK DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Huh?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This car has to go back to where it came from. Put it back on the truck.</utterance>
+   <speaker>TOW TRUCK DRIVER</speaker>
+      <mode></mode>
+      <context>The driver continues working, unhooking the car from the truck.</context>
+      <utterance>What are you talking about, kid?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop unhooking it. There's been a mistake.</utterance>
+   <speaker>TOW TRUCK DRIVER</speaker>
+      <mode></mode>
+      <context>The driver nods in the direction of LARRY TOWERS, who is approaching with 17 year-old DUSTIN HOWARD and another man, TONY, in dirty overalls.</context>
+      <utterance>I was told to bring it here. That's what it says on my work order. Talk to that guy if you've got a problem.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="11">
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context>Larry shakes the tow truck driver's hand.</context>
+      <utterance>Hey, Bill.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This car has to go back where it came from.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I beg your pardon?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was brought here by mistake. Larry smiles at the little out-of-breath kid.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And where was it supposed to go?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It wasn't supposed to go anywhere. It needs to go back where it came from. The guy who sold it to you made a mistake.</utterance>
+   <speaker>LARRY</speaker>
+      <mode>TO TONY</mode>
+      <context>Tony flips through a stack of papers he's holding.</context>
+      <utterance>What's the deal with this car again, Tony?</utterance>
+   <speaker>TONY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah let's see, we bought this car yesterday afternoon from a Paul Forney-</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's my dad. It wasn't his to sell.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it's his name on the pink slip, son. And that means it's his to sell if he wants.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but I'm just telling you it was a mistake, OK, so it needs to go back where it came from.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="8">
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Bill.</utterance>
+   <speaker>LARRY</speaker>
+      <mode>TO TONY</mode>
+      <context>Tony looks through his papers for the work order. TJ doesn't like being ignored. He moves around to the driver's side of the wrecked car and wrenches open the bashed-in door. He climbs behind the wheel, slams the door shut and locks the door.</context>
+      <utterance>You got that work order there?</utterance>
+   <speaker>LARRY</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ ignores him. Larry doesn't have time for this.</context>
+      <utterance>Get out of the car, son.</utterance>
+   <speaker>LARRY</speaker>
+      <mode>CONT'D</mode>
+      <context>Dustin moves around to the open driver's side window.</context>
+      <utterance>Dustin, get him outta there, will ya?</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context>TJ turns the key and begins winding the window up. Dustin reaches in trying to unlock the door.</context>
+      <utterance>Come on dude, get out of the car.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode>CONT'D</mode>
+      <context>The window is rising. Dustin grabs at TJ. TJ keeps winding the window. It gets to the top, trapping Dustin's arm.</context>
+      <utterance>C'mon. Open it.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode>CONT'D</mode>
+      <context>Dustin is stuck. Larry, Bill and Tony laugh. Dustin yells at TJ. TJ ignores him, staring straight ahead. The men laugh some more. Dustin's humiliation sets in.</context>
+      <utterance>Ow, fuck. What the fuck you doing? Open it.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode>CONT'D</mode>
+      <context>Larry goes around to the passenger's side broken window and opens the door. He leans in and easily drags TJ out of the car.</context>
+      <utterance>Put down the fuckin' window. I'm serious.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="9">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's still plenty of applesauce boys.</utterance>
+   <speaker>TJ</speaker>
+      <mode>TO DAD</mode>
+      <context></context>
+      <utterance>I don't get why what I think doesn't matter.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It couldn't stay in the front of the house anymore, TJ. I'm not having this conversation again.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, why not?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's there everyday and I have to look at it.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When do you look at it? When was the last time you got off the couch?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not healthy.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Neither are all the pills you're taking, but I don't tell you not to take them.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't wanna talk about it anymore.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="5">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I do.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>TJ fumes. They eat in silence a bit more. TJ drops his fork and leaves the table, angry.</context>
+      <utterance>I don't. And that's it.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>Dad is a mess.</context>
+      <utterance>It's OK dear. He just needs time. It's his first day back tomorrow. Lets try and be patient.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>One thing at a time dear. One thing at a time.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Grandma nods quietly.</context>
+      <utterance>Yeah, I know, mom.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="2">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I have some money so I can buy lunch today?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Dad sits up on the couch, he looks a total mess. Dad pick up his wallet from the mess of a coffee table and hands TJ a few dollars.</context>
+      <utterance>Yeah.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="6">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The fuck you think you're doing!?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got five seconds or I'm gonna cut your fuckin' nose off.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher stares intimidatingly at TJ. TJ looks seriously scared.</context>
+      <utterance>I was just, I was just going to school. I, I didn't know anyone was here.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher is suddenly startled. His ears prick up like a rabbit. He hits the deck dragging TJ down with him. Their faces are close together. Hesher makes a very serious finger-to-mouth gesture to 'shhhh'. The SOUND of a car idling outside. Hesher listens. TJ is on his stomach, freaked. TJ looks around the room - a duffel bag, some beer cans, a few porn magazines, a weathered bass guitar and a sleeping bag. A car door closes loudly. Hesher peers through the window and sees a SECURITY GUARD inspecting TJ's bike in the front yard and then making his way toward the house. Hesher looks at TJ with serious and considered venom.</context>
+      <utterance>Bullshit. You're gonna fuckin' -</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher snaps into action. With speed and precision he gathers his stuff together. He shoves it all his duffel bag.</context>
+      <utterance>You just fucked me.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="2">
+   <speaker>SECURITY GUARD</speaker>
+      <mode>O.S. - CONT'D</mode>
+      <context>BOOM! Dirt sprays against the house and pours in through the window. TJ cowers, then hears the guttural roar of a van starting up. He hears the van screech away.</context>
+      <utterance>What the hell-</utterance>
+   <speaker>SECURITY GUARD</speaker>
+      <mode>O.S. - CONT'D</mode>
+      <context>TJ jumps to his feet and looks out the window. A dirty black van screams out onto the road and tears away, spraying dirt and rocks in its wake. The security guard stumbles around, covered in dirt and disoriented. He rushes back to his car and gives chase. TJ lets them get away up the street, then bolts to the front door.</context>
+      <utterance>Hey! Get back here!</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="11">
+   <speaker>KID 2</speaker>
+      <mode></mode>
+      <context>TJ nods, despondent, putting books into his backpack.</context>
+      <utterance>Hey, Teej. Welcome back, man.</utterance>
+   <speaker>KID 2</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>How you feeling, man?</utterance>
+   <speaker>TJ</speaker>
+      <mode>UNENTHUSIASTIC</mode>
+      <context></context>
+      <utterance>Fine.</utterance>
+   <speaker>KID 2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came by your house a while ago, see if you wanted to come skateboarding or something, but it looked like the place was empty. Have you moved or something?</utterance>
+   <speaker>KID 1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I tried calling you a bunch of times, but it kept saying there was a new number or something.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, we moved in with my Grandma for a little while.</utterance>
+   <speaker>KID 1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh OK, cool... I didn't want to call cause I didn't know.  You want some of my bagel?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Awkward beat. TJ doesn't want to make chit-chat. People are already making him feel weird.</context>
+      <utterance>No. Thanks.</utterance>
+   <speaker>KID 1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, can I be the first one to sign your cast?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, if you want I guess, but I'm getting it off tomorrow, so there's no point really.</utterance>
+   <speaker>KID 1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>OK, cool. Well, welcome back, man.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="3">
+   <speaker>MRS ELSBERRY</speaker>
+      <mode></mode>
+      <context>Edgerton? Fletcher?</context>
+      <utterance>Cerisola? Cimino? Cody? Cooper? Early?</utterance>
+   <speaker>MRS ELSBERRY</speaker>
+      <mode>LIGHTENS</mode>
+      <context>TJ gives a half hearted nod. The class turns to look at him. A couple whisper. TJ looks away. The teacher continues taking roll.</context>
+      <utterance>Forney. TJ Forney's back. Welcome back, TJ.</utterance>
+   <speaker>MRS ELSBERRY</speaker>
+      <mode>CONT'D</mode>
+      <context>Kelman?</context>
+      <utterance>Folks? Fullwood? Greenberg? Herriman?</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="9">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leave me alone.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context>Dustin slams him again. TJ stays put.</context>
+      <utterance>How about you suck my cock?</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ tries to walk. Dustin slams him.</context>
+      <utterance>Huh? Suck my cock.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ tries to leave again, Dustin pushes him again.</context>
+      <utterance>Suck my cock.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Suck my cock.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, yeah, I heard you. Suck your cock. Then why don't you pull it out?</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context>TJ tries to walk away. Dustin grabs him and throws him down.</context>
+      <utterance>What'd you say, bitch?</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ squirms trying to free himself, kicking wildly. One of TJ's kicks catches Dustin. Dustin punches him. A crowd quickly gathers.</context>
+      <utterance>Don't fuckin' talk back to me.</utterance>
+   <speaker>KIDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fight, fight, fight...</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="10">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't start anything. He pushed me.</utterance>
+   <speaker>COUNSELLOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What he did or didn't do isn't important. What's important is what you do, and how you react. Do you understand?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not really.</utterance>
+   <speaker>COUNSELLOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which part don't you understand?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>The counsellor cuts him off.</context>
+      <utterance>I don't understand the part about how it's not important that he pushed me and he punched me and he kicked me and he told me to suck his cock and now I'm the bad guy sitting in the office.</utterance>
+   <speaker>COUNSELLOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, hey, hey. I do not wanna hear that kind of language in my office.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but I didn't -</utterance>
+   <speaker>COUNSELLOR</speaker>
+      <mode></mode>
+      <context>TJ shakes his head. He gives up on this conversation. He looks out the window. Hesher is out there - smoking and watching. TJ is suddenly unnerved.</context>
+      <utterance>Listen, I'm gonna cut you some slack, but you're gonna have to meet me halfway here.</utterance>
+   <speaker>COUNSELLOR</speaker>
+      <mode>CONT'D</mode>
+      <context>(noticing TJ looking</context>
+      <utterance>I should really be suspending you, but I won't if you can promise me you'll put in a real effort...</utterance>
+   <speaker>ELSEWHERE)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you listening?</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="6">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, pumpkin.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ stands in the doorway. Grandma takes off her glasses.</context>
+      <utterance>Hey.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How was your day?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pretty much sucked.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>TJ thinks for a moment.</context>
+      <utterance>Why sweetheart?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. It just sucked.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="11">
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Do you want me to turn on the light for you?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do I look like I'm sitting in darkness here?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, maybe, a little.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>She holds her glasses up for closer inspection.</context>
+      <utterance>Maybe I need new glasses?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Actually, I don't even know if these are mine.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whose are they?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Geez, I don't know.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, can you see better with them?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>Grandma holds the glasses in different positions.</context>
+      <utterance>Jesus, I don't know.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D</mode>
+      <context>She give this a moment of thought.</context>
+      <utterance>You know my mother always told me that I'd damage my eyes if I read by poor light and I always think about that when I'm reading, but I've gotten this far, so why am I still worrying about it? Why am I even reading? There's something more I need to learn?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I guess there's always something more to learn.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="3">
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Is is your dad up yet?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Why, has he been sleeping all day?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you know, sometimes people get knocked off course a little when bad things happen. But they come good in the end.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="7">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here's some milk to wet your whistle.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Dad shuffles into the kitchen and takes his seat at the table. Dad empties a couple of pills into his palm and downs them with milk. TJ forks his food around his plate.</context>
+      <utterance>Thanks mom.</utterance>
+   <speaker>DAD</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Hey Teej.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take some applesauce, sweetheart.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the time?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's six o'clock. Have you been sleeping all day?</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="10">
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Dad looks up but doesn't seem to notice TJ's bruised face.</context>
+      <utterance>I just had to lay down for a bit.</utterance>
+   <speaker>DAD</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>How was school?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine. When are you going back to work?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Dad scrapes a mouthful onto his fork, avoiding the good question. A moment passes. TJ stares at him.</context>
+      <utterance>That's a good question.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you gonna answer it?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Dad's eyes are lowered. He stares at his plate. TJ watches him, feeling powerless.</context>
+      <utterance>I don't know. I'm not ready yet.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>They eat in silence.</context>
+      <utterance>I'm not ready yet either.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>TJ passes the bunny salt shaker.</context>
+      <utterance>TJ, would you please pass me the salt?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D</mode>
+      <context>Grandma looks up at TJ with a small grin. She sets the salt shaker down.</context>
+      <utterance>Did you know that when Albert Einstein interviewed people for a job, he would take them out for lunch and if they put salt on their food before tasting it, he would not give them the job.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I've always liked that.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="7">
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context>The doctor demonstrates. TJ imitates.</context>
+      <utterance>Whoa, that's like an eight week old dirty sock. OK, so how does that feel? You wanna turn your wrist like this for me?</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>The doctor twists his wrist in a different direction. TJ does the same. The doctor looks for a pen.</context>
+      <utterance>And like this.</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Any pain or discomfort?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. It feels kinda weird, I can't tell.</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context>The doctor writes the note. While he does so he makes chit chat.</context>
+      <utterance>It will feel strange for a few days, but should start to feel normal again soon. Alright, lookin' good. I s'pose I should write you a note for school.</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>How's your Dad doing?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not great. I don't know. You should probably just ask him yourself.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="4">
+   <speaker>MRS ELSBERRY</speaker>
+      <mode></mode>
+      <context>TJ sits in the back of the class, by the window. A little pebble hits TJ's desk. It bounces onto the floor. TJ looks around to find where it came from - and then another one hits him in the head. He looks out the window. Hesher is right outside the window. He takes the cap off of a large BLACK MAGIC MARKER. He holds it up to his nose and takes a long slow inhale. He exhales slow and long, staring hard at TJ. TJ looks around confused. Hesher recaps the marker, throws it hard at TJ and wanders off. The marker hits TJ, then falls to floor near his feet. He reaches for it. Mrs. Elsberry sees this.</context>
+      <utterance>If we consider that dreams serve a metaphoric function in narrative fiction, as they do in life, what metaphoric function would you suggest the dreams here are serving?</utterance>
+   <speaker>MRS ELSBERRY</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ passes the marker forward. Mrs. Elsberry sets the marker on her desk.</context>
+      <utterance>TJ! What are you doing? Please pass that forward.</utterance>
+   <speaker>MRS ELSBERRY</speaker>
+      <mode>CONT'D</mode>
+      <context>She continues back to the chalkboard.</context>
+      <utterance>You can collect this after class.</utterance>
+   <speaker>MRS ELSBERRY</speaker>
+      <mode>O.S. - CONT'D</mode>
+      <context></context>
+      <utterance>OK, so for our protagonist, are these dreams premonitions or desires or even nightmares perhaps?</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="5">
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Dustin ignores the voice. He continues beating TJ.</context>
+      <utterance>Hey!</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S. - CONT'D</mode>
+      <context>Dustin ignores again.</context>
+      <utterance>Hey! Leave him alone!</utterance>
+   <speaker>VOICE</speaker>
+      <mode>CONT'D</mode>
+      <context>Dustin ignores one last time - a beat passes, then the woman, NICOLE (mid-20s), appears behind Dustin and jumps onto his back, bear hugging his face.</context>
+      <utterance>Hey! I said stop it!</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>Dustin shakes erratically, Nicole has a tight grip on him, but eventually Dustin manages to throw her onto the ground.</context>
+      <utterance>Leave him alone!</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context>Nicole picks herself up off the ground and holds up her fists like she's ready to fight. She doesn't look very tough.</context>
+      <utterance>What the fuck are you doing lady?</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="7">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>Nicole stands defiantly between Dustin and TJ. Dustin looks around at the scene he's created in the street. A man steps out of his car. Dustin realizes it's time to go.</context>
+      <utterance>What are you doing?!</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode>TO TJ</mode>
+      <context>He gets back into his car, slams the door and speeds off. Nicole watches him go, then helps TJ up. TJ is shirtless, scrawny, dirty and traumatized.</context>
+      <utterance>I'm not finished, you fuck.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you alright?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>TJ</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>Am I bleeding?</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think so. Am I?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ grabs his T-shirt and pulls it back on. He picks his bike up off the ground and hops on. He goes to peddle, but the chain is busted. His peddling goes nowhere.</context>
+      <utterance>I don't know.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="3">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't believe he called me lady. Do I look like a lady to you?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, I guess?</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>She thinks about this for a beat. TJ is silent.</context>
+      <utterance>Thanks. I mean do I look old? Well anyway, at least I can say I've been in a fight.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="8">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think your ice cream's melting.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>She tries to pick it up, suddenly flustered. It drips everywhere. She doesn't know what to do with it. It's too melted to eat.</context>
+      <utterance>Oh shit.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context>She throws it out the window.</context>
+      <utterance>Ah, fuck it.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ looks over confused.</context>
+      <utterance>Hey, so I'm kinda like a hero now, aren't I?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well actually, I basically just didn't want to have to go home and then spend the rest of the day feeling bad about the fact that I didn't help you and then hear about you on the news being beat to death in the parking lot. So you know, really I'm just - I did it for me. I'm just selfish.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>BEAT</mode>
+      <context>TJ is silent, he has no idea how to respond to this girl. She spots a gas station.</context>
+      <utterance>And I'm sorry, I'm sorry I'm like that.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context>She quickly makes an illegal turn into oncoming traffic. Cars honk at her.</context>
+      <utterance>Oh, gas station.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="6">
+   <speaker>CONTINUED:</speaker>
+      <mode>2 - CONT'D</mode>
+      <context></context>
+      <utterance>Whoaaa... sorry, sorry.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>She gets out of the car.</context>
+      <utterance>Perfect landing.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You like black or red?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, I don't know, black?</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Black? Really? Are you sure?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>OK, red?</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="2">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's super sour isn't it? You don't have to eat it if you don't like it.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's really sour.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="3">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>TJ doesn't know what to make of her.</context>
+      <utterance>I know, that's the point. I used to hate this crazy sour stuff, I don't know what happened. I just recently acquired a taste for it. I don't even really know what's in it, but I pretty much eat it all the time. And I'm sure it's making me fat. I just don't want to end up like those fat old ladies you sometimes see, you know, the really fat ones?</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I don't know why I'm telling you this. Anyway, I was secretly hoping that you loved these - Holding up the licorice, then taking a bite.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context>She smiles at that. TJ attempts to smile back, but he's so confused he ends up making a strange face. He awkwardly looks away.</context>
+      <utterance>So you could eat 'em for me. But now I can see you don't like em' and I'm kinda glad cuz it means more for me. I guess I'm sort of a hypocrite in a way.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="3">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>He hurries to the door.</context>
+      <utterance>OK, thanks for the ride. I really appreciate it.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>TJ turns.</context>
+      <utterance>Hey!</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You want your bike?</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="3">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ rushes back. He drags it out of her car.</context>
+      <utterance>Shit.</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context>He wheels it back towards the house. TJ goes around the side of the house to the back door. He knocks on the back door. Grandma appears at the door.</context>
+      <utterance>Thanks.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>Grandma lets TJ in. TJ is nervous.</context>
+      <utterance>Hi, TJ. What you doing around the back?</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="4">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ heads for the living room.</context>
+      <utterance>I just, I dunno. I was just dumping my bike.</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D - CALLING</mode>
+      <context></context>
+      <utterance>Hey, Dad!</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Dad's gone to the supermarket, honey. Everything OK?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>But TJ isn't listening. He can't stop thinking about that black van. He exits the kitchen.</context>
+      <utterance>Ah, yeah, OK.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="6">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's the laundry room?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My dad'll be home soon.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's the laundry room?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>TJ points to a door off the lounge.</context>
+      <utterance>You've got two seconds to tell me where the laundry room is before I tear your fuckin' head off and skull fuck you.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher stares at him for a second, then heads for the door.</context>
+      <utterance>It's through there. But why? You can't - my dad's gonna be home soon.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="6">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher drags deep and blows the smoke out in a long whistle straight into the air above him.</context>
+      <utterance>You can't smoke in here.</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher flicks his cigarette, ashing on the floor.</context>
+      <utterance>You can't smoke.</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher looks at him and ashes on the couch.</context>
+      <utterance>What are you doing? You can't smoke in here.</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Will you please put it out?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I put it out in your mouth?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?! Wait.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="5">
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>And he said, or his wife said, 'yes they'd like to come back.' So earlier that day I made a cherry cake and I used a - I didn't know it till afterwards, I used a new product - instead of Crisco, I used Fluffo. They never made it again that Fluffo.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Grandma, can I hear the rest of your story later? I'm kinda busy.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, of course honey.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>After a long uncomfortable silence, Hesher stands and extends his hand.</context>
+      <utterance>TJ, who's this?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My name's Hesher. Call me Hesher.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="7">
+   <speaker>DAD</speaker>
+      <mode>TO TJ</mode>
+      <context></context>
+      <utterance>What's he doing?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>They stand looking at each other. TJ is just plain stressed out.</context>
+      <utterance>He's doing laundry.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why is he smoking in the house?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher continues flipping channels. He's not finding anything he wants.</context>
+      <utterance>I don't know.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you tell him he can't?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher gets up off the couch and exits the room.</context>
+      <utterance>How come you only have four channels?</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="2">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello there.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>His cigarette is done. He flicks it into the sink. It sizzles out. He opens another drawer. Dad enters with his grocery bag.</context>
+      <utterance>Hello, old lady.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="2">
+   <speaker>DAD</speaker>
+      <mode>TO HESHER</mode>
+      <context></context>
+      <utterance>Can I help you with something? Hesher shuts the drawer. He's holding a fork.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>He exits the kitchen.</context>
+      <utterance>Nope, I'm good.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="4">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher slams the dryer door shut and wrenches the dial around. The dryer starts up loud. Hesher pretends he can't hear TJ.</context>
+      <utterance>So, ah, what are you doing now?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>He turns and looks into the garage which is right off the laundry room. He points inside.</context>
+      <utterance>Huh?</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D - LOUD</mode>
+      <context></context>
+      <utterance>This your room?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher walks into the garage with his bag and slams the door leaving TJ standing in the laundry room with the noisy dryer.</context>
+      <utterance>That's the garage.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="5">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does your friend want to eat some dinner dear?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's not hungry.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you sure?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I'm sure.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's he doing in the garage?</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="4">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. I said he could practice his guitar in there.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's great honey, it's nice having a bit of music in the house again. Is he a new friend?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, sort of.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>TJ doesn't respond. He eats. Dad looks on perplexed, yet disconnected.</context>
+      <utterance>You know your grandfather played the harmonica for many years.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="4">
+   <speaker>GRANDMA</speaker>
+      <mode>LOUDLY</mode>
+      <context></context>
+      <utterance>Hesher, would you like a glass of orange juice.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Ah, yeah. Sure.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Morning, TJ.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, Grandma.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="7">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I'm sorry, honey. We're out of milk. I can cook you up some eggs if you like, dear.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ leans back and looks into the TV room at Hesher enjoying his milky cereal.</context>
+      <utterance>No, thanks. I don't have time.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you like to come for a walk with me today?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't, Grandma. I gotta go to school.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>TJ grabs his backpack.</context>
+      <utterance>No, I mean later. This afternoon.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. Can you ask me when I get home?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>OK, honey.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="9">
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need to talk to you.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context>TJ enters and sits opposite.</context>
+      <utterance>Oh, yeah? What about?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to get the car back.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I figured that. You made it pretty clear the last time you were here, and I thought I made it pretty clear that I couldn't give it to you.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do I need to do to get it back?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The car's not for sale.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Larry takes a breath. He doesn't want to be having this conversation. He counts the obstacles out on his fingers.</context>
+      <utterance>I want to get it back, though. How much do you want for it?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. We're talking at least eighteen hundred dollars, not including taxes, registration, ADM, or dealer's fees. On top of that, you'd need a driver's license. I'm guessing you don't have one of those. You'd need valid car insurance. I'm guessing you don't have that either. But even if you did have these things, I still couldn't sell it to you because the car's not street legal. There's a million reasons why I can't sell it to you.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="2">
+   <speaker>LARRY</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ churns all this over in his head. Larry thinks he's made himself clear. He motions to the papers on his desk.</context>
+      <utterance>Look kid, I appreciate your enthusiasm, I really do, but I don't know what to tell you. You can't have the car. End of story.</utterance>
+   <speaker>LARRY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Do you mind if I get back to it here?</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="5">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi Sir, how are you today? Oh, hey.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's it goin'?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Nicole is a little taken aback.</context>
+      <utterance>I got you a replacement ice cream.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>TJ smiles awkwardly. He hands her the cone.</context>
+      <utterance>Oh my god. That's so sweet, thanks.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="6">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>He points to the ice cream counter on the other side of the store.</context>
+      <utterance>I paid for it over there.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>She holds the cone, not quite sure what to do with it, not quite sure how to take this kid.</context>
+      <utterance>Oh, OK.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Thanks.</utterance>
+   <speaker>TJ</speaker>
+      <mode>NERVOUS</mode>
+      <context>TJ walks away.</context>
+      <utterance>Sure, OK. See ya.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>Nicole watches him leave while a line of customers wait to be served. She smiles at the next customer, sharing the moment.</context>
+      <utterance>See ya.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context>She starts checking the customer's items, still holding her melting cone. She looks up out the door. She can see TJ outside, shaking his head and mumbling to himself. He feels like an idiot.</context>
+      <utterance>Hi.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="3">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>Grandma makes a clicking sound with her tongue on the roof of her mouth.</context>
+      <utterance>- and his wife said, yes they'd like to come back to the house.' So earlier that day I made a cherry cake and I used a new product - I didn't know it till afterwards- I used Fluffo. They never made it again that Fluffo. It was an imitation brand. I served the cake and there was silence. And then -</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D - LAUGHING</mode>
+      <context>Hesher finds Grandma's story amusing, he laughs, never losing a beat while eating the delicious apple slices. Grandma notices that TJ is standing in the doorway.</context>
+      <utterance>You put the cake in your mouth and it stuck to the roof of your mouth. They could hardly swallow it.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D - STILL LAUGHING</mode>
+      <context>Hesher glances over, he clearly doesn't give a shit about TJ. TJ is not impressed with Hesher either.</context>
+      <utterance>Hi sweetheart.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="2">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't Grandma. I have school tomorrow.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ok, well you're always invited.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="8">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Everyone turns toward Hesher. This is the first thing to come out of his mouth all night. He's looking at TJ.</context>
+      <utterance>So what?</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Grandma lights up.</context>
+      <utterance>So what school? Go on a walk with your Grandma.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's right TJ, it'd be very good for you to get some fresh air.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Dad stops chewing. TJ looks at Hesher like he's crazy.</context>
+      <utterance>Your Grandma goes walking in the morning by herself? You can't get your ass outta bed like an hour earlier? She could get raped.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I read about this shit all the time. Grandmas get raped. You ever hear about that guy who killed like 13 old ladies.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuckin' Google it, dude. The Granny Killer, he killed like hella old ladies by strangling them with their dirty panties.  Not all of them necessarily got fucked, but they all got penetrated by like the dude's fingers and I don't know, other shit too.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's enough.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="4">
+   <speaker>HESHER</speaker>
+      <mode>TO TJ</mode>
+      <context></context>
+      <utterance>I just think your Grandma asks you to go on a walk, you should go with her so she doesn't get raped.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why would anyone rape me?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>There's some sick fucks out there.</context>
+      <utterance>I don't know, they do it, Grandma.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Everyone continues to eat in silence. TJ stares at Hesher who is shovelling food into his mouth.</context>
+      <utterance>That's enough.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="3">
+   <speaker>KID 1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Teej. What are you doing? Come sit with us, we're in our spot.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ gets up reluctantly, then notices Hesher walking across the yard towards the bathroom followed by an EMO KID with a skateboard.</context>
+      <utterance>What? Uh, Ok.</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ walks off, following Hesher. Kid 1 watches TJ walk off toward the bathroom.</context>
+      <utterance>I'll meet you there in a second.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="4">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing here?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pissing.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing at my school?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>TJ notices that he isn't actually urinating in the bowl. He's spraying his pee all over the seat and the lid and the wall and the floor. He finishes and zips up. He turns and shoves past TJ. Hesher looks at his hair in the mirror, then exits. TJ watches him leave, frustrated. He follows him out.</context>
+      <utterance>I'm putting out a fire.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="2">
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context>Dustin holds TJ's head down in the tray. He shoves his face into the little yellow urinal deodorizer cake.</context>
+      <utterance>You fucked my car, you little prick.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ goes to lift himself up. Dustin punches him and then stands, putting his foot on TJ's neck, jamming TJ's head into the tray. He pushes the flusher. The urinal flushes all over TJ's face.</context>
+      <utterance>Eat the cake.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="6">
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ready?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't wanna go.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Dad takes TJ's bike and starts trying to fit it in the backseat.</context>
+      <utterance>It'll be good for us, Teej. C'mon. We'll be late.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I really don't want to go.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>TJ stands watching his Dad struggle with the bike.</context>
+      <utterance>I don't think anyone ever 'wants to go' to these things. It's supposed to be good for us. That's the whole point.</utterance>
+   <speaker>DAD</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>C'mon. Give me a hand here.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="6">
+   <speaker>MERYL</speaker>
+      <mode></mode>
+      <context>A heavy set woman, COLEEN, and her husband, JACK, sit on beanbags looking pale and sad.</context>
+      <utterance>OK, so welcome everyone to the Transformational Grief Group. My name is Meryl. We should start off by going around the circle and introducing ourselves and briefly explaining why we are here. Hi Miss, would you please start us off?</utterance>
+   <speaker>COLEEN</speaker>
+      <mode></mode>
+      <context>She can't go on. Her husband Jack sets his hand on her shoulder. She is able to hold back the tears.</context>
+      <utterance>We are the Bolder family. I am Coleen and this is my husband Jack. Our daughter Cynthia was murdered last year.  She was the victim of a violent attack that was unfair and sick.</utterance>
+   <speaker>COLEEN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>We are here because we need help. We lost our baby and we are broken.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, my name is Jack. As my wife said, we're here hoping for some answers and just some help with the pain.</utterance>
+   <speaker>MERYL</speaker>
+      <mode></mode>
+      <context>Weird silence.</context>
+      <utterance>Thank you, Coleen and Jack. Welcome.</utterance>
+   <speaker>MERYL</speaker>
+      <mode>CONT'D</mode>
+      <context>Dad shuffles in his seat, looks around the group.</context>
+      <utterance>Sir.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="4">
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Dad finishes mid-sentence, then brief silence.</context>
+      <utterance>Ah, OK. Sure. My name is Paul Forney. This is my son, TJ. We're here today because we lost my wife, TJ's mother, a bit more than two months ago now. And ah, I don't know, we're still trying to come to terms with things and, you know, just find some guidance of some kind, I guess, and, ah, yeah, so...</utterance>
+   <speaker>MERYL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>OK, great. Welcome, Paul. TJ? Would you like to introduce yourself, say a few words to the group?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Meryl waits to see if TJ has anything more to add. He doesn't.</context>
+      <utterance>Not really.</utterance>
+   <speaker>MERYL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>OK. That's OK.  Nicholas, would you like to introduce yourself to the group?</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="2">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, honey. How was your special group?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ exits the kitchen. He walks the hall to the bathroom. He turns the handle and enters.</context>
+      <utterance>Fine.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="6">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you!</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher ignores TJ. He watches him closely. He calmly takes a drag of his cigarette and ashes into the bath.</context>
+      <utterance>Fuck you. You let that fuck stick my head in a toilet and you don't do anything about it? You stand there and fucking watch him do it?</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher flicks his butt in the bath and pulls the plug. He stays reclined as the water starts gurgling down the drain. Hesher stands. He's totally naked. He doesn't care. TJ waits for him to say something. Anything. Hesher steps out of the bath, dripping wet, naked.</context>
+      <utterance>You stay in my grandma's house? You're taking a bath in my fucking grandma's bath?</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ shoves him. Hesher, in a flash, grabs TJ by throat and slams him against the wall. He holds him there for a second, staring at him intensely.</context>
+      <utterance>Say something!</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CALM</mode>
+      <context></context>
+      <utterance>Listen to me.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="3">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher ignores him.</context>
+      <utterance>Where are we going?</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context>After a beat, TJ turns the music down.</context>
+      <utterance>Where are we going?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher drives into a gas station and pulls on the handbrake. He lights another cigarette.</context>
+      <utterance>Touch my stereo again, I'll seriously fucking hurt you. Hesher turns the music back up. TJ is confused.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="2">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher makes his way across the street toward the house and the yellow Mustang. He pours gasoline all over the car. He does this with confidence - he's clearly had some practice.</context>
+      <utterance>Hey, seriously. What are you doing?</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D - QUIETLY FRANTIC</mode>
+      <context>Hesher takes one long drag on the cigarette, then calmly flicks the still lit match onto the Mustang.</context>
+      <utterance>C'mon, man. Let's just go.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="2">
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher starts the van and pulls away, leaving TJ stranded in the street. The front door of the house opens and a woman appears on the porch. Discovering the car in flames, she screams. TJ takes off, running across the street and through a neighbor's yard, down the side of the neighbor's house, with the woman on the porch screaming at him.</context>
+      <utterance>Open the door! It's locked!</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, get back here!</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="3">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get in.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You fucking ditched me.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get in the van, dude.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="6">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck's wrong with you?!</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's wrong with you?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the problem? That's the guy who put you in the toilet.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher suddenly freezes, looks round, motions for TJ to 'shhh'.</context>
+      <utterance>Yeah, but -</utterance>
+   <speaker>HESHER</speaker>
+      <mode>WHISPERS</mode>
+      <context>TJ looks around everywhere. What's coming? Then Hesher lets out a FART. He laughs. He puts the van in gear and drives. He cranks up the music. TJ stares at Hesher for a moment, then looks straight ahead shaking his head.</context>
+      <utterance>Something's coming.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="8">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher disappears back into the house, smiling at TJ as he passes.</context>
+      <utterance>It's for you.</utterance>
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you Thomas Forney?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'd like to ask you some questions.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about?</utterance>
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'd like you to come down to the station with us.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What for?</utterance>
+   <speaker>DAD</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>What's going on?</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="4">
+   <speaker>HESHER</speaker>
+      <mode>TO DAD</mode>
+      <context></context>
+      <utterance>Cops.</utterance>
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>OK, so we're gonna have to let you go now. We may very well be calling on you again very soon, but in the meantime, let this be a warning to you. Regardless of what evidence we do or don't find, you've come to our attention today. Our attention isn't good.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I didn't do anything.</utterance>
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context>TJ nods, his dad looks on.</context>
+      <utterance>You hearing me here? These are very serious crimes we've been presented with. Let's just say someone had been in that car, and they'd burned - to death. We'd be talking about manslaughter, possibly murder. Have you thought about that? You'd be sitting here with detectives from Homicide right now. These are felony offences we're talking about, son. Serious jail-time offences.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="14">
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>TJ pauses before answering.</context>
+      <utterance>Did you do it?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not really.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not really?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't do it.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>TJ ignores him, stares out the car window.</context>
+      <utterance>What does `not really' mean?</utterance>
+   <speaker>DAD</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Tell me what `not really' means.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It means I didn't do it.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, it doesn't. Why would you say 'not really'?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You did. I heard you.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said I didn't do it.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, before that. I asked if you did it. You said `not really'.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't remember what I said.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why would you do something like that?</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="11">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what'd the pigs want?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck do you think!?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did they give you a cavity search?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did any of the cops put their fingers in your butthole?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just fuck off, OK.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'd they do?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They took my fucking finger prints!</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what!? I can get into serious trouble.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, is that right?</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="12">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, that's right! They don't take this shit lightly.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, they don't?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher feigns concern.</context>
+      <utterance>People could have been hurt! If someone was killed it would have been considered murder.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really? Murder?</utterance>
+   <speaker>HESHER</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>That's badass shit.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please just leave me alone.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>OK, but first show me your best impression of a dumpling.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher holds up his thumb and index finger to show the size of a dumpling. TJ shakes his head, he's not finding this funny.</context>
+      <utterance>You know, a dumpling, the Chinese little thingies you eat -</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher constricts all the muscles on his face imitating a dumpling, he looks ridiculous. TJ tries to hold back a smile, but Hesher looks so absurd he can't.</context>
+      <utterance>Come on, like this -</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ shakes his head, fighting a smile.</context>
+      <utterance>OK, your turn.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="10">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>TJ is startled. Hesher stands behind him, also watching Nicole.</context>
+      <utterance>Do you think she is totally bald or do you think she's more of a landing strip kind of chick or more of a 70's jungle bitch.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are doing here?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're stalking that chick, dude.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm not.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, you are. I've been stalking you for half an hour. You gonna try to fuck her?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? No.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't fuck her from here, dude. Gotta be way closer.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up about it.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wanna poke her clam?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="9">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wanna poke her clam or what?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ walks ahead fast. He wants out of this conversation. Nicole finishes up, turns her light off and hangs a 'Check Stand Closed' sign. She walks off toward the back of the store. TJ stops to be sure to avoid her.</context>
+      <utterance>Please stop saying that.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher says this a little too loud. Nearby shoppers look over. TJ shakes his head, then exits the store. Hesher follows.</context>
+      <utterance>You want to poke her clam, dude. Nothing wrong with that. Don't be ashamed about it. Humans have been poking vagina for hundreds of years. Longer even.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Bro, there's nothing wrong with wanting a little pussy.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where you going?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Home.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll give you a ride.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No thanks.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>TJ gets onto his bike.</context>
+      <utterance>OK, but if you come with me it'll take 5 minutes and if you ride it will take you about 15.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="2">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine, just don't talk to me.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't say shit.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="5">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>He waits a beat for TJ to respond. TJ is still mad, he says nothing.</context>
+      <utterance>Look dude, I'm really sorry about the fire the other night -</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ looks at Hesher, doubting his sincerity.</context>
+      <utterance>That was totally out of control. Foolish and irresponsible actually.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher reaches into the back of the van and picks up a dirty magazine. He flips through some pages and shows TJ a photo. TJ pushes the magazine away, disgusted.</context>
+      <utterance>I want you to have this -</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get that away from me.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher spots Nicole getting into her car. He drops the magazine on TJ's lap and fires up the engine. TJ spots Nicole.</context>
+      <utterance>Dude are you gay? I can't work you out.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="4">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher puts the car in gear and begins to follow Nicole's car out of the parking lot.</context>
+      <utterance>Hey, what are you doing?</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Stop the car, I want to get out.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>TJ opens the door. Hesher grabs his arm.</context>
+      <utterance>Shush.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher means business. TJ is silent and back on edge. Nicole drives through the parking lot. Hesher follows her out of the lot and into the street.</context>
+      <utterance>You get out of this van, I'll rip your dick off and fuck her for you.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="6">
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just messed up the back of my car you stupid idiot. You need to pay attention when you're driving a fucking car -</utterance>
+   <speaker>HESHER</speaker>
+      <mode>O.S.</mode>
+      <context>Hesher is out of the van approaching on foot, smoking.</context>
+      <utterance>I think I can help here.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I saw the whole thing. The chick here was stopped and you reversed right into her.</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know what your fucking problem is, dude. Why would you just reverse into her? That's fuckin' retarded.</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="4">
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you out of your mind?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You better start making like you're gonna pay her for the damage.</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context>Hesher rips his shirt off, aggressively.</context>
+      <utterance>I didn't back into her. I don't know what you're talking about.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You calling me a fucking liar, dude!?</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="8">
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I, I, I'm just saying I don't know what's going on here.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher pushes the guy hard.</context>
+      <utterance>You're calling me a fucking liar is what's going on here.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Let's go.</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, I don't want any trouble, sir.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher is seriously amping up the street agro. The guy doesn't know what to do. He starts heading back to his car.</context>
+      <utterance>Fight me cocksucker!</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is ridiculous -</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>The guy gets in his car and speeds away, leaving Hesher (shirtless) and Nicole in the street. Hesher stubs his cigarette, now totally relaxed again.</context>
+      <utterance>Come back here and find out how ridiculous it is!</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher heads back to the van. Nicole watches him not exactly sure what to say. Hesher climbs back into his van.</context>
+      <utterance>OK. See you later.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="3">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher gets out. TJ ducks. He can't see what's going on. Long seconds pass. And then his door opens. Hesher is standing there next to Nicole.</context>
+      <utterance>Your sexy girlfriend's in trouble. We're not going anywhere.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>This is now beyond embarrassing for TJ. He can't even think straight.</context>
+      <utterance>You know, TJ?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="2">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>Hesher reaches over her and pulls a joint from the glove compartment. He lights the joint and takes a big toke. He offers it to Nicole.</context>
+      <utterance>Sometimes, you know, a day is bad and then when you think it couldn't get any worse you suddenly discover whole new ways it can get worse.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher shrugs and takes another big toke then offers it to TJ who also declines.</context>
+      <utterance>No, thanks.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="3">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Nicole looks at Hesher like he's crazy. TJ is in the back - he can't believe what's coming out of Hesher's mouth. A moment passes.</context>
+      <utterance>This one time I had like four hella drunk chicks in the back of the van, and we were going for it and I had one hand on this one girl's tit and my other hand on this other chick's twat, but there was like still two other girls wanting to get off so like I had my foot rubbing on one girl's asshole while I'm trying to eat the other girl out, and I was going crazy man. It was too much. I couldn't work out which chick was which and I'm making one girl cum but then I'm forgetting about the others and my tongue's hurting and my fingers are getting tired and like eventually I was just like 'Fuck this. This is too much' and I just stepped back. I just stepped back. And before you know it these girls are all working on each other, you know. They're all fingering each other and eating each other out, you know, and I jerk myself off and everyone's a winner, you know?</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was that some kind of perverted metaphor for me? About how I should just step back and let things work themselves out?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>He reaches for the stereo and cranks the knob - Metallica's, 'Motorbreath' BLASTS through the speakers. As if he were possessed by the music, Hesher veers dangerously off the road onto a dirt patch. He has a crazed look in his eyes. TJ and Nicole grab onto anything they can hold onto. Hesher turns the wheel hard and floors the gas. The van spins in circles spraying dirt in every direction. TJ gets thrown from the back seat onto the ground. Dirt pours into the windows and covers them from head to toe. Hesher corrects the wheel and veers back onto the road again.</context>
+      <utterance>A what?</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="5">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>Hesher looks over at Nicole.</context>
+      <utterance>What the hell was that?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I saw a mouse.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>TJ picks himself up off the van's floor, dusting himself off.</context>
+      <utterance>What?</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D - TO TJ</mode>
+      <context></context>
+      <utterance>Are you OK?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ scrapes his tongue with his fingers. Nicole breaks a little smile.</context>
+      <utterance>I have dirt in my mouth.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="4">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>Hesher says nothing. They drive three houses down the street and stop again. Hesher gets out. Again he peers in the window, knocks on the door. This time no answer. He heads back to the van. Nicole and TJ watch him approach from inside. He sticks his head in.</context>
+      <utterance>Who's that guy?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're here. Come on, let's go.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're where?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My uncle's house.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="9">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was that back there?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was what?</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That other house?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wrong house.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck!?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? You're dirty.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>Hesher smiles wide.</context>
+      <utterance>Yeah, and now I'm wet.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>He throws his T-shirt off and does a huge bomb into the pool.</context>
+      <utterance>You're dirty and wet. I'm coming in...</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>He splashes water at her. He dives under the water. Suddenly TJ is pulled under. Nicole can't see them under all the motion. Then TJ and Hesher come bursting up for air.</context>
+      <utterance>Now I'm dirty and wet too.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="7">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cut it out.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher dives under the water again. Nicole squirms. Hesher has her leg. He doesn't drag her under. He just tugs her leg. She slaps at the water. He tugs her leg again. Pretty soon she's laughing. Hesher's head appears above water momentarily.</context>
+      <utterance>R2! Shut down all the fucken' trash compactors on the detention level!</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>He dives again. He pulls her leg. She laughs hard. TJ watches feeling a little left out. Hesher jumps up and climbs out of the pool. He goes to a garden table nearby.</context>
+      <utterance>...All the fucking trash compactors...  ...on the detention level!...</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>He heaves the table over and into the pool. He grabs a banana lounge.</context>
+      <utterance>Oh, shit. More trash coming in!</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>He throws it in the pool. Nicole and TJ have to dive out of the way. They go to the sides of the pool and climb out laughing, while Hesher continues heaving garden furniture, a barbecue and anything else in reach into the water. TJ and Nicole sit on the edge of the pool with their legs dangling in the water. They're fully clothed and soaking wet. He walks off, around the side of the house, looking for more things to break. There is an awkward silent moment between TJ and Nicole. TJ looks down and notices a small army of ants marching along the side of the pool. He manages to get one to crawl onto the his finger.</context>
+      <utterance>Oh shit!</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, how do you know this guy?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, he's sort of moved into my grandma's house with us.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="7">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What, like he's renting a room or something?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ flicks the ant off of his finger, then another one that's climbing up his arm.</context>
+      <utterance>No, not really, I don't know, it's kinda a long story.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>TJ stops mid ant flicking.</context>
+      <utterance>Do you realize that the equivalent to you flicking that ant would be like one of us getting hit in the face by a giant wrecking ball at 100 miles an hour and getting thrown into the next yard?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry, I...</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>Hesher reappears with a container of lighter fluid and goes to the diving board. He climbs on and squirts the lighter fluid through his lighter, sending streams of flames into the pool. Hesher douses the diving board with lighter fluid and ignites it with his lighter. The diving board erupts into flames.</context>
+      <utterance>Do you think the other ants are gonna wonder where that ant's gone? Do you think their gonna miss her? TJ doesn't know how to answer.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Jesus Christ.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>SINGING</mode>
+      <context>Hesher takes a few steps back then runs toward the board. He springs through the flames into the air. He does a messy sideways flip.</context>
+      <utterance>Jump in the fi-re.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="5">
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher grabs his shirt on his way toward the fence. He doesn't look back.</context>
+      <utterance>Shit, look at that.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I got a doctor's appointment.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher hops over the fence.</context>
+      <utterance>What?</utterance>
+   <speaker>HESHER</speaker>
+      <mode>O.S. - YELLS</mode>
+      <context>Hesher disappears over the fence. We hear his van start and peel away. The flaming diving board pours black toxic smoke into the sky as it crumbles into the pool.</context>
+      <utterance>It burns when I urinate...</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>Nicole stands and heads for the gate, TJ tags behind. They jump the side fence and head out into the street, dripping wet.</context>
+      <utterance>Did he just leave us? I think we should get out of here.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="3">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ steps hard, squirting water out the sides of his wet shoes. Nicole smiles.</context>
+      <utterance>My shoes are so squishy.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, what's his name?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hesher.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="11">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hesher?... Is that a name?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. I guess?</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does he have a last name?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How old is he?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know anything about him?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Beat.</context>
+      <utterance>Not really.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was so lucky you guys were behind me when that guy got all mad about his car. I was freaking out. I don't really have any insurance right now. I just can't afford it. There's no way I could afford to fix that guy's car. How do people do this stuff? I mean, I have a job. It's kind of a joke though. I've been there for like a year and I'm still only doing like five hours a week. Why aren't they giving me any more hours? Do you think it's because they think I suck? Did you think I sucked when I served you at the checkout?</utterance>
+   <speaker>TJ</speaker>
+      <mode>UNSURE</mode>
+      <context></context>
+      <utterance>No?</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't even get paid enough to really cover my rent. I'm gonna have to start selling shit pretty soon.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="2">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here, I got two bucks.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The sad thing is I could actually use it.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="5">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>She runs the last few steps to the car and rips the ticket from under the wiper. She reads it quick.</context>
+      <utterance>Oh, no. Please tell me that's not a ticket...</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context>She paces a couple of angry circles and then kicks the car's tire. It hurts her foot. She yelps.</context>
+      <utterance>Fuck, fuck, fuck it.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context>In a small frenzy, she pulls her keys from her pocket and opens the car door. She gets in and slams the door behind her. She sits behind the wheel and yells, frustrated. TJ stands in the street, uncomfortable, not knowing what to do. He goes to the car and gets in beside her. He sits, still not knowing what to say. She tries to settle herself, but she's still very emotional.</context>
+      <utterance>Ah, shit. Fuck it.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What have I done to deserve this chain reaction of shit all the time? Sometimes I wonder if I were to die right now, if anyone would care, or even notice.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>She lets out a small disbelieving laugh.</context>
+      <utterance>I would.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="7">
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's nice of you to say, but I doubt it.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I would. If you died right now.</utterance>
+   <speaker>TJ</speaker>
+      <mode>BEAT</mode>
+      <context>TJ thinks a moment. It's a sweet and sour moment. He wants to cheer Nicole up, but he's remembering his Mom at the same time.</context>
+      <utterance>I'd notice.</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context>Nicole sniffs, smiling through her tears.</context>
+      <utterance>Mainly because I'd be sitting in a car with a dead lady.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>She smiles warmly at TJ.</context>
+      <utterance>Please don't call me lady.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context>She puts the key in the ignition and turns it. Nothing. Nicole takes a breath - not wanting to get upset again. She turns to TJ and smiles sadly.</context>
+      <utterance>Let's get out of here.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You wanna steer or push?</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="2">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi TJ.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey Grandma.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="13">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So did you fuck her?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Dad enters tying the drawstring on his track pants. He looks messy as ever.</context>
+      <utterance>What?! No?!</utterance>
+   <speaker>DAD</speaker>
+      <mode>TO TJ</mode>
+      <context></context>
+      <utterance>Where were you today?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Counselling - 3:30, I'm there by myself.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, sorry. I forgot.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, that's real nice. This thing is for you just as much as it is for me. I waited outside school for 45 minutes.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, well, I told you I don't want to go.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you should let me know before you don't show up next time.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>I told you a hundred times.</context>
+      <utterance>I did. I told you I didn't want to go.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No you didn't.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes I did. You're just not listening.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No you didn't. What you told me was that you didn't want to go. You didn't tell me that you were just not going to show up.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="6">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What difference does it make?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Grandma sets more food on the table.</context>
+      <utterance>For me a big difference. It means, I'm sitting on a fucking beanbag in a room full of losers by myself.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>Grandma heads back to the kitchen to grab more food. There is silence at the table.</context>
+      <utterance>Boys please, I'm not feeling well.</utterance>
+   <speaker>DAD</speaker>
+      <mode>TO HESHER</mode>
+      <context>Hesher puts his finger into the mashed potatoes and wiggles it around.</context>
+      <utterance>Can you pass me my pills? Hesher slides dad's pill bottle over.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you finger her twat?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut the fuck up.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="4">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher licks the potatoes off his finger.</context>
+      <utterance>What?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Language. I don't wanna hear it.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you hear what he just said?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't care. If I hear it again, you're going to your room.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="3">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My room!? You gonna start punishing me now?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe I need to. If it's not the language, then it's your lack of responsibility... or I'm having to escort you down to the police station.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit, dad. I'm really sorry you had your ass dragged off the couch. I'm sorry you had to put some fucking underpants on for the first time in months.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="6">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ sits and fumes, nostrils flaring.</context>
+      <utterance>What?!</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's enough.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, what, soon as I'm right, that's enough?!</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>TJ! I don't want to hear one more word from you!</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ sweeps his plate off the table. It goes crashing onto the kitchen floor, food everywhere. Grandma walks back into the room, looking worried. Hesher seems riveted, like he's watching the tennis. And then Dad sweeps his plate off the table. Crash, food, mess. He glares back at TJ.</context>
+      <utterance>Fine. Fuck this.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>TJ wrenches his chair back and storms off.</context>
+      <utterance>That make you feel better?</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="6">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did I miss something?</utterance>
+   <speaker>HESHER</speaker>
+      <mode>MOUTH FULL</mode>
+      <context>Grandma contemplates this.</context>
+      <utterance>Not really. Paul came in and said some dumb shit which TJ got angry about and so TJ smashed his plate and then Paul smashed his plate too but I got a feeling he smashed his one cuz he couldn't actually think of anything to say cuz he kinda knew TJ had a point and so now he feels bad about it and so he's gone somewhere.  I don't know where.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>This makes Grandma very sad.</context>
+      <utterance>Those boys have been through a lot.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D</mode>
+      <context>Tears well in Grandma's eyes. Grandma is quietly crying.</context>
+      <utterance>Sometimes I wonder if they're ever gonna smile again</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher doesn't know what to say. He pours applesauce on his food. Grandma looks around the kitchen at the mess. She shakes her head, takes a deep breath and starts cleaning up. She picks up bits of broken plate and takes them to the sink. Hesher watches her.</context>
+      <utterance>I just wish there was something more I could do. A long beat passes.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is delicious.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="6">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>Hesher holds up a piece of bacon covered in applesauce and licks off the sauce.</context>
+      <utterance>Thank you, dear.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's green and slimy and smells like bacon?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, dear.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's green and slimy and smells like bacon?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A worm? I don't know. I'm going to lie down. I'm not feeling well. I'm very nauseated.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Grandma exits. Hesher finishes the last few bites of his dinner. He notices Dad's pill bottle. He reaches for them. He unscrews the lid and empties a few into his hand. He swallows the pills.</context>
+      <utterance>Oh, OK.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="5">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you figure it out yet?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Figure what out, dear?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's green and slimy and smells like bacon?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, not yet dear. Can you do me a favor?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure, what?</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="10">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>Hesher enters the room, grabs the tin from on top of the cabinet and hands it to Grandma on the bed.</context>
+      <utterance>Will you please hand me that red tin on the cabinet dear?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kermit the frog's finger.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Grandma opens her red tin and takes out what looks like a rolled cigarette.</context>
+      <utterance>Think about it... Miss Piggy.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Woah, what's that?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I'm feeling very nauseated. They're medical cigarettes that help me with the nausea. Will you light a match for me, dear?</utterance>
+   <speaker>HESHER</speaker>
+      <mode>IMPRESSED</mode>
+      <context>Hesher sniffs the "cigarette".</context>
+      <utterance>Hang on a second. Can I see that?</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher sets the "cigarette" down.</context>
+      <utterance>No shit.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher dashes out of Grandma's room. After a few moments, he comes back and sits on the edge of the bed. He is holding a glass BONG. The bong has so much resin caked onto the sides, it looks as though a thousand pounds of marijuana have been smoked through it.</context>
+      <utterance>I'll be right back.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>May I?</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="8">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is that?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher lights up and takes a HUGE hit from the bong. He explains his technique to Grandma while holding the smoke in.</context>
+      <utterance>It's a bong. The water filters the smoke. It's probably the most healthy way to smoke weed.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher takes a quick sip of air sucking the smoke deeper into his lungs.</context>
+      <utterance>OK, so basically cover the hole here with your thumb then suck on the top and once the chamber fills with smoke, take your finger off the hole and suck in.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Then try and hold the smoke in for as long as possible, OK bro?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>Grandma takes the bong and has a hit. It's a bit clunky, but she manages to make it work.</context>
+      <utterance>Umm, OK.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher helps her. The smoke shoots into her lungs. Grandma begins to cough.</context>
+      <utterance>Ok, lift your finger.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, wow... That was a big one.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Grandma has another hit. It goes well. She blows out the smoke. Hesher takes the bong off her and has another HUGE one for himself. He passes the bong back.</context>
+      <utterance>Yeah, that was good. Hit it again.</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="11">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>Hesher takes the last hit. He dusts off the bowl and sets the water pipe down. They sit for a moment and let the drug sink in.</context>
+      <utterance>I think I'm OK, dear.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Honey, how old are you?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who wants to know?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. You seem a little older than TJ.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, stop it. Aren't you a little old to be hanging around TJ all the time?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aren't you?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm his grandmother.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I guess you have a point... OK, well I used to have a mouse. No, wait... hang on a minute. I used to have a snake. And do you know what snakes eat?</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Actually, there's no limit to the food items that you can even think of that a snake might eat. Whatever is available in abundance would become the prey for the snakes. Depending on their growth, their diet - Hesher cuts her off.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, OK, OK well, actually they eat mice.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="7">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They do eat mice. A lot of times snakes eat other snakes because they're the right shape -</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher looks at his hand, not knowing what mouse hands are called.</context>
+      <utterance>Yeah, OK, well anyway... I used to have a snake and I fed it mice. But one time I fed this little fuckin' mouse to my snake and that mouse was tough. I dropped that mouse in the snake's tank and the snake wouldn't go near him, and any time he tried that mouse would just smack him with his little, you know...</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Grandma is stoned and sleepy and fading out.</context>
+      <utterance>With his little mouse hand. So instead of eating the mouse the snake just curled up crying in the corner and the mouse ruled that fuckin' cage. And this went on for weeks, the snake wouldn't go near him. That tiny mouse used to sit in a little miniature lawn chair scratching his balls and shelling peanuts and this snake was just too scared to go near it. And cuz the snake was scared of that mouse I had to feed him other mice, but every time I dropped another mouse in the tank, it'd hide behind the brave mouse. And so eventually the snake starved to death. I had a cage full of mice.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So is TJ the mouse?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe he is.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well then, what am I?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're an old lady.</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="7">
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm a grandmother.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes you are. And you know what grandmother? I'm gonna go on a walk with you in the morning.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, that's nice. Where are you going?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not going anywhere. I'm going with you. Around the block, I guess.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, OK, well have a nice time. I'll see you when you get back.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm going with you.</utterance>
+   <speaker>GRANDMA</speaker>
+      <mode></mode>
+      <context>Grandma has fallen asleep, but mumbles like she is continuing the conversation. Hesher smiles to himself, turns off her lamp and exits the room.</context>
+      <utterance>Ohh, OK, caauuse iii...</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="12">
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, why don't you just have him send them over... Sure... Scott, can you hold on a minute?</utterance>
+   <speaker>LARRY</speaker>
+      <mode>TO TJ</mode>
+      <context></context>
+      <utterance>What do you want?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I talk to you?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm on the phone here. Can you see that?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need to talk to you.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context>TJ takes a seat outside the office. Larry closes the door. Dustin Howard appears.</context>
+      <utterance>I'm on the phone. Wait outside. I'll be with you in a minute.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The fuck are you doing here?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came to talk to him.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's none of your business.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context>TJ ignores him. Dustin taps TJ's leg with his foot.</context>
+      <utterance>What do you wanna talk to him about?</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What do you want to talk about?</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="13">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Larry's door opens. Larry emerges from his office. TJ stands.</context>
+      <utterance>Just leave me alone.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got the money.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What money?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The money for the car.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What money for the car?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You said if I got eighteen hundred dollars I could have the car back.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you kidding me?</utterance>
+   <speaker>LARRY</speaker>
+      <mode>BEAT</mode>
+      <context>TJ flinches. He wasn't expecting this.</context>
+      <utterance>I said, 'even if you had eighteen hundred dollars, I still couldn't sell it to you.' Even if you had five million dollars, I couldn't sell it to you. It's not even here any more anyway, so that's it.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? What do you mean-</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kid. Leave me alone. I feel like I've had this conversation with you too many times already, but I can tell you we won't be having it again because the car's gone.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all over. It's gone. It's not here.</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="4">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's it gone?!</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context>Larry steps back into his office and shuts the door.</context>
+      <utterance>Kid. It's over. Good bye.</utterance>
+   <speaker>TJ</speaker>
+      <mode>TO DUSTIN</mode>
+      <context>Dustin smiles.</context>
+      <utterance>Where's it gone?</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context>TJ stares, angry. An awkward moment passes. He storms away, dragging a water cooler down as he leaves. It crashes onto the ground. Water spills everywhere.</context>
+      <utterance>And what makes you think I'm gonna tell you?</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="6">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Teej. Grandma, she's not.. she's not waking up.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What!?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Short fast heavy breathing sets in.</context>
+      <utterance>She won't wake up.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ runs over to Grandma's room and stops at the door.</context>
+      <utterance>What do you mean?</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Oh, Jesus.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="3">
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What happened?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>TJ is in shock. He sits on the couch next to dad. They are both lost for words. Hesher stands in the corner with his head shoved between the walls. Hesher joins TJ and Dad on the couch. They are all raging inside, confused, lost and upset. They sit together in silence for a long beat, in the same boat for the first time. Hesher breaks the silence. He kicks the table over as he stands.</context>
+      <utterance>I don't know, she just, she just didn't wake up.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>He leaves through the front door, leaving it open behind him. TJ gets up in a daze and stands at the doorway looking out. It has started to drizzle.</context>
+      <utterance>I gotta get the fuck out of here before I hurt someone.</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="4">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing?</utterance>
+   <speaker>DAD</speaker>
+      <mode>SNAPPING TO</mode>
+      <context></context>
+      <utterance>I don't know. Getting some fresh air, I guess.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Dad reaches out his hand and catches a few drops.</context>
+      <utterance>It's starting to rain.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>TJ picks up his bike and rides. We stay with Dad as TJ disappears down the wet street.</context>
+      <utterance>Yeah.</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="2">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>TJ takes a hard swing into the van, smashing the tail light. Nicole runs out into the street, concerned, wearing an oversized sweatshirt and underpants.</context>
+      <utterance>Hey, hey... wait.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Hey! The fuck are you doing?</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="8">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you. Fuck you fuck you fuck you.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop hitting my van.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you.</utterance>
+   <speaker>TJ</speaker>
+      <mode>TO NICOLE</mode>
+      <context></context>
+      <utterance>And you're a fucking whore. I hope you die. And when you do, no one's gonna fuckin' notice.</utterance>
+   <speaker>TJ</speaker>
+      <mode>BREATHES</mode>
+      <context>Hesher steps toward TJ.</context>
+      <utterance>Cuz you're a fat fucking prostitute.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>TJ swings the pipe at Hesher again.</context>
+      <utterance>Dude, chill out for a second.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ swings again. He's so angry, he's practically foaming at the mouth.</context>
+      <utterance>Get the fuck away from me! I'll smash you in the face, I swear to God. Back the fuck up.</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ throws the pipe at Hesher. It hits the road with a loud clang. TJ grabs his bike and rides away furiously. Hesher and Nicole watch TJ ride away. It begins to rain hard.</context>
+      <utterance>I never want to see you or your ugly fucking face again. That goes for both of you fucking assholes.</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="2">
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>TJ refuses to look at his dad.</context>
+      <utterance>Are you OK?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Dad doesn't know what to say beyond this. He feels as lost as TJ does. He leaves the room. TJ paces.</context>
+      <utterance>Will you just leave me alone.</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="6">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>TJ pushes Hesher's arm out of the way.</context>
+      <utterance>I wanna talk to you.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Hesher, at a loss, watches TJ grab a brick from the muddy garden and throw it through the passenger side window of his van. Hesher charges TJ. He throws him into the muddy garden and kneels over him holding him by the collar of his hooded sweatshirt.</context>
+      <utterance>Get your fucking hands away from me! I told you, I never want to see you again.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher lifts TJ up and slams him back down on the ground, knocking the wind out of him. TJ struggles to get away.</context>
+      <utterance>I fuckin' told you, leave my van out of this!</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Dad runs out the front door and pulls Hesher off TJ by the back of his shirt.</context>
+      <utterance>Let go of me! Fuckin' let go of me.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Hesher shakes free from Dad's grip and punches him square in the nose. Dad goes down hard.</context>
+      <utterance>What in God's name -</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't fuckin' touch m-</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="13">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's my car?</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing!?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's my fucking car?</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you crazy?!</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You make me ask one more time, your toe's coming off. I swear to God.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's gone to the wrecker's.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The wrecking yard.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ squeezes a little harder. Dustin squeals a little louder.</context>
+      <utterance>Bullshit.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why would I be lying?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because you're a fucking asshole. Tell me where it is.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context>TJ squeezes harder. Dustin squeals.</context>
+      <utterance>It's gone to the wrecker's. I swear to God.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ thinks, holding Dustin's toe in his grip.</context>
+      <utterance>I'm not lying. It went to the wrecking yard on Sunrise near Red Bridge, yesterday afternoon. It's there now.</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="3">
+   <speaker>CONTINUED:</speaker>
+      <mode>2 - CONT'D</mode>
+      <context></context>
+      <utterance>I swear to God, man. It's at the wrecking yard on Sunrise.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ doesn't quite know what to do now. He stares at Dustin who looks genuinely frightened. TJ releases the shears and backs away. And the second he does so, Dustin leaps off the couch, grabs TJ by the throat and slams him down on the living room floor. TJ drops the shears.</context>
+      <utterance>If you're lying, I'm gonna cut off every one of your fingers.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context>Dustin wails into TJ. TJ cowers on the ground. Punches land</context>
+      <utterance>You finished? Want to tell me something else while you're visiting?</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="6">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context>Dustin moves to stand. Hesher pounces on him, dragging him along the ground. He grabs the shears and brings them straight up to Dustin's nose. In the same movement, he snaps the shears shut and takes the end of Dustin's nose off. Dustin squeals in pain and scurries backwards, clutching his face, blood leaking between his fingers. TJ stands, stunned.</context>
+      <utterance>What the fuck?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck is wrong with you?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my god, my nose!</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck is wrong with you?</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="10">
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just saved you.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You cut his nose off.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>TJ goes to the kitchen.</context>
+      <utterance>Only a bit, it's just a cut. Dustin is crying now, clutching his face.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just cut his nose off!</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>TJ runs a rag under the tap and takes it to Dustin. Hesher stands, clutching the shears, confused.</context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Dustin moans. Hesher is still confused.</context>
+      <utterance>Hold this against your face.</utterance>
+   <speaker>TJ</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You gotta stop the bleeding.</utterance>
+   <speaker>DUSTIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my god!</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Dustin holds the rag. TJ stands to face Hesher.</context>
+      <utterance>What's your problem?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>They look at each other a moment. Hesher looks taken aback. He honestly believed he was doing a good thing. TJ leaves, through the front door. Hesher stands over a whimpering Dustin wondering what went wrong.</context>
+      <utterance>I want you outta my life. I'm serious. I never want to see you again. How many times do I have say it?</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="3">
+   <speaker>MOM</speaker>
+      <mode></mode>
+      <context>We're going to be late.</context>
+      <utterance>Teej, c'mon sweetheart. We have to go.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about the pizza?</utterance>
+   <speaker>MOM</speaker>
+      <mode></mode>
+      <context>She begins to do up TJ's tie.</context>
+      <utterance>We'll eat it in the car.</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="4">
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>The three emerge from the house. TJ is wearing a suit and carrying the pizza box, Dad's carrying the heavy present, and Mom's carrying a bouquet of flowers and her purse. Dad stands at the door of a little white car. Clearly the box is too big.</context>
+      <utterance>Holy crap, what is this thing?</utterance>
+   <speaker>DAD</speaker>
+      <mode>CONT'D</mode>
+      <context>Mom open the back of her red volvo which is parked right next to the white car.</context>
+      <utterance>Ah, slight problem.</utterance>
+   <speaker>MOM</speaker>
+      <mode></mode>
+      <context>Dad does a heel spins around the white car and heads towards Mom's red volvo, never losing a beat.</context>
+      <utterance>We'll take my car.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure thing.</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="10">
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think we should keep the new one and give them our old one.</utterance>
+   <speaker>MOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a great idea. I'll be sure to let them know that our dirty old microwave is a gift from you.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good. I'm not even sure they know who I am.</utterance>
+   <speaker>MOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honey, they're my friends. Please.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>OK, I just don't understand why they get so many presents.</utterance>
+   <speaker>MOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A microwave and a bottle of scotch is hardly a lot of presents.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Mom half-laughs and shakes her head.</context>
+      <utterance>And flowers.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom can you turn on the radio?</utterance>
+   <speaker>MOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure honey. How about some oldies?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Mom turns on the oldies station. Dion And The Belmont's, "A Teenager In Love" plays. Dad sings along. The car hits a bump. Mom smudges her lipstick.</context>
+      <utterance>Oldies but goodies.</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="4">
+   <speaker>MARIO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ricky!</utterance>
+   <speaker>MARIO</speaker>
+      <mode>YELLS LOUDER</mode>
+      <context>Ricky sticks his head out of the crane cab, like he can't hear.</context>
+      <utterance>Ricky! Kill it, man.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>MARIO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kill it! There's someone in the car!</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="7">
+   <speaker>MARIO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell are you doing?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>MARIO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What were you doing in there?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. I'm sorry.</utterance>
+   <speaker>MARIO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This car's about to get crushed. If I didn't see you, you would be dead.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know.</utterance>
+   <speaker>MARIO</speaker>
+      <mode></mode>
+      <context>TJ doesn't respond, he backs away. Mario watches him walk away, still disbelieving. He turns back to Ricky and gives him the all clear to start her up again. TJ walks to the entrance gate while behind him his mom's car is hoisted high in the air. TJ stops at a dirty vending machine by the gate. He pulls coins from his pocket and slots them in. It spits out a chocolate bar. Moments later TJ stands with his half-eaten chocolate bar while watching his Mom's car get fed into a giant crushing machine and compacted into scrap. Tears well in his eyes. He feels helpless.</context>
+      <utterance>What were you thinking, man?</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="8">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where have you been?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. I lost track of time.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You lost track of time? It's ten in the morning!</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been up all night. How is that fair to me?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Dad looks at him, breathing hard. Tears well in his eyes. Dad starts crying, he's falling to bits.</context>
+      <utterance>I don't know.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Dad knows he's being pathetic. TJ walks off down the hall.</context>
+      <utterance>Just go to your room.</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="2">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hesher's not here.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came to see you.</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="9">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why? What do you want?</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>TJ stares at her.</context>
+      <utterance>I wanted to tell you something.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I didn't know if I should come here or not, but I couldn't stop thinking about it. I thought maybe if I came you'd still just be really angry at me and hate me, but then I thought if I didn't you'd think I didn't care and you'd hate me anyway, so I figured I might as well come, just in case, so here I am.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, well what do you want?</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to apologize. I feel bad about what happened. I didn't take your feelings into consideration -</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, well, whatever. It doesn't really matter. I have to go.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context>TJ looks at her, he doesn't really want to be mad at her.</context>
+      <utterance>Yes it does. It does to me. I like you, TJ. We're friends.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode>CONT'D</mode>
+      <context>Nicole walks off. She gets half way across the lawn before -</context>
+      <utterance>I understand if you don't want to be my friend. I didn't mean to hurt your feelings. Sometimes I just... I don't know. I just wanted to come around and say all that, but maybe you still hate me and so it doesn't matter, but I just came round to say that, but I've said it now, so I should just go. So, OK, bye.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry I broke your lamp.</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="7">
+   <speaker>CONTINUED:</speaker>
+      <mode>2</mode>
+      <context></context>
+      <utterance>Nicole turns.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's OK.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I'm sorry I called you a fat prostitute.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's OK.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Nicole smiles at this.</context>
+      <utterance>You're not fat.</utterance>
+   <speaker>NICOLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I'm a prostitute?</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>They smile at one another. She crosses the lawn back toward TJ. She fixes his tie. She smiles again and then she leaves.</context>
+      <utterance>I dunno. Maybe.</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="2">
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, sure.</utterance>
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know that we discussed your preferences for some aspects of today's service, including your choice of the cedar casket which the insurance company had covered. Unfortunately we were out of those and instead we've chosen a mahogany casket. Now there is an extra charge for the mahogany which I need to clear with you before we proceed. Is that</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="5">
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, I guess.</utterance>
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode></mode>
+      <context>The director hands Dad a fancy pen and holds out a dense order form for him to sign.</context>
+      <utterance>OK, great, thank you. If you could just sign here.</utterance>
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>Dad's pen hovers. He doesn't know where he's signing.</context>
+      <utterance>Just at the bottom there.</utterance>
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>Dad signs and hands the pen back.</context>
+      <utterance>Just here, Mr. Forney, just under that... yes, that's great.</utterance>
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Now, just one other thing - we have another service following yours today, we hate to do this, but we're going to have to try to get through yours as quickly as possible.</utterance>
+</dialogue>
+
+<dialogue id="128" n_utterances="2">
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>Dad looks at the funeral director, not quite sure he's hearing him right. The funeral director's phone continues to vibrate.</context>
+      <utterance>I don't want you to feel rushed, but we are really under the pump today and I just thought I should give you the heads up. Now, I notice, just looking at your order of service...  Ah, look, let's play it by ear. We should be fine.</utterance>
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>The funeral director walks away and answers his phone.</context>
+      <utterance>OK. Excuse me.</utterance>
+</dialogue>
+
+<dialogue id="129" n_utterances="2">
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode></mode>
+      <context>MRS AGNES ROSOWSKI hobbles her way to the microphone.</context>
+      <utterance>We are gathered here today to mourn the loss and commemorate the life of Madeleine Frances Forney.  Ah, if you could please take your seats as quickly as possible that'd be great. Thank you.  Madeleine was a beloved wife, mother, grandmother and friend. And now Mrs Agnes Rosowski, a dear friend and neighbor, will say a few quick words.</utterance>
+   <speaker>MRS ROSOWSKI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did not know Madeleine long enough, but from the moment I moved into the neighborhood so many years ago, she treated me as though I was part of the family.</utterance>
+</dialogue>
+
+<dialogue id="130" n_utterances="6">
+   <speaker>MRS ROSOWSKI</speaker>
+      <mode>CONT'D</mode>
+      <context>Agnes places her hand on Grandma's coffin and stands for a long silent beat.</context>
+      <utterance>We shared so many wonderful walks and enjoyed each other's company very much. I will miss our walks. I will miss our talks and most of all, I will miss Madeleine. I will always remember what she told me, life is like walking in the rain, you can either hide and take shelter or you can just get wet. She was dear to me and she will always have a place in my heart.</utterance>
+   <speaker>MRS ROSOWSKI</speaker>
+      <mode>CONT'D</mode>
+      <context>Another drawn out moment of silence. The funeral director takes this opportunity to step to the microphone.</context>
+      <utterance>I love you, Madeleine.</utterance>
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode></mode>
+      <context>Agnes steps towards her seat. When she sees TJ she stops.</context>
+      <utterance>OK, thank you, Agnes...</utterance>
+   <speaker>MRS ROSOWSKI</speaker>
+      <mode></mode>
+      <context>The funeral director pauses awkward. Everyone looks at TJ.</context>
+      <utterance>TJ, I think you should say something.</utterance>
+   <speaker>MRS ROSOWSKI</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ gets up reluctantly. He doesn't know what to say. He stands at the microphone and struggles for a long beat, but nothing comes out.</context>
+      <utterance>Go on, TJ.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>TJ makes his way off the stage.</context>
+      <utterance>Sorry.</utterance>
+</dialogue>
+
+<dialogue id="131" n_utterances="8">
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>OK, so at this point we should conclude today's service with a moment's silence, after which lemonade will be served in the...</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher stands and makes his way to the front. The funeral director tries politely to protest.</context>
+      <utterance>Actually, I'd like to add to TJ's speech. I think I know where he was going with that.</utterance>
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode></mode>
+      <context>Dad stands up in the aisle and tries to stop Hesher.</context>
+      <utterance>I'm sorry, sir...</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Up on the stage, funeral home employees begin wheeling Grandma's coffin away.</context>
+      <utterance>What are you doing here?</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Hesher pushes past Dad and stops the coffin.</context>
+      <utterance>Hey, hey, hey...</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>The funeral director walks up to Hesher.</context>
+      <utterance>What are you doing? Get your fuckin' hands off that box.</utterance>
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, sir we really need to- Hesher turns and stands at the microphone.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Um...</utterance>
+</dialogue>
+
+<dialogue id="132" n_utterances="7">
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode></mode>
+      <context>Hesher pushes the funeral director's arm away hard.</context>
+      <utterance>I'm sorry, sir-</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>The funeral director backs off, scared and unsure of what to do.</context>
+      <utterance>You touch me again, I'll rip your fucking head off and skull fuck you.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Ah, OK. Listen. I know you guys don't want me here and I don't want to fucking be here, but I'm not here for me, I'm fuckin' here for her- Hesher gestures to Grandma's coffin.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>- and I'm not fuckin' here to say goodbye or have my farewell or whatever the fuck you assholes call it - this is not how I want to say goodbye to someone I like - in this shit-hole with these- Hesher points to the funeral director.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>TJ's dad stands and interrupts.</context>
+      <utterance>- fuckin' assholes.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>OK, this is enough-</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>There is a beat of silence. No one knows what to say or do.</context>
+      <utterance>Yeah, well why don't you shut up for a second and listen cause I'm going to say what I want to say and then you'll never see me again. Alright?!</utterance>
+</dialogue>
+
+<dialogue id="133" n_utterances="4">
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher takes a long pull from his beer can.</context>
+      <utterance>I'm here cause she's been trying to tell you guys something, but you don't want to listen... so I'm gonna fuckin' break it down.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher makes a magic disappearing arm gesture, spilling a bit of beer on the floor.</context>
+      <utterance>I pulled the gas tank from an old Chevy and I wanted to fuckin' blow it up, so I did. I didn't think about the millions of bits of metal that were gonna fly in every direction. I almost killed myself. I woke up in a hospital. I couldn't remember what happened and then this doctor at the end of my bed said 'son', and I said, 'don't call me son you fuckin' cunt', then he said, 'you blew off your nut'. Some shrapnel had penetrated my left scrotal sack and ripped the furry sucker right off. My left fucking nut was gone, just like that.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>The tiny crowd listens, half offended, half intrigued.</context>
+      <utterance>I went crazy. I assaulted a nurse, a doctor or two, I can't remember. I got arrested. I got sent to juvie. But all I could think about day and night was my missing fuckin' nut. I couldn't eat or sleep, I just wanted my fucking nut back. I had to get out of there and find it, so I busted out of juvie and went lookin' for it. I looked for days, but didn't find shit.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>And then one night I was taking a shit and I was just staring down at my balls, looking at my flabby piece of sack where my left nut used to be and then I noticed my right nut, for like the first time. My right nut was just sitting there, totally happy, just hanging out.</utterance>
+</dialogue>
+
+<dialogue id="134" n_utterances="6">
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher looks up at TJ and Dad, sad and imploring, he's made his point. They look back at him stunned.</context>
+      <utterance>All this time I'd been driving myself crazy thinking about my missing nut and not thinking about the nut I still had all along. And I realized, I've still got a nut. I've still got one good nut. God or the Devil or whoever left me with one good nut. At least I didn't lose both my nuts. I've still got one good nut and it works, and my dick works too.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher takes the last swig of his Budweiser. He sways, drunk. This soaks in with the crowd.</context>
+      <utterance>You lost your mom. You lost your wife. I lost a nut.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Hesher throws the can down. He goes to stomp on it. He misses and stumbles, crashing into the microphone podium, knocking it over and falling in a heap with it. He starts puking on the stage. A couple of old ladies are horrified. The funeral director motions to his assistants that now is the time to move the coffin out. Hesitantly, they obey. Hesher looks over from the floor.</context>
+      <utterance>Fuck this.</utterance>
+   <speaker>HESHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Leave her alone. We're not finished yet.</utterance>
+   <speaker>FUNERAL DIRECTOR</speaker>
+      <mode>POLITELY</mode>
+      <context>They continue to push the coffin away. Hesher lifts himself up and wipes the vomit from his face and steps toward the coffin. The funeral workers back away.</context>
+      <utterance>Unfortunately sir, we need to be.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context>Determined, Hesher leans down and unlocks the wheels of the coffin stand. Dad stands, not exactly sure what to do.</context>
+      <utterance>I told Grandma I was going on a walk with her and I'm gonna do it!</utterance>
+</dialogue>
+
+<dialogue id="135" n_utterances="3">
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>Hesher squirms and slurs.</context>
+      <utterance>That's the plan.</utterance>
+   <speaker>HESHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get your hands off me, pig.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context>The cop gives them a casual wave as their car pulls away. TJ and Dad help Hesher across the lawn to the front door. We hold on the house for a beat.</context>
+      <utterance>That's the plan.</utterance>
+</dialogue>
+
+<dialogue id="136" n_utterances="5">
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context>Dad enters, he's clean-shaven now. He looks like a new man.</context>
+      <utterance>Come in.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Morning, Teej.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey. Look at you.</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know. It feels weird. I can feel air on my face.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hardly recognize you.</utterance>
+</dialogue>
+
+<dialogue id="137" n_utterances="3">
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think Hesher's gone.</utterance>
+   <speaker>TJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gone where?</utterance>
+   <speaker>DAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. But I think you should come take a look at this.</utterance>
+</dialogue>
+
+
+</movie>

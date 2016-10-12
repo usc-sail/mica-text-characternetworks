@@ -1,0 +1,3713 @@
+<movie id="517" title="Star Trek II The Wrath of Khan">
+
+<dialogue id="1" n_utterances="20">
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leaving Section Fourteen for Section Fifteen.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Project parabolic course to avoid entering Neutral Zone.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, Captain.</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain... I'm getting something on the distress channel. Minimal signal... But something...</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you amplify?</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm trying...</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Course change projected.</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's an emergency distress call!</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On speakers!</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Imperative! Imperative! This is the Kobayashi Maru -- nineteen periods out of Altair Six. We have struck a gravitic mine and have lost all power... Our hull is...  ... and many casualties.</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the Starship Enterprise. Your message is breaking up. Give your coordinates. Repeat --</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Enterprise, our position is Gamma Hydra, Section Ten...</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the neutral zone.</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context>Breaks up.</context>
+      <utterance>Hull penetrated, life support systems failing. Can you assist us, Enterprise? Can you...</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Tactical on big screen.</context>
+      <utterance>Data on Kobayashi Maru! Tactical!</utterance>
+   <speaker>COMPUTER VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Subject vessel is third class neutronic fuel carrier, crew of eighty-one, three hundred passengers.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn.  Mr. Sulu, plot an intercept course.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I remind the Captain that if a Starship enters the zone --</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm aware of my responsibilities, Mister.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Now entering the Neutral Zone...</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="26">
+   <speaker>COMPUTER VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Warning. We have entered the Neutral Zone... Warning...</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context>On screen: Enterprise approaches the stricken vessel.</context>
+      <utterance>Estimating two minutes to intercept.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stand by transporter room, ready to beam survivors, aboard.</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain, I've lost their signal!</utterance>
+   <speaker>COMPUTER VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alert. Sensors indicate three Klingon Cruisers, bearing 316, mark 4, closing fast.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>On screen we see the approach of the Klingon vessels, they are dark and sinister.</context>
+      <utterance>Visual!</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>The ALARM SOUNDS.</context>
+      <utterance>Battle stations! Activate shields!</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shields activated!</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Inform the Klingons we are on a rescue mission...</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're jamming all frequencies, Captain --</utterance>
+   <speaker>COMPUTER VOICE</speaker>
+      <mode></mode>
+      <context>Screen verifies this. Saavik makes an agonized choice.</context>
+      <utterance>Klingons on attack course and closing.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're over our heads. Mr. Sulu, get us out of here.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll try, Captain.</utterance>
+   <speaker>COMPUTER VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Klingon cruisers approaching, bearing 090, mark 20.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>The image flops: more Klingons approach. They FIRE photon torpedoes.</context>
+      <utterance>Visual!</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Sulu does his best, but Enterprise is hit; Sulu is hurled from his station, and Bones hurries to him.</context>
+      <utterance>Evasive action!</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Engineering! damage report!</utterance>
+   <speaker>SCOTTY'S VOICE</speaker>
+      <mode>INTERCOM</mode>
+      <context></context>
+      <utterance>Main energizer hit, Captain!</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>The bridge takes another hit -- a big one. In its wake there is a second electrical EXPLOSION along the communi- cations panel. Uhura falls from her station. Bones rushes to her side amid the smoke and alarms.</context>
+      <utterance>Engage auxiliary power. Prepare to return fire!</utterance>
+   <speaker>A CADET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shields collapsing, Captain!</utterance>
+   <speaker>SCOTTY'S VOICE</speaker>
+      <mode>FILTERED</mode>
+      <context></context>
+      <utterance>Captain, we're losing auxiliary power!</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fire all phasers...!</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Another hit: reverberating flashes of spark and flame on the bridge. Spock dies. Bones comes to him, but even as he coughs his way through the smoke, a final hit and Bones falls. The room is smoke filled and a shambles. Saavik looks about in shock.</context>
+      <utterance>No power to the weapons system, sir.</utterance>
+   <speaker>SCOTTY'S VOICE</speaker>
+      <mode>FILTERED</mode>
+      <context>Saavik digests this for a painful moment. Then, touch- ing a comm button:</context>
+      <utterance>Captain, it's no use. We're dead in space.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Repeat -- all hands --</context>
+      <utterance>Activate escape pods. Send out the Log Buoy... All hands abandon ship.</utterance>
+   <speaker>KIRK'S VOICE</speaker>
+      <mode>FILTERED</mode>
+      <context>There is a loud CLANGING and --</context>
+      <utterance>All right, open her up.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="20">
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any suggestions, Admiral?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Prayer, Mr. Saavik. The Klingons do not take prisoners.  Captain.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Sulu awakens with a grin. Uhura straightens herself demurely. The Trainees head toward the distant room, Spock rises and leaves. Bones remains on the floor, head propped in his hand, whimsically.</context>
+      <utterance>Trainees to the briefing room.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Physician, heal thyself.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's all you have to say?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Bones rolls his eyes and rises. Kirk sees Saavik who has not moved.</context>
+      <utterance>I'm not a drama critic.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, Mr. Saavik, are you going to stay with the sinking ship?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Permission to speak candidly, sir?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very well.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't believe this was a fair test of my command capabilities.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And why not?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because... there was no way to win.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A no-win situation is a possibility every commander may face. Has that never occurred to you?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... No, sir. It has not.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How we deal with death is at least as important as how we deal with life, wouldn't you say?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As I indicated, Admiral, that thought had not occurred to me.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>She stays at attention.</context>
+      <utterance>Then you have something new to think about. Carry on.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wouldn't it be easier to put an experienced crew back on the ship?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>He leaves. They look at each other.</context>
+      <utterance>They'll learn. Galloping about the cosmos is a game for the young, doctor.</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context>HOLD ON Saavik.</context>
+      <utterance>What is that supposed to mean?</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="17">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Spock almost smiles.</context>
+      <utterance>Aren't you dead?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I assume you are loitering here to learn what efficiency rating I plan to give your cadets.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>They walk together.</context>
+      <utterance>I am understandably curious.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They destroyed the simulator room and you with it.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yours was not a solution which would have occurred to a Vulcan mentality.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you said at the time. Speaking of which, your prot‚g‚'s first rare -- a trifle emotional --</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's half Romulan, Jim. The admixture makes her more volatile than -- me, for example.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>He lifts the book.</context>
+      <utterance>Than you. Yes, I see that. By the way, thank you for this.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know of your fondness for antiques.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'It was the best of times, it was the worst of times...' Message, Spock?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Kirk looks around uncomfortably, overlaps:</context>
+      <utterance>None of which I am consciously aware -- except, of course, happy birthday -- surely the best of times.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hrummm... and where are you off to, now?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Enterprise. I must check in before your inspection. And you?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Spock studies him --</context>
+      <utterance>Home.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>They are old friends --</context>
+      <utterance>Something oppresses you.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>He steps into a turbo elevator. The doors close as Spock watches, wiping the scene.</context>
+      <utterance>Something.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="8">
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Standard orbit, Mr. Beach.</utterance>
+   <speaker>BEACH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Standard orbit, sir.</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any change in surface scan?</utterance>
+   <speaker>BEACH</speaker>
+      <mode></mode>
+      <context>Forward screen:</context>
+      <utterance>Negative. Limited atmosphere, dominated by craylon gas, sand and high velocity winds. Incapable of supporting life forms.</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've picked up a minor energy flux reading on one dyno scanner.</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn! Are you sure? Maybe the scanner's out of adjustment --</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose it</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what she'll say...</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="3">
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It might only be a particle of preanimate matter...</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then again it might not. You boys have to be clear on this: there can't be so much as a microbe or the show's off.  Why don't you have a look? If it IS something that can be moved...</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context>Carol sighs as the image fades, not happy.</context>
+      <utterance>You bet, doctor. We're on our way!</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="10">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can you let them pull that stuff on you? They're just lazy.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And bored. I know. But maybe it IS something they can...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>If there's one atom of life...</context>
+      <utterance>Come on, Mother, that's just the military mentality. Never put off tomorrow what you can put off today.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>Silence.</context>
+      <utterance>I know, I know...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, don't have kittens. Genesis is going to work. They'll remember you in a wreath with Newton, Einstein, Surak...</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks a lot. No respect from my offspring --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Par for the course... you teaming up with me for bridge after dinner?</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>They walk past the CAMERA, their VOICES FADING.</context>
+      <utterance>Every time we have dealings with Starfleet, I get nervous.  We're dealing with something that COULD be perverted into a dreadful weapon. Remember that overgrown boy scout you used to hang out with? That's exactly the --</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>HOLD ON the empty corridor.</context>
+      <utterance>Listen, kiddo, Jim Kirk was many things, but he was never a Boy Scout...</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="29">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>The door slides open and Bones enters. He carries two packages, one of them wrapped in brown paper.</context>
+      <utterance>Come.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bless me, doctor; and what beams you into this neck of the woods?</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>With a flourish, he pulls out a bottle of blue liquid.</context>
+      <utterance>'Beware Romulans bearing gifts.' Happy Birthday...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Romulan Ale! Bones, you know this stuff is illegal --</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I only use it for medicinal purposes. Don't be a pring...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twenty-two, eighty-three...</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>He takes the bottle and pours; continues talking.</context>
+      <utterance>Takes the stuff a while to ferment. Gimme.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>Kirk starts to obey.</context>
+      <utterance>Now open the other one.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm almost afraid to. What did you bring me, contraband Klingon --</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>They drink. The package is opened: a pair of gold "Ben Franklin" half-glasses. (N.B.: Romulan Ale is an INSTANT DRUNK: both men react.)</context>
+      <utterance>More antiques for your collection -- Cheers!</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cheers. Bones, these are... charming.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Four hundred years old. You don't find many with the lens still intact.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh -- what are they?</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For your eyes. For most patients of your age, I generally administer Retlax Five to restore flexibility of the lens.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I'm allergic to Retlax.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>He toasts. Kirk is unsure how they work.</context>
+      <utterance>Exactly. Happy birthday.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Slide them down your nose. Now look at me over the top. And you read printed matter through the bottom.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amazing! I don't know what to say --</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say thank you.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>An awkward silence.</context>
+      <utterance>Thank you.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>Why're we treating yours like a funeral?</context>
+      <utterance>Damn it, Jim, what the hell's the matter? Other people have birthdays.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bones, I don't want to be lectured.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What DO you want? Damn it, why isn't there a girl here? You know this has nothing to do with age. This is about you flying a goddamn computer console when you wanna be out hopping Galaxies.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spare me your notions of poetry, please. We all have our assigned duties and...</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bull. You're hiding -- hiding behind the rules and regulations --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And who am I hiding from?</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>Pause. Kirk pours another drink.</context>
+      <utterance>From yourself, Admiral.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't mince words, Bones; tell me what you really think.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>They look at each other.</context>
+      <utterance>I'm your doctor and I'm your friend, Jim. Get back your command. Get it back before you really do grow old. Before you turn into part of this collection.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="3">
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you sure these are the coordinates?</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain, this is the garden spot of Ceti Alpha VI --</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can hardly see --</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="6">
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context>As Chekov looks at the porthole, a face suddenly looks back! It is the face of a CHILD! The Apparition scares the daylights out of Chekov -- and us. He screams.</context>
+      <utterance>They look like cargo carriers...</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context>He comes clumsily over --</context>
+      <utterance>What is it?</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A face! I saw -- it was like a child -- He points. The porthole is empty.</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're crazy -- !</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I saw it -- !</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context>He points and they go into the airlock.</context>
+      <utterance>There's an air-lock.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="3">
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context>He takes off his helmet; Chekov likewise.</context>
+      <utterance>There's breathable atmosphere in here.</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you! I told you I saw a --</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context>They start looking. They enter a new chamber --</context>
+      <utterance>Ssssh!</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="2">
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain, we've got to get out of here --</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never mind! Hurry!</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="3">
+   <speaker>BEACH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Try again.</utterance>
+   <speaker>KYLE</speaker>
+      <mode></mode>
+      <context>Nothing.</context>
+      <utterance>Starship Reliant to Captain Terrell ... This is Lieutenant Kyle. Will you please respond, Captain... Captain Terrell, respond please.</utterance>
+   <speaker>BEACH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's give them a little more time.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="8">
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context>KHAN is startled by the recognition; comes over and examines Chekov and Terrell.</context>
+      <utterance>Khan!</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know you. But you. I never forget a face. Mister Chekov, isn't it?  I never thought to see your face again.</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chekov, who is this man?</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A criminal, Captain -- a product of the late 20th Century genetic engineering --</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want with us? I demand --</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are in a position to demand nothing, sir. I, on the other hand, am in a position to grant nothing. What you see is all that remains of the ship's company and the crew of the</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Save your strength, Captain, these people have sworn to live and die at my command two hundred years before you were born. Do you mean he...  ... never told you the tale? To amuse you, Captain? Never told you how the</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Admiral? He didn't tell you how</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="2">
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I'll wager he never told you about his shipmate, the beautiful and courageous Lieutenant McGiver, who gave up everything to join me in exile. OUT OF LOVE. And see how</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>They don't answer. Khan goes over to Terrell and, WITH</context>
+      <utterance>You didn't expect to find me. You thought this was Ceti Alpha VI. Why are you here?</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="4">
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>Terrell gasps, stays silent --</context>
+      <utterance>Why?</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>He lets go; Terrell falls with a thud --</context>
+      <utterance>No matter.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You will soon tell me willingly enough. He goes over to the tank and dips a kind of strainer in, pulling out TWO CETI EELS -- wriggling items --</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me introduce you to Ceti Alpha V's only remaining indigenous life form; what do you think? They've killed twenty of my people, including my beloved wife. Oh, not all at once and not instantly, to be sure. Their young enter through the ears and wrap themselves around the cerebral cortex. This has the effect of rendering the victim</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="2">
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>At a sign, the helmets are slammed down. As the muffled shrieks are heard from within, the eels crawl across the faces of Chekov and Terrell; with unerring in- stincts they head for the ears of the two hapless men. There is some atrocious pain as they enter -- then dazed calm.</context>
+      <utterance>There is some pain at first, I am told, and then the effects are quite benign -- until the end. That was what I learned from watching my wife.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's better! Now: tell me why you are here -- and tell me where I may find James Kirk.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="7">
+   <speaker>KYLE</speaker>
+      <mode></mode>
+      <context>No answer -- Beach makes up his mind --</context>
+      <utterance>Captain Terrell. Captain Terrell... This is Reliant; please respond.</utterance>
+   <speaker>BEACH</speaker>
+      <mode></mode>
+      <context>He heads for the door but is stopped by:</context>
+      <utterance>Mr. Kyle, muster a landing party with full arms. Alert the transporter room. We're beaming down.</utterance>
+   <speaker>TERRELL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Reliant, this is Terrell. Respond please.</utterance>
+   <speaker>BEACH</speaker>
+      <mode></mode>
+      <context>Fractional pause.</context>
+      <utterance>This is Reliant. Clark, are you all right?</utterance>
+   <speaker>TERRELL'S VOICE</speaker>
+      <mode></mode>
+      <context>Beach and Kyle look at each other.</context>
+      <utterance>Everything's fine, commander. I'll explain when I see you. Oh, by the way, we're bringing several guests aboard. Prepare to beam up on my next signal. Terrell out.</utterance>
+   <speaker>KYLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guests?</utterance>
+   <speaker>BEACH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe we ARE transplanting something.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="7">
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Enterprise, this is Admiral Kirk's party on final approach.</utterance>
+   <speaker>ENTERPRISE VOICE</speaker>
+      <mode></mode>
+      <context>Kirk looks up from his book as Sulu sits next to him.</context>
+      <utterance>Enterprise welcomes you. Prepare for docking.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I really must thank you.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am delighted; any chance to go aboard Enterprise, however briefly, is always an excuse for nostalgia.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I cut your new orders personally. By the end of the month, you'll have your first command: USS EXCELSIOR.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you, sir. I've looked forward to this for a long time.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Sulu laughs.</context>
+      <utterance>You've earned it. But I'm still grateful to have you at the helm for three weeks. I don't believe these kids can steer.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="19">
+   <speaker>INTERCOM VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Docking procedure complete.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>The group comes to attention.</context>
+      <utterance>Prepare for Admiral's inspection.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>The doors open. Kirk and his staff are piped aboard by an electronic version of the boatswain's tradi- tional whistle. Kirk salutes the Federation symbol and steps forward to exchange salutes with Spock.</context>
+      <utterance>Open the Air Lock.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Permission to come aboard, Captain?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welcome aboard, Admiral. I believe you know my trainee crew. Certainly they have come to know you.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Saavik stiffens slightly -- humor is not her forte.</context>
+      <utterance>Yes, we've been through death and life together.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Scott, you old space dog. You're well?</utterance>
+   <speaker>SCOTTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I had me a wee bout -- but Dr. McCoy pulled me through.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Uncomfortable, Scotty exchanges a glance with Bones --</context>
+      <utterance>Oh? A wee bout of what, Mr. Scott?</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shore leave, Admiral.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>He stops before a BRIGHT-FACED FOURTEEN-YEAR OLD, stand- ing so stiff he looks like he'll break -- in an engineer's uniform.</context>
+      <utterance>Ah.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And who is this?</utterance>
+   <speaker>PRESTON</speaker>
+      <mode></mode>
+      <context>A big salute. Kirk is amused, returns the salute.</context>
+      <utterance>Midshipman First Class Peter Preston, engineers mate, SIR.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Preston?</context>
+      <utterance>Your first training voyage, Mr.</utterance>
+   <speaker>PRESTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, SIR.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>He moves, followed by his staff.</context>
+      <utterance>I see. Well, shall we start with the engine room?</utterance>
+   <speaker>SCOTTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I believe you'll find all in order --</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll see you on the bridge, Admiral.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Kirk and party leave. CAMERA PUSHES IN ON SPOCK AND</context>
+      <utterance>Very good, Mr. Spock.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="5">
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's not what I expected, Sir.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you expect, Lieutenant?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's very human.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Saavik is humbled.</context>
+      <utterance>We can't all be perfect, Saavik. You must control your prejudices and remember that as a Vulcan as well as a Romulan you are forever a stranger in an alien land. Around you are humans, and as a member of the Starfleet you are unlikely ever to escape their presence or their influence. You must learn to tolerance in addition to all else I have taught you. Tolerance is logical.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As always, my mentor. Company dismiss.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="11">
+   <speaker>PRESTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I believe you'll find everything shipshape, Admiral.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh do you? Have you any idea, Midshipman Preston, how many times I've had to listen to Mr. Scott on the Comm, telling me his troubles? Have you any idea the ribbing I've had to endure in the officers' mess to the effect that the Enterprise is a flying death trap?</utterance>
+   <speaker>PRESTON</speaker>
+      <mode></mode>
+      <context>Approving laughter. Kirk looks amused.</context>
+      <utterance>If the Admiral can't see the facts for himself, then, with all due respect, he's as blind as a Tiberion bat. SIR.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Midshipman, you're a tiger.</utterance>
+   <speaker>SCOTTY</speaker>
+      <mode></mode>
+      <context>Crazy to get to space.</context>
+      <utterance>My sister's youngest, Admiral.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every young boy's fancy. I seem to remember it myself.  Very well. Mr. Scott, are your engines capable of handling a minor training cruise?</utterance>
+   <speaker>SCOTTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give the word, Admiral.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Scott, the word is given.</utterance>
+   <speaker>SCOTTY</speaker>
+      <mode></mode>
+      <context>He moves off, followed by Preston, who gives one last salute as Kirk leaves, followed by Bones.</context>
+      <utterance>Aye, sir.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about the rest of the inspection, Admiral?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>They step into the Turbo Lifts.</context>
+      <utterance>The inspection will continue once we're underway, Doctor.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="4">
+   <speaker>INTERCOM VOICE</speaker>
+      <mode></mode>
+      <context>Enterprise is cleared for departure.</context>
+      <utterance>This is Starfleet operations.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Admiral on the bridge!</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very well, Mr. Saavik, clear all moorings.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Saavik punches data into her console.</context>
+      <utterance>Aye, sir.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="10">
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All moorings are clear, Captain.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Spock casts a glance at Kirk, then, to Saavik:</context>
+      <utterance>Thank you, Mr. Saavik.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lieutenant, how many times have you piloted a Starship out of Spacedock?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Kirk tries to conceal his reaction. Spock enjoys it.</context>
+      <utterance>Never, sir.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take her out, Mr. Saavik.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Saavik settles herself in the chair, looks again at the console -- Spock looks at Kirk.</context>
+      <utterance>Aye, sir.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a first time for everything, Admiral.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>They all stifle their responses. Kirk is like a father watching his kid drive the family car for the first time.</context>
+      <utterance>To be sure, Captain.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aft thrusters, Mr. Sulu.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aft thrusters, sir.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="3">
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Kirk starts to say something, but doesn't. Bones looks at him.</context>
+      <utterance>Ahead one quarter impulse power.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>Kirk shakes his head, takes a breath --</context>
+      <utterance>Would you like a tranquilizer?</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ahead one quarter impulse power.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="4">
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We are clear and free to navigate.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Spock turns inquiringly to Kirk.</context>
+      <utterance>Course heading, Captain?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Spock digests this with a slight smile.</context>
+      <utterance>Captain's discretion.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Sulu, you may follow your nose.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="11">
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Steady on course. All systems normal.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not much different from Enterprise.  When I was a guest aboard her some years ago, Captain Kirk kindly allowed me to memorize her technical manuals. And now, Mr. Chekov, let us review: You say you have no details of Project 'Genesis' ?</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Beyond what I told you, sir, it is classified information.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Umm. And would Admiral Kirk have access to such information?</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I would think so, sir. He's on the Fleet General Staff.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then to whom do you report directly regarding Genesis?</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To Doctor Marcus, the civilian director of the experiments on Space Laboratory Regula I.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see. Helmsman?</utterance>
+   <speaker>HELMSMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, sir.</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I speak? We're all with you, sir, but consider: we are free, we have a ship and the means to go where we will. We have escaped permanent exile on Ceti Alpha V. You have proved your superior intellect and defeated the plans of Admiral Kirk. You do not need to defeat him again.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He tasks me -- and I'll have him. I'll chase him round the moons of Nibia and round the Antares maelstrom and round perdition's flames before I give him up.  Prepare to alter course -- for Space Station Regula I.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="20">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does that about do it?</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think there's another piece of information we could squeeze into the memory banks. Next time, we'll design a bigger one.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who -- Jedda at the Comm Console overlaps.</utterance>
+   <speaker>JEDDA</speaker>
+      <mode></mode>
+      <context>Carol moves forward as the others close in.</context>
+      <utterance>Comm-Pic coming in on hyperchannel ... It's Reliant.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>Buttons punched; the screen ebbs, flows and crackles on. ON SCREEN is CHEKOV.</context>
+      <utterance>On the screen, please, Jedda.</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... come in, please. This is Reliant calling Regula I. Repeat. This is USS Reliant --</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Commander, we are receiving. This is Regula I. Go ahead.</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dr. Marcus... good. We're en route to you and should be there in three days.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>(pause)</context>
+      <utterance>En route? Why? We weren't expecting you for another three months. Has something happened?</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I still don't under --</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context>Consternation in the lab. David is livid -- the words "Bullshit" are overlapped by his mother.</context>
+      <utterance>We have received new orders. Upon our arrival at Regula I, all materials of Project Genesis will be transferred to this ship for immediate testing at Ceti Alpha VI.</utterance>
+   <speaker>CAROL</speaker>
+      <mode>back to console</mode>
+      <context></context>
+      <utterance>The order comes from Starfleet command, Dr. Marcus, direct from the General Staff.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But Genesis is a civilian project, under my control --</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have my orders.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Chekov hesitates, seems to be listening to someone off the monitor.</context>
+      <utterance>Pin him down, mother! Who gave the orders!?</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context>Sensation in the lab.</context>
+      <utterance>The orders come from Admiral James T. Kirk.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He starts to press a button; Carol pushes his hand away and communicates herself.</context>
+      <utterance>I knew it! I knew it! All along the military has wanted to get their hands on this --</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is completely improper, Commander Chekov. I have no intention of allowing Reliant or any other unauthorized personnel access to our work or materials.</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context>The image fades.</context>
+      <utterance>I'm sorry you feel that way, Doctor. Admiral Kirk's orders are confirmed. Please prepare to deliver Genesis to us upon our arrival. Reliant out.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Commander Chekov -- !</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="12">
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well done, Commander.</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context>Khan smiles, more charming than ever as we move in.</context>
+      <utterance>You realize, sir, that they will attempt to contact Admiral Kirk and confirm the order.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you please be quiet! We must have order here.  This has to be some sort of mistake.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mistake? We're all alone here. They waited until everyone was on shift-leave to do this. Reliant is supposed to be at our disposal, not vice-versa.</utterance>
+   <speaker>MADISON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It seems clear that Starfleet never intended that --</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know, but --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've tried to warn you. Scientists are always pawns of the military --</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>Silence.</context>
+      <utterance>Starfleet has kept the peace for a hundred years, I cannot and will not subscribe to your interpretation of this event.</utterance>
+   <speaker>JEDDA</speaker>
+      <mode></mode>
+      <context>Carol reacts: this is certainly true.</context>
+      <utterance>You may be right, Doctor, but what about Reliant? She's on her way.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get your gear together where it's handy.</utterance>
+   <speaker>MARCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are we going?</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>They split off in different directions as ordered.</context>
+      <utterance>That's for us to know and Reliant to find out. We have only three days. Let's not waste time.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="30">
+   <speaker>SAAVIK'S VOICE</speaker>
+      <mode></mode>
+      <context>Kirk holds and Saavik dashes in. She is surprised to see him.</context>
+      <utterance>Hold please -- !</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Kirk nods, the doors close. There is an uneasy forced intimacy between them.</context>
+      <utterance>Thank you, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lieutenant, are you wearing your hair differently?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>She reaches out and touches a button. The lift stops.</context>
+      <utterance>It is still regulation, Admiral.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I speak, sir?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lieutenant, self-expression does not seem to be one of your problems.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wish to thank you for the high efficiency rating.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You earned it.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did not think so.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're bothered by your performance on the</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>It is a test of character.</context>
+      <utterance>There is no correct resolution.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I ask how</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was a little joke.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Humor... that is a difficult concept ... it is not logical...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>She's a laugh a minute. Kirk pushes the button; the elevator starts.</context>
+      <utterance>We learn by doing, Lieutenant.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>She studies him, considering. No doubt about it, the attraction is mutual and she has no idea how to handle it.</context>
+      <utterance>You want my advice?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>The lift stops and the doors open.</context>
+      <utterance>Take the test again.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>He reacts to them. Saavik exits demurely.</context>
+      <utterance>Who's been holding up the damn elevator?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Bones enters and the doors close. Kirk studies the ceiling.</context>
+      <utterance>Thank you, sir.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>Kirk says nothing.</context>
+      <utterance>Has she changed her hairstyle?</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wonderful stuff, that Romulan ale --</utterance>
+   <speaker>UHURA'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Admiral Kirk --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kirk here.</utterance>
+   <speaker>UHURA'S VOICE</speaker>
+      <mode></mode>
+      <context>Carol Marcus.</context>
+      <utterance>I have an urgent CommPic from Space Lab Regula I for the Admiral. Dr.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In my quarters, Uhura.</utterance>
+   <speaker>UHURA'S VOICE</speaker>
+      <mode></mode>
+      <context>Awkward silence.</context>
+      <utterance>Yes, sir.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It never rains but when it pours --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>The elevator stops. Kirk leaves. The doors close.</context>
+      <utterance>As a physician you of all people should appreciate the danger of re-opening old wounds.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="16">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uhura. Can't you augment?</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context>Carol's face appears. The image will never be stable for long; sometimes the sound will be covered.</context>
+      <utterance>I'm trying, sir. Stand by...</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim... read me? Can you read me?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Message breaking up, Carol. What's wrong? What's wrong?</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Can't read you... repeat...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Repeat... what's wrong? What's wrong?</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... taking Genesis away from us...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Taking Genesis? Who? Who is taking Genesis?</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... see you but can't hear. Did you... order...?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What order? Who's taking Genesis?</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>repeat... on whose authority...</context>
+      <utterance>... Please help us, Jim... won't let them have... without proper...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Carol!</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>But the picture is irrevocably scrambled now. Kirk pounds the Comm in frustration.</context>
+      <utterance>Jim please --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uhura! What's happening? Damn it...</utterance>
+   <speaker>UHURA'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Transmission jammed at the source, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn. Alert Starfleet Headquarters. I want to talk with Starfleet Command.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="11">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop engines.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop engines. They look wonderingly. Kirk takes a breath --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An emergency situation has arisen. By order of Starfleet Command, as of now, 1800 hours, I am assuming command of this vessel. Duty officer so note in the ship's log. Plot a new course: for Space Laboratory Regula I.  Mr. Scott?</utterance>
+   <speaker>SCOTTY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll be going to warp speed --</utterance>
+   <speaker>SCOTTY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, sir --</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Course plotted for Regula I, Admiral...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Engage warp engines --</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Prepare for warp speed.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ready, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Sulu does, and with a great thrust of energy --</context>
+      <utterance>Mr. Sulu, go to Warp 5.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="17">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Spock raises an eyebrow --</context>
+      <utterance>We've got a problem.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Something may be wrong at Regula I. We've been ordered to investigate.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Regula I is a scientific research laboratory, if memory serves...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told Starfleet all we had was a boatload of children but we're the only ship in the quadrant. Spock: those cadets of yours -- how good are they? How will they respond under real pressure?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like all living beings, Admiral each according to his gifts. The ship is yours.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That won't be necessary: just take me to Regula I.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse my presumption, but I do not agree. As a teacher on a training mission, I am content to command a Starship. If we are to go on actual duty, it is clear that the senior officer aboard must assume command.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But it may be nothing; garbled communications. Why don't you...</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Kirk smiles in bemused wonderment.</context>
+      <utterance>You proceed from a false assumption. I am a Vulcan. I have no ego to bruise.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are going to remind me that logic alone dictates your actions.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was going to remind you of nothing, least of all that which you know well.  Your mistake, if I may be so bold, was promotion. Commanding a Starship is your first best destiny. Anything else is a waste of material.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I would not presume to debate you.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That is wise. In any case, were I to invoke logic, logic clearly dictates that the needs of the many outweigh the needs of the few.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Spock inclines his head.</context>
+      <utterance>Or the one.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Kirk is moved. He starts to speak, can't -- finally:</context>
+      <utterance>You are my superior officer. You are also my friend. I have been and always shall be yours.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you accompany me to the bridge?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Kirk's face tells us the wisdom of Spock's choice.</context>
+      <utterance>I'd best talk with Mr. Scott, first so that he may, in his own words, explain the situation to his cadets.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="9">
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Again, this is Enterprise calling Space Lab Regula I. Come in, please. Dr. Marcus. Please respond, please -- it's no use; no response from Regula I.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But no longer jammed?</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context>Spock considers, moves to Kirk.</context>
+      <utterance>No, sir. No nothing.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are two possibilities, sir they are unwilling to respond, they are unable to respond.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How far?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twelve hours and forty-three minutes, present speed.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give up Genesis, she said. What in God's name does that mean? Give it up to whom?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Kirk looks at him, nods; rising now.</context>
+      <utterance>It might help my analysis if I knew what Genesis was.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>They start for the Turbo Lifts as Saavik reacts --</context>
+      <utterance>Uhura, ask Dr. McCoy to join us in my quarters. Mr. Saavik, take the con.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="5">
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got the sick bay ready. Will someone please tell me what is going on?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Computer. Request security procedure and access to Project Genesis Summary.</utterance>
+   <speaker>COMPUTER VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Identify for retina scan.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>The screen is suddenly busy with coded read-outs and then computer graphics of retina patterns. Then it glows green. SECURITY CLEARANCE, CLASS 1 GRANTED.</context>
+      <utterance>Kirk, Admiral James T., Starfleet General Staff. Security Class 1.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>More coded read-outs, a red line SECURITY SCAN, then over it APPROVED, in green. Replaced by:</context>
+      <utterance>Summary, please.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="2">
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Carol Marcus --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="3">
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fascinating.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait --</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stage One of our experiments was conducted in the labora- tory. Stage Two of the series will be attempted in a lifeless underground; Stage Three will involve the process on a plane- tary scale. What follows is a computer projected simulation of Stage Three. Please watch closely.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="18">
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>Kirk looks at Bones and Spock -- they are stunned.</context>
+      <utterance>When we consider the problems of population and food supply, the usefulness of this process begins to become clear. This concludes this demonstration tape. Thank you for your attention. The Genesis team eagerly awaits the decision of the Federation regarding the next phase of our work. The tape becomes snowy and blinks off.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It literally is Genesis...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The power of creation --</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have they proceeded with their experiments?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The tape was made a year ago. I can only assume they've reached Phase Two by now --</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But dear Lord, are we intelligent enough to -- Suppose, this thing were used where life already exists?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It would destroy such life in favor of its new matrix --</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's new -- have you any idea what you're saying?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was not attempting to evaluate its moral implications, Doctor. As a matter of cosmic history, it has always been easier to destroy than to create --</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not anymore! Now you can do both at the same time! According to myth, the earth was created in six days. Watch out: here comes Genesis; we'll do it for you in six minutes --</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't dispute that in the wrong hands --</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you like to tell me whose are the</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Logic suggests --</context>
+      <utterance>Really, Dr. McCoy; you cannot ban the acquisition of knowledge because you distrust the moral implications of what you learn.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Logic??</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you make of her?</utterance>
+   <speaker>SAAVIK'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's one of ours, Admiral... It's Reliant.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's she doing here?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chekov's on Reliant, isn't he?</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="4">
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's not responding...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Try the emergency channels...</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Enterprise to Reliant. Come in, Reliant.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Picture, Mr. Saavik.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="4">
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Attempt visual communication.</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it possible their COMM system has failed -- ?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It would explain a great many things --</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="6">
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>Let's be friends...</context>
+      <utterance>Slow to one-half impulse power.</utterance>
+   <speaker>HELMSMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Slowing to one-half impulse.</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're requesting visual communications, sir.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let them eat static.</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're still running with shields down.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course. We're one big happy fleet. Ah, Kirk, my old friend, do you know the Klingon proverb that tells us revenge is a dish that is best served cold?  It is very cold in space.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="10">
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Reliant in our section this quadrant, sir, and slowing --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Visual of Reliant appears.</context>
+      <utterance>Visual.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir, may I quote General Order 12: 'On the approach of any vessel, when communications have not been est --</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lieutenant, the Admiral is aware of the Regulations.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is damned peculiar.  Yellow alert.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>ALARMS SOUND. The lights on the bridge dim into the soft reddish glow of battle illumination. ADDITIONAL CREW troop in to man vacant consoles.</context>
+      <utterance>Energize defense fields.</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm getting a voice message... wait ... short range band. They say their Chambers coil is shorting their COMM system.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spock?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>He steps to his station.</context>
+      <utterance>Scanning...</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="2">
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context>Khan is half out of his seat, sweating with anticipation.</context>
+      <utterance>They still haven't raised their shields.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Careful: Not all at once.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="2">
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>They're locking phasers -- !</context>
+      <utterance>Their coil emissions are normal... Wait: their shields are going up.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>But the ENTIRE BRIDGE is ROCKED by a shock impact, some of the crew sent flying.</context>
+      <utterance>Raise shields! Energize phasers, stand by to --</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="8">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Sulu... The shields!</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Trying, sir!</utterance>
+   <speaker>INTERCOM VOICE</speaker>
+      <mode></mode>
+      <context>Bones dashes out.</context>
+      <utterance>Medical Alert: Engine Room.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't get power, sir!</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Scotty's voice is faint, drowned by the screams and cries from a dozen intercom stations.</context>
+      <utterance>Scotty!</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Uhura does. There is a dead silence. Then:</context>
+      <utterance>Uhura, turn off those damn channels!!</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Scott on discrete.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Scotty, let's have it.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="5">
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They knew just where to hit us.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>WHO? Who knew just where to hit us? And</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Visual!  Mr. Sulu, divert everything to the phasers --</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>On VISUAL SCREEN, Photon torpedoes approach...</context>
+      <utterance>Too late --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>The bridge is shaken badly, screens go dark, fires spark and erupt. ALARMS and SOUND full. Crew personnel try to put out electrical fires, help the fallen --</context>
+      <utterance>Hang on!</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="14">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Scotty -- what's left?</utterance>
+   <speaker>SCOTTY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just the batteries, sir. I can have auxiliary power in a few minutes --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We don't have minutes. Can you give me phaser power?</utterance>
+   <speaker>SCOTTY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A few shots, sir.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not enough against their shields.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who the</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On screen.</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Admiral --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>All eyes go to the SCREEN. After momentary visual confusion, Khan's face appears, smiling --</context>
+      <utterance>Do it, while we have time.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Khan!</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You still remember, Admiral. I cannot help but be touched. Of course, I remember you.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Where is the crew of the Reliant?</context>
+      <utterance>What is the meaning of this attack?</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Surely I have made my meaning plain. I mean to avenge myself upon you, Admiral. I've deprived your ship of power and when I swing round I mean to deprive you of your life --</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="3">
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- But I wanted you to know first who it was who had beaten you: I, Khan Noonian Singh, the eagle you attempted to cage forever.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>All I ask is that you spare my crew.</context>
+      <utterance>Khan, listen to me -- if its me you want, I'll have myself beamed aboard.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That is a most intriguing offer. Typical, I must say of your sterling character. Let me think.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="8">
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>Reactions from Spock and Kirk.</context>
+      <utterance>I make you a counter-proposal, I will agree to your terms, if in addition to yourself, you turn over to me all data and material regarding the project called Genesis.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Genesis, what's that?</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't play with me, Kirk, my hand is on the phaser control --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give me some time to recall the data on our computers --</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>Kirk turns from the screen --</context>
+      <utterance>I give you sixty seconds, Admiral.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Admiral, you can't give him Genesis...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At least we know he hasn't got it. Just keep nodding as though I'm giving orders. Saavik, punch up the data charts of Reliant's command console -- hurry...</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Reliant's command...</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="4">
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The prefix code?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all we've got.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On screen...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're finding it.  Please,</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="13">
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't understand -- Kirk puts on his spectacles --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've got to learn WHY things work on a Starship.  It's coming through now, Khan...</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The prefix code is 16309. All commands from each Starship bridge are relayed electronically; each ship has its own prefix combination code...</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thirty seconds...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... to prevent an enemy from doing just what we're attempting; using</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Spock nods; Kirk turns to the screen --</context>
+      <utterance>Wait for my signal, Spock -- too soon and he'll have time to figure it out and raise them again.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Khan, how do I know you'll keep your word?</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've given you no word to keep, Admiral. In my judgment, you simply have no alternative.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>He turns from the screen again, softly:</context>
+      <utterance>I take your point. Stand by to receive our transmission.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Sulu, lock phasers on target and await my command...</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context>They're all sweating.</context>
+      <utterance>Phasers locked...</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Time's up, Admiral...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here it comes. Now, Spock.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="3">
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir -- our shields are dropping!</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Raise them -- Joachim punches frantically --</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They won't --</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="5">
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>Why can't you?</context>
+      <utterance>At them! At them! FIRE! FIRE!</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can't fire, sir; they've damaged the photon controls and the warp drive. We must withdraw!</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No!</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context>Khan calms as the other holds him; he breathes deeper.</context>
+      <utterance>Sir, we must!  We must repair the damage. Enterprise will wait; she's not going anywhere.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir, you did it.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="3">
+   <speaker>PRESTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is the word given?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The word is given: warp speed.</utterance>
+   <speaker>PRESTON</speaker>
+      <mode></mode>
+      <context>He dies. Pause. Scotty looks across the body at Kirk.</context>
+      <utterance>Aye...</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="13">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He wants to kill me for passing sentence on him 14 years ago -- and he doesn't care who stands between him and his vengeance.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Scotty, I'm sorry...</utterance>
+   <speaker>SCOTTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He stayed at his post. When the trainees ran, he stayed.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If he hadn't, we'd be space by now.</utterance>
+   <speaker>SPOCK'S VOICE</speaker>
+      <mode></mode>
+      <context>Kirk hits a wall intercom --</context>
+      <utterance>Admiral, this is Spock.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, Spock.</utterance>
+   <speaker>SPOCK'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Engine room reports auxiliary power restored. We can proceed at impulse power.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Best speed to Regula I. Kirk out. Scotty, I've got to ask: Any chance of getting the mains back on the line?</utterance>
+   <speaker>SCOTTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I dinna think so, sir, but you'll have my best -- With an effort, he gets to his feet --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Bones shrugs unhappily, looks at Preston.</context>
+      <utterance>Are you all right?</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>Damn. I'm</context>
+      <utterance>Doctors lose patients sometimes.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There may still be time... you gave as good as you got.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got beat. We're only alive because I knew something about these ships that he didn't. He turns and leaves as Bones watches, looks again at Preston.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="4">
+   <speaker>SULU</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Approaching Regula and Space Lab Regula I.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Try again.</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Space Station Regular I, this is Starship Enterprise. Come in, please...</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context>During this, CAMERA HAS PANNED CLOSE AMONG the techni- cal clutter. Then suddenly. SOUND -- eerie, frightening. Our ears cannot place it... and before we can, it is gone a warning.</context>
+      <utterance>I say again. Space Station Regular. This is Starship Enterprise. Please respond. Please respond.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="21">
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... No response, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sensors, Captain?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Scanners and sensors still inoperative. There's no way to tell what's inside the station.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And no way of knowing if Reliant is still in the area...</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Affirmative, Admiral.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Blind as a Tiberian Bat. What do you make of the plantoid beyond?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Regula is class "D'. It consists of various remarkable ores. Essentially, a great rock in space.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Reliant could be hiding behind that rock.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A distinct possibility.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Engine room... Scotty, do we have enough power for the transporters?</utterance>
+   <speaker>SCOTTY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just barely, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>He starts out. Bones stops him.</context>
+      <utterance>I'm going down to the station.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Khan could be down there!</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's BEEN there and hasn't found what he wants. Can you spare someone? There may be people hurt.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can spare me...</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Begging the Admiral's pardon: General Order 15: 'No flag officer shall beam into a hazardous area without armed escort.'</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Saavik's gaze falters --</context>
+      <utterance>There is no such regulation.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Mr. Spock, the ship is yours.</context>
+      <utterance>All right, join the party.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye sir --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Establish a parking orbit around the station and send me a complete damage report when you've talked with Mr. Scott.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Kirk, Bones and Saavik head for the turbo doors.</context>
+      <utterance>Be careful, Jim...</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="3">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>A WEIRD ECHO reverberates his cries.</context>
+      <utterance>Hello...! Anybody here?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Indeterminate life signs.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>They separate. Each begins to search.</context>
+      <utterance>Phasers on stun. Move out.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="3">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They even killed the galley chief.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>Kirk looks around, despairingly --</context>
+      <utterance>This one looks like a Steward. They're not warm, but rigor hasn't set in. This didn't happen all that long ago, Jim.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Carol...</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="5">
+   <speaker>UHURA'S VOICE</speaker>
+      <mode></mode>
+      <context>She will continue sporadically.</context>
+      <utterance>Admiral Kirk, Enterprise. Come in, please. Come in please.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Chekov emits a live, reassuring moan.</context>
+      <utterance>My God!</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>Bones is passing his medical tricorder over Chekov.</context>
+      <utterance>That's Clark Terrell, Jim, I've served with him.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Brain disturbance. Appears to be drug induced. He reaches into his kit. He shoots Chekov moves off to Terrell. Uhura, voice continues in the b.g.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Saavik, for God's sake, tell her we're all right.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="6">
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I say again. This is Enterprise. Please acknowledge signal. Please -- Saavik's face appears on her screen.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Out.</context>
+      <utterance>Commander Uhura, this is Lt. Saavik. We're all right. Please stand by.</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, aye.</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context>He weeps like a child, and Kirk holds him. Meanwhile, Terrell opens his eyes and stares at Bones.</context>
+      <utterance>Oh, God, Admiral...!</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's Dr. McCoy, Captain. Do you remember me?</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>McCoy? Yes. Oh, yes.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="15">
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, sir. It was Khan! We found him on Ceti Alpha V.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Easy, Pavel... Tell me what you can...</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context>Bones takes over Chekov --</context>
+      <utterance>No life signs -- but he was there. Captured us. He -- he put creatures in our bodies. To control our minds.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all right, you're safe...</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context>Chekov breaks into tears. Kirk looks at Terrell, who is more composed.</context>
+      <utterance>... Made us say -- lies... Do... things... But we beat him... The Captain and me. -- He thought he controlled us, but he didn't ... The Captain was strong.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Where are the Genesis materials?</context>
+      <utterance>Captain. Where is Dr. Marcus?</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He couldn't find them. Some of the scientists were still here, but everything else, even the data banks -- were empty.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's true, Admiral. All the memory cells have been emptied.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Erased...</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He tortured those people. None of them would tell him anything. He went wild, strung them up and slit their throats. He wanted to tear the place apart, but he was late: he had to get back to Reliant in time to blow you to bits.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He came damn close...</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He left us.  We were no longer of use.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is the Reliant crew? Dead?</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Marooned on Ceti Alpha V. He's completely mad, Admiral. He blames you for the death of his wife...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know what he blames me for.  The escape pods are all in place.  Where's the transporter room?</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="19">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Chekov and Terrell look at each other; they seem a bit stronger.</context>
+      <utterance>Did he make it down here?</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context>Saavik approaches Kirk:</context>
+      <utterance>It was not my impression. He spent most of his time trying to wring the information out of the people.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Kirk looks at her over the rims of the glasses:</context>
+      <utterance>Anything?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Saavik studies the console.</context>
+      <utterance>Somebody left the unit on. If everyone else was dead, it implies that no one remained to turn it off. Those people back there bought escape time for Genesis with their lives.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It doesn't make sense. These coordinates are well within Regula -- a plantoid we know to be lifeless and airless.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If Stage Two was completed, it was underground -- she said it was going to be underground.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Kirk gets it.</context>
+      <utterance>Stage Two of what?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kirk to Enterprise. Damage report, Spock?</utterance>
+   <speaker>SPOCK'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Admiral, if we go by the book, like Lieutenant Saavik, hours could seem like days.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Fractional pause.</context>
+      <utterance>I read you, Captain. Let's have it.</utterance>
+   <speaker>SPOCK'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The situation is grave, Admiral. We won't have main power for</utterance>
+   <speaker>SPOCK'S VOICE</speaker>
+      <mode></mode>
+      <context>Kirk looks at Saavik and Bones, decides --</context>
+      <utterance>Not at present.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain Spock, if you do not hear from us within</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uhura, if you don't hear from us, there won't be anybody behind. Kirk out.  You gentleman can remain here, or...</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If it's all the same, Admiral, we'd like to share the risk.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very well. Let's go.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then this will be your big chance to get away from it all.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>She presses a button, joins them on the pods. Slowly they VANISH.</context>
+      <utterance>Ready.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="2">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He raises the knife --</context>
+      <utterance>You're the sonavabitch who committed mass murder up there.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm Admiral Kirk...</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="5">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Carol reaches the tunnel entrance to the cave --</context>
+      <utterance>I'm Doctor Marcus!</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Carol sees Kirk --</context>
+      <utterance>Mother, go back!</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go back. I'm going to kill him.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="14">
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context>But Kirk and Carol ignore them and walk towards each other. There are tears in Carol's eyes. She reaches up, trying to smile and touches his hair --</context>
+      <utterance>I'll hold onto this.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>She can't. Kirk takes her and holds her tightly, look- ing at David, over her shoulder. He stands there, stunned, looking back.</context>
+      <utterance>You've got a little grey --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>She nods --</context>
+      <utterance>Carol. Is that true?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why didn't you tell me?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's making it up! My father was Professor --</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David, you're just making this harder --</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context>He and Chekov have their phasers trained on them.</context>
+      <utterance>I'm afraid it's even harder than you think, Doctor.</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please don't move --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chekov -- !</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context>Terrell speaks into his wrist recorder.</context>
+      <utterance>I'm sorry, Admiral.</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your excellency, have you been listening?</utterance>
+   <speaker>KHAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have indeed, Captain. You have done well...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>David makes a reckless break for Terrell; Saavik instantly throws herself on him bringing him down as Terrell fires, hitting Jedda, who was behind David -- a killing ray. Jedda dematerializes. Carol SCREAMS and David reacts with horror and guilt. Most importantly, Chekov begins to tremble. Terrell himself is shaken by his reflexive action. He's in semi-panic.</context>
+      <utterance>I knew it -- !</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't move -- any of you!</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="3">
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All is well, sir. You have the coordinates to beam up Genesis...</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>Reactions by all -- only Kirk and Bones are unsurprised. David and Saavik, dazed, fight the urge to do something. Chekov is close to a seizure. Terrell fights conflicting mental signals.</context>
+      <utterance>First things first, Captain. Kill Admiral Kirk.</utterance>
+   <speaker>TERRELL</speaker>
+      <mode></mode>
+      <context>I try to obey, but --</context>
+      <utterance>Excellency... it is difficult.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="2">
+   <speaker>KHAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Terrell? Chekov -- !</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim -- for God's sake! They rush to his side, as do Carol and David.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="7">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Still, 'old friend.' You've managed to kill just about everyone else, but like a poor marksman, you keep missing the target.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let go -- he can't -- !</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>The beam disappears and Genesis with it, leaving them alone.</context>
+      <utterance>Only half of you would get there.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Khan, you have Genesis, but you don't have me! You were going to kill me, Khan, it was your sole purpose. You'll have to come down here to do it! You'll have to come down!</utterance>
+   <speaker>KHAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've done far worse than kill you, Admiral. I've hurt you. And I wish to go on hurting you. I shall leave you, as you left me -- where no one will ever find you: poetic justice; marooned for eternity in the center of a dead planet -- buried alive.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Khan -- !</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodbye, Admiral. Oh, and don't count on Enterprise. She can't move. My next act will be to blow her out of the heavens.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="26">
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well?</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context>Khan sighs, contentedly.</context>
+      <utterance>Warp drive still inoperative. All other systems should be restored shortly.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excellent. We have all the time in the world.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is Lt. Saavik, calling Enterprise... She keeps trying. Chekov stirs --</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>Bones goes and tends Chekov who moans, tries to sit up.</context>
+      <utterance>He's alive!</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pavel? Chekov tries to smile; Kirk takes his hand --</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No use, Admiral, they're still jamming all channels.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It wouldn't make any difference. If Enterprise obeyed orders she's long since gone. And if she couldn't obey, she's finished.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So are we, it looks like.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>Who is Khan?</context>
+      <utterance>I don't understand. Who's responsible for all this?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a long story.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We appear to have plenty of time.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You and your father can catch up on things.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My father. I hope you realize another man has just been killed because of...</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>David has been effectively spiked. Long silence.</context>
+      <utterance>Because of you, son. You shouldn't have tried to rush someone holding a primed phaser. Anyway it isn't one man dead, it's two, in case you've lost count.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you have anything to eat? I don't know about anyone else, but I'm starved.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can you think of food at a time like this?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Our first order of business is survival.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's food in the Genesis cave, enough to last a lifetime -- should that be necessary.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We thought</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But we can't just sit here -- !</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, yes we can. Is there really something to eat? David looks at his father, who checks his watch, putting on his spectacles.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David. Please.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Saavik and Bones make to follow. Saavik turns to Kirk --</context>
+      <utterance>This is just to give us something to do, isn't it?  Come on.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Admiral?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As your teacher Mr. Spock is fond of saying: I like to think there always are possibilities.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="8">
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David was right, wasn't he? It's just to keep them busy.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why? Why didn't you tell me?</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>Kirk turns away, overcome. She watches him.</context>
+      <utterance>How can you ask me that? Were we together? Where we going to be? You had your world and I had mine. I wanted him in mine, not chasing through the universe with his father.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>Her joke doesn't take effect. He doesn't turn.</context>
+      <utterance>He's a lot like you in many ways. Nothing I could do about it. He's smarter, of course; that goes without saying. Most of Genesis is really his.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>Kirk says nothing.</context>
+      <utterance>This is it, isn't it? We're never going to get out of here.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Carol studies him; gently she sets Chekov's head down on a sweater, then stands.</context>
+      <utterance>There's a man I haven't seen in fifteen years who thinks he's killed me. You show me a son who'd almost be happy to help him. My son. My life that could have been and wasn't. What am I feeling? I'm feeling old -- worn out.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>She offers her hand. Kirk looks at Chekov, who smiles, faint assurance.</context>
+      <utterance>Let me show you something that will make you feel young -- young as when the world was new.</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>After a moment's hesitation, Kirk takes her hand and she leads him to the tunnel.</context>
+      <utterance>He'll be all right. Come.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="4">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You did this -- in a day?!</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The matrix formed in a day. The life forms grew later -- at a wildly accelerated rate. Can I cook or can't I?</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context>Khan smiles.</context>
+      <utterance>Impulse power restored.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>He punches at his console.</context>
+      <utterance>More than a match for poor Enterprise.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="2">
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Departing dark side, Regula.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Visual --</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="5">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you looking at?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Admiral's son.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you believe it.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>She almost smiles. David returns her stare and it throws her.</context>
+      <utterance>Oh, I believe it.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="13">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now that's what I call a meal.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's like the Garden of Eden...</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>Kirk watches Saavik.</context>
+      <utterance>Only here, every apple comes from the Tree of Knowledge.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's on your mind, Lieutenant?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The no-win scenario -- and with what philosophy a commander faces defeat.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you asking me if we are playing out that scenario now, Lieutenant?</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Kirk looks at Bones, who smiles --</context>
+      <utterance>On the test, sir, will you tell me what you did? I'd really like to know.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lieutenant, you are looking at the only Starfleet cadet who ever beat the no-win scenario --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>He looks at his watch again, using his glasses --</context>
+      <utterance>And almost got tossed out of the Academy...</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I reprogrammed the simulation so it was possible to rescue the ship.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="7">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I changed the conditions of the test. I received a commendation for original thinking.  I don't like to lose.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then -- you never faced that situation -- faced death...</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Until now.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>He picks up the communicator.</context>
+      <utterance>We each face death every day we're alive, Saavik.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Are you about ready?</context>
+      <utterance>Spock, this is Kirk. It's two hours.</utterance>
+   <speaker>SPOCK'S VOICE</speaker>
+      <mode></mode>
+      <context>The others are on their feet, stunned with amazement --</context>
+      <utterance>Right on schedule, Admiral. Just give us your coordinates and we'll beam you aboard.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>David gapes at his father.</context>
+      <utterance>Right. I don't like to lose. He clicks off.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="10">
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But the damage report -- we were immobilized...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>They are moving through the room as they talk --</context>
+      <utterance>Come, come, Lieutenant, you of all people go by the book. Hello, Spock. You remember Dr. Marcus...</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Certainly...</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By the book...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Regulation 46-A: 'If transmissions are being monitored during battle...'</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'... no uncoded messages on an open channel...' Saavik steps in front of Spock.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You lied.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I exaggerated.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hours instead of days, Saavik; now we have minutes instead of hours --</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>CAMERA STAYS WITH THEM, HOLDS ON DAVID, awed.</context>
+      <utterance>I'm taking this bunch to sick bay.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="15">
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're inoperative below C-deck.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What IS working around here?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not much, Admiral. We have partial main power...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's it?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Best we could do in two hours.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Admiral on the bridge --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>ALARMS, SIRENS, ETC. CREW RUSH INTO PLACE AS Kirk, Spock and Saavik approach the big screen.</context>
+      <utterance>Battle stations.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>We see the Enterprise emerging from the dark side of Gamma Regula, where Reliant is now a moving blip.</context>
+      <utterance>Tactical.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh oh.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She can out-run us and out-gun us. But there is the Mutara Nebula at 153 mark four.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Scotty, can we make it inside?</utterance>
+   <speaker>SCOTTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The energizer's bypassed like a Christmas tree -- so don't give me too many bumps.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No promises, Mr. Scott. On your way.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Kirk looks over the rims of his glasses at Spock; they smile with faint amusement.</context>
+      <utterance>Trouble with the nebula, sir, is all that static discharge and gas clouds our tactical display. Visuals won't function and shields will be useless.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Saavik. The odds will be even.</context>
+      <utterance>What's sauce for the goose, Mr.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="5">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going up there.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>Carol and David are civilians on a battleship.</context>
+      <utterance>You'll be in the way, Dr. Marcus... best stay here.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>Kirk and Spock exchange looks --</context>
+      <utterance>Admiral... what happens if Reliant fails to follow us into the nebula?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think we can guarantee she'll follow us, Mr. Saavik. Remind me to explain to you the concept of human ego.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Best speed, Scotty...</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="2">
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Estimating nebula penetration in two minutes. Reliant is closing.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Steady as you go...</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="2">
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll lose them if they go in there.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rake her.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="6">
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it easy --</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I must --</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen to me, Pavel; you haven't the strength or the equilibrium --</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context>As they talk, David, unnoticed, leaves the area. The Enterprise is buffeted again --</context>
+      <utterance>But --</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context>Tell me what I can do.</context>
+      <utterance>Dr. McCoy, I can't just sit here.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>She whitens in fear. ANOTHER SHOT reverberates.</context>
+      <utterance>You can help get my surgery squared away. I'm expecting customers.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="6">
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was close --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They just don't want us going in there.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>The bridge door slides open and David enters. He stares in wonder. Saavik reacts to David.</context>
+      <utterance>One minute to nebula perimeter.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Admiral, they're reducing speed.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uhura, patch me in --</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, sir.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="6">
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are we slowing?</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We daren't follow them into the nebula, sir -- our shields will be useless...</utterance>
+   <speaker>KIRK'S VOICE</speaker>
+      <mode></mode>
+      <context>Khan's eyes bulge --</context>
+      <utterance>This is Admiral Kirk.</utterance>
+   <speaker>KIRK'S VOICE</speaker>
+      <mode></mode>
+      <context>Khan's eyes bulge --</context>
+      <utterance>We tried it once your way, Khan. Are you game for a rematch?</utterance>
+   <speaker>KIRK'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Khan -- ! I'm</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No sir! We have Genesis -- Whatever you want --</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="4">
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tactical!</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Inoperative.</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>Electrical forces raging without are also reflected on the circuits within. It's bumpy, on top of everything else. Electronic WHINING.</context>
+      <utterance>Raise the shields...</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context>Khan does not argue.</context>
+      <utterance>As I feared, sir. Not functional. I'm reducing speed.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="2">
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Phaser lock inoperative, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Sulu strains, then fires -- just as an electrical dis- turbance bounces the bridge --</context>
+      <utterance>Best guess, Mr. Sulu. Fire when ready.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="2">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold your course. Look sharp...</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At what.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="3">
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>For the first time, his friend wounded, Khan hesitates, holds him --</context>
+      <utterance>Joachim!</utterance>
+   <speaker>JOACHIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yours... is... the superior...</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I shall avenge you --</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="10">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>The bridge door opens and closes; Chekov, faint, stands there.</context>
+      <utterance>All right, we'll do the job with auxiliary power.</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could you use another hand, Admiral?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>ANGLE FAVORING David as the others react to Chekov taking his place. Quiet.</context>
+      <utterance>Man the weapons console, Mr. Chekov.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Spock is bent over the scanner --</context>
+      <utterance>Spock?</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sporadic energy readings port side, aft. Could be an impulse turn.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>But from where...?</context>
+      <utterance>He won't break off now. If he followed me this far he'll be back.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Kirk looks at him, smiles.</context>
+      <utterance>He's intelligent, but not experienced. His pattern indicates two dimensional thinking...</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Saavik, all stop.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All stop, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Descend ten thousand meters. Stand by photon torpedoes.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="2">
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Torpedoes ready, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fire.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="6">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cease fire. Look sharp.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Power levels quite low, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Scott, can you get the mains back on line?</utterance>
+   <speaker>SCOTTY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll need ten minutes, sir, 'til the radiation dissipates.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uhura, send to Commander, Reliant: prepare to be boarded.</utterance>
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, sir.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="2">
+   <speaker>UHURA'S VOICE</speaker>
+      <mode></mode>
+      <context>In f.g., chillingly, Khan rises INTO SHOT by the main console. He is horribly burned, and it is clear that he is clinging to life by his will.</context>
+      <utterance>Commander, Reliant, this is Enterprise. Surrender and prepare to be boarded. Repeat...</utterance>
+   <speaker>KHAN</speaker>
+      <mode></mode>
+      <context>As Uhura's voice continues O.S., Khan pulls himself into a chair at the console, one of his hands useless at his side.</context>
+      <utterance>No... Kirk. The game's not over.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="11">
+   <speaker>UHURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Enterprise to Reliant: you are ordered to surrender your vessel. Respond!  Nothing, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll beam aboard. Alert transporter room --</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>David peers closer over Spock's shoulder, reacts.</context>
+      <utterance>Admiral. Scanning an energy source on Reliant. A pattern I've never seen.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the Genesis Wave!</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's on a build up to detonation!</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How soon --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We encoded four minutes --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll beam aboard and stop it --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>The briefest stunned moment. Kirk hits intercom:</context>
+      <utterance>You can't!</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Scotty, I need warp speed in three minutes or we're all dead!</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="3">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Spock leaps from his place and disappears through the bridge doors.</context>
+      <utterance>Scotty!</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Saavik, get us out, best speed!</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, sir.</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="4">
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you out of your Vulcan mind? No human can tolerate the radiation loose in there!</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But, as you are so fond of observing, Doctor, I'm not human.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not going in there -- !</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>He gives Bones the Vulcan nerve pinch. Bones goes down. Spock presses the access button and enters the Reactor Room, a separated area behind radiation-proof glass and metal, RED FLASHING LIGHTS and an iridescent blue glow within.</context>
+      <utterance>I'm afraid I can't stop to discuss this logically --</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="3">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Time from my mark...</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two minutes, ten seconds.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Engine room! What's happening?!</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="2">
+   <speaker>SCOTTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain, please!</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get out! Get out, man! Oh, dear God...!</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="6">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Time!</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three minutes, thirty seconds.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Distance from Reliant...</utterance>
+   <speaker>CHEKOV</speaker>
+      <mode></mode>
+      <context>Kirk looks at David, but David shakes his head: No way. Then:</context>
+      <utterance>Four hundred kilometers.</utterance>
+   <speaker>CADET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir! The mains are back on line -- !</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>She increases power and --</context>
+      <utterance>Bless you, Scotty. Go, Saavik!</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="3">
+   <speaker>B)   POV RELIANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>disappearing in the swirls of:</utterance>
+   <speaker>C)   POV MUTARA NEBULA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>which clears the flame and --</utterance>
+   <speaker>D)   ENTERPRISE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>roaring through space -- and:</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="4">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>ON SCREEN and INTERCUT -- GENESIS TUMBLES and starts evolving. A moment in history.</context>
+      <utterance>Reduce speed. My God, Carl. Look at it.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Engine Room. Well done. Scotty?</utterance>
+   <speaker>BONES' VOICE</speaker>
+      <mode></mode>
+      <context>The tone frightens Kirk.</context>
+      <utterance>Jim, you'd better get down here. Hurry.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>He moves through the doors quickly, leaving the rest staring at the new world evolving.</context>
+      <utterance>Saavik, take the con.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="4">
+   <speaker>SCOTTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, sir! You'll flood the whole compartment...!</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He'll die -- !</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context>Kirk's eyes bulge.</context>
+      <utterance>He's dead already, Jim.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, God.</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="10">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spock!</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The ship -- out of danger?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes -- Spock is satisfied; he fights for breath --</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>He almost keels over. Kirk has tears streaming down his face.</context>
+      <utterance>Don't grieve, Admiral -- it's logical: the good of the many outweighs --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... the good of the few...</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>He props a hand on the glass to support himself. Kirk's hand reflexively goes to match Spock's on the other side of the glass --</context>
+      <utterance>Or the one.</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I never took the</utterance>
+   <speaker>SPOCK</speaker>
+      <mode></mode>
+      <context>Spock falls. Bones and Scotty react.</context>
+      <utterance>I have been -- and always will be -- your friend... Live. Long. And. Prosper.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No...!</utterance>
+   <speaker>SAAVIK'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Admiral, you've got to see this! There's new life -- a whole new world, a Genesis world -- ! But Kirk is past hearing or caring. He is huddled up against the glass, destroyed. Bones looks on, helpless.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="3">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Carol and David are PROMINENTLY FEATURED. David watching Kirk attentively. So are Sulu, Uhura, Chekov, and Saavik. Bones stands next to Kirk. Scotty carries his bagpipes. Saavik wears her hair down.</context>
+      <utterance>In accordance with the traditions of Starfleet and of Article 184 Starfleet Regulations, we are assembled here today to pay final respects to our honored dead.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And yet, in the midst of our sorrow it should be noted that this death takes place in the shadow of new life, the sunrise of a new world, a world that our beloved comrade gave his own life to protect and nourish. He did not feel that sacrifice a vain or empty one -- and we will not debate his profound wisdom, in these proceedings. Of my friend, I can only say this, that of all the souls I have encountered in my travels, his was the most --  -- human. He tries to go on, but catches Bones' face: Bones is streaming tears. Kirk can't go on.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lieutenant Saavik.</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="2">
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We commend the soul of our brother departed. We love we commit his body to the depths of space.</utterance>
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context>All Starfleet personnel salute. Scotty begins to PIPE, an odd blare which mellows into</context>
+      <utterance>Honors -- hup!</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="6">
+   <speaker>SULU</speaker>
+      <mode></mode>
+      <context>The salute drop.</context>
+      <utterance>Return -- hup!</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lieutenant. She steps to him and they exchange salutes --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>After you dismiss the company, you will take the watch. Set course for Ceti Alpha V and we'll pick up survivors.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, sir.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be in my quarters if needed, but I would prefer...</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Understood, sir.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="17">
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>The door whooshes open and closes to admit David. The last person Kirk expected to see.</context>
+      <utterance>Yes... come.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't mean to intrude.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, no...  I should be on the bridge.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>David's strength is turning a corner with Kirk --</context>
+      <utterance>Are you running away from me?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose I was.  I poured a drink. Would you like it?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I -- I guess I'm not what you expected.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't expect anything.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That makes two of us.  Lieutenant Saavik was right: you never have faced death --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not like this -- no. I haven't faced death, I cheated death. I tricked my way out of death and patted myself on the back for my ingenuity. I know nothing.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You knew enough to tell Saavik that how we face death is at least as important as how we face life --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was just words.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But good words. That's where ideas begin. Maybe you should listen to them.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm trying, David.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So am I. My friends were killed, too.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>Pause. They study each other.</context>
+      <utterance>I am truly sorry.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was wrong about you. And</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>A stunned moment, then Kirk lets it all hang out: for David, for Carol and for Spock. He hugs his son, hold- ing onto him as if to life itself.</context>
+      <utterance>Mainly.  And also that I'm proud -- very proud -- to be your son.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="15">
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Admiral on the bridge!</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As you were, Mr. Saavik.</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context>All is well.</context>
+      <utterance>Aye, sir. On course to Ceti Alpha.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good, I believe you already know my, uh, son -- Saavik comes close to blushing --</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, well, why don't you show him around and...</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, sir -- She takes him off, deadpan amusement --</utterance>
+   <speaker>SAAVIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's changed her hair again.  Will you look at that? Think they'll name it for you, Doctor?</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not if I can help it. We'll name it for our friend.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is a far far better thing I do than I have ever done before... a far better resting place I go to than I have ever known...</utterance>
+   <speaker>CAROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that a poem?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>He shakes his head, remembering --</context>
+      <utterance>Something Spock was trying to tell me. On my birthday.</utterance>
+   <speaker>BONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You okay, Jim? How do you feel?</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context>He turns to Saavik and David --</context>
+      <utterance>Young. I feel young, Doctor.</utterance>
+   <speaker>KIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lieutenant, new course: 'Second star to the right and straight on till morning.' The bridge crackles with lights and CHATTER as we...</utterance>
+</dialogue>
+
+
+</movie>

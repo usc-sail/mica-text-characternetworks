@@ -1,0 +1,4030 @@
+<movie id="208" title="Ferris Bueller s Day Off">
+
+<dialogue id="1" n_utterances="3">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's Mom?</utterance>
+   <speaker>TODD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is my head going to swell up?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?!</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="8">
+   <speaker>TODD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+   <speaker>KIMBERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait! Hold still!</utterance>
+   <speaker>TODD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?!</utterance>
+   <speaker>KIMBERLY</speaker>
+      <mode></mode>
+      <context>Todd screams. We hear the sound of Tom's footsteps running through the kitchen, down the hall, up the stairs, up the hallway. A door open.</context>
+      <utterance>You heads starting to swell up!!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the matter?</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's Ferris!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's wrong?</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context>Look at him!</context>
+      <utterance>What's wrong? For Christ's sake!</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="30">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ferris?</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He doesn't have a fever. But he says his stomach hurts and he's seeing spots.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the matter, Ferris?</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Feel his hands. They're cold and clammy. Tom takes one of Ferris' hands.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Should you call the doctor?</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He doesn't want me to.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>Ferris exhales loudly. He tries to speak but all he can manage is a choked gasp.</context>
+      <utterance>Why don't you want Mom to call the doctor?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>Ferris tries again.</context>
+      <utterance>What?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have a test today. I have to take it. I want to get into a good college so I can have a fruitful life...</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not going to school like this.  Maybe I should call the office and tell them I won't be in.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He's gripped by a seizure. His body stiffens and he chokes. His older sister, JEANIE, walks into the room. She's dressed for school. She's cute and stuck-up. A major pill.</context>
+      <utterance>I'm okay, Mom. I feel perfectly...Oh, God!</utterance>
+   <speaker>JEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, fine. What's this? What's his problem?</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He doesn't feel well.</utterance>
+   <speaker>JEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, right. Dry that one out and you can fertilize the lawn.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's enough, Jeanie.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>Tell me you're not falling for this.</context>
+      <utterance>You're not falling for this, are you?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that Jeanie? I can't see that far. Jeanie?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pucker up and squat, Ferris.</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you, Jeanie. Get to school.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're really letting him stay home? I can't believe this. If I was bleeding out my eyes, you guys'd make me go to school. It's so unfair.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please don't be upset with me, Jeanie. Be thankful that you're fit and have your health. Cherish it.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>She glares at Ferris. Her eyes are mascara and vengence. She slips out of the room. Ferris' brother, TODD and sister, KIMBERLY peek into the room.</context>
+      <utterance>Oh, I wanna puke.</utterance>
+   <speaker>KIMBERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Myocardial infarction?</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get your stuff. Daddy'll be right down.</utterance>
+   <speaker>KIMBERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Syphilitic meningitus? That would be a huge family embarrassment.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get downstairs!</utterance>
+   <speaker>KIMBERLY</speaker>
+      <mode></mode>
+      <context>She turns sharply and exits.</context>
+      <utterance>If he dies, I got dibs on his stereo.</utterance>
+   <speaker>TODD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad? Does my head look alright?</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get downstairs! Now!</utterance>
+   <speaker>TODD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just answer me one question! Is it swelling up? Kim said it was going to get as big as...</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="6">
+   <speaker>TODD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut-up!</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context>Todd backs out of the room.</context>
+      <utterance>Get downstairs! NOW!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be okay. I'll just sleep. Maybe I'll have an aspirin around noon.</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm showing houses to the family from California today but I'll be in the area. My office'll know where I am, if you need me.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll check it with you, too.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's nice to know I have such loving, caring parents. You're both very special people.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="2">
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context>She leans down and kisses his forehead. Tom pats his shoulder.</context>
+      <utterance>I hope you feel better, pumpkin.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get some rest.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="3">
+   <speaker>JOYCE</speaker>
+      <mode>OC</mode>
+      <context></context>
+      <utterance>We love you, sweetie.</utterance>
+   <speaker>TOM</speaker>
+      <mode>OC</mode>
+      <context>They close the door. The lock clicks. Ferris' eyes shift from the door to CAMERA. A sly, little smile crawls across his lips.</context>
+      <utterance>Call if you need us.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>The MTV theme music ROARS IN.</context>
+      <utterance>They bought it.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="4">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Incredible! One of the worst performances of my career and they never doubted it for a second.  What a beautiful day! He turns from the window.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He flips on his stereo and fills the room with the MTV broadcast. A NEW SONG begins.</context>
+      <utterance>Parents always fall for the clammy hands. It's physical evidence of illness. It's a good, non-specific symptom. Parents are generally pretty hip to the fever scams. And to make them work you have to go a hundred and one, hundred and two. You get a nervous mother and you end up in a doctor's office and that's worse than school.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He equalizes the sound a little.</context>
+      <utterance>Fake a stomach cramp and when you're doubled over, moaning and wailing, just lick your palms. It's a little stupid and childish but then so if high school. Right?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is my ninth sick day with semester. If I go for ten, I'm probably going to have to barf up a lung. So, I absolutely must make this one count. He exits into the hallway.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="3">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He bends down OUT OF FRAME as he loses his briefs. He pops up.</context>
+      <utterance>I don't care if you're fifty five or seven, everybody needs a day off now and then. It's a beautiful day. How can I be expected to handle high school?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He steps into the shower. Through the pebbled glass of the shower door we see Ferris' outline.</context>
+      <utterance>I do actually have a test. That wasn't bullshit.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That I care about it was.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="3">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He opens a linen closet and tosses the towel in it.</context>
+      <utterance>Not that I condone fascism. Or and "isms". "Isms", in my opinion are not good. A person should not believe in an "ism". He should believe in himself. John Lennon said it on his first solo album. "I don't believe in Beatles, I just believe in me." A good point there. Afterall, he was the Walrus.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He passes CAMERA and goes into his room.</context>
+      <utterance>I could be the Walrus and I'd still have to bum rides off people.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode>OC</mode>
+      <context></context>
+      <utterance>I'm not very political? Let me put that into perspective...</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="3">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He pulls out a pair of underwear. He gets dressed as he speaks.</context>
+      <utterance>In eighth grade a friend of mine made a bong out of one of these. The smoke tasted like glue.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>serious outsider. Not a bad guy, I like him. I'm probably his only friend. I do what I can for him. I mean, if I was him, I'd appreciate it. Do unto others, right? Anyway, his mother owns a gas station. His father's dead and his sister's rumored to be a prostitute, which is complete bullshit. She only puts out so people will hang out with her. It's sad but I don't hold it against her. Better to hold it against the guys who use her and don't care about her. (pause) My parents never allowed Garth over here. It was because of his family. Mainly his older brother. He's in jail. I could see them not wanting his brother here because he is a registered psycho. I wouldn't want him here. I once watched the guy eat a whole bowl of artificial fruit just so he could see what it was like to have his stomach pumped. But Garth isn't his brother. It isn't his fault that his brother's screwed-up. Alot of fights with the parents on that point. I always felt for Garth. I was sleeping at his house once and I was laying on the dark worrying that his brother was going to come in and hack me to death with an ax and I heard Garth crying. I asked him what was wrong and he said, "Nothing". ... Nothing was wrong. There was no specific thing he was crying about. In fact, he wasn't really even aware that he was crying. He just cried himself to sleep every night. It was a habit. The guy's so conditioned to grief that if he doesn't feel it, he can't sleep. How could you possibly dump on guy who has to deal with that kinda shit? My parents acknowledge the trudge of the situation and I'm sure that deep down, they do feel for him but still the guy's banned from our house. He looks at himself in the mirror on the back of his closet door. He doesn't like what he's wearing. He continues his speech as he disrobes.</context>
+      <utterance>His name is Garth Volbeck. He's a</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Unfortunately, now my parents have a legit argument. Garth doesn't need his brother to give him a rep anymore. He's getting one on his own. He's lost. It's over for him. He's eighteen. Gone from school. Gone from life. His legacy is a gas station.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="7">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He takes a sip out of a bottle of orange juice.</context>
+      <utterance>That and boredom. Alot of people ditch and feel great for about an hour. Then they realize there's nothing to do. TV and food. I myself have ditched and gotten so bored I did homework. Figure that shit out.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He crosses to the pantry.</context>
+      <utterance>You have to plan things out before you take the day off. Otherwise you get all nervous worrying about what to do and all you get is grief and the whole point is to take it easy, cut loose and enjoy.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He emerges from the pantry with a handful of Oreos.</context>
+      <utterance>You blow your day and at about three o'clock, when everybody's out of school, you're going to wish you'd gone to school so you could be out having fun.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Do it right.</context>
+      <utterance>Avoid the misery. Plan your day.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He reaches over and picks up the telephone. He sets it in his lap.</context>
+      <utterance>There's alot of pressure at work in my age group. And it's not always recognized.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some guy whose hair is falling out and his stomach's hanging over his belt and everything he eats makes him fart, he looks at someone like me and thinks, "This kid's young and strong and has a full, rich future ahead of him, what's he got to bitch about?"</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's just one reason why I need a day off every now and then.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="17">
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>The phone rings. His hand reaches back and hits the speaker phone button.</context>
+      <utterance>Food...shelter...no...yes...</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello?</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameron! What's happening?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very little.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you feel?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shredded.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context>Cameron takes the thermometer out of his mouth.</context>
+      <utterance>Is your mother in the room?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's not home. Where are you?</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Home.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm taking the day off. Get dressed and come over.</utterance>
+   <speaker>CAMERON'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't. I'm sick.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all in your head. Come on over.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>I can't go anywhere.</context>
+      <utterance>I feel like complete shit, Ferris.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context>Ferris disconnects. Cameron slowly hangs up the phone.</context>
+      <utterance>I'm sorry to hear that. Now, come on over and pick me up.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>The phone rings again. Cameron hits the speaker button.</context>
+      <utterance>I'm dying.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not dying. You just can't think of anything good to do.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If anybody needs a day off, it's Cameron. He has alot of things to sort out before he graduates. He can't be wound this tight and go to college. His roommate'll kill him. I've come close myself. But I like him. He's a little easier to take when you know why he's like he is. The boy cannot relax. Pardon by French but Cameron is so tight that if you stuck a lump of coal up his ass, in two weeks you'd have a diamond.  And Cameron would worry that he'd owe taxes on it.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="15">
+   <speaker>TEACHER'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Albers?</utterance>
+   <speaker>BOY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here.</utterance>
+   <speaker>TEACHER'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anderson.</utterance>
+   <speaker>GIRL'S VOICE</speaker>
+      <mode></mode>
+      <context>CAMERA enters a classroom. It travels past a teacher's Hush Puppies and heads up an aisle of desk past dirty yellow Reebocks, rotting Air Jordans, scuffed heels, pristine loafers...</context>
+      <utterance>Here.</utterance>
+   <speaker>TEACHER'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anheiser?</utterance>
+   <speaker>BOY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here.</utterance>
+   <speaker>TEACHER'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Busch?</utterance>
+   <speaker>GIRL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here.</utterance>
+   <speaker>TEACHER'S VOICE</speaker>
+      <mode></mode>
+      <context>CAMERA reaches the last desk and rises slowly to reveal that it's empty.</context>
+      <utterance>Bueller?</utterance>
+   <speaker>TEACHER'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bueller?</utterance>
+   <speaker>GIRL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's sick.  My best friend's sister's boyfriend's brother's girlfriend heard from this guy who knows this kid who's going with a girl who saw Ferris pass-out at 31 Flavors last night. I guess it's pretty serious.</utterance>
+   <speaker>TEACHER'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you, Simone.</utterance>
+   <speaker>GIRL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No problem whatsoever.</utterance>
+   <speaker>TEACHER'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Drucker?</utterance>
+   <speaker>BOY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="2">
+   <speaker>CU. TV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The was wagon hurtles down the road.</utterance>
+   <speaker>CU. FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He rears back in horror.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="3">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He comes up with a crumpled dollar bill.</context>
+      <utterance>This is really degrading.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He comes up with a five.</context>
+      <utterance>Financing my activities this way. Very damaging to the self-image. But, hey, I'm broke. In times of crisis one must to what one must to. I'll pay it back. With interest.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He holds up a twenty and snaps it. PINK FLOYD'S "MONEY"</context>
+      <utterance>Regardless of how much shit sisters make you eat, how often they rat on you, how gross they act or how wicked and insensitive they can be, you should not alientate them. Because most likely they have cash and it's usually very easy to get your hands on.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="5">
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context>Let's be realistic.</context>
+      <utterance>No one's going to consider a house with a black living room. Not even those jerks from Vermont.</utterance>
+   <speaker>AGENT 1</speaker>
+      <mode></mode>
+      <context>Joyce's phone intercom buzzes. She take the call.</context>
+      <utterance>Mrs. Volbeck's dead set against putting any money into the house.</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context>Her eyes open wide with alarm.</context>
+      <utterance>Joyce Bueller.</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, my God. I'm so sorry. I completely forgot to call.</utterance>
+   <speaker>MAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you aware that your son is not in school today?</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="2">
+   <speaker>JOYCE'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't understand.</utterance>
+   <speaker>DEAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just had his file up.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="3">
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context>Behind him is a computer terminal. He removes his feet from the desk and turns in his swivel chair.</context>
+      <utterance>I just has his file up, Mrs. Bueller.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If Ferris thinks he coast this last month and still graduate, he's sorely mistaken.</utterance>
+   <speaker>JOYCE'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is all news to me.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="2">
+   <speaker>ROONEY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So far this semester alone, he's been absent nine times. Including today.</utterance>
+   <speaker>JOYCE'S VOICE</speaker>
+      <mode></mode>
+      <context>Under DAYS MISSED we see a number 9 suddenly change to a number 2.</context>
+      <utterance>Nine times?</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="2">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wanted a car. I got a computer. How's that for being born under a bad sign?</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can give you every assurance that Ferris is home and that he is, in fact, very ill. I debated whether or not I should even leave him. I can appreciate that at this time of year children are prone to taking the day off, but in Ferris' case, he's truly a very sick boy.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="7">
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm really sorry about your brother.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're you sorry for? I have to live with the trouser snake.</utterance>
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I mean I heard he's really sick.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who said he's sick.</utterance>
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context>Jeanie stares incredulously at the girl.</context>
+      <utterance>A whole bunch of people. They said he's like on the verge of death.</utterance>
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context>She smiles and exits. Jeanie cocks her head in bewilderment. She kicks her locker shut.</context>
+      <utterance>This guy in my biology class said that if Ferris dies he's giving his eyes to Stevie Wonder? He's really sweet isn't he?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>It feels like that.</context>
+      <utterance>A sample of my blood was sent to Atlanta to the Center for Disease Control. I don't know, man, I'm bricking heavily.  Freshman.  Did you see Alien? When the guy had the creature in his stomach?</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="14">
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goddamn! Are you kidding?</utterance>
+   <speaker>SECOND BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you see Alien?</utterance>
+   <speaker>SECOND BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context>Second boy shakes his head, no.</context>
+      <utterance>You never rented the video cassette?</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. He's really wasted.</utterance>
+   <speaker>THIRD BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's he talking to?</utterance>
+   <speaker>SECOND BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ferris Bueller. You know him?</utterance>
+   <speaker>THIRD BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. He's getting me out of summer school.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyway, I appreciate you letting us know how you're doing. We gotta split.  Huh?...Yeah, sure. Hold on.</utterance>
+   <speaker>SECOND BOY</speaker>
+      <mode></mode>
+      <context>The boy snatches a passing GIRL.</context>
+      <utterance>Shit. I hope he doesn't die. I can't handle summer school.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you see Alien?</utterance>
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context>He hands her the phone.</context>
+      <utterance>Yeah, why?</utterance>
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello?  Who?  Hi, Ferris. How's your bod?  Oh, my God! You're dying? Is it serious?  Shiit! Are you upset?</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="7">
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't trust this kid any further than I can throw him!</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>Rooney stares at her for a long beat.</context>
+      <utterance>With your bad knee, you better not throw anybody, Ed.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's so dangerous about a character like Ferris Bueller is that he gives the good kids bad ideas. The last thing I need at this point in my career is fifteen hundred Ferris Bueller disciples running around these halls.</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's very popular, Ed. Sportos, motorheads, geeks, sluts, pinheads, dweebies, wonkers, richies, they all adore him.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's exactly why I have to catch him this time. To show these kids that the example he sets is a first class ticket to nowhere.</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>Rooney looks up at her with a proud smile.</context>
+      <utterance>Ooo. You sounded like Dirty Harry just now.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context>He unconsciously does an Eastwood squint.</context>
+      <utterance>Really?</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="9">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameron, if you're not over here in fifteen minutes, you can find a new best friend. I'm serious, man. This is bullshit, making me wait around the house for you.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sick. I feel like shit. Why can't you leave me alone?</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not up for some good times? It's a beautiful day. It's almost summer. If this was Hawaii, we'd be surfing.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Try to feel worse?</context>
+      <utterance>You want to stay home and try to have the shits? Try to barf?</utterance>
+   <speaker>CAMERON'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't have to try.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>The other phone line rings.</context>
+      <utterance>Be a man. Take some Pepto Bismol and get dressed. You're boring me with this stuff.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He puts Cameron on hold. He clears his throat and answers the second line. He sounds like he's on his last breath.</context>
+      <utterance>Squeeze you buns for a second. I got another call.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>H--hell-o?</utterance>
+   <speaker>TOM'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ferris?</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="4">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sound miserable.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really? Darn! I thought I was improving.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Were you sleeping?</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was trying to do some homework.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="11">
+   <speaker>FERRIS</speaker>
+      <mode>OC</mode>
+      <context></context>
+      <utterance>I'm so worried about falling behind.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad? Can you hold on a second?</utterance>
+   <speaker>TOM'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure, pal. Are you alright?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He puts his father on hold.</context>
+      <utterance>Just a little phlegm on the phone. Hold on.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameron? It's my Dad.</utterance>
+   <speaker>CAMERON'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, that's just great. Are you busted?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He disconnects and gets his father back. He switches back to his sick voice.</context>
+      <utterance>It's completely cool. He's just checking up on me. Now, listen to me. I'm working on getting some heavy bucks out of him. So, the least you can do is hurry up and get over here. Bye.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry, Dad. The moment before you called, I had a chest spasm and I blew lung fluid all over the place. It was making me ill looking at it. But gee, it's sure great of you to call. I'm sure there're alot of fathers who wouldn't take time out from their busy schedules to call a dumb, sick teenager.</utterance>
+   <speaker>TOM'S VOICE</speaker>
+      <mode></mode>
+      <context>Ferris reaches out and hits a key on his computer. The screen dumps the drawing.</context>
+      <utterance>Hey, pal, what was I supposed to do?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give yourself some credit, Dad. It was a mammoth gesture. It's like those savings bonds you used to give me every Christmas.  It was that kind of concern.</utterance>
+   <speaker>CU. COMPUTER SCREEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A message is flashing: "TRANSMITTING DATA".</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="2">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You had to work hard for the money to buy those things, right?</utterance>
+   <speaker>TOM'S VOICE</speaker>
+      <mode></mode>
+      <context>Ferris mouths Tom's words as he says them.</context>
+      <utterance>Not any harder than anybody else.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="14">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Ferris points a finger in the air as a cue to his father.</context>
+      <utterance>You work so hard I'll bet you don't even remember where those bonds are, right?</utterance>
+   <speaker>TOM'S VOICE</speaker>
+      <mode></mode>
+      <context>He nods.</context>
+      <utterance>Wrong.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, yeah? You're pulling my leg. You're just trying to cheer me up.</utterance>
+   <speaker>TOM'S VOICE</speaker>
+      <mode></mode>
+      <context>Ferris smiles. He looks at CAMERA. He's gotten exactly what he wants.</context>
+      <utterance>Like hell I am. They're in a shoebox in my closet.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was that a class move or what? The guy gave it up faster than a drunk Catholic girl. I hope my kids don't pull this shit on me.  Of course, if they didn't, they'd be dumb and abnormal and they'd probably never move out of my house and I'd have to support them until I die. I take it back.  Dad? All this talking has made me kind of light-headed. I think I better lie down.</utterance>
+   <speaker>TOM'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, pal. You take care. I'll call you after lunch.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't have to, Dad.</utterance>
+   <speaker>TOM'S VOICE</speaker>
+      <mode></mode>
+      <context>He hangs up. Ferris sighs.</context>
+      <utterance>I want to. Bye now.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He turns his desk chair around and gets up.</context>
+      <utterance>You win some, you lose some.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm so disappointed in Cameron. Twenty bucks says he's sitting in his car debating about whether or not he should go out.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>He cuts the engine.</context>
+      <utterance>We're gonna get caught. No doubt about it.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>He sits for half a beat.</context>
+      <utterance>I'm not doing it.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>He sighs and restarts the engine. Another beat.</context>
+      <utterance>He'll keep calling until I come over.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Another beat. He stops the engine. A CRASH OF HORROR MUSIC.</context>
+      <utterance>Actually, what'll happen is I'll get caught. Ferris'll escape.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="4">
+   <speaker>NURSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sloane Peterson?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sits up in her seat.</utterance>
+   <speaker>NURSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's a picture of compassion and understanding.</utterance>
+   <speaker>NURSE</speaker>
+      <mode></mode>
+      <context>There's been an emergency.</context>
+      <utterance>May I see you outside for a moment?</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="3">
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dead grandmother.</utterance>
+   <speaker>NURSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dead grandmother.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dead grandmother?</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="13">
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what Mr. Peterson said. I had Florence Sparrow notify Sloane.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's this girl's going with?</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>Rooney smiles. His suspicions are confirmed.</context>
+      <utterance>It's so hard to tell. I see her alot with Ferris Bueller.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context>As the secretary starts out of the room, Rooney's phone rings. She stops and answers the desk phone.</context>
+      <utterance>Could you get me Mr. Peterson's daytime number?</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>She puts the call on hold.</context>
+      <utterance>Edward Rooney's office.  Yes. Can you hold? Thank you.</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>Rooney is startled. He thinks for a beat then reaches for the phone.</context>
+      <utterance>It's Mr. Peterson.</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>Rooney answers her with an annoyed look. She smiles and backs out. He punches the phone button.</context>
+      <utterance>Do you still want his number?</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ed Rooney.</utterance>
+   <speaker>MAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ed? This is George Peterson.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How are you today, sir?</utterance>
+   <speaker>MAN'S VOICE</speaker>
+      <mode></mode>
+      <context>Rooney rolls his eyes. It's so obvious it's not Mr. Peterson.</context>
+      <utterance>We've had a bit of bad luck this morning as you may have heard.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context>The secretary stops cold in the doorway. She turns to Rooney in horror. He covers the phone.</context>
+      <utterance>I heard. And, gosh, I'm all broken up. Huh? Oh, sure. I'd be happy to release Sloane. You produce a corpse and I'll release Sloane. I want to see this dead grandmother firsthand.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context>Rooney's other line rings.</context>
+      <utterance>It's Ferris Bueller. Nervy litttle punk. I'm gonna set a trap and let his walk right into it!  That's right. Cart the stiff in and I'll turn over your daughter. It's school policy. Was this your mother?</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="2">
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>Her jaw drops.</context>
+      <utterance>Ed Rooney's office.</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>She puts the call on hold and hangs up. She hurried into Rooney's office.</context>
+      <utterance>Hold, please.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="8">
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context>The secretary comes in. She's waving her arms furiously. Rooney tries to wave her away. He's angry. She stomps her foot. Rooney covers the phone.</context>
+      <utterance>I'll tell you want, you don't like my policies, you can just come on down and smooch by big old ugly ass. You hear me?</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What!?</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ferris Bueller's on line two.</utterance>
+   <speaker>CU. ROONEY'S FOOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It freezes in mid-tap.</utterance>
+   <speaker>CU. ROONEY'S HAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The pencils falls from his fingers.</utterance>
+   <speaker>CU. ROONEY'S FACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A mask of horror. He glances at the phone.</utterance>
+   <speaker>CU. PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The second line light is flashing.</utterance>
+   <speaker>CU. ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He blinks, cocks his head, twitches.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="2">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Rooney? I'm sorry to disturb you at work but I was wondering if it would be possible for my sister to bring home any assignments from my classes that I may need.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context>He nods.</context>
+      <utterance>Thank you, sir.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="18">
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. I thought you were someone else. You have to know, sir, that I would never deliberately insult you. I can't begin to tell you how embarrassed I am.</utterance>
+   <speaker>CAMERON'S VOICE</speaker>
+      <mode></mode>
+      <context>Rooney nods enthusiastically.</context>
+      <utterance>Pardon my French but you're an asshole!</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Absolutely! I most certainly am.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This isn't over yet, buster. You just make sure my daughter's out in front of the school in ten minutes. Do you read me?</utterance>
+   <speaker>ROONEY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Load and clear, Mr. Peterson.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call me sir, goddamn it!</utterance>
+   <speaker>ROONEY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Ferris strolls into the kitchen to catch the last of the conversation. Cameron covers the phone.</context>
+      <utterance>That's better.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm scared shitless, Ferris! What is Rooney guesses my voice!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron sighs and goes back to the phone.</context>
+      <utterance>Impossible. You're doing great.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Ferris gives Cameron an enthusiastic thumbs up.</context>
+      <utterance>I don't have all day to bark at you so I'll make this short and sweet.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron smiles proudly.</context>
+      <utterance>Great!</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Ferris smacks Cameron. He's said the wrong thing. He covers the phone.</context>
+      <utterance>I want my daughter out in front of the school in ten minutes. By herself. I don's want anyone around...</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'd I do?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron panics. He holds the phone out to Ferris.</context>
+      <utterance>Out in front my herself? It's too suspicious! He'll think something's up, moron. Cover it.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Ferris waves his arms angrily.</context>
+      <utterance>You do it!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron takes a deep breath. He clears his throat and puts on his father's voice.</context>
+      <utterance>Talk!</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Ferris slaps Cameron. The phone flies out of his hand.</context>
+      <utterance>I changed my mind, fella. You be out in front with her! I wanna have a few words with you!</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="26">
+   <speaker>CAMERON'S VOICE</speaker>
+      <mode></mode>
+      <context>We HEAR A SLAP AND THE CALL DISCONNECTS.</context>
+      <utterance>On second thought, I don't have time to talk to you. We'll get together soon and have lunch.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why'd you hit me?!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's your brain?!</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why'd you hit me?!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's your brain?!</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why'd you hit me?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's your brain?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I asked you first.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can we pick up Sloane if Rooney's going to be there with her?!</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said for her to be there alone and you freaked!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My, God, you're so stupid!  I didn't hit you, I lightly slapped you.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Ferris is incredulous at Cameron's stupidity. Cameron's anger is intensified by his embarrassment.</context>
+      <utterance>You hit me. Look, don't ask me to participate in your crap if you don't like the way I do it!</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was home, sick. You get me out of bed, being me over here, make me jeopardize my future, make me do a phoney phone call on a dean of students, a man who could squeeze my nuts into oblivion and then you deliberately hurt my feelings.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't deliberately hurt your feelings.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, really?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron glares at Ferris.</context>
+      <utterance>Yeah, really.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>He turns and heads out of the room. Ferris sighs.</context>
+      <utterance>Hey, Ferris? Have a nice life.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameron?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stick it up your ass, Ferris.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron stops.</context>
+      <utterance>Cameron, I'm sorry. I didn't mean to jam you. It was uncalled for.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>He turns around.</context>
+      <utterance>You're serious?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron smiles. He appreciates Ferris apology.</context>
+      <utterance>Dead serious.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You did screw up through, right? Not that is was necessarily all you fault. Right?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron's jaw drops.</context>
+      <utterance>To fix this situation, I'm going to have to ask you for a small favor.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="16">
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>1958 Ferrari 250 GTS California. Less than a hundred were made. It has a market value of $265,000. My father spent three years restoring it. It is joy, it is his love, it is his passion.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is his fault he didn't lock the garage.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ferris, my father loves this car more than life itself. We can't take is out.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A man with priorities so far out of whack doesn't deserve such a fine automobile.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He never drives it, Ferris. He just rubs it with a diaper.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Peterson drives that piece of shit.</context>
+      <utterance>We can't pick up Sloane in your car, Cameron. Rooney'd never believe Mr.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not a piece of shit.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a piece of shit. Don't worry about it. I don't even have a piece of shit. I have to envy yours. Look, I'm sorry but there's nothing else we can do.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He knows the mileage, Ferris. He has it tatooed on his wrist.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He doesn't trust you?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He puts his arm around Cameron.</context>
+      <utterance>Alright, look, this is real simple.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatever miles we put on it, we'll take off.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron shakes his head, no.</context>
+      <utterance>We'll drive home backwards.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget it. I'm putting my foot down, Ferris. You'll have to think of something else...</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="13">
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you crazy?! Put the top back up!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is perfect top-down weather.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about Rooney?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameron, the more obvious we are, the less likely we are to get caught.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That makes no sense whatsoever.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron squeezes himself lower.</context>
+      <utterance>The adult mind is a suspicious machine.  Stay down, man.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Howcome it's my Dad's car and I'm taking all the risk and I have to ride back here?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't have an explanation.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Once again let me say how deeply saddened I am by your loss.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Huh?</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Were you close to your grandmother?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Um. Yeah. Very. She was a terrific lady. Very hip. Very old. Yeah.</utterance>
+   <speaker>DEEP VOICE</speaker>
+      <mode></mode>
+      <context>Sloane looks across at the Ferrari. Rooney looks.</context>
+      <utterance>Oh, Sloane! Dear!</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="11">
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>She laughs and turns to Cameron.</context>
+      <utterance>This is so great! I can't believe it! Right in front of Rooney!</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, Cameron. You comfortable?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi. No.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What a fabulous car!</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Enjoy it quick. It' s going home.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was risky, it was bold but it was totally necessary.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're we gonna do?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The question isn't "what are we gonna do", the question is "what aren't we going to do."</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't tell me we're not going to take the car home. Please.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He smiles.</context>
+      <utterance>If you had access to a car like this would you take it back right away? Would you give up feeling like a ton just to ease your best friend's tension?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Either would I.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="7">
+   <speaker>TELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I passed a kidney stone Tuesday, so I'm a little pooped but other than that, I'm as chipper as can be.  Say, should you be in school?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He lays his savings bonds on the counter.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Sloane suppresses a laugh.</context>
+      <utterance>Me?  I'm out of school, Mrs. Froeling. In fact. I'm married. This is my wife...Madonna.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron isn't amused.</context>
+      <utterance>And this is my brother-in-law, ZZ Top. ZZ, this is Mrs. Froeling.</utterance>
+   <speaker>TELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is Top a Slavic name?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd like to cash these in, please. We're having a baby and we need the cash for a crib, clothes, diapers, food pellets, leash, water dish...</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="4">
+   <speaker>TELLER</speaker>
+      <mode></mode>
+      <context>Cameron groans and turns away from the sham.</context>
+      <utterance>A baby!  You must be so excited.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>Mrs. Froeling thumbs through the bonds.</context>
+      <utterance>I'm thrilled, ma'am. I'm especially looking forward to wearing those jeans with the stretch panel in front.</utterance>
+   <speaker>TELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you hoping for a boy or a girl?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Actually, we're hoping for a car.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="2">
+   <speaker>CU. CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's like he's just witnesses an ax murder.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit...</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="4">
+   <speaker>TELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These bonds aren't mature. If you hold onto them another two years you'll get an additional four dollars...</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm aware of that.</utterance>
+   <speaker>TELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're throwing away four dollars.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, ma'am, I'm giving it to the government. They need it. Do you know what an aircraft carrier's going for these days?</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="4">
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Froeling, how are you?</utterance>
+   <speaker>MRS. FROELING</speaker>
+      <mode></mode>
+      <context>Joyce doesn't know what she's talking about.</context>
+      <utterance>I passed a kidney stone Tuesday.  Say, you must be very proud.</utterance>
+   <speaker>MRS. FROELING</speaker>
+      <mode></mode>
+      <context>She pats Joyce on the arm.</context>
+      <utterance>I met Madonna.</utterance>
+   <speaker>MRS. FROELING</speaker>
+      <mode></mode>
+      <context>She toodles on her way. Joyce and the Vermont Couple are completely baffled.</context>
+      <utterance>She told me everything. Keep me posted, I'll want to send a gift.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="6">
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context>We HEAR A METALLIC PING! as Boyd's missle hits a car.</context>
+      <utterance>My son's home sick today. If you wouldn't mind, on our way back to the office, I'd like to just run in and check up on him.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>They pass a show window. As they pass, we hold on the window. It's promoting saving for college educations. A mannequin father is congratulating his mannequin son in a mortar and gown as a stiff Sloane, Ferris and Cameron look on proudly.</context>
+      <utterance>Of course.</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>She hands the phone to Rooney.</context>
+      <utterance>This is the Peterson's home.</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>Rooney glares at her.</context>
+      <utterance>Watch your mouth this time.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context>saying this morning. Why he has to be stopped. He's got Sloane Peterson involved in this thing now. See? The secretary nods.</context>
+      <utterance>Ferris Bueller's behind this. There's no doubt in my mind. That's what I was</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And her grandmother, too.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="8">
+   <speaker>CAMERON'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have reached the Coughlin Bros. Mortuary. We are unable to come to the phone right now but if you'll leave your name and number...</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context>The secretary's looking at a newspaper on Rooney's desk. She's not listening to him.</context>
+      <utterance>Something's going on, goddamn it.</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a railroad strike.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I'm going to stop it!</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>Rooney looks at her, puzzled.</context>
+      <utterance>My brother-in-law'll appreciate it.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>Rooney stares at her like she's crazy.</context>
+      <utterance>My brother-in-law rides the train to work.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who gives a good goddamn?</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="6">
+   <speaker>KID</speaker>
+      <mode></mode>
+      <context>Jeanie stares at him. She's flabbergasted at the proportions her brother's scan has reached.</context>
+      <utterance>Yo. We're collecting money to buy Ferris Bueller a new kidney.</utterance>
+   <speaker>KID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They run about fifty g's so it you could help out...</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go piss up a flagpole!</utterance>
+   <speaker>KID</speaker>
+      <mode></mode>
+      <context>She knocks the can out of his hands and storms down the hall. The kid yells after her.</context>
+      <utterance>Huh?</utterance>
+   <speaker>KID</speaker>
+      <mode></mode>
+      <context>He reaches for the can.</context>
+      <utterance>Hey, babe! Some day you might need a favor from Ferris Bueller! Then where'll you be?!</utterance>
+   <speaker>KID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heartless wench...</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="7">
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can't leave the car here!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because we can't! I want it back home where it belongs!</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What could happen to it?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It could get stolen, wrecked, scratched, you name it.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll give the guy a five to watch it.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What guy?</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="9">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You speak English?</utterance>
+   <speaker>ATTENDANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Since I was three.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He pats the Attendant on the arm. He smiles.</context>
+      <utterance>Great. I want to you take extra special care of this vehicle, okay?</utterance>
+   <speaker>ATTENDANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like it's a beautiful woman.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>The Attendant very gingerly gets into the car. Ferris turns to Cameron. The Ferrari pulls into the lot very slowly, very carefully. No squealing tires, no revving engine.</context>
+      <utterance>I appreciate it.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See what a finski can do to a person's attitude? He's going to treat it like a beautiful woman.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, sure. Whip it with a stick and piss on the hood.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>She heads down the street.</context>
+      <utterance>Oh, please, Cameron. Do you have to be so graphic?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>Ferris nudges Cameron on. They exit the garage and head after Sloane. A long beat and the Ferrari creeps down the exit ramp of the garage. It's gone in the entrance and out the exit. Another attendant jumps in the passenger side. He's skinny, tall, with a huge knit hat willed with dreads. He lets out a spirited laugh and the Ferrari peels out of the lot. It heads down the street away from Sloane, Ferris and Cameron.</context>
+      <utterance>This is so right!</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="3">
+   <speaker>FERRIS</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>This is the world's tallest building. From our vantage point here on the 103 floor, we are provided with a view of four states.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>Do you think the car's alright?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>Illinois, Michigan, Wisconsin and my personal favorite, Indiana.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="11">
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't feel good, Ferris. Are we gonna stay long?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Ferris steps back. Sloane and Cameron follow suit.</context>
+      <utterance>Take a step back...</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He leans forward, putting all his weight on his forehead.</context>
+      <utterance>Now, lean against the glass. Like this...</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Sloane leans forward. Cameron follows, reluctantly.</context>
+      <utterance>And look down.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, shit!</utterance>
+   <speaker>HER POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The street far, far below. A dizzying view.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if the glass gives?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Death.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cool.</utterance>
+   <speaker>CU. CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's looking down.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think I see my Dad.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="58">
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you love me?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you love me?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I asked you first.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. You?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would I trash a day of education to be with you if I didn't love you?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would I risk damaging a deep and wonderfully enriching relationship with my parents if I didn't love you?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would I have introduced you as my wife if I didn't love you?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute. That was a lie.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Ferris puts his arm around Sloane.</context>
+      <utterance>True.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you want to get married? I mean if I wasn't an asshole.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Sloane stares at him. Is he serious.</context>
+      <utterance>Today?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm game.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No way!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron suddenly adds his two cents.</context>
+      <utterance>I'll do it, if you will.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Ferris looks around at him.</context>
+      <utterance>You need a blood test.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Huh?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If your blood's not compatible, you could produce a pinhead. The state requires a blood test.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, you can't get married today.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tomorrow?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you get a blood test today.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not getting married.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm with you, babe.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean, why not? Think about it.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Besides being too young and your father hating my guts and not having any place to live and feeling awkward about being the only cheer- leader with a husband, give me a good reason why not.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Ferris and Sloane look at him curiously.</context>
+      <utterance>I'll give you two. My mother and father.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're married and they hate each other.  You've seen them. Am I right?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>They're old. That's natural.</context>
+      <utterance>You're father's a toad and your Mom's always wired out, but so what?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>He hates his wife.</context>
+      <utterance>It makes me puke. Seeing people treat each other like that. It's like the car. He loves the car.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My parents are divorced. So what? It's not like it doesn't happen ten thousand times a day.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just because it happens doesn't make it right. Are you comfortable with it?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. It's not something I can get comfortable with. I've tried. Are yours divorced?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They may as well be.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>Cameron hasn't seen it that way. He shrugs.</context>
+      <utterance>Do you think they're staying together because of you?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>It hasn't occured to Cameron that his parents might not like him. That parental love might not be a given.</context>
+      <utterance>Do they like you?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. Sure.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>We all thought so. Then BLAM! It's over.</context>
+      <utterance>Consider this...my father canned me and my brother and my Mom for a twenty five year old dipso with fake tits. He dropped us like a rock. Everything was cool at our house. I thought so.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is all news to me. She keeps a pretty good secret.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was pure selfishness. When I have a kid, I don't care how much I want something, if it's gonna screw-up the kid, forget it.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's not lying.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could change.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. But I'm gonna try not to. I'm gonna think about it. I'm gonna try to prevent it.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is optomism. It's a common trait with my age group. Adults think it's cute, it's like a charming quick that infests youth. But it's a cool thing and I think, deep down, crusty old shits wish they had some. They wish they had her, too.  Sorry. She's taken.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd rather not have my family break apart, thank you.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you know what? It ain't up to you. It's out of your hands.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, I in other words, I should just sit back and watch it crumble?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're merely an inhabitant in their universe.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frightening choice of words.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They call the shots. When you split from them, you call the shots.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, you're saying I should run away?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. She's saying it's time for lunch.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>They stand up and head out. Ferris hangs back a moment. He cups his hands to his mouth. He yells at the top of his voice.</context>
+      <utterance>Let's go feed Cameron.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="10">
+   <speaker>MAITRE'D</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I help you?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>The maitre'd looks at Ferris curiously.</context>
+      <utterance>Yes. I'm Abe Frohman. Party of three for 12:00.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is there a problem?</utterance>
+   <speaker>MAITRE'D</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're Abe Frohman?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm Abe Frohman.</utterance>
+   <speaker>MAITRE'D</speaker>
+      <mode></mode>
+      <context>Sloane tugs Ferris' sleeve. He ignores her.</context>
+      <utterance>I'm sorry, son. I'm very busy right now. If you have trouble finding the door...</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you suggesting that I'm not who I say I am?</utterance>
+   <speaker>MAITRE'D</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shall I call the police?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's go...Abe.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron chokes. Sloane grits her teeth. The maitre'd smiles smuggly.</context>
+      <utterance>I'm not going anywhere.  Call the police. Go ahead. Better yet...  ...I'll call myself.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="5">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>The maitre'd backs off.</context>
+      <utterance>You touch me and I yell "rat!" There's another phone around here. Find it.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ferris, let's split, please?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameron's right. We're gonna get busted.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He hands the phone to Sloane.</context>
+      <utterance>Not a chance in the world.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ask for Abe Frohman.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="9">
+   <speaker>MAITRE'D</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I appreciate your understanding.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't grovel, Charles. Just leave us to our repast and all will be forgotten.</utterance>
+   <speaker>MAITRE'D</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Enjoy your luncheon.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>The maitre'd backs away. Ferris smiles. Sloane is impressed. Cameron is flushed with nerves.</context>
+      <utterance>Thank you.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Darling, you were wonderful.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, but I had a wonderful teacher.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron looks to Ferris.</context>
+      <utterance>Cameron, dear friend?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Ferris disappears behind his menu.</context>
+      <utterance>And you thought we wouldn't have any fun. Shame on you.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>Ferris Bueller's days are numbered.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="33">
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm gonna bust his buns.</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why? What's the point?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>She yanks angrily on the velcro strap on her sneakers. The straps rip off in her hand.</context>
+      <utterance>Why? Because I'm sick of the little dope. He manipulates my parents, he does whatever he wants, whenever he wants and he never gets nailed.  Well, babe, today I'm the hammer.</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think he's cute.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sweetie, it's an established fact that you have no taste. Ferris is not cute. He's not charming. He's not nice. He's not a wonderful person. He's an ignorant mule and the sooner everybody in this school comes to that realization the better off we'll all be. She displays the velcro straps to her friend.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>Jeanie tosses the straps on the floor.</context>
+      <utterance>See? My brother strokes you, you sympathize with him, I get pissed off and this is what happens!</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me tell you something. I study hard, I work hard, I'm polite, I'm considerate, I'm friendly and fair to all kinds of people. Except morons. I try to be everything a good, decent person should be and you know what?</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context>Jeanie freezes with her next sentence pinned to her tongue.</context>
+      <utterance>Everybody thinks you're an asshole.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think you're an asshole.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>Her friend smiles sheepishly.</context>
+      <utterance>Who does?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>Jeanie's friend shrugs, wags her head, does everything but verbally confirm.</context>
+      <utterance>Rachel?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rachel's a dirt bag. Who else?</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. Just forget it.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget that everybody thinks I'm an asshole? Would you like everybody to think you're an asshole?</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not everybody thinks you're an asshole. Mr. Rooney likes you.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>Jeanie shakes her head in disbelief.</context>
+      <utterance>Oh, hey. That's exciting. A fat fifty year old clod with B.O. likes me.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would everybody be happier if maybe I were to die in a flaming car accident or something?</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe if you didn't cat like and asshole...</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Am I acting like an asshole?</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't mean it that way.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I this a conspiracy to shit all over me or something? Is my brother behind this? Tell me if he is or I'll sock your tits.</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You really do have a problem, Jeanie.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me? I have a problem?</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Somebody who threatens to sock people's tits has a problem.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>Jeanie's friend gets up.</context>
+      <utterance>Alright. How about if I sock your face?</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context>Her friend exits.</context>
+      <utterance>Take a walk, Jeanie.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If it means anything to you, I have my period! MY BODY'S RIDDING</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's gone. He's over. He's monkey meat.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He looks down at the urinal.</context>
+      <utterance>She's a person who views life as an ordeal that must be endured. Her body is a transport vehicle for her anger. I don't know where she gets this shit. Basically, the family's pretty cool.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He zips this trousers and steps away from the urinal.</context>
+      <utterance>I wonder if everybody shoots at cigarette butts in urinals? Probably not many women.  I used to think that my family was the only one that had weirdness in it. It used to worry me. Then I met Cameron and I saw how his family functioned.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He checks his hair in the mirror.</context>
+      <utterance>Cameron's home life is really shit. He wasn't lying. That's why he's sick all the time. It really upsets him. What he said about his parents hating each other? I refuse to sleep over at his house. His parents fight all the time. Even when I'm there. Is there anything worse than being at somebody's house when their parents are fighting? It's the absolute height of social discomfort.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He exists the men's room. We hold a beat. A toilet flushes. Another beat and Tom walks out of the stall. He crosses to the sink.</context>
+      <utterance>When they go after each other, Cameron tightens up. It's scary. He gets so wadded-up, you couldn't pry his buns apart with a crowbar. The thing with taking his old man's car? It's good for him. It teaches him to deal with his fear. Plus, and I must be honest here, I love driving it. I highly recommend picking one up.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="17">
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. But it looks like it's already been eaten and digested.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Ferris slides over to the table and drops into his seat.</context>
+      <utterance>I knew it was a mistake letting Ferris order for us.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron looks at Ferris.</context>
+      <utterance>What are you doing?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is this shit?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He puts his napkin in his lap and smells his plate.</context>
+      <utterance>You got me. I don't speak French.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He takes a bite. He savors the taste.</context>
+      <utterance>I think it's a land-based beefoid creature.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Splendid.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron and Sloane try theirs. They chew tentatively.</context>
+      <utterance>Superb.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Sloane and Cameron shrug. It's not bad. A WAITER passes. Ferris stops him.</context>
+      <utterance>Good?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>The waiter stops and looks at Ferris indignantly.</context>
+      <utterance>Yo, Clouseau!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>The waiter glances at the plates.</context>
+      <utterance>I have a growth on my brain that causes memory lapses. Could you tell me what we ordered here?</utterance>
+   <speaker>WAITER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sweetbreads.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, huh. And what might that be?</utterance>
+   <speaker>WAITER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pancreas.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As in the gland that has important functions in digestion and metabolism?</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="2">
+   <speaker>CU. FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He continues his questioning.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...That secretes a thick, colorless fluid containing digestive enzymes? The home of the world famous isles of Langerhans?</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="3">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>40,000 restaurants in the downtown area and I pick the one my father goes to.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're gonna get nabbed, for sure.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He turns to the cab. Sloane and Cameron turn slowly.</context>
+      <utterance>No way, Cameron. Only the meek get nabbed. The bold survive. Let's go.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="2">
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wonder if he has a name?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ninth Month.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="11">
+   <speaker>CAMERON</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>Are you guys worried about nuclear war?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>Cameron, it's a beautiful day, we've won our freedom, we're traveling down one of American's most scenic polluted waterways and you have to bring up nuclear war?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>It is kind of raggy subject, Cam.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode>VO</mode>
+      <context>The possiblity of global destruction.</context>
+      <utterance>Regardless. It's with us every day.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>Don't you think it's an issue because people need something to worry about? They have to like, have some major problem that puts all their little bullshit into some kind of persepective?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>Maybe.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They used to have Viet Nam. They used to have the oil crisis stuff and Iran. That's over and people have to have their big issue. It's not like somebody came up with the nuclear holocaust yesterday at noon, you know.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>To answer your question...No, I'm not worried about it at all.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>We don't know when the bombs going off. We do know, however, that college starts in the fall.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode>VO</mode>
+      <context>Long beat.</context>
+      <utterance>Do you know what a nuclear winter is?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode>VO</mode>
+      <context>The boat makes the turn in the river and CLEARS FRAME.</context>
+      <utterance>Yeah. Everybody's dead, it's real cold and the skiing's for shit.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="10">
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My step-father's always going off about how when he was young he was committed to all these causes.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's full of shit. All the old hippies are full of shit.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He says I don't care about things like he did.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's he care about now?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Baldness, fatty meats and money.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I rest my case.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's spooky is they still control everything. They took over when they were young and they never gave it up.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One of the most frightening experiences of my young life has been observing my parents and our neighbors playing the Baby Boom Edition of Trivial Pursuits. It's chilling to see people crazed with the minutia of their past.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's human nature to like what you had better than what you have.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>A loud speaker on the boat identifies a point of interest.</context>
+      <utterance>Agreed.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="7">
+   <speaker>SLOANE, CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Sears Tower.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, this is all very interesting but I'm starving.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An hour ago you wanted to yack.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I feel better now.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron looks over the side of the boat. An obtuse thought flashes through Sloane's brain.</context>
+      <utterance>Lean over and grab a fish.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What comes after a nuclear winter?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nuclear spring.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="5">
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>Jeanie scowls at her.</context>
+      <utterance>Hello, Jeanie. Who's bothering you now?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is Dean Rooney in?</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, he's out. Can I help you?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I seriously doubt it. When's he back?</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. He left the grounds on personal business.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="2">
+   <speaker>ROONEY</speaker>
+      <mode>OC</mode>
+      <context>The player looks up.</context>
+      <utterance>I've been waiting a long time for this.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode>OC</mode>
+      <context>The player turns around. It's a GIRL.</context>
+      <utterance>Your ass is mine.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="3">
+   <speaker>CU. ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He squints</utterance>
+   <speaker>CU. GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She blows a strawful of Coke in Rooney's face.</utterance>
+   <speaker>CU. NAPKIN HOLDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A hand yanks a napkin hold.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="4">
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the score?</utterance>
+   <speaker>HOT DOG MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Zero to zero.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's winning?</utterance>
+   <speaker>HOT DOG MAN</speaker>
+      <mode></mode>
+      <context>Rooney nods and exits.</context>
+      <utterance>Cubs.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="6">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think I broke my thumb.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can we leave now?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to leave? We just got here.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>Cameron offers his nachos to Sloane. She looks at them with disgust.</context>
+      <utterance>You got a call, you broke your thumb, what's left to do?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>Ferris leans back, puts his hands behind his head and turns his face to the bright sun.</context>
+      <utterance>No wonder you're always sick.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you realize that if I played by the rules, right now I'd be in gym?</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="10">
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love him.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Cameron breaks a smile. As worried as he is about the day and getting caught, he has to admire Ferris for his lack of inhabitions. Cameron mumbles a few words.</context>
+      <utterance>It's hard not to.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop...water...want...</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you believe in reincarnation?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Huh?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you believe that you lived before?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. Sort of.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>DO you ever wonder what you were?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Sloane looks at him with amazement.</context>
+      <utterance>I don't have to wonder. I know.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was a tractor tire.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="9">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guten tag, dude!</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What were you in a previous life?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure but I think I know who Ferris was.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hannibal.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>From the A-Team?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Sloane laughs at herself. They step out of the crowd and head down the street in the direction the parade's heading.</context>
+      <utterance>No. The guy who rode the elephants into Switzerland.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>Cameron nods.</context>
+      <utterance>I think if he was anybody, he was Magellan. You know, the guy who went around the world.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I could see him ignoring popular belief and taking off on some impossible mission.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. As long as I've known him, everything works for him. There's nothing he can't handle. I can't handle anything. School, parents, the future. Ferris can do anything.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="11">
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>Cameron doesn't understand what she means.</context>
+      <utterance>The future's worse for a boy, isn't it?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A girl can always bail out and have a baby and get some guy to support her.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a pretty grim thought.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>True, but it's an option. No options is worse.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know what I'm gonna do.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>College.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but to do what?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you interested in?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>They walk on for a few beats. We HEAR "TWIST AND SHOUT" GROWING LOUDER AND LOUDER. The sons is taking over all the other tunes in the band. It's infecting the entire parade.</context>
+      <utterance>Me either.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think Ferris is gonna do?</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="11">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Rooney presses the intercom.</context>
+      <utterance>Who is it?</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is Ed Rooney, Ferris. I'd like to have a word with you.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context>There's a pause. Rooney presses the intercom again.</context>
+      <utterance>I'm sorry I can't come to the door right now. I'm very ill and I'm afraid that in my weakened condition, I could take a nasty spill down the stairs and subject myself to further school absenses.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>B.S. Come down here.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context>His voice clicks off. Rooney presses the intercom again.</context>
+      <utterance>You can reach my parents at their places of business. Thank you for stopping by. I appreciate your concern for my well-being. It will be remembered long after this illness has past.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not leaving until you come down and talk to me.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context>Rooney presses the intercom.</context>
+      <utterance>Have a nice day.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context>There's no response. Rooney rings the doorbell again. The pre-recorded litany starts over.</context>
+      <utterance>I'm not leaving, Ferris.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context>Rooney doesn't realize that he's listening to a recording.</context>
+      <utterance>Who is it?</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't get smart with me Ferris!</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context>Rooney leans back from the door. He can't quite figure out what's going on. But's it's highly suspicious.</context>
+      <utterance>I'm sorry I can't come to the door right now. I'm very ill and I'm afraid that in my weakened condition...</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="2">
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You may reach my parents at their places of business.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I appreciate your conern for my well-being. It will be remembered long after...</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="12">
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How does she do that? One goes one way, one goes the other.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's probably schizophrenic.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ferris, this is nauseating me. Really. I'm losing respect for you by the bucket.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't think it's amazing that we got in?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who wants to get in?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameron looks like a toddler, for Christ's sake. I'm talking about a major achievement in false identification.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not interested in watching someone jiggle their mammary glands.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Point well taken. But consider why she does it. Why she does it and you don't.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not a tramp.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He flips his collar up, curls his lip and affects an Elvis impression. A sappy, do-wop track FADES UP. The club lights go down. Cameron and Sloane disappear into darkness. Ferris stands up from the booth. He strolls slowly through the empty club as the stripper bumps and grinds in a pool of blue light.</context>
+      <utterance>Maybe her life fell apart. Maybe she lost somebody. A lover. A boyfriend. A parent. A child...  This kind of thing makes me a little depressed. You may think because I'm the age I am that I'm a sex maniac. That sex is all I think about. But that's not true. I'm a romantic. I think alot of people my age are. We think about love and matters of the heart. And SAT scores and acne aside, we worry about lonliness. It's a terrible thing. And we feel it. I feel it.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He climbs up on the little runway. The stripper disappears in darkness as Ferris takes over the spotlight.</context>
+      <utterance>You know, someone said the world's a stage and each must play a part. Fate had me playing in love, with you as my sweetheart. Act one was when we met. I loved you at first glance. You read your lines so cleverly and never missed a cue. Then came act two. You seemed to change. You acted strange. And why, I've never known.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Elvis fades up. The orignal recording. Ferris lip synchs with the big, dramatic florish that was the King's trademark ballad sign-off.</context>
+      <utterance>Honey, you lies when you said you loved me and I had no cause to doubt you. But I'd rather go on hearing your lies than to go on living without you. Now, the stage is bare and I'm standing there with emptiness all around and if you won't come back to me, then they can bring the curtain down...</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="3">
+   <speaker>ATTENDANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You looking for something in my car?</utterance>
+   <speaker>CU. CAMERON'S FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He shakes his head, no.</utterance>
+   <speaker>CAMERON'S FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="2">
+   <speaker>CU. JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's furious.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm gonna microwave his nuts...</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="15">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He leans forward and reads the driver's name off the city license.</context>
+      <utterance>So...</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, Yuri, how long have you been in America?</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One year.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's your overall impression?</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's very good here.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Better than Russia?</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Much better here than in Russia.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Ferris sits back. He puts his arm around Sloane.</context>
+      <utterance>Clearly you've never been to an American high school.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's getting late, Ferris. I have to get the car home. I know you don't care, but it means my ass.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think I don't care?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know you don't care.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That hurts, Cameron.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jump back, Ferris, Cameron's been a good sport.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron looks at him.</context>
+      <utterance>Cameron, what'd you see today?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron's staring past Ferris. He's frozen. Ferris realizes he's looking at something out the window. He turns. He freezes.</context>
+      <utterance>You saw four states, a submarine, a giant heart, seventy five dollars worth of cooked pancreas, two of the most incredible breasts ever to come out of modern plastics, major league baseball and...  Are you gonna chuck your nachos?</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="2">
+   <speaker>TOM'S POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sloane is sitting where Ferris was. She's wearing sunglasses, looking bored. She turns and glances out the window. Fakes a yawn.</utterance>
+   <speaker>HER POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tom stares at her. He's baffled. He looks away.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="5">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's he doing?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's looking at me and he's licking the glass and making obscene gestures with his hands.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Sloane bursts out laughing.</context>
+      <utterance>What?!</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>She licks her finger and touches Ferris knee. She makes a sizzling sound. She collapes on the seat in hysterics.</context>
+      <utterance>Roast!</utterance>
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sloane's bouncing up and down.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="2">
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a $28.00 dress shoe, you worthless mutt!</utterance>
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Rottweiler leaps at CAMERA.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="4">
+   <speaker>DELIVERY MAN</speaker>
+      <mode></mode>
+      <context>He presses the doorbell. A beat and we hear Ferris' recording.</context>
+      <utterance>Howdy!</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context>The Deliver Man presses the intercom.</context>
+      <utterance>Who is it?</utterance>
+   <speaker>DELIVERY MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Focus on Flowers. I have a delivery.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry but I can't come to the door right now. I'm very ill and I'm afraid...</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="12">
+   <speaker>DELIVERY MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As I heard it from our mailman he was supposedly born with only half a kidney.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have a nice day.</utterance>
+   <speaker>DELIVERY MAN</speaker>
+      <mode></mode>
+      <context>Rooney is flabbergasted.</context>
+      <utterance>Thank you.  I don't know the details. But my boss had to send to Milwaukee to get more orchids. He's very popular.</utterance>
+   <speaker>DELIVERY MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody's home here?</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>DELIVERY MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You gonna be around for awhile?</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I imagine so.</utterance>
+   <speaker>DELIVERY MAN</speaker>
+      <mode></mode>
+      <context>Rooney looks at the flowers. Then he looks at the Delivery Man.</context>
+      <utterance>You wanna keep an eye on these?</utterance>
+   <speaker>DELIVERY MAN</speaker>
+      <mode></mode>
+      <context>He hands the arrangement to Rooney.</context>
+      <utterance>It really touches me that so many people are rallying behind this guy. I guess there's hope for the human race afterall.</utterance>
+   <speaker>DELIVERY MAN</speaker>
+      <mode></mode>
+      <context>He bounds off the porch and trots to the truck. Rooney looks incredulously at the arrangement. He opens the attached card.</context>
+      <utterance>Gotta run.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, Christ...</utterance>
+   <speaker>CU. CARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's signed:</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="2">
+   <speaker>D.J.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His name is Ferris Mueller.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bueller. Ferris Bueller.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="2">
+   <speaker>D.J.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry about that.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Jeanie draws back and punches out her radio.</context>
+      <utterance>It's cool.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="6">
+   <speaker>D.J.</speaker>
+      <mode></mode>
+      <context>Ferris turns to CAMERA.</context>
+      <utterance>He has an incredible story.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going to tell a massive lie here. It's going to by very thick and very steamy. I think radio's a facinating medium, it challenges the imagination. Unlike television which provides the images, radio...  You know this. Anyway, it's always been a dream of mine to be on the radio. I have what I consider to be an excellent broadcast voice. I practise it in the bathroom all the time. I used to play records and do introductions to them. But I've never had the chance to sit behind a microphone and try it out for real. This is a 50,000 watt outlet. I'm going out to several million people so let me just say, I'm in a very pleasant groove right now.  Well, Steve, you and your listeners are probably not going to believe this but...</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...I'm the first Chicago area youth to be selected to participate in a space shuttle mission.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He turns back to the DJ.</context>
+      <utterance>I was going to say I knew Springsteen's home phone number and I was going to give out the number of the New Jersey State Police but I thought I might get busted. After I got flunked in driver's ed for sideswiping a mail box, which was not in any way, shape or from my fault. I was putting out a cigarette, like I was told. It was weird. I'm so used to getting in a car and lighting up, because I'm not allowed to smoke at home, that I got in the driver's ed. car and spaced completely, pulled out of the lot, lit up a 'boro and Mrs. Heller looked at me like I'd just pulled a bunny out of my nose or something and I realized what the hell I was doing and I went to put it out and hit the mail box. Anyway, I was so pissed off at her reaction to the whole thing that I considered running an ad in a sleaze magazine for a school teacher that does phone sex and I was gonna use Mrs. Heller's home number but is cost too much. I took it again and passed. But I had to work at Burger King to get the cash to pay for the driver's ed. car. The car got fixed in auto shop for nothing and I think Rooney pocketed the cash. But I can't prove it? I'm in high school, remember?</utterance>
+   <speaker>D.J.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did you get picked for this.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's kind of a long story but I've been doing alot of programming for</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="3">
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context>He hears something in the house. His head snaps around. He drops down and peek in the windows.</context>
+      <utterance>Sleep tight, pooch.</utterance>
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A glimpse of a fleeting figure.</utterance>
+   <speaker>CU. ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His eyes dance in anticipation of revenge.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="2">
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>She slams the phone down.</context>
+      <utterance>Is Mrs. Bueller there? Where is she? This is her daughter. Do you know where she is? Do you know when she'll be back? Do you know anything?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>She's startled by a noise downstairs. A smile spreads across her face. He's back and she's going to nail him.</context>
+      <utterance>The worm has luck like clams have body odor...</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="2">
+   <speaker>D.J. VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you stay around and take a few phone calls?</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd really like to but I have a kidney operation in about an hour.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="18">
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context>She opens the car door.</context>
+      <utterance>If you're willing to commit a little time and a little money to this place, you can really have something to be proud of. Don't let the black living room throw you off.</utterance>
+   <speaker>D.J. VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wish you the best of luck.</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Steve.</utterance>
+   <speaker>D.J. VOICE</speaker>
+      <mode></mode>
+      <context>Joyce gets in. The clients get in the other side. A song starts.</context>
+      <utterance>A very interesting guy, Ferris Bueller.</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context>The kid stares at her.</context>
+      <utterance>Well, Boyd, how are you bearing up?</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did I tell you I have a son your age?</utterance>
+   <speaker>BOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twice.</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context>Boyd sits up in the seat at the mention of Ferris' name.</context>
+      <utterance>His name is Ferris. I think you'd like him.</utterance>
+   <speaker>BOYD</speaker>
+      <mode></mode>
+      <context>Joyce looks around at Boyd. She gives him a curious look.</context>
+      <utterance>Is he going up in the space shuttle in September?</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not that I know of.</utterance>
+   <speaker>BOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew he was bullshitting.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Watch your mouth.</utterance>
+   <speaker>BOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you watch your mouth?</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know my son?</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>He thinks it's cute to bait adults.</context>
+      <utterance>Don't pay any attention to him.</utterance>
+   <speaker>BOYD</speaker>
+      <mode></mode>
+      <context>Joyce give him a puzzled smile and starts the car.</context>
+      <utterance>I don't think it's cute. I think it's fun.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is not a phoeny phone call. There's an intruder, male caucasian, possibly armed, certainly weird, in our kitchen.  My name is Bueller. There's another pause. Jeanie's face drops.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>I need help!</context>
+      <utterance>It's real nice that you hope my brother's feeling better but I'm in danger, okay? I'm very cute, I'm very alone and I'm very protective of my body. I'd rather not have it violated or killed.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="2">
+   <speaker>JEANIE'S VOICE</speaker>
+      <mode></mode>
+      <context>Rooney stiffens with fear.</context>
+      <utterance>Excuse me. If whoever's in the house is still in the house, I'd like you to know that I have just called the police. If you have any brains whatsoever, you'll get your ass out of my house real quick.</utterance>
+   <speaker>JEANIE'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd also like to add that I have my father's gun. And a scorching case of herpes.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="4">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just out of curiosity, what was your top speed coming down the ramp?</utterance>
+   <speaker>BLACK GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About 60.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He hands him a buck and opens the door and pulls the passenger seat forward for Cameron.</context>
+      <utterance>Stunning!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron gives him a look and squeezes in.</context>
+      <utterance>This is probably the last time you'll have to ride back here. Keep that in mind.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="9">
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's next.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing. We return the car.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We could go to my house. My parents aren't coming home until late.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have enough cash left for a quick flight to Peoria and back.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Ferris looks in the mirror and changes lanes. He glances down at the speedometer, then to the road. And back to the speedometer.</context>
+      <utterance>Very funny.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameron? How many miles did you say this thing had when we left?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>He glances down at the speedometer.</context>
+      <utterance>One hundred and twenty six and halfway between three and four tenths. Why? How many miles are on it now?</utterance>
+   <speaker>CU. SPEEDOMETER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The odometer reads 432.7.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here's where Cameron goes berserk.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="4">
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You okay?</utterance>
+   <speaker>CU. CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His eyes are frozen in a mindless, vacant stare.</utterance>
+   <speaker>CU. FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He looks at Sloane. He's concerned.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Cameron. It's okay. We'll fix it.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="7">
+   <speaker>CU. SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She whips around in the seat and grabs his arms.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameron! Cut it out! What's wrong?! Ferris!</utterance>
+   <speaker>CU. FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He shoots Sloane a look.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameron, are you okay? It's no problem, really. Your old man won't know a thing. It's completely fixable.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>She turns back to Cameron.</context>
+      <utterance>Shut-up! It is a problem! For him it's a problem. Nothing's a problem for you. But it's a problem for him! So, just shut-up.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What can I do, Cameron?</utterance>
+   <speaker>CU. FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eyes front. He knows what he's doing.</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="5">
+   <speaker>FERRIS VOICE</speaker>
+      <mode></mode>
+      <context>We hear a MALE VOICE over the intercom.</context>
+      <utterance>Who is it?</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anybody home?</utterance>
+   <speaker>FERRIS' VOICE</speaker>
+      <mode></mode>
+      <context>The tape continues as Jeanie hurtles down the stairs.</context>
+      <utterance>I'm sorry that I can't come to the door right now...</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>She jumps the last few stairs and slides to the front door. She whips it open.</context>
+      <utterance>I'm saved! Thank you, God! Thank you, thank you, thank you!</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>Her jaw goes slack. She blinks her eyes.</context>
+      <utterance>Thank...you...</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="3">
+   <speaker>KID</speaker>
+      <mode></mode>
+      <context>Rooney doesn't respond.</context>
+      <utterance>Hey, Mr. Rooney! What're you doing?</utterance>
+   <speaker>ANOTHER KID</speaker>
+      <mode></mode>
+      <context>Rooney keep walking. The bus doors open. The DRIVER calls out to him.</context>
+      <utterance>Did you get in a fight?</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context>Rooney takes a few more steps. He stops. The bus stops. Rooney takes a deep breath. He climbs aboard the bus.</context>
+      <utterance>You want a lift?</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="9">
+   <speaker>CU. ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He looks vacantly at her.</utterance>
+   <speaker>CU. GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She holds her smile.</utterance>
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll bet you never smelled a real school bus before.</utterance>
+   <speaker>CU. ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He stares at her.</utterance>
+   <speaker>CU. GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She holds up a candy package.</utterance>
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gummi Bear?</utterance>
+   <speaker>CU. ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He stares at her.</utterance>
+   <speaker>CU. GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She puts one in her mouth.</utterance>
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They've been in pocket. They're real soft and warm.</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="3">
+   <speaker>CU. ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He looks across to the kid.</utterance>
+   <speaker>CU. BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He leans forward.</utterance>
+   <speaker>FRESHMAN BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's kind of like being in the belly of the beast isn't it?</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="6">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He begins to walk. We follow him.</context>
+      <utterance>This may very well be for real. I think Cameron might have blown a micro-chip or two. He's always been a little keyed-up. All I wanted to do was give him a good day. We're gonna graduate in a couple of months. Then we have the summer. He'll work and I'll work. And we'll see each other at night and on the weekends but then he'll go to one school and I'll go to another. And basically that'll be it. As much as we like each other, the process of growing up will separate us.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sloane's a bigger problem. She still has another year of high school. How do I deal with that? I was serious when I said I'd marry her. I would. This isn't just teenage infatuation. That's what my parents call it. What do they call what they have? If that's love, I'll take infatuation.</utterance>
+   <speaker>CU. CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His eyes are closed. Sloane's stroking his hair.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>Cameron's never been in love. At least no one's ever been in love with him. He's gonna marry the first girl he lays. And she's gonna treat him like shit because he's gonna kiss her ass for giving him what he's built-up in his mind as the end-all, be-all of human existance. She won't respect him because you can't respect someone who kisses your ass. It just doesn't work.</utterance>
+   <speaker>CU. SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's studying Cameron's face. She looks away.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ferris?</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="2">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He starts back to the picnic table.</context>
+      <utterance>I'm being tested here.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My best friend has flipped-out. Conventional wisdom would suggest a visit to the nearest trauma center. I wouldn't fault anybody for doing that. My, personally, I think this calls for something new, something bold, something wet and wild.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="4">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You feeling any better, Cameron?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The water's really nice. I wish you'd come in.</utterance>
+   <speaker>CU. CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Staring into space.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Surgery...fire...move...</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="11">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameron? Do you think this because of the car or is it a combination of everything shitty in your life?</utterance>
+   <speaker>CU. CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He doesn't respond.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Music...kiss...attack...</utterance>
+   <speaker>CU. SLOANE AND FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sloane sips the beer.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just can't deal with anymore shit? The car took you into the red zone? Time for a reality check?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameron? I could flip real easy, too. There's nothing wrong with it. At one time or another, everybody goes to the zoo.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe he was actually sick. Maybe he wasn't bullshitting himself.</utterance>
+   <speaker>CU. CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No response.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gesundheit...God...mercy...</utterance>
+   <speaker>CU. CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He smiles.</utterance>
+   <speaker>CU. SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She leans forward and stares at Cameron.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="2">
+   <speaker>CU. CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He keels over forward.</utterance>
+   <speaker>UNDERWATER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ferris struggles with Cameron's lifeless bulk.</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="5">
+   <speaker>CU. CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His eyes are closed. He's lifeless.</utterance>
+   <speaker>CU. FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His face is a mask of terror. He shakes Cameron.</utterance>
+   <speaker>CU. SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's screaming.</utterance>
+   <speaker>CU. CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A smile spreads across his face.</utterance>
+   <speaker>CU. FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He sees the smile. He stops shaking Cameron.</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="4">
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron's smiling.</context>
+      <utterance>You asshole!</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>Ferris starts to laugh. Cameron explodes with laughter. Sloane's bewildered.</context>
+      <utterance>What?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's so funny?</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="30">
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Drugs?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, thank you. I'm straight.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context>Jeanie stares at him.</context>
+      <utterance>I meant, are you here for drugs?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you here?</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Drugs.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know why I'm here.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then why don't you go home?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>The boy stares at her.</context>
+      <utterance>Why don't you put your thumb up your butt?</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to talk about your problem?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With you? Are you serious?</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I'm serious.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>Jeanie turns away. The boy crosses his legs. Jeanie looks back at him.</context>
+      <utterance>Blow yourself.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>The boy shrugs.</context>
+      <utterance>You really want to know what's wrong?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alright. If you've got the time, I've got the troubles. In a nutshell, I hate my brother. How's that?</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's cool. Did you shoot him or something?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>The boy nods. He understands the emotion.</context>
+      <utterance>No, not yet.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I went home to confirm that the shithead was ditching school and a guy broke into the house and I called the cops and they picked me up for making a phoney phone call.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context>Jeanie stares at the boy.</context>
+      <utterance>What do you care if your brother ditches school?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why should he get to ditch school when everybody else has to go?</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could ditch.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd get caught.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, you're pissed at him because he ditches and doesn't get caught?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>The boy nods knowingly.</context>
+      <utterance>Basically.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then your problem is you.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context>Jeanie stares angrily at him. Partly because he's so bold and partly because he's so right.</context>
+      <utterance>Excuse you. You oughta spend a little more time dealing with yourself and a little less time worrying about what your brother does. It's just an opinion.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context>Jeanie stares at him threateningly.</context>
+      <utterance>There's somebody you should talk to.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you say Ferris Bueller, you lose a testicle.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know him?</utterance>
+   <speaker>CU. JEANIE'S HAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It curls into a fist.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="31">
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The whole time I was just thinking things over. I was like, meditating. I was thinking about the future. And I realized it doesn't make and difference if the present goes to shit.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have a agree with you there.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been thinking all day that if you could only have the use of one word, what would it be?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sloane is naked before your eyes and you're thinking about words?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God bless you, Cameron.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you, Sloane.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you guys only had one word, what would it be?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't believe you'd think up something like with a naked girl in a jacuzzi right in front of you.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, Ferris, answer his question.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bathroom.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context>She thinks.</context>
+      <utterance>I'd say...</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cash.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the only word you could ever use.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Love.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And what is you loathe somebody? Are you going to say "love" every time you see them?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's better than "hello".</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hellos' generic.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wanna be generic?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Cameron smiles at his wisdom. Ferris and Sloane think about it. It's a good choice. Cameron gets up and walks to the Ferrari.</context>
+      <utterance>It's help.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Cameron peeks in the window.</context>
+      <utterance>The word is help.</utterance>
+   <speaker>CU. ODOMETER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing's happening.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Ferris looks up.</context>
+      <utterance>Ferris? It's not working.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The miles aren't coming off, running it in reverse.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron shakes his head.</context>
+      <utterance>I thought that might be a problem. Let's crack open the odometer and roll it back by hand.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>He walks back around behind the Ferrari.</context>
+      <utterance>I got a better idea. It's cool.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seventeen years and I've never taken a stand. Now, I'm gonna do it. I'm taking a stand against my father, against my family, against myself, against my past, my present and my future. I will not sit idly by as events that affect me unfold to change the course of my life. I will take a stand and I will defend it. When my father comes home tonight, he's finally going to have to deal with me. Good or bad, I'm taking a stand.</utterance>
+   <speaker>CU. FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He turns to CAMERA.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is a big U-2 fan.</utterance>
+   <speaker>CU. SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She smiles proudly at Cameron. She applauds him.</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="15">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was that about?</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This has to be a dream.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron holds his proud posture for a beat. Then a look of bewilderment comes over his face. He shoots a look to Ferris. A puzzled look.</context>
+      <utterance>Cameron? One quick question. Why'd you do that?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron looks across the street.</context>
+      <utterance>You trashed the car.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I took a stand.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron thinks for a moment. Then he regains his confidence.</context>
+      <utterance>No, Cameron. You wrecked a car.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>Ferris looks across the street at the car.</context>
+      <utterance>It's okay.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Cameron looks at him. He shakes his head.</context>
+      <utterance>I have an idea. If you're interested.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm gonna handle it.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think this could work.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, thanks. I want to deal with it by myself.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about your one word?</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context>He smiles. He raises am impish eyebrow.</context>
+      <utterance>You already did it. If I need it again, I'll use it.</utterance>
+   <speaker>CAMERON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's cool. I'm loose.</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="6">
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's never been in trouble before. This is a shock to me. First, I don't know why she wasn't at school. Second, I don't know why she'd call you with this story about a rapist.</utterance>
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For whatever reasons she did it, I think she'd had a good scare.</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context>The gathers her purse and jacket and stands.</context>
+      <utterance>I hope so. I appreciate your calling me. I can assure you that her father and I will have a long talk with her.</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context>Joyce looks at the officer curiously.</context>
+      <utterance>Oh, by the way, I hope you son's feeling better.</utterance>
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell him, all the guys at the station here are pulling for him.</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="7">
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you keep this to yourself, I think we can probably get it on pretty good.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context>Jeanie stands up.</context>
+      <utterance>For sure.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi.</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context>Jeanie reaches down for her purse.</context>
+      <utterance>Don't "hi" me, young lady. Get your stuff.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's your name?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jean. What's yours?</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Garth Volbeck.</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="9">
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I had a great time today.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. It was pretty cool.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think Cameron's gonna be alright?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Sloane smiles knowingly.</context>
+      <utterance>Sure. He had to so it, I guess. His old man had it coming. He'll be okay. I'd be worried if he'd taken my idea.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't have an idea, did you?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not a glimmer.</utterance>
+   <speaker>SLOANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're so smart.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He kisses her.</context>
+      <utterance>No. I'm just real loose.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Sloane nods. Ferris jumps the fence and takes off across the backyards. Sloane watches him go. A huge smile spreads across her face.</context>
+      <utterance>I'll call you tonight.</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="5">
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looking for this?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context>Ferris is caught. There's no way out. Rooney gloats severely.</context>
+      <utterance>I got you, Ferris. This time I finally got you.</utterance>
+   <speaker>ROONEY</speaker>
+      <mode></mode>
+      <context>Suddenly, the backdoor opens. Jeanie looks out. She feigns joy and relief. She rushes Ferris and hugs him.</context>
+      <utterance>How does another year of high school sit with you?</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank God, you're alright! We've been worried sick!</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="3">
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>Ferris limps into the house.</context>
+      <utterance>Thank you for bringing him home, Mr. Rooney.  You better get up in bed tight now.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you imagine someone as sick as Ferris trying to walk home from the hospital?  Kids!</utterance>
+   <speaker>CU. ROONEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's dumbfounded.</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="11">
+   <speaker>TODD</speaker>
+      <mode></mode>
+      <context>Ferris leans against the counter as he tries to catch his breath. He looks at his little brother.</context>
+      <utterance>Ferris? Does my head look like it's getting bigger?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He crosses to the refrigerator and opens it. Kimberly feels her head.</context>
+      <utterance>No, but Kimberly's is.</utterance>
+   <speaker>KIMBERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is he serious?</utterance>
+   <speaker>TODD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think so.</utterance>
+   <speaker>KIMBERLY</speaker>
+      <mode></mode>
+      <context>Ferris takes out a bottle of orange juice out of the refrigerator and drinks straight from the bottle. Jeanie comes in.</context>
+      <utterance>Oh, shit!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Jeanie.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No problem.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By the way, I borrowed some cash from you. I'll pay you back.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't have to.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context>Ferris gives her a proud smile.</context>
+      <utterance>You don't have to. I've been ripping off your wallet for years.</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="2">
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, guys.</utterance>
+   <speaker>KIMBERLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is my head swelling up?</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="9">
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry I've been riding your buns for so long.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's completely cool.</utterance>
+   <speaker>JOYCE</speaker>
+      <mode>OC</mode>
+      <context>Ferris continues up the stairs. He affects a sickly voice.</context>
+      <utterance>Ferris!</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Upstairs, Mom!</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know a guy named Garth Volbeck?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Vaguely.</utterance>
+   <speaker>JEANIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is he cool?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Ferris walks into the room, brushes the crumbs off his hands and peels off his shirt. He climbs into bed. No sooner are the covers over him than the bedroom door opens and Joyce and Tom walk in. They walk over to the bed. Joyce sits down.</context>
+      <utterance>He's cool. But stay away from his brother.</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honey?</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="8">
+   <speaker>TOM</speaker>
+      <mode>OC</mode>
+      <context>He pulls in his tongue to speak.</context>
+      <utterance>Ferris? How do you feel?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>150% better, thank you.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm much better, really. Please, don't make me stay home again. I want to go to school. I'm graduating in June and I...</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ferris. You're sick. There's no point pushing yourself and making it worse.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you're right, Dad.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>Joyce leans over and kisses him forehead.</context>
+      <utterance>I know I'm right.</utterance>
+   <speaker>JOYCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did you get so sweet?</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>Tom pats Ferris on the rump. He and Joyce exit.</context>
+      <utterance>Years of practice.</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="2">
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He rolls over on his back and puts his hands behind his head.</context>
+      <utterance>Yeah, life is a carousel. A great big crazy ball of pure living, breathing joy and delight.</utterance>
+   <speaker>FERRIS</speaker>
+      <mode></mode>
+      <context>He smiles.</context>
+      <utterance>You gotta get one.</utterance>
+</dialogue>
+
+
+</movie>

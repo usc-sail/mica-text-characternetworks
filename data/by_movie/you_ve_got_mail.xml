@@ -1,0 +1,4486 @@
+<movie id="612" title="You ve Got Mail">
+
+<dialogue id="1" n_utterances="6">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good morning.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Kathleen comes out of the bathroom in her robe.</context>
+      <utterance>-- because they hadn't done any work in six weeks.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aren't you late?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what this is, you know what we're seeing here? We're seeing the end of Western civilization as we know it.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She tosses him his jacket.</context>
+      <utterance>This is so sad.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think that machine is your friend, but it's not.  I'm late.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="3">
+   <speaker>KATHLEEN</speaker>
+      <mode>O.C.</mode>
+      <context></context>
+      <utterance>I'll see you tonight.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sushi.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>O.C.</mode>
+      <context>Frank goes out the door. It closes. Kathleen tiptoes into the hall and looks through the fish-eye peephole watching as he goes down the stairs, disappearing from sight. She walks into:</context>
+      <utterance>Great. Bye.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="3">
+   <speaker>COMPUTER</speaker>
+      <mode></mode>
+      <context>And we see Kathleen, listening for the words she's waiting to hear: COMPUTER (cont'd) You've got mail. And Kathleen smiles as her mail page comes up:</context>
+      <utterance>Welcome.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>And now we hear Kathleen's voice replaced by the voice of NY 152, a man named JOE FOX --</context>
+      <utterance>Brinkley is my dog. He loves the streets of New York as much as I do --</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>-- although he likes to eat bits of pizza and bagel off the sidewalk, and I prefer to buy them. Brinkley is a great catcher and was offered a tryout on the Mets farm team --</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="8">
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Darling --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe's girlfriend PATRICIA EDEN, in Armani head to toe, comes into the kitchen and turns on the $2000 espresso machine, which starts grinding beans. She's carrying the morning papers.</context>
+      <utterance>Mmmmmhmmm --</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm late.  Random House fired Dick Atkins. Good riddance. Murray Chilton died. Which makes one less person I'm not speaking to --  Vince got a great review. He'll be insufferable. Tonight, PEN dinner --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Am I going?</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You promised.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Patricia drains another cup of espresso, looks at him.</context>
+      <utterance>Can't I just give them money? That's the cause? Free Albanian writers? I'm for that.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, I'll go. You're late.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context>She tears out of the kitchen and the door slams behind her. Hold on Joe, listening as he hears the elevator door open and close on the landing outside.</context>
+      <utterance>I know I know I know.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="2">
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O., CONTINUES</mode>
+      <context></context>
+      <utterance>What will he say today, I wonder. I turn on my computer, I wait impatiently as it boots up.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O., CONTINUES</mode>
+      <context>And the camera now pans from 152 Riverside uptown to:</context>
+      <utterance>I go on line, and my breath catches in my chest until I hear three little words: You've got mail.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="3">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Christina looks up at the sky as if seeing it for the first time.</context>
+      <utterance>Hello, Christina. It's a beautiful day. Isn't it the most beautiful day?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Kathleen unlocks the shop and cranks the grate, which rises, making a horrible noise. Two cabs almost collide in front of the store, with a screech, and one cabdriver starts yelling obscenities at the other. Kathleen unlocks the door to the store.</context>
+      <utterance>I guess. Yeah, sure.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Christina looks at her puzzled.</context>
+      <utterance>Don't you love New York in the fall?</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="31">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on with you?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're in love.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In love? No. Yes. Of course I am. I'm in love with Frank. I'm practically living with Frank. Do you think you could get our Christmas mailers out this week?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>A beat.</context>
+      <utterance>By Monday I promise. I have a paper due Friday. Now what's going on?  I'm just going to stand here till you tell me.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it infidelity if you're involved with someone on E-mail?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you had sex?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course not. I don't even know him.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean cybersex.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No!</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, don't do it. The minute you do, they lose all respect for you.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not like that. We just E-mail. It's really nothing, on top of which I'm definitely thinking of stopping because it's getting --</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Out of hand?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Confusing. But not really. Because it's nothing.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where did you meet him?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't even remember.  The day I turned thirty I wandered into the Over Thirty Room for a joke, sort of and he was there, and we started chatting.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About what?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Books. Music. How much we both love New York. Harmless. Harmless. Meaningless.  Bouquets of sharpened pencils.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget it. We don't talk about anything personal. We made a rule about that. I don't know his name, what he does or exactly where he lives, so it will be really easy to stop seeing him, because I'm not.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>salespeople, is a cute guy who has no idea that he's supposed to look in the mirror when he gets dressed.</context>
+      <utterance>God, he could be the next person to talk into the store. He could be...  George. GEORGE PAPPAS, in his twenties, one of Kathleen's</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Morning.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you On Line?</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context>BIRDIE walks in. She is in her seventies, has white hair, and is tiny, like a little sparrow. She is the store's oldest employee, having worked there for over forty years, and serves as a accountant as well as salesperson.</context>
+      <utterance>As far as I'm concerned, the Internet is just another way to be rejected by a woman.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good morning, Birdie.</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you all talking about?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cybersex.</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I tried to have cybersex once but I kept getting a busy signal.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know, I know. One Saturday night I was really depressed about not having a date, so I thought, no problemo, I'll go on line and I won't be lonely, but I couldn't get on, there were hundreds of thousands of people who didn't have dates trying to get on.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>MORE</mode>
+      <context></context>
+      <utterance>You have to wonder which is harder, getting a date or getting On Line when you don't have a date.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context>We hear the bell jingle as TWO WEST SIDE MOTHERS come in with two KIDS IN STROLLERS.</context>
+      <utterance>Getting a date is harder.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="6">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, you forgot to pick up the garbage last week and I got a ticket. And you're late today -- I could have gotten another.</utterance>
+   <speaker>GARBAGEMAN #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We were here, there was no garbage.</utterance>
+   <speaker>GARBAGEMAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course there was --</utterance>
+   <speaker>GARBAGEMAN #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think, I don't want to pick up garbage? You think I go up and down the street picking up garbage, I'm not going to pick up yours? What's the matter with you?</utterance>
+   <speaker>GARBAGEMAN #2</speaker>
+      <mode></mode>
+      <context>Kathleen is standing there, tongue-tied.</context>
+      <utterance>Yeah.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="2">
+   <speaker>GARBAGEMAN #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And now you're busting my chops. You're just another garbage pick-up to us, okay?</utterance>
+   <speaker>GARBAGEMAN #2</speaker>
+      <mode></mode>
+      <context>As Kathleen continues to stand there, speechless.</context>
+      <utterance>Yeah.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="3">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That guy went ballistic on me.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hope you told him off.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Another customer enters the store. The bell jingles.</context>
+      <utterance>Not exactly.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="13">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The electrical contractor called. His truck hit a deer last night, he won't be in 'til tomorrow. The shelves are late because the shipment of pine had beetles. And there's some question about whether we're installing the stairs in the right spot --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That sounds great.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Testing one two three four.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is the electrician here?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just told you -- he hit a deer.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Something like that.</context>
+      <utterance>I hear nothing. Not a sound on the city streets, just the beat of my own heart. I think that's the way it goes.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you and Patricia get engaged?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Engaged? Are you crazy?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you liked Patricia --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love Patricia. Patricia's amazing. Patricia makes coffee nervous.  Are we still on schedule?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We open two weeks before Thanksgiving.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess we should announce ourselves soon. Tell people we're coming.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the Upper West Side of Manhattan. The minute they hear they'll be lining up</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="7">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- to picket --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- the big bad --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>--chain store --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- that destroys --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- everything we hold dear. But we'll seduce them with our square footage and our deep armchairs and our amazingly swift checkout lines and our discounts and our...</utterance>
+   <speaker>JOE &amp; KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- cappuccino.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They hate us in the beginning, but we get them in the end. Meanwhile we should just put up a sign -- Coming soon, a Foxbooks Superstore and The End of Western Civilization As We Know It.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="38">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin and I are both a little concerned about the neighborhood response --  What is this fabric? Does it have a name?</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Money. Its name is money.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gillian selected it.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course.</utterance>
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your father is getting married again.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, great, congratulations, Dad. Why?</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who knows? Why does anyone get married?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Love.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, that is one reason.</utterance>
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think you're a damn fool.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad, Matthew is four. It would be nice for him if his parents were married.</utterance>
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context>(he laughs merrily)</context>
+      <utterance>Annabel is eight and I'm not married to her mother. I can't even remember her mother's name.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>City Books on 23rd Street is going under</context>
+      <utterance>I have a very sad announcement to make.</utterance>
+   <speaker>...</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nelson, Shuyler, and Joe high-five each other.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Another independent bookstore bites the dust --</utterance>
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On to the next.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I'm buying their entire stock -- architecture, New York history -- for the new store.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much are your paying?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatever it costs, it won't be as much as this exquisite mohair episode.  We're also going to have a section on West Side Writers --</utterance>
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- as a sop to the neighborhood.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perfect. It'll keep those West Side liberal nut pseudo-intellectual bleeding hearts --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Readers. They're called readers.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't romanticize them. It'll keep them from jumping down your throat --</utterance>
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the competition?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One mystery store. Sleuth, on 86th and Amsterdam. And a children's bookstore. The Shop Around the Corner. Been there forever.</utterance>
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cecilia's store.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's that?</utterance>
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cecilia Kelly, lovely woman. I think we might have had a date once. Or maybe we just exchange letters.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wrote her letters?</utterance>
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mail. It was called mail.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stamps. Envelopes.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait. I've heard of it. It was a means of communication before I was born.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Exactly.</utterance>
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context>enchanting. Her daughter owns it now.</context>
+      <utterance>Cecilia had beautiful penmanship. She was too young for me, but she was...</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context>As a DECORATOR walks into the office carrying a pile of upholstered pillows, and Joe turns to look at them.</context>
+      <utterance>Too bad for her.</utterance>
+   <speaker>COMPUTER VOICE</speaker>
+      <mode>OVER</mode>
+      <context></context>
+      <utterance>Welcome. You've got mail.</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>My father is getting married again. For five years he's been living with a woman who studied decorating at Caesar's Palace.</utterance>
+   <speaker>COMPUTER VOICE</speaker>
+      <mode>OVER</mode>
+      <context></context>
+      <utterance>You've got mail.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="2">
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Once I read a story about a butterfly in the subway, and today I saw one. I couldn't believe it. It got on at 42nd</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>-- and got off at 59th, where I assume it was going to Bloomindale's to buy a hat that will turn out to be a mistake. As almost all hats are.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="2">
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context>As Joe comes around the corner and sees the dust filling the air. It is amazing.</context>
+      <utterance>Did you know that every night a truck pulls up to H&amp;H Bagels and pumps about a ton of flour into the ground? The air is absolutely amazing.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I guess I've read Pride &amp; Prejudice about 100 times --</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="9">
+   <speaker>TV REPORTER</speaker>
+      <mode></mode>
+      <context>As George comes out of his building into a horde of REPORTERS with microphones, cameras, etc. and listens to the reporter, who, seeing George, sticks the microphone into his face.</context>
+      <utterance>The body of a woman was found this morning on the roof of a New York building...</utterance>
+   <speaker>TV REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here is a resident of the building. Your name, please?</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>George Pappas.</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you see or hear anything unusual last night?</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context>At that moment, George sees a young woman. This is MEREDITH CARTER. He is struck dumb.</context>
+      <utterance>No. I didn't go out.</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The victim was red-haired, about thirty- five, wearing a jogging suit. Did you encounter anyone by that description in the building? Sir? George hasn't heard a word.</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context>George doesn't answer.</context>
+      <utterance>Have there been any wild parties lately?</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context>George continues to stare at the beautiful woman. As he does, she notices him. She stares back. The reporter, ignored, finally turns away.</context>
+      <utterance>Could it perhaps be one of your neighbors?</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context>Meredith Carter starts to walk away.</context>
+      <utterance>As you can see, no one here knows anything. He continues to stand there, dumbstruck for a moment.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="5">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, that's the coup de vieux.</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I had that.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="15">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And if you ever do meet her, you'll find out all the horrible details, and that will be that. She'll turn out to have pictures of the Virgin Mary all over the walls.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context>Kathleen sticks her head into the back.</context>
+      <utterance>I won't care.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can someone help me out here?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>George had a coup de foudre.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And Christina's making fun of me.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't let her. I believe in this, I completely believe in this. It happened to Madame Bovary, at least six times.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And she was wrong every time.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes!  Who was she?</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. She was standing outside my building with the police and the reporters.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What police and reporters?</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Someone died.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context>They found her on the roof.</context>
+      <utterance>I have no idea about that either.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A dead body. That's so sad. But you fell in love. That's so great.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. One other thing.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="6">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Quel nightmare.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It has nothing to do with us. It's big, impersonal, overstocked and full of ignorant salespeople.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But they discount.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>George and Christina nod.</context>
+      <utterance>But they don't provide any service. We do.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>If you don't have it, we do.</context>
+      <utterance>So really it's a good development. You know how in the flower district, there are all these flower shops in a row so you can find whatever you want. Well, this is going to be the book district.</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And vice versa.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="30">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When you are finished with Foxbooks, the Shop Around the Corner is going to be responsible for reversing the entire course of the Industrial Revolution.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>That is so sweet.</context>
+      <utterance>That is so sweet, Frank. Thank you.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey -- He holds his arms out. They hug.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Although...</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is that doing there?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen to it. Just listen-- He strikes a key. Practically swoons.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Olympia Report deluxe Electric Report. As in gunshot.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That sound is familiar.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Kathleen listens too.</context>
+      <utterance>Now listen to this. He puts his ear to the typewriter.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That whirring?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The gentle and soothing lullaby of a piece of machinery so perfect --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She whips a cover off the other typewriter on the table. It's the same machine exactly.</context>
+      <utterance>I know where I've heard it before. I know.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I needed a backup.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you have another one at your apartment?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I might, I might. So what?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're turning my apartment into a typewriter museum.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll stop. I'll try. I probably can't. I see one and my knees go weak. Anyway, what were you starting to say?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Before.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. I was just wondering about my work and all. I mean, what is it I do exactly? All I really do is run a bookstore --</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All you really do is this incredibly noble thing -- Kathleen nods.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I don't know if I --</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kathleen --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I just --</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>He sticks a piece of paper in the typewriter, starts typing.</context>
+      <utterance>You are a lone reed. Kathleen looks puzzled.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>He whips the piece of paper out of the typewriter and hands it to her.</context>
+      <utterance>You are a lone reed waving in the breeze standing strong and tall in the corrupt sands of commerce.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Clutching her piece of paper, she wanders into the bathroom.</context>
+      <utterance>I am a lone reed.  I am a lone reed.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="28">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I went to the Foxbooks Website and you can buy anything. They ship it to you in a day. Maybe we should get a website.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>As they walk toward the back of the cafe, Kathleen notices a stack of loose-leaf binders on the table.</context>
+      <utterance>My mother would never have wanted us to have a website. "Every book you sell is a gift from your heart." She always said that.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if they put us out of business?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's out of the question. We're a fixture in the neighborhood. We're practically a landmark.  Men For Women, Women for Men, Women for Women -- what is this?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You fill out one of these forms and they file it in the book and if someone wants to meet you, they arrange it.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What a stupid way to meet someone.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Compared to the Internet?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My little thing on the Internet is just a lark.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So it's still going on?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Christina flips the book open to her application.</context>
+      <utterance>And I do not plan to meet him.  Why do I get the feeling that you are in here somewhere?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came in here one night and drank too much coffee and filled one out.  Well how am I supposed to meet someone?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are a runner. Some day you will make eye contact with another runner and --</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No one ever even looks at me. They don't. On top of which, who are they? They could like the symphony. I could never fall in love with someone who likes to go to the symphony --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know. What are you supposed to do there?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sit. You're supposed to sit.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I could never fall in love with anyone who smokes cigars either.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll tell you what I hate. Big fat legs like stumps.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. I hate that too.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The worst, the worst -- I could never, under any circumstances, love anybody who had a sailboat.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Neither could I.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I had to get up on Saturday morning knowing that I was about to go down to the pier and unravel all those ropes and put on all that sunblock --</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All that talk about the wind.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And then you have to go out on the boat, and you sail and sail and sail until you are bored witless, and then, only then, do they say, let's turn around and you realize the trip is only half over, only it's not, because the wind has changed --</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It hasn't changed. It's died.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So then there's more talk about the wind. While you just float up and down trying not to get nauseous. And when you finally get back, you have to clean up the boat.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't people have boat maids?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know. There're all these people who wouldn't be caught dead polishing a doorknob in their house but put them on a boat and they want to rub down everything in sight.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="17">
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context>Joe jumps off the boat onto the dock to greet his grandfather's daughter ANNABEL, 8, who is coming toward the dock with GILLIAN, his father's overdecorated 32-year-old fiance, her son, MATTHEW, 4, and the Nanny, MAUREEN.</context>
+      <utterance>Joe --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.  Annabel, how are you today?</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, big guy --</utterance>
+   <speaker>GILLIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't I get a hello?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, Gillian.</utterance>
+   <speaker>GILLIAN</speaker>
+      <mode></mode>
+      <context>Joe gives her a peck on the cheek.</context>
+      <utterance>Kiss me. I'm going to be your wicked stepmother.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is this?</utterance>
+   <speaker>GILLIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nanny Maureen. I brought her in case you couldn't handle the kids.</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maureen's getting a divorce.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry to hear that.</utterance>
+   <speaker>MAUREEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's my own fault. Never marry a man who lies.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That is so wise. Remember that, Annabel.</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She taught Matt to spell his name.</utterance>
+   <speaker>MATT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fox. F-O-X.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excellent, Matt.  Good work. You can have the day off. I'll take over from here.  You must be late for something. Volunteer work at the Henry Street Settlement. Packing bandages for Bosnian refugees. A course in Chinese literature at Columbia.</utterance>
+   <speaker>GILLIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am. I'm having my eggs harvested.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="30">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>George is showing Joe a first edition of Swiss Family Robinson from the glass case.</context>
+      <utterance>This is her best friend Tacy, whose real name is Anastasia, and then in the next book Betsy and Tacy become friends with Tib, whose real name, I am sorry to tell you, is Thelma. In another section of the store:</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The illustrations are hand-tipped, which is why --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It costs so much.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's why it's</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That might be an awful lot for your dad to buy at one time.</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My dad gets me all the books I want.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, that's very nice of him.</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not my dad. That's my nephew --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I don't really think that's your nephew -- As Joe approaches.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Annabel nods solemnly.</context>
+      <utterance>It's true. Annabel is my aunt. Aren't you, Aunt Annabel?</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And Matt is --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me guess.  Are you his uncle?</utterance>
+   <speaker>MATT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His grandfather? Annabel and Matt start giggling. KATHLEEN  His great-grandfather?</utterance>
+   <speaker>MATT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm his brother.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>He smiles at Kathleen, who finds herself smiling back. Annabel suddenly sneezes. Kathleen takes a handkerchief from her sleeve. It's an old fashioned hankie that's embroidered. She offers it to Annabel, who instead wipes her nose with her hand and then looks at the handkerchief, a little puzzled.</context>
+      <utterance>Annabel is my grandfather's daughter. And Matt is my father's son. We are an American family.</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is that?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A handkerchief. Oh my, do children not even know what handkerchiefs are? A handkerchief is a Kleenex you don't throw away. My mother embroidered it for me -- you see? My initials and a daisy, because daisies are my favorite flower.</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Orchids are my favorite flower.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Joe is looking at Kathleen.</context>
+      <utterance>You know what else children don't know? They don't know what a telephone booth is?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Are you are?</context>
+      <utterance>Kathleen Kelly. I own this store.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>He gets the one Matt is reading. And the two other Kathleen has gotten for Annabel.</context>
+      <utterance>Joe. Just call me Joe.  We'll take these books.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These are wonderful books. As Annabel gets older the characters in the books do, too.  You can grow up with Betsy.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going to come back again, aren't you?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is why we're never going to go under. Our customers are loyal.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're opening a Foxbooks around the corner.</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Foxbooks! My Daddy --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- likes to buy at discount. Don't tell anyone that, Annabel, it's nothing to be proud of --</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="15">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Returns to counter and gives Kathleen some cash.</context>
+      <utterance>Matt, look at this dinosaur book. Wouldn't you like a dinosaur book? Annabel, maybe you could read this to Matt while I wrap things up here.  Sit down, read, and don't listen to anything I say.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And the dinosaur book too.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The world is not driven by discounts, believe me. I've been in business forever. I started helping my mother here after school when I was six years old. I used to watch her, and it wasn't that she was selling books, it was that she was helping people become whoever they were going to turn out to be. When you read a book as a child it becomes part of your identity in a way that no other reading in your life does.  I guess I've gotten carried away.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>He can't finish the sentence. He looks at her and sees, behind her on the shelf, a picture of a woman who is unmistakably Kathleen's mother, with a young Kathleen. JOE (cont'd) Enchanting, your mother was enchanting.</context>
+      <utterance>You have, and you've made me feel...</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She was. How did you know that?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lucky guess.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyway. She left the store to me, and I'm going to leave it to my daughter.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How old is your daughter now?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She smiles at Joe...</context>
+      <utterance>Oh, I'm not married. But eventually.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So Foxbooks can...</utterance>
+   <speaker>KATHLEEN AND GEORGE TOGETHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go to hell.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here you go.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Annabel and Matt join him at the counter. Kathleen gives them each a lollipop.</context>
+      <utterance>We ready?</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bye, Kathleen.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodbye, Annabel. Bye, Matt. What about cat? Can you spell cat?</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="3">
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have a dentist appointment in twenty minutes. So you should leave soon...</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's my car number?</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Car? You didn't say anything about a car</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="5">
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context>She whistles -- a longshoreman's whistle. The cab makes a U-turn, but instead of stopping for Patricia it stops about twenty feet ahead for a MAN in an overcoat who gets into it.</context>
+      <utterance>Taxi! Taxi! Taxi!</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me -- what are you doing? This is my taxicab.  Don't take him. I am telling you right now, and I am memorizing your number, don't take him.  Who the fuck do you think you are?</utterance>
+   <speaker>MAN IN OVERCOAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you going uptown?</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>MAN IN OVERCOAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get in. I'll drop you.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="22">
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context>She hangs up, folds up the phone, puts it back in her purse as the cab moves on.</context>
+      <utterance>Veronica, it's Patricia, you should have been there, it was unbelievable, we're going to sell truckloads of your book. Call me.</utterance>
+   <speaker>MAN IN OVERCOAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you an editor?</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>MAN IN OVERCOAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am a rabbi.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, my God, I said fuck to a rabbi. I'm sorry.</utterance>
+   <speaker>MAN IN OVERCOAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hope you don't mind my asking, but are you Jewish?</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>MAN IN OVERCOAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You should come to our temple.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not really religious.</utterance>
+   <speaker>MAN IN OVERCOAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I am surprised, you seem like a very religious person.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're kidding, right?</utterance>
+   <speaker>MAN IN OVERCOAT</speaker>
+      <mode></mode>
+      <context>He smiles at her.</context>
+      <utterance>We are at West End Avenue and 83rd Street. Every Friday night, we have a joyous time, everyone dancing, everyone singing. Also some wisdom. Perhaps you have heard of us, we are known as The Singles Temple.</utterance>
+   <speaker>MAN IN OVERCOAT</speaker>
+      <mode></mode>
+      <context>The cab stops.</context>
+      <utterance>It's a very good place to calm down.</utterance>
+   <speaker>MAN IN OVERCOAT</speaker>
+      <mode></mode>
+      <context>He gets out. Closes the door. A beat too late:</context>
+      <utterance>Oh, look, I am already here. Very nice to meet you.  Take this woman to her destination.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodbye.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I saw him. I actually saw him.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't believe it. I saw William Spungeon.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought he was in Mexico.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe he's in Mexico, but today he was in New York. The most brilliant and reclusive novelist in the history of the world is here, in this neighborhood. He may be living on this very block.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where did you see him?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was on the subway --</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="4">
+   <speaker>FRANK</speaker>
+      <mode>V.O.</mode>
+      <context>Frank is sitting on the subway, reading the Village Voice. The door between the cars opens and a man playing the clarinet enters the car. No one looks up except Frank.</context>
+      <utterance>-- and this musician got onto the train --</utterance>
+   <speaker>FRANK</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>-- and I suddenly saw him, sitting directly across from me doing the crossword puzzle.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>How'd you know it was him?</utterance>
+   <speaker>FRANK</speaker>
+      <mode>V.O.</mode>
+      <context>Frank takes out his billfold on the subway, pulls out a piece of paper.</context>
+      <utterance>He looked exactly the same as his high school yearbook picture, which happens to be the last photograph ever taken of him.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="5">
+   <speaker>FRANK</speaker>
+      <mode>V.O.</mode>
+      <context>Frank plucks the puzzle from the trashcan, follows Spungeon.</context>
+      <utterance>He dropped his crossword into the garbage and I rescued it.</utterance>
+   <speaker>FRANK</speaker>
+      <mode>V.O.</mode>
+      <context>We see Frank, peeking out at him from behind a stack of running pants. Suddenly he's distracted by a couple of joggers.</context>
+      <utterance>Then he went into a sporting good store and bought tube socks, 6 pair for $7.99.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>William Spungeon and tube socks.</utterance>
+   <speaker>FRANK</speaker>
+      <mode>V.O.</mode>
+      <context>Frank looks back at the counter. Spungeon's gone.</context>
+      <utterance>I know. I don't want to dwell on it.</utterance>
+   <speaker>FRANK</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>And then I lost him.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="11">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>He takes an empty instant-frame from the closet, puts the puzzle into it and sets it next to the typewriters.</context>
+      <utterance>Do you know what this is worth?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What I was thinking as I was trailing him was that eventually I would have the courage to say hello to him, you know, not in a horrible, intrusive or slavering fan-slash-acolyte kind of way, but more like, "Hi." "How ya doing?" "Have you ever thought about trading up in the sock area?" "Who knows, maybe he's read my work -- and then we'd become friends, and eventually I'd introduce him to you -- you know how much he loves children's books, there's a whole long section in Relativity's Smile about The Wizard of Oz -- and then maybe he'd come out of hiding so he could help save the store.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>From Foxbooks. I mean, if things got tough, he could help rally support --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's never going to get to that. The store is fine.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't even know why you would say that?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Neither do I. It just flew out of my mouth.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's enough business for us all.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean, we're fine.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're more than fine, you're absolutely fine.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>The elevator opens onto:</context>
+      <utterance>We're fine.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="14">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Vince. Congratulations. You know Kathleen Kelly.</utterance>
+   <speaker>VINCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How are you?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>William Spungeon.</context>
+      <utterance>Guess who I saw today on the subway?</utterance>
+   <speaker>VINCE</speaker>
+      <mode></mode>
+      <context>Across the room, Joe is with Patricia, who is telling two other people the story of meeting the rabbi in the taxicab. Joe looks over and sees Kathleen. He suddenly looks stricken. Shifts his position so Kathleen can't see his face, but sneaks a look.</context>
+      <utterance>I thought he was in Mexico. They start chatting.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you get me another drink, sweetie? I'm all out.  So then the rabbi says, "It's a very good place to calm down." Isn't that hysterical? They all laugh. Joe moves over to the bar.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>As he is waiting, Kathleen comes up next to him.</context>
+      <utterance>Absolut on the rocks.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A white wine, please.  Oh, hello.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Remember me, from the bookstore?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course I remember you.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's your aunt?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Kathleen laughs.</context>
+      <utterance>Good. She's good.  I have to deliver this. I have a very thirsty date. She's part camel.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joe. It's Joe, isn't it?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe vanishes into the party.</context>
+      <utterance>And you're Kathleen.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="2">
+   <speaker>VINCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't believe you were talking to Joe Fox.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joe Fox? As in -- She can't even finish the sentence.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="14">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God, I didn't realize. I didn't know who you --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- were with.  "I didn't know who you were with."</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's from the Godfather. When the movie producer realizes that Tom Hagen is the emissary of Vito Corleone --  Kathleen is staring at him. JOE  -- just before the horse's head ends up in his bed never mind --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were spying on me, weren't you? You probably rented those children.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why would I spy on you?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am your competition. Which you know perfectly well or you would not have put up that sign saying "Just around the Corner."</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The entrance to our store is around the corner. There is no other way to say it. It's not the name of our store, it's where it is. You don't own "around the corner."</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Next thing you'll be using twinkle lights.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twinkle lights?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Little white Christmas lights that twinkle. I use them in my window and on all my displays, as if you didn't notice.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, the reason I came into your store is that I was spending the day with Annabel and Matt. I like to buy them a present when I see them because I'm one of those guys who likes to buy his way into the hearts of children who are his relatives. There was only one place to buy children's books in the neighborhood -- although that will not always be the case, and it was yours, and it is a charming little bookstore. You probably sell $250,000 worth of book a year --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you know that?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm in the book business.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="16">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi. I'm Frank Navasky --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Joe Fox.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Patricia joins them.</context>
+      <utterance>Joe Fox? Inventor of the Superstore, enemy of the mid-list novel, destroyer of City Books -- tell me something: How do you sleep at night?</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I use a wonderful over-the-counter drug, Ultrasom. Don't take the whole thing, just half, and you will wake up without even that tiniest hangover. You're Frank Navasky, aren't you?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your last piece in the Independent, the one about Anthony Powell, was brilliant. I'm Patricia Eden, Eden Books. Joe, this man is the greatest living expert on Julius and Ethel Rosenberg --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And this is Kathleen Kelly -- Kathleen glares at him.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You liked my piece. God, I'm flattered. You know you write these things and you think someone's going to mention them and then the whole week goes by and the phone doesn't ring, and you think Oh, God, I'm a fraud, a failure --</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context>Everyone is stopped dead by this observation and looks at Patricia, who smiles at them all.</context>
+      <utterance>You know what's always fascinated me about Julius and Ethel Rosenberg is how old they looked when they were really just our age.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm so happy to have finally met you. We will talk. Have you ever thought about doing a book?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>At the same time:</context>
+      <utterance>Oh sure, it's passed through my head. Something really relevant for today like the Luddite movement in 19th century England.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Patricia --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frank --</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Kathleen doesn't respond. Frank turns out the light.</context>
+      <utterance>I really like Patricia Eden. She's a very nice person.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>A beat.</context>
+      <utterance>She needs educating, that's all.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>On Kathleen, as she turns away from Frank and lies there, eyes open.</context>
+      <utterance>She's hopelessly driven by money and power, but there's a hope for anyone who's that familiar with my work --</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="3">
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context>Joe doesn't respond. Patricia turns out the light.</context>
+      <utterance>I had no idea that Frank Navasky was so down-to-earth.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You read his stuff, you think he's going to be so obscure and abstruse. A beat. PATRICIA  He's always talking about Heidigger and Foucault and I have no idea what any of it's about, really. Joe gets up. Brinkley follows. PATRICIA  Where are you going?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not really tired.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="2">
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I know what you mean and I'm completely jealous. What happens to me when I'm provoked is that I get tongue-tied. My mind goes blank. Then I spend all night tossing and turning trying to think of what I should have said.</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Wouldn't it be wonderful if I could pass all my zingers to you and then I would never behave badly and you could behave badly all the time and we'd both be happy? On the other hand, I must warn you that when you finally have the pleasure of saying the thing you mean to say at the moment you mean to say it, remorse inevitably follows. Do you think we should meet?</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="6">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No pickets, no demonstrations.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The neighborhood loves us.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're wondering where we've been all these years. They're wondering how they ever did without it.</utterance>
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context>They admire their own store, walk through the downstairs and start up the staircase to the second floor.</context>
+      <utterance>It's a hit.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's the children's book department?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's early yet. School isn't out. And there's that children's bookstore nearby</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="4">
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cecilia's store --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Her daughter's --</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll crush it --</utterance>
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context>And as they walk on upstairs, several mothers with children come up the stairs behind them.</context>
+      <utterance>She was enchanting.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="30">
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About $1200 less than the same week last year.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>They look at each other.</context>
+      <utterance>That could be a fluke, right?</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or not.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Their store is new. It's a novelty. But it will all shake out. Do you think I should put up more twinkle lights?</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a lovely idea.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if we have to fold? I'll never find another part time job and I won't be able to pay the rent and I'll have to move to Brooklyn.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The joy of rent control. Six room for $450 a month.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We know. You've told us a million times. I can't believe you're bringing it up at a time like this. It's like bragging because you're tall. Birdie never brags about her rent and she pays even less than you.</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ten rooms. I just rattle around from one to the other.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>The door opens, and Meredith Carter, the woman George had swooned over in front of his building, walks in. George stares, frozen in place, as she walks up to him.</context>
+      <utterance>Hey, guys. We are not going to fold.</utterance>
+   <speaker>MEREDITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>George Pappas?</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>MEREDITH</speaker>
+      <mode></mode>
+      <context>Kathleen suddenly sees George, following Meredith out of the store. He's in a complete daze.</context>
+      <utterance>Detective Carter, 23rd precinct. I'd like to ask you a few questions.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>LAURA MARGULIES, a well-known children's book author, enters as George leaves.</context>
+      <utterance>George? Where are you going? He goes out the door.</utterance>
+   <speaker>LAURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kathleen, are you surviving?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Laura! We're so excited about your new book. When should we schedule your signing?</utterance>
+   <speaker>LAURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, it's being published in January. Are you going to be in business in January? I'm so worried.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're doing great, aren't we?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great.</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No difference whatsoever.</utterance>
+   <speaker>LAURA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank God. Well, you know you can count on me. For anything, support, rallies. Picket lines. We can get the Times to write something. Or that nut in the Independent --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What nut in the Independent?</utterance>
+   <speaker>LAURA</speaker>
+      <mode></mode>
+      <context>She smiles brightly.</context>
+      <utterance>Frank Navasky. This is just the sort of thing that would outrage him.</utterance>
+   <speaker>MEREDITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Pappas, I'm investigating the murder of the woman found on the roof of your building. Do you live alone there?</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do I live alone? Yes I do. Do you live alone?</utterance>
+   <speaker>MEREDITH</speaker>
+      <mode></mode>
+      <context>George takes her hand in his and looks at it as if it were the eighth wonder of the world. He starts stroking it, caressing it... Meredith pulls it away. A beat. Then she gives it right back to him. He continues stroking. They stare at each other. He puts her fingers into his mouth.</context>
+      <utterance>Yes.</utterance>
+   <speaker>MEREDITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing?</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. I have no idea.</utterance>
+   <speaker>MEREDITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have to stop.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context>She utters a little moan.</context>
+      <utterance>I can't.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="19">
+   <speaker>CASHIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is a Cash Only line.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>CASHIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cash Only.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Omigod, I only have a credit card. Is that okay?</utterance>
+   <speaker>PERSON BEHIND HER IN LINE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course it's not okay, there's a sign.</utterance>
+   <speaker>CASHIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a sign.</utterance>
+   <speaker>PERSON IN LINE</speaker>
+      <mode></mode>
+      <context>"She doesn't have cash" is repeated all the way down the line. Joe turns to see what's going on.</context>
+      <utterance>She doesn't have cash.</utterance>
+   <speaker>ANOTHER PERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get on another line, lady.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, hello.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you need some money?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I don't need any money. Thank you very much.</utterance>
+   <speaker>CASHIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get on another line.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi.  Rose. Great name. Rose, this is Kathleen, I'm Joe, and this is a credit card machine. Happy Thanksgiving. Rose just stares at him. JOE  Now it's your turn to say happy Thanksgiving back.</utterance>
+   <speaker>ROSE</speaker>
+      <mode></mode>
+      <context>Joe looks at her, winks.</context>
+      <utterance>Happy Thanksgiving back.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>The cashier, completely charmed, takes Kathleen's credit card. Kathleen is appalled. Everyone on the line signs irritably and audibly.</context>
+      <utterance>Mississippi is a hard word to spell. How do you spell it? I-T.  Now take this credit card and put it through the machine, zip zip.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you're fine.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>As Kathleen signs the charge slip and the cashier exasperatedly starts to put her groceries into a bag.</context>
+      <utterance>Happy Thanksgiving.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="5">
+   <speaker>YOUNG KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, watch out --</utterance>
+   <speaker>SIX-YEAR-OLD BOY</speaker>
+      <mode></mode>
+      <context>Young Kathleen's jaw drops and she stands there tongue-tied.</context>
+      <utterance>Me watch out, why don't you watch out? I'm not sliding around like a baby. You think I come here to skate with babies?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context>Her mother skates up and takes her hand. The boy skates off.</context>
+      <utterance>My first experience as a speechless person.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I always miss my mother at Christmas, but somehow it's worse this year since I need some advice from her. And we hear the sound of another computer.</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>My mother took me ice skating too --</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="8">
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I don't think you can help.</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Is it about love?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>My business is in trouble. My mother would have something wise to say.</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I'm a brilliant businessman. It's what I do best. What's your business?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>No specifics, remember?</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context>Except to say, go to the mattresses.</context>
+      <utterance>Minus specifics, it's hard to help.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>It's from The Godfather. It means you have to go to war.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="3">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She starts to type.</context>
+      <utterance>The Godfather?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>What is it with men and The Godfather?</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>The Godfather is the I Ching. The Godfather is the sum of all wisdom. The Godfather is the answer to any question. What should I pack for my summer vacation? "Leave the gun, take the cannoli." What day of the week is it? "Maunday, Tuesday, Thursday, Wednesday." And the answer to your question is "Go to the mattresses."</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="7">
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context>Joe types "Ciao" and signs off. Looks up to see Patricia showing him a Plexiglas menorah.</context>
+      <utterance>Look what I bought.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was just passing this store on Columbus Avenue and it caught my eye.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A Menorah.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It doesn't look like a Menorah.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context>I don't even celebrate Hanukkah.</context>
+      <utterance>I know. I don't know what came over me.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frank, I've decided to go to the mattresses. Do you think it would be a gigantic conflict of interest if you wrote something about us?</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="5">
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Kathleen Kelly and her mother Cecilia Kelly have raised your children. If this precious resource is killed by the cold cash cow of Foxbooks, it will not only be the end of Western civilization as we know it, but the end of something even dearer: our neighborhood as we know it. Save the Shop Around the Corner and you will save your own soul." Frank, that's charming.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think it's a little over the top?</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just say thank you.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Channel 2's outside.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="6">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In a second.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Village Voice is coming.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Frank sticks his head in.</context>
+      <utterance>Omigod.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's him.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God. It is God.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="16">
+   <speaker>WILLIAM SPUNGEON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm William Spungeon.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Frank is practically levitating.</context>
+      <utterance>I'm very pleased to meet you. I'm Kathleen Kelly.</utterance>
+   <speaker>SPUNGEON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew your mother. Although she knew me only as W. That enormous bookstore is obscene.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>He pulls it out. Spungeon looks at him like he's crazy.</context>
+      <utterance>I'm Frank Navasky. I carry your picture in my wallet.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've organized pickets. Channel 13 is doing a special.</utterance>
+   <speaker>SPUNGEON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd be glad to talk to the press if it's all right with you. They've been trying to interview me for years.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The press? I'm the press.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd allow that? For me? For the store? That's incredible. Although you wouldn't have to be photographed. I respect that. If it's television, they could just put one of those blurry dots in front of your face.</utterance>
+   <speaker>SPUNGEON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No television.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're waiting for you --</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know all your books. Phaelox the gnome, the little man who comes from nowhere... and is going nowhere...  "Where did you come from?" "Nowhere." "Where are you going?" "Nowhere."</utterance>
+   <speaker>SPUNGEON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cool it. I'm starting to break out in hives.  Here's my phone number.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I had no idea William Spugeon had a phone.</utterance>
+   <speaker>SPUNGEON</speaker>
+      <mode></mode>
+      <context>He gives a little wave and leaves.</context>
+      <utterance>Adios.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>At that moment a TV REPORTER sticks her head into the store.</context>
+      <utterance>This is historic.  Do you realize what I've done? By writing that piece, do you realize? I've brought William Spungeon in from the cold. Holy shit. I am completely amazing.</utterance>
+   <speaker>TV REPORTER</speaker>
+      <mode></mode>
+      <context>Kathleen takes a deep breath, walks out the door.</context>
+      <utterance>Kathleen Kelly?</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="4">
+   <speaker>CHANNEL 2 TV REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you ready, Miss Kelly?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Luca Brasi sleeps with the fishes.</utterance>
+   <speaker>CHANNEL 2 TV REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never mind. I'm ready. Shoot.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="2">
+   <speaker>CHANNEL 2 TV REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're here in front of the Shop Around the Corner, the famous West Side children's bookstore now on the verge of having to close its doors because the big bad wolf, Foxbooks, has opened only a few hundred feet away, wooing customers with its sharp discounts and designer coffee.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>And pull back now to reveal that we're in:</context>
+      <utterance>They have to have discounts and lattes, because most of the people who work there have never read a book.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="9">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's not as nice as she seems on television.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've met her?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's kind of a pill.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's probably not as attractive as she seems on television either.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, she's beautiful. But a pill.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you don't feel bad about basically destroying her livelihood not to mention her legacy not to mention her raison d'etre.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not personal --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's business.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>They look up at the television.</context>
+      <utterance>Right. Exactly.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="8">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>The show immediately cuts back to the newscaster. On Joe and Kevin.</context>
+      <utterance>I sell cheap books. Sue me. I sell cheap books, and as a result -- listen to this, because it's really bad -- more people can buy books.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what you said?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not all I said. I said -- I can't believe those bastards -- I said we were great, I said people can come and sit and read for hours and no one bothers them, I said we stock 150,000 titles, I showed them the New York City section. I said we were a goddamn piazza where people could mingle and mix and be.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A piazza?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was eloquent. Shit. It's just inevitable, isn't it? People are going to want to turn her into Joan of Arc --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- and you into Attila the Hun.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well it's not me personally, it's more like it's the company --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>On Joe, reacting.</context>
+      <utterance>And I have to say, I have met Joe Fox, who owns Foxbooks, and I have heard him compared his store to a Price Club and the books in it to cans of olive oil.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="3">
+   <speaker>SCHUYLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is this Spungeon anyway?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a writer.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I've never heard of him. And neither has anyone else in this place.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="18">
+   <speaker>SIDNEY-ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The New York Literary world was shocked this week when William Spungeon, the most famously reclusive author since J.D. Salinger, announced that he was coming out of hiding because of his loyalty to a small children's bookstore on the West Side of Manhattan. Discussing this tonight is a man I happen to think of as one of this city's most underappreciated assets, Frank Navasky.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>SIDNEY-ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This all happened because of you, didn't it --</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I knew William Spungeon loved children's books so I wrote a provocative column --</utterance>
+   <speaker>SIDNEY-ANN</speaker>
+      <mode></mode>
+      <context>Frank laughs. Sidney-Ann laughs.</context>
+      <utterance>Your specialty.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And it kind of smoked him out.</utterance>
+   <speaker>FRANK ON TELEVISION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Technologically speaking, the world's out of hand. Take the VCR. The whole idea of a VCR is that it makes it possible for you to tape what's on television while you're out of the house. But the whole point of being out of the house is so you can</utterance>
+   <speaker>FRANK ON TELEVISION</speaker>
+      <mode></mode>
+      <context>Another little moment between them.</context>
+      <utterance>Thank you.</utterance>
+   <speaker>SIDNEY-ANN ON TELEVISION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The bookstore. Tell us about it.</utterance>
+   <speaker>FRANK ON TELEVISION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you planning to collect radios?</utterance>
+   <speaker>SIDNEY-ANN ON TELEVISION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you think I should?</utterance>
+   <speaker>FRANK ON TELEVISION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Shop Around the Corner is a true New York treasure.</utterance>
+   <speaker>SIDNEY-ANN ON TELEVISION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As are you. I'd love to have you back.</utterance>
+   <speaker>FRANK ON TELEVISION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any time. Are we done?</utterance>
+   <speaker>SIDNEY-ANN ON TELEVISION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not at all.</utterance>
+   <speaker>FRANK ON TELEVISION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I just want to say that the only show I do watch is yours.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Omigod.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>The show continues.</context>
+      <utterance>Hey, I was just being polite. Okay, I admit, I slobbered all over her.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="7">
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I can't decide whether to put sausages into the meat sauce or just chopped meat. Last time I made it, Detective Carter and I never even sat down to dinner because --  and last night, I made margaritas in the blender, and I took the ice cube and --</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context>Birdie looks at Kathleen.</context>
+      <utterance>Spare us. George goes out the door.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't tell me. Not the slightest difference? Birdie can't bring herself to answer. KATHLEEN  How could that be? All this publicity and not one bit of difference? Oh Birdie, what am I going to do? What would Mom have done?</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context>She opens the locket hanging around her neck. There's a picture of Kathleen's mother inside it. Birdie holds the locket up to her face.</context>
+      <utterance>Let's ask her.</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context>Birdie holds the locket to her ear and listens. A pause.</context>
+      <utterance>Cecilia, what should we do?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Birdie?</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shhhh.  She has no idea, but she thinks the window display is lovely. Good night dearie. Birdie smiles and picks up her shopping bag, goes out the door.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="13">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my goodness, hello. What are you doing here.</utterance>
+   <speaker>SPUNGEON</speaker>
+      <mode></mode>
+      <context>He laughs. So does she. Dramatically, he whips out an umbrella and opens it over the two of them. SPUNGEON (cont'd) You look very beautiful.</context>
+      <utterance>Loitering. Lurking. Skulking. Stalking.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>He touches her cheek suddenly. Kathleen starts. Then he blows on his hand.</context>
+      <utterance>Thank you. But I'm a wreck.</utterance>
+   <speaker>SPUNGEON</speaker>
+      <mode></mode>
+      <context>Kathleen relaxes. They start walking.</context>
+      <utterance>An eyelash. It's gone.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you writing another book?</utterance>
+   <speaker>SPUNGEON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm in the home stretch. I'll be done in approximately six more years.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Should I discount?</utterance>
+   <speaker>SPUNGEON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's about a man on a quest for knowledge who meets a woman he cannot resist.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Spungeon suddenly puts his hand through Kathleen's hair. She stops, frozen in place.</context>
+      <utterance>If I discount I have to fire someone because I can't discount with this overhead but whom could I fire? I couldn't fire anyone.</utterance>
+   <speaker>SPUNGEON</speaker>
+      <mode></mode>
+      <context>He grabs her and tries to kiss her.</context>
+      <utterance>You have your mother's hair. Thick, wild, the color of Nebraska wheat.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>He backs her into a wall.</context>
+      <utterance>What are you doing? Let me go.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She kicks him in the shins, wiggles free and runs away.</context>
+      <utterance>Stop it. Are you crazy?</utterance>
+   <speaker>SPUNGEON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you change your mind, you can E-mail me. Hermit@AOL.com.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="2">
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I need help. Do you still want to meet me?</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>"Where? When?"</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="12">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're meeting in a public place.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well don't go anywhere with him. Don't even go out to the street with him afterwards. Get a dial cab to just sit there and wait for you.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you tell Frank?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's nothing to tell.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But did you tell him?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's away. At the 32nd anniversary of the Chicago Seven trial.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And he's gone to a place where there are no phones. Do you even know this guy's name? Kathleen shakes her head no.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you're going to meet him in a bar?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not a bar. That place on 83rd with the cheesecake.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context>No answer.</context>
+      <utterance>And he will wear a flower in his lapel, and you will be carrying a copy of Anna Karenina with a rose in it.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh God, no.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not Anna Karenina. Pride and Prejudice.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="7">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose she's carrying a copy of a book with a flower in it. Joe doesn't say anything.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not really.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which Jane Austen is it?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pride and Prejudice.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She could be a real dog.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know. Look, I'll just stay ten minutes. I'll say hello. Drink a cup of coffee and split. I'm outta here. He looks at Kevin. JOE  Walk me there, okay?</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="37">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if she has a really high, squeaky voice? I hate that. It reminds me of those mice in Cinderella.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What mice in Cinderella?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gus-gus and oh shit, I can't remember the other one. Why am I compelled to meet her? I'm just ruining a good thing.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're taking it to the next level. I always do that. I always take a relationship to the next level, and if it works okay I take it to the next level after that, until I can finally get to the level where it becomes absolutely necessary for me to leave.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>As they reach:</context>
+      <utterance>I'm not going to stay long anyway. I already said that, didn't I. Christ. I'm a total wreck.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin, this woman is the most adorable creature I have ever come in contact with. If she turns out to be even as good-looking as a mailbox, I will be crazy not to turn my life upside down and marry her.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She could be a real dog.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You go look.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just go to the window and check her out.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kevin goes to the window and looks inside.</context>
+      <utterance>You're pathetic.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See her?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a beautiful, whoa, a very beautiful girl.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But no book. Let me see, let me see... Wait a minute. There's a book with a flower, so it must be her.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What does he look like?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a waiter blocking, I can't see her face. He's serving her a cup of tea and she's putting in three spoonfuls of sugar --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, why shouldn't she?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Oh, he's moving.</context>
+      <utterance>No reason. Unless she has hypoglycemia.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you see her?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And? --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's very pretty.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She is. I knew she would be. She had to be.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She looks... I would say she has a little of the coloring of that Kathleen Kelly person.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kathleen Kelly of the bookstore.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not? You said you thought she was attractive.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what? Who cares about Kathleen Kelly?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, if you don't like Kathleen Kelly, I can tell you right now you ain't gonna like this girl.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because it</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you going to do?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going to let her just wait there?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Yes I am. That's exactly what I'm going to do. Why not?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But she wrote the letters.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Kevin stares after him. Then he walks away in the other direction.</context>
+      <utterance>Good night, Kevin. I'll see you tomorrow. He walks away, leaving Kevin.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="41">
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>Kathleen jumps up.</context>
+      <utterance>Do you mind?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She takes the chair back. Sits down again. She watches the group as they playfully fight over the menus. She checks her watch again. Then she opens her copy of Pride and Prejudice and looks at it. She can't focus. A man comes into the restaurant and she looks up hopefully at him. But he's going to meet another group of people. As he passes her table, he knocks the book and the flower onto the floor.</context>
+      <utterance>Oh, yes. I'm expecting someone. Please.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She jumps up and rescues the book and flower as if they were precious china. In the window, now, behind her, Joe appears. He watches, as she rearranges the book and the flower. He disappears from sight. A beat... He walks in the door.</context>
+      <utterance>Oh!</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kathleen Kelly. Hello. What a coincidence. Mind if I sit down?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Joe picks up her book, looks at it.</context>
+      <utterance>Yes I do. I'm expecting someone.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Kathleen grabs it back.</context>
+      <utterance>Pride and Prejudice.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She places it back on the table, puts the rose into it.</context>
+      <utterance>Do you mind?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't know you were a Jane Austen fan. Not that it's a surprise. I bet you read it every year. I bet you just love Mr. Darcy, and that your sentimental heart beats wildly at the thought that he and whatever her name is are really, honestly and truly going to end up together.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Joe sits down.</context>
+      <utterance>Would you please leave?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll get up as soon as your friend comes. Is he late?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The heroine of Pride and Prejudice is Elizabeth Bennet and she's one of the greatest, most complex characters ever written, not that you would know.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As a matter of fact I've read it.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, good for you.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think you'd discover a lot of things if you really knew me.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I really knew you, I know what I would find -- instead of a brain, a cash register, instead of a heart, a bottom line. Kathleen is shocked at herself.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just had a breakthrough, and I have to thank you for it. For the first time in my life, when confronted with a horrible, insensitive person I actually knew what I wanted to say and I said it.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think you have a gift for it. It was a splendid mixture of poetry and meanness.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Meanness? Let me tell you --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>He lifts the book off the table. Kathleen grabs for it.</context>
+      <utterance>Don't misunderstand me, I'm just paying you a compliment.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She manages to get the book, leaving Joe with the rose.</context>
+      <utterance>Why are you doing this?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe puts it between his mouth and his nose like a mustache.</context>
+      <utterance>What have we have? A red, no, crimson rose, tucked into the pages. Something you read about in a book, no doubt. One of those books with a lady in a nightgown on the cover about to throw herself off a cliff. She holds her hand out for it. KATHLEEN  Give it to me.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>She grabs the rose. Puts it back in the book. KATHLEEN (cont'd) Please leave. I beg you. He stands up, walks from the table, sits down at the very next table, with his back to her. The door to the restaurant opens. Kathleen looks at it hopefully. A pleasant looking man, who's immediately joined by a pleasant looking woman. For a moment, Kathleen looks just a little droopy, as if the wind has just gone out of her sails. She takes out her compact, looks into her mirror. She slides it over to look behind her, at him, just as he's looking sideways at her. He turns away suddenly. Then she blots her lipstick with her handkerchief.</context>
+      <utterance>It's a joke to you, isn't it? Everything's a joke to you.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what the handkerchief reminds me of? The first day I met you --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The first day you lied to me --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't lie to you --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You did too --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did not --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought all that Fox stuff was so charming. F-O-X.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I never lied about it --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She stops herself -- it's a tangent she never meant to go off on. But Joe has stood up and seated himself back at her table.</context>
+      <utterance>"Joe. Just call me Joe." As if you were one of those stupid 22-year-old girls with no last name. "Hi, I'm Kimberley." "Hi, I'm Janice." What's wrong with them? Don't they know you're supposed to have last names? It's like they're a whole generation of cocktail waitresses.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am not a stupid 22-year-old girl --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not what I meant --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And when I said the thing about the Price Club and cans of olive oil, that wasn't what I meant either --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>The door opens and a large and very attractive TRANSVESTITE in a boa comes in the door.</context>
+      <utterance>Oh, you poor sad multimillionaire. I feel so sorry for you.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am going to take a wild guess that this isn't him, either. Who is he, I wonder. Not, I gather, the world's greatest living expert on Julius and Ethel Rosenberg, but someone else entirely. Will you be you be mean to him too? Will you start out sweet as sugar candy and then suddenly, miraculously, like a bolt from the blue, find that sharp little tongue of yours?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I won't. Because the man who's coming here tonight is completely unlike you. The man who is coming here is kind and funny -- he has the most wonderful sense of humor --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But he's not here.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>A beat. Joe gets up.</context>
+      <utterance>If he's not here, he has a reason, because there is not a cruel or careless bone in his body. I can't expect you to know anything about a person like that. You've nothing but a suit.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe leaves.</context>
+      <utterance>That is my cue. Good night.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="4">
+   <speaker>PATRICIA</speaker>
+      <mode>O.C.</mode>
+      <context></context>
+      <utterance>So I said to her, "If you think I will even talk to you about paying that kind of advance for an author whose last book is being used as trivets all over the world, you are completely crazy." On Joe's face, barely bearing.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But underneath that disagreeable exterior she could turn out to be --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A real bitch. Let's not talk about it. I'm going back to the office. You must have work to do.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not really. This place is humming like a top.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="17">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He never came.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He stood you up?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think something happened, something terrible and unexpected that made it impossible for him -- George walks in.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He wasn't able to make it.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He stood you up.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What could have happened?  George looks suddenly stricken. KATHLEEN  Why didn't he come? Maybe he showed up, took one look at me and left.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not possible.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe there was a subway accident.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Absolutely.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A train was trapped underground with him inside.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>George continues to look stricken. He's starting to shake his head.</context>
+      <utterance>And no phone.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or an automobile accident. Those cab drivers are maniacs.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They hit something and you slam right into that plastic partition.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His elbows could be in splints -- so he can't really dial --</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or he could be in the hospital in one of those semi-private room with like --</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="2">
+   <speaker>CHRISTINA &amp; KATHLEEN</speaker>
+      <mode></mode>
+      <context>They look at George. Still shaking his head.</context>
+      <utterance>-- no phone.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>George hands them a New York Post. They look at the cover:</context>
+      <utterance>What?</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="6">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you saying?</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It could be. Dead silence. GEORGE  He was arrested two blocks from the cheesecake place.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>There it is. It's of a man with his jacket pulled over his head. They all look at it.</context>
+      <utterance>Is there a picture?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So that explains it.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was in jail.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And there</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="12">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are so lucky.</utterance>
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could be dead.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you crazy? This man couldn't possibly be the rooftop killer.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Remember when you thought Frank might be the Unabomber?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was different.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long did you sit there all alone?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not that long. Joe Fox came in --</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joe Fox!</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>They look around. There's no one in the store and nothing to do. A pause.</context>
+      <utterance>I don't want to talk about it.  Let's get to work.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>They hear the jingle of the front door. They look hopefully toward it. It's only Birdie.</context>
+      <utterance>There must be something to do. There's always something to do.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Hold on Kathleen as the computer sound begins.</context>
+      <utterance>He stood her up.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context>(continued)</context>
+      <utterance>I have been thinking about you. Last night I went to meet you and you weren't there. I wish I knew why. I felt so foolish.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="8">
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>And as I waited, someone else showed up, a man who has made my professional life a misery, and an amazing thing happened -- I was able, for the first time in my life, to say the exact thing I wanted to say it. And of course, afterwards, I felt terrible. Just as you said I would.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context>Joe sits there a second. A moment of intense ambivalence. Then he hits the Menu key and signs off.</context>
+      <utterance>I was cruel, and I'm never cruel. And even though I can hardly believe what I said mattered to this man -- to him, I'm just a bug to be crushed -- but what if it did? No matter what he's done to me, there's no excuse for my behavior. Anyway, you are my dear friend, and I so wanted to talk to you. I hope you have a good reason for not being there last night, but if you don't, and if we never really connect again, I just want to tell you how much it has meant to me to know you were there.</utterance>
+   <speaker>COMPUTER</speaker>
+      <mode></mode>
+      <context>Joe stands and leaves the room. The computer sits there. Hold on the computer. We hear him open the refrigerator door. We hear him close the refrigerator door. He passes the den without even looking into it. A moment later he comes back into the room, stares at the computer. He starts for the bedroom, changes his mind. Circles the computer. He's going to go cold turkey if it kills him. Fuck it. He sits down. Sign on. Starts to type.</context>
+      <utterance>Goodbye.</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context>He stops... Hits the delete button and erases the message. He starts typing again:</context>
+      <utterance>I am in Vancouver.</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context>couldn't get out of it, and there was no phone. He backspaces to erase "there was no phone." Screen now reads: I was stuck in a meeting, which I couldn't get out of it. Joe sits there thinking for a moment. Then he starts typing. JOE (V.O., cont'd) The electricity went out in the building and we were trapped on the 18th floor and the telephone system blew too. He stops and looks at it. Then he types: JOE (V.O., cont'd) Amazingly enough. He sits looking at it. Then he deletes the whole thing. Sits looking at the blank screen.</context>
+      <utterance>I was stuck in a meeting, which I</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Then he starts to type again.</context>
+      <utterance>Fuck you. He clicks the Yes box.</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Dear friend: I cannot tell you what happened to me last night, but I beg you from the bottom of my heart to forgive me for not being there. He deletes "for not being there." Then types again, after "to forgive me".</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context>(continued)</context>
+      <utterance>-- for what happened. I feel terrible that you found yourself in a situation that caused you additional pain. But I'm absolutely sure that whatever you said last night was provoked, even deserved. And everyone says things they regret when they're worried or stressed. You were expecting to see someone you trusted and met the enemy instead. The fault is mine.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="2">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did he say anything about meeting again?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not really. It doesn't matter. We'll just be like George Bernard Shaw and Mrs. Patrick Campbell and write letters our whole lives -- They go into an apartment building.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="14">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where was this taken, Birdie?</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seville.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When you had the thunderbolt?</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. What did you decide, dearie?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Close. We're going to close.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Close.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Birdie sits down on the loveseat next to Kathleen, puts her arms around her. Hold on them.</context>
+      <utterance>Although it feels like such a failure. It feels like I'm quitting. It feels like... Mom... She closes her eyes.</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context>Christina looks over at the picture of Birdie.</context>
+      <utterance>Keeping the store open doesn't keep your mother alive, although sometimes I think we all think it does.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Birdie shakes her head. She's not going to tell them. CHRISTINA (cont'd) It's so romantic.</context>
+      <utterance>Who was it, Birdie? That you had the thunderbolt over?</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But it wasn't meant to be.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He ran Spain.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spain?</utterance>
+   <speaker>BIRDIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The country. He ran it. That was his job. And then he died. Just as well.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="6">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She fell in love with Generalissimo Franco?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't say that. We don't know that for sure.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who else could it have been? It was probably around 1960 --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean, it's not like he was something normal, like a socialist or an anarchist or something --</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It happened in Spain. People do really stupid things in foreign countries.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>They enters one of the theatres.</context>
+      <utterance>Absolutely. They buy leather jackets, they go see Flamenco, they ride in gondolas, they eat in restaurants where guitarists sing Malaguena sola Rosa, but they don't fall in love with fascist dictators.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="14">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Birdie is a very kind person, she's practically my surrogate mother.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well she's out of her mind.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She is not.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>The person in front of them turns around.</context>
+      <utterance>I could never ever be with anyone who doesn't take politics as seriously as I do.</utterance>
+   <speaker>PERSON IN FRONT OF THEM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you mind?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>The two of them sit there.</context>
+      <utterance>A hot dog is singing. You need quiet while a hot dog is singing?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have something to tell you. I didn't vote.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the last mayoral election, when Rudy Giuliani was running against Ruth Messinger, I went to get a manicure and forgot to vote.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Since when do you get manicures?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I suppose you could never be with a woman who gets manicures.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget it. It's okay. I forgive you.</utterance>
+   <speaker>PERSON IN FRONT OF THEM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shhhhhh.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You forgive me. Hold on them a beat. Kathleen stands and walks out of the theatre.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="7">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on? Kathleen's upset. FRANK  Hey. What is it?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, this has been a big week, you're closing the store --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>It's just... Frank...</context>
+      <utterance>It's not that, Frank, really it's not.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know, that was terrible of me.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To jump all over you when I'm the one who's really... Oh, God, I don't know how to say this --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="15">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a wonderful person, Kathleen.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So are you.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I'm honored that you want to be with me because you would never be with anyone who wasn't truly worthy --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I feel exactly the same way about you.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, God, don't say that, please, that just makes it worse.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Frank shakes his head no.</context>
+      <utterance>What?  You don't love me?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me either.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Kathleen shakes her head no.</context>
+      <utterance>You don't love me?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But we're so right for each other.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>A long beat.</context>
+      <utterance>I know.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Frank nods.</context>
+      <utterance>That woman on television, right? Sidney-Ann.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean, nothing's happened or anything.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think she's a Republican.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't help myself. Kathleen pats him. FRANK  What about you? Is there someone else?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, somewhere out there, I'm sure. Somewhere --  In cyberspace.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="9">
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context>As a woman dumps a huge stack of books on the checkout table.</context>
+      <utterance>My store is closing this week. I own a store. Did I ever tell you that? Probably not. It's a lovely store --</utterance>
+   <speaker>WOMAN SHOPPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is a tragedy.  Honey, grab a copy of The Trumpet of the Swan. KATHLEEN  -- and in a week, it will be something really depressing, like a Baby Gap. I am being amazingly brave --</utterance>
+   <speaker>WOMAN SHOPPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you going to do with yourself?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. I'm going to take some time. I have a little money saved. I'm almost looking forward to it -- KATHLEEN  I am so cheerful I would make Pollyanna throw up.</utterance>
+   <speaker>SECOND SHOPPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came here every Saturday when I was a little girl. I remember when your mother gave me Anne of Green Gables. "Read it with a box of Kleenex," that's what she told me.</utterance>
+   <speaker>THIRD SHOPPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's looking down on you right now.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>A FORTH SHOPPER approaches the counter with a stack of books up to his chin, and manages to slide the stack on the counter.</context>
+      <utterance>I'm sure she is. KATHLEEN  I have promised myself I'm not going to cry.</utterance>
+   <speaker>FOURTH SHOPPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We should bomb Foxbooks.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She starts ringing up the sale.</context>
+      <utterance>It's not their fault. The truth is, the world is just... different.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="5">
+   <speaker>WOMAN SHOPPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you have the "Shoe" books?</utterance>
+   <speaker>SALESPERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The "Shoe" books? Who's the author?</utterance>
+   <speaker>WOMAN SHOPPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. My friend told me my daughter has to read the "Shoe" books, so here I am.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Noel Streatfeild. Noel Streatfeild wrote Ballet Shoes and Skating Shoes and Theater Shoes and Movie Shoes...  I'd start with Skating Shoes, it's my favorite, although Ballet Shoes is completely wonderful.</utterance>
+   <speaker>SALESPERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Streatfeild. How do you spell that?</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="2">
+   <speaker>WOMAN SHOPPER</speaker>
+      <mode></mode>
+      <context>As she walks away.</context>
+      <utterance>Thank you.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They know nothing, they know absolutely nothing.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="2">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Asshole. He backspaces, deleting. Starts typing again.</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I'm sorry. I don't know what to say. Truly I don't. And anything I do say will sound trite. I hope you feel better. He sits there, appalled at his own triteness.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="3">
+   <speaker>PATRICIA</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>What I was thinking was she'd probably make a great children's book either.</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context>They get out of the cab.</context>
+      <utterance>Why would you think that?</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She knows everything. She has flawless taste. She's famous for it. The salesmen swear by her. If she likes it, it sells. Period.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="8">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you're going to offer her a job?</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not? What else has she got to do?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now that she's destitute --</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks to you.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I can't imagine her working for you.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She has a horrible personality, she's... nice to everyone all the time. It's exhausting. And her staff turnover is ... non-existent. They've been there forever. Until... recently, when they all found out they were going to lose their jobs.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context>They get in.</context>
+      <utterance>Thanks to you. The elevator door is closing. PATRICIA  Hold the elevator!</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="23">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, Charlie, Veronica.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Last time, we rode in an elevator, we made the deal of the century. What is going to happen this time?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Grant's going to get me a part in one of her movies, that's what's going to happen.</utterance>
+   <speaker>VERONICA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In your dream, Charlie.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context>The elevator suddenly stops.</context>
+      <utterance>I love how you've totally forgotten you had any role in her current situation. It's so obtuse. It reminds me of someone ... Who? Who does it remind me of?  Me!</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit.</utterance>
+   <speaker>VERONICA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is stuck?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He pushes the open button. Nothing. Turns the key, hits the open button, flicks the emergency switch. The he starts hitting the buttons in every possible combination.</context>
+      <utterance>Could be.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charlie, what are you doing?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bang the door.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context>Joe bangs the door. Nothing.</context>
+      <utterance>Really.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hope this thing doesn't plummet to the basement.</utterance>
+   <speaker>VERONICA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can it do that?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>He picks up the phone.</context>
+      <utterance>No.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is Joe Fox. Who is this? Hi, Juan. We're stuck on the sixth floor. There are four of us --</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- and if you don't get your ass up here in two shakes and get us out -- He hangs up.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you all right?</utterance>
+   <speaker>VERONICA</speaker>
+      <mode></mode>
+      <context>Joe hands her his handkerchief.</context>
+      <utterance>It's hot.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everyone should jump in the air.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We jump. The elevator thinks that no one is here and it opens. Everyone stares at each other.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Nothing happens.</context>
+      <utterance>One -- two -- three -- They all jump into the air. They all land.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="7">
+   <speaker>VERONICA</speaker>
+      <mode></mode>
+      <context>She takes out a tissue and dabs at her eyes.</context>
+      <utterance>If I ever get out of here, I'm going to start speaking to my mother. She slept with Oscar, and maybe it was Oscar's fault, I don't know, and then she sold the story to Inside Edition. That could have been Oscar's idea, too. Who knows? But I divorced him. I wonder what she's doing right this minute. I think of her... whenever I hear about a new pill. Ecstasy, Zoloft, Fenphen, I just think, I hope Mama knows about that.</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you can make up on Rosie. That would be so great for the book.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I ever get out of here...</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I ever get out of here, I'm having my eyes lasered.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He takes out his wallet and looks at a picture of Oreet, shows it to Joe.</context>
+      <utterance>I'm marrying Oreet. I love her. I should marry her. I don't know what's been stopping me.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>He stops, he looks at Patricia who is fishing through her purse.</context>
+      <utterance>If I ever get out of here, I'm going to --</utterance>
+   <speaker>PATRICIA</speaker>
+      <mode></mode>
+      <context>The firemen crowbar open the elevator door.</context>
+      <utterance>Where is my TicTacs?  What?</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="2">
+   <speaker>GEORGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then, in the 19th century, Caldecott revolutionized the publishing of children's books by the introduction of color illustrations -- We see:</utterance>
+   <speaker>THE STAFF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Several are dozing.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="6">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about going to the Children's Zoo?</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to go to the Children's Zoo.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. The Staten Island Ferry.</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to go to the Storybook Lady.</utterance>
+   <speaker>MATT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to go to the Storybook Lady.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well we can't go to the Storybook Lady.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="17">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She had to close her store.</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She didn't have enough business.</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well. Her store was very close to our store, and you know our store sells books at a slightly lower cost --</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do we sell at a lower cost? So more people can buy books.</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why couldn't she sell that way too?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because she's small and we're big. How about we go get some candy?</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So now she's gone and it's all your fault.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's business, Annabel. It's not personal. How about we go get so much candy you'll be bouncing off the walls for days?</utterance>
+   <speaker>MATT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's personal?</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context>She burst into tears. Matt bursts into tears too.</context>
+      <utterance>Personal means that she's gone forever, and now we'll never get another book from her as long as we ever live.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Remember the man who worked with her?</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well I hired him.</utterance>
+   <speaker>ANNABEL</speaker>
+      <mode></mode>
+      <context>Annabel sobs hysterically.</context>
+      <utterance>You killed the Storybook Lady. Matt throws himself on the ground, crying.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="4">
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Why haven't you written?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I have a cold.</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>How's your cold?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>My ears are blocked, my nose is clogged.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="2">
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Are you feeling any better?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I'm lying in bed listening to Joni Mitchell and drinking cranberry juice which I am sorry to say is the exact same color as my nose. I keep thinking about my future. What future? What am I going to do?</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="23">
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To us.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Nelson ignores the question.</context>
+      <utterance>Father and son, together at last. That happened with Gillian?</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've stayed here after, let's see, your mother, Laurette that ballet dancer --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- the nanny --</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was she the nanny? I forgot that. How ironic. Then there was the ice skater --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- also the nanny --</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really. How amazingly ironic. Sybil the astrologer.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whose moon turned out to be in somebody else's house, as I recall.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just like Gillian.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gillian ran off with someone?</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The nanny.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nanny Maureen? Gillian ran off with Nanny Maureen? That's incredibly ironic.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>True true.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's no other word for it.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who did you break up with?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Patricia. You met her.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would I like her?  Just kidding. Isn't this great? Have some peanuts. Of course I have to live out of a suitcase for a least three weeks, and then there's the inevitable legal hassle, more of your inheritance down the drain.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry about it.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't. But then I get to meet someone new. That's the easy part.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, right, a snap to find the one single person in the world who fills your heart with joy.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context>Have you?</context>
+      <utterance>Don't be ridiculous. Have I ever been with anyone who fits that description?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On to the next.</utterance>
+   <speaker>NELSON</speaker>
+      <mode></mode>
+      <context>Hold on Joe.</context>
+      <utterance>Isn't it a beautiful night?</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="2">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is it?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joe Fox.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="3">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing here?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I please come up?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Someone else walks up to the door, unlocks it and walks in. Joe follows.</context>
+      <utterance>It's really not a good idea.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="23">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kathleen?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She puts on a robe, runs frantically about picking up various scattered wadded-up Kleenexs, opens the front door. Joe is holding a bunch of flowers wrapped in paper.</context>
+      <utterance>Just a second.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing here?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I heard you were sick and I was worried and I wanted to --  Is someone here?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just the Home Shopping Network.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bought any porcelain dolls?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was thinking about it.  You put me out of business --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know that --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And now you turn up with flowers? Did you come to gloat?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To offer me a job --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I wouldn't think of --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I have plans, I have lots of offers. I've been offered a job by -- well, actually by --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My former?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Former?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We broke up.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's too bad. You seemed so perfect for each other.  I don't mean to say things like that. No matter what you have done to me, there is no excuse for my saying anything like that. But every time I see you --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Things like that just seem to fly out of your mouth.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She starts to the door.</context>
+      <utterance>Yes. I'm sorry. I'm starting over.  Thank you for coming. Goodbye.  Thank you for coming. Goodbye.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I bought you flowers.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>He takes them back.</context>
+      <utterance>Oh.  Thank you. She takes them.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>He heads for the kitchen. A beat, while she stares after him. Then follows.</context>
+      <utterance>Why don't I put them in water?</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="19">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>He pulls out a kitchen chair. Kathleen sits. She's a little woozy.</context>
+      <utterance>You're sick. Sit down, please.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Vase?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>He gets out a vase. Fills it with water.</context>
+      <utterance>Upper left.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>George says hello. He told me you weren't feeling well.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How is George?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>He unwraps the paper around the flowers. Daisies. Puts them in a vase.</context>
+      <utterance>Great. He's revolutionizing the place. No one is allowed to work in his department who doesn't have a Ph.D. in children's literature.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love daisies.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>He puts the vase on the kitchen table. Kathleen plays with the petals.</context>
+      <utterance>You told me.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're so friendly. Don't you think they are the friendliest flower?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I do.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When did you break up?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, a couple of weeks ago.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everyone is breaking up. You. Me. This other person I know broke up with someone in an elevator. I think it was in an elevator. Or just outside it. Or after it. It got stuck. I think. And suddenly everything became clear. When I saw you, at the coffee place, I was waiting for him and I was --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- charming.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was not charming.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>He gets out mugs and teabags and pours the water.</context>
+      <utterance>Upper right.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was upset. And I was horrible.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Kathleen nods. He puts in two spoonfuls, gives it to her.</context>
+      <utterance>Honey?</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="14">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whereas I am a horrible person and have no choice but to be horrible, is that what you're saying?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No I am not saying that because I am done saying horrible things, even to you.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>She claps her hand over her mouth.</context>
+      <utterance>You did it again.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I put you out of business. You're entitled to hate me.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't hate you --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you'll never forgive me. Like Elizabeth.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Elizabeth Bennet in Pride and Prejudice. She was too proud --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you hated Pride and Prejudice.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- or was she too prejudiced and Mr. Darcy too proud? I can never remember.  It wasn't personal --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- It was business. What is that supposed to mean? I am so sick of that. All it means is it's not personal to you, but it's personal to me, it's personal to a lot of people.  What's wrong with personal anyway?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Kathleen stands up, picks up the daisies.</context>
+      <utterance>I mean, whatever else anything is, it ought to begin by being personal.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>They walk to...</context>
+      <utterance>My head's starting to get funny. I have to go back to bed.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="28">
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why did you stop by? I forget.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wanted to be your friend.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew it wasn't possible. What can I say? Sometimes a person just wants the impossible. Could I ask you something?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened with that guy at the cafe?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you're crazy about him --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I am.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>A long beat.</context>
+      <utterance>Then why don't you run off with him? What are you waiting for?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't actually know him.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We only know each other -- oh God, you're not going to believe this --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me guess. From the Internet.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've Got Mail.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very powerful words.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Joe sits on the edge of the bed.</context>
+      <utterance>Yes.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Why meet him?</context>
+      <utterance>I'm happy for him. Although -- could I make a little suggestion? I think you should meet him. No. I take it back.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>He reaches out and gently claps his hand over her mouth. And holds it there. It's unexpectedly tender and sexy.</context>
+      <utterance>I hardly think I need advice from someone who --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I concede I bring out the worst in you, but let me help you not to say something you'll just torture yourself about for years to come. She starts to smile and he removes his hand. They look at each other.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe stands.</context>
+      <utterance>I hope you're better soon. It would be a shame to miss New York in the spring.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>He starts for the door.</context>
+      <utterance>Thank you for the daisies.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take care.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodbye.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Hold on Kathleen.</context>
+      <utterance>Goodbye. We hear the door close.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="5">
+   <speaker>MALE RUNNER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>He passes her. Christina can't believe it. She does a little dance of joy. Camera pulls back as we see her by the reservoir on a beautiful morning doing her little celebratory spin. Then she resumes her morning exercise, running on.</context>
+      <utterance>Hi.</utterance>
+   <speaker>RABBIT</speaker>
+      <mode></mode>
+      <context>He grabs Patricia's hand, and to her surprise, they go whirling off together.</context>
+      <utterance>Shabbat shalom!</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context>She clicks the send button and then exits from American On Line. On her computer screen we now see the standard screen with several icons: American On-Line, Word, Recycle Bin, etc. She clicks Word. She goes to File: New. There are several choices of format. She stares at the choices. Then she clicks Book format. A blank page appears in the computer. She starts to type: "Once upon a time there was a little girl named..." She pauses for a moment and looks around the room. She sees the flowers that Joe brought her. And then she types: "Daisy." As she goes on typing...</context>
+      <utterance>I have been thinking about this and I think we should meet.</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context>A look of calculation on his face.</context>
+      <utterance>We should meet. And we will meet. But I'm in the middle of a project that needs...  ... tweaking.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="24">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tweaking?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what he said.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's probably married.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a terrible thing to say. It's not possible.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you asked him if he's married? Have you said, "Are you married?"</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Joe looks at her, shrugs.</context>
+      <utterance>No.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I know this is probably a little late to be asking, but are you married?</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Am I married? What kind of a question is that? How can you ask me that? Don't you know me at all? Oh wait, I get it. Your friends are telling you the reason we haven't met is that I'm married. Am I right?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So he didn't exactly answer.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He did too. He nailed me. He knew exactly what I was up to. Which is just like him.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Did he?</context>
+      <utterance>But he didn't exactly answer, did he?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe he's fat.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't care about that.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't care that he might be one of those guys who's so fat he has to be removed from his house with a crane?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's very unlikely.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why else do you think he's putting off meeting you? Although... maybe that's not it. Maybe...</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never mind.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What????</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He could be waiting til he's paroled.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>Her voice trails off, as she considers whether it could be true.</context>
+      <utterance>Oh, you won't believe this, there was a moment when George thought he might be the rooftop killer, which was completely ridiculous --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>She shakes her head.</context>
+      <utterance>What's his handle?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, I'm not going to write him. Is that what you think?</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="18">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His combined college board scores.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His IQ.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The number of women he's slept with.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The number of times he's seen The Godfather.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the first good thing I've heard about him.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His address. No, no, no. He would never do anything that prosaic. On Joe, looking a little wounded. KATHLEEN  The only thing I really care about besides the married thing... and the jail thing... is the boat thing.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The boat thing?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I could never be with anyone who has a boat.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She starts intently picking over apples, trying to find some she wants.</context>
+      <utterance>So that clinches it. We'll never be together. I'll take care of these. He picks up a mango, squeezes it. JOE  I could never be with anyone who likes Joni Mitchell.  "It's cloud's illusions I recall, I really don't know clouds at all." What does that mean? Joe waits for Kathleen to say she likes Joni Mitchell. But Kathleen doesn't say anything.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's your book coming?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a children's book editor I know, from the store, and she's excited to read it. When I finish it. Who would ever have thought I'd write? I mean, if I didn't have all this free time, I would never have discovered -- She stops, realizing what she's saying. KATHLEEN  The truth is, he was the one who made me start thinking about writing --</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mister 152 Felony Indictments --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mister 152... insights into my soul.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Well. Can't compete with that.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well. I keep bumping into you. Hope your mango's ripe.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think it is. Want to bump into me Saturday? Around lunchtime?</utterance>
+   <speaker>JOE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>How about meeting Saturday? The first day of spring. 4 P.M. There's a place in Riverside Park at 88th Street where the path curves and when you come around the curve, you'll find me waiting.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="5">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Today?</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Today.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know. In Riverside Park.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Isn't that amazing? Maybe I've seen him, and I don't even know it.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="24">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He could be the Zipper Man.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's that?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This guy on Amsterdam who repairs zippers. You'll never have to buy new luggage.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop teasing.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Timing is everything. He waited until you were primed. Until you knew there was no other man you could ever love.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes I wonder...</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>They stop walking, they look at each other.</context>
+      <utterance>What?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I hadn't been Foxbooks and you hadn't been The Shop Around the Corner and we'd just met --</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I would have asked for your phone number and I wouldn't have been able to wait 24 hours before calling and asking, "How about coffee, drinks, dinner, a movie, for as long as we both shall live?"</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joe...</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And then we would never have been at war.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The only fight we'd ever have is what video to rent on Saturday night.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who fights about that?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some people. Not us.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>A long beat.</context>
+      <utterance>We would never.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If only...</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>She doesn't move.</context>
+      <utterance>Please. I have to go.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>They look at each other.</context>
+      <utterance>Let me ask you something? How come you'll forgive him for standing you up and you won't forgive me for a little tiny thing like putting you out of business? Kathleen looks at him. Shakes her head.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>It's all Joe can do not to kiss her.</context>
+      <utterance>Oh how I wish you would. It's all Kathleen can do not to forgive him.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I really do have to go.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>After a moment, she does too.</context>
+      <utterance>You don't want to be late. She's in agony. He turns and walks away.</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="5">
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context>And hold on Kathleen as she sees.</context>
+      <utterance>Brinkley! Brinkley!</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>And he comes to her. And puts his arms around her.</context>
+      <utterance>And she starts to cry.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't cry, Shopgirl, don't cry.</utterance>
+   <speaker>KATHLEEN</speaker>
+      <mode></mode>
+      <context>And crane up and away as we see them, a couple kissing in the park on a beautiful spring day. A dog is leaping around them. And as we get further and further away from them, the screen turns into</context>
+      <utterance>I wanted it to be you. I wanted it to be you so badly. And as they kiss, we hold on them.</utterance>
+   <speaker>CYBERSPACE</speaker>
+      <mode></mode>
+      <context>and hear the sound of computer keys, clicking, clicking, clicking</context>
+      <utterance>And the dog turns cartwheels and flipflops. And we tilt up to see the clouds and the sky</utterance>
+</dialogue>
+
+
+</movie>

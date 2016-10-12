@@ -1,0 +1,4067 @@
+<movie id="507" title="Source Code">
+
+<dialogue id="1" n_utterances="7">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Nothing.</context>
+      <utterance>Ma'am?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She looks up. Blank stare.</context>
+      <utterance>Excuse me... ma'am?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is this?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's what?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where am I?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Goes back to her journal.</context>
+      <utterance>Almost at Newark.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's Newark? A city?</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="5">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>But Colter still doesn't understand. He gets up. Nausea slams into him. He hangs on to the seat.</context>
+      <utterance>It's more of a hell hole.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woah.</utterance>
+   <speaker>COLTER</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>I think I'm going to puke.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Colter looks down the aisle, hesitating.</context>
+      <utterance>Okay, bathroom's that way.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Colter eases himself into the aisle. Totters down the length of the car until he finds the RESTROOM. The door is LOCKED. The latch reads "OCCUPIED." Bracing himself, he lurches forward into...</context>
+      <utterance>Go. Seriously.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="3">
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context>A heavy-set CONDUCTOR stands in the aisle. A jangling of keys. Colter just stares at him. Dazed.</context>
+      <utterance>Ticket?</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context>The last thing on his mind. Bewildered, he searches his pockets.</context>
+      <utterance>May I see your ticket?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think I...</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="11">
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context>He pulls out a citation pad.</context>
+      <utterance>Have to write you up then.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>From inside his sports coat he pulls out a TRAIN TICKET. The conductor snips his ticket and brushes past.</context>
+      <utterance>Is this...?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a sec. I'm a little out of it here. Where's this train headed?</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>New York. Penn Station.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Why would he be going to New York? How can this be happening? Fear starts to grip him as the hallucination simply continues.</context>
+      <utterance>New York?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The conductor examines his ticket again.</context>
+      <utterance>Do you know where I got on?</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Princeton Junction.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's that?</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"˜Bout ten minutes back.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I've never been to Princeton Junction. See... I don't remember waking up or buying a ticket or getting on the train or anything else. It's just a blank.</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context>The jaded conductor moves on. Colter is alone with his confusion. Takes a deep breath. The nausea has eased slightly.</context>
+      <utterance>Lucky you.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="20">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>And why does he have this guy's wallet? He leans forward to speak with Christina again.</context>
+      <utterance>Sean Fentress? Who the hell's that?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She lowers her journal, annoyed. We see she hasn't been writing but DRAWING. A well-executed sketch of a face.</context>
+      <utterance>Ma'am?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>How old do you think I am, anyway?</context>
+      <utterance>Why do you keep calling me ma'am?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm having a little problem here. I'm trying not to freak out, but I think something's happened to me.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like what?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>I don't know how I got here.</context>
+      <utterance>Like, total memory loss. Complete.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you drank too much last night. So did I. Unfortunately, I remember the whole thing.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She waits for more. As if he's telling a joke.</context>
+      <utterance>That's not it. See... I'm a pilot. I fly helicopters in Iraq. I'm in the army.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was on a mission. Right before I woke up here I was in the middle of a mission...</utterance>
+   <speaker>7.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wavering. Unsure of himself. His memories.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boy, you really did drink a lot last night.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm telling you the truth.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>The train begins to SLOW DOWN. A few people begin to get up. The platform of Newark Station slides into view.</context>
+      <utterance>Now approaching Newark Station. Newark Station, next stop.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>He holds up the driver's license. One final attempt to convince her.</context>
+      <utterance>These aren't my clothes. And this wallet here...</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see this? This isn't me.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course it is.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>The mirror? She goes back to her sketchbook. Determined not to be interrupted again. Anxiety ripples through Colter.</context>
+      <utterance>Take a look in the mirror, good sir.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The train lurches to a stop.</context>
+      <utterance>This can't be happening.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Colter gets up. Through the windows, a few passengers disembark onto the platform: Derek, the Old Man, the College Kid and GUZMAN, a Middle Eastern man, who HURRIES past all of them towards the station building.</context>
+      <utterance>Newark Station.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="2">
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Christina watches Colter go. Curious.</context>
+      <utterance>All aboard. Doors are closing.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>The train begins MOVING. Colter reaches the bathroom.</context>
+      <utterance>This is a New York bound train. Next stop, New York - Penn Station.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="2">
+   <speaker>9.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Her hand knocks.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey. You okay in there?</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="2">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>No answer.</context>
+      <utterance>You left your bag on the seat. Which is a flagrant violation of rail security, leaving a suspicious package behind and all that. I probably saved you a huge fine.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She places the bag beside the door. She hesitates at the door. The oddness of this situation.</context>
+      <utterance>I'll just leave it right out here for you.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="2">
+   <speaker>CHRISTINA</speaker>
+      <mode>O.S.</mode>
+      <context>Her words rouse him.</context>
+      <utterance>If it'll help you remember, you've been riding this train every morning for three months.</utterance>
+   <speaker>COLTER</speaker>
+      <mode>WHISPERS</mode>
+      <context></context>
+      <utterance>Three months?!</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="7">
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>The measured calm of a mission controller's voice comes over Colter's headset.</context>
+      <utterance>Captain Colter Stevens, this is Beleaguered Castle. Acknowledge transmission.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Captain Stevens, do you copy?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where am I?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>PULL BACK, fractionally, to reveal Colter in a tight and confined CAPSULE. It bristles with sophisticated electronics and ghostly glowing diodes. He's like an astronaut in an orbiter craft.</context>
+      <utterance>You're with Beleaguered Castle.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>He tries to clear his head. He's still upside down.</context>
+      <utterance>Are you functional?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm dizzy.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>Very slowly, almost imperceptibly, Colter's upside-down face begins to turn and right itself.</context>
+      <utterance>Adjusting your rotation.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="10">
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Can you report at this time?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>More confusion. No idea how to react. Just as on the train.</context>
+      <utterance>What is this? Who am I talking to?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Report what you saw.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Just now.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was on a train.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>And?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And... There was a bomb.</utterance>
+   <speaker>COLTER</speaker>
+      <mode>PANICKING</mode>
+      <context></context>
+      <utterance>What the hell is going on?!</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Just relax, Captain.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="12">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>A long moment. A name floats into his head.</context>
+      <utterance>You already have that information, Captain. Now think. Recall my name.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodwin?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Correct.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do I know that? I have no idea how I know your name's Goodwin.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Commencing memory pattern.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen to me. Something's wrong. I was flying a mission. I was in a chopper. Then I woke up on a train. Now I'm here. Can you explain that? What unit is this?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're with Beleaguered Castle.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're with friends.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>PATIENTLY</mode>
+      <context>Just like with the train, he seems to have no choice but to go along with it.</context>
+      <utterance>The exercises will assist you. Are you ready?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Memory Thread One. Listen to the following passage: "When Lily woke, she had the bed to herself. She sat up, bewildered by the strangeness of her surroundings; then memory returned, and she looked about her with a shiver.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="9">
+   <speaker>GOODWIN</speaker>
+      <mode>CONT'D</mode>
+      <context>Silence. Is it Colter's turn to speak?</context>
+      <utterance>In the cold slant of light reflected from the back wall of a neighboring building, she saw her evening dress and opera cloak lying on a tawdry heap on a chair." End of thread one.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't get it. Is this a Red Flag exercise?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thread Two. Listen. I am holding the following hand of cards: Queen of spades. Four of clubs. Nine of clubs. Three of hearts. Nine of hearts.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>BEAT</mode>
+      <context>Beads of sweat on Colter's forehead. What the hell?</context>
+      <utterance>I repeat: Queen of spades. Four of clubs. Nine of clubs. Three of hearts. Nine of hearts. End of thread two.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>A rather spooky BIRD CALL plays -- a short whistle, followed by a long trill. The call is repeated twice more.</context>
+      <utterance>Thread Three. The following is a recording of a Western Screech-Owl:</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Unexpectedly, in the back of his mind, a reply is there.</context>
+      <utterance>End of Thread Three. End of pattern. Acknowledge.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>How did he know to say that? A conditioned response?</context>
+      <utterance>A... Acknowledge. End of pattern.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stand by to initiate pattern recall.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The response comes to him more quickly. Like lines from an old script. Even if it still baffles him.</context>
+      <utterance>Go for pattern recall.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="6">
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>He thinks for a moment. Focus. Play along. Maybe it will all be okay.</context>
+      <utterance>The five playing cards. Arrange them in order of descending values, irrespective of suit.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Queen, two nines, four and a three.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That is correct. The passage I read contained mention of a woman's name. What was that name?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Laurie.</utterance>
+   <speaker>COLTER</speaker>
+      <mode>THEN</mode>
+      <context>At each answer, Goodwin makes notations and adjusts gauges.</context>
+      <utterance>No. Lily. Her name was Lily.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Goodwin leans forward to flip a switch and EVERYTHING GOES</context>
+      <utterance>That is correct. End of pattern.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="10">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Colter mulls his options. Should he talk? Keep silent? He tugs against the steel harness holding him in. A HATCH, like the kind used on submarines, seals the capsule. Goodwin's voice grows slightly louder over his headset.</context>
+      <utterance>Please list the primary specifications of the aerial platform you've been trained to operate.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please list the primary specifications of the aerial platform you've been trained to operate.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is someone going to tell me what's going on here?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please list the primary --</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The UH-60 Blackhawk Helicopter weighs 20,250 pounds with a maximum exterior load capacity of 8,000 pounds. It has a range of 320 nautical miles and is armed with two 7.62 millimeter machine guns.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That is correct.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>SUDDENLY REDIRECTS</mode>
+      <context></context>
+      <utterance>Who bombed the train?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The train.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who bombed the train, Captain?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have no idea.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="13">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whom do you suspect bombed the train?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know!</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't see?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you tell me what the hell is going on here?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Screech-Owl song can be seen as a progression of musical notes. Did the notes go up, down or remain at the same pitch?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. Just tell me --</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many times was the bird call repeated?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What does this have to do with the train?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many times was the bird call repeated?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twice.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Incorrect. Who bombed the train, Captain?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Colter is seething now. Had it with these games.</context>
+      <utterance>I don't know who bombed the train!</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>ON SCREEN -- Goodwin leans forward to press a button and --</context>
+      <utterance>You have seventeen minutes. Use them. Find the bomber.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="2">
+   <speaker>COLTER</speaker>
+      <mode>V.O.</mode>
+      <context>The HUM of machinery starting up.</context>
+      <utterance>Hey. What's happening?</utterance>
+   <speaker>COLTER</speaker>
+      <mode>V.O.</mode>
+      <context>The machinery HUM changes modulation. Then gives way to a GENTLE ROCKING SENSATION. Tha-thunk. Tha-thunk. Tha-thunk.</context>
+      <utterance>Goddamn it, Goodwin, what is all this?</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="2">
+   <speaker>A TRAIN WINDOW</speaker>
+      <mode></mode>
+      <context>He's back on the train. Back in the same navy sports coat. Across from him, Christina is at work on her sketch pad. Just like before. Other commuters all around him. Everything is exactly the same as before. Note: The remaining story will follow this "binary pattern." Scenes will take place either on the train or in the capsule. Compared to tomb-like isolation chamber he just came from, the train is exploding with sensory input -- the smell of steaming coffee, the cramped proximity of other passengers, the crinkle of an freshly-ironed dress shirt, the glint of a buckle on a purse, the slanting sunlight, the trees out the window, bursting with summer leaves. Almost unintentionally, Colter finds himself repeating the same opening actions as last time -- checking his watch (7:40 a.m.)... turning at the scent of passing coffee... peeking in the canvas messenger bag beside him... This time, however, he takes the books out of the messenger bag. The books are stamped "NEW YORK PUBLIC LIBRARY." He also takes out the APPLE. Sniffs it. Takes a bit. It's good. No, it's awesome. Crisp and delicious.</context>
+      <utterance>At the passing woodland scenery.</utterance>
+   <speaker>20.</speaker>
+      <mode></mode>
+      <context>Not knowing what else to do, he takes a few more bites. Enjoying this small pleasure. He reaches in his sports jacket pocket and pulls out his</context>
+      <utterance>Is Goodwin watching him from somewhere?</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="9">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Christina's pen stops sketching. She glances up.</context>
+      <utterance>It's a goddamn simulation.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>A measure of relief. A way to think about all this.</context>
+      <utterance>A three dimensional, completely immersive scenario. Touch, taste, sound, sight and smell.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you talking to me?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Complete with pretty girl.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pretty girl.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every combat simulator has one. In the middle of a fire fight a pop-up window starts playing a porno.</utterance>
+   <speaker>COLTER</speaker>
+      <mode>CONFIDENT NOW</mode>
+      <context></context>
+      <utterance>You're an unusual choice for a distraction.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Disregarding her, Colter gets up. Pursuing a new line of action. The only way he can make sense of this. He starts walking up the rows.</context>
+      <utterance>And you're a moron.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The conductor approaches him.</context>
+      <utterance>Find the bomber. Find the bomber.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="6">
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context>Expecting this now, Colter hands over his ticket to be punched.</context>
+      <utterance>Ticket?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everything okay today, chief?</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say what?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The conductor frowns at him. Who is this guy?</context>
+      <utterance>Anything out of the ordinary?</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context>Colter moves on. He looks for suspects. We've seen the faces before -- the Computer Engineer, the Secretary, the Stock Broker, the Backpacker and so on. All seems normal. He finds himself focusing on a jumble of unfiltered details -- Suits. Ties. Shoes. Skirts. Watches. Newspapers. Coffee cups. Litter. Sudden dizziness. He grabs a seatback for support. Sensory details slam into him. We go EXTREMELY CLOSE ON: The STITCHING on a leather purse. A FOUNTAIN PEN rattling in a fold-out tray. AIR CONDITIONING hissing from a vent. A CRUMPLING SOUND as the Overweight Man crushes an empty soda can. TAP, TAP, TAP -- the Computer Engineer tapping his foot on the floor. Faster and faster. Derek, the Wall Street Type, talks on his phone:</context>
+      <utterance>Please take a seat, sir.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context>Then... the CLICK of a LOCK UNLATCHING.</context>
+      <utterance>Trust me, by one o'clock, the bridge is going to be jammed...</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="7">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Colter stands in front of him, arms crossed. Behind his dark glasses, Guzman ignores him, but he's visibly uncomfortable.</context>
+      <utterance>How's it going?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Guzman is stock still. Beads of sweat on his forehead. The conductor appears, accosting Colter.</context>
+      <utterance>What's your name?</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Didn't I tell you to take a seat?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Appealing to Goodwin's invisible presence. But nothing happens.</context>
+      <utterance>Goodwin? Where are you? It's over. I found him.</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context>An edgy silence. Other passengers looking over. Colter's about to retort, about to accuse Guzman, when he stops. It's too easy. Colter senses the uproar he's about to create. Which just might be a mistake. He reconsiders.</context>
+      <utterance>Who are you talking to?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>anxious. I was worried about him.</context>
+      <utterance>Sorry. This guy seemed a little...</utterance>
+   <speaker>GUZMAN</speaker>
+      <mode>THICK ACCENT</mode>
+      <context></context>
+      <utterance>I am minding my business. Tell him to mind his.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="8">
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context>With a pained smile, Guzman loosens his collar.</context>
+      <utterance>You feeling all right, sir?</utterance>
+   <speaker>GUZMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Motion sickness, I'm afraid. I believe I will get off at the next stop.</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context>The conductor turns back to Colter.</context>
+      <utterance>Very well.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Turning away, he finds a seat. He studies Guzman out of the corner of his eye.</context>
+      <utterance>Okay. I'm sitting down.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Several rows up, he sees Christina. She looks back at him with distaste. A small number of passengers get up, among them the College Student. He catches Colter's attention as he picks up a WALLET from a seat and catches up with Derek, the Stock Broker, who's about to get off the train.</context>
+      <utterance>Now approaching Newark Station. Newark Station, next stop. The train begins to slow down.</utterance>
+   <speaker>COLLEGE STUDENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, you dropped this.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>relieved, takes back the</utterance>
+   <speaker>WALLET)</speaker>
+      <mode> WALLET)</mode>
+      <context>The College Student waits to get off. Colter now eyes him closely. As the train pulls to a stop, Guzman forcefully pushes forward towards the doors, moving with a barely contained urgency.</context>
+      <utterance>Wow. Thanks.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="4">
+   <speaker>GUZMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me... Please let me through...</utterance>
+   <speaker>COLTER</speaker>
+      <mode>TO HIMSELF</mode>
+      <context></context>
+      <utterance>Jesus, he's running away.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>The Old Man, Derek and the College Kid get off. Guzman hurries past them towards the station house.</context>
+      <utterance>Newark Station.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Just before the doors close, Colter steps out onto the platform. Eyes locked on Guzman -- who disappears inside the station house. The train PULLS OFF, leaving Colter behind. Did he make the right move? As he goes to pursue Guzman, Colter is struck by more sensory</context>
+      <utterance>All aboard. Doors are closing.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="3">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A guy just came through here. Did you see where he went?</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context>Windows look out over the station's parking lot. There's no sign of Guzman out there.</context>
+      <utterance>Lots of guys come through here.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Through the platform doors comes Derek, followed by the College Kid. Derek heads for the parking lot, while the College Kid mills around the newspaper stand. A muffled COUGH. Colter spins. Sees a door marked "MEN'S ROOM."</context>
+      <utterance>He was just here. A Middle Eastern- looking guy.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="3">
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Colter's footsteps echo down the length of the deserted men's room. The last stall door is SHUT. From within the closed stall, comes the sound of VOMITING. Colter edges closer. A toilet FLUSHES. Guzman emerges from the stall. Looks awful. Freezes when he sees Colter.</context>
+      <utterance>The train to Philadelphia will be four minutes late... The train to Philadelphia will be four minutes late...</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Guzman's face hardens. He goes to the sink to wash his hands.</context>
+      <utterance>All better now?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't much care for trains myself.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="3">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How are you going to pull this off? That bomb has a cell phone detonator. And I don't see a pay phone around here. So I'm betting you got a phone on you with the number already programmed in.</utterance>
+   <speaker>GUZMAN</speaker>
+      <mode></mode>
+      <context>The tracks begin to VIBRATE. In the distance comes the HORN of an EXPRESS TRAIN approaching.</context>
+      <utterance>I have no idea what you're talking about. I am an international business man. An executive.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Open your briefcase. Prove to me there's no phone in there.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="6">
+   <speaker>GUZMAN</speaker>
+      <mode>STANDS UP</mode>
+      <context>WHAM! Colter PUNCHES Guzman with tremendous force, sending Guzman sprawling to the ground. Colter's hand throbs from the force of the punch. The simulation's reality stuns Colter all over again. Crouching down, Colter pops open Guzman's briefcase. Inside is a corporate IDENTIFICATION BADGE with Guzman's name and photograph on it. The company is Shell Oil.</context>
+      <utterance>I will prove nothing to you. Leave me alone.</utterance>
+   <speaker>COLTER</speaker>
+      <mode>READING</mode>
+      <context></context>
+      <utterance>"Hasnan Guzman, Vice President, Shell Oil." Must be a cover.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Guzman groans in pain. Colter rifles through his briefcase.</context>
+      <utterance>Philadelphia train now approaching.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Another look at HIS WATCH -- 20 SECONDS. Grabbing Guzman, Colter goes through his suit pockets. He triumphantly pulls out GUZMAN'S CELL PHONE and steps back. Guzman looks up at him, eyes moist with humiliation and malice.</context>
+      <utterance>Where the hell's your phone?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>A distant THUD rattles the station windows. Colter pivots, looks down the tracks. The first thing he sees is</context>
+      <utterance>I thought so. Now let's see you try to --</utterance>
+   <speaker>THE EXPRESS TRAIN</speaker>
+      <mode></mode>
+      <context>The second thing he sees, far beyond it, miles further down the tracks, is the RISING PLUME of a HUGE EXPLOSION. Colter looks back at Guzman in shock. Then down at Guzman's cell phone. Which has remained off.</context>
+      <utterance>Closing in on the station.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="4">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Holy fuck!</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>Colter opens his eyes. He's back in his military flight suit. The craft goes still. Cautiously, he releases his hands from their grip on the seat restraints. He looks like he's sweated off five pounds.</context>
+      <utterance>Stabilize. Lower your pulse.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you need to urinate?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A fucking train just ran over me.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="12">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you need to urinate?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How are you doing this? Am I on some kind of drug?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you find the bomber?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't find the bomber. You fooled me with the Middle Eastern guy. I went for the diversion. What kind of freaky simulation is this? Let me out of here!</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which Middle Eastern guy? Be specific.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guzman. Shell Oil. Look, I don't have intel experience. Why do you have me doing this?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've already been told what you need to know. Discipline your memory. Limit your operational awareness to the tasks we assign you. Everything else is irrelevant.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Irrelevant? Killing me each time is irrelevant?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You do not die. As you can see, you simply return to us.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Silence.</context>
+      <utterance>How? How can you do that?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's the man with the pipe?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say again?</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="12">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>How does he fit into this?</context>
+      <utterance>There was a man smoking a pipe. I saw him on the monitor. Who's he?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The man with the pipe isn't here right now.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Goodwin makes technical adjustments to dials and gauges.</context>
+      <utterance>Let me talk to him. This isn't right. I'm not your prisoner.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You feel unsatisfied with our relationship?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is this? Why are you talking like that? Is this some kind of script?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If Guzman, the Middle Eastern man, is innocent, as you maintain, who might be the guilty party?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who cares? I'm tired of this.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This isn't a game, Captain.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then what is it? Don't you already know who the bomber is? Don't you have all the answers?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>A weird beat.</context>
+      <utterance>We have no answers. Only corpses.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Corpses? Whose corpses? The passengers?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some were too badly burned to be identified.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="14">
+   <speaker>GOODWIN</speaker>
+      <mode>CONT'D</mode>
+      <context>Is this the truth? Or another evasive answer? His mind pulled in all kinds of unpleasant directions.</context>
+      <utterance>The heat from the explosion fused many of them completely into the wreckage.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These were real people?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This really happened?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Today.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Today?! The train blew up today?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Colter's head is spinning.</context>
+      <utterance>It was attacked this morning, at 7:57 a.m., Eastern Standard Time. Six miles outside of New York City.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're lying. I don't believe it.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>His senses tell him it's true. But how can he accept it?</context>
+      <utterance>What do your senses tell you?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where am I, right now, as we speak?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With Beleaguered Castle.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My unit's still in Iraq. I'm flying missions in Iraq. I flew one yesterday!</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="8">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>The news comes like a slap in the face. Colter clearly has no memory of this.</context>
+      <utterance>Your unit was rotated Stateside three weeks ago.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Goodwin simply makes another adjustment on the controls.</context>
+      <utterance>Then why do I still have Iraqi dirt underneath my fingernails?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Talk to me! Three weeks? I've been back three weeks? How'd I get in here? Have I seen my family? Does my father know I'm home? "˜Cause I'd kinda like to tell him if that's the case.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Goodwin hunches forward, putting his elbows on his desk. As he does so, he inadvertently reveals a glimpse of his military unit SHOULDER PATCH. The insignia contains wings and a lightning bolt against a background of stars. Underneath it is written "CAOC-N."</context>
+      <utterance>Listen up, soldier.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Colter barely hears. He's fixated on that shoulder patch.</context>
+      <utterance>The train is just the beginning. Our intel says there are more attacks are coming today. And they're linked with the train. Time is of the essence. Do you understand?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm listening.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>D.N.I. Counterterrorism has come up with the five most likely follow-up targets in the New York area.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="9">
+   <speaker>GOODWIN</speaker>
+      <mode>CONT'D</mode>
+      <context>It's too much information to process. Colter's head spins with questions.</context>
+      <utterance>They are, in no order of importance, the Holland Tunnel, Newark International Airport, the Brooklyn Bridge, Penn Station and the Empire State Building. It could be any of them, it could be none of them. Whatever it is, if you find the bomber and learn his plan, the next one we might be in a position to prevent. Those are your orders.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait. If I'm somehow on that train before it blows up, why don't I just dismantle the bomb?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Those are not your orders.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But all those people dying...</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Military priorities. Defying comprehension.</context>
+      <utterance>Those are not your orders. You are not to influence events any more than you need to in order to accomplish your mission.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't volunteer for this shit.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you like to see the release form you signed?</utterance>
+   <speaker>COLTER</speaker>
+      <mode>EXASPERATED</mode>
+      <context>He might as well be talking to a wall.</context>
+      <utterance>How do I know it's real? How do I know you didn't force me to sign it? And how the hell can I be put on a train over and over again -- a train I never was really on?!</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't believe in time travel, Goodwin. There's no such thing.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="3">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Seventeen minutes. Find the truth.</context>
+      <utterance>Only one way forward, Captain.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The capsule begins to SHAKE.</context>
+      <utterance>Why seventeen? Why me? Why anything?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>SFX: UP ON a HUGE ROAR as --</context>
+      <utterance>Let me out! Don't send me back there!</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="17">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>He leans back in his seat, as if just another beaten down office worker on the train.</context>
+      <utterance>Shit. This is not happening.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Across from him, Christina sketching. A gentle smirk. He focuses in on her. Not knowing where else to begin.</context>
+      <utterance>Ain't life grand?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You an artist?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I went to art school. Doesn't make me an artist.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I see what you're working on?</utterance>
+   <speaker>35.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Her pencil pauses. She eyes Colter.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>He looks down at his watch. 7:41 a.m. He's been back for one minute. Adjusting the settings, he changes the digital display to COUNT DOWN the remaining SIXTEEN MINUTES. He tries again for human contact.</context>
+      <utterance>I'd rather not.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't look like you belong here. The way you're dressed.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You certainly do.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd really like to see what you're working on. Unless you're worried I won't like it.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's private. And your opinion doesn't interest me.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She scowls. Tosses the sketch pad onto his lap. Surprised, Colter opens it. It's full of faces -- thumbnail portraits of other passengers riding the train. They're exquisitely observed, darkly stylized into expressions of loneliness.</context>
+      <utterance>So you scribble away on that thing so as not to deal with people.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're amazing.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't go that far.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seriously, they're really good, Miss...?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Christina.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My name's Colter. How many of these passengers have you drawn?</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="11">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She leans forward, eyes glinting conspiratorially.</context>
+      <utterance>All of them, practically.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know all about them.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know all about them?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a collector of moments.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>DISCREETLY GESTURING</mode>
+      <context>A click of the restroom door opening. Guzman emerges from the bathroom and returns to his seat.</context>
+      <utterance>That woman over there? She's a patent attorney with three kids and a summer place on Long Island. More important, however, she colors her hair herself and wears the same houndstooth check suit every third Wednesday. The nebbishy fellow behind her always calls into his office three minutes before we go into the tunnel. And the guy with the shaved head and leather jacket eating a scone has a profile identical to that of Julius Caesar.</utterance>
+   <speaker>COLTER</speaker>
+      <mode>RE: GUZMAN</mode>
+      <context>Christina looks over Guzman.</context>
+      <utterance>What about that guy?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't seen him before today.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>LOOKING CLOSER</mode>
+      <context></context>
+      <utterance>He's cranky. Thinks the worst of people.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dangerous?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everyone's dangerous.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see anything unusual happen this morning? Anything out of the ordinary?</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="9">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure I know what you mean.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She takes a closer look at him. A puzzled smile.</context>
+      <utterance>Has anyone else come out of that bathroom that you remember?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Colter hesitates. Debating.</context>
+      <utterance>Who are you?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you know? Haven't you seen me here every day for, what, three months?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Something's different about you today.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I told you that there's a terrorist on this train, that I was sent here to catch him, would you believe me?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Most fervently.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Christina pages through her sketch pad again. Considering different faces.</context>
+      <utterance>Then tell me which one you'd arrest.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She shows him her sketch of Derek, the Stock Broker.</context>
+      <utterance>They're all so utterly normal. That's what's terrifying about them. Perhaps there's more than one. A team at work. The patent attorney in cahoots with Julius Caesar and the nebbishy guy. And don't forget the sullen college kid. He's the expendable one. But they're all controlled by this good- looking stock broker.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="7">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She's not taking him seriously.</context>
+      <utterance>Blond, blue eyed, hyper alert. The perfect Machiavellian operative. Out for himself. He'll betray them all in the end.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>He gets up. Foolish of him to confide in her. His watch now reads THIRTEEN MINUTES.</context>
+      <utterance>Never mind.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>The train begins to slow. Derek, Guzman, the Old Man and the College Kid head towards the exit doors.</context>
+      <utterance>Now approaching Newark Station. Newark Station, next stop.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>STAGE WHISPER</mode>
+      <context>Colter moves aside to let them walk past.</context>
+      <utterance>He's getting away...!</utterance>
+   <speaker>COLTER</speaker>
+      <mode>CURT DISMISSAL</mode>
+      <context></context>
+      <utterance>Thanks for your help, ma'am.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ma'am? How old do you think I am?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Her icy glare tells him he's guessed too high.</context>
+      <utterance>I don't know. Thirty two?</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="2">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>FLASHCUT -- Back in the isolation unit. On the monitor, the glimpse of Goodwin's SHOULDER PATCH INSIGNIA. The unit initials "CAOC-N." Back to scene. Colter churning over the thought.</context>
+      <utterance>What happened, Fentress? Who are you? How can I be you?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>A KNOCK on the door.</context>
+      <utterance>"CAOC-N." What unit is that?</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="3">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who were you talking to?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Colter walks off. Irked at his change in tone, she follows him, carrying his messenger bag.</context>
+      <utterance>Leave me alone.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>This is too much. Colter turns on her. Paranoid.</context>
+      <utterance>My pleasure, okay? It's just that you left your bag on your seat.  It's a flagrant violation of rail security, leaving a suspicious package behind and all that. Maybe you're the terrorist.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="11">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Terrorist? Why did you say that?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was joking.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop joking. Who are you? Are you an operative?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I had no idea you were so thoroughly weird. I'm not entirely sure I like it.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do you have sketches of everybody on board? Are you part of this?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Part of what?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She sees he's serious and drops her arch playfulness. Speaks in a flat, sober voice.</context>
+      <utterance>I can have you arrested. Maybe that's the only way you'll drop the bullshit and talk. Stay put. I'm getting help.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>He turns back. Waits. The more she speaks, the angrier she gets.</context>
+      <utterance>Who am I? I'll tell you. I'm twenty seven years old. I have no savings and no health insurance.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Six months ago I moved back in with my parents because I ran out of money. I got A's in line drawing and advanced oil painting but no one's buying my stuff. Two weeks ago I put away all my paints. My little sketch book is the last thing left. You see, I'm not a artist. I'm a receptionist in a law firm. The only thing I operate is a phone switchboard.</utterance>
+   <speaker>41.</speaker>
+      <mode></mode>
+      <context>The HORN of the FREIGHT TRAIN yanks his attention to the windows. Up ahead are the row houses opposite which the train exploded. Time is running down.</context>
+      <utterance>The stark reality of her life.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Colter doesn't hear her. He's still looking out the window.</context>
+      <utterance>Now let me tell you about you. You work at the New York Public Library. You've been eyeing me for months on this train but haven't said a word to me. You're bland and colorless and predictable. And now I see you're delusional, too.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="5">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Son of a bitch. "CAOC-N." That's not army. That's Air Force. Combined Air and Space Operations Center. Nellis Air Force Base!</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you mocking me?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Tears in Christina's eyes. That Colter would persist in this delusion after what she's confessed about herself.</context>
+      <utterance>They're running this whole thing out of Nellis Air Force Base in Nevada. Fucking Nevada!</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's there? What's on that base? B-52s. KC tankers. Air Combat Command. Predator Drones. Remote operations.  This a remote operation.</utterance>
+   <speaker>COLTER</speaker>
+      <mode>FINALLY</mode>
+      <context></context>
+      <utterance>What if it is time travel?</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="2">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>A WARNING ALARM begins beeping. Passengers look around uneasily. Christina, however, focuses her anger on Colter.</context>
+      <utterance>What did he say?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She drops his messenger bag at his feet and walks away. Colter looks down at his watch. THE LAST SECONDS TICK AWAY --</context>
+      <utterance>Do me a favor. Don't ever talk to me again.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="2">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Christina! He grabs her -- she struggles against him --</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>But he HOLDS HER TIGHT, shielding her with his body and squeezing his eyes shut as --</context>
+      <utterance>Get off me!</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="3">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>He hits a few buttons. Almost at random. The VENTS which had been blowing in air FALL SILENT.</context>
+      <utterance>Goodwin? What's happening? Come in. Can you read me? It's goddamn cold in here.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The monitor fizzles out. The light from the controls FADES.</context>
+      <utterance>Goodwin, I'm losing oxygen.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>It's now COMPLETELY DARK. He BANGS on the side of the capsule. Just a muffled thump. A terrifying silence. The SNAP of a harness releasing. A THUD as Colter falls to the floor of the capsule. Cursing. Some sounds of thrashing around. Then... The SPARK of a BLUE FLARE illuminates Colter's face. He's activated a miniature signal light on his flight suit. It begins to BLINK. Like a beacon for downed pilots afloat in the sea. It is the only light in the otherwise dead capsule. Up on his knees, he grasps the release handles of the EXIT HATCH. Using all his strength he TURNS... But the handles don't budge. The hatch remains sealed. He gets to his feet. Can't stand up fully. The capsule is incredibly cramped. Rifling through a cabinet, he discovers OPERATIONAL MANUALS in small, almost illegible type. And a small set of TOOLS. He spreads them out on the tiny ledge. Taking a wrench, he BANGS on the escape hatch. A deep, clanging ECHO in the hull.</context>
+      <utterance>Goodwin!</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="2">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Another SPARK. It shocks him. There's a puff of blue smoke. He's burned his fingers. But the battery now has a tiny BLINKING GREEN LIGHT. Working fast, Colter attaches the copper wires to the leads on the battery. From inside the engines comes a faint electric HUM. FFFT. The monitor awakens. Like a film projector it throws the image of a PLAYING CARD onto the opposite side of the craft. Colter begins replacing the monitor components. As he does, a pre-recorded AUDIO FILE comes on:</context>
+      <utterance>Come on!</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>Colter continues reconstituting the computer. The monitor fills with scrolling lines of COMPUTER CODE. With an oddly low-tech CLANG, the heart of the machine reawakens. The air vents come back to life. Heat starts to return. The icicles begin to DRIP.</context>
+      <utterance>-- four principle dialects of Arabic: Egyptian, Gulf, Syrian- Lebanese and North African. We will now play you portions of each, discussing the audible differences between them. CLIPS of SPOKEN ARABIC begin to play.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="8">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Rutledge is tinkering with the camera. The image shakes for a moment as he adjusts it. Then puts on a headset.</context>
+      <utterance>Can you hear me?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Project designer initiating sequence and drives check.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Rutledge checks his headset. Not sure he heard right.</context>
+      <utterance>I'm here! I'm okay!</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is someone there?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Rutledge blinks in surprise. The blue eyes sparkling.</context>
+      <utterance>Yeah. It's me. Colter.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow! It's you.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The capsule lost power. It's still pretty cold in here.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've been working towards you from the other side. Nice to have you with us again. You feeling all right?</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="10">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think so. Who are you?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The name's Rutledge.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They wouldn't let me talk to you before.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>His genial eccentricity is completely at odds with the military environment. And then it occurs to Colter:</context>
+      <utterance>No, I guess not. They're pretty anal around here.  Don't tell them you saw me smoking in here, okay?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're the inventor of this thing.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>SHRUGS</mode>
+      <context></context>
+      <utterance>I prefer the term project designer. And sorry for all the secrecy. Goodwin will be thrilled you re- established contact.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to deal with Goodwin anymore.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Rutledge looks uneasy. As a scientist, he's ill-equipped to deal with personnel issues.</context>
+      <utterance>Don't you understand? He's torturing me. I'm helpless. Can't you get me out of here?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why would Goodwin have it in for you?</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="23">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a remote operator. And remote operators are risk averse pussies who sit at control screens in the rear while actual pilots like me put their asses on the line in the field.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He seems pretty devoted to the mission.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And just what kind of mission is this? Talk to me, man. Why won't he let me save those people on the train?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because they can't be saved.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not? I know what's going to happen. I could take apart the bomb. Stop the train.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>Mystery upon mystery.</context>
+      <utterance>Yeah but you'd be doing it in the Source Code, not here. Not in our own past.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the difference?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure I should be telling you this.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Coaxing the scientist in him.</context>
+      <utterance>Telling me what?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's quantum physics. Linear algebra. Parabolic calculus. It would take weeks to explain.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is Source Code time travel?</utterance>
+   <speaker>48.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rutledge sighs. Looks at his pipe.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's gone out again.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why can't I save those people on the train?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>Einstein proved that.</context>
+      <utterance>Think of it like this: events in our past can never be undone.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So...</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>At last some useful information. Colter races to process it.</context>
+      <utterance>So Source Code opens up another past for you. A parallel past. It looks the same but it has no intersection with our own world. In essence, by sending you back, an entirely new but utterly parallel world is created. It looks identical to ours, but nothing you do there has any effect on this reality.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happens to the Source Code world after I leave it?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>Maybe not.</context>
+      <utterance>I don't know. You can never know that because you're not there to observe it. Maybe it vanishes.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>UNEASY</mode>
+      <context></context>
+      <utterance>I should tell them you're okay.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about the bicycle?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What bicycle?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see it each time. Right after the bomb goes off. Like an after image.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="12">
+   <speaker>COLTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>There's a bicycle and a stone wall and a girl. It's a girl from the train. I don't know where any of it is supposed to be, but -- Rutledge removes the pipe from his mouth.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait. You see all this after you leave the train?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Rutledge is stunned. Like he's discovered some strange new property to his invention.</context>
+      <utterance>Yeah. Just for a split second.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please tell me you're not making this up.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. It's there. What do you think it means?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>Rutledge looks off camera for a moment.</context>
+      <utterance>I don't know.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're here. There's no more time to talk.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>QUICKLY</mode>
+      <context>Goodwin appears. Rutledge reluctantly takes off his headset.</context>
+      <utterance>Make sure he sends you back in. Find out about the after images.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Rutledge steps away. A pointed look at Colter. Goodwin settles back into his seat, donning the headset.</context>
+      <utterance>Rutledge, wait. Don't leave me.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welcome back. How are you feeling?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm alive. No thanks to you.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You find the bomber?</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="13">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a brick wall, Goodwin. A fucking brick wall.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Evacuate lower Manhattan? The enormity of this. Having to take it on faith.</context>
+      <utterance>Lower your pulse. The situation has worsened. The fire on the tracks caused one of the freight cars to blow up and release some kind of gas. As a precaution they're having to evacuate all of lower Manhattan.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We may have lost the initiative.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean? Let's keep going.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We were expecting more from you.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>But Goodwin ignores him. Absorbed in paperwork.</context>
+      <utterance>I can give you more. Let me think for a second.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Anxious now. Trying to make up lost ground. Whatever it takes to get sent back in.</context>
+      <utterance>The freight car blows up from the fire. It spews gas, or what could be gas -- it might be chlorine, so they can't take any chances.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So they decide to play it safe and evacuate parts of New York City. And maybe that's part of the terrorists' plan, right?</utterance>
+   <speaker>COLTER</speaker>
+      <mode>THINKING</mode>
+      <context></context>
+      <utterance>So... so who benefits from that? What's vulnerable? What's down there in lower Manhattan?</utterance>
+   <speaker>COLTER</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>Wall Street.</utterance>
+   <speaker>51.</speaker>
+      <mode></mode>
+      <context>And now Goodwin is paying attention again. Waiting for more.</context>
+      <utterance>Surprising himself with this insight.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Goodwin considers this. For the first time, slightly impressed.</context>
+      <utterance>Wall Street. That's what they're going to hit next. The financial markets.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to show you something.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="6">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did she die, too?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>A pang of sorrow. Moving among ghosts.</context>
+      <utterance>Yes. This drivers license photo was found with her body. We're creating a database of recovered identifications as they come in from the site.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sure she's dead?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you like to see her morgue photos?</utterance>
+   <speaker>COLTER</speaker>
+      <mode>QUIETLY</mode>
+      <context></context>
+      <utterance>She was sitting across from me.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>We know.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="8">
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>The TIME CODE on the image reads 8:26 a.m.</context>
+      <utterance>This was taken shortly after the rescue crews arrived on scene.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>On screen, rescue workers pull a CHARRED CORPSE out of the wreckage.</context>
+      <utterance>We noted the location of each corpse when we pulled it out.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Prepare yourself. This is unedited footage.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The camera ZOOMS IN on a corpse. Its burned face, like a piece of rotted fruit, fills the screen. Nevertheless, we recognize it. And it's not Christina. It's someone else.</context>
+      <utterance>I told you I didn't want to see her!</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's...</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>The man in the mirror. Himself, at least on the train.</context>
+      <utterance>Sean Fentress.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He died on the train.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>They carry the corpse towards a MORGUE TRUCK with a vast array of SATELLITE COMMUNICATION EQUIPMENT attached to it.</context>
+      <utterance>As a host identity, Sean Fentress had to have certain basic similarities to you. Gender. Blood type. Approximate age. His head was still intact. We need the head, you see. To link the two of you remotely.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="4">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you like to see the other passenger photos? Perhaps that would help you.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The other things she was carrying?</context>
+      <utterance>You still have Christina's body?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to know about her. Everything I can. She's not just another victim. She's connected to all this.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="3">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She looks up at him.</context>
+      <utterance>Thirty six dollars and eleven cents.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In your wallet. Right now. Thirty six dollars and eleven cents.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is this a magic trick or something?</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="8">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>In a moment, they pass a scene exactly as Colter described. Christina's befuddled smile.</context>
+      <utterance>We're about to pass a street with willow trees. Two girls will be jumping rope. A white dog's going to run out behind them. A Dalmatian mix.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to tell me how you're doing this?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Close observation. You could say I'm a collector of moments.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A collector of moments?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She resumes her drawing.</context>
+      <utterance>That's the cheesiest line I've ever heard.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>No response.</context>
+      <utterance>You trained to be an artist.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got A's in line drawing and oil painting. But your work didn't sell. You took a job answering phones in a law firm.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="5">
+   <speaker>COLTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Six months ago you moved back in with your parents. Two weeks ago you put your paints away for good. The sketch book is all you have left.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who the hell are you? Who have you been talking to?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me? No. I haven't ever talked to you.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Christina has gone white. Utterly incredulous.</context>
+      <utterance>But we have, Christina. You've drawn all these people here. You know their routines. At one point you thought you were different from all of them. But now you're not so sure.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="5">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, you've got my attention. Now tell me what this is all about.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need your help.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you selling something?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen to me. I can't use up any more time trying to convince you. I just need you to believe everything I'm about to tell you.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This better be good.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="11">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bear with me.  Your sketch book. Is there a drawing of me in there?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please, Christina.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She flips through it. Shows him a sketch of SEAN FENTRESS.</context>
+      <utterance>Yes, fine! Here.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did it last week.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The thing is, that's not me.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give me a little credit.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. You drew what you saw, but the person you're seeing now is someone else. I'm not Sean Fentress. I'm not really on this train.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>INCOMPREHENSION</mode>
+      <context></context>
+      <utterance>You're not really on this train.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She gives him a blank look.</context>
+      <utterance>I'm taking someone's place. Borrowing it. My name is Colter. I'm a soldier. And I'm being held prisoner. And this is the only way -- the only time and place I have -- to figure out how to escape.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>After three months of riding the train, this is how you introduce yourself to me?</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="8">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm serious. Elements in the American military are using me for an experiment. I'm not sure exactly how it all happened, but I'm at a facility on Nellis Air Force Base in Nevada. Right now. As we speak. It's a project called Source Code.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Source Code.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>He's not getting through to her. It's too bizarre.</context>
+      <utterance>It's a program. It shifts identities. It also performs small amounts of time travel. Or "time engineering." I don't know the jargon.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been put on this train to look for someone. A criminal. And I need to find out just enough about him to keep them putting me back on this train. Because right here's only place I can figure out what's really happening. But I have very little time. And each time I come back, you won't remember me and I'll have to go through this all over again.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are, I think, deliciously mad.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She doesn't have an answer. Can't easily dismiss him.</context>
+      <utterance>Then how do I know all those things about you if we've never spoken before?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why tell all this to me? There's lots of people around for you to talk to.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I think you have the answer to this whole thing.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="9">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Believe me, I don't have the answer for anything.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a vision. I keep having it. It's very powerful. And you're in it. And there's a bicycle. And this... old stone wall. And it's very peaceful. Does this sound familiar? Like where you live, maybe?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stone walls? My parents live in a house with aluminum siding and an American eagle over the door. The only bike is a Harley which the guy down the street revs at three in the morning.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The vision must mean something. It's the only time when I'm not on the train or in the capsule. Why else would Rutledge be so interested?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's Rutledge?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>He lowers his head. A dead end. No answer. The train begins to slow down.</context>
+      <utterance>Someone who was trying to help me understand something. Until they got to him.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Now approaching Newark Station. Newark Station, next stop. Colter looks at HIS WATCH. Ten minutes left.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I saw a program on TV. It was about psychics. They say psychics have a lot of paranoia.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't believe in that shit.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="12">
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Through the window, the Old Man, Derek and the College Kid disembark. Guzman hurries past them to the station house.</context>
+      <utterance>Newark Station.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>All aboard. Doors are closing.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>The train begins to move again.</context>
+      <utterance>Don't you have people you can go to for help? Friends, family?</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Next stop, New York - Penn Station.</context>
+      <utterance>This is a New York bound train.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Most of my friends are in the military. My dad runs a melon farm in Alabama.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She hands him her cell phone. Colter just holds it in his hand.</context>
+      <utterance>Maybe now's the time to reach out to him.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me and my dad, we don't see eye to eye. We're just two different people.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As opposed to being the exact same person?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you always this sarcastic?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Colter reluctantly dials. As it rings --</context>
+      <utterance>This is so not about me.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What day is it?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>June 11th.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="11">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>One more thing to puzzle him. The call connects. An OLDER MAN, DONALD STEVENS, answers. The gravelly voice of a Midwestern farmer.</context>
+      <utterance>June?</utterance>
+   <speaker>DONALD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Hello?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Donald doesn't respond.</context>
+      <utterance>Dad?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Again, silence.</context>
+      <utterance>Dad, it's me. It's Colter.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Click. The line goes dead. Colter looks at Christina.</context>
+      <utterance>Been a while, huh? I'd been meaning to call you, but --</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He wanted me to stay on and take over the farm but... I had other ideas.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're intimidated by him.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're scared of him. I can see it.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Challenged, he redials. Braced for conflict. The call connects.</context>
+      <utterance>The hell I am.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad, don't hang up. We're going to talk. I need your help.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="4">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's still mad at you, huh?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Troubled, he hands back her phone. Outside, the EXPRESS TRAIN flashes by.</context>
+      <utterance>No... it was like he didn't even know who I was.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She feels bad for him. And something inside Colter closes. Retreating inside himself.</context>
+      <utterance>I don't know how to help you.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>He gets up to go. Christina stays where she is.</context>
+      <utterance>Sorry to have bothered you.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="3">
+   <speaker>CHRISTINA</speaker>
+      <mode>V.O.</mode>
+      <context>Surprised, he turns to find her there.</context>
+      <utterance>I have a friend.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She works at the New York Times. Her name's Stephanie. She's just a proofreader, but she wants to be made a reporter. She's always saying she needs a good story to bring in so she gets noticed. Something like this, with a crazy paranoid angle could really interest her.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget it.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="8">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Christina's dialing her phone. Colter turns back to the window.</context>
+      <utterance>She could do some poking around. She's already quite suspicious of the government.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She hangs up. Pleased with herself.</context>
+      <utterance>I'm getting voice mail.  Steph, it's Christina. You know that story you're always looking to write? I might just have something for you. I met a guy. His name is Colter Stevens. He says he's in the army. He flies helicopters in Iraq, but now they've put him into a secret project called Source Code. Maybe you can look into it a bit, okay? Call me.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>None of it will do Colter any good, but he manages a smile.</context>
+      <utterance>She'll call back. Just wait.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you, ma'am.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>LAUGHS</mode>
+      <context>He gives her a wary look. Considers.</context>
+      <utterance>Ma'am? How old do you think I am?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She smiles, pleased.</context>
+      <utterance>Twenty five?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, but thanks.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>BEAT</mode>
+      <context>Colter looks away. Careful.</context>
+      <utterance>What did you mean, there's a criminal on the train? How do you know that?</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="2">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just do.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can I help you if you don't tell me everything about this?</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="7">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You said you wanted to know.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>He gives her an imploring look. She sighs and squeezes in next to him.</context>
+      <utterance>Can't you just tell me?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Try anything and I'll kill you.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>As she shuts the door, Colter gets up on the sink.</context>
+      <utterance>Shut the door.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>He wrenches back the ventilation panel, then steps aside.</context>
+      <utterance>What are you doing?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>He holds out his hand. She grabs hold and steps up on the sink. She's not quite tall enough to see into the crawlspace, so he steps up behind her and lifts her the rest of the way.</context>
+      <utterance>It's up here.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Her blouse brushes his face as he holds her up. A long beat as she looks inside the overhead space at the bomb.</context>
+      <utterance>Just look.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="5">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that...?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>He lowers her. An incredulous beat.</context>
+      <utterance>Acetone Peroxide. It's a liquid explosive. There's fourteen cannisters of it. Simple detonator. Cell phone signal closes the circuit and boom.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you put this here?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Watching her. Will she believe him?</context>
+      <utterance>No. It was someone else. They don't know who. That's why I'm here. To find out.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have to tell someone. We have to stop this.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="4">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It won't matter. The train's already...</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Already what?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She backs up. Scared of him. Every right to be.</context>
+      <utterance>I've been sent here. It sounds crazy, but it's true. I've been sent from the future -- from five hours in the future. This train's already been blown up.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She turns and hurries for the exit doors.</context>
+      <utterance>You wanted to know. Now you know.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="5">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Colter catches up with her inside the exit vestibule. She's stabbing at the door release button.</context>
+      <utterance>This isn't happening. I've got to get off.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Her phone is RINGS. They both stop. She looks at the number.</context>
+      <utterance>Why won't it open?!</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's Steph.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>HOLLOW</mode>
+      <context></context>
+      <utterance>I told you she'd be interested.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>ANSWERS</mode>
+      <context>Her eyes are fixed suspiciously on Colter as she listens. Colter looks outside. Recognizes the terrain. Looks down at</context>
+      <utterance>Hi.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="2">
+   <speaker>CHRISTINA</speaker>
+      <mode>O.S.</mode>
+      <context>Working fast, he unhooks the leads on the detonator, rips away gaffing tape -- jostling the cannisters of explosives --</context>
+      <utterance>Colter...?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>O.S.</mode>
+      <context>-- and pulls off the detonator cell phone. Ducking back down, he see Christina standing in the doorway.</context>
+      <utterance>Colter, I have to tell you something.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="9">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look. Now the fucking thing can't go off.</utterance>
+   <speaker>HIS WATCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Reads 20 SECONDS.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Something in her expression worries him.</context>
+      <utterance>Stephanie did a computer search.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's got a database of all newspaper articles going back to forever.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Source Code's classified. It wouldn't be in a newspaper.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. But you were. She found you.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>From outside comes the HORN from the approaching freight train.</context>
+      <utterance>She found me? What does that mean? She stops. Not wanting to go on.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>In his hand, the CELL PHONE RINGS. Colter's eyes light up in amazement -- the DISPLAY SCREEN is showing the name and number of the bomber. But before he can read what's there, Christina's voice finds its way to the back of his brain:</context>
+      <utterance>Jesus Christ, Christina, are you going to spit it out?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>A SEARING PAIN SLAMS INTO him. He drops the phone and doubles over. She runs to him --</context>
+      <utterance>According to the notice, you were killed in action two months ago. The world stops.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="3">
+   <speaker>SOLDIER</speaker>
+      <mode>O.S.</mode>
+      <context>An ALARM begins beeping.</context>
+      <utterance>Never any damn leg room on a plane.</utterance>
+   <speaker>FLIGHT MEDIC</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Hey, this guy's crashing...</utterance>
+   <speaker>FADE TO BLACK.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Silence and darkness. Nothingness.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="2">
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>The playing card flickers, separates into pixels, then dissolves.</context>
+      <utterance>Captain...?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>Lines of computer code flit across the screen. A blinking cursor.</context>
+      <utterance>Captain, allow me to introduce myself. My name is Goodwin. You're with Beleaguered Castle. You are safe. All your needs will be met here.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="3">
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>Groggy breathing. A ragged voice:</context>
+      <utterance>Captain, just tell me what you see. Just look and speak.</utterance>
+   <speaker>COLTER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I see a card.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Very good. Very, very good.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="8">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Colter clings to his harness as if to keep from vanishing entirely from existence.</context>
+      <utterance>Are you comfortable? Are you warm?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Colter swallows. Too terrorized to speak.</context>
+      <utterance>Do you need to urinate?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Goodwin taps his pen on his clipboard. Impatient. He flips a switch. A blocky COMPUTER VOICE, something out of the 1970s, comes on:</context>
+      <utterance>Beleaguered Castle is waiting for your report.</utterance>
+   <speaker>COMPUTER VOICE</speaker>
+      <mode>V.O.</mode>
+      <context>A short SERIES of ELECTRONIC TONES.</context>
+      <utterance>Hearing Test. First sequence. Left ear.</utterance>
+   <speaker>COMPUTER VOICE</speaker>
+      <mode>V.O.</mode>
+      <context>The tones cease. Colter remains impassive and inert.</context>
+      <utterance>Hearing Test. First sequence. Right ear.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Goodwin keys in some commands. Forever adjusting.</context>
+      <utterance>Captain, I know you can hear me. Did you find the bomber?</utterance>
+   <speaker>COMPUTER VOICE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Memory Thread One: "When Lily woke, she had the bed to herself. She sat up, bewildered by the strangeness of her surroundings; then memory returned, and she looked about her with a shiver." Goodwin stops the audio.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As you're collecting your thoughts, I should tell you there's been another development. A terrorist group has taken responsibility for bombing the train.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="6">
+   <speaker>MUJAHIDEEN FIGHTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>on camera, in accented</utterance>
+   <speaker>ENGLISH)</speaker>
+      <mode> ENGLISH)</mode>
+      <context>Colter does not raise his head. No idea whether he's even listening.</context>
+      <utterance>By now you have suffered a taste of divine vengeance. God willing, you will soon suffer another.</utterance>
+   <speaker>MUJAHIDEEN FIGHTER</speaker>
+      <mode></mode>
+      <context>The image freezes. Then switches back to the live feed of Goodwin.</context>
+      <utterance>These attacks will show you that you will never be safe. You can secure your borders. But what can you do against one of your own citizens? One who looks like you, who is blameless, living already among you, who takes eighty million of our dollars, a trifle, and carries out our bidding? You cannot stop this. Time has run out.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me talk to Rutledge.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you've decided to speak.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rutledge. Get him.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="10">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We appreciate your desire for further discussion. Perhaps at a later date.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Goodwin ignore the question. Continues making notations.</context>
+      <utterance>Will you let me out of here?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frankly, Captain, we're disappointed.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Find Rutledge! Now!</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have to say that we expected more from you.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop! Stop reading from your goddamn script!</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps we overestimated your abilities.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I swear to fucking Christ!</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please accept the criticism in the spirit it was given. Perhaps a few memory exercises would help.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>For a split second, Goodwin looks thrown. But the mask of the cold clinician goes back up.</context>
+      <utterance>I don't need your criticism and I don't need your memory exercises, you gutless freak. And by the way, that bomb is detonated by a cell phone. When activated, the phone's display screen displays caller ID information. Caller ID. I wonder if that information would be useful to Beleaguered Castle.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="4">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very well. We're ready for that information.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Goodwin hesitates. Skeptical.</context>
+      <utterance>You'll have to send me back. I didn't get a good look at it. But I will next time.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What assurance do we have you'll be able to read the screen before the device detonates?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Goodwin's pale, inscrutable face fills the monitor. His eyes are unblinking. Unfeeling. Nothing behind them.</context>
+      <utterance>Goodwin, there's no time left. Send... me... back.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="3">
+   <speaker>OPERATOR</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Operator. City and listing.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Las Vegas, Nevada. Nellis Air Force Base.</utterance>
+   <speaker>OPERATOR</speaker>
+      <mode>V.O.</mode>
+      <context>A tingle up his spine. The call connects.</context>
+      <utterance>Connecting you.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="13">
+   <speaker>POST OPERATOR</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Post Operator.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is this... Nellis Air Force Base?</utterance>
+   <speaker>POST OPERATOR</speaker>
+      <mode>V.O.</mode>
+      <context>He takes a deep breath.</context>
+      <utterance>Yes, sir. How may I direct your call?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Calling himself. Strange. No idea where this is going.</context>
+      <utterance>I'm trying to reach... Captain Colter Stevens.</utterance>
+   <speaker>POST OPERATOR</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I have no listing for a Captain Colter Stevens.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then give me the Combined Air and Space Ops Center.</utterance>
+   <speaker>POST OPERATOR</speaker>
+      <mode>V.O.</mode>
+      <context>The call seems to take forever to connect. Then a terse military VOICE comes on the phone.</context>
+      <utterance>One moment, sir.</utterance>
+   <speaker>VOICE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>C Deck.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is this?</utterance>
+   <speaker>VOICE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>C Deck.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm calling for Rutledge. It's urgent.</utterance>
+   <speaker>VOICE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>You have the wrong number.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>An eerie pause.</context>
+      <utterance>This is Captain Colter Stevens.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="13">
+   <speaker>VOICE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Would you repeat that?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Colter Stevens. Captain Colter Stevens.</utterance>
+   <speaker>VOICE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Hold the line.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>The train slows at it pulls into Newark Station. Another voice comes over the phone.</context>
+      <utterance>Now approaching Newark Station. Newark Station, next stop.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>Colter's heart sinks.</context>
+      <utterance>Captain? This is Goodwin.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Where are you, Captain?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me talk to Rutledge.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you? How did you find us?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The train pulls to a stop.</context>
+      <utterance>I'm on the train.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Newark Station.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>What train?</utterance>
+   <speaker>COLTER</speaker>
+      <mode>REALIZES</mode>
+      <context></context>
+      <utterance>You don't know. It hasn't happened yet.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>What hasn't happened?</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="11">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The explosion.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>What explosion?</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>All aboard. Doors are closing.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>A beat of stunned silence. The train begins moving.</context>
+      <utterance>Don't you understand? I'm in it, Goodwin. I'm calling you from inside the mission. Inside the Source Code.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Next stop New York Penn Station.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>This contact is ill-advised. I must ask you to hang up.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodwin, I'm trapped in this and I can't get out.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>You have no authorization to be making this call. Goodbye.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! Wait! Don't hang up! Forget authorization. There's no time. Soon you're going to find out what happened on this train. And then your own day is going to start. But not until then. Right now it's just you and me talking. And you're a different Goodwin than the one I'm going to go back to in a few minutes. You're separate from him. Separate worlds. Do you understand?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I think so.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good. Now there's a lot of secrecy in all of this, and you have your reasons for that.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="11">
+   <speaker>COLTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>But here and now, just this once, I need to ask you something. And you need to tell me the truth.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I'd rather you not ask me anything, Captain.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going to ask it.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I should terminate this call.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The car SHUDDERS as the EXPRESS TRAIN FLASHES BY. Quiet returns as it recedes.</context>
+      <utterance>Jesus, Goodwin, how can I get through to you? You're not just a soldier. Somewhere inside you're a human being, too. Somewhere inside you've got to know that this is wrong. Source Code is wrong. And if you can't grasp that, if you just follow orders, then you're just as much a prisoner as I am.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>Surprised, Colter raises his head. Draws a breath.</context>
+      <utterance>What's your question?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Silence. Colter shuts his eyes.</context>
+      <utterance>Did I survive that helicopter crash in Iraq?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Another pause. This is crushing Colter.</context>
+      <utterance>Answer me. Did I survive that crash?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodwin.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Not physically.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="14">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>A terrible chill comes over Colter. He swallows. Trying to stay brave.</context>
+      <utterance>You did not physically survive the crash.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not physically? Fuck. At least give me an answer I can understand.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>We've kept alive certain areas of your brain.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But... the capsule I'm in...</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>A manifestation. Your way of making sense of it. This is crushing. Colter fights back terror.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You had no right.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>As a soldier...</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was a soldier. Then. But now?</utterance>
+   <speaker>COLTER</speaker>
+      <mode>WHISPERS</mode>
+      <context></context>
+      <utterance>After death?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>It was the only way. You couldn't have a body and be sent back into the Source Code.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>BEAT</mode>
+      <context>Is it a success?</context>
+      <utterance>What is the status of your mission?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You really want to know?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I suppose not. You're right to keep it from me.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what we do. Keep stuff from each other. Will this ever end?</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="12">
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>End?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can I get out of this?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>You must realizes the army's made an investment in you. You'll be used again.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Imagine a turntable. With a record spinning on it. All we do is lift up the needle. The music stops.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And then what?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>The barbarism of it. Digital slavery.</context>
+      <utterance>Then we wait. Until another mission. And the needle comes down again. You won't remember any of this. We'll start with the playing cards. Electronic tones. Simple memory exercises. Bit by bit, we'll revive your cerebral capacities once more.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many times have I done this?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Does it matter?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No one knows I'm here. No one can help me.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>In stimulating your cortex, they're prolonging your life. Many soldiers would find that preferable to death.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't do this. I served my country. I already gave my life.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="7">
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>The courts.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>The courts know you're here.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Military court or civilian court?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context>Colter finds no comfort in this.</context>
+      <utterance>Military.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I'm sorry you found out about all of this. That wasn't our intention.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>No answer. Colter looks down at his watch. Time is running out. And there's absolutely nothing he can do.</context>
+      <utterance>Does that make it any less wrong?</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="10">
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's it going? Any breakthroughs?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I finally get it, Rutledge. You're the good guy, Goodwin's the bad guy. Working together, you get what you want out of me. Why didn't I see it before?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Believe me, Captain, I'm on your side.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Drop it. I know about the helicopter crash. I know what they've done with me.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>STRUGGLING</mode>
+      <context></context>
+      <utterance>Look, it's been a long day. For all of us. But now we've got to bring this home and catch a killer.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's in it for me?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on. These guys are serious. Help me out. My ass is on the line, too, you know.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can do better than that. They sent you here to offer me a deal.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you think I'm enjoying this, you're wrong.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Rutledge's face goes red. Quite possibly no one has ever spoken to him like this before. After a sputtering pause, Rutledge's mouth hardens.</context>
+      <utterance>What's their offer? What can they possibly threaten me with after so colossally fucking me? Spit it out, you spineless turd.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="8">
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>A beat of silent outrage from Colter.</context>
+      <utterance>The government can decide to take an interest in people. People like your father with his struggling farm. It can discover things like unpaid property taxes. It can call in his equipment loans or tie him down for years in environmental litigation. On the other hand, it can pay him handsomely for mineral deposits he never knew were there. As distant and problematic as your relationship was, surely you'd like the chance to do something for him.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Those after images I saw. You never knew about them. They weren't part of Source Code architecture, were they?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>HASTILY</mode>
+      <context></context>
+      <utterance>They're meaningless. Nerves firing. Brain chemistry.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't believe that. I've been to places you haven't. I've crossed and recrossed that line between living and dying. And when I do, that veil gets lifted for just a second. And what's there is real. Maybe it's a vision of the next world, but I can see it.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can see it. But you can never get there without our help.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get there? What do you mean?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Our offer. Maybe we can get you there. In return for your completing the mission.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>They'll let you die. I'll shut off your life support and you'll simply slip away.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="9">
+   <speaker>RUTLEDGE</speaker>
+      <mode>CONT'D</mode>
+      <context>A fearful beat. Negotiating over his own soul.</context>
+      <utterance>Just like the good Lord intended you to do a few months back.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd never do it. You wouldn't have to. You could just flip the switch and start me back up again unaware. For all I know, you've made this deal with me before.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Actually, we haven't. Your operational awareness has become too great. If you found out the truth about yourself once, you might do so again. As for Source Code, I'm sure we can find other servicemen coming back from overseas with wounds just like yours.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>PATRONIZING</mode>
+      <context>Colter's eyes bore into Rutledge.</context>
+      <utterance>Do you have the courage to serve your country one final time?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Someday. Somewhere.</context>
+      <utterance>I'm going to find you, Rutledge.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>retreating from the</utterance>
+   <speaker>CONFRONTATION)</speaker>
+      <mode> CONFRONTATION)</mode>
+      <context>The Source Code machinery is already beginning to HUM. Rutledge excitedly keying in system commands.</context>
+      <utterance>The display screen on the detonator was a useful and exciting insight you made. This time, make it pay off. Get the information on the screen. But let the bomb explode. We need the force of the explosion to help integrate you quickly back into the present.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You hear me? Somehow, I'm going to find you.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I doubt that.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="7">
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>Colter JOLTS AWAKE. Disoriented. Thrashing to get free.</context>
+      <utterance>Captain?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>Colter exhales. Shuddering. He's just completed another Source Code.</context>
+      <utterance>It's okay. Calm yourself. You're back.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>The tentacles of the nightmare slowly releasing. Replaced by the oppression of being back in the capsule. Back in Rutledge's power.</context>
+      <utterance>What happened?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was the bomber's identity on the cell phone?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think so. But there wasn't time to read the screen. As soon as it rang the bomb went off.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>IMPATIENT</mode>
+      <context></context>
+      <utterance>What about the phone itself? Make, model, product identification number.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>His delivery is different now. Impersonal. Distant.</context>
+      <utterance>I was unable examine the phone without separating it from the detonator -- which I was instructed not to do.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="7">
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>The machinery again STARTS UP. Colter tenses, bewildered. Eyes dart accusingly to the screen.</context>
+      <utterance>Did you make any other progress? What in heck's name did you do for those seventeen minutes? Colter does not answer.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait. What are you --</utterance>
+   <speaker>THUNK.</speaker>
+      <mode></mode>
+      <context>Click. Darkness. Everything POWERS DOWN... ... And BACK UP again -- controls, monitor, machinery. Colter GROANS and opens his eyes. Gripped by another terror. Returning from yet another trip on the train. Another bomb blast. Death and resurrection. Rutledge looks in on him with impatience.</context>
+      <utterance>Again, he convulses and goes limp.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can do this all day. Until you get it right.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please... I don't feel good...</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't doubt it. Who's the bomber?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The HUMMING again. He's helpless. An insect on a pin. Colter tears at his restraints, ready to bash his brains out against the controls. He SCREAMS...</context>
+      <utterance>I don't know... I honestly... I can't keep...</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="3">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>The Overweight Man, wide eyed in surprise, has his finger poised to open his can of soda.</context>
+      <utterance>You want to get off me?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>CHK-THOCK! The Overweight Man complies. Some half-muttered reproaches, then most people go back to what they were doing.</context>
+      <utterance>Go ahead! Open your fucking soda!</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She glares at him at he stands up. He can't respond. Despair surges through him. He stumbles off down the aisle. But where can he go? There is no freedom. No escape. Imprisoned in both worlds. From her seat, Christina watches him go. Sensing the torment in him.</context>
+      <utterance>What's wrong with you, anyway?</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="4">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>He eyes her furtively. Like a cave man who's never seen another human being before.</context>
+      <utterance>You okay?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>He's ghastly pale. He's sweating profusely.</context>
+      <utterance>You're not okay.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Footsteps. The sound of jangling KEYS.</context>
+      <utterance>Ma'am, please... return to your seat.</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ticket.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="12">
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ticket, please.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's not feeling well.</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context>Colter makes no move to respond. No more concern for anything.</context>
+      <utterance>He still needs a ticket.</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context>He takes out his book to write Colter up.</context>
+      <utterance>Have it your way, pal.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait. I'll pay it.</utterance>
+   <speaker>CONDUCTOR</speaker>
+      <mode></mode>
+      <context>Full fare's $22.50.</context>
+      <utterance>I have no idea where he got on.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Getting out her wallet, she pays the conductor. He eyes her with disapproval, then shambles off.</context>
+      <utterance>All right, all right.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see customer service is alive and well on New Jersey Transit.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why did you just do that?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>The gratitude in his look makes her self conscious. She turns to go.</context>
+      <utterance>The ticket? I don't know. You looked a little lost.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you do me a favor?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="10">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get off the train.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Newark Station, next stop.</context>
+      <utterance>Now approaching Newark Station.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Her puzzled look. The train begins to SLOW DOWN.</context>
+      <utterance>Please. Just get off the train.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This isn't my stop.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You shouldn't have been on this train, Christina. You should be living another life. Not spending it answering phones for lawyers.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>A group of passengers approaches the exit area. We've seen them all before: Derek, the Old Man, the College Kid. And the small encounters: shuffling around, positioning at the doors, and the College Kid tapping Derek on the arm, holding out Derek's wallet.</context>
+      <utterance>How do you...?</utterance>
+   <speaker>COLLEGE STUDENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, you dropped this.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context>The train stops. The doors OPEN.</context>
+      <utterance>Wow. Thanks.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Derek, the Old Man and the College Kid get off. A second later, Guzman bursts past them, making his nauseated run for the station. Leaving just Colter and Christina there. The doors stand open, invitingly.</context>
+      <utterance>Newark Station.</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="5">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>He steps out onto the platform. Holds out his hand for her to join him. A coaxing look. She's incredulous. This guy. His words. This whole moment.</context>
+      <utterance>Everyone has a destiny. And this isn't yours.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who in the world are you?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>He waits for her. Only two steps away.</context>
+      <utterance>Just do it. Stop being afraid. Believe in yourself.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>She blinks. The spell breaks. Those two steps prove to be two much.</context>
+      <utterance>All aboard. Doors are closing.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She retreats back into the car. Colter is heartbroken. About to pursue her, he happens to look over and see</context>
+      <utterance>Leave me alone.</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="2">
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Next stop New York - Penn Station.</context>
+      <utterance>This is a New York bound train.</utterance>
+   <speaker>90.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Intrigued, Colter leaves the exit door area...</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="4">
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>An awkward dynamic between them. They despise each other but have to work together.</context>
+      <utterance>They've searched the wreckage and found the wallet. It was under the wall panel. Just as you said.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Believe me, he's our guy. He tossed his own wallet back on the train. Only reason he'd do that...</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...is if he wanted us to think he died in the explosion. I know.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>We looked into his profile.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="8">
+   <speaker>RUTLEDGE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Derek Frost is a commodities trader, with a wife, two children and a promotion one month old. He's an emergency preparedness volunteer on his office floor, for God's sake.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You saw that terrorist video -- they said it was one of us. One of our own.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If he's really the one, you can find out the rest of his plan.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By any means necessary. There is no Geneva Convention in the Source Code.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Torture him, you mean.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>SHRUGS</mode>
+      <context>Their grisly bargain.</context>
+      <utterance>Find out the plan, before it happens here. And then I'll let you die.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the conductor's compartment there's a fully loaded 9 millimeter handgun locked in a safe. Think you can remember the combination?</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="2">
+   <speaker>GUZMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Squeezing past, Guzman does a double take to hear the standard Arabic reply.</context>
+      <utterance>Assalam'alaikoom.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="7">
+   <speaker>OPERATOR</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>What listing?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The New York Times.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello?</utterance>
+   <speaker>STEPHANIE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Christina? It's Stephanie. Where are you right now?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Going to work. Why?</utterance>
+   <speaker>STEPHANIE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>The strangest thing. The phone rang at my desk and some guy I don't know said the train you're on isn't safe and that you should get off at the next stop. Then he hung up.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>The train begins to SLOW DOWN.</context>
+      <utterance>What?</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="5">
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Newark Station, next stop.</context>
+      <utterance>Now approaching Newark Station.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't understand.</utterance>
+   <speaker>STEPHANIE</speaker>
+      <mode>V.O.</mode>
+      <context>The station platform slides into view.</context>
+      <utterance>Maybe you should get off. Are you okay?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm fine. Everything's normal. Is there something on the news? Some kind of alert?</utterance>
+   <speaker>STEPHANIE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Nothing that I've heard.</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="5">
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Newark Station.</utterance>
+   <speaker>STEPHANIE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I think you should get off.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be late for work.</utterance>
+   <speaker>STEPHANIE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>The hell with work, Christina! You hate that job anyway.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She sees Colter down in the exit area. They lock eyes. And somehow she knows. He made the call. Colter quickly disappears into the other car.</context>
+      <utterance>It's probably a joke. A weirdo guy from somewhere.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="3">
+   <speaker>STEPHANIE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Did you get off...?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She hangs up. Disturbed. As if she's failed some test. But what test? Why this weird feeling?</context>
+      <utterance>No. I'll call you back.</utterance>
+   <speaker>ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>The train SPEEDS UP. Anxiety creeps into her face. Looking around, the tranquility of the passengers begins to seem ominous, hinting that she's made the wrong choice.</context>
+      <utterance>This is a New York bound train. Next stop New York - Penn Station.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="3">
+   <speaker>COLTER</speaker>
+      <mode>O.S.</mode>
+      <context>Colter is walking towards him, holding up Derek's WALLET.</context>
+      <utterance>Derek Frost.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You forget something?</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context>As he goes to take it, Colter GRABS HIM.</context>
+      <utterance>Gosh. Is that my wallet?</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="3">
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell, man? What the hell???</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Colter pulls out the DETONATOR CELL PHONE -- the one he took off the bomb. Holds it inches from Derek's face.</context>
+      <utterance>You see this?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now you can't blow it up.</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="11">
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context>The BARREL of a 9 MM PISTOL. Aimed right at him.</context>
+      <utterance>What is this? Get away from me!</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Believe me, I'm very accurate with one of these things.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context>Derek raises his hands. Sweating. All fright. Like a decent man, terrorized. It gives Colter pause. Does he have the right guy? A toilet FLUSHES. The last stall door opens and Guzman emerges. Stops cold as Colter swings the pistol at him.</context>
+      <utterance>Jesus.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stay there, my man.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't hurt me.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop acting, for Chrissakes.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context>Unprompted, Guzman takes out his own wallet and sets it on the counter. Calmer than Derek. Accustomed to trouble.</context>
+      <utterance>Keep my wallet. Take my watch. Take anything you want.</utterance>
+   <speaker>GUZMAN</speaker>
+      <mode></mode>
+      <context>Take them and go.</context>
+      <utterance>There. Now you have two wallets.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Tensing. This isn't supposed to happen like this.</context>
+      <utterance>Shut up!</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please. I have a family.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Don't you think they had families?</context>
+      <utterance>What about those other passengers?</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="11">
+   <speaker>GUZMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just what is this about?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This man's a terrorist. He planted a bomb on the train.</utterance>
+   <speaker>DEREK</speaker>
+      <mode>HALF LAUGHS</mode>
+      <context>Click. Colter pulls back the hammer and savagely JAMS the barrel of the pistol into Derek's cheek.</context>
+      <utterance>What?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the next attack? Who else are you going to kill today, huh?</utterance>
+   <speaker>DEREK</speaker>
+      <mode>IN TEARS</mode>
+      <context>Guzman takes a step towards Colter.</context>
+      <utterance>Oh God... Oh God...</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One more step, asshole.</utterance>
+   <speaker>GUZMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't treat him like this. He's not an animal. Neither are you.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context>A URINE STAIN spreads on Derek's pants. He looks down, ashamed. Colter keeps the gun on him.</context>
+      <utterance>Listen to him. For God's sake I'm not a terrorist...!</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Piss all you want. You took eighty million dollars to kill hundreds of people today.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eighty million dollars? I swear to you...</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then what about the wallet, huh? Why the fuck did you twice try to leave your wallet on board?</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="10">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Time's up! What is it?! What is the next attack! So help me, I'll put this bullet through your brain.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know what you're talking about!</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Tightening his finger around the trigger. Tears are streaming down Derek's face. But he's not going to talk.</context>
+      <utterance>I'm going to do it.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context>But Colter can't. He can't shoot him. He lowers the gun. Disgusted with himself. Why can't he do it?</context>
+      <utterance>I would never hurt anyone. I have a family. I guess you'll have to kill me.</utterance>
+   <speaker>GUZMAN</speaker>
+      <mode></mode>
+      <context>Speaking gently. Trying to calm him. Even as Colter feels like he's failed.</context>
+      <utterance>You see? You are a human being.</utterance>
+   <speaker>GUZMAN</speaker>
+      <mode></mode>
+      <context>The temperature cooling. Derek's nodding with him.</context>
+      <utterance>This can be worked out. We can listen to each other.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context>The detonator CELL PHONE RINGS, startling all of them. Confused, he answers the phone.</context>
+      <utterance>Anything you want... Please...</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Who is this?</utterance>
+   <speaker>COLTER</speaker>
+      <mode>STUNNED</mode>
+      <context></context>
+      <utterance>Christina?</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="9">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can you be calling this number?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>V.O.</mode>
+      <context>Derek and Guzman cautiously lower their hands. Watching in confusion.</context>
+      <utterance>My friend had it. From when you called her -- to try and get me off the train. Who are you? What do you want?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was trying to warn you.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>About what?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure that it matters now.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>V.O.</mode>
+      <context>He can hear the b.g. noise of the train on the other end.</context>
+      <utterance>Talk to me. I feel that something terrible's going to happen. Do I need to get off the train? Am I going to die?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm right here, okay? Don't be afraid.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode>ANGUISH</mode>
+      <context></context>
+      <utterance>Why didn't I get off the train?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you say?</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="4">
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Trust me, by one o'clock, the bridge is going to be jammed...</utterance>
+   <speaker>BACK TO SCENE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Colter looks to Derek. His stomach sinks.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>The realization hits.</context>
+      <utterance>"By one o'clock, the bridge is going to be jammed." That's what you said. You knew. You knew there was going to be an evacuation. You knew before it happened. All those people walking across the...</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>While they're full of people.</context>
+      <utterance>They're going to bomb the bridges.</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="2">
+   <speaker>CHRISTINA</speaker>
+      <mode>V.O.</mode>
+      <context>Over the phone comes the HORN from the passing FREIGHT TRAIN. Colter presses the phone to his ear, trying to hear her.</context>
+      <utterance>What are you talking about. Who's going to --</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>A HAND closes over his gun. Before Colter can react, Derek</context>
+      <utterance>Christina? Just hang in there. You'll be okay.</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="8">
+   <speaker>RUTLEDGE</speaker>
+      <mode>INTO PHONE</mode>
+      <context>When he hangs up, he turns to Goodwin and a few other TECHNICIANS. Naked ambition courses through him.</context>
+      <utterance>Yes... We appreciate that... I just hope the information has come in time to clear the bridges... Thank you, sir.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whether or not they can stop the bridge attack, we came up with the intelligence. And that virtually assures all of our futures. This is just the beginning, guys.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>TO GOODWIN</mode>
+      <context>Goodwin opens an envelope and slides out a CITATION.</context>
+      <utterance>You did a great job, Goodwin. You operated our captain with skill and professionalism. What's that you have?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Army investigated Colter's helicopter crash in Iraq. Apparently he stayed behind to fly protective cover for a disabled convoy until he ran out of fuel.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's this, then? Some kind of posthumous reprimand for reckless flying?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Something in Goodwin's voice momentarily checks Rutledge's breezy good humor.</context>
+      <utterance>No. It's the Silver Star.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Send it on to his father. It'll ease the pain of his son's death.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought I might inform the captain of the citation.</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="6">
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Better not. We can't risk acquainting him with the citation in case the memory wipe isn't entirely clean.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The memory wipe?</utterance>
+   <speaker>TECHNICIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought we were going to let him die.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know, I know. But now the Director of National Intelligence is sure to want a closer look at our program, and until we train up another candidate, we'll need to keep Colter around to demonstrate it.</utterance>
+   <speaker>TECHNICIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>Rutledge walks away. The technician gives Goodwin a look of disgust. Goodwin carefully replaces the citation into the envelope.</context>
+      <utterance>This thing is much bigger than any one of us. Goodwin, please clear Colter's memories and re-initialize Source Code.</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="7">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How are you feeling? Are you comfortable?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just do it.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come again?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Goodwin stares at his hands. Unmoving.</context>
+      <utterance>Just do it. I knew they wouldn't let me die. At least you can make me forget all of this. I hope.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you waiting for? You're just doing your job. I'd do the same thing if I was you. At least you've got a shot at saving those people on the bridges.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I doubt it.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't think they'll save them?</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="11">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>An unusually personal statement, coming from Goodwin.</context>
+      <utterance>No. I meant, I doubt you'd be doing this, if you were me.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, someone had to be where you're sitting, and someone had to be in here. Turned out it was you and me.</utterance>
+   <speaker>COLTER</speaker>
+      <mode>THEN</mode>
+      <context></context>
+      <utterance>Just do it. I'm tired.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Colter's not sure he heard him right.</context>
+      <utterance>Would you like to see Christina again? One last time?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't understand.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seventeen minutes. That's all I could give you. No mission to fulfill. Just... the two of you.</utterance>
+   <speaker>COLTER</speaker>
+      <mode>STUNNED</mode>
+      <context></context>
+      <utterance>Why would you do that?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As a favor. One prisoner to another.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Prisoner?</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>An odd sensation comes over Colter.</context>
+      <utterance>You were right. About me. And about Source Code. We've kept too much from each other.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>His call? They share a long look.</context>
+      <utterance>I usually report in at 0600. Today I was there early. I was there when the call came in. Your call.</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="9">
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Goodwin just smiles.</context>
+      <utterance>No... There's no way... There's no way you could have...</utterance>
+   <speaker>COLTER</speaker>
+      <mode>PROTESTING</mode>
+      <context></context>
+      <utterance>How? The Source Code was a parallel world! You told me so! It's hermetically sealed. Nothing I did on that train would have any effect on this reality!</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were on the train. I was not.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But...</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We didn't know if any bleed- throughs could occur. The implications would be staggering. That's why you were told to avoid unduly influencing events.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're saying I could have saved those people?!</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Not in our world. The time currents are too strong. But minor alterations, here and there, a phone call, say, those might slip through. We didn't know for sure. But you proved it. Colter is thunderstruck. Unable to grasp it.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been thinking about the things you said on that call. As the day passed, the more I understood them. And now, I guess we've caught up to each other.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Man. Just when I think I understand this...</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="4">
+   <speaker>GOODWIN</speaker>
+      <mode>NERVOUS</mode>
+      <context></context>
+      <utterance>There's not much time. They think I'm re-initializing the system. One last look at her. That's all I can give you. If that.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They'll nail your ass for this.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>The strange path of their relationship. Ending at last at simple, grudging respect.</context>
+      <utterance>If I had any feelings, I'd worry about that. But, as you've maintained, I do not.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Roger that.</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="3">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is Beleaguered Castle signing off. Acknowledge final transmission.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Final transmission acknowledged.</utterance>
+   <speaker>COLTER</speaker>
+      <mode>BEAT</mode>
+      <context>Goodwin interrupts his preparation for a last look at Colter. The noise gets louder. The capsule begins to shake. Colter touches the monitor. His fingers imparting to the last image of his world a quiet benediction.</context>
+      <utterance>Thank you, Goodwin.</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="2">
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>He listens. His face darkens.</context>
+      <utterance>This is Rutledge.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>He SLAMS down the phone and starts RUNNING.</context>
+      <utterance>Shit.</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="4">
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is this? Who authorized this?</utterance>
+   <speaker>TECHNICIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We don't know, sir. But Source Code is up and running again.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>The chair at the console is EMPTY.</context>
+      <utterance>Where's Goodwin?</utterance>
+   <speaker>TECHNICIAN</speaker>
+      <mode></mode>
+      <context>A DIGITAL CLOCK ticks down from 17 minutes: 15:28... 15:27...</context>
+      <utterance>No idea, sir.</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="7">
+   <speaker>OPERATOR</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>9-1-1. What is the nature of your emergency?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut it down.</utterance>
+   <speaker>TECHNICIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir?</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>The technician hesitates.</context>
+      <utterance>Shut down the Source Code. Right now.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>CONT'D</mode>
+      <context>Rutledge sits down at the controls.</context>
+      <utterance>Fine. I'll do it myself.</utterance>
+   <speaker>TECHNICIAN</speaker>
+      <mode></mode>
+      <context>Rutledge gives a dismissive snort. And yet he pauses.</context>
+      <utterance>I wouldn't do that.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And why not?</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="5">
+   <speaker>TECHNICIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've never interrupted Source Code in mid run. We'd have to literally pull the plug. It could damage the processors.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let it finish, then. No harm in that, I guess.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>OMINOUS</mode>
+      <context>Rutledge picks up a phone.</context>
+      <utterance>All of you are in deep shit, I promise you. As for Goodwin, he'll never make it off this base.</utterance>
+   <speaker>TECHNICIAN</speaker>
+      <mode></mode>
+      <context>Rutledge considers. And then catches on.</context>
+      <utterance>I don't think that's where he's headed.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>Looks up at the technician. Grows more and more uneasy. Snapping his attention back to</context>
+      <utterance>He wouldn't.</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="2">
+   <speaker>COLLEGE STUDENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, you dropped this.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context>Keeping his composure, Derek accepts the wallet. Colter steps aside, allowing them to pass. Allowing it all to happen. The station slides into view. No one on the platform.</context>
+      <utterance>Wow. Thanks.</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="6">
+   <speaker>THROUGH THE OPEN DOORS</speaker>
+      <mode></mode>
+      <context>Derek's jaw tightens. He changes course, heading instead for an outdoor stairwell. Coming UP the stairs, however, are more POLICE OFFICERS. Wheeling around, Derek heads the other way. Walking faster, but keeping his head. Not running, not panicking. The train, oddly, is still sitting there. As he nears the other end of the platform, MORE OFFICERS appear from behind columns, cutting off his escape. The police are coming from all sides, converging on the platform. Yet no one panics. No one runs. Finally --</context>
+      <utterance>In station lobby are POLICE OFFICERS.</utterance>
+   <speaker>POLICE COMMANDER</speaker>
+      <mode>CALLING OUT</mode>
+      <context>Derek goes to get back on the train. The doors, however, SLIDE SHUT in his face. Through the closed doors, Derek looks in at Colter, still on the train. They stare at one another through the window.</context>
+      <utterance>Derek Frost.</utterance>
+   <speaker>POLICE COMMANDER</speaker>
+      <mode></mode>
+      <context>An entire PHALANX OF POLICE OFFICERS is on the platform.</context>
+      <utterance>Mr. Frost. Please turn to face us.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context>Unseen by the officers, Derek has taken out his CELL PHONE and is DIALING IT as he turns around. The police approach, cautiously.</context>
+      <utterance>Of course. What's this about?</utterance>
+   <speaker>POLICE COMMANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Place your hands in the air.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context>Raising his hands, he pushes SEND on his phone. On board the train there's a RINGING.</context>
+      <utterance>My pleasure.</utterance>
+</dialogue>
+
+<dialogue id="128" n_utterances="3">
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to know who reprogrammed this lock. And if you don't get this open in ten seconds I'll see that you're busted back down to private.</utterance>
+   <speaker>LOCKSMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm already a private, sir.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>The key pad goes GREEN and the pressure lock releases. Rutledge tears open the door.</context>
+      <utterance>Just open it! A man's life is at stake.</utterance>
+</dialogue>
+
+<dialogue id="129" n_utterances="4">
+   <speaker>MEDIC #1</speaker>
+      <mode></mode>
+      <context>Goodwin removes the patch on his uniform to reveal the insignia of a major.</context>
+      <utterance>Sorry, I can't let you pass.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Step aside. That's an order.</utterance>
+   <speaker>MEDIC #1</speaker>
+      <mode></mode>
+      <context>BAM! Goodwin drops the Medic with a splintering HEADBUTT.</context>
+      <utterance>We all know your rank, Goodwin, but I have explicit orders from Rutledge not to --</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm glad you know my rank. Were you also aware I'm in the Special Forces?</utterance>
+</dialogue>
+
+<dialogue id="130" n_utterances="6">
+   <speaker>COMPUTER ENGINEER</speaker>
+      <mode></mode>
+      <context>People mill about waiting for the buses, groaning and complaining. Christina accosts a passing transit employee.</context>
+      <utterance>No!</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>The transit employee ignores her and walks away.</context>
+      <utterance>What now? How do we get to work? You guys have some busses or something?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She stands there in exasperation. This whole thing has been designed to thwart her. Nearby, Colter sits on a bench.</context>
+      <utterance>Hey! I'm talking to you!</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Looking over, she notices him.</context>
+      <utterance>Ain't life grand?</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. Now I'm going get fired for being late.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She gives him a sharp look.</context>
+      <utterance>Maybe that's a good thing.</utterance>
+</dialogue>
+
+<dialogue id="131" n_utterances="2">
+   <speaker>LOCKSMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give me twenty seconds.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>Rutledge looks at HIS WATCH. It reads 52 SECONDS.</context>
+      <utterance>Make it ten.</utterance>
+</dialogue>
+
+<dialogue id="132" n_utterances="3">
+   <speaker>CLOSE ON - COLTER'S WATCH</speaker>
+      <mode></mode>
+      <context>His work is done. He's saved her. Saved them all. At least this one time. Only she doesn't know that. Christina stands there, arms crossed, scowling at the parking lot.</context>
+      <utterance>It also reads 52 seconds.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could this day get any worse?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That train was taking you to a place you didn't want to be. But then you got off. And maybe that's a sign.</utterance>
+</dialogue>
+
+<dialogue id="133" n_utterances="2">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She takes out her cell phone. The stress of her day.</context>
+      <utterance>Yeah. If only.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Colter watches her, a quiet ache inside. Maybe some people don't want to be saved.</context>
+      <utterance>I'm calling a cab. Maybe I'll only be somewhat late for work.</utterance>
+</dialogue>
+
+<dialogue id="134" n_utterances="4">
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>Goodwin's hand goes to the switch to shut off life support. His eyes on the clock. It reads 30 SECONDS.</context>
+      <utterance>Thank you for your service. Time to go home.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She turns. Colter gets up.</context>
+      <utterance>Hey.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>She's taken aback. He starts walking off.</context>
+      <utterance>You can do anything you want with your life. Starting right now.</utterance>
+   <speaker>CAB DISPATCH</speaker>
+      <mode>V.O.</mode>
+      <context>A long beat as she watches him.</context>
+      <utterance>Metro Cab Dispatch.</utterance>
+</dialogue>
+
+<dialogue id="135" n_utterances="5">
+   <speaker>CAB DISPATCH</speaker>
+      <mode>V.O.</mode>
+      <context>Beat. Is she crazy? She's baffled by her own action. And by this unusual guy here.</context>
+      <utterance>Hello...? Click. She shuts her phone.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Colter turns. She crosses her arms archly.</context>
+      <utterance>Wait.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>She waits for his response. Uneasy at putting herself out there. Colter's watch ticks down to the final seconds. His last moments in this world. He has only time enough for a final look of reassurance.</context>
+      <utterance>You can't just expect someone to change her life just like that. At the very least... you'd have to buy that person coffee and explain your reasons.</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>Disappointment flickers on her face. She turns to go. Behind her is a STONE WALL. A BICYCLE is parked against it. Colter's breath catches in his throat. This is it! This is the mysterious scene he's been seeing! HIS WATCH - Hits ZERO.</context>
+      <utterance>Maybe some other time.</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>Goodwin backs away from the gurney, hands in the air. The BEEPING has given way to a MONOTONE. All of Colter's vital signs have FLATLINED.</context>
+      <utterance>Arrest him!</utterance>
+</dialogue>
+
+<dialogue id="136" n_utterances="8">
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>Rutledge frantically goes to reconnect the machines -- but Goodwin has turned off too many of them.</context>
+      <utterance>He's dying...!</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>But the MPs just stare at the appalling sight of Colter's exposed brain.</context>
+      <utterance>Get a medical team in here! Move!</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode>SHRIEKING</mode>
+      <context>No one moves. Rutledge rashly grabs for one of the MP's rifles.</context>
+      <utterance>What are you standing there for?! Do it! We can save him!!!</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess force is the only thing you people understa --</utterance>
+   <speaker>MP</speaker>
+      <mode></mode>
+      <context>The MP has leveled his rifle at Rutledge. Who steps back, aghast. His authority has vanished with Colter's life. Goodwin shuts off the monitors. Silence fills the room. Colter is dead. Rutledge stares sorrowfully at Colter's body. Then at Goodwin with burning hatred.</context>
+      <utterance>Back away, sir, now!</utterance>
+   <speaker>RUTLEDGE</speaker>
+      <mode></mode>
+      <context>Goodwin offers his hands to the MP.</context>
+      <utterance>You're a murderer.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>But the MP does nothing.</context>
+      <utterance>Go ahead and arrest me.</utterance>
+   <speaker>GOODWIN</speaker>
+      <mode></mode>
+      <context>They part as he walks out of the room. A look of grim satisfaction on his face.</context>
+      <utterance>I'll be around. Whenever you want me.</utterance>
+</dialogue>
+
+<dialogue id="137" n_utterances="3">
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Colter turns to her. How can this be? He's afraid to even speak. As if that alone could break the enchantment. But the world is here. It goes on. That's all he knows. Finally he swallows. Finding his voice.</context>
+      <utterance>You okay?</utterance>
+   <speaker>COLTER</speaker>
+      <mode></mode>
+      <context>This pleases Christina, although she tries not to show it.</context>
+      <utterance>You're right. The least I can do is buy you coffee.</utterance>
+   <speaker>CHRISTINA</speaker>
+      <mode></mode>
+      <context>Walking forward, he joins her. The two of them disappear down the tunnel. A beautiful morning.</context>
+      <utterance>Okay, well, come on then.</utterance>
+</dialogue>
+
+
+</movie>

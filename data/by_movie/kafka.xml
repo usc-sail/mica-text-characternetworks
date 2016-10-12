@@ -1,0 +1,2388 @@
+<movie id="326" title="Kafka">
+
+<dialogue id="1" n_utterances="15">
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context>Kafka turns to see BURGEL, a creep.</context>
+      <utterance>Kafka.</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The keeper of the files is still waiting for your final summation of the Erlanger claim.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I gave it to him yesterday.</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't give it to</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you see him?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've never seen him. I don't believe there is a keeper of the files.</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's usually in the storage room sorting things out. He can't close the file on a case until he has the concluding report.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He has it, he just hasn't noticed it yet, all right?</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context>Burgel just won't go away. Kafka tries to get on with his work.</context>
+      <utterance>Who's to say he ever will? He's a timid old man and quite careful not to tread on anyone's toes -- In fact, I'm the only one he trusts and he wouldn't even look at a document if it didn't first come through me.</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In an organization as efficient as ours, if a document once in a great while gets lost it might never be found at all.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Burgel, I thought it would be easier, as long as I was passing --</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When I deliver a message the very act of delivering it, you might say, gives it an official stamp, and only in this way are both the sender and the receiver satisfied that it was delivered at all.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>They stare at each other with mutual antagonism.</context>
+      <utterance>I'll commit that to memory.</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context>He waddles away.</context>
+      <utterance>Your position in this firm is not unassailable.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="3">
+   <speaker>BIZARRE VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry to disturb you -- I wonder if you know where my friend Eduard is?</utterance>
+   <speaker>BIZARRE VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't hear you! -- You'd better come in.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="3">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- I didn't want to bother you.</utterance>
+   <speaker>CONCIERGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you have. What do you want?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My friend Eduard, I wonder if you've seen him? He hasn't been in to work, I thought he might be ill.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="2">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't have to get out of bed -- I could have taken the key.</utterance>
+   <speaker>CONCIERGE</speaker>
+      <mode></mode>
+      <context>She treats him like dirt.</context>
+      <utterance>Yes, I'm sure you could.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="3">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The Concierge takes a tie from one of the drawers and models it over her own ample chest.</context>
+      <utterance>Well, he's not here.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>She looks at him indignantly.</context>
+      <utterance>Do you think you ought to do that?</utterance>
+   <speaker>CONCIERGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The manners of a tramp! It's my house, isn't it?</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="9">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>GABRIELA looks around from a file cabinet.</context>
+      <utterance>Miss Rossmann?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm Kafka -- I work upstairs in Accident --</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a friend of Eduard Raban's.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why would you suppose so?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh -- well, I thought he once mentioned --</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>He follows her to a counter where someone stamps the document she thrusts forward without even glancing at her or it.</context>
+      <utterance>One of you must be mistaken.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, but I just wondered --</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>Kafka watches her go -- then notices some smarmy young clerks giggling over what they suppose was a romantic rebuff.</context>
+      <utterance>Excuse me, I have to copy this for Central Docketing by 2:30.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="22">
+   <speaker>MARGARETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- This is our friend Anna who works with us on the magazine.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Kafka cringes.</context>
+      <utterance>I've been hearing all about you.</utterance>
+   <speaker>ERNST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry, Kafka -- I championed your virtues.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd like to hear them.</utterance>
+   <speaker>JULIUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anna's new to the city -- we wouldn't frighten her needlessly.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've lived all my life in this city -- it frightens me. As it draws me closer into its web.</utterance>
+   <speaker>STELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- This is an ancient lament.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, but do you realize why? -- it has no</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Even the so-called New Town isn't so new. Only the people. People of the future living in buildings of the past.  Has anyone seen Eduard?</utterance>
+   <speaker>MARGARETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who? My friend Eduard from the office -- I've brought him here lots of times -- you used to marvel at his travel stories.</utterance>
+   <speaker>JULIUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, him.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What d'you mean, oh him? He's a perfectly nice person, he's never missed a day before.</utterance>
+   <speaker>ERNST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps he's taken up with those traveling players you two were so fond of.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, it's me who always wanted to run away with them -- except that that life would be far too hectic for me. I'm worried about him, no one's seen him.</utterance>
+   <speaker>STELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Haven't you ever called in sick and gone roaming about, free of responsibility to anyone, if only for a day?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When you work for a medical firm you can't call in sick. They know malingerers like a dog knows fleas.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You work in the insurance department?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have been hearing the sordid side then.</utterance>
+   <speaker>MARGARETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be pleased -- you constantly inspire people to take an interest in your life.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Kafka shrugs shyly.</context>
+      <utterance>I should think it's very interesting work.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My father always said I had no ambition.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="3">
+   <speaker>STELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The cabaret will be packed this time of night -- we'll never get in.</utterance>
+   <speaker>JULIUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it has to be the cabaret because there's nowhere else to go.</utterance>
+   <speaker>MARGARET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Home, I think.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="4">
+   <speaker>ERNST</speaker>
+      <mode></mode>
+      <context>Bizz1ebek turns round again, with a bored sign.</context>
+      <utterance>Bizzlebek has ways and means denied lesser mortals. It comes from working in the cemetery all day -- he's able to transcent the physical world.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context>He looks about, characterizing various coffee house types:</context>
+      <utterance>No -- it only makes me view people dispassionately as so many ... slabs.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context>It's GABRIELA from the office. Kafka is surprised to see her, instinctively walking over to where she's sitting at a far table.</context>
+      <utterance>Quartz ... slate ... gravel ... granite ... flint ...  Marble.</utterance>
+   <speaker>JULIUS</speaker>
+      <mode></mode>
+      <context>Anna smiles. She's interested in Kafka. (Which means we must see this warm attractive girl as a threat, a curse, a trap!)</context>
+      <utterance>My God, look, he's marching forward willingly to make human contact.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="4">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've never seen you here before.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>Kafka feels as awkward as she knows he feels. He looks to her friends, expecting an introduction, but no one makes a move.</context>
+      <utterance>Have you looked?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well -- nice to know life exists outside the office.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>Kafka nods goodbye and walks away, berating himself for banality.</context>
+      <utterance>Yes.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="11">
+   <speaker>OUTSIDE - NIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kafka resists going along with the others.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, really, I have to go home too.</utterance>
+   <speaker>MARGARETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're keeping him from his true vocation.</utterance>
+   <speaker>JULIUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know, he</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where do you live?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>He gestures in the direction of the River, and the castle that looms on a far hill beyond, huge and brooding, regally dominating the city.</context>
+      <utterance>Up there.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>(The majesty of marriage is what he fears she represents. This innocent scene could very well be a subjective Kafkaesque nightmare as sinister in its own way as any of the more outright horrific scenes to come.)</context>
+      <utterance>I tried finding a place on Castle Hill when I arrived. I wanted to share the majesty.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's only majestic from here. When you get closer you see it for what it really is.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it really?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A glorified office block. They keep all the old records there -- the final resting place for facts and figures that have ceased to matter in the world of the living.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>(The castle of marriage</context>
+      <utterance>Well, as long as I admire it from afar it shouldn't worry me if it's hollow.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="3">
+   <speaker>MARGARETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry about your friend -- I'm sure he'll turn up.</utterance>
+   <speaker>ERNST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you working on, Kafka?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>His friends glance at each other surreptitiously and don't know what to say -- other than goodnight</context>
+      <utterance>I'm writing a story about a man who wakes up one morning to find himself transformed into a giant insect.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="8">
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've read your stories. They're fantastic.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know what you could have read.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just what you've published.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- In magazines nobody reads.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I read the one about the penal colony.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you?</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context>Kafka suspects he's being mocked. But perhaps not. Bizzlebek steps out, buttoning his coat.</context>
+      <utterance>The needles inscribing the judgement into the flesh of the man.  Very good.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context>He's already quite proud of himself -- tossing his scarf over his shoulder with a flourish -- and striding off into the night.</context>
+      <utterance>If I could sculpt as well as that, I'd be quite proud of myself.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="5">
+   <speaker>SECOND MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know him?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Yes.</utterance>
+   <speaker>FIRST MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His name is Eduard Raban?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>And now he hears a stirring in a dark corner. He looks up again. A third man steps out of the shadows where he's been quietly standing and walks over to Kafka. He is a severe man, stolid, dedicated, and never smiles. He reminds Kafka of his father.</context>
+      <utterance>... Yes.</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Inspector Grubach.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="28">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kafka -- is that your real name?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Yes, of course -- why wouldn't it be?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When was the last time you saw Mr. Raban?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wednesday. We left the office together.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you go anywhere afterwards -- to have a drink perhaps?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, we said goodbye outside the building. He went off, as usual, toward his house.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your office is the Workmen's --</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Accident and Compensation Association.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where you've been employed for seven years.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eight -- and seven months.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Engaged in the manufacture and distribution of ... pills and so forth.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well -- other departments are, yes.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you describe your relationship with the dead man as close?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Since he came to the office, almost three years ago, we've been quite good friends.  How was Eduard ...</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was found in the River. Could he swim?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was he depressed?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. He didn't seem to be. Do you think he drowned himself?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Grown men don't normally fall into the river, do they?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I suppose not.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He might have had a drink or two, despite what you think.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I ask -- how you found me?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His landlady knew of no other friends to refer us to.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>He had no family either.</context>
+      <utterance>I don't think he really had any.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Pause.</context>
+      <utterance>We know that.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He wasn't a lonely man, though.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What makes you think so?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Just a perception.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="5">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Pause.</context>
+      <utterance>I don't usually involve myself with you people in the Old Quarter -- but the River runs its own course. It won't be the last time it deposits its unwanted debris on my doorstep.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Probably not.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyway, I'd like you to reflect that in me you have -- I won't say a friend, because we're complete fencers, of course -- from distinctly incompatible social classes -- but to some extent, shall we say, an interested third party.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll bear that in mind.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>He nods curtly at Kafka, and shuts his door.</context>
+      <utterance>-- Should you happen upon anything that might be relevant.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="24">
+   <speaker>CHIEF CLERK'S OFFICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kafka comes in.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wanted to see me, sir.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context>Kafka does. And the Chief Clerk stands up. He paces up and down a bit, making Kafka awfully nervous before he finally clears his throat and starts to get to the point.</context>
+      <utterance>Sit down, Kafka.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've been with the firm for nearly nine years. You've done your work diligently, there are no complaints on that score. But there's more to the job than the work -- there are other people to consider -- and frankly, Kafka, we eel your social situation could bear improving.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... My ... social situation?</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context>The Chief Clerk, towering over him, also reminds Kafka of his father. Kafka tries putting up a defense.</context>
+      <utterance>You keep too much to yourself -- you're a lone wolf. It makes me uneasy, and if it makes me uneasy I can't imagine the impression you make on lesser employees.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To do my work well, I have little time for --</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You must make the time. Where do you go off to in the lunch hour?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I usually take lunch by the River.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not healthy, Kafka -- not for you and not for your workmates. At the annual dinner this month you again failed to make an appearance.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did not realize it was obligatory.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you never wondered -- and I mention this only in passing --  why other clerks have advanced to more responsible positions while you, who have been here longer, have not?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, sir.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Attitude, Kafka. It doesn't matter how well you do your work -- you still see it as something to be gotten on with rather than something to take an active interest in.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I --</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I know you got along with that poor fellow -- what was his name?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Eduard --</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context>Kafka merely nods, starts to get up.</context>
+      <utterance>-- Yes -- Raban -- but he was too much like you -- even more so perhaps. He wasn't here as long as you, so I didn't know him as well -- but I could see the influence he was having. I simply want you to be aware of this because you'll be happier for it.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context>Kafka sits back down in the chair.</context>
+      <utterance>In any case -- don't ask me why -- the word has come down you're to be promoted.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context>Kafka nods once, starts to go again.</context>
+      <utterance>Your colleague's death has helped precipitate the need, though I can tell you it's been under consideration for some time. You're to be given two assistants and a commensurate rise in salary.  That's all.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context>Kafka turns.</context>
+      <utterance>Kafka.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I understand you fancy yourself an author.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In a small way.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context>He returns to his paperwork. Kafka leaves.</context>
+      <utterance>You might find a more athletic hobby -- put some color in your cheeks.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="9">
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good morning --  Or should I say good afternoon?</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say what you like -- no one pays the least attention.</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, don't they? I think you underestimate my station in this office and overrate your own.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not today, Burgel. Send one of your memos, write up one of your communiques, but for God's sake don't bother me today.</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's my place to offer advice, not yours -- and by advising the Chief Clerk of your unpunctuality it's certainly not my situation that's compromised, if that's what you're implying.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're just doing your job.</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's what I'm paid to do.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're detestable.</utterance>
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context>Suddenly, in a terrific release of pent-up emotion, she slaps him hard across the cheek, the first of what would be a flurry of blows if not for the fact that the unexpected force of it throws Burgel reeling backwards before she can deliver any more. Instead she rushes away, very upset.</context>
+      <utterance>And you're late!</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="10">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My assistants, I presume.</utterance>
+   <speaker>ASSISTANTS</speaker>
+      <mode></mode>
+      <context>Kafka smiles at them, half in friendliness, half in amusement at their quirky appearance.</context>
+      <utterance>Yes -- that's us.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Oskar responds first, but Ludwig knocks his hand out of the way to get there first.</context>
+      <utterance>I'm Kafka.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ludwig.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oskar.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You look like brothers.</utterance>
+   <speaker>ASSISTANTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes -- we do.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you worked here long?</utterance>
+   <speaker>ASSISTANTS</speaker>
+      <mode></mode>
+      <context>Kafka doesn't quite know what to make of these two, but they seem pleasant enough fellows and they're looking at him with such wide-eyed innocence he doesn't know what more to say to them. So he turns to look around the new area he's been assigned -- a burrow all to himself now -- even a personal clothes peg on the wall for his coat. The Assistants make stupid faces at each other behind his back, but look serious again when he turns around.</context>
+      <utterance>No, no, no -- quite a long time, yes.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, we'd better move things from my old desk.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="2">
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>Kafka looks up at her. He nods.</context>
+      <utterance>Eduard and I had lunch together one day ... and you saw us.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On the Embankment.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="12">
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was having an affair with Eduard.  He didn't tell you?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He would have. You were his best friend. A better friend than me.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suspected that he -- well.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That he was -- satisfied in that regard. I didn't want to pry.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>Kafka lets out a smile at that. Gabriela is suspicious of smiles.</context>
+      <utterance>It's not that we wanted to deceive anyone -- but you know how these things are looked upon at the office.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's funny?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This morning it was suggested to me that my own sense of office fellowship could bear improving.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>The gnarled, barren branches of a nearby tree shiver over the two of them.</context>
+      <utterance>As long as it's on their terms. If your work and your private life don't correspond to their specifications you're labelled a dangerous agitator -- with no recourse whatsoever.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long were you and Eduard --</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two or three months, that's all.  -- I seduced him.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="9">
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>Kafka looks at her.</context>
+      <utterance>You know as well as I do that he didn't commit suicide.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I don't. I'm amazed that anyone is able to bear life with any assurance at all.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eduard didn't see it as something that needed bearing.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The police would know the difference, wouldn't they?</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you think people in the New Town care what happens over here?  This will always be the ghetto.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He wasn't robbed. He was identified by his wallet.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you believe everything the authorities tell you.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When I have no reason to doubt.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The very fact that they're authorities should give you reason. People will do anything to protect their own interests. For all you know he was killed at the</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="10">
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Turns back to Kafka.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you free tonight?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tonight?</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are some people I'd like you to meet. Can you come to the Musil district at eight o'clock?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Her eyes lock on his for a moment. She's beautiful. He's fearful.</context>
+      <utterance>... All right.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You almost married recently, didn't you?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Last year. I -- it was broken off.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eduard wanted to marry me.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you ...?</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm suspicious of men who want to marry. I believe they think it's the only thing that will make them equal to their fathers.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="2">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- I don't know the Musil district.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You won't have any trouble finding it.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="49">
+   <speaker>VOICE FROM BEHIND</speaker>
+      <mode></mode>
+      <context>Kafka turns to see the last of the group come in, having obviously tailed him all along. A burly man with a BEARD. The leader of this anarchist cell. Kafka sits down, in between a SOLEMN man with a moustache and a woman with a POCKMARKED face. The seedy YOUTH who led him in completes the circle.</context>
+      <utterance>Please sit down.</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll save the introductions.  We don't know yet if you're friend or foe.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Strangers make better foes than friends. Will you tell me who you are altogether, if not individually?</utterance>
+   <speaker>POCKMARKED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heralds of a new age -- does that sound immodest?</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could say we represent the</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're ubiquitous. What we try to do ... is make them a little less so.</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Quite a disturbance tonight, yes? And perhaps you recall last month -- the explosion at the Municipal Courthouse that sent one of the examining magistrates to join the heavenly choir.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Was Eduard one of you?</utterance>
+   <speaker>YOUTHFUL ANARCHIST</speaker>
+      <mode></mode>
+      <context>Gabriela darts a fierce look at her overly-flippant colleague. And Kafka is sad about his dead friend for a different reason.</context>
+      <utterance>The last to join us, the first to leave us.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Why take me into your confidence?</utterance>
+   <speaker>POCKMARKED ANARCHIST</speaker>
+      <mode></mode>
+      <context>After a moment's pause, Kafka stands up.</context>
+      <utterance>That's obvious, isn't it? We have an opening for a new member.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I nominated you as a possible candidate. You were Eduard's good friend. He read me some of your work.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've hardly published enough for anyone to draw conclusions from.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You strike me as a man with a defined notion of injustice -- a high concern for the lot of your fellow men. And yet you're able to remain an outsider. With the concomitant air of ... superiority?</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context>Kafka notices that the Bearded Anarchist has a tattoo on the back of his hand.</context>
+      <utterance>In short, a higher man. It's what we want. It's what we need.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The distance to my fellow man is for me quite a journey. As for being an outsider, it's never been a matter of choice.</utterance>
+   <speaker>YOUTHFUL ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- They may have instituted proceedings against you.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What proceedings?</utterance>
+   <speaker>POCKMARKED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Preliminary investigations may already be underway.</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context>Kafka sits down again. He tries not to be distracted by the Solemn Anarchist who says nothing but who takes an uncommon interest in seeing how many matches there are in the matchbox he's been fiddling with.</context>
+      <utterance>You were his friend. One link is all they need.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The day he died, Eduard was called up to the Castle. Did you know that?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What of it?</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was summoned to help correct a minor discrepancy of some sort in the Medical Records Division. Apparently one of his claims was relevant.</utterance>
+   <speaker>POCKMARKED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Merely in the interests of order, you understand. The officials at the Castle like to cover their tracks.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was never seen alive again.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>That he was murdered.</context>
+      <utterance>And you still maintain -- what?</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>A skylight casts moonglow over the proceedings.</context>
+      <utterance>He was murdered.</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As you can imagine, a pass into the Castle -- hardly ever granted -- was an opportunity we couldn't ignore.</utterance>
+   <speaker>YOUTHFUL ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Castle represents every anachronism that needs to be destroyed if progress is to be made.</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As you know, it's not the most accessible location. Far from being depressed, Eduard was particularly excited when he brought us the news of this chance invitation. He set off that evening carrying one of our custom-made briefcases instead of his own.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're shocked at the thought of Eduard tossing a bomb through a window.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have no right to be, I know. My experience with real life is practically nil.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When you only see someone sitting at a desk all day, it's liable to create a false impression.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>People must think the same of me -- a quiet, dependable person.</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't have to accept everything as true, my friend. You need only accept it as necessary.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As the bomb never went off, we can only assume he was caught with it -- and summarily executed.</utterance>
+   <speaker>POCKMARKED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Merely in the interests of order.</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The formality of a trial would be too costly for them. They're beginning to understand that it's the ensuing news of our actions that incites support.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Propaganda of the dead?</utterance>
+   <speaker>YOUTHFUL ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Castle will deny he was there any longer than his business required. They're just file clerks up there. No doubt he was handed over to the police with the utmost discretion.</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In any event, we've felt no repercussions as yet. Eduard must not have talked. You're the one they contacted.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The Solemn Anarchist looks up from his matchbox.</context>
+      <utterance>So that's who my foes are -- policemen and file clerks. Law and order, you might say.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think what we're doing is so wrong? And what are you doing? Pursuing goodness? For what? To answer to some supreme tribunal?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My only concern is the human tribunal. Isn't it yours?</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes -- which is why "quiet, dependable people" have to take charge of their own lives.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>He stands to leave again.</context>
+      <utterance>At the cost of others? You accuse people of murder without trial -- apparently without irony. Did you go to the Castle with Eduard?  Then you have no idea what really might have happened that night at all -- even before or after he got there.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your human tribunal will betray you. Just as its members will be betrayed when they find no supreme one Kafka starts walking away.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>Kafka keeps on going, the anarchists growing smaller as they're left behind in their far corner of the long attic.</context>
+      <utterance>Join us, Kafka.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's sheer folly for anyone to try to pull through alone.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="18">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>At this sign of sympathy they immediately scuttle their chairs closer to him.</context>
+      <utterance>How was your evening?</utterance>
+   <speaker>ASSISTANTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine -- terrible.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was the matter with it?</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He can't sit still. Just when we arrive at a nightclub he wants to go to another one.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You look tired.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gabriela Rossman was here looking for you. Do you know her?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you?</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context>He elbows Ludwig violently.</context>
+      <utterance>We saw her naked once -- didn't we.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Women are all you have on your mind!</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She went to the roof to sunbathe one lunch hour -- we watched her changing.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't realize you'd been here that long.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean because it's been a while since there was a sunny day? What a good detective you are.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They keep switching us from department to department. He doesn't mind because he can't sit still.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We used to be in the supply section, carrying boxes of medicine about but we dropped too many of them.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context>Kafka stands up, pleased for them in their innocence.</context>
+      <utterance>It's not too bad working here.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The Assistants look at each other, perplexed by this attitude.</context>
+      <utterance>You don't think it's a horrible double life from which there is probably no escape but insanity?</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>He starts to go.</context>
+      <utterance>I'm glad for you.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="2">
+   <speaker>BURGEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you looking for Gabriela Rossmann?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Burgel bows sarcastically to hand Kafka an envelope. Then chuckles spitefully, obviously knowing something Kafka does not. He walks off, leaving Kafka uneasy.</context>
+      <utterance>Yes.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="2">
+   <speaker>EDUARD'S LODGING HOUSE - DAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kafka bounds up the stairs.</utterance>
+   <speaker>EDUARD'S LANDING</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The door to his room is open. Kafka goes in.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="9">
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm collecting Eduard's things. If there's anything you want, take it or I'll give it to charity.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Burgel gave me this -- what does it mean?</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Burgel! -- I didn't leave it with him.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why were you given notice?</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're not obliged to tell.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It couldn't be for that incident with Burgel the other day.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course it could -- Burgel's been trying to get me thrown out as long as I can remember.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>She's stuffed the last of the clothes into a small bag, goes to take the few other possessions from shelves and elsewhere. Kafka notices that he's standing by a dumbwaiter. For lack of anything better to do he pulls the rope to bring it up. It's filled with more clothes. Gabriela comes over with her bag, holding it out for him as Kafka puts the clothes in -- but not as many clothes as they thought. Behind the bundle, hidden at the back, is a briefcase. Gabriela recognizes it. Kafka sees her surprised reaction. He removes the case and carefully flips the latches. Inside, a complex mechanism, wires connected to a clock -- and a clump of dynamite. Kafka just looks at it sadly. He closes the case.</context>
+      <utterance>I wouldn't put it past him.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It seems I knew Eduard a little bit, after all.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="23">
+   <speaker>CONCIERGE</speaker>
+      <mode></mode>
+      <context>She slams the door on him then returns to her own apartment, slamming that door too. The hallway is empty now.</context>
+      <utterance>Lodgers! Not one of them thinks to spare me such spectacles!</utterance>
+   <speaker>EDUARD'S ROOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gabriela turns to Kafka.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You might think -- I thought so myself at first -- that Burgel's too insignificant to be dangerous. But that's the very reason to beware! It's the small men to watch out for -- the ones who substitute method for character.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now you've fallen into his trap. When he goes to bed at night Burgel dreams of inspiring as much fear in others as they inspire in him.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>She's got his number. He's so in awe of her he has to turn away -- looking out the room's small window.</context>
+      <utterance>It's still easier for you to understand suicide, isn't it.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That street down there -- I always used to call it the approach road for suicides. It leads straight down to the bridge and the River.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Burgel hated Eduard. And me. I'm sure he knew about us -- and I'm sure it drove him mad.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Burgel doesn't like anybody!</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He used to like me -- very much more than I liked him.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's jealous, yes, but</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now you're saying Eduard was lured there?</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How often does one of our clerks have business in the house of records?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've heard of it happening.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And Burgel is the bringer of messages, isn't he?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Putting the bag down, Gabriela goes closer to Kafka, so close he almost cowers.</context>
+      <utterance>Usually.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or what if there really</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What seems important to these people is not determined by the amount of work it entails -- you're far from understanding the authorities if you believe that.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>She turns away from him, reddening.</context>
+      <utterance>Now Burgel's one of the authorities?</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For all his big talk he is. Does he really have access to the Directors of the firm as he always claims? -- or only the Deputy Managers -- people of no importance whatsoever. Someone ought to follow</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>She takes hold of him as if to shake some sense into him -- but really because she needs someone to hold.</context>
+      <utterance>Burgel is only there for one purpose -- to spy on the employees and report any and all indiscretions, real or imagined. If he didn't send Eduard to the Castle, you can be damn sure he's in league with whoever greeted him there.  All those bastards are in league with each other -- why can't you see that!</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Gabriela doesn't seem to be listening. She's looking around. the little room, as if it's someone else she's holding ...</context>
+      <utterance>... I don't see anything. I see a message on its way to me -- with all the right answers. Only it never arrives -- it's always just on its way.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>Her head against his, Kafka tentatively touches her hair and she pulls away, the spell broken.</context>
+      <utterance>Eduard ...</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>She storms out, vehemently picking up her bag on the way out, and slamming the door quakingly behind her. Kafka is too astonished at her behavior to make a move for a moment, then he glances at the bomb-case she's left behind, then he goes out to the landing.</context>
+      <utterance>Your ignorance of the way things are here is so appalling that it makes my head spin to listen to you and compare what you say and have in mind with the real situation!</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="3">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>They've come to the door to the stairs now.</context>
+      <utterance>You said she was extremely upset. People who are extremely upset -- Kafka -- are given to disappearing in a hurry. They go and calm down for a day or so and then they come back.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But that's just my point -- she was more than upset, she was livid. She slammed every door on her way downstairs -- except that one.  I was just behind her and I didn't even hear that one</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The Inspector stares at him. The two other policemen roll their eyes at each other.</context>
+      <utterance>If someone was waiting here in the hallway to spirit her away, wouldn't they have shut the door as quietly as possible?</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="5">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>He says it rather derisively, separating the syllables of the name.</context>
+      <utterance>Why would someone want to kidnap this woman -- the name is Rossmann?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You told me to contact you if anything relevant came up -- Gabriela is relevant. When I spoke to you before I didn't know she'd been seeing Eduard.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's been noted. But where does it lead us? Unless you have something more to add.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The policeman at the dumbwaiter peers down the shaft -- but then moves on.</context>
+      <utterance>She's missing. I went to her house and she hadn't returned there.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>He signals his men, time for them to go.</context>
+      <utterance>She lost her job today. Just between you and me, I'd probably go away and brood a bit myself.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="6">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe it's true then what she said.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did she say?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The two other policemen look at each other ominously. The Inspector turns to them, giving them a look, and they go off down the stairs. The Inspector plods back up to Kafka Like a stern parent. They confront each other, Kafka trying not to cringe too baldly. Scary shadows around the bizarrely-angled stairway.</context>
+      <utterance>That the police may have allegiance to something other than truth.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Pause.</context>
+      <utterance>-- She didn't think Eduard committed suicide.  Any more than I do.  She was convinced of it.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>People treat Kafka like a child. And other people seem big to him anyway. The Inspector leans his face very close.</context>
+      <utterance>I'm going to say something, and I hope it's quite clear because I won't be repeating it.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>He leaves Kafka alone on the top landing.</context>
+      <utterance>We don't have to hunt for criminals. We're drawn towards them. The guilty show us the way.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="2">
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context>Kafka turns and looks at him.</context>
+      <utterance>Where are your friends?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good question.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="12">
+   <speaker>TABLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bizzlebek sits listening to Kafka's tale of woe.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>I'm a practicing suicide.</context>
+      <utterance>Gabriela was right -- it's easier for me to understand suicide.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context>Kafka stares at men and women around the coffee house -- couples, holding hands, kissing.</context>
+      <utterance>-- In what sense?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Pause.</context>
+      <utterance>Bachelorhood is just the slow form. The bachelor doesn't sew seeds. Only the moment matters. The space he occupies grows smaller and smaller -- until the only space right for him is his coffin.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These strange stories you write -- they come naturally, do they?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Naturally? -- that's not the word I would have chosen.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where do you get your ideas?  Only joking -- I'm just joking.  Let's go to a brothel then, Kafka, come on.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't got the energy. I mean, I have to conserve my energy.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do you work in that hideous insurance office? -- dealing with people who fall off ladders. Now take me -- I make my living as a stone mason. It's not my art -- but it's the</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Success or nothing?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>He stares at a woman who reminds him slightly of Gabriela -- a sexy woman and the man with her treating her as a sexy woman.</context>
+      <utterance>No -- not even success. My writing is not for making a living -- it's for living. Not for other people, it's for me.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... I'm the exile. Gabriela was right about that too.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="19">
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context>And the Pockmarked Anarchist is suddenly sitting beside him.</context>
+      <utterance>We have another theory.</utterance>
+   <speaker>POCKMARKED ANARCHIST</speaker>
+      <mode></mode>
+      <context>And the Youthful Anarchist is behind him, thrusting his head suddenly forward.</context>
+      <utterance>We may have attached too little importance to the reason Eduard was summoned to the Castle to begin with.</utterance>
+   <speaker>YOUTHFUL ANARCHIST</speaker>
+      <mode></mode>
+      <context>The Solemn Anarchist is on Kafka's other side -- but he just watches the movie.</context>
+      <utterance>-- To correct a small discrepancy, you may recall.</utterance>
+   <speaker>POCKMARKED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Ah, but what if it</utterance>
+   <speaker>YOUTHFUL ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- What if it was a</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps Eduard was closer than he knew to discovering it and so had to be silenced.</utterance>
+   <speaker>YOUTHFUL ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Or he was even more an innocent victim than that -- he was</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- You said so yourself the firm is large and powerful. If the discrepancy really was something big, Eduard's responsibility would still have to be small. No poor young</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have to know what he was working on at the time of his death.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He worked on routine claims. His visit to the Castle was probably as minor a mission as he said it was.</utterance>
+   <speaker>POCKMARKED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you so aggressively unimaginative? Eduard is no longer the only casualty.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then why haven't I been --</utterance>
+   <speaker>YOUTHFUL ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Kidnapped or murdered? Because</utterance>
+   <speaker>POCKMARKED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Gabriela, on the other hand, had made an enemy of this man Burgel.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, Burgel! Gabriela was having an affair with Eduard. They were both members of</utterance>
+   <speaker>BEARDED ANARCHIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It wouldn't surprise us if the discrepancy was between medicines sent and medicines received.</utterance>
+   <speaker>YOUTHFUL ANARCHIST</speaker>
+      <mode></mode>
+      <context>Kafka's head is spinning -- and the Solemn Anarchist suddenly looks at him.</context>
+      <utterance>-- People die for such discrepancies.</utterance>
+   <speaker>SOLEMN ANARCHIST</speaker>
+      <mode></mode>
+      <context>cut:</context>
+      <utterance>We must have a look at Eduard's file.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="10">
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Raban" -- that'll be nearly at the back of the alphabet.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It usually is.</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm overworked as it is.  "Raban" did you say?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The Keeper of the Files is rifling through folders -- causing others to fall out onto Kafka who tries to catch them.</context>
+      <utterance>Yes. Isn't it there?</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute. "Raban?" Where have I heard that name?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The Keeper of the files looks extremely displeased. He pushes past Kafka, going back the way they've come.</context>
+      <utterance>He's the clerk who died last week. From the insurance department</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the matter?</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why would we keep files on</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whenever an employee departs, shall we say, it's up to the head of his department to requisition his file, reassign any outstanding claims, and send it off.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Documents come crashing down and we can't see Kafka and the Keeper anymore.</context>
+      <utterance>-- You mean my Chief has it.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="13">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, sir -- I understand you have Eduard Raban's file.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I do.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The Chief Clerk has little time for such sentimentality. He gives Kafka a little exasperated look before reaching down to -- a right hand desk drawer -- which Kafka notices -- and taking out a folder.</context>
+      <utterance>I wonder if I might look to see if there's an address for family -- I thought I'd like to write to them.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context>Kafka nods a bit, wondering what to do now.</context>
+      <utterance>No -- just as I thought -- no entry for family.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was there something else?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- I just -- I feel a sense of obligation. He was my friend -- if I can be of any help -- closing his affairs.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, there's only one report to complete. I'll be doing it myself and submitting it to the Castle today or tomorrow.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see -- it's just the Erlanger claim then.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context>Kafka reluctantly turns.</context>
+      <utterance>Kafka.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context>Kafka nods once.</context>
+      <utterance>You're too sensitive. Let your friend rest in peace.  I've known suicides. Such a song- and-dance about nothing.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The Chief Clerk looks at him with seemingly genuine misguided concern.</context>
+      <utterance>Yes, sir.</utterance>
+   <speaker>CHIEF CLERK</speaker>
+      <mode></mode>
+      <context>He goes back to his paperwork. Kafka leaves.</context>
+      <utterance>Give it up.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="3">
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If it was Accounts you wanted why did you ask for Employees?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Orlac is an account?</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a factory in the northern mountains. One of our best customers.  Without a proper request I'm not obliged to do this, you understand -- but I'll make an exception on this one occasion.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="18">
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context>He pulls it out -- with great difficulty. The Orlac file is very, very thick. Kafka prepares himself to catch it, but the Keeper of the Files manages to hand it down to him without serious injury. Still, it's quite cumbersome and heavier than Kafka expects.</context>
+      <utterance>At least the account is current even if the employee isn't.</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context>Kafka winces at that slur but says nothing about it.</context>
+      <utterance>That place has so many accidents, it's a good thing the type of peasants who live up there don't seem to have any trouble propagating their race.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All these in the last year?</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You must have read about it in the papers -- there was a terrible cave-in. It wouldn't have been so bad, but even the Medical Officer for the district was killed!</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did read that. They gave him a posthumous medal.</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dr. Murnau was the bravest of men. He spent an entire career in those backwaters with no regard for personal gain. A great loss.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the cross-reference of clerks who've worked on Orlac claims?</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is your friend's name among them?  Then he only worked on the one case.  Your Chief will send me the final summation when he's finished with it.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Once a file's been sent to the Caste, is it possible to recall it for review?</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course not. Only by a Director of the firm. Who'd want to let in all kinds of riff-raff off the streets?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What good are records if they're not open for public inspection?</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These laws have been with us for centuries -- how can you doubt them?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if I petitioned one of the Directors?</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You do not summon them -- they summon you -- and this, of course, hardly ever happens, if at all. The Directors are an eccentric lot and by nature cautious.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where do our records go to in the Castle?</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're a medical firm, aren't we? They go to the Medical Records Section.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I could always apply there.</utterance>
+   <speaker>KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It so happens, my dear simple sir, that the Head of Medical Records at the Castle</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="8">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The Assistants look at him, surprised at this outburst.</context>
+      <utterance>Do you mind!</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- I was just trying to finish some work!</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean you've actually begun some?</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context>Oskar tries to lunge at Ludwig, but Kafka holds him back.</context>
+      <utterance>-- Just because he's done nothing today, he doesn't want me to show him up!</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The Assistants look at each other sheepishly. Then smile at Kafka, submissively or mockingly, it's hard to tell.</context>
+      <utterance>My assistants! You might as well have fallen from the sky for all the thought that was spent in choosing you!</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not our fault. We're naturally nervous.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And we're upset too.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the matter with you?</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="4">
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't make a simple statement without him taking issue with it</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- You should meet my father.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've been together too long. His personality is overflowing into mine and vice versa.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- How would</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="3">
+   <speaker>MR. PICK'S VOICE</speaker>
+      <mode></mode>
+      <context>He raises his arm up to help down whoever it is he's talking to. We hear a strange GROAN. Followed by the appearance -- unclear, from the back, face hidden, or otherwise blocked by Mr. Pick -- of A STRANGE hunched figure. He moves in a halting, cowering way. Mr. Pick helps him down the steps.</context>
+      <utterance>-- Come on -- there's no one up there. We're going now.</utterance>
+   <speaker>MR. PICK</speaker>
+      <mode></mode>
+      <context>Mr. Pick's voice is reassuring, though he has a dark, diabolic face. They're at the bottom of the staircase now, Mr. Pick leading his odd companion toward the exit. The odd companion lurches towards the dead anarchists, but Mr. Pick restrains him.</context>
+      <utterance>That's it -- it's all right -- you've done very well.</utterance>
+   <speaker>MR. PICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never mind them -- they'll be attended to.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="2">
+   <speaker>THE QUARRIES - NIGHT</speaker>
+      <mode></mode>
+      <context>Mr. Pick and the Strange Man approach. Some distance behind them, Kafka takes cover behind a tree, watching. Mr. Pick leads the Strange Man down the central quarry to where a third man, a LABORER by the look of him, is waiting. Kafka finds a vantage point somewhere above the central quarry. He flattens himself on the ground and peers over the edge. In the quarry, Mr. Pick steps back a pace from the Strange Man as they meet up with the Laborer and suddenly grabs the Strange Man, pinning his arms behind him, baring his chest or the Laborer to stab a dagger into! Kafka is shocked by the abruptness of this. He sees the Strange Man slump to the ground. He crawls a little closer. He sees the Laborer replace the knife in its sheath on his belt, then help Mr. Pick drag the Strange Man off to some side shadows where they dump him. Kafka strains forward a little, trying to make out their faces -- and the ground gives way!</context>
+      <utterance>On the outskirts of the city, beyond the Castle.</utterance>
+   <speaker>MR. PICK AND THE LABORER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spin around at the noise.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="2">
+   <speaker>KAFKA'S VOICE</speaker>
+      <mode></mode>
+      <context>The BARKING of a DOG outside distracts him. He stands up to stretch by his open window -- and we SEE that he's wearing a suit that's far too big for him, sleeves overhanging his skinny arms and ands, trouser bottoms drowning his shoes. He looks out at the sky which is turning blue.</context>
+      <utterance>"-- oh, and thank you for the suit from Father, although I don't know why he didn't simply return it. If it's too small for him why do you immediately suppose it will fit me? ... Your son ... Your loving son ... Your somewhat loving son ... Your occasionally loving son ... Your incapable-of-loving son ... Your absolutely-bored-to-death-with-any- kind-of-family-life son ..."</utterance>
+   <speaker>THE BRIDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two men walk across the river.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="15">
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context>Kafka turns. One of the Assistants stands next to him.</context>
+      <utterance>Did you think you'd be safe back in your little burrow?</utterance>
+   <speaker>OTHER VOICE</speaker>
+      <mode></mode>
+      <context>Kafka turns the other way. The other Assistant is on his other side. Kafka looks between the two of them.</context>
+      <utterance>No matter how deep a hole you dig for yourself, the beast will always find you.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context>Kafka might have expected this.</context>
+      <utterance>We're to take you to the Castle.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>One of the Assistants draws a revolver. The other chuckles.</context>
+      <utterance>So. You're the guides up there. And we thought it was Burgel.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They wouldn't let</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We answer directly to Ekman, the Senior Partner -- he practically runs the Castle. In a case like this you're better off dealing with the highest authority -- even though it's equally futile.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When you speak to him you have to lean quite near his right ear because the left doesn't work so well.</utterance>
+   <speaker>AROUND THE CORNER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They head up in the direction of the Castle.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For all your incompetence I was beginning to think you were at least loyal to me. You're very good ham actors.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Just doing our job.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a farce.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We think you'd better accept your position instead of pointlessly annoying us.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What position? Being prosecuted in a case like this means having already lost it.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Still, we're probably closer to you at the moment than any of your fellow human beings.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>One of the Assistants keeps making a show of wiping his brow, though it's by no means hot.</context>
+      <utterance>Close only by virtue of antithesis.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="7">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My assistants. I should have known. Nothing is given to me. I have to acquire everything.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all right to be sarcastic in private to us -- because we have a sense of humor -- but when we're up at the Castle we suggest you don't make a fuss. It would spoil the not unfavorable impression you make in other respects.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frankly, we don't understand why you've even bothered pursuing this business.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It would be more accurate to say that it has pursued me.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But your goal is so hard to reach. Do you think the official network would surrender to one man? We would never think of attempting anything remotely as difficult.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context>Kafka suddenly points at the ground.</context>
+      <utterance>My mother used to tell us of the young man who decided to ride to the next village and how she was afraid that -- not even mentioning accidents -- the span of a normal happy life might fall far short of the time needed for such a trip.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The Assistants immediately bend their heads to look -- and Kafka bangs them together as hard as he can. The Assistants sit on the ground in a stupefied daze while Kafka's running footsteps echo around the dark street.</context>
+      <utterance>You've dropped some money.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="3">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You work in the cemetery.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A man must eat --  And drink.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="6">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>He keeps walking -- and we SEE that he's carrying the</context>
+      <utterance>Official channels -- a lot of good they've done me. My only hope is to approach the officials personally.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>A BIRD rapidly swoops down from a tree, zipping past Kafka's head with a shrieking SQUAWK!</context>
+      <utterance>The Kafka men are famous for it, you know. Delivering meat barefoot in the depths of winter, picking up sacks of flour with their teeth --</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Oh, yes, determination runs in the family.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There is</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What made you think</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In a manner of speaking.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="5">
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was restoring some stones here in the upper section one day -- and I found this.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An empty tomb?</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context>Having lit the lantern he's brought with him, he holds it over the dark hole -- revealing a shaft and the rungs of a ladder.</context>
+      <utterance>A cenotaph -- a monument to someone whose remains ended up elsewhere. But look --</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Castle gates were blockaded in the time of the great plague -- it's an escape route.  Don't get stuck.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not a chance. I'm the thinnest person I know.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="10">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- You appreciate my writing.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you do me a favor then?</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Another one?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Please.</context>
+      <utterance>If I don't see you later -- go to my house and find my notebooks -- and destroy them. All my manuscripts -- just burn them.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What an extraordinary request!</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's my last and final one.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then its authority is in doubt.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A true friend would do it.</utterance>
+   <speaker>BIZZLEBEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not necessarily.  A</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="6">
+   <speaker>GAUNT MAN</speaker>
+      <mode></mode>
+      <context>Kafka dropped his lantern in surprise, and shrinks back, CRUNCHING glass.</context>
+      <utterance>You've killed him! Like a dog!</utterance>
+   <speaker>GAUNT MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- They won't like that. Not a bit!</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The inhabitants of the other cells start RATTLING their bars and beseeching Kafka. He looks around, bewildered and horrified. Hideous faces looking back at him.</context>
+      <utterance>I didn't --</utterance>
+   <speaker>GAUNT MAN</speaker>
+      <mode></mode>
+      <context>Shuddering, Kafka is moving away, making it through the shocking gauntlet, toward the door at the other end.</context>
+      <utterance>You'll incriminate the rest of us! Let me out too!</utterance>
+   <speaker>HORRIBLE VOICES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Help us! -- release us!</utterance>
+   <speaker>GAUNT MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="7">
+   <speaker>CORRIDOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kafka passes a FRIENDLY CLERK.</utterance>
+   <speaker>FRIENDLY CLERK</speaker>
+      <mode></mode>
+      <context>Kafka nearly laughs at the enormity of the question.</context>
+      <utterance>Are you lost?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Pause.</context>
+      <utterance>I'm, uh, looking for the Medical Records Section.</utterance>
+   <speaker>FRIENDLY CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you're miles away. From here you'll want to go left, left again, right, right again, left then right, right then left, and take the Blue Staircase.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>FRIENDLY CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- I haven't seen you here before.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No ...</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="9">
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>Kafka tries to see into the shadows.</context>
+      <utterance>I assume you're wondering ... what all this has been about.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>The door behind Kafka opens again and an officious bureaucrat (EKMAN) comes in. He sits in a chair and looks at Kafka.</context>
+      <utterance>Are you the Head of Medical Records?</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>And he's stood up.</context>
+      <utterance>He's come on his own initiative.  -- Not something we encourage, mind you, but we like to know it exists.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>He's coming around the desk. He's drying his hands on a towel.</context>
+      <utterance>What it amounts to is simply this ...</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>He tosses the towel onto the desk. Ekman looks irritated by this.</context>
+      <utterance>A piece of paper was delivered to the wrong clerk. It was essential he bring it back to us. These complications have arisen because he had friends -- like you, among others -- friends unlikely to let a sleeping dog lie.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... A piece of paper ...</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A mere slip.  Your friend Mr. Raban dealt only with claims that came</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... A piece of paper ...</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>himself. You'd probably trust him. You'd certainly respect him. But if you look into his eyes, he's frightening.</context>
+      <utterance>You see, Kafka, in all cases relating to the factory at Orlac -- which is what this paper referred to -- the authority that puts in a request and the authority that grants it is, to all intents and purposes, the same authority. And he's an impressive, imposing figure of authority</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="8">
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- You seem amused.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Ekman sighs -- as if at a difficult child.</context>
+      <utterance>It only amuses me in that it gives me an insight into the ludicrous bungling that in some circumstances may decide the life of a human being.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>Ekman, who doesn't hear very well, directs one ear in particular back and forth between the other two. Kafka just keeps looking at the charismatic man pacing around him -- who's now lighting an expensive cigarette of the kind that was in the ashtray at the lab.</context>
+      <utterance>It's merely a matter of expediency. It's imperative that my room to maneuver not be hindered by ... bureaucratic ramifications.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- If an obscure official up there in the distant mountains so far away from civilizing influences happens to meet with an unfortunate accident -- and should he tragically die in spite of the District Medical Officer's strenuous efforts to save him -- the firm wants to see the next of kin pacified and the disposition of the remains handled with the greatest possible ... efficiency.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Accident and Compensation" -- no one can accuse the firm of not supplying exactly what it promises.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I believe we've exceeded his expectations.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Murnau laughs.</context>
+      <utterance>I had the grandest of financial plots in mind, the most malevolent of personal motives, conspiracy theories extending to every ... authority I could see.  And I find you. A body snatcher.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Life is more than a Chinese puzzle, my friend.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="3">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I suppose Dr. Murnau didn't die in a cave-in. You killed him to free the Position of Orlac Medical Officer for your own ends.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>They pass another of those grinding chains carrying memos and inter-office directives up and down.</context>
+      <utterance>Yes, well -- we're looking for a new village now. If we stay too long at one source ... people become suspicious.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you're quite right that he didn't die in that cave-in. In fact, he didn't die at all. He was simply recalled -- by himself. As well as being Head of Medical Records here</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="3">
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I ask where your two warders are?</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context>Murnau laughs, but then has to stop as it encourages the Laughing Man, bringing forth a mad chuckle or two from him.</context>
+      <utterance>Lying in the gutter where they belong.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>He pushes the tall door open into his lab.</context>
+      <utterance>Pity. They're an amusing pair, didn't you find? Absolute innocents.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="5">
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>Ekman, who's seen it all before, goes to lean somewhere, bored.</context>
+      <utterance>I so rarely get the chance of showing my work to anybody -- anybody capable of appreciating it, that is. You might say I'm a student of human reaction.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The fact that it's live bodies you practice your trade on doesn't seem to matter to you.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>As if in response to that the Laughing Man convulses anew. Ekman immediately turns to a shelf for another vial and goes to give it to the Laughing Man.</context>
+      <utterance>On the contrary, it matters a great deal. We're engaged in immensely important research here. I'm a revolutionary too, you know -- but a much more pragmatic one.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>The Laughing Man gulps down the potion and starts to calm down a little.</context>
+      <utterance>-- I can't very well administer experimental treatments to corpses -- and if they become corpses, why, they have their uses too -- that's why speed is essential. Living tissue, even if its owner has passed on, is our most valuable acquisition.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've tried transfusions on our ... volunteers. Unfortunately, far from infusing superior characteristics it's tended to make them insane -- murderous even -- a condition we've had occasion to make use of.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="4">
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- And the new patients they bring me aren't usually as dexterous as you've been in evading us. Not perfect specimens by any means, but not the type of person who'll be missed either.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What have you done with Gabriela Rossmann?</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>He's concocting another potion now, pouring an acidic-looking liquid from one container to another. Kafka is looking increasingly worried.</context>
+      <utterance>As a matter of fact you've caught us in a state of considerable excitement. Our latest preparation we believe -- we pray -- is perfected. It should take years off her.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>He glances at the dangling animal parts. And now, finished mixing his cocktail, he picks up some sort of suturing tool, pressing the trigger on it to start the end burning and</context>
+      <utterance>And if not -- well, there are always what I call my caprices of vivisection.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="4">
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>Ekman takes Kafka by the arm to lead him toward the operating table. The Laughing Man moves in closer too, emitting a psychotic chortle.</context>
+      <utterance>Actually, if it weren't for the aberrant dilemma posed by someone like yourself -- continually asking for out-of-date files -- I'd probably give up my revisionist policies altogether. I'm sure what we have to do is start instead at the very inception -- with the embryo -- from a single cell even.  The lure of the Golem -- the man-made man. You appreciate that, I know.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>Kafka attempts an escape around the operating table, but the Laughing Man blocks his way and corrals him back to where he was before. Dr. Murnau holds out the sinister aperitif for Kafka to take and drink in toast.</context>
+      <utterance>To corrupt the image of man and then offer redemption ... This is the dawn, Kafka. A new man is being born here. A more resilient man ... A superman.</utterance>
+   <speaker>MURNAU</speaker>
+      <mode></mode>
+      <context>The glass comes closer and closer to Kafka's lips -- if he leans away from it any further he'll be lying on the operating table -- but now a WRENCHING noise makes everybody turn. The body of Mr. Pick, bloody and ragged, is dragged up with a SMASH through a breaking floor-panel by the great chain. Kafka has his chance. The next time anyone looks at him he's holding the nozzle of the burning device under Ekman's throat, finger on the trigger. -- And on the other side of the laboratory a wide elevator platform rises into view -- carrying the prisoners from the dungeons!</context>
+      <utterance>To a new world -- of Gods and monsters.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Throws Ekman aside and runs away.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="4">
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oskar!</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context>-- But Ludwig just pulls out a file folder.</context>
+      <utterance>Ludwig?</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is filed incorrectly!</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context>They start trading files back and forth, trying to put the system back in order. The attention span of squirrels, they've forgotten all about looking for Kafka.</context>
+      <utterance>Here too! They're all in a dreadful muddle!</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="20">
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gabriela! -- you did get away.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew you walked this way to work. I wanted to find you before they did.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- I've just come from the Castle. It's over.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>Kafka is beginning to sense something quite wrong with her.</context>
+      <utterance>Over? It's only over when you can crawl to a clean little spot on earth where the sun sometimes shines and you can warm yourself a bit.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gabriela ...?</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>Kafka just watches her ... The breeze sings in the air.</context>
+      <utterance>Should I tell you why I joined our late lamented nihilists? Why I became a murderer? Because murder ... is bliss.  It's easier than you might think to absorb and assimilate Evil -- once you've adopted its procedure.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>Kafka doesn't answer. She turns fully to him. The other side of her beautiful face is ... fungus. Alive. Seething. Frothing. Bubbling. Kafka backs away a couple of steps.</context>
+      <utterance>Have you ever watched a person deteriorate? Day by day. I don't mean in a spiritual sense.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Only two steps back? Even the man they left to guard me retreated further than that.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I -- I found your jailer.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the result of their elixir of youth. They were to come and check on it during the night. I contrived to miss the appointment.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're dead now. We can get help.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know how they reward failure. If they saw this I'd be rotting in the quarries by the afternoon -- with all the others.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a new potion -- he said it was perfected.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know there is. And you're what I have to bargain with. For now you're the last one in their way.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you, they're</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>But only for the moment.</context>
+      <utterance>I think you've just escaped for the moment. Just as I did. As Eduard did. As they let us do.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- not this time.</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know better than you what people will say when they have to. When they brought me in for questioning I informed on my friends the very first day.</utterance>
+   <speaker>KAFKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Listen to me --</utterance>
+   <speaker>GABRIELA</speaker>
+      <mode></mode>
+      <context>And suddenly she's slashed a</context>
+      <utterance>I do. Always. You understand the world better than any of us, Kafka. And what it's becoming.  I've always held you in the highest regard.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="2">
+   <speaker>KAFKA'S VOICE</speaker>
+      <mode></mode>
+      <context>Anna's approaching. Kafka just watches her coming. He knows he'll end up going out with her, sleeping with her, getting engaged to her ... We see the future on Kafka's face</context>
+      <utterance>Dearest Father ...</utterance>
+   <speaker>KAFKA'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You asked me recently why I maintain that I am afraid of you ...</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="8">
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We could go back to the office. Explain ourselves to the Chief Clerk.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They'd drive us away. That Kafka's made things very hot for us.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I understand he was wounded in the lung.</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It doesn't matter. It's too late for all of us.</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context>Oskar has a long think.</context>
+      <utterance>What's to become of us now?</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context>Oskar jumps down from the box.</context>
+      <utterance>Everyone in Amerika has a toaster in their building!</utterance>
+   <speaker>OSKAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then that's the place for us!</utterance>
+   <speaker>LUDWIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amerika for us!</utterance>
+</dialogue>
+
+
+</movie>

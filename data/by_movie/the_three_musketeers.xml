@@ -1,0 +1,4143 @@
+<movie id="559" title="Three Musketeers The">
+
+<dialogue id="1" n_utterances="2">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Had enough?</utterance>
+   <speaker>GIRARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I believe now would be a good time to end your, uhm, formal training. Well done.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="2">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan leaps to his feet, races off without another word. Girard struggles upward, peers at the shape of his clothing -- cut to ribbons, muddy and soaked.</context>
+      <utterance>Thank you, sir.</utterance>
+   <speaker>GIRARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And god have mercy on whomever you meet next.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="2">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>But he does not see her. D'Artagnan continues, chatter- ing proudly as he goes.</context>
+      <utterance>Mother...?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan comes upon an open door, a small room beyond. He pauses, then steps inside.</context>
+      <utterance>Did you see us? You heard us, I'll bet. Girard finally surrendered a compliment... though I almost had to kill him to get it... Mother...?</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="7">
+   <speaker>MOTHER</speaker>
+      <mode>HANDSOME WOMAN</mode>
+      <context></context>
+      <utterance>Sit down.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Didn't you hear me? Girard --</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>D'Artagnan sighs, sits in a large wooden chair. A beat. His mother speaks quietly, eyes turned back to the open chest.</context>
+      <utterance>Sit.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>She reaches into the chest, carefully extracts a beautiful saber.</context>
+      <utterance>Your father was a proud man. And he had a right to be. I never knew one as brave or as kind. He knew that his strength was a gift to be given in the service of honor. That is why he dedicated his life to his country and his King. That is why he gave his life, for both.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>She rises, holds the sword out to him.</context>
+      <utterance>I watched you this morning and saw someone I knew. You have your father's heart, his will to fight, his courage. But these gifts have no value unless they are given.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's time for you find your fortune with men as brave and as bold as you are. In Paris. With the King's Musketeers.  You'll need this.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Father's sword.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="3">
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forged in the Crusades, handed from generation to generation.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan can't help it, his eager reply leavens the nobility of the moment with warm humor, youthful inno- cence. His mother smiles as she repeats.</context>
+      <utterance>And now to me.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>With that, she holds out the beautiful saber. D'Artagnan takes it firmly into his hands.</context>
+      <utterance>Yes, son. And now to you.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="6">
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not your mother now. I'm speaking for your father. And this is what he would have told you. Never forget the code of the d'Artagnans. It is your special heritage.  Always seek out adventure...</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never run from a fight...</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never submit to insults. Except from the King.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="6">
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>A bittersweet moment. D'Artagnan posed before his first great adventure. But not completely certain that he wishes to leave home.</context>
+      <utterance>And be wary of Cardinal Richelieu for he rules France through the King.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artganan's mother smiles, understands. And speaks gently to urge him forward.</context>
+      <utterance>Mother. Maybe I should wait. Until after harvest.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've heard that every man in the Musketeers is on the run from someone or something?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. But what am I running from?</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And for heaven's sake, practice your horsemanship.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan digs his heels into the horse's flanks, shoots off across bright green fields. His Mother shields her eyes from the sun, feels a gathering of tears, and watches him ride into the distance.</context>
+      <utterance>Horsemanship. Got it.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="4">
+   <speaker>JUSSAC</speaker>
+      <mode></mode>
+      <context>Jussac offers the emblem to a tall, elegant wraith in black finery, a patch covers one eye. This is the COUNT DE ROCHEFORT, Richelieu's right hand, one of the deadli- est swordsmen in all of France.</context>
+      <utterance>What should I do with this?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Throw it on the fire with everything else.</utterance>
+   <speaker>JUSSAC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But this is the emblem of the Musketeers...</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Jussac hastily adds the emblem to the fiery blaze, it is instantly consumed. Rochefort watches it burn, then walks to a balcony overlooking a vast courtyard.</context>
+      <utterance>The Musketeers no longer exist. Or haven't you heard?  Throw it on the fire.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="5">
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>A hundred faces turn upward to regard him. And on each the same expression -- absolute loathing for the man in black. Rochefort is not intimidated by this sea of con- tempt. He revels in it.</context>
+      <utterance>Musketeers...</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By joint edict of His Majesty King Louis XIII and His Eminence Cardinal Richelieu, the Musketeers are officially disbanded. In preparation for the coming war with England, your ranks and commissions are hereby transferred to the Infantry. You will be contacted and told where to report. Until that time, you are instructed to return to your homes.</utterance>
+   <speaker>DE TREVILLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And who will protect the King?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Muttered curses and dissent throughout. Rochefort raises his voice to be heard:</context>
+      <utterance>The Cardinal's Guards are more than capable of assuming that... responsibility.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>As Rochefort intended, the Musketeers explode. But before they can attack the Guards, de Treville's com- manding voice calls out above the clamor.</context>
+      <utterance>You are hereby ordered to disperse. Should even one of you resist... the entire corps will be arrested and imprisoned.  'All for one, and one for all.'</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="2">
+   <speaker>DE TREVILLE</speaker>
+      <mode></mode>
+      <context>And with that, the Musketeers freeze. Their eyes go to de Treville. There is a moment of silence as de Treville chooses his words carefully. Even in defeat, de Treville is stoic.</context>
+      <utterance>Musketeers!</utterance>
+   <speaker>DE TREVILLE</speaker>
+      <mode></mode>
+      <context>De Treville shoots a defiant look at Rochefort who smiles in a patronizing manner. Then, de Treville leads his Musketeers out of the courtyard.</context>
+      <utterance>Go to your homes. Wait. Our day will come again.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="4">
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Rochefort and Jussac instantly fall to their knees. ARMAND DU PLEISS THE CARDINAL RICHELIEU steps out of the darkness and into the light, his long crimson robes swirling about him like clouds of blood. His face is long, shrewd and intelligent. His eyes are penetrat- ing. He smiles his crocodile smile. Richelieu observes a duty roster on one of the walls. It contains the names of all the Musketeers, past and present.</context>
+      <utterance>Your Eminence.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have they all been accounted for?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All but... three. On Richelieu's face, a flicker of irritation.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three?</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="2">
+   <speaker>JUSSAC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I sent a patrol to find them but it hasn't returned yet.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want those Musketeers, not excuses. Bring them in at once.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="8">
+   <speaker>JUSSAC</speaker>
+      <mode></mode>
+      <context>Athos greets him with a dark smile.</context>
+      <utterance>What is this?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A private party. Go away.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Aramis leaps to his feet and bows graciously. He is the epitome of politeness.</context>
+      <utterance>Athos -- is that any way to greet our guests?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Jussac is not amused.</context>
+      <utterance>Don't be shy, gentlemen. Come in. Your friends have been expecting you.</utterance>
+   <speaker>JUSSAC</speaker>
+      <mode></mode>
+      <context>Athos and Aramis exchange looks.</context>
+      <utterance>Your presence is requested at Musketeer Headquarters by Captain Rochefort.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Cyclops is a Captain? He must've made a pact with the Devil.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or the Cardinal.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the difference?</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="8">
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Jussac takes a step forward, fingering his saber.</context>
+      <utterance>The Devil is more ethical than the Cardinal.</utterance>
+   <speaker>JUSSAC</speaker>
+      <mode></mode>
+      <context>With a sweeping gesture, Athos indicates the bloody Guards around him.</context>
+      <utterance>You're instructed to come with me and surrender your tunics.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These gentlemen made a similar request.</utterance>
+   <speaker>JUSSAC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you refusing to come peaceably?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Probably. But I'll leave it up to my companions. Aramis?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Athos tips back in his chair and gazes upward.</context>
+      <utterance>We can't refuse Rochefort's invitation. It would be impolite.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>To the Guards' surprise, Porthos is balancing on the balcony rail above, just about even with a large wagon wheel chandelier.</context>
+      <utterance>And what do you say, Porthos?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>With the grace of an aerialist, Porthos jumps from the balcony and lands atop the chandelier. His weight causes the chains suspending it to break. With a whoop of pleasure, Porthos rides the chandelier down as it lands squarely atop Jussac's Guards, squashing them. When the dust clears, only Jussac has been spared. He looks on in disbelief as Porthos extricates himself from the wreckage and calmly brushes his clothes off.</context>
+      <utterance>I'll be right down!</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="5">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Athos and Aramis sheathe their swords, put on their hats, wrap their capes around them and cross the room to join Porthos.</context>
+      <utterance>Ready when you are.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Congratulations, Porthos. You brought down the house.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Athos fixes Jussac with a dark, threatening look.</context>
+      <utterance>My aim was off. I was trying to hit Jussac.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Jussac turns to watch Athos, Porthos, and Aramis step to the street. He mutters as if to curse:</context>
+      <utterance>Now. About those tunics...</utterance>
+   <speaker>JUSSAC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Musketeers.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="5">
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you have any idea what you've done?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've saved you and your friend from these bandits.</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context>D'Artagnan is stunned.</context>
+      <utterance>These 'bandits' are the Queen's own bodyguards.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Constance points a finger in Anne's direction.</context>
+      <utterance>The Queen?</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I were you, I'd make myself scarce. These men are going to be very angry when they wake up.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="6">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Constance smiles at him, her eyes twinkling.</context>
+      <utterance>I didn't know. I thought...</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you have a name?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>D'Artagnan.</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context>Constance spurs her horse and rides off to catch up with Anne.</context>
+      <utterance>You're a very foolish boy, d'Artagnan... but a very handsome one. Good-bye.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan stands in the middle of the road, feeling foolish and oddly thrilled at the same time. The two bodyguards groan and grumble. A bright reflection catches d'Artagnan's eye. He looks down and sees a gleaming bracelet. He picks it up and...</context>
+      <utterance>Wait! You didn't tell me your name! But Constance is gone.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>With a guilty smile, d'Artagnan spurs his horse and rides like Hell.</context>
+      <utterance>The man who attacked you...  ... went that way.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="7">
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll take those tunics, Musketeers.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did he say?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He said he'll take those tunics.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Porthos reaches inside his cloak and takes out a crumpled red tunic he took from one of the Cardinal's guards. He drops it on the ground, digs into a pocket and takes out another. He finds another in his boot and another up his sleeve. There's one in his hat. Like a magician, he keeps pulling red tunics out of the most bizarre places. Athos and Aramis have a few guard tunics themselves. They pull them out and drop them into the growing pile.</context>
+      <utterance>Tunics? Coming right up.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was trying to remember the last time I saw you here. I know. It was the day you were kicked out of the Musketeers.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Wasn't that the charge?</context>
+      <utterance>Conduct Unbecoming a Musketeer.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ought to know. Three witnesses stood against me.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="11">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>The bitter memory hangs in the air for a moment.</context>
+      <utterance>It was the least we could do.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are hereby ordered to surrender your commissions and make yourselves available for reassignment in the King's Army.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And if we refuse?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You will become outlaws. Hunted men.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Athos cuts him off with a look. He's familiar with Porthos' propensity for tall tales. But not here, not now. Athos turns back to the balcony. Rochefort lobs a taunt.</context>
+      <utterance>It doesn't matter where I go or what I do. Sooner or later somebody's calling me 'outlaw.'</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you refusing to serve your King?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We are refusing to serve the Cardinal.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Same thing, these days.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>France has one King too many.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Athos, who has remained silent, speaks with quiet power:</context>
+      <utterance>I'll tell him you said that.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do that, Rochefort. Tell his Emminence the Cardinal that we will continue to perform our sworn duty to protect the King. From enemies across the sea.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="10">
+   <speaker>ATHOS</speaker>
+      <mode>CONT'D</mode>
+      <context>The gauntlet has been thrown. Rochefort picks it up with glee.</context>
+      <utterance>From traitors who sit at his right hand. And tell him that he can take away our tunics, our muskets, even our swords. But he cannot stop us from being what we are. Musketeers.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Rochefort steps back, disappears into the shadows. A beat. The Musketeers regard each other.</context>
+      <utterance>I'll make sure His Emminence the Cardinal gets the message. But I can't promise he'll be pleased.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, if we're going to be outlaws, I suppose we'll have to get our affairs in order.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you going to visit them alphabetically or in order of preference?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alphabetically seems... fair.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When it comes to you and women, fairness rarely applies.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll meet at the Columbier-Rouge at sundown.  To celebrate. And to plan our new lives.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Outlaws.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Citizens of France.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>And that is all that remains.</context>
+      <utterance>The three Musketeers.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="5">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look out!</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aaarrgghh...</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are they? Where are the Musketeers? I'm in the right place, aren't I?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos is wearing his cape in such a way that it hides his Musketeer tunic. D'Artagnan has no idea who he's dealing with.</context>
+      <utterance>Not as far as I'm concerned.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But this is Musketeer Headquarters...</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="11">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. This was Musketeer Headquarters.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean it's been moved?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean the Musketeers have been disbanded. Feel free to poke around for souvenirs.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean 'disbanded'?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan blocks Athos' path.</context>
+      <utterance>Some nonsense about being needed in the army. Now if you'll excuse me...</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I just got here. How can I become a Musketeer if they've been disbanded?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan grabs Athos by his injured arm. Athos, stif- ling pain, fixes d'Artagnan with a deadly look.</context>
+      <utterance>I'd say you've got a problem.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan touches his sword, eyes flashing at the pos- sibility of a duel.</context>
+      <utterance>You could use a lesson in manners.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any time.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos exits.</context>
+      <utterance>I'm in a hurry now -- but I'll meet you at the Carmes-Deshaux monastery at noon.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be there ten minutes early.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="8">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know where this sash comes from?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Porthos' righteous indignation is more impressive than his knowledge of current affairs. D'Artagnan corrects.</context>
+      <utterance>It is a gift from the Queen of America.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There is no Queen of America.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Madame Augustine, would you excuse me for a moment, I'm going to kill him.  Now, where were we?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I rode through a puddle, muddied your sash, the Queen of America except there isn't one, I'm in a hurry, and you were about to challenge me to a duel.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Porthos lets out a weary sigh. He shakes his head.</context>
+      <utterance>That seems to be the local custom.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="7">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everywhere I go, it's always the same. There's always some kid who thinks he's hot with a sword... some itchy punk who wants to go up against the great Porthos...</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The great who?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan gives him a blank look.</context>
+      <utterance>The great Porthos.  Me, you idiot.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you know who I am?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Porthos couldn't be more insulted. He sputters with rage.</context>
+      <utterance>The world's greatest talker?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>And bring a coffin!</context>
+      <utterance>All right, you little puke! You want to die? So be it! One o'clock behind the Luxembourg!</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bring your own!</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="8">
+   <speaker>CARDINAL'S GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid that's not possible.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I must speak to those young women.</utterance>
+   <speaker>CARDINAL'S GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The young women do not wish to be spoken to.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have something that belongs to the Queen.</utterance>
+   <speaker>GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A bracelet.</utterance>
+   <speaker>GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll deliver it for you.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>The Guard points to a large building in the distance with a large cross.</context>
+      <utterance>No, you've been enough help already. Would you be so kind as to point out the Carmes-Deshaux Monastery?</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="9">
+   <speaker>DAMSEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, Monsieur Aramis. But when you started talking about Original Sin, I lost control and became impassioned. It won't happen again.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's nothing unholy about expressing one's emotions. On the contrary. Religion should be experienced in a passionate, all- embracing way. We should feel free to express our spirituality.</utterance>
+   <speaker>DAMSEL</speaker>
+      <mode></mode>
+      <context>The Damsel attacks him again. Suddenly, a pounding on the door.</context>
+      <utterance>Yes, darling!</utterance>
+   <speaker>MAN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Open up!</utterance>
+   <speaker>DAMSEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My husband!</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your husband!?</utterance>
+   <speaker>DAMSEL</speaker>
+      <mode></mode>
+      <context>But Aramis' heart is too noble. He gets down on his knees.</context>
+      <utterance>Aramis -- run!</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>That's when the door bursts open and the lady's husband, an irate MARQUIS enters with a pistol. His eyes blaze with madness. He aims the pistol at Aramis' head.</context>
+      <utterance>First we must pray to God for forgiveness.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Aramis leaps to his feet and sprints for the open window. As the Marquis aims and FIRES, Aramis puts one foot on the ledge and leaps into space. The shot misses him by inches.</context>
+      <utterance>On second thought, God's often busy.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="10">
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks. You broke my fall perfectly. But I do apologize for the inconvenience...</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan pushes Aramis aside. Aramis grabs d'Artagnan by the scruff of his neck and pulls him back.</context>
+      <utterance>Get off me!</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If there's one thing I can't abide, it's rudeness.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You fell on me!</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I apologized for it.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose you'd like to teach me a lesson in manners, too.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>D'Artagnan brightens. Another duel!</context>
+      <utterance>I'd be honored.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Aramis bows politely.</context>
+      <utterance>How's two o'clock behind the Luxembourg?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Aramis takes off. d'Artagnan swells with pride.</context>
+      <utterance>If that's where you wish to die, I won't disappoint you. Until then...</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three duels in one day. I love this town.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="2">
+   <speaker>ANNE</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Have you seen the King?</utterance>
+   <speaker>SENESCHAL</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>No, Your Majesty.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="5">
+   <speaker>MAN</speaker>
+      <mode>O.S.</mode>
+      <context>Anne reacts with a start. A tall, powerfully built man stands in the shadows, a spectre in red.</context>
+      <utterance>Your Majesty...</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>Cardinal Richelieu steps out of the darkness. He smiles.</context>
+      <utterance>Cardinal Richelieu, you surprised me.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu's question takes her by surprise. He bows before Anne. Considering a reply, she extends her hand. The Cardinal kisses it.</context>
+      <utterance>How was your ride?</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My ride...? Well, I... I'm not sure...</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forgive me.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="10">
+   <speaker>RICHELIEU</speaker>
+      <mode>CONT'D</mode>
+      <context>His manner is both charming and paternal. Anne, smart enough to exercise caution in all her palace dealings, is nonetheless touched by his concern.</context>
+      <utterance>But your welfare is more than a matter of personal interest. It is a matter of State. But rest assured, your secret is safe with me.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>Richelieu turns to the great map, speaks gently.</context>
+      <utterance>Thank you.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're homesick.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lonely. Is that the same thing?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu brings his eyes back to Anne, continues:</context>
+      <utterance>Sometimes.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Austria's loss is France's gain.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure my new husband shares your opinion.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nonsense. He's young, not blind.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mostly, he is absent. I've barely seen His Majesty since our wedding, and that was three months ago. Whenever he's around me, he has nothing to say.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Arranged marriages can be difficult. Your father and I thought yours would bring Austria and France closer together.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="8">
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Countries align more swiftly than people, I'm afraid. Louis and I remain... far apart.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>He says it with seeming humility, not condescension. Anne nods assent.</context>
+      <utterance>May I advise you?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Louis was only nine years old when his father was assassinated. He lost his childhood forever that day. I have watched him grow toward manhood, seen the toll his life demands. A boy who is not allowed to be a boy sometimes has difficulty becoming a man. He is shy, yet boastful. Giving, yet stubborn. But most of all, he is not yet sure exactly who he is. The boy who lost his father. Or the King of France.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But how can I...?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Anne considers his eloquent advice, formulates a reply... when the huge doors to the throne room open with a dull boom, the Seneschal chants:</context>
+      <utterance>Flatter him. Make the boy feel like a King. So that the King may be your husband.</utterance>
+   <speaker>SENESCHAL</speaker>
+      <mode></mode>
+      <context>The Seneschal steps aside as LOUIS XIII enters. He is surprisingly young, no older than d'Artagnan. His face is handsome and intelligent.</context>
+      <utterance>His Majesty, the King.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Majesty.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>As Louis strides toward them, Richelieu and Anne bow.</context>
+      <utterance>Cardinal Richelieu, I've been looking for you.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="10">
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>Louis hides his nervousness, not to mention his love, behind a formal veneer. Anne, emboldened by Richelieu's confidences, replies:</context>
+      <utterance>Oh. Anne. Hello. I didn't know you were here.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>Louis suddenly remembers the reason he's here. Determin- ation breeds a more capable attitude.</context>
+      <utterance>Would you like me to go?</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Please, stay.  Your Eminence, I demand an answer.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps if I knew the question...</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've just been told that you went ahead and disbanded my Musketeers.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You approved the decision.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But not the timing of the matter. I intended to address them myself, explain the situation...</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Majesty, France is on the brink of war. We dare not hesitate.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But these men are my personal guards...</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They are the bravest fighters in France.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="11">
+   <speaker>RICHELIEU</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>We'll need them in the field if we're to win this war with England. Buckingham plans to invade La Rochelle within the month. I thought it best to act quickly --</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>He says it with newfound resolve. Richelieu receives the rebuke with quiet grace. Anne watches the latter closely, suppresses a smile. The boy is nearer to King than Richelieu imagined.</context>
+      <utterance>I will be the judge of what is best. For me, and for France.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>A tense beat. Anne, feeling out of place, steps toward the door.</context>
+      <utterance>Of course. Forgive me.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anne? Are you all right?</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You two should continue this discussion in private.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your thoughts on the matter interest me. They might... help.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>She means it. Anne smiles, exits. A beat. Louis sighs.</context>
+      <utterance>It seems to me that... you're doing very well on your own.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's beautiful.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Extremely.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Intelligent.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="9">
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes she scares me half to death.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Repetition reveals calculation. Louis nods. And the Cardinal surprises with quiet humor:</context>
+      <utterance>May I advise you?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She scares me too. As do all women who join beauty to intelligence. What's a man to do?</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have no idea.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The course of love is full of frightful turns. But, no matter how you feel, no matter how hopelessly afraid... never let her know that you are anything other than the bravest and most confident man in France. Make that your starting point, and everything else will fall... into place.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The bravest man in France...</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>A beat. Richelieu acting as the lost father. And Louis appreciating it, speaking as a son:</context>
+      <utterance>Good advice for a shopkeeper. Let alone a King.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Eminence, I'm sorry that I was sharp with you. It's just that the Musketeers... well, they're not just my guards. They're my friends too.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know. But don't worry.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="4">
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a foolish boy. And barely that.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That foolish boy is about to become a man.  Which is all the more reason for us to act... quickly.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And the Queen...?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>HOLD ON the Cardinal and Rochefort, watching the King and Queen below.</context>
+      <utterance>She will receive me in ways she never thought possible. Privately.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="3">
+   <speaker>COUNT DE WINTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait here.</utterance>
+   <speaker>ARMAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But, Father...</utterance>
+   <speaker>COUNT DE WINTER</speaker>
+      <mode></mode>
+      <context>He will not consider otherwise. Armand sighs, stands in the shadows, and watches his father cross toward Milady's house.</context>
+      <utterance>Wait.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="7">
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Count de Winter.</utterance>
+   <speaker>COUNT DE WINTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We found you.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Now that you have, what will you do?</utterance>
+   <speaker>COUNT DE WINTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bring you back. To pay for what you did to my son.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And if I resist...?</utterance>
+   <speaker>COUNT DE WINTER</speaker>
+      <mode></mode>
+      <context>The Count steps closer, close enough to touch. Milady, eyes bright with excitement, the smile still playing about her lips, replies:</context>
+      <utterance>I will kill you with my bare hands.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>Milady, who has been removing combs throughout, reaches for the next, and...</context>
+      <utterance>Well if that's the case, I'd better start packing. But first, my hair...</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="7">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ten minutes early.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have another appointment at one.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll miss it, I'm afraid.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Athos appreciates the young man's retort, takes a closer look. Then he rises to his feet, the pain in his arm makes him wince.</context>
+      <utterance>I'll try my best to be on time.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan notices Athos' pained expression, the blood on his sleeve.</context>
+      <utterance>I asked two of my friends to act as seconds, but they are not as punctual.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you're wounded.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry. I fight just as well with my left hand.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="13">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you'd rather kill me another time...</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Porthos and Aramis arrive on horseback. They dismount, view d'Artagnan with amazement. D'Artagnan reacts with similar surprise, smiles sheepishly.</context>
+      <utterance>Thanks, but I see my seconds coming now.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're you doing? You can't fight this man.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I'm fighting him.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, monsieur. But not until one o'clock.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute. I've got a duel with him, too.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir. But not until two.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long have you been in Paris?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I arrived this morning.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've been... busy.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've also fallen in love.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Better to die for love than to live for it. Gentlemen?</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="8">
+   <speaker>JUSSAC</speaker>
+      <mode></mode>
+      <context>Athos and d'Artagnan separate as Jussac and his four swordsmen stride towards them.</context>
+      <utterance>There they are!!</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Athos steps forward to meet him.</context>
+      <utterance>Jussac. Again.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you the next time we met I'd want an answer. But I didn't expect you so soon.</utterance>
+   <speaker>JUSSAC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The three of you are under arrest. The boy's of no interest to me and is free to go. Do you intend to resist?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Porthos huddles with Athos and Aramis.</context>
+      <utterance>Oh, don't be stupid. Of course we intend to resist. Just give us a second.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Interesting odds. Five of them and three of us.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It hardly seems fair. Let's give them the chance to surrender.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>They turn and regard d'Artagnan.</context>
+      <utterance>Excuse me, but there are four of us.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="11">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is not your fight. You're not a Musketeer.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>The three Musketters exchange smiles. D'Artagnan's youthful bravado manages a small dent in their cynicism.</context>
+      <utterance>I may not wear the uniform, but I believe I have the heart of a Musketeer.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bold and brave.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A poet.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you got a name, boy?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>D'Artagnan.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>The name has meaning for all of them. The Musketeers look at each other, deadpan, shake their heads.</context>
+      <utterance>D'Artagnan?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Impossible.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Athos knows that it is. He steps forward, extends a hand. The others follow, shake as well. Athos intro- duces each in turn.</context>
+      <utterance>It couldn't be.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Athos... Porthos... Aramis.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Meanwhile, Jussac and his Guards look on with increasing impatience. He clears his throat, draws his saber. The Musketeers turn toward the Guards, d'Artagnan standing among them.</context>
+      <utterance>Pleased to meet you... How do you do?... Good to see you again...</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="2">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well. Now that we're all acquainted...</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan and the Musketeers draw their swords... and charge.</context>
+      <utterance>The Cardinal's Guards.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="9">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Aramis replies while shifting from one foe to the next.</context>
+      <utterance>Damn monks. Always spoiling everybody's fun.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They are nearer to God...</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're about to get a little nearer to the hilt of my sword.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pagan.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Porthos slides over to handle one of Aramis' opponents. He'd rather bicker from close range. But Biscarat struggles to his feet, grabs his saber. Porthos sees him, sighs.</context>
+      <utterance>Papist.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>And Porthos returns to his original foe. Meanwhile, Athos' heavy strokes take their toll. Cahusac staggers, wounded in arm, shoulder, grazed at the head -- and falls to the ground with a thud. Aramis calls out to him, indicates d'Artagnan:</context>
+      <utterance>I'm fine, thank you.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take a look at our young friend.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Not only is d'Artagnan alive, but he's making a fool out of Jussac. Frustrated, enraged, Jussac makes a full lunge at him, but d'Artagnan ducks, then slips under Jussac's sword like a snake and runs him through.</context>
+      <utterance>You mean he's still alive?</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="2">
+   <speaker>BISCARAT</speaker>
+      <mode></mode>
+      <context>Porthos lets the bolo fly -- it catches Biscarat about the neck, the balls slam into his head. The Guard drops to the ground without a sound.</context>
+      <utterance>Now what...?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God, I love my work.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="5">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's he doing?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Porthos returns in high spirits, stashes the bolo in a pouch under his cloak. D'Artagnan sees the other weapons there, including a boomerang. Maybe next time.</context>
+      <utterance>Last rites. Aramis takes death very seriously.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know where this bolo comes from?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Queen of America?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spain.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="11">
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't encourage him. By killing Jussac, the boy's made himself an outlaw too.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not if he leaves Paris. Which is exactly what he's going to do.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't leave. I just got here.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go home, find a wench, live long and prosper.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Aramis and Porthos look to Athos. As always, he will decide.</context>
+      <utterance>Why can't I stay with you?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>It's hard to say whether he's acting out of concern for the boy... or he simply doesn't give a damn. Whatever the case, d'Artagnan is crestfallen. The Musketeers mount their horses, Porthos and Aramis adopt a friendlier tone.</context>
+      <utterance>Because I do not want you to.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know Athos may seem cold and unfriendly, but don't let that fool you.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He really is cold and unfriendly.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But he's also right. This is our fight, not yours. Go on, get out of here.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatever happened to the motto of the Musketeers? 'All for one, and one for all.'</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wake up, boy. The Musketeers are just a dream.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="5">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rochefort's got the boy.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too bad.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Athos spurs his horse, rides away. Aramis and Porthos exchange sad looks and hopeful comments.</context>
+      <utterance>You can't just leave him.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He has a plan.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>And with that, they gallop after.</context>
+      <utterance>Definitely. A plan.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="2">
+   <speaker>GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This boy fights like a wildcat.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>The Guard clobbers d'Artagnan with the scabbard of his sword. The last thing d'Artagnan sees is the three Musketeers riding into the distance. Then the WORLD</context>
+      <utterance>Thank you.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="7">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My sword --</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Rochefort steps INTO VIEW, the familiar eyepatch, admiring d'Artagnan's sword in his hands.</context>
+      <utterance>It's magnificent. Where did you get it?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It belonged to my father.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Rochefort studies d'Artagnan for a long moment, then...</context>
+      <utterance>Your father...</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well now it belongs to me. I collect swords. I take them from the men I kill.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan starts forward. But Rochefort raises the sword, points it at his throat. D'Artagnan freezes, feels the sharp tip of the blade.</context>
+      <utterance>I'm not dead yet.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Rochefort shoves d'Artagnan back to the floor with a heavy boot. A beat. D'Artagnan peers at his dismal surroundings.</context>
+      <utterance>Soon enough.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="14">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where am I?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll give you a hint. It's not the Louvre.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Bastille! I'm in the Bastille!</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you're the first person who was ever happy to be here. Unfortunately, your visit will be a short one.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You killed one of the Cardinal's Guards. An offense punishable by death.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He interrupted a duel I was fighting.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Also punishable by death.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was a long day.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know them?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>D'Artagnan says nothing. He will not betray them. Rochefort leans close.</context>
+      <utterance>The Musketeers.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me where they are, and I will be lenient.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How?</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="2">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Bold words, bad timing. Rochefort snarls, slams the hilt of the sword into d'Artagnan's head. The youth slumps from the wooden stool to the floor, unconscious.</context>
+      <utterance>Give me my father's sword, and I'll cut out your heart.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Rochefort storms from the cell. He nods at a grizzled jailer on his way out, indicates the chains and manacles on the cell wall. The jailer scurries over to d'Artagnan, inert in a shallow puddle of foul water. He lifts, drags him toward the chains -- but d'Artagnan's eyes pop open, the jailer reacts with surprise, and...</context>
+      <utterance>Fool. Like your father.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="3">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>The figure rises. The hood falls back... revealing the unforgettable features of Milady de Winter. She answers the Cardinal's smile with a seductive expression.</context>
+      <utterance>I have an errand that requires your singular talents.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was beginning to think you'd forgotten me.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu and Milady share a look of intimacy, two vipers from the same pit.</context>
+      <utterance>Forget you? Impossible.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="6">
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You did it. An alliance with Buckingham.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Rochefort knows what this portends. He steps from the corner.</context>
+      <utterance>The King left me no choice. Now that he's come of age, the boy believes he should rule France. Instead of me.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going to go through with ... everything?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Everything.  You're to leave for Calais at once. A ship called the Persephone will carry you to England. It sails Tuesday, midnight. I want Buckingham's signature next to mine before the King's birthday. Friday.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Consider it done.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu's not talking about Louis. He's talking about himself.</context>
+      <utterance>And doing so, shall earn you the gratitude of... a King.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="8">
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>When d'Artagnan fails to respond, Rochefort gives him a mighty kick. D'Artagnan scrambles into the correct posture of supplication. Rochefort continues:</context>
+      <utterance>On your knees.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the boy who killed Jussac.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can explain that --</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Rochefort punches d'Artagnan in the head, knocking him to the floor. The Cardinal frowns.</context>
+      <utterance>Silence!</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>D'Artagnan reacts to the Cardinal's reasonable tone. Rochefort makes a sullen exit. The Cardinal smiles.</context>
+      <utterance>Rochefort. Violence solves nothing. Leave him to me.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>D'Artagnan reacts with perceptible awe, as if seeing his first movie star. He sits in a finely brocaded chair, looks at the Cardinal, an apparition in red. The Cardinal speaks, his manner casual, friendly.</context>
+      <utterance>Please. Sit down.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much did you hear?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not a word, Your Eminence. I stepped from my cell for a breath of air, and became lost in the corridors, it's dark as you know, but then I saw a light up ahead, the light over your door, I...</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="12">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You may have many talents, my young friend. But guile is not one of them. Do you have a name?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>D'Artagnan.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've heard that name before. Are you a Gascon?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, Your Eminence.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me. What brought you to Paris. And don't say 'a horse.'</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came to join the King's Musketeers.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bad timing.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So I've heard.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>D'Artagnan, I like you. I could use a capable young man like you in my Guards.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm honored, Your Eminence, but I don't think I would be very popular with the other men. Not after today.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose not. Your heart is set on being a Musketeer.  When I was your age, I too had dreams of joining the Musketeers.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You, Your Eminence?</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="9">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu's seeming kindness conceals a heart of ice. D'Artagnan sees it now, replies quietly. No longer in awe, but in opposition.</context>
+      <utterance>Why not? Becoming a Musketeer is the fantasy of every young Frenchman. Or should I say it was...  Like the Knights of the Round Table, the Musketeers have outlived their usefulness. They are a thing of the past.  And so have your three friends. Tell me where they are, d'Artagnan, and I will spare your life.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. But I can't tell you what I do not know.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In that case, give my regards to the headsman.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about my trial?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu turns for the door, means to dismiss him. D'Artagnan calls after.</context>
+      <utterance>You've just had it.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait --</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why? Do you object to losing your head?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I like it where it is.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then tell me what I want to know, and perhaps you will keep it there a few years longer.  Where are the three Musketeers?</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="8">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And if you did?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't tell you.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu opens the door. Rochefort waits on the other side.</context>
+      <utterance>I admire your courage, young man. You might have made a fine Musketeer after all.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Rochefort steps into the room, grabs d'Artagnan roughly by the arm, hurls him from the chair to the floor. This time Richelieu does not utter protest. Instead, he turns to the Captain, commands:</context>
+      <utterance>But we'll never know, will we?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Find the three Musketeers and kill them.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They'll be dead by dawn.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>With that, Cardinal Richelieu sweeps into the dark. HOLD ON d'Artagnan for a beat. History's pawn.</context>
+      <utterance>A comforting thought. Good night, d'Artagnan. Enjoy it. Morning comes quickly.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="3">
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Milady left at midnight. By private coach.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A remarkable woman. The most beautiful I've ever known. And the deadliest. Which would explain my attraction.  How is our young daredevil holding up?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Down below, the horse cart reaches the scaffold. A man- at-arms drops the tailgate, d'Artagnan steps down. He is taken into the custody of a CAPTAIN OF THE GUARDS, and several men-at-arms carrying muskets.</context>
+      <utterance>He's wishing he'd never heard of the Musketeers.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="8">
+   <speaker>PRIEST</speaker>
+      <mode></mode>
+      <context>D'Artagnan regards the Priest whose face is hidden be- neath the brim of his broad black hat. He holds a large Bible in his hands.</context>
+      <utterance>Fear not, my son...</utterance>
+   <speaker>PRIEST</speaker>
+      <mode></mode>
+      <context>The Priest raises his face, reveals it... and winks. It is Aramis. He whispers:</context>
+      <utterance>For we are with you, always.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>D'Artagnan's heart soars. He turns to face the execu- tioner. Porthos grins beneath the hood's overhang.</context>
+      <utterance>All for one, and one for all...</utterance>
+   <speaker>CAPTAIN OF THE GUARDS</speaker>
+      <mode></mode>
+      <context>Porthos lays his axe aside, approaches d'Artagnan in a threatening manner. He takes him by the scruff of the neck, and forces his head upon the chopping block. The crowd goes wild.</context>
+      <utterance>Prepare the prisoner.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>The Captain of the Guards gives Aramis a suspicious look.</context>
+      <utterance>Don't worry, boy. You won't feel a thing.</utterance>
+   <speaker>CAPTAIN OF THE GUARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is Father Rostand today?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The good father is... all tied up.</utterance>
+   <speaker>CAPTAIN OF THE GUARDS</speaker>
+      <mode></mode>
+      <context>Porthos nods.</context>
+      <utterance>Very well. Proceed.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="4">
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barbarism.</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Men call it justice.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>She replies with contempt, reins her horse away from the square, the crowd, the executioner's axe. But Constance freezes in place, eyes wide. As d'Artagnan, upon the cart, rolls INTO VIEW.</context>
+      <utterance>Are you surprised?</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context>For just a moment, their eyes lock. Inestimable space between. Constance's eyes fill with tears, she watches d'Artagnan. Porthos steps back from d'Artagnan, raises his axe. D'Artagnan shuts his eyes, wonders, mutters a silent prayer. That's when screams of panic erupt from the crowd. D'Artagnan raises his head to see the source of this mayhem.</context>
+      <utterance>It's him.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="2">
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes!</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My carriage.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="2">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Porthos lifts the lid. Inside: bottles of wine, champagne, and a wide assortment of foods.</context>
+      <utterance>Well, what have we here?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How considerate of the Cardinal to provide us with a snack.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="4">
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Aramis opens the box, reacts. It is filled with gold coins, jewelry.</context>
+      <utterance>Hello.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How is it that a man of God becomes a man of gold?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Trinkets for the ladies.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's share.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="3">
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you be so good as to distribute these? Your generosity will be greatly appreciated.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But...?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're firing at us!</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="7">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Champagne?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know I prefer wine.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Porthos ducks down, returns with a new bottle.</context>
+      <utterance>Don't go away.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Porthos hands the bottle to Athos. Athos hands the reins to d'Artagnan. D'Artagnan struggles with the reins, tries to control the horses. And beams, taking delight from every instant of adventure. Athos SMASHES the top of the BOTTLE, drinks deeply, settles back to enjoy himself.</context>
+      <utterance>May I recommend this find Cabernet?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Turn right at the next street.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The next right...?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos growls, d'Artagnan jerks at the reins. The carriage careens around the corner, tipping on two wheels.</context>
+      <utterance>Turn.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="4">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gentlemen, this is the end of the line. I hope you had a pleasant ride.  Unhitch the horses.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan points to the bottom of the hill. The mounted Guards chase after, begin their ascent.</context>
+      <utterance>But the Guards.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan hurries to the horses. Porthos and Aramis climb from the cab. Porthos emits a contented belch.</context>
+      <utterance>Do as I say.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>The interior of the Cardinal's carriage bursts into flames.</context>
+      <utterance>Stand back.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="2">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd give five years of your life just to see the Cardinal's face!</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ten!</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="7">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't eaten in three days. I guess with all the excitement, I forgot.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your trip from home has been an eventful one.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three days.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I heard of a d'Artagnan once. He was a captain in the Musketeers when we were just recruits.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was my father.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A good man, I'm told.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew there was something familiar about this boy.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="6">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>The mention of the elder d'Artagnan's death casts a pall. D'Artagnan continues, tentative, the memory still hurts.</context>
+      <utterance>He died when I was nine.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>An uncomfortable silence. It is Athos who finally speaks:</context>
+      <utterance>All my mother would tell me is that he died in the service of the King.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan pales, stunned and silent. He manages a broken whisper:</context>
+      <utterance>D'Artagnan, your father and another Musketeer were ambushed and murdered outside the Louvre.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Athos shakes his head. Porthos adds:</context>
+      <utterance>This other Musketeer -- is he still alive? I'd like to talk to him.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan isn't listening. He stands suddenly, turns, and walks away. He doesn't want the Musketeers to see the tears forming in his eyes. Aramis shouts after:</context>
+      <utterance>You already have. His name is the Count De Rochefort.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>D'Artagnan.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="10">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>On a battlefield, defending his King. Fighting bravely for France. And now... I will find the man who murdered my father and kill him where he stands.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A man is better measured by his life than by his death. Your father was bold, and brave.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you never knew him...</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>That's all the evidence Aramis requires. D'Artagnan pauses to reflect. Then wonders:</context>
+      <utterance>He lives in you.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And your father?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>The church took me in.</context>
+      <utterance>I was orphaned at a young age.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't have one.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Aramis opens his cloak, reveals a priestly cloth. A secret he carries near to his heart.</context>
+      <utterance>But I did. He was a great man, a leader of the church. And his example inspired me to dedicate my life to God's service.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were a priest...</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was a fool.  This great man, this father, betrayed the church, and turned his back on God. To worship power and gold.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="5">
+   <speaker>ARAMIS</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>It broke my heart to see it.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you became a Musketeer.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I joined the Musketeers and a strange thing happened. I got my faith back.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But who was that man...</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>D'Artagnan nearly jumps from his boots.</context>
+      <utterance>All of France knows him. His Eminence, the Cardinal Richelieu.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="2">
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Eminence. The Musketeers have been sighted riding north on the road to Calais. Richelieu nods, he already knows. He picks up one of the pigeons, strokes it gently.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry. Thanks to our winged friends, every mercenary and bounty hunter in France will be waiting for them.  Isn't modern communication a wonderful thing?</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="9">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... I couldn't hear it clearly, I was standing by the door, the voices were low --</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go on.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Cardinal sent someone to England. With a secret treaty.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>The Musketeers look at each other with alarm.</context>
+      <utterance>He's made an alliance with a man named, Bucking... Buckingham.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Duke of Buckingham?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know him?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Tuesday, midnight.</context>
+      <utterance>He rules England the way Richelieu rules France. D'ARTAGNANj A ship called the Persephone waits for the Cardinal's agent at Calais. To take him to England.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Calais is over two hundred leagues from here...</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="8">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This messenger and the treaty will prove the Cardinal a traitor. If we can get our hands on them.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are we waiting for, let's go.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos stops their exuberant plots and plans with a single word. All turn, wonder.</context>
+      <utterance>Wait.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does the Cardinal know you have this information?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then he knows we have it too. And he'll do everything in his power to stop us.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But with three men trying, one of us might be able to make it.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Bold words. D'Artagnan matures by leaps and bounds. Athos almost smiles.</context>
+      <utterance>Four.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="4">
+   <speaker>FARMER</speaker>
+      <mode></mode>
+      <context>D'Artagnan starts to dismount.</context>
+      <utterance>Thank God for a friendly face. My horse broke loose. Can you help me move these kegs out of the road?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stay on your horse.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He needs our help.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Suddenly: two other men step before the wagon, pointing muskets. The ragged Farmer reaches inside his coat, pulls out a pistol, makes a smirking request:</context>
+      <utterance>Don't worry. We'll help him.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="7">
+   <speaker>FARMER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Won't you step down... Musketeers?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>D'Artagnan and the "Farmers" gape at Aramis in surprise.</context>
+      <utterance>Gentlemen, I beg you. Please put away your weapons and remove these kegs from the road. We'd prefer to ride on without having to kill you.</utterance>
+   <speaker>FARMER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're threatening us?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>The Farmer laughs, contemptuously. He raises his pistol and aims it at Porthos' head. But before he can pull the trigger, THREE EXPLOSIONS ERUPT from under the cloaks of Athos, Porthos and Aramis. When the smoke clears, d'Artagnan is startled to see the three dead "Farmers" sprawled in the road and the three pistols emerging from beneath the cloaks of the Musketeers.</context>
+      <utterance>It's not a threat, it's a fact. If you don't haul those kegs away, you're dead where you stand.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mine hit the ground first.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Aramis swings out of the saddle and begins to perform last rites over the bodies. D'Artagnan still can't be- lieve what just happened. He turns to Porthos. Porthos raises the barrel to his lips and blows away the gunsmoke.</context>
+      <utterance>Mine was taller.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>THUNDER RUMBLES and RAINS begins to fall.</context>
+      <utterance>There's only one rule, d'Artagnan -- stay alive.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="5">
+   <speaker>INNKEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good evening.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See to our horses and bring us some food.</utterance>
+   <speaker>INNKEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry but we have little to spare. The Cardinal's Guards were here today. They helped themselves to our food and then refused to pay.</utterance>
+   <speaker>BARMAID #1</speaker>
+      <mode></mode>
+      <context>The sound of SLIDING STEEL as Athos, Porthos, Aramis and d'Artagnan draw their swords, ready to fight. They stand back to back in a circle, ready for attack. But there is no attack. Quite the contrary. The people here are thrilled to see them.</context>
+      <utterance>Musketeers!</utterance>
+   <speaker>INNKEEPER</speaker>
+      <mode></mode>
+      <context>The Musketeers lower their swords.</context>
+      <utterance>Musketeers in my house! Gentlemen, put away your swords and come in. Anyone who fights the Cardinal is welcome here.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="8">
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>The Musketeers return their swords to their sheathes and take off their dripping hats and capes. The pretty Barmaids crowd around them to collect their gear and car- ry it to the fire.</context>
+      <utterance>I think we've found a home.</utterance>
+   <speaker>INNKEEPER</speaker>
+      <mode></mode>
+      <context>Porthos rubs his hands together, eager to indulge himself. He follows the Barmaids, booming in his loud, friendly voice.</context>
+      <utterance>We don't have much but what we have is yours.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Porthos beams, waiting for a big response but nothing happens. The Barmaids look at each other.</context>
+      <utterance>Ladies, you're in for a treat tonight. Allow me to introduce myself. I'm the Musketeer they call Porthos.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Still no response. Aramis and d'Artagnan hide smiles.</context>
+      <utterance>Porthos.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's hard to believe they haven't heard of the great Porthos.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>The three Barmaids perk up.</context>
+      <utterance>Oh, shut up, Aramis.</utterance>
+   <speaker>BARMAIDS</speaker>
+      <mode></mode>
+      <context>And with that, the three Barmaids desert Porthos and scurry across the room to attach themselves to Aramis. Porthos shakes his head and flops down in a chair.</context>
+      <utterance>Aramis? Did you say Aramis?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't get it. I just don't get it.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="6">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>The Barmaids accept his leering compliment with glee. But d'Artagnan isn't so sure. Porthos, with two Barmaids, bellows a reply.</context>
+      <utterance>I said, 'A Queen is no different than a barmaid in the dark. Though less... practiced in the arts of pleasure...'</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>The Barmaids heartily concur. D'Artagnan looks over Porthos' shoulder, to the dark-haired Barmaid seen previ- ously. Porthos follows his gaze, grins.</context>
+      <utterance>If you're going to be a proper Musketeer, you'll have to learn the manly art of wenching. Right, ladies?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Porthos pulls one of the Barmaids to his chest, brings her lips toward his.</context>
+      <utterance>Ahh, very good. Your first subject. But you'll need instruction. Watch closely.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The secret to wenching is the first kiss. For in that kiss, a lasting impression is made. If it is weak, she will think you are weak. And if it is comical, she will think you are a clown. With me?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Weak... weak. Comical... clown.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Porthos gives the Barmaid a powerful kiss. He breaks it, turns to d'Artagnan with a grin.</context>
+      <utterance>Very good. And as a Musketeer is never weak, and only rarely a clown, your first kiss must be all the things that you are. Like this...</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="6">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You may speak first if you like, your name, her name, an endearment or two. But words are usually a waste of time.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>All turn to regard Aramis. He'll play along too. Porthos reacts with delight. D'Artagnan with interest. Aramis continues:</context>
+      <utterance>Only if you don't know which words to say.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Words may make a more lasting impression than a thousand of Porthos' kisses.</utterance>
+   <speaker>BARMAID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not likely.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Aramis' courtly behavior is as out of place in these en- virons as it is persuasive. The Barmaid slips from Porthos' lap, sits down on the bench beside him. Aramis does not touch her. He simply looks into her eyes... and begins to speak.</context>
+      <utterance>I'll demonstrate. Please. Sit beside me.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Shall I compare thee to a summer's day? Thou art more lovely and more temperate: Rough winds do shake the darling buds of May, And summer's leash hath all too short a date; Sometime too hot the eye of heaven shines, And often is his gold complexion dimmed; And every fair from fair sometimes declines, By chance, or nature's changing course untrimmed; But thy eternal summer shall not fade.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="7">
+   <speaker>ARAMIS</speaker>
+      <mode>CONT'D</mode>
+      <context>covered with tears. Aramis pauses, almost embarrassed by the outcome. He turns to d'Artagnan, cites:</context>
+      <utterance>Nor lose possession of that fair thou owest, Nor shall death brag thou wanderest in his shade, When in eternal lines to time thou growest; So long as men can breathe, or eyes can see. So long lives this, and this gives life to thee.' The Barmaid, once skeptical, sits silently. Her face</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shakespeare.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>The Barmaid on his lap disagrees.</context>
+      <utterance>That's cheating.</utterance>
+   <speaker>BARMAID</speaker>
+      <mode></mode>
+      <context>D'Artagnan looks at the dark-haired Barmaid across the room. Porthos urges him on.</context>
+      <utterance>It's beautiful.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan steps forward. The dark-haired Barmaid sees him coming and smiles. D'Artagnan stands before her, hesitates, not sure where to start. Then, remembering as best he can:</context>
+      <utterance>Come on, d'Artagnan. We haven't got all night.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan takes the Barmaid into his arms, delivers a powerful kiss. As previously demonstrated. Porthos and Aramis smile proudly. The Barmaids cheer.</context>
+      <utterance>'Shall I compare thee to a summer's day? Thou are move lovely and more tempest, er, more tempered...'  Ahh, to hell with it --</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The boy's a natural.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="4">
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>D'Artagnan drains his flagon, indicates Athos sitting at a table by himself, scowling, working on his third bottle of Burgundy.</context>
+      <utterance>So little time, so much to learn.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>I have never seen Athos smile.</context>
+      <utterance>In all the years I've know him...</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why is he sitting by himself?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>A Barmaid scurries INTO VIEW. Porthos grabs her by the waist, adds the Barmaid to the one already sitting on his lap. The chair breaks beneath them, and all three go sprawling on the floor, laughing heartily.</context>
+      <utterance>Athos takes his drinking seriously. Ignore him. He'll be his usual warm, charming self by morning.  Service! My lap is cold!</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="4">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Athos pulls d'Artagnan down with a dark smile. He fills his flagon for him.</context>
+      <utterance>Come join us.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You fight like a Musketeer. Let's see if you can drink like one.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll drink anything you put in front of me.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan notices the dark-haired Barmaid eyeing him across the room.</context>
+      <utterance>Famous last words.  What shall we drink to?</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="6">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>The word nearly makes Athos grimace. He stares at d'Artagnan for a long beat, then beyond. As if to look into another time and place. Finally:</context>
+      <utterance>Love?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Would you like to hear a story, d'Artagnan? A love story? Athos' voice reveals unexpected vulnerability, the pain he keeps inside. D'Artagnan is fascinated, moved. He nearly whispers:</context>
+      <utterance>Love.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Athos takes a long pull from the bottle of burgundy, wipes the blood red wine from his lips.</context>
+      <utterance>Yes.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I once knew a man... one of the Counts of Berry. My native province. When the good Count was about your age, he fell in love with a visitor from Paris. A breathtaking girl of seventeen. She was more than beautiful, d'Artagnan. She was... intoxicating. And this man, the poor idiot, he married her.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Isn't that what people do when they fall in love?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be quiet and listen.  The Count took her to his castle and made her the first lady of the province. They were happy for a time, as happy as a man and a woman can be. Then one day, while riding in the woods, the girl was thrown from her horse, and knocked unconscious. The Count hurried to help her. Her dress was torn.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="6">
+   <speaker>ATHOS</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>On her her arm, the woman wore a gold band in the shape of a serpent. It was the only article of clothing she refused to remove. The Count's curiosity got the best of him. He reached over and slid down the gold band. He saw something on her arm... something she'd kept hidden 'til then...</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The fleur d'lis. She'd been branded...</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos pauses, imagines that life. The Count and his angel.</context>
+      <utterance>The Count's angel turned out to be a murderess who escaped the Executioner's blade. She swore that she loved him. Swore that she had changed. And if he would just keep her secret, they would live a long life together.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos now turns his unflinching gaze on d'Artagnan.</context>
+      <utterance>But the Count was young and he was stupid. He was tormented by the ridicule of his social class. And so he rejected her. For her lies and for her past.  And turned her over to the authorities to be executed for the crime.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you see... his heart did not agree. The Count soon realized what she had meant to him. And what he had done.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="8">
+   <speaker>ATHOS</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>That his... betrayal was far greater than her own.  Soon after he foreswore the society that shaped him. Gave up his title. And was never seen again.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He loved her.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>HOLD ON Athos for a long time. As he gathers up his pain, and puts it back again. Athos SMASHES open another BOTTLE. But the story has made d'Artagnan quite sober and a little sick to his stomach. He refuses another drink.</context>
+      <utterance>He killed her. It seemed like the same thing after a while.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good. More for me.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Aramis launches into something appropriate. Porthos and a Barmaid get up and begin a festive folk dance. Porthos is damned good. His joie de vivre is infectious and soon everyone in the inn is clapping and encouraging him. Every once in awhile, another WEAPON -- a dagger or something -- drops out of Porthos' clothing and hits the floor with a CLATTER. That's when Porthos, dancing with abandon, spins out of control, trips and falls on Athos' table, crushing it to the floor. Porthos lies in the wreckage, staring up. Athos, totally unperturbed, looks down and offers him the bottle.</context>
+      <utterance>Aramis -- play something with some blood in it! I feel like dancing!</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Care to dance, Athos?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Porthos blinks in amazement at Athos' grim face, then breaks out laughing.</context>
+      <utterance>Only if I can lead.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aramis! Athos made a joke!</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="5">
+   <speaker>INNKEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, gentlemen.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Were we making too much noise?</utterance>
+   <speaker>INNKEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You told me to wake you at dawn.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well?</utterance>
+   <speaker>INNKEEPER</speaker>
+      <mode></mode>
+      <context>They turn in disbelief to the shuttered windows. Sure enough. Sunlight is peeking in through the cracks.</context>
+      <utterance>It's dawn.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="3">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan is terribly hung-over from the night's carousing. He looks like he could puke at any moment. So that's exactly why Porthos shouts to him and says...</context>
+      <utterance>Beautiful morning, eh, d'Artagnan?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan covers his mouth. Porthos laughs good- naturedly.</context>
+      <utterance>You know, d'Artagnan, it's not a good idea to travel on an empty stomach. You really should have had a big portion of those sheep's brains...</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Would you please stop whistling?</context>
+      <utterance>My head feels like it's filled with the King's marching band.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="9">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whistling? I'm not whistling.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well someone is.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Barmaid's kiss left him dizzy.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hear it too. It sounds like...</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos is cut off by an EAR-PIERCING WHISTLE as a CANNON BALL drops out of the sky and STRIKES the ground nearby, sending up a tremendous EXPLOSION.</context>
+      <utterance>A connon ball.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Another BALL EXPLODES into the ground in front of them. Their horses rear up in fear, threatening to dump them out of their saddles. As the Musketeers and d'Artagnan struggle to control their horses, they look back and see an old castle atop a distant hill. A group of men operate two rusted cannons, left over from some long-forgotten war. The Musketeers barely calm their horses, when another BALL comes SCREAMING their way, IMPACTING a few feet away. As dirt rains upon them:</context>
+      <utterance>I hate cannon balls.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's your head now?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm beginning to wish the Cardinal had chopped if off.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos spurs his horse across the field, d'Artagnan and the Musketeers follow. But they discover crude battle- ments in their path. Athos changes direction, sees six horsemen waiting for them in the near distance. He changes direction again, as the horsemen charge after.</context>
+      <utterance>Stay with us, and you just might get your wish.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="3">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan nods, thrilled to go with Athos.</context>
+      <utterance>Split in half! D'Artagnan rides with me!</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll see you in Calais!</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos and d'Artagnan take off in one direction, Porthos and Aramis in the other. The pursuing horsemen soon race INTO VIEW, break in half to give chase.</context>
+      <utterance>Or hell!</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="6">
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But how, your Majesty? How can you tell if you're really in love?</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you think about him all the time?</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And when he's around, do your knees feel as weak as water?</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And when he looks at you, do you suddenly forget how to breathe?</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="14">
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then you're in love.</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context>Anne turns to Constance, soap and water swirl about her naked body. She wonders:</context>
+      <utterance>I am.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is he?</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll never believe it.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course I will.</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You won't.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The young man who rescued us from the bandit.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The young man on the scaffold?</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>A warm beat. Anne and Constance are friends as much as they are Queen and subject.</context>
+      <utterance>You're right. I don't believe it.</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you in love, Your Majesty?</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What an impertinent question.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="8">
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context>Anne pauses. If only her life, her emotions, were as simple.</context>
+      <utterance>Are you?</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>A sad beat. Constance teases:</context>
+      <utterance>My love... is a matter of state. It's complicated.</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you think about him all the time?</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As Queen, my mind touches on many subjects.</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do your knees feel as weak as water?</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never.</utterance>
+   <speaker>CONSTANCE</speaker>
+      <mode></mode>
+      <context>A beat. And Anne is a girl of eighteen again, not Queen. Wistful, she replies:</context>
+      <utterance>When he looks at you, do you forget how to breathe?</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>HOLD ON Anne for a beat.</context>
+      <utterance>I hope he will someday. I hope I will too.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="13">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Majesty, forgive me.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cardinal.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need your help. And could not in good conscience wait another minute.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want my help?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On what matter?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your... husband.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>Richelieu allows the jest, remains silent, watchful. Anne resumes, chooses her words with care.</context>
+      <utterance>Your King.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>Richelieu reacts with quiet pleasure. He steps closer.</context>
+      <utterance>Of course. As Your Eminence has been kind enough to advise me...  It's the least I can do.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>happiness.</context>
+      <utterance>I am worried about the King's...</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Huguenot rebellion, occupation in the Antilles and Cayenne. The coming war with France. These are not the usual hobbies of youth.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="9">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And now he wishes to postpone his birthday celebration.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He feels it is not... appropriate.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It sounds as though he is concerned with more important matters.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu makes his case with forceful eloquence, seeming loyalty. Anne considers, replies, noncommittal:</context>
+      <utterance>Which is exactly why we must celebrate.  To show the world that the King of France is strong enough to face any enemy on any field. To show France... that he is King.  He will listen to you. If you will speak.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>Anne senses hidden agenda, intrigues below the surface. The conversation's conspiratorial tone begins to disturb her.</context>
+      <utterance>I will speak to him.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now, if you'll excuse me, I...</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Anne nods, turns back toward the chambers. Richelieu calls after.</context>
+      <utterance>Of course.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Majesty?  Please understand that I do not underestimate the value of your assistance.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="4">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu never allows the mask to slip. Even for an instant. Louis glances at the throne room, the increasing number of Cardinal's Guards on duty. They make him feel uncomfortable. Louis speaks with renewed determination.</context>
+      <utterance>I'm sorry to be late, Your Majesty, but I was wrestling with an important matter of state.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why is it I don't see any of my Musketeers?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid... that's impossible.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="8">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Louis can't believe it.</context>
+      <utterance>They have become outlaws. They are terrorizing the countryside, robbing and killing innocent people.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There must be some mistake.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu, ever prepared, produces a sheaf of papers. No doubt counterfeit. But Louis has no way of knowing. He takes the papers into his hands, reacts with sadness.</context>
+      <utterance>No mistake. I have reports from the local constables involved.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Musketeers...</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Louis turns back to the balcony, the soldiers marching below. His mood glum and lonely. He sighs, moves on to another matter of business.</context>
+      <utterance>They are better off disbanded.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>Richelieu nods, not the least bit concerned.</context>
+      <utterance>Your Eminence, I've been hearing some very troubling rumors about you.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu smiles, his face a mask of innocence.</context>
+      <utterance>There are so many to choose from. Is it the one about my alleged alliance with Buckingham? Let's see if I remember it correctly. While the English attack from without, I'll undermine the throne from within -- depose you -- and become sovereign of France myself. That rumor, Your Majesty?</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It does seem rather farfetched.</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="5">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If there are any doubts of my loyalty, they'll be put to rest when we appear together at your birthday celebration.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been thinking about that. A birthday celebration when we're on the brink of war...</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your subjects are eager to celebrate the birth of their King at a time like this.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not so eager.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Louis looks up, wonders. As Richelieu draws him deeper into his spider's strategems.</context>
+      <utterance>I have an idea. Why don't you discuss the matter with your Queen?</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="3">
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My horse will not survive another league.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Porthos looks into the near distance, manages a weary smile.</context>
+      <utterance>Ten, twenty at the most.</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="5">
+   <speaker>FERRYMAN</speaker>
+      <mode></mode>
+      <context>The Ferryman turns a greedy eye on the Woman and child.</context>
+      <utterance>A privilege to carry you on my humble boat...</utterance>
+   <speaker>FERRYMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two pistoles.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I only have one. Couldn't my child ride free? She's so small...</utterance>
+   <speaker>FERRYMAN</speaker>
+      <mode></mode>
+      <context>A courtly voice intervenes.</context>
+      <utterance>Two pistoles.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Put away your money, madame. You and your child will cross the river under our protection. For free.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="6">
+   <speaker>FERRYMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody rides for free! Under your protection bloody well indeed! I'll teach you a thing or two about protection! Apple- cheeked young fools!! -- Just who do you think you are!!</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Two two Cavaliers react to the word. The Ferryman does, too -- into cringing, obedient servant.</context>
+      <utterance>Musketeers.</utterance>
+   <speaker>FERRYMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Musketeers? Well, why didn't you say so? Of course you'll ride for free. I insist on it. This way, pretty madame. My what a lovely little girl...</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Porthos!</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Aramis takes Porthos by the shoulder and turns him so he can see their pursuers pouring over the top of the hill on their horses.</context>
+      <utterance>What?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>And with that, Porthos takes the sharp edge of his boom- erang and brings it down on the dock rope. The rope splits and the ferryboat lurches away from the dock.</context>
+      <utterance>We sail!</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="11">
+   <speaker>FIRST CAVALIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're those Musketeers everyone's been looking for.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>The First Cavalier smiles, produces a flask.</context>
+      <utterance>Popularity has its price.</utterance>
+   <speaker>FIRST CAVALIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have some excellent brandy here. Would you gentlemen care to drink a toast with us to the Cardinal?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Porthos produces a bottle from under his cloak.</context>
+      <utterance>We'd be happy to.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you'll drink one with us to the King.</utterance>
+   <speaker>SECOND CAVALIER</speaker>
+      <mode></mode>
+      <context>is the Cardinal.</context>
+      <utterance>But the only King we recognize...</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are those who would call that treason.</utterance>
+   <speaker>FIRST CAVALIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Happily, no such objections have been raised... here.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right. I'll object.</utterance>
+   <speaker>SECOND CAVALIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm listening.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's see. You are, by your dress and by your manner, members of a bone-lazy class of servile ninnyhammers whose slavish allegiance to His Eminence the Cardinal is as that of a dog who likes nothing better than to sniff today where he has peed the day before.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="7">
+   <speaker>PORTHOS</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Piss is piss, no matter what robes surround it.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Ninnyhammers.</context>
+      <utterance>Well said. I'm impressed.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>The Cavaliers are not amused. The first replies in measured tones, his lips white with fury.</context>
+      <utterance>I was momentarily inspired.</utterance>
+   <speaker>FIRST CAVALIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I reply?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By all means.</utterance>
+   <speaker>FIRST CAVALIER</speaker>
+      <mode></mode>
+      <context>The Cavaliers have already pulled out their swords. Porthos and Aramis now reach for their own. Porthos deadpans:</context>
+      <utterance>Better to be a dog in the service of a great master, than a beef- witted moron so dazzled by the throne that he does not see the true nature of the foolish boy who wobbles atop it. Which is to say, that most muddy-brained of all men... a Musketeer.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe there's something about us that just pisses people off. At least I'd like to think so. It's too bad we can only kill them once.</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="9">
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been called a lot of things in my time...</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Porthos...</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But beef-witted is a little more than I can stand, not to mention unfair...</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Porthos...</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Aramis indicates the opposite shore as the flatboat approaches it. There, waiting patiently, swords and muskets already drawn... is a patrol of Cardinal's Guards.</context>
+      <utterance>What?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you swim?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. My horse can.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That'll do.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But...?</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="4">
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You go first and I'll watch your progress.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Stalemate. Then, they can't help it, Aramis and Porthos grin. Life is an adventure, lived to the fullest. They count...</context>
+      <utterance>No, no. Please. After you.</utterance>
+   <speaker>ARAMIS AND PORTHOS</speaker>
+      <mode></mode>
+      <context>And with that, as the Woman and child, the Ferryman look on, Aramis and Porthos guide their horses into the raging river. The Woman whispers after:</context>
+      <utterance>One, two -- three!</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context>Porthos manages a wink as he floats into the distance.</context>
+      <utterance>Thank you. God speed.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="6">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you think we've lost them?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>To the point, as always. D'Artagnan pauses to look at their beautiful surroundings, remembers:</context>
+      <utterance>They'll catch up eventually.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Athos is unmoved, or so it would seem. He replies with quiet cynicism:</context>
+      <utterance>My father used to hunt in a forest like this. He promised to take me on my tenth birthday. I don't know why he picked that year. Something about a boy becoming a man. I'd lay in bed at night and imagine it, just the two of us. But he died before I could go with him.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Only d'Artagnan is the hunted, not the hunter.</context>
+      <utterance>Well. You have your boyhood wish at last. The dark forest. The thrill of the hunt. The nearness of death.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd be proud to die for my King.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos rides into the forest. D'Artagnan hurries to follow.</context>
+      <utterance>I just wanted to save you from the life of a Musketeer. You don't have to go looking for experience, d'Artagnan. It'll find you soon enough. And when it does -- it will mark you forever.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="6">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll hold them off for as long as I can. Go on without me.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't leave you here. Not like this.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ride to Calais and stop the Cardinal's agent.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Athos points his pistol at d'Artagnan.</context>
+      <utterance>Athos... I can't.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>A few days ago, d'Artagnan would have obeyed without question. Fearful, if nothing else. But not here, not now.</context>
+      <utterance>Go, or I'll kill you myself.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A duel then.</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="3">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're insane.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We never finished the first.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan nods. Athos FIRES off another SHOT. He produces a gold coin, flips, slams it between palm and hand. And looks between.</context>
+      <utterance>All right. I'll toss a coin. Tails I stay, heads you remain. Agreed?</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="5">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos returns the coin to his doublet without giving d'Artagnan a chance to see.</context>
+      <utterance>Tails. I stay.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Athos reloads, FIRES below. D'Artagnan recognizes the kindness he has received. That Athos cannot fully express it. And that there is no use arguing with him.</context>
+      <utterance>But...?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>He gives it to Athos. They clasp hands.</context>
+      <utterance>At least take my pistol.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll never forget you.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos turns away, SHOOTS at another horseman. D'Artagnan runs to his MOUNT, GALLOPS away.</context>
+      <utterance>Go!</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="5">
+   <speaker>MILADY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>What is it, Henri?</utterance>
+   <speaker>HENRI</speaker>
+      <mode>DRIVER</mode>
+      <context></context>
+      <utterance>There's a body in the road, Milady.</utterance>
+   <speaker>MILADY</speaker>
+      <mode>O.S.</mode>
+      <context>Pistols are cocked. Henri's shadow falls across d'Artagnan's body.</context>
+      <utterance>Be careful.</utterance>
+   <speaker>HENRI</speaker>
+      <mode></mode>
+      <context>We hear the CARRIAGE DOOR OPEN. FOOTSTEPS to d'Artagnan's side.</context>
+      <utterance>It's a young man. He appears to be injured.</utterance>
+   <speaker>MILADY</speaker>
+      <mode>O.S.</mode>
+      <context>Strong hands grasp d'Artagnan and lift him from the cold ground.</context>
+      <utterance>My, what a handsome boy. Put him inside with me.</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="7">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have we met?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan notices that his shoulder has been bandaged. He looks around the large room. A FIRE ROARS in the grate. Food and drink have been set upon a table. D'Artagnan continues, still groggy, uncertain:</context>
+      <utterance>I... saw you in Paris.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where am I...?</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is Calais.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan leaps out of bed. Then realizes he is stark naked. Milady smiles. D'Artagnan gathers a bedsheet around him.</context>
+      <utterance>Calais!  The ship... Tuesday at midnight...</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are my clothes?</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="12">
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>Is something wrong?</context>
+      <utterance>Filthy. I'm having them cleaned.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan runs to a window, and throws open the shutters. Beyond: the harbor lights of the Port of Calais.</context>
+      <utterance>What day is it? What time?!</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's Tuesday, near nine.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Somewhere in the night, a BELL TOLLS the HOUR. Milady smiles.</context>
+      <utterance>Nine? Are you sure?</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>D'Artagnan relaxes slightly. Milady rises from the bed. She wears a sky blue dressing gown, something soft and silken beneath it. D'Artagnan reacts perceptibly. En- joying his discomfort, Milady crosses the room, joins him at the window.</context>
+      <utterance>Quite sure.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you in a hurry?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did I... get here?</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I found you in the road. Discarded. Like an unwanted kitten. Do you have a name or shall I make one up for you?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My name is d'Artagnan.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>D'Artagnan. I like that. I am the Countess de Winter. Milady.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Countess?</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My husband's dead.</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="12">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>She manages to combine sympathy, seduction, and just a hint of danger. All in a single reply. D'Artagnan hesitates, he is not immune to her charms, then:</context>
+      <utterance>I have learned to live with death.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Countess, I'm very grateful for what you've done, but I can't stay here. I've got...</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What...?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Important business.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How mysterious. A handsome young man with 'important business' in the still of night. Does it involve a young lady?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does it require clothes?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I need my clothes.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They won't be ready for at least an hour.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An hour?</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>Milady crosses to the table, food and drink upon it. As she passes by the fire, her dressing gown seems to disap- pear, revealing a silhouette that makes d'Artagnan's heart stop.</context>
+      <utterance>I told the innkeeper to bring them when they are dry. Until then, I'm afraid you are my prisoner. Would the prisoner care for a drink?</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="2">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Milady pours wine into glasses, turns to face him. And offers a smile that dazzles and burns.</context>
+      <utterance>I am... thirsty.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>D'Artagnan hesitates, then steps to her.</context>
+      <utterance>Good. Then we will sit by the fire, and eat and drink, and you may impress, perhaps even move me, with the story of how you came to lie unconscious, in the middle of the night, on the road to Calais.  I love a good adventure.</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="7">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Milady has reached Calais.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you not to worry about the Musketeers. They are dead by now.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Buckingham's signature will be on the treaty by morning.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The King's birthday celebration...?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Rochefort steps closer, speaks quietly.</context>
+      <utterance>Will proceed as planned. Thanks to the kind intercession of Queen Anne.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And our plans...?</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu pours two glasses of port, offers one to Rochefort. They turn, raise their glasses to the King's portrait. And drink.</context>
+      <utterance>Will proceed as well.</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="2">
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are sad.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Milady knows when to speak, and when to listen. She looks at d'Artagnan with gentle expression, allows him to continue. The warm room, the wine, her kindness. All conspire to loosen his tongue. D'Artagnan speaks quietly, from the heart:</context>
+      <utterance>I was thinking about my friends.</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="9">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The three best friends a man could have. We were separated on our way to Calais. I'm afraid I'll never see them again.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What brings you here?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd like to tell you. But I can't.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>D'Artagnan nods. He wants to impress her. He wants her to know how brave he is. And Milady is well aware of it. She looks down, assumes a more vulnerable pose.</context>
+      <utterance>'Important business.'</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I understand. Men make bold plans in secret. And women wait... to mourn, or to celebrate the outcome. I know from experience, it's a lonely vigil.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All I can tell you is... I'm on a mission for the King.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've heard that one before.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm serious.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>There is nothing a man is more loathe to experience than a woman who does not take him seriously. D'Artagnan acts accordingly, and reveals:</context>
+      <utterance>You are a young man. And young men are given to exaggeration. However, if you would like to entertain me with a story, I'm eager to hear it. And please, make it very brave, filled with handsome knights and beautiful ladies. I know, a dragon --</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="12">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came to Calais to stop a spy from sailing to England.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A spy...?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I believe you...  Aren't you afraid?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Musketeers are not afraid of anything.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew it. I knew you were a Musketeer the moment I saw you.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You did?</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course.  But, d'Artagnan, if this spy was to find out you are here, your life could be in grave danger.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A Musketeer is not afriad of danger.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>Her tone heralds a sudden shift. D'Artagnan sees the look in her eyes, can almost feel her lips upon him. But he resists. There is Constance's memory to consider. And midnight as it approaches.</context>
+      <utterance>I'm dangerous. You're not afraid of me?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not dangerous.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then what am I?</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="2">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Milady covers him with caresses. D'Artagnan resists slightly, but she presses closer, she will not be denied. Milady leans close, runs a fingertip along the line of his jaw. Her dressing gown falls open at the top, enough for d'Artagnan to see her breasts as they press against the silk beneath it. Milady speaks as her finger traces.</context>
+      <utterance>You're... beautiful.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>And with that, she reaches up to her hair, an ivory comb...</context>
+      <utterance>Beauty, danger. They are the same.</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="4">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan pulls back -- just as Milady's arm arcs down toward his neck, holding a long sharp stick pin, almost a dagger, attached to an ivory comb. D'Artagnan sees it in the nick of time, parries with his free hand, knocking the dagger to the rug. Milady leaps after it, hands out- stretched. D'Artagnan follows, battles for the dagger, stunned with fear and surprise:</context>
+      <utterance>I'm sorry --</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're you doing?! Have you lost your mind?!</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>D'Artagnan nearly chokes on the knowledge. Milady is the messenger he is seeking. He grabs the dagger, rolls to the side. Milady staggers after, the shoulder of her negligee rips open. D'Artagnan sees the soft white flesh, reacts with shock, recognition -- she bears the brand of the fleur de lis. The infamous mark of the murderess. Just as Athos told it to him. Not so long ago.</context>
+      <utterance>You came to Calais to stop a spy from sailing to England.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My God...</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="7">
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>The chamber door flies open. Henri and Parker, the Indo- Chinese bodyguard, appear. Parker faces d'Artagnan with a half-smile. He holds out his hands, both empty. And steps toward him. D'Artagnan looks at the dagger in his right hand. Then, unwilling to fight the man with an un- fair advantage, he tosses the dagger to the side, steps forward to meet him. Parker disposes of d'Artagnan with lightning speed. A series of unexpected kicks, brutally efficient blows. The young man is unfamiliar with, and no match for, the martial arts. Parker hoists d'Artagnan to his feet, dazed. Henri picks up the dagger with bad intentions. Milady straightens her dressing gown, adjusts her hair, and commands:</context>
+      <utterance>Parker!!</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>Parker holds him fast. Henri steps forward. And d'Artagnan thinks fast.</context>
+      <utterance>Kill him.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can kill me. But a surprise waits for you in England. That even Buckingham can't prevent.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What... surprise?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's one thing I'll never tell you.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>D'Artagnan's expression reveals nothing. Except to suggest the existence of a secret he is bravely keeping. Duly deceived, though she doesn't know it, Milady changes her mind.</context>
+      <utterance>D'Artagnan. You are young, vain, and foolish. But I do not know if you are clever.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll take him with us.</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="8">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The man at the inn... what did he want?</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Justice. Honor. Revenge.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>He thinks I murdered him.</context>
+      <utterance>He is the brother of my late husband, Lord de Winter. He blames me for de Winter's death.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you murder your husband, Milady?</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>A beat. D'Artagnan studies her pale, beautiful face. Remembers Athos' tale of love and loss.</context>
+      <utterance>What do you think?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think he's not the first husband you killed.  I once knew a man, one of the Counts of Berry. He told me a story... of beauty and danger. He was the bravest man I've ever known. And the saddest.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>The truth strikes home. Milady cannot conceal it. But she does not react with anger or scorn. D'Artagnan has reminded her of the one thing in the world that still touches her heart. D'Artagnan looks at her with a steady gaze. Milady cannot hold it, she turns to the carriage window.</context>
+      <utterance>I know...</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="3">
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the matter, d'Artagnan? Still hoping for your friends to ride to the rescue?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My friends are dead.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>Milady's return to form does not surprise. Parker shoves d'Artagnan toward the fog-enshrouded ship. A name can be made out on her barnacled hull. Persephone.</context>
+      <utterance>Well. If it's any consolation, you'll soon be joining them.</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="6">
+   <speaker>HENRI</speaker>
+      <mode></mode>
+      <context>The tall figure does not reply, nor does he move. Henri demands:</context>
+      <utterance>Take us to your captain.</utterance>
+   <speaker>HENRI</speaker>
+      <mode></mode>
+      <context>Henri goes to shake the man. He grabs his arm, and the man pitches forward, falling face first on the deck. Henri jumps back in alarm. Milady and the others react.</context>
+      <utterance>What are you, deaf?</utterance>
+   <speaker>BODYGUARD</speaker>
+      <mode></mode>
+      <context>Milady's Bodyguards rush around the deck, confront the other silent silhouettes. They, like the tall figure... are dead. The limp bodies topple at their touch. The Bodyguards shout alarm and panic:</context>
+      <utterance>What is this?</utterance>
+   <speaker>BODYGUARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dead! They're all dead!</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode>O.S.</mode>
+      <context>That's when Porthos, and Aramis -- come swooping down from above like avenging angels. They swing on the ends of ropes, slicing through the air, then dropping feet first on top of Milady's Bodyguards. D'Artagnan stands open-mouthed, as his three friends draw their swords.</context>
+      <utterance>Well I certainly hope so. After all that hard work.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You look like you've seen a ghost.</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="6">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two of them.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Porthos wades into the Bodyguards, at play, shouting as he goes.</context>
+      <utterance>Remind me to tell you the story of horses that could fly above raging waters. A heroic tale of love, death, and Musketeers. Suitable for the general public.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan grabs a sword from the deck, turns to join the fray. And finds himself face to face with Parker, the Indo-Chinese bodyguard. Parker has two Oriental swords spinning in his hands. One knocks d'Artagnan's sword out of his hand. D'Artagnan does a back flip but falls on the slippery deck. As Parker is about to chop d'Artagnan's head off, his face grimaces as he is lifted on a sword OUT OF FRAME. In the mist Athos is revealed!</context>
+      <utterance>All right then. All those who wish to die, raise your hands! Don't by shy, there's plenty to go around!</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan almost cries with happiness. He leaps to his feet and embraces Athos.</context>
+      <utterance>Sorry I'm late. Did I miss anything?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you were dead.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>He winks at d'Artagnan, returns to the fray. D'Artagnan follows. The Musketeers confront Milady's evil Bodyguards in the night and fog. Athos with brutal perfection. Porthos with strange weapons and a healthy sense of the absurd. And Aramis with familiar grace and artistry -- and a marked determination to disable, not kill, his opponents. Milady views the latter with alarm. As the battle rages around her, she retreats into the shadows.</context>
+      <utterance>Keep your mind on the mission, d'Artagnan.</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="4">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boy, it's a miracle you're still alive fighting like that.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>One of the Bodyguards, who wears a wooden leg, attacks Athos. Athos kicks the false leg out from under him, knocks him to the deck. D'Artagnan repeats, even as he disables his own foe.</context>
+      <utterance>First, always find your enemy's weakness. Second, take advantage of it. Watch me.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Aramis kneels at a dying man, delivers muttered last rites. A Bodyguard races INTO VIEW, means to kill him where he kneels. Aramis doesn't miss a beat -- he shifts, rises, delivers a punch and kick, knocking the man off the ship to the water below. A SPLASH is heard. And Aramis resumes a priestly pose, continues the litany.</context>
+      <utterance>Find the weakness. Take advantage. Got it.</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="5">
+   <speaker>BOTH SAILORS</speaker>
+      <mode></mode>
+      <context>With a collective "yah!" the two Sailors drop their daggers, and flee into the foggy night. Porthos looks about to see if anyone noticed their exit. D'Artagnan grins nearby.</context>
+      <utterance>Porthos the Pirate!!</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you I was famous.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Porthos the Pirate?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>Every Musketeer is running from something or someone. D'Artagnan deadpans:</context>
+      <utterance>Privateer. There's a difference.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Porthos reacts to d'Artagnan's jest. But before he can reply, the youth has bolted back to the fray.</context>
+      <utterance>I love a good sea story. Do tell me sometime.</utterance>
+</dialogue>
+
+<dialogue id="128" n_utterances="4">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you find the Cardinal's spy?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you kill him?</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Athos. The spy... is a woman.</utterance>
+</dialogue>
+
+<dialogue id="129" n_utterances="2">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos turns to d'Artagnan, wonders. And at that moment, sees a figure at the gangplank, swathed in fog and diffuse light. Milady. Time stops as they regard each other across the deck, the battle between.</context>
+      <utterance>What?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Milady turns and runs into the night. Athos races after.</context>
+      <utterance>No.</utterance>
+</dialogue>
+
+<dialogue id="130" n_utterances="3">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Milady takes a halting step, then turns to face him. Athos holds his musket in a steady hand. A very long beat. Milady takes a step closer. Finally, she whispers, with love, with hate:</context>
+      <utterance>Stop!!</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Athos.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did you do it, Sabine? How did you come back from the dead?</utterance>
+</dialogue>
+
+<dialogue id="131" n_utterances="9">
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A kind gentleman took pity on me.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did not.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>Athos grips the pistol tighter, as if to ward off the past and what it brings.</context>
+      <utterance>No, Count. You were too proud to listen to the truth. I learned the value of lies soon after.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give me the Cardinal's treaty.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos cocks the trigger. Milady whispers:</context>
+      <utterance>Then I will shoot.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>Athos' face is a mask of contradiction. He tries to pull the trigger, but it is not in him. Milady recognizes his pain with a nod. She feels it, too. Then, briefly, before she leaves him, Milady speaks softly. The past, their love, and where it led them.</context>
+      <utterance>Be kind. And aim for my heart.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>She turns and runs away... directly into the arms of Armand de Winter. He has ridden, and he has followed, and he has finally found her here.</context>
+      <utterance>I remember... everything.</utterance>
+   <speaker>ARMAND</speaker>
+      <mode></mode>
+      <context>As d'Artagnan, Porthos, and Aramis arrive on the scene...</context>
+      <utterance>Countess de Winter...</utterance>
+</dialogue>
+
+<dialogue id="132" n_utterances="6">
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The treaty outlines Richelieu's plan to forge an alliance with Buckingham.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about the King?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He is not mentioned directly. But the agreement is contingent on a 'demonstration' of the Cardinal's power.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A demonstration? What does that mean?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>Athos' face grows dark. He has been silent throughout. Now he rises to his feet.</context>
+      <utterance>I don't know.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan, Aramis, and Porthos watch in grim silence as Athos crosses the room to an imposing door.</context>
+      <utterance>I know someone who does.</utterance>
+</dialogue>
+
+<dialogue id="133" n_utterances="2">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd like a word with your prisoner.</utterance>
+   <speaker>ARMAND</speaker>
+      <mode></mode>
+      <context>Athos nods, and steps to Milady, stands before her. Milady stares at the fire, speaks softly, her eyes on the flames.</context>
+      <utterance>She dies at dawn.</utterance>
+</dialogue>
+
+<dialogue id="134" n_utterances="13">
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you come to offer me consolation?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Milady turns, looks up to face him.</context>
+      <utterance>No.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There was a time when I would've given my life for a kind word.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Milady hears the regret in his voice, holds his gaze. Athos indicates Armand in the corner.</context>
+      <utterance>I could not give it, Sabine. I was... a fool.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you kill his brother and his father as he says?</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have become... the nightmare you once thought me to be.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But not before. Not us.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>Athos kneels at her side, near to pleading:</context>
+      <utterance>No. The memory will keep me company.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know the Cardinal's plans?</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you spare my life?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't.</utterance>
+</dialogue>
+
+<dialogue id="135" n_utterances="3">
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Society demands swift justice.  I'll take the secret to my grave.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Milady offers a half-smile, takes his hand in hers.</context>
+      <utterance>Sabine. You'll die for your crimes. Nothing can stop that. But how you leave this world is up to you.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>HOLD ON Athos. Milady's hand in his. All that he is feeling.</context>
+      <utterance>What did the world ever do for me?</utterance>
+</dialogue>
+
+<dialogue id="136" n_utterances="8">
+   <speaker>EXECUTIONER</speaker>
+      <mode></mode>
+      <context>Athos repeats, whispers:</context>
+      <utterance>I forgive you for your crimes. Die in peace.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Aramis comes forward, intones:</context>
+      <utterance>Die in peace.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>The Executioner's sharp blade shines in the light of dawn.</context>
+      <utterance>I am the resurrection and the life, sayeth the Lord. He that believeth in me, though he were dead, yet shall he live; and whosoever liveth and believeth in me shall never die...</utterance>
+   <speaker>EXECUTIONER</speaker>
+      <mode></mode>
+      <context>Milady kneels, the Executioner steps closer. The tableau silhouetted against a reddish glow on the horizon. The Executioner brushes Milady's braid from her neck, exposing the soft white skin beneath. He raises the scimitar overhead, and just as he is about to bring it down... a cry is heard, torn from the heart:</context>
+      <utterance>On your knees.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos grabs the Executioner's wrist, and twists the scimitar loose. It falls to the ground.</context>
+      <utterance>No.</utterance>
+   <speaker>EXECUTIONER</speaker>
+      <mode></mode>
+      <context>Porthos leaps forward, locks his great arms around Athos.</context>
+      <utterance>What's this...?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context>But Athos breaks free. Milady rises to her feet. Athos rushes to her.</context>
+      <utterance>Athos --</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forgive me, Sabine. Please forgive.</utterance>
+</dialogue>
+
+<dialogue id="137" n_utterances="6">
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>The words he could never say, finally spoken. Milady locks eyes with him. Athos' desperate act, the pure feeling it signifies, has given her a kind of release. And the strength to face her fate.</context>
+      <utterance>I do.</utterance>
+   <speaker>MILADY</speaker>
+      <mode></mode>
+      <context>And with that, Milady reaches forward, offers a gentle kiss. Then, as Athos and the others look on, stunned, uncertain... she takes a backward step, finds the cliff's edge... and steps over it. The Executioner rushes to look after. The others follow. Except for Athos, who remains rooted in place, eyes on the distant horizon. A long silence. THUNDER RUMBLES.</context>
+      <utterance>The Cardinal intends to assassinate the King at his birthday celebration on Friday.</utterance>
+   <speaker>EXECUTIONER</speaker>
+      <mode></mode>
+      <context>D'Artagnan sadly lowers his head. Porthos puts a consoling hand on his shoulder. Aramis stands to the other side, mutters:</context>
+      <utterance>God's justice be done.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amen.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan, Porthos, and Aramis turn. Athos has regained his former self. Stoic, in command. And hiding a broken heart.</context>
+      <utterance>Musketeers.</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The King's life in danger. We have work to do.</utterance>
+</dialogue>
+
+<dialogue id="138" n_utterances="5">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Impressive.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Rochefort signals approval to a solitary marksman positioned far away on one of the roof parapets. The marksman rises from a shooter's crouch, bows curtly, and begins to reload his musket.</context>
+      <utterance>He can do it every time.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And he has no qualms about...</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>None. He believes that man should honor no Kings before God.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>HOLD ON Richelieu for a beat. Framed by a sky filled with stars. His evil intent.</context>
+      <utterance>A man of faith. How delightful.  Whatever you're paying him, double it. I want the King's birthday to be a memorable event. And rehang this painting in my chamber. Just as it is.</utterance>
+</dialogue>
+
+<dialogue id="139" n_utterances="6">
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They look... happy.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hungry, more likely.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Still, you were right about the celebration. And when the Cardinal told me how much it meant to you...</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said nothing.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But... ?</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>Both pause to consider the manipulation.</context>
+      <utterance>The Cardinal expressed in confidence how much the celebration would mean to you...</utterance>
+</dialogue>
+
+<dialogue id="140" n_utterances="2">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu turns from the procession. Speaks to Rochefort who pauses in the shadowy alcove behind him.</context>
+      <utterance>I'm not sure which is sadder... to die so young. Or to die a King.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>He says it quiet fervor, the dream at long last within reach. Then, as if to reassure:</context>
+      <utterance>France will not go wanting. A new King will sit on the throne. The true King after all...</utterance>
+</dialogue>
+
+<dialogue id="141" n_utterances="5">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is everything ready?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, Your Eminence.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you sure?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd stake my life on it, Your Eminence.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rest assured, Captain. You have.</utterance>
+</dialogue>
+
+<dialogue id="142" n_utterances="3">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>We'll try to reach the King...</context>
+      <utterance>Look through the surrounding area.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But...?</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>Athos and the others press on. D'Artagnan, a little disappointed to be left behind, pauses, checks the buildings that loom overhead. Then he starts, reacts with shock and surprise.</context>
+      <utterance>Go!</utterance>
+</dialogue>
+
+<dialogue id="143" n_utterances="3">
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I do not trust him.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure who to trust.</utterance>
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>Louis likes the sound of that. They step side by side toward the balcony.</context>
+      <utterance>Then we will discover the truth together.</utterance>
+</dialogue>
+
+<dialogue id="144" n_utterances="2">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>But Louis steps INTO VIEW, puts a protecting arm around his wife, speaks stern command:</context>
+      <utterance>Your Majesty...</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>That's when a loud BOOM rocks the room.</context>
+      <utterance>Leave us... alone.</utterance>
+</dialogue>
+
+<dialogue id="145" n_utterances="2">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Rochefort draws d'Artagnan's sword from its sheath. He advances on Louis and Anne. Louis has witnessed the latter, treason confirmed. He raises his own sword, prepared to protect his Queen. To die for her if necessary.</context>
+      <utterance>Kill him. Kill her, too.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>Rochefort takes confident steps toward the King. But one last BOOM and the great DOOR comes CRASHING down on the Guards, revealing a tide of Musketeers on the other side. Athos, Porthos, and Aramis at the lead.</context>
+      <utterance>Get behind me.</utterance>
+</dialogue>
+
+<dialogue id="146" n_utterances="2">
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Greetings, Monsieur Cyclops. Are we interrupting?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Athos and Rochefort lock swords and duel.</context>
+      <utterance>Not for long.</utterance>
+</dialogue>
+
+<dialogue id="147" n_utterances="6">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan stoops to pick up his long-lost sword. He tosses his other saber to Rochefort, who catches it neatly. Athos watches from a short distance, knows this moment belongs to d'Artagnan. He will not intervene. But he shouts:</context>
+      <utterance>This sword belongs to me.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>These are d'Artagnan's words. A son vowing to avenge the death of his father. D'Artagnan wonders. Rochefort confirms.</context>
+      <utterance>D'Artagnan. Kill him where he stands.</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By all means. Let's discover if you are as brave a man as your father was. And as foolish.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What...?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Rochefort smiles a taunt. D'Artagnan raises his sword, whispers to heaven.</context>
+      <utterance>He died for his King and for France. But most of all... he died on the end of my sword.  As will you.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Then, eyes blazing, d'Artagnan attacks Rochefort with everything he's got, driving him into an adjoining chamber.</context>
+      <utterance>This is for you, Father.</utterance>
+</dialogue>
+
+<dialogue id="148" n_utterances="4">
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>But d'Artagnan remembers Athos' advice. "Always find your enemy's weakness." He shoves a thumb into Rochefort's good eye. Rochefort stumbles backward. D'Artagnan plunges his sword into Monsieur Cyclops's heart.</context>
+      <utterance>One thing's certain. You're no Musketeer.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it back...?</utterance>
+   <speaker>ROCHEFORT</speaker>
+      <mode></mode>
+      <context>Rochefort crumples to the floor, dead. D'Artagnan looks at Rochefort's blood on his sword. His father's death finally avenged. That's when he hears the RUSTLE of a SILKEN ROBE. D'Artagnan pivots, sees Richelieu kneeling at Rochefort's body... extracting the treaty from his doublet.</context>
+      <utterance>I might... have been... mistaken.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Richelieu smiles, hurls the treaty into the blazing fireplace. As the flames begin to lick at the parchment paper, d'Artagnan flies past the Cardinal, and dives after to retrieve it.</context>
+      <utterance>No!!</utterance>
+</dialogue>
+
+<dialogue id="149" n_utterances="4">
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context>Richelieu assumes a trustworthy pose, one familiar to both King and Queen.</context>
+      <utterance>Your Majesty, that document is an obvious forgery. I am clearly the victim of a conspiracy designed and perpetuated by these three Musketeers.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>A beat. As all wonder if Richelieu will manage to elude blame after all. But Louis continues with quiet author- ity, just a trace of humor. As King, and as a man.</context>
+      <utterance>This is a complicated matter, Your Eminence, affecting both France and the crown...</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>Musketeers close in around the Cardinal. He fumes, protests.</context>
+      <utterance>And so, until such time as I and my advisors --  -- can determine the whole truth of the matter. I invite you to await our decision in the comfort of... the Bastille.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't do this to me. I'm the Cardinal of France.</utterance>
+</dialogue>
+
+<dialogue id="150" n_utterances="7">
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>Shouts of "Long live the King! Long live the King!"</context>
+      <utterance>And I am its King.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>A tremendous cheer is heard from all. Richelieu is led from the room. He pauses in front of d'Artagnan.</context>
+      <utterance>And as King... I hereby reinstate the Musketeers.</utterance>
+   <speaker>RICHELIEU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Congratulations, Monsieur d'Artagnan. I'll be keeping an eye on you.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>Porthos puts a hand on d'Artagnan's shoulder.</context>
+      <utterance>Is this the young man who saved my life?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His name's d'Artagnan, Sire.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>D'Artagnan's heart pounds as he draws closer to King and Queen. Then he remembers, reaches into his doublet. And turns to the Queen.</context>
+      <utterance>Approach, d'Artagnan.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>D'Artagnan produces the bracelet he found on the country road. He holds it out to her. The King wonders, the Queen smiles.</context>
+      <utterance>I have something that belongs to ... Your Majesty...</utterance>
+</dialogue>
+
+<dialogue id="151" n_utterances="5">
+   <speaker>ANNE</speaker>
+      <mode></mode>
+      <context>Anne indicates Constance, who steps forward, INTO VIEW. D'Artagnan and Constance lock eyes for the third time. The thrill of recognition, the promise of romance, charges between. D'Artagnan slips the bracelet around her wrist. Constance kisses him on the cheek. Louis continues:</context>
+      <utterance>Thank you, d'Artagnan. But the bracelet does not belong to me.  It belongs to her.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>D'Artagnan knows what he wants. But he is tongue-tied, unable to ask for it. Athos asks for him.</context>
+      <utterance>D'Artagnan, I am in your debt. What can I do to repay the courage you've shown me? Anything, D'Artagnan. Whatever your heart desires...</utterance>
+   <speaker>ATHOS</speaker>
+      <mode></mode>
+      <context>D'Artagnan looks at Athos, thankful for the intercession. Louis answers with pleasure.</context>
+      <utterance>Majesty, his heart has only one desire. To become a Musketeer.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>D'Artagnan drops to his knees. Louis lays the blade of his sword on each of his shoulders.</context>
+      <utterance>Then kneel, d'Artagnan.</utterance>
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The world is an uncertain realm, filled with danger. Truth despoiled by broken promises. Honor undermined by the pursuit of gold. Freedom sacrificed when the weak are oppressed by the strong. But there are those who oppose these powerful forces. Those who dedicate their lives to truth, honor, and freedom. They are a constant reminder to all of us. That such a life is not just possible, but necessary to our continued survival. As a country, as a King. These men are known as the Musketeers...</utterance>
+</dialogue>
+
+<dialogue id="152" n_utterances="8">
+   <speaker>LOUIS</speaker>
+      <mode></mode>
+      <context>D'Artagnan stands, transformed from boy to man. BELLS RING in the distance. Constance smiles brightly, tears gleam in her eyes. Athos, Porthos, and Aramis surround their young friend, and happily present him with the bright blue tunic of the Musketeers. They slip the tunic over d'Artagnan's head, react with a cheer. D'Artagnan hugs each of the three. For each has given him gifts more valuable than gold. Porthos, Aramis, and last... Athos. Who, to the surprise of all who know him... smiles.</context>
+      <utterance>Rise, d'Artagnan. And join them. Musketeer.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do my eyes deceive me?</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I find it hard to believe myself.</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His lips, unused as they are to such a contortion, twisted and stretched... into a smile.</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context>D'Artagnan basks in their company, wonders aloud.</context>
+      <utterance>It was spectacular. And what teeth.</utterance>
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context>Porthos and Aramis exchange a glance. They're not so sure themselves.</context>
+      <utterance>I know this is a stupid question. But what exactly does a Musketeer do?</utterance>
+   <speaker>PORTHOS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Truth... honor...</utterance>
+   <speaker>ARAMIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And freedom.</utterance>
+</dialogue>
+
+<dialogue id="153" n_utterances="2">
+   <speaker>D'ARTAGNAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All for one...</utterance>
+   <speaker>OTHERS</speaker>
+      <mode></mode>
+      <context>MUSIC SOARS. The curtain falls.</context>
+      <utterance>... And one for all!!</utterance>
+</dialogue>
+
+
+</movie>

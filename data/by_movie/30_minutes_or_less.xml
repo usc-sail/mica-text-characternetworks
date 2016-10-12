@@ -1,0 +1,4196 @@
+<movie id="4" title="30 Minutes or Less">
+
+<dialogue id="1" n_utterances="11">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gimme a break. You guys live two towns away. It's pretty much fucking impossible to get here in 30 minutes.</utterance>
+   <speaker>OTHER 15-YEAR-OLD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Exactly. That's why we ordered from your shitty "trattoria."</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is gonna come out of my paycheck. You sure you don't want to take the moral high ground?</utterance>
+   <speaker>OTHER 15-YEAR-OLD</speaker>
+      <mode></mode>
+      <context>Will takes a calming breath. Hands over the pizzas.</context>
+      <utterance>We'd rather take the pizzas.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ok. You guys are pretty smart. You figured out a way to beat the system.</utterance>
+   <speaker>WILL</speaker>
+      <mode>PEEKS INSIDE</mode>
+      <context></context>
+      <utterance>Got the house to yourselves?</utterance>
+   <speaker>15-YEAR-OLD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>The kids shakes their heads.</context>
+      <utterance>Not bad. Any jailbait in there? Little pizza and a rainbow party?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seriously? Well, two hustlers like yourselves gotta have the place stocked with beer and whippits and shit, right? Just call the girls up and let them know the party's on.</utterance>
+   <speaker>15-YEAR-OLD</speaker>
+      <mode></mode>
+      <context>Will makes a show of mulling this over.</context>
+      <utterance>Man, we don't have any of that stuff.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I really shouldn't do this...but you seem like a couple of good dudes. I'll tell you what, you give me the money that your mom left you for the pizzas, and I'll grab you some beers.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="5">
+   <speaker>WILL</speaker>
+      <mode>CONT'D - BEAT</mode>
+      <context>The kids look at each other. One hesitantly pulls out some cash. Will snatches it and heads off.</context>
+      <utterance>But I get to keep the change as a tip. Deal?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>The kids look uncertain. As if sensing this, Will stops before getting into his ride.</context>
+      <utterance>I'll see you in like 20 minutes.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You boys like Budweiser, right?</utterance>
+   <speaker>15-YEAR-OLD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, yeah, totally.</utterance>
+   <speaker>OTHER 15-YEAR-OLD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Love that shit!</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="3">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will hands over some cash to Christopher.</context>
+      <utterance>Yo, Chris. Let me cash the fuck out.</utterance>
+   <speaker>CHRISTOPHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have a pretty good shift?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For sure. I mean, the part where I had to drop off all those pizzas kinda sucked, but the rest was cool.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="12">
+   <speaker>CHRISTOPHER</speaker>
+      <mode></mode>
+      <context>Promised to buy them beer or something.</context>
+      <utterance>Oh, yeah? 'Cause, I got some kids calling in saying you ripped them off.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I actually did buy the beer, but it would have been illegal to give it to them, right? So I'm gonna do the responsible thing and drink it myself.</utterance>
+   <speaker>CHRISTOPHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's real funny. But I'm trying to run a business here.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>It's ridiculous.</context>
+      <utterance>What kind of business promises to deliver anywhere in 30 minutes?</utterance>
+   <speaker>CHRISTOPHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't wanna hear another one of your bullshit excuses. You're fired.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chris is unmoving.</context>
+      <utterance>Come on. If I didn't need this job, I wouldn't be doing this shitty job.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will storms off. As he gets to the door -</context>
+      <utterance>Fuck! Whatever!</utterance>
+   <speaker>CHRISTOPHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, you were an okay driver half the time. And you're not a Puerto Rican. Which means something to me.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's poignant.</utterance>
+   <speaker>CHRISTOPHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess I could rehire you, on a provisional basis. Of course, this would be at the slightly reduced "new company rate."</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you fucking serious?</utterance>
+   <speaker>CHRISTOPHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. Is there anyone else left in town for you to work for?</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="6">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell? Have you just been sitting there?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yep. Caught the whole show. Really classy move at the end. You know, the kiss. Putting your tongue in her mouth right after you fucked it.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, a nice girl decides to pleasure me on a weeknight, in her car no less...I'm not gonna make her feel like an untouchable. I'm gonna make her feel like a lady.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will offers his beer. Chet takes a slug, gurgles for effect.</context>
+      <utterance>What manners. May I offer you some alcohol, sir. To wash the taste of yourself out of your mouth.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By the way, she said she had a friend. Maybe we can go on our first double date since you tried to talk Jackie Fortunato and her cousin into having a four-way with us.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I misread their body language. It happens.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="9">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on. Let's go inside, drink your beer and watch shit get crazy.</utterance>
+   <speaker>WILL</speaker>
+      <mode>FANS MOVIES</mode>
+      <context></context>
+      <utterance>Old favorites. You choose. Lethal Weapon, Lethal Weapon 2...was gonna get the third Lethal Weapon, but decided on a porn. So it's really between the first two.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I choose sleep. I gotta teach a class at eight.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Like the real teacher did.</context>
+      <utterance>You're a sub. Just call in sick.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will heaves a sigh.</context>
+      <utterance>Come on, man, you know I got promoted to full-time last month. You bought me a laser pointer.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I know. I guess I'm just having a hard time accepting you as "the man." You know, flunking kids, giving out spite detentions to girls you wanna fuck, laser pointing at shit.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will grudgingly stands up.</context>
+      <utterance>I also get healthcare and my summers off. It's not perfect, but it's a career.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>He holds up the Lethal Weapon DVDs.</context>
+      <utterance>I guess that's just the difference between you and me.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm like Riggs. Cruising the streets. No rules, no attachments. Every other day some asshole is trying to take my badge. You're fucking Murtaugh. Always worried about your pension. Well, guess what, it gets old after the first movie.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="5">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This one's gonna blow even bigger.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boy, if you weren't such a skinny little bitch you coulda been in the military or something.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>I taught myself how to do this shit.</context>
+      <utterance>Whatever. I don't need the military.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay jogs the watermelon a safe distance away. He returns and pulls out a detonator. Dwayne snatches it.</context>
+      <utterance>I hear that. I taught myself how to eat pussy. And cut my own hair.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne presses a button and</context>
+      <utterance>This one's all me.  Mr. President, we have enemies at the gate. Give me the order.  Fuck that, sir. I don't negotiate with terrorists!</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="2">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wanna make sure I get enough calories.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you wanted to get diesel for the summer. Bang that towel girl at the community pool.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="2">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's obvious you don't know shit-all about physical fitness. You gotta bulk up first, then you slim down. I'm clearly in the bulk up phase. I told you to watch Pumping Iron like a month ago. If you'd listened to me, maybe you'd know what the fuck I'm talking about.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>Grab some RC Cola.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="6">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne reaches out, "touching" the 3D images. He stands and starts humping the air.</context>
+      <utterance>Shit, man! It's so real!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Check it out. I ain't afraid of Jason. I'm fucking him.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>THRUSTING HARDER</mode>
+      <context>Jay cracks up. The lights flick on.</context>
+      <utterance>You like that, Jason!? In the mask!</utterance>
+   <speaker>GRIZZLED VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Standing by the switch is Dwayne's dad, JERRY (70s). Most people just call him "THE MAJOR." The faded USMC tattoo on his thick forearm explains why.</context>
+      <utterance>Who are you two fags fucking?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne flops back onto the couch.</context>
+      <utterance>Afternoon, Major.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad, we're watching a flick. We got 45 minutes and a potential 3D sex scene left. You're sorta coming in at the worst possible moment.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="8">
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I bought that TV set so I could watch my programs, not so you and your friend could louse up my couch.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You gotta learn how to share the common space.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context>The Major grabs Dwayne and pulls him up off the couch. He gets right in his face...scary, intense. Dwayne turns to Jay.</context>
+      <utterance>The only thing common in this house is you. You remind me of your damn mother. Fat, dumb, and in my way.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay gets up and files out the door. Dwayne goes to take the cold cut plate. The Major grabs his arm.</context>
+      <utterance>Let's get outta here. This movie sucks anyway.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I paid for the damn cold cuts, too. Maybe if you had a job, or a fucking prospect, or a clue how to find any of the above, I'd let you eat 'em.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>QUIETLY</mode>
+      <context></context>
+      <utterance>You know, you can be a real sonofabitch, dad.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what it takes, boy. In the Corps, men like you wore dresses to keep us entertained.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne storms off.</context>
+      <utterance>That's pretty fucking disturbing!</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="9">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- and he thinks he knows me. He don't know shit. I got ideas he could never dream of. I got plans bigger than his fucking house.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>He didn't even raise me. My mother did. That was a good woman.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context>Dwayne shifts, uncomfortably, at the sore subject.</context>
+      <utterance>Oh yeah? What happened to her?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She passed on.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hope you're not one of those guys that comes here looking to get mothered.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't mind nursing on them titties, mamacita.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. Whatever you say. Maybe just keep quiet for a while, forget about your old man and let me do my thing.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>This piques Juicy's interest.</context>
+      <utterance>I wish I could forget about that asshole for good. I'm just waiting around for him to drop dead. Don't wanna mess with my inheritance.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What kinda inheritance?</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="9">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>INSERT PHOTO: The Major holding a giant cardboard check.</context>
+      <utterance>When my dad got outta the service, he started buying lotto tickets. He'd play his dog tag numbers. In '91, the fucker won five million bucks.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Behind inch-long fake eyelashes, Juicy's shrewd eyes narrow, mind working. She straddles Dwayne, tightly.</context>
+      <utterance>He had some health problems a few years back, and since then he's been burning through the money like an NBA draft pick. Probably only got a million or two left. But it's mine as soon as he kicks.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, with a million bucks, you could have anything. Be like a king.  King Dwayne.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right. And maybe I'll make you my queen. Let you polish my royal scepter.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context>Juicy pantomimes a long, slow chicken head. Dwayne is blissed out. She smiles at him, sticky sweet.</context>
+      <utterance>Practice makes perfect.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me ask you a question...do you really hate your daddy?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hate him like the Steelers.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context>Dwayne looks confused. Juicy puts his hands on her breasts, emboldening him.</context>
+      <utterance>Then maybe I can help you get that money now. Before he spends another penny.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know a guy in Baltimore. He could help you out. Probably do it for...  ...100Gs.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="3">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Juicy leans in, whispers softly in Dwayne's ear -</context>
+      <utterance>Do what?</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context>On Dwayne's face as this new possibility pinballs around his mind, setting off a flood of different emotions.</context>
+      <utterance>Kill your mean old dad.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, what do you think...you ready for your crown?</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="5">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>KATE (25) turns from the glow of her computer screen. She has short, messy hair and a sarcastic smile. This is the girl from the picture in Will's apartment.</context>
+      <utterance>Rio?</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>Kate looks back at her computer, logged onto an Expedia checkout page for a Rio vacation. She moves the mouse pointer from the "proceed" key...closes the window.</context>
+      <utterance>That's the plan. Five days, six nights. Culture. Beaches. Acceptable probability of kidnapping. I leave in the morning.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This morning I loaded up an African Safari and a cruise to Alaska.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, the places you'll go.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck Expedia. Travel Advisor. Making it seem so easy.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="11">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is. Just do it. Get away for a while.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Even if I could afford that...they fired two other paralegals last week. Now's not the time to be putting in for vacation days.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will lays a pizza down on her desk.</context>
+      <utterance>Ok. Done. I've got my dose of the actual working world. Can we eat?</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you keep sneaking up here past the security guard?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's there like half the time. The other half I smile at him. I'm relatively certain he's a homosexual.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>Kate opens the pizza box, grabs a slice.</context>
+      <utterance>Interesting theory...</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe I should set him up with Tom Small. He came out to me today on Facebook.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That kid beat the hell out of me and Chet in grammar school. Wow.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me about it. He fingered me at junior prom while they were playing "No Scrubs."</utterance>
+   <speaker>WILL</speaker>
+      <mode>WINCES</mode>
+      <context>Will grabs a slice. They eat quietly for a beat.</context>
+      <utterance>Really? What a fucking scrub.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, I've got some news...</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="10">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought the Tom Small stuff was enough of a headline, but go ahead.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>Will's delicious pizza suddenly tastes like shit. He does his best to swallow it down.</context>
+      <utterance>I'm getting back together with Mark.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Finality was had.</context>
+      <utterance>But you...you broke up with him...ended the relationship.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but we were talking and -</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget it. I don't want to know.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sound like Chet.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woah, don't compare me to your brother.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, neither one of you seems to care that I don't have a life. Mark's not perfect...but a relationship is better than working late every Friday because I have nowhere else to be.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Kate shoves Will, good-naturedly.</context>
+      <utterance>Sure. I get it. Here we are. Friday night. Nowhere to be.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>Will shrugs, quietly devastated. Goes back to his pizza.</context>
+      <utterance>You know what I mean.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="7">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't wanna stick my nose into a family matter...but killing your old man? That's pretty messed up...I mean, unless you think it isn't.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What we have here is a classic "lesser of two evils" debate. You got one evil: me shaving a few years off The Major's shitty life. Then you got the other evil: The Major ruining my entire awesome life by blowing through my inheritance. Maybe I'm biased, but mine sure as shit seems like the lesser.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne nods, seriously.</context>
+      <utterance>I guess I...sorta see where you're coming from. And you have been waiting around forever for that money. You deserve it, Dwayne.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne takes a long sip of beer, contemplative.</context>
+      <utterance>You know, there's a reason I sleep 'til noon everyday. And it ain't 'cause I'm lazy. It's on account of me having so many goddamn dreams. Big ones. And once that money's mine, they're all gonna come true.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Strapped. Wearing a pair of Oakleys.</context>
+      <utterance>Like I had this one dream last night. I was cruising through town in a Lamborghini Diablo. The wind was blowing through my hair, ruffling my open shirt. There was a hot little piece of ass sitting next to me. And in the back seat, Jay...was you.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow. I didn't know you dreamt about me, Dwayne.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was only this once, Jay. To be honest, I didn't know what to make of it. So I consulted my dream book, and found out it means this: you're my road dog. You got my back.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="13">
+   <speaker>DWAYNE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>That's why I want to make you my partner.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In what?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne leans across the table.</context>
+      <utterance>In crime. And business. You see, it ain't just about the inheritance money. It's about what I'm gonna do with it.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Are you ready?</context>
+      <utterance>I'm about to clue you in on something. And then you'll understand the true magnitude of what's at stake here.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I'm totally ready.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then answer me this...what's this town missing? I'll give you a hint. It's a cash business, crawling with sexy bitches.</utterance>
+   <speaker>JAY</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>A Chinese food restaurant?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. A tanning salon.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>BEAT</mode>
+      <context>Jay nods, thinking about. He smiles.</context>
+      <utterance>Think about it. All that green. All that brown flesh.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's also the perfect front for a prostitution ring.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, of course. Because of the booths.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. And because of the bitches.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>It can all be ours. 30 percent for you, 70 percent for me. You just gotta help me out here.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="9">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm starting to wonder if my dream book was wrong about you. Maybe you sitting behind me doesn't mean you're my road dog. Maybe it means you're plotting to stab me in the back, like some snake in the grass.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Jay looks Dwayne in the eyes, knows it's all or nothing...</context>
+      <utterance>That's crazy. I'd never do something like that. The dream book was right!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne chuckles.</context>
+      <utterance>Ok. I'll do it. But I'm not shooting him or anything. I'll hold him while you shoot him. That's it.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here's a fact: they don't build prisons for criminals, they build them for idiots. Shit, they got three different types of CSI on TV, just laying out how the police do their business...and still, idiots like you think you can just go out and do a murder yourself.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>BEAT</mode>
+      <context>We gotta pay him on Tuesday.</context>
+      <utterance>If you wanna be a millionaire, you gotta think like one. And millionaires don't kill people. They hire assassins. Which I did.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? Why would you do that?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was presented with an opportunity. I took it. 100 thousand bucks for a highly trained assassin is a steal.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But we don't have that kinda money.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now we're addressing the real problem: how do we get the 100 grand? 'Cause once we get that, we get the million.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="11">
+   <speaker>DWAYNE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>And once we get the million, we will literally own this town and every single thing in it.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess we could just...rob a bank. One of these local banks with nothing but a dipshit security guard.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Again, not quite thinking like a millionaire.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne thinks about this for a second.</context>
+      <utterance>Okay, then let's hire someone to rob a bank.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck hiring them, we could just force someone to rob a bank for us. Like with blackmail, or death threats, or -</utterance>
+   <speaker>JAY</speaker>
+      <mode>ALMOST INVOLUNTARILY</mode>
+      <context></context>
+      <utterance>A bomb. Everyone's scared of a bomb.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was gonna say hypnotism...but I like that. It's out of the fucking box. We just strap one to some motherfucker's chest, like we did to those watermelons. Think you can you build some kinda bomb vest?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I mean...camel jockeys do it in caves. I got a garage workshop.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm pretty sure this is exactly how a millionaire would do it. And the beauty of it is: we don't lose any sleep, 'cause no one gets hurt.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Except The Major.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne smiles. But a nagging thought interrupts him -</context>
+      <utterance>Yeah. The Major dies. But no one gets hurt.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="2">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's just one problem. Where do we get our guy? 'Cause if we do a kidnapping, then we're right back where we started...doing shit that's gonna get us caught.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>MIND WORKING</mode>
+      <context>The guys stare at each other, stumped. Until something catches Dwayne's attention...a local commercial playing on the flat-screen. A PIZZA CHEF slides a pizza into a box -</context>
+      <utterance>What we need is someone to come to us...to a place where we can control the situation. Someone without any connection to us.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="2">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes fate just takes out its cock and slaps you in the face with it.</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Will heads into the living room with the beer. The voice belongs to Danny Glover. The guys are watching Lethal Weapon. Murtaugh (Danny Glover) has just stopped Riggs (Mel Gibson) from killing himself. Riggs looks at him, crazily, before -</context>
+      <utterance>You're not trying to draw a psycho pension...you really are crazy!</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="13">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>It's noon on a Saturday.</context>
+      <utterance>Maybe you should pace yourself.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fridge is full, man. We're all good.</utterance>
+   <speaker>21.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will drains half his beer.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me ask you a question. You remember Tom Small?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, he used to kick our asses.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Turns out he was probably jerking off to it afterwards. He's gay.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hope he chokes on a dick. I never liked him.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet pauses the movie.</context>
+      <utterance>Your sister did. She let him finger blast her. Big time.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>I don't want that shit in my head.</context>
+      <utterance>What the fuck are you talking about?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry. Kate told me about it last night. I thought you should know.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Chet chuckles. Will ignores him, sips his beer.</context>
+      <utterance>You two were swapping stories about getting fingered? That's pretty cute.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The point I'm trying to make is this: Tom Small was an asshole. He was totally wrong for your sister. Just like every other guy she's ever dated. Right through to that Mark dude she's gonna get back together with. Un-be- fuck-me-lievable...</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>At a loss, Will shrugs. Chet turns back to the TV, presses play. Lethal Weapon resumes. Something blows up. Chet pauses the movie and stares at Will for a beat.</context>
+      <utterance>Whatever. Why the fuck are we talking about who my sister goes out with?</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="12">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sneaky son of a bitch...you want to fuck my sister, don't you?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chet, I really don't...</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My twin sister!? Which is basically like fucking me!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, if you guys had that twin ESP shit this would be a completely different situation. There'd be logistical problems.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We look exactly alike!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You look like a lot of people. You're a normal looking dude.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is so fucked up I can't even begin to process it. How long has this been going on?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I had to put my finger on it...middle school-ish.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So all those sleepovers, they were just some kind of opportunity for you to peek in Kate's bedroom?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Most of them were accidental.</context>
+      <utterance>It might have happened a few times.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a peeping Tom. You realize that, don't you? You're a sexual fucking deviant.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you. I'm as normal as they come. Your sister is attractive. She excites me, in a sexual way. Fucking sue me. Can't we just be adults about it?</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="11">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You? An adult? Sort of stretching the term.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, let's not say shit we can't take back.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take back? Will, you got kicked out of junior college for punching a professor that made fun of some poem you wrote.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That poem was about your sister!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That is, literally, the saddest thing I have ever heard. Like retards playing freeze tag sad. No wonder you deliver pizzas for a living.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you! Maybe I was just hanging out with you for your sister. You were always a whiny little bitch. And you stuttered. All the kids used to call you "Chutter."</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatever. I only started hanging out with you because you had a Nintendo.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet bites his lip.</context>
+      <utterance>Did you see my Nintendo naked? Because I saw your sister changing into her swimsuit at your thirteenth birthday pool party. And it was the highlight of the whole shitty event.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. You wanna do this?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think we already are.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you know who I saw naked? Jenny Rifkin. While I was nailing her. The week after she dumped you.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="11">
+   <speaker>CHET</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Why do you think every time you wanna bet on whose cock's bigger I'm always willing to go in? 'Cause I know mine's bigger. 'Cause she told me!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow...wow. You pulled a Judas on Jenny fucking Rifkin. That is messed up. Almost as messed up as how I sold your Cal Ripken signed ball for 200 bucks.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My grandpa left me that ball in his will! You helped me look for it for a month!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will bows.</context>
+      <utterance>Now you know why we never found it.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet's face is red with anger.</context>
+      <utterance>We done here?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not quite yet. There's actually a mystery I wanna solve for you.</utterance>
+   <speaker>CHET</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>I was the one who told John Tanner about how your mom fucked that lifeguard. And I always felt awful about it, because even though he swore secrecy, he told everyone else in town. And then your parents wound up getting divorced. But now...I don't give a shit.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will takes a swing at Chet. He dodges it and puts Will in some sort of choke hold.</context>
+      <utterance>What!? You ruined...my fucking life!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Krav Maga, bitch. I bet your poetry professor didn't know this shit.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get offa me!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You threw the first punch!</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="12">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm gonna break this hold and then kick your skinny ass!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will flexes and tries to break the choke hold...no luck. He wrenches his back away from Chet and screams -</context>
+      <utterance>Try it!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck is that!?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My knuckle in your spine! No holds barred you backstabbing fuck!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm gonna pass out...</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet lets Will go. He drops to the floor, panting.</context>
+      <utterance>I love her, Chet...I love Kate...</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will gets to his feet.</context>
+      <utterance>Let me tell you something. And it's the truest thing you'll ever hear, from the person who knows you best in the world...you're not good enough for my sister. And you never will be. You're the lowest common denominator, Will. You're the square root of fucking zero.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you...Chutter!</utterance>
+   <speaker>WILL</speaker>
+      <mode>GRABS DICK</mode>
+      <context></context>
+      <utterance>Square this!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get out of my house. You're a shitty friend.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will storms out.</context>
+      <utterance>Right back at you.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="3">
+   <speaker>CHRISTOPHER</speaker>
+      <mode></mode>
+      <context>Christopher hands him the order slip. Will checks the address.</context>
+      <utterance>Come on, wake up and get to work.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where the fuck is this?</utterance>
+   <speaker>CHRISTOPHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How should I know? It's 30 minutes away or the pizza comes out of your paycheck. Tick tock.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="2">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>O.S.</mode>
+      <context>This puts Will at ease. He heads toward the office. As he gets close, a figure appears in the doorway. It is Dwayne</context>
+      <utterance>Hey, bud! Sorry for the hike! The county's got us doing repairs at the ass end of the night!</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="5">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will hears something behind him and whirls around - To find Jay, also in a gorilla mask, charging at him.</context>
+      <utterance>What the -</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will makes a run for it. But the guys are on top of him in no time. He madly fights them off and dashes for his car.</context>
+      <utterance>Holy fuck!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Will breaks toward the cover of the shrubbery.</context>
+      <utterance>Stop! We got a gun, you asshole!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay is right on Will's tail. Without breaking stride, Jay picks up a large branch and wings it at him. Will is hit in the legs and stumbles over himself. Jay leaps on top of him and locks his skinny legs around Will's body.</context>
+      <utterance>Fuck! Get him!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Jay wrestles something from his pocket. A chloroform soaked rag. He presses it hard against Will's mouth and nose. Will soon goes limp. Dwayne appears, looming above them. He pulls his gorilla mask back and smiles.</context>
+      <utterance>What the hell!?  Rape!</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="4">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Will nods. Dwayne holds up his driver license.</context>
+      <utterance>Just shut up. The tape is there for a reason. 'Cause this next part is gonna take a measure of calm. Are you with me? Can you be calm?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Will looks down at the jacket he is wearing, tries to get his hands loose so he can tear it open.</context>
+      <utterance>Will Dixon, of 112 North Whatever- The-Fuck Street, right now you are wearing an explosive vest.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Will stiffens. For emphasis, Dwayne reveals the gun tucked down the front of his pants like a big metal cock.</context>
+      <utterance>Calm the fuck down!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay carefully unbuttons the Army jacket. Will is, in fact, wearing an explosive vest. It is a cobbled together but intimidating looking contraption, crisscrossed by multicolored wires. There is a thick lock at the hinge, with a digital display and a keypad. Will begins to hyperventilate.</context>
+      <utterance>Now stay still and my associate will show you.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="12">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it easy, man. You're fine. I built this thing. It's pretty stable.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For a fucking bomb. So don't trip over your shoelaces or anything. That thing's full of C-4. And the C is for chaos.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Actually, the C stands for "composite." But, yeah, I'd try not to slam into stuff.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Will nods. Dwayne rips the duct tape off his mouth.</context>
+      <utterance>Can I take that tape off now, pizza boy?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Dwayne chuckles.</context>
+      <utterance>Help!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Nobody can hear you scream.</context>
+      <utterance>You know where you are? You might as well be in space, motherfucker.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you doing this to me? I don't have any money.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not yet. But you're gonna go get us some.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. Sure, man. Whatever you say. I'll go sell my car. I'll get you like a thousand bucks.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want 100 thousand.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where the fuck am I supposed to get that much money?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Donner-Wells National Bank on Charles Road.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="11">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Across the street from the Olive Garden.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, the one across the street from the Olive Garden.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you guys have an account or something? Dwayne shakes his head like Will is an idiot.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I don't have an account! You're gonna rob it!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How the fuck am I supposed to rob a bank?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Figure it out. You got a bomb strapped to your chest. That's a start. It'll scare the fuck outta people. Maybe use your brain and go get a gun. Borrow one from a friend for all I care. It ain't rocket science.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then do it yourself.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I would, but I'm already wearing this gorilla mask and you're already wearing that bomb.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>TO JAY</mode>
+      <context>Jay turns to Will.</context>
+      <utterance>Tell him about the vest.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You seem like a pretty trustworthy guy. I mean, you got a job and all. But just in case you were gonna try to take the vest off, we booby trapped it to shit. There's also a remote detonator on the back, so we can trigger it by dialing a number.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And it's on speed dial. So do what you gotta do, but we'll be watching.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="8">
+   <speaker>DWAYNE</speaker>
+      <mode>CONT'D</mode>
+      <context>Dwayne nods at the timer on the side of the vest.</context>
+      <utterance>You go anywhere near a police station, and Fourth of July comes early this year.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>He hands Will a slip of paper.</context>
+      <utterance>It's 9:00 AM. You got 8 hours.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Once you have the money, call this number and you'll be given instructions on where to drop it. You do good, we give you the six-digit combination that stops the timer and opens the lock. Tomorrow morning, you can go back to delivering pizza, the mail, whatever the fuck you want.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>BEAT</mode>
+      <context>Dwayne looks over to where an oversized stuffed bear, rigged with its own bomb vest, sits on a tree stump 20 yards away. Dwayne mimes answering a phone -</context>
+      <utterance>Now let me demonstrate what happens if you don't get us the money.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay pushes a button on a detonator. Teddy Ruxpin explodes. All that remains is a cloud of stuffing. Will is frozen in fear.</context>
+      <utterance>Hey, Teddy Ruxpin...what's that? You don't have the money? It was too tough to rob the bank, so you just went back to your bear cave and cried like a bitch? Well, guess what my stuffed friend...time is up.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne throws Will his car keys.</context>
+      <utterance>I liked that bear. I don't even know you.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go on. Get outta here.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guys, can we please just talk about this?</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="10">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne pulls out the gun and fires two shots at Will's feet. Jay jumps backward, as does Will, who hits the hood of his car, slides across it and onto the ground by the driver side.</context>
+      <utterance>Yeah, of course we can.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Will awkwardly gets to his feet and arranges himself in the car, adjusting to the weight of the bomb. As he starts the engine and backs away -</context>
+      <utterance>Be careful!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Once the car is gone, Jay yanks off his gorilla mask. Dwayne stays primate.</context>
+      <utterance>That's right! Get the fuck out of here! You're wasting time!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell, Dwayne? You told me that was a replica gun.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Now it goes boom.</context>
+      <utterance>It was. Then I paid a Mexican 50 bucks to put a firing pin in it.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne gets right in Jay's face. The plastic eyes of his mask betray no emotion.</context>
+      <utterance>We didn't discuss a loaded gun! Especially not with the bomb around!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you ever question me. I'm fucking this bitch. You're just holding the camera.</utterance>
+   <speaker>JAY</speaker>
+      <mode>VOICE FALTERS</mode>
+      <context></context>
+      <utterance>Sure, Dwayne...whatever you say.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>A tense beat. Dwayne pulls his mask off. He looks oddly calm.</context>
+      <utterance>Good. 'Cause this ain't the Marines. This is cash money. You hesitate, you fuck up...and I will leave you behind.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's go get some breakfast.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="4">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Chet opens the door.</context>
+      <utterance>Take out your workbooks. Chapter 3.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We gotta talk.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm working here. Do not mess with me at work.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="7">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet sighs.</context>
+      <utterance>Chet, for the love of god, just talk to me in private for one minute.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wanna apologize, don't you? You look like shit. You've probably been up for days thinking about what an asshole you were. Well, it's gonna take a lot more than some pathetic groveling -</utterance>
+   <speaker>WILL</speaker>
+      <mode>SUDDENLY</mode>
+      <context></context>
+      <utterance>Chet! Shut up! I don't wanna apologize to you!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will swallows hard.</context>
+      <utterance>Then what do you want? Because we don't have anything left to say to each other.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet just stares at Will, unimpressed.</context>
+      <utterance>Here goes. And this is gonna sound crazy. Because it is fucking crazy. But last night two guys in masks jumped me and strapped a bomb to my chest, and now I have less than eight hours to rob a bank.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will steps in Chet's way. He unbuttons his jacket, revealing the bomb.</context>
+      <utterance>You're hysterical. Got me. Great joke. I'm going back to work now.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will nods.</context>
+      <utterance>What the fuck? Is that real?</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="11">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stay away from me! What the fuck are you involved in!? Terrorism!?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chet, do you really think I'm a terrorist?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes! One of the dumb ones! The ones they convince to wear the bombs!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am not fucking around here. Two guys did this to me. And if I don't rob that bank in time this thing is gonna blow.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seriously?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seriously.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And your first idea was to come to a school filled with young children?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't -</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will backs all the way up, so that the guys are on opposite ends of the classroom.</context>
+      <utterance>Just back the fuck away from me with that thing.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen, I think the vest is safe for now. These guys don't want me to blow myself up on accident before I get their money.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, so you figure the two psychopaths that rigged a bomb to your chest made sure it was safe? There's no margin for error in their fucking bomb vest design!?</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="9">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know! All I do know is that this is real. This is happening. And I'm sure you hate me as much as I hate you right now, but I have nowhere else to go.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For what?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet looks Will over. His desperation is palpable. Chet bites his lip, weighing the situation...</context>
+      <utterance>For help, Chet. I need your help. Please. I can't do this alone.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Like my wife and kids and shit.</context>
+      <utterance>Damn it!  I'd like to tell you to get fucked, but you know what the problem is...I'm a better man than you. And someday, I might actually forgive you. So if I let you blow up, or whatever, that shit might come back and eat at my conscience, and totally affect my relationships with other people.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a...very rational way to look at the situation.</utterance>
+   <speaker>WILL</speaker>
+      <mode>GENUINELY</mode>
+      <context>Chet takes a step toward Will.</context>
+      <utterance>And you're right, about being a better guy than me.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will just looks at Chet...unable to offer any assurance. After a beat -</context>
+      <utterance>Are you sure that thing isn't gonna blow at any second?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could you just walk a few feet in front of me for a while?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will opens the door, stops, looks back at Chet.</context>
+      <utterance>I can do that.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="7">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I'm still here. I really am this stupid. Just pay attention to where you're going.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think I can handle it.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These floors get waxed once a week. On Tuesday, which today is. You hit a slick patch, trip and fall, and I got a classroom full of kids wearing their skin inside out.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chet, I'm fucking nervous enough as it is. Please. I don't need you back seat driving me right now.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will stops, turns back toward Chet.</context>
+      <utterance>Obviously.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just for the record, this isn't a nuclear weapon strapped to my chest. And there are metal lockers on either side of the hallway. If I fall, and if this thing goes off, I'm probably not taking out the whole school.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will sighs, turns back around. A second later, the school bell rings and kids flood the hallway, changing classes. Will freezes. Multiple kids shove past him. Chet sweats bullets, gives Will a look of death. After a beat, the hallway empties again.</context>
+      <utterance>Do you really want to debate this?</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="10">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're an asshole.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will continues walking. He tries to lighten the mood -</context>
+      <utterance>Whatever. It's over.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who was the chick in the white jeans?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kristi Evans. Why?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know why.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>The guys' voices fade as they continue down the hallway...</context>
+      <utterance>Oh, come on. Just keep walking.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on yourself. You knew exactly who I was talking about.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you. She's in the eighth grade.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I bet you love it when she calls you Mr. Chet.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She doesn't call me "Mr. Chet." She's not a foreigner.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="3">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Chet hangs up. He is standing by the passenger door. He looks over the roof of the car at Will.</context>
+      <utterance>...thanks so much, Mrs. Davis. I'll call you after I talk to the doctor.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, this is it?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is what?</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="9">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>My family will be humiliated.</context>
+      <utterance>Once I step inside this car, I'm basically in a steel coffin with you and...that thing. And if it goes off, all they're gonna find in there are two charred bodies and pieces of a bomb. They'll assume we were driving to a government building to blow it up. It'll be all over the news. Next thing you now, some militia or Islam group is claiming us as members.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll also be dead, in that particular situation, so it won't really matter.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will sighs.</context>
+      <utterance>Exactly!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will gets in the car and shuts the door. He looks out at Chet, who stands uncertainly by the passenger side.</context>
+      <utterance>I get it. Take your time, man.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Chet reluctantly hops in.</context>
+      <utterance>This is the world's biggest favor, you motherfucker. You didn't even help me move last winter.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Given the situation, I think you should obey all traffic safety laws.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will pulls out of the school parking lot.</context>
+      <utterance>Fine.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, so where are we going?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have no idea. I just got in your car. I thought you had a plan.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="10">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I don't! I've been sorta preoccupied with this crushing fear of death!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No plan. I can't say I'm surprised.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will goes to turn on the radio. Chet grabs his hand.</context>
+      <utterance>Your plan is probably better. Just condescend me until I explode.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe we should turn on the radio. See if the signal sets the bomb off. That would be an interesting experiment. Will heaves a frustrated sigh. Chet eases up.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen, let's just go back to my place. Figure out our options. Maybe you can get the vest off or something. I just don't want to do anything stupid.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>The car hits a rough pothole. Chet's heart skips a beat -</context>
+      <utterance>Unless we have to.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>- and he throws himself against the passenger side window, as far from Will as the confines of the car will allow. Will slams the brakes.</context>
+      <utterance>Holy fucking shit!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop it! You're scaring the fuck out of me!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Chet makes the sign of the cross.</context>
+      <utterance>Okay. Okay. Fuck!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will continues driving. Chet discreetly unlocks the passenger side door.</context>
+      <utterance>I'm cool now.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="6">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why did you do that?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do what?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I saw you.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's in case I have to jump out.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I survive the day, and you don't because you jumped out of a moving car and broke your neck, I'm gonna laugh my ass off.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>SUPER COUNTDOWN: 6 hours, 59 minutes...</context>
+      <utterance>And if abandoning ship saves my life, then that laugh will be mine. The guys continue driving in silence.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="10">
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Fuck you!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will emerges from the bathroom, sliding the jacket back on.</context>
+      <utterance>Well, all these sites say different shit. There's not a lot of consensus in the bomb disarming community.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet shuts his laptop.</context>
+      <utterance>This is pointless.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I agree. We gotta call the cops, have them fly in the bomb squad or something.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will stares at Chet, hopelessly overwhelmed.</context>
+      <utterance>We can't. These guys said they'd be following me. And I don't have a clue what they look like. For all I know, they're outside right now. They see the cops show up, they blow the vest and cut their losses.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do I do, man? What do I do now?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, Will...I guess you gotta rob the bank.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will drops onto the couch and puts his head in his hands, fighting hysterics. Chet offers a stock reassurance -</context>
+      <utterance>I haven't been inside a bank in three years! How the fuck am I supposed to rob one!? They wouldn't even give me a savings account!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's gonna be okay.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, it's not! I'm gonna blow up! That's way worse than getting stabbed or shot. At least some people survive that. No one survives being blown up.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="10">
+   <speaker>WILL</speaker>
+      <mode>CONT'D</mode>
+      <context>Chet looks on as his friend begins to sob. It's a crushing sight. Chet strides across the apartment -</context>
+      <utterance>No one is ever like, "Yeah, I heard Steve got blown up, tough break, but how's he doing now? Is he still in the Rec basketball league?" No of course he isn't, 'cause there's nothing left of Steve except a stain on the wall and a pair of fucking high tops!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>- and attempts to give him one of those "get a grip" slaps. But Will flinches and Chet slaps him right on the ear.</context>
+      <utterance>Pull yourself together!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ow! Fuck! I think you popped my eardrum.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry. Shit. I didn't mean to do that. But just listen to me now. You're not gonna die. You wanna know why? Because you know exactly how to rob a bank.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Point Break.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The movie?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. That movie is like a how-to guide for bank robberies. You just bust in. Masks. Guns. Move fast. Stick to the tellers and don't bother with the vault.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>The Donner-Wells on Charles Road.</context>
+      <utterance>Yeah...I guess it's pretty simple, right? And it's just a local bank.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really? I applied for a job there like a year ago.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="13">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wanted to be a teller?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>You get benefits.</context>
+      <utterance>Yeah, so what? It's a good job.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like what, a name tag?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Free toppings?</context>
+      <utterance>What kind of benefits do you get?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's really clever. No one ever said that shit to me before. Anyway, this is perfect. You know the whole layout of the bank.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not exactly. They didn't hand me the security schematics with the application. But I sat in the waiting area for like 20 minutes. I know what the place looks like.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many guards?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One. I think.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a start.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will pauses.</context>
+      <utterance>It's a great start. You can do it.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're gonna do it with me, right?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>More of a consultant or advisory role.</context>
+      <utterance>I was actually gonna stick to giving tips, ideas...motivational speeches.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus Christ, Chet. Please. I'm begging you here. I need you on this. If I do it alone, I'm dead.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="9">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you gonna cry again?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was a moment of weakness.</utterance>
+   <speaker>WILL</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>Yes. I'll fucking cry again if that's what it takes.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I should make you blow me.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet cracks a smile.</context>
+      <utterance>Sure. Whip that shit out. I'm actually kinda curious. I wanna see if Jenny Rifkin lied to you. She obviously lied to me.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>We can do this.</context>
+      <utterance>All these guys want is 100 grand.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're gonna rob a bank for 100 grand? Just leave the rest of the money sitting there? Why?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet heaves a sigh.</context>
+      <utterance>I don't know. I guess they're very modest criminals. Who the fuck cares? Wait...you said "we" right?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm putting my life on the line for 100 grand...what does 100 grand even buy these days?</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="8">
+   <speaker>46.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Juicy throws her arms around him.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I missed you so much, baby.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't got enough dicks to keep you warm in that place?</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know it's not like that. Those guys get Juicy, but you get Marisol.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, Marisol...what I want is to get my money, kill that old ass man, then get the fuck out of here.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context>Vaughn stares at her.</context>
+      <utterance>Then that's how it's gonna go. We're just waiting on a call.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is my impatient face.</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context>Juicy gets in the open driver side door and makes a show of crawling over into the passenger seat.</context>
+      <utterance>Well, I think I can keep you entertained.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="3">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Should we go with the handguns...or the Uzis?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Handguns.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's such a Murtaugh choice.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="6">
+   <speaker>REGISTER WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sure you don't want to grab some condoms?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, no. Why?</utterance>
+   <speaker>REGISTER WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because this is usually what men buy before they rape someone, and I want to make sure you all use protection.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lady, we're just...buying some stuff.</utterance>
+   <speaker>REGISTER WOMAN</speaker>
+      <mode></mode>
+      <context>Will looks in his empty wallet, takes out a credit card. Chet grabs his hand.</context>
+      <utterance>Is that cash or credit for your rape kit?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll pay cash.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="4">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne ejects the tape, tosses it at Jay in the passenger seat.</context>
+      <utterance>You really fucked up this mix tape.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're not speed freaks knocking off a 7-Eleven. We're masterminding a heist here.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne shakes his head. He turns and looks out the windshield: they're parked in the Walmart lot, watching the store entrance.</context>
+      <utterance>Sorry, Dwayne. That song just means a lot to me.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wish he would hurry his shit up.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="9">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You worried about that other guy he's with?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne surveys the area. Something catches his attention: the bland strip mall across the street. There's a Blockbuster, Subway, and an empty space in between. Dwayne smiles.</context>
+      <utterance>No, man. He picked him up at a school. So long as there ain't any cops, he can take the whole town with him. I just want my money.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? You want me to run over to Subway, get us a couple sandwiches?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you had any vision, Jay, you'd know exactly what I'm thinking about right now. And it's not a sandwich.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>BEAT</mode>
+      <context>Jay checks it out, nods.</context>
+      <utterance>Look how well trafficked that shopping mall is. It's the perfect place for the tanning salon.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you're totally right.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been thinking about it, and I want you to start off working the counter. Sounds like a demotion, I know, but it's an important position. Because we're gonna be using code words and shit. For example, if a customer walks in and says he wants a tan, that just means he wants a tan. But if he says he wants a "deluxe tan," that means a blow job and you gotta get one of the girls in there to suck him off. You with me?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So far. But what if he wants a fuck?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's gonna be codes for everything: missionary, anal, black chicks. I got it all written down back home in my files.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="3">
+   <speaker>DWAYNE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I'm not gonna bother getting into it with you right now, because you're supposed to be on lookout and you're no good at multitasking.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne spots the Mustang pulling away.</context>
+      <utterance>Okay. 'Cause they're about to get away.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>He throws the van into gear.</context>
+      <utterance>Fuck.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="7">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be careful, you're getting paint everywhere.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you really worried about your upholstery right now?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet touches up one of the guns, goes to flip it over.</context>
+      <utterance>Yes, because if I survive this shit I'm quitting my job. That means I'll probably have to give up my place and I'll be sleeping in the back of my car, which you're covering in toxic paint.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That side isn't dry yet. You're about to ruin it.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It says it's fast drying.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fast isn't the same as instant. You gotta let it sit for like 20 minutes.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How would you know? You do a lot of graffiti?</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="9">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, but I spray painted my bike last year after I got my license suspended. I didn't let it dry properly and I fucked it up.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We don't have time to sit around and literally watch paint dry. Aren't we going straight to the bank?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet drops the spray paint, whirls on Will.</context>
+      <utterance>I was actually thinking we need to stop and steal a car first.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? No way! We've got a car.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, my car. I'm not gonna use it as a getaway vehicle. They can trace the plates. Even if we do get away, we'll be arrested.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I can't hotwire a fucking automobile, and neither can you.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's why I was thinking we'd steal one from your parents' friends. The Fishers. Remember how they used to pay us to clean their garage? They leave the keys in there. And they have a Datsun. That's a fast car.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will seethes. He whips the car over to the side of the road and gets in Chet's face.</context>
+      <utterance>I'm not stealing the Fishers' Datsun. Let's steal a car from your parents' friends.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What friends? My parents don't have any. My dad moved away after your big mouth ruined his marriage and humiliated him, and no one wanted to hang out with the mom who everyone knew fucked a lifeguard.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="8">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>I was just a kid, but I messed up.</context>
+      <utterance>You never should have told me! I was 13 years old. I couldn't process that kind of information. I had to tell someone else.  Fuck. I really am sorry about it. Okay? Despite what I said before.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet looks at Will, expectantly.</context>
+      <utterance>Okay.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's it? You're not gonna apologize for selling my Cal Ripken ball?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. I'm sorry...I'm sorry that my family was going through a rough patch and I was smoking a ton of weed and listening to the Wu Tang Clan all the time. And that I needed some extra dough to indulge my habit. Which, in hindsight, was probably just a cry for help. But you never even noticed.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will sits there, stewing for a moment. Then he softens -</context>
+      <utterance>Thanks. Now I feel even worse.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I shouldn't have stolen the ball. I knew it was wrong and I regretted it like the next day. I actually tried to buy it back but the guy wanted twice as much. I had to smoke even more weed just to get past the whole shitty incident. I guess that's why they call it a downward spiral.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>An awkward moment passes.</context>
+      <utterance>I appreciate that you tried to buy it back. So, thanks.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will turns back around, goes to pull out without looking and -</context>
+      <utterance>We should probably get going.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="6">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The keys aren't here. They always used to leave the keys out.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. When we were teenagers. This is fucked.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>The guys ransack the garage. Chet knocks over a shelf full of clutter.</context>
+      <utterance>Let's just find them.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will goes to the car and tries the handle. It's open. He scours the interior.</context>
+      <utterance>Sorry.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You hear that?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet peeks through the glass pane in the door.</context>
+      <utterance>What?</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="10">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>As he looks for an escape -</context>
+      <utterance>Mr. Fisher is coming!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh shit, oh shit. Are the keys in there?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will hops out of the car. He rifles through the Walmart bag.</context>
+      <utterance>No!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will pulls the ski masks out of the bag, along with one of the freshly painted air pistols.</context>
+      <utterance>What are you doing?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will puts a ski mask on, then throws one to Chet. The door opens and MR. FISHER (60s) enters. Chet quickly pulls down his mask. It's backwards. Will levels the pistol -</context>
+      <utterance>I'm doing what I have to.</utterance>
+   <speaker>MR. FISHER</speaker>
+      <mode></mode>
+      <context>Mr. Fisher braces himself against a wall. Chet fumbles to turn his mask around. Will affects a deep voice -</context>
+      <utterance>Oh, Jesus!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are the car keys?</utterance>
+   <speaker>MR. FISHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're in my pocket! I'm just reaching in my pocket for the keys!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Mr. Fisher reaches into his pocket and produces the keys. They jingle as he holds them out in his trembling hand. Will snatches them.</context>
+      <utterance>Quiet down and do it already.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>6 to be safe.</context>
+      <utterance>Now listen, I don't want you to report this car stolen or anything until later tonight. Let's say 5 o'clock.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="8">
+   <speaker>MR. FISHER</speaker>
+      <mode></mode>
+      <context>Will seems unconvinced. He looks to Chet, who shrugs. Will turns back to Mr. Fisher and gestures violently with the gun -</context>
+      <utterance>Sure. Anything you say.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you fuck with us, I swear, I will...I will shoot your son. Taylor. I know where he works. At the fucking travel agency. He's the douchebag with the bangs.</utterance>
+   <speaker>MR. FISHER</speaker>
+      <mode>STUNNED</mode>
+      <context></context>
+      <utterance>Please no. I won't do anything. I won't. Just leave Taylor alone.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm gonna trust you. But if you call the police, there's gonna be an undertaker styling his stupid fucking bangs!</utterance>
+   <speaker>WILL</speaker>
+      <mode>BEAT</mode>
+      <context>Mr. Fisher hits a switch that raises the garage door. Chet grabs their stuff and gets in the passenger side. Will backs toward the driver side.</context>
+      <utterance>Now open the garage door.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Mr. Fisher nods.</context>
+      <utterance>The car's insured, right?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. I feel better. Worse comes to worst, something happens to it, you can get a Honda. This thing doesn't even have airbags.</utterance>
+   <speaker>MR. FISHER</speaker>
+      <mode></mode>
+      <context>Will slides into the car and starts it up.</context>
+      <utterance>Please, just go.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="11">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>You could have killed him!</context>
+      <utterance>That old man's got a heart condition!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet tries to get comfortable in the seat.</context>
+      <utterance>My hand was forced!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will works the manual transmission. He steps on the gas.</context>
+      <utterance>Awesome. I'm stuck inside an even smaller car with you and a bomb.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This thing's got some pickup.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could you just take it easy, we're doing fine on time.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know...but there's one last stop we have to make.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will nervously drums his fingers on the steering wheel, trying to figure out how to say -</context>
+      <utterance>Do you have to take a piss first? Because I do.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need to see your sister.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you for real? Did you really just ask me that? You salt-in-an- open-wound motherfucker!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chet, as if it isn't apparent, I may die today. I'll probably die today. And if there's one small thing that's clear to me now, it's that I've wasted two and a half decades as a pussy, watching everything I want pass me by. I don't wanna peace out of this world as a pussy. I need to tell her how I feel.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're really gonna turn this into some sort of dying wish bullshit?</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="3">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I really am. It means that much to me. I am not fucking around here.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think you are. I mean, apparently, you love my sister so much that you're willing to put her life in danger by going to see her with a bomb strapped to your chest.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She won't be in danger. I promise. I got it all worked out. And you can even take a piss while I'm inside.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="6">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne pulls out his cell phone, punches in the speed dial code. His finger hovers above the send button.</context>
+      <utterance>Where the fuck is he going? What's in there? Some sort of FBI headquarters? I told that guy not to fuck around!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe I should give that bomb a call.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne smirks.</context>
+      <utterance>No! Let me just go see what he's up to.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was just fucking around. Are you gay for this guy or something?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Same as you.</context>
+      <utterance>I just wanna get the money, Dwayne.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>As Jay reaches for the door handle -</context>
+      <utterance>All right. Then man up and go check it out.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="5">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>What's you cover?</context>
+      <utterance>Don't even tell me you're about to do a reconnaissance without a cover.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know...I'm from the telephone company?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne rummages in the back of the car, produces a shopping bag and starts filling it with random clothes strewn across the car. He shoves the bag at Jay.</context>
+      <utterance>Yeah, nice fucking uniform.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay nods, hops out with the bag and slams the door. Dwayne looks down at the cell phone in his hand, twirls it as he hums a revival song...sings the lyrics, softly -</context>
+      <utterance>You're a personal shopper. You're delivering the latest fashions to Mr. Quilby in marketing. Got it?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"He's got the whole world in his hands. He's got whole fucking world in his hands..."</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="10">
+   <speaker>KATE</speaker>
+      <mode>CALLING OUT</mode>
+      <context>Will waves at her from where he is standing, way across on the other side of the roof. Kate starts toward him.</context>
+      <utterance>Will?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will takes out his cell phone and dials. Kate's phone rings. She answers it, confused.</context>
+      <utterance>Stop!</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>We STAY on Will. We can see Kate, standing 30 feet away, but her voice comes over Will's cell phone, with a delay that is slightly jarring.</context>
+      <utterance>What are you doing?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just don't come any closer.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not? What's going on?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm gonna give you the short version of an incredibly complicated and fucked up situation, so please be cool.</utterance>
+   <speaker>WILL</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>Some very bad guys strapped a bomb to my chest and they are forcing me to commit a crime.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will, I swear, if this is -</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Kate's voice falters -</context>
+      <utterance>I wish I was joking, but I'm not. I know it's a lot to swallow, but you gotta take it on face value, because there's a timer attached to this thing and it's counting down.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>I'll get you help.</context>
+      <utterance>Oh my god, Will...we'll get help.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="9">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't come here for help. I'm taking care of it. I came here because, should things not work out today as I would like them to, I want you to know why I was doing the things I did.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>Let me do something. This is crazy!</context>
+      <utterance>Please, just let me call someone.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't disagree with you. It's fucking nuts. But that's not even what this is about.</utterance>
+   <speaker>WILL</speaker>
+      <mode>STRUGGLING</mode>
+      <context></context>
+      <utterance>Do you remember when you found that picture in my car of you, me and Chet, with Chet cut out of it?</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will, I can't remember about some stupid picture while you're -</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need you to remember about the picture, and about how I stop by your office every Friday, and how I've always hated all your boyfriends, and how the two girls I've ever seriously dated have looked like less attractive versions of you.</utterance>
+   <speaker>WILL</speaker>
+      <mode>BEAT</mode>
+      <context>Kate is barely holding it together.</context>
+      <utterance>Do you see where I'm going with this? I love you Kate. I have for a very long time.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will, this is a lot you're putting on me! You just told me people are trying to kill you or something, and now you say you love me. What the fuck is going on?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A whole lot of shit. I'm sorry to do this to you, but I was afraid I'd never get the chance to tell you. And I know you have feelings for me, too. Maybe you feel for me the way you feel for a good friend, or - if the world fucking hates me - a brother.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="7">
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>It's not an easy thing to figure out.</context>
+      <utterance>Yes. I mean, I've known you forever.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Kate manages a small, stifled laugh.</context>
+      <utterance>I don't need an answer now. Just think about it. And no matter what you decide, you're too good for assholes like Mark and the rest of them.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>It's just, the bomb -</context>
+      <utterance>Okay. I will process all of this.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Kate nods. Will hangs up the phone. She turns back toward the access door, stops. She yells across the roof at Will -</context>
+      <utterance>It's distracting. I know. Anyway, I'd love to stay and talk some more, but I can't. I gotta ask you to leave now, because I'm running out of time.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>Will smiles, yells back -</context>
+      <utterance>If I had time to think about it...I'd probably tell you that I've always felt very strongly for you. And I've never thought of you as a brother.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a huge relief. Don't say anything else. I just really don't want to die now.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>Kate turns and continues to the access door.</context>
+      <utterance>Try not to. Please.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="10">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>I'm looking for Mr. Quilby.</context>
+      <utterance>I'm, uh...I'm a personal shopper.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>Kate continues down the stairs, tears coming now. Jay waits a beat, then hurries down and tries the door on the next level, which is open.</context>
+      <utterance>I'm sorry, I don't know who that is.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was just his girlfriend or something.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Getting one last blow job in case he don't make it. I kinda like this guy.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you tell her how you saw her naked when she was 13? That always works.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said my piece. She's gonna think about it.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up. She was freaked out.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. By the bomb.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By you.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="5">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would it be so bad if we ended up together? You and I would be family.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want you in the family. You bring very little to the table. I want her to be with someone awesome. A pro quarterback. A war hero. At the very least, someone I've never watched porn with.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, now it's up to her.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not if I set that bomb off myself.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then you'd probably never get to rob a bank. Will throws the car into gear and pulls away. SUPER COUNTDOWN: 4 hours, 10 minutes...</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="3">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet clasps his hands around his stomach.</context>
+      <utterance>You go for the money. I'll cover the crowd. In and out.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not feeling so good. I drank like three of those 5-Hour Energy drinks.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet reigns it in. The guys slide on the leather gloves and rolled up ski masks. They turn and stride toward the bank. The guys stop as they get to the door. They pull the ski masks down and take out their air pistols.</context>
+      <utterance>It's just nerves. Let's pull our shit together and do this thing.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="4">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What should I call you in there, like if I need to ask you to do something?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call me Tivon. You'll be Darius.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can tell you're not a black guy through the ski mask.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine. Then you'll be Luis and I'm Cruz. We're two loco motherfuckers and that's the way we gotta roll when we get in there.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="6">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everybody put your hands in the air!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, get on the ground!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will and Chet are on an adrenaline high, waving their guns everywhere. People scream.</context>
+      <utterance>Actually, listen to him and get on the fucking ground!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will frantically scans the panicked crowd for - The SECURITY GUARD (40s), rail thin and jumpy. Will points his gun right at him.</context>
+      <utterance>Shut up! Please!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Why is no one listening to me!?</context>
+      <utterance>You, just stand right there and don't do shit! The rest of you get the fuck down! Spread your arms and legs!</utterance>
+   <speaker>SECURITY GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just take it easy, man!</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="2">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be a hero, cowboy!</utterance>
+   <speaker>SECURITY GUARD</speaker>
+      <mode></mode>
+      <context>As people drop to the ground, whispering nervously to one</context>
+      <utterance>What the fuck does that mean? I'm not a hero! Or a cowboy!</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="8">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>The Tellers hurry into the main area of the bank and get onto their stomachs. Will looks to the Guard.</context>
+      <utterance>All of you, back away from the counter and get out here! Anyone pushes a button and one of these people gets totally shot!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>The Guard takes out his gun, lays it on the ground and shoves it away. The gun slides across the waxed floor and - Right into the outstretched hand of a sobbing MOM (40s), whose DAUGHTER (11) lies beside her in a soccer uniform.</context>
+      <utterance>Very slowly, take out your gun and toss it away.</utterance>
+   <speaker>MOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, god! I don't want the gun!</utterance>
+   <speaker>WILL</speaker>
+      <mode>TO GUARD</mode>
+      <context></context>
+      <utterance>What the fuck!? Did you do that on purpose!?</utterance>
+   <speaker>SECURITY GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was an accident!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you guys working together?</utterance>
+   <speaker>MOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! Please take this gun away!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just toss it, lady!</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="13">
+   <speaker>MAN'S VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>A FAT MAN has been shot. He clutches his thigh.</context>
+      <utterance>Ah!</utterance>
+   <speaker>FAT MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think she got the femoral artery!</utterance>
+   <speaker>MOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry! It was an accident!</utterance>
+   <speaker>FAT MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you! Who slides a gun like that!?</utterance>
+   <speaker>DAUGHTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mommy, what's happening!?</utterance>
+   <speaker>MOM</speaker>
+      <mode></mode>
+      <context>Chet turns ashen. He moves close to Will, whispers urgently -</context>
+      <utterance>Christi, be quiet. These men are dangerous.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is fucked. That dude is gonna bleed out and we're gonna go to prison.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just calm down.</utterance>
+   <speaker>FAT MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why is no one getting me help!?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Nothing. Just the heavy breathing of many frightened people. Will hurries over to the Fat Man, who is bent over, hugging his leg.</context>
+      <utterance>Is anyone here a doctor?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir, let me see where you're hit.</utterance>
+   <speaker>FAT MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just call me an ambulance!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Calm down, sir.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="9">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's just a flesh wound. You're gonna be okay.</utterance>
+   <speaker>FAT MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But it hurts so bad.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got shot, man. It's not supposed to feel good. But you're gonna be fine. And you'll have a great story to tell everyone.</utterance>
+   <speaker>FAT MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is an awful story! This isn't a bank error in my favor! I got shot!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet snaps back to attention -</context>
+      <utterance>Point taken. Luis, how we doing on the money?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Chet picks out the most harmless looking teller, a mousy 20- something girl, and helps her up off the ground. He checks her name tag: SANDRA.</context>
+      <utterance>Oh, shit. Sorry, Cruz.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Sandra nods. Chet smiles, reassuringly. She hurries behind the counter, starts filling a bank bag with cash, as -</context>
+      <utterance>Hey, Sandra. I know you're probably scared right now, but if you go grab us 100 grand in a bag, we'll get out of here. This will all be over and you'll be fine. You trust me?</utterance>
+   <speaker>FAT MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My leg really hurts!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Sandra emerges from behind the partition with the bank bag. Will grabs it. He takes a last look at the people spread across the floor.</context>
+      <utterance>Can you please hurry up, Sandra!?</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="8">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will crosses to the Fat Man, offers the bank bag.</context>
+      <utterance>I'm really sorry, everyone. I know we probably fucked up your day.  I'm thinking of you in particular, sir. Actually, you know what...</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>The Fat Man hesitantly reaches for the bag. Opens it - Red Dye explodes all over his face. He shrieks. Chet whirls on the teller.</context>
+      <utterance>Quickly. Peel a few bills. On me. Anyone rats him to the cops and I'm coming for you. I remember faces.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>What happened to trust?</context>
+      <utterance>What the fuck was that about, Sandra? I thought we had something going!</utterance>
+   <speaker>SANDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry! They make us do it!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Sandra hurries back behind the partition with Chet. He dumps out the contents of a trash can, grabs the bag and watches closely as Sandra stuffs it with cash.</context>
+      <utterance>Could you kindly fill another bag? Not a bank bag. A fucking garbage bag. And Luis, will you watch her this time?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Chet grabs the bag and hustles out toward Will. They are home free, until - They hear the wail of approaching sirens outside. They stop cold, panicked. Will whirls on the Tellers.</context>
+      <utterance>Okay. That should be enough.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck! Which one of you assholes tripped the alarm!? Was it you, Sandra!?</utterance>
+   <speaker>SANDRA</speaker>
+      <mode></mode>
+      <context>Another teller, MARK, looks up from the floor.</context>
+      <utterance>No! It was Mark! He pushed the button when you guys came in!</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="4">
+   <speaker>MARK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sandra, you bitch! Now they're gonna kill us both!</utterance>
+   <speaker>SANDRA</speaker>
+      <mode></mode>
+      <context>Will loses his shit -</context>
+      <utterance>Fuck you, Mark! You're the manager!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>People are freaked out. Sandra is crying, thinking she will probably get shot now. Chet grabs Will and pulls him toward the door.</context>
+      <utterance>Fuck both of you! Fuck all of you! I'm a regular guy! Just like you! I'm a regular guy and you fucked me! Thank you for fucking a regular guy!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>The guys slam through the doors, out into</context>
+      <utterance>Let's just get the fuck out of here.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="7">
+   <speaker>OFFICER ZURMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Drop your weapons!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't shoot us!</utterance>
+   <speaker>OFFICER ZURMAN</speaker>
+      <mode></mode>
+      <context>Chet looks at Will with utter desperation. In the distance, they hear the sirens of more cops approaching. Will tosses his gun, rips open his jacket and grabs a cluster of wires.</context>
+      <utterance>Drop the guns or I'll have to!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Zurman doesn't stick around for the rest. He turns and sprints away.</context>
+      <utterance>Fuck you! You just brought a gun to a bomb fight, officer! I pull these wires out and we all go! You got ten seconds to drop your gun and -</utterance>
+   <speaker>69.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As the guys make for the Datsun -</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was awesome.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>The guys jump in the Datsun and peel out as two more police cruisers race toward the bank. The cruisers change course and give chase. The Datsun blows right by the parked</context>
+      <utterance>He was tempting a desperate motherfucker.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="5">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Holy shit! Our boy is causing some serious mayhem!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne whirls on Jay, punches him hard in the shoulder.</context>
+      <utterance>He's gonna get caught or killed.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay massages his shoulder, pissed.</context>
+      <utterance>Shut the fuck up! If you jinx this with your negativity, I'm gonna strap a bomb to your chest next.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, yeah, who's gonna build it?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are!</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="3">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe we should pull over and surrender.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can outrun these guys. They're not the FBI, they're local cops. Just shut up and let me concentrate. I do this for a living. As they clip the side-view mirror off a Kia -</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>The cruisers are gaining ground, throttles wide open. Will downshifts, spiking the RPMs into the red, as he banks a hard right and</context>
+      <utterance>You don't do anything like this for a living! I am not a pizza, I am a man!</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="3">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will veers back into the street and blindly plows ahead as cars he cannot see swerve to avoid him. He finally slams the brakes, the momentum knocking the dispenser loose and launching it onto the sidewalk, scattering Pedestrians. Chet whirls around to see the cruiser flying right at them.</context>
+      <utterance>Holy fuck!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will steps on the gas. The light ahead turns red.</context>
+      <utterance>Go! Go! Go!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop! Stop! Stop!</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="4">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chet? Are you okay? Chet!?</utterance>
+   <speaker>CHET</speaker>
+      <mode>ROUSING</mode>
+      <context></context>
+      <utterance>Oh my god...</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Talk to me.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Will's hands go to the bomb...still intact.</context>
+      <utterance>I thought you were gonna blow up.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="3">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Luckily your side took most of the impact.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Awesome.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will unclicks his seat belt and falls to the roof of the car. He moves to Chet, unclicks his belt and helps him down.</context>
+      <utterance>We gotta keep moving.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="6">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chet...I don't know how to tell you this...but you got a piece of the car in you.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What!?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet glances back to see a jagged piece of metal sticking out of his shoulder blade.</context>
+      <utterance>In your back.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah! Get it out!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do it now!</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="4">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Without breaking stride, Will yanks the piece of metal out of Chet's back. He screams.</context>
+      <utterance>All right.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Behind them, two Officers turn into the alley in full sprint. They are way faster than the guys and soon gain on them. Will can barely keep up with Chet.</context>
+      <utterance>Is it rusty? Am I gonna get tetanus?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you moving so slowly?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>They burst out of the alley, onto</context>
+      <utterance>It's a combination of cheap sneakers and this heavy fucking bomb on my chest!</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="3">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I never thought I'd see you again.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you hated this car.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>And it never would have flipped over.</context>
+      <utterance>It's actually not that bad. You know, as compared to that Datsun. The Mustang's got more comfortable seats.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="6">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>From a bank.</context>
+      <utterance>There's a 100 grand in there. 100 fucking grand. Which we stole.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told a bunch of people I was gonna shoot someone. I was like "you fucking move, and I will kill you where you stand!"</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I threatened to blow up a cop.</utterance>
+   <speaker>WILL</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>And you never said "I will kill you where you stand."</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know. But shit did get pretty crazy.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will starts to get a little emotional.</context>
+      <utterance>Yeah, it did.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="8">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet smiles.</context>
+      <utterance>You know, there's no one I would have rather taken down a fucking bank with. I mean that.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me, neither.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And as for all that shit I said...and all that shit I did...I hope you can forgive me. We've been friends for so long, and I guess you hurt the people you're closest to the most.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I messed up, too. I'm a dude who slept with his best friend's ex- girlfriend, and destroyed his parents' marriage, and sat on the sidelines watching his downward spiral. I'm a shitty human being. But I'm glad you know that now, because you can accept me for who I am.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will goes in for a hug. Chet gets lost in the moment, before recoiling.</context>
+      <utterance>I do. I accept you. Because you accept me.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woah! You still got a bomb on you.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will pulls the slip of paper Dwayne gave him from his pocket.</context>
+      <utterance>You're right. Let's take care of that. But you owe me a hug.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all gravy from here. Will takes out his cell and dials the number.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="14">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This who I think it is?</utterance>
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Can't you hear the ticking in the background?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, you're a pretty funny guy.</utterance>
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Thanks. I'm happy to entertain a complete psychopath.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now wait a second, you're the murderer.</utterance>
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>What's that supposed to mean?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Will goes white, covers the phone and whispers to Chet -</context>
+      <utterance>One of those cops who wrecked his car chasing you...he ain't breathing no more.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We killed a cop.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were driving! I'm just an accomplice!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're gonna hunt us down and kill us. Cops don't take this shit lightly.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Dwayne is holding back laughter. Finally bursts out.</context>
+      <utterance>I bet he had like eight kids. We have to find them and support his family forever.</utterance>
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>What's so fucking funny!?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm just messin' with you. You didn't kill anyone. How'd a moron like you manage to rob a bank?</utterance>
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Jesus! Can we just get this over with? Where do you want the money?</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="4">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Be there in 30 minutes.</context>
+      <utterance>There's a boarded up gas station out on Commerce Avenue, past the highway.</utterance>
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>I'll be there in ten.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne hangs up. He dials another number -</context>
+      <utterance>Then you'll be standing around with your dick in one hand, and my money in the other.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, Juicy, wrangle your boy. Money's on its way.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="10">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay looks pretty affected that Dwayne is opening up to him.</context>
+      <utterance>I'm not ashamed to admit that I've gone through some dark times since then. Depression. Addiction to a variety of shit, which I won't go into. I know you must think that's pretty silly, especially since you manage to get through the day and you don't got shit going on as compared to me. But that's just the way it is. That's life.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, I've been pretty low, too... if you ever want to talk about that kinda stuff.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I don't. My whole point I was trying to make before you interrupted me was that that shit is all in the past. 'Cause I did it. I finally pulled it off.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We pulled it off, Dwayne. The two us. We're a good team.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are we? Would you do anything to protect me, my money, my empire?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, sure...</utterance>
+   <speaker>JAY</speaker>
+      <mode>NERVOUS</mode>
+      <context>Dwayne takes out his cell, keys in the speed dial code and slides the cell across the table to Jay.</context>
+      <utterance>I mean, like what kinda stuff are we talking about?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you push the button?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why would you want me to do that?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's just a question, Jay. Would you? If I asked you?</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="6">
+   <speaker>DWAYNE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I mean, it's no different than those watermelons.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Watermelons aren't alive.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne stares hard at Jay. A tense beat.</context>
+      <utterance>Yeah, they are. Not the ones you blew up, though.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No one gets hurt...right, Dwayne?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne cracks a smile.</context>
+      <utterance>Oh, yeah. I forgot about that part.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne heads off. Jay eyes the cell phone he has left behind.</context>
+      <utterance>Anyway, he hasn't even made the drop yet. I'm gonna go take a shit. Stay away from the bathroom. Someone could get hurt.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="4">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are the other guys?</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm the only guy.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode>BEAT</mode>
+      <context>Will picks up the garbage bag at his feet and walks it over to Vaughn. He opens it, looks in.</context>
+      <utterance>You got it?</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck did you do...rob a bank?</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="12">
+   <speaker>WILL</speaker>
+      <mode>INCREDULOUS</mode>
+      <context>Vaughn grins.</context>
+      <utterance>Yes.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now where's the code?</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>Vaughn turns to leave. Will grabs his arm. Vaughn stops, looks purposefully down at Will's hand. Will draws back.</context>
+      <utterance>I don't have any code.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen, man, I just want the code.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know what the fuck you're talking about.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will opens his jacket. Vaughn takes a sudden step back.</context>
+      <utterance>The code for the fucking bomb!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What kind of stupid motherfucker wears a bomb to a drop?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your boss put this on me.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am my boss.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then give me the code!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>Vaughn goes to leave again. Will runs ahead of him and gets in his way.</context>
+      <utterance>Motherfucker, I don't know no goddamn code. Whoever told you I did, lied to you. Now step the fuck off, or I'll shoot you in the face so you don't explode and mess up my boots.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you don't have the code, I want that money back.</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="3">
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The only way you're getting this money back is if you kill me.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>In an instant, Vaughn has his gun out, aimed at Will's head.</context>
+      <utterance>You don't know what I've gone through for that money!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do I look sympathetic? Now step the fuck aside.</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="2">
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context>Vaughn whirls around toward Chet, just in time to have his gun arm smashed by the pipe. The weapon drops from his hand. Chet takes another swing, cracking Vaughn across the face. He howls, blood spraying, and topples over. Chet goes for another swing, when - Juicy jumps on him, wildly biting and clawing. Will grabs the back of Juicy's track jacket for leverage and flings her away. She hits the back of the Sentra and careens clear across the trunk.</context>
+      <utterance>Vaughn, look out!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will grabs the money. Chet kicks Vaughn's gun into the bushes. The guys break for the Mustang and get in. Juicy gets to her feet, runs right by a dazed Vaughn and after the car, which pulls out into the road and leaves her behind, screaming and cursing.</context>
+      <utterance>Let's go!</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="3">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck was that?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They tried to screw us. You're a liability. They were just gonna let you blow up.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not with the money they won't.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="2">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne's phone chimes from a nearby counter. He grabs it, looks at the incoming number, slightly concerned. He answers -</context>
+      <utterance>Never comes out this nice when I do it myself. You might wanna take some more off the top, though. I wanna look real professional when I go down to the morgue to identify the body.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You drop the money yet?</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="4">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! I've still got the money! And I cracked your friend's face open!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Why the fuck would you do that!?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Dwayne is panicked, covers badly -</context>
+      <utterance>You lied! You said I'd get the code!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I gave him the code. He told me he committed it to memory.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="8">
+   <speaker>DWAYNE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>He was probably just embarrassed that he forgot it. I'll call him up and -</utterance>
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>You didn't give him shit! I want the code now or you'll never see this money!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold on there, big man. You got a bomb on you. I got a cell phone that detonates it. You're not exactly negotiating from a position of leverage.</utterance>
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context>Chet freaks out -</context>
+      <utterance>I'm holding the money. I blow up, and it blows up. Who has the leverage now? Go ahead and push the button, you idiot.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Dwayne is getting pissed off.</context>
+      <utterance>Don't tell him to push the button! Pull over! Pull over!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you watch what the fuck you say! I own you! I tell you to rob a bank, and you rob a bank. I tell you to give me the money, and you give me the goddamn money and hope I show you some mercy.</utterance>
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context>The line goes dead. Dwayne tears off his haircut smock.</context>
+      <utterance>I'm tired of this bullshit. I'm already dead, right? So fuck you. At least I'll die rich. I can't say the same for you.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That piece of shit hung up on me!</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="3">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was colossally stupid!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was a negotiation tactic. He'll call back and I won't answer. Then he'll call back and I will answer, and he'll realize the only way he gets the money is if he gives me the code.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure! That seems like a perfectly logical pattern of thought! I bet that's exactly what he'll do!</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="4">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay retreats into a corner. Dwayne's a big boy, and he soon tires himself out, hunches over, panting.</context>
+      <utterance>Does this guy know who the fuck I am!?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dwayne...you never told me you weren't going to give him the code.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne shakes his head. Starts digging through the mess he's made...finds his phone.</context>
+      <utterance>We're not amateurs. He was a loose end. I let him live, someday I woulda been walking out of my mansion and... bam! FBI, CIA, NSA, all converging on my front lawn, 'cause a loose end turned state's evidence and they got what they need to put me away.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne keys in the speed dial code.</context>
+      <utterance>Fuck it, Jay. I'll just kill The Major myself.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="10">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne looks down at the send button.</context>
+      <utterance>Don't do it.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne hits send.</context>
+      <utterance>You know what they say about a tree falling in the forest? Maybe the same thing applies to blowing up some motherfucker across town. Maybe it doesn't even make a sound.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>But Dwayne notices something...the phone in his hand is ringing. He puts it to his ear. The line connects -</context>
+      <utterance>Boom.</utterance>
+   <speaker>FEMALE VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Dwayne snaps the phone shut, looks to Jay, who tries to will the beads of sweat back into his pores.</context>
+      <utterance>Hello...who is this...hello...?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who did I just call, Jay? 'Cause she sounded cute for a bomb.</utterance>
+   <speaker>JAY</speaker>
+      <mode>SWALLOWS HARD</mode>
+      <context></context>
+      <utterance>Gina Kim. My seventh grade crush. Or whoever lives in Gina Kim's house now.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's the number for the bomb?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In my head. I switched it out of your phone while you were taking a shit. You're out of control, Dwayne.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne charges Jay. Jay holds up the hair clippers like a weapon, flicks them on. Dwayne rips the cord out of the wall, uses it to yank the clippers from Jay's hand, then whips him with the cord.</context>
+      <utterance>I'm in perfect control!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop it!</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="6">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You asshole...I make you my partner and you pull this shit...</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm tired of you pushing me around all the time! What kinda partner does that!?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you...I'm gonna piss blood, aren't I?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne's phone rings in his pocket.</context>
+      <utterance>That's what it said on the internet.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay pulls the cell from Dwayne's pocket...opens it and puts it to his ear so he can answer -</context>
+      <utterance>Go on. Get it out for me. I can barely move.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Glad you came to your senses.</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="4">
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who the fuck do you think you're talking to!?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>I honestly don't know.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>Dwayne realizes who's on the other line, recovers -</context>
+      <utterance>Let me give you a hint: your boy just jumped me, tossed my bitch like a rag doll and split with the cash.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>I'm sorry for all the, uh, confusion.</context>
+      <utterance>That guy's not my boy. He's a dick.</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="11">
+   <speaker>VAUGHN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Confusion? The only motherfucker that's confused is you. Apparently, you think you can fuck me and survive the day.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wasn't fucking you, I was fucking him. You gotta understand, you're like a pawn in a much larger game I'm playing here.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Did you just call me a pawn, you stupid fuck!?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't mean it like that. I'm just juggling a whole lot of shit.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>I want my money. Right now.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That may not be possible.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>DELICATELY</mode>
+      <context>Vaughn paces, furious.</context>
+      <utterance>I just want to put this out there, to keep you in the loop...but I may need to bump the hit.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This isn't a reservation at Sizzler! You don't "bump" it! I want you to bring me my money right now, to where I am standing in this shit hole town, bleeding from the motherfucking face!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>I don't exactly have the money...give me some time and -</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>Vaughn hangs up, tosses the bloody rag to the ground and screams in frustration.</context>
+      <utterance>The deal's off! You just became the hit!</utterance>
+   <speaker>JUICY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He lives with his daddy. You already got the address.</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="8">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne cradles his arms around his wounded kidney, rocks back and forth, wallowing in defeat.</context>
+      <utterance>That's it. The assassin's gonna kill me now. I'm gonna die. Game fucking over.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can still get him the money. Try the pizza guy back.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why? So he can fuck around again, and I wind up dead, anyway? No. I'd rather just sit here. I want to die right here on this couch.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. We're gonna get that money. Just like we planned. All we gotta do is get the leverage back.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay gathers his resolve.</context>
+      <utterance>How do we do that? Pizza boy's obviously got some kinda death wish.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne looks up at Jay with something not unlike awe.</context>
+      <utterance>We take the girl. The one he went to see. Then he won't try shit.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne lowers his head. He removes the gun from his belt...holds it out to Jay. Jay takes it. Feels its weight. Then offers it back.</context>
+      <utterance>That's actually...that's a great fucking idea, Jay. It's the best idea anyone's had all day.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne takes the gun. Struggles to stand. Jay helps him.</context>
+      <utterance>I was just trying to figure out how you would do it, Dwayne.</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="3">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ok. Then let's do it right. We leave nothing to chance. Because if we go to prison for this, I won't be able to watch out for you.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne looks over at a frame backpack hanging from a hook on the wall. PVC piping bulges from it.</context>
+      <utterance>Ok, Dwayne.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You should probably bring the flamethrower, buddy. There's gonna be some evidence to dispose of.</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="14">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's been half an hour.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He'll call.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>Chet gestures to the vast emptiness all around them.</context>
+      <utterance>In another 30 minutes I'm calling the bomb squad.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These guys obviously aren't watching you anymore.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, even if they get the bomb squad here in time, and they can somehow get this thing off me, we still gotta answer for the robbery.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll take the heat with you, Will.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nah. I'll tell them I forced you into it. That you didn't have a choice.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, man.</utterance>
+   <speaker>90.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will looks at Chet for a beat.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's it? You're not gonna think about it a little longer? After all we went through...tear down the relationship, rebuild it...you're gonna let me go to prison alone?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You offered.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>You know what the "F" is for?</context>
+      <utterance>It was a test. Your grade: F minus.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To fuck myself?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You passed that test. Failed the important one. As the guys continue to argue - SUPER COUNTDOWN: 1 hour, 28 minutes...</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="7">
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context>Nothing. The Major gets up and goes to a desk, rifles through a drawer and pulls something out. A simple pen. He clutches it like a weapon.</context>
+      <utterance>Dwayne?</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode>O.S.</mode>
+      <context>The Major turns to find Vaughn pointing a gun at him.</context>
+      <utterance>Just stay where you are, old man.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm looking for your son.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Even if I knew where he was, I wouldn't tell you nothing.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be stupid.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, I saved a black man's life in the shit. So if I took yours I'd be even.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see where your son gets his common sense.</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="6">
+   <speaker>VAUGHN</speaker>
+      <mode>CONT'D</mode>
+      <context>If this news has any effect at all on The Major, he doesn't show it.</context>
+      <utterance>But you might want to readjust your attitude, because I ain't fucking around. I want Dwayne. I don't know why you'd want to protect him, the motherfucker hired me to kill you.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>Vaughn pulls back the hammer of his gun.</context>
+      <utterance>Just tell me where he is!</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context>Vaughn shakes his head. Almost imperceptibly, The Major repositions the hand with the pen in it. Vaughn is about to squeeze the trigger - But The Major beats him to it, clicking the pen, which is actually a pen gun. It fires a .22 caliber round into Vaughn's neck. He drops the gun and clutches the geyser of blood. The Major charges Vaughn, jumps on him and wrestles him to the ground, trying to jam the pen into the wound in his neck.</context>
+      <utterance>You think I'm scared of death? There's a whole generation of gooks that think I'm the grim reaper.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context>Vaughn reaches for his gun. His fingers curl around it and he whips it across The Major's face, knocking him backwards. Vaughn scrambles to his feet, gun pointed at the felled Major.</context>
+      <utterance>I'll ride you all the way to hell! I know exactly how to get there!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>The Major looks up at Vaughn, once again face to face with a loaded weapon.</context>
+      <utterance>What now, old man!? You can't kill me! None of y'all can kill me!</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go on and -</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="6">
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>He finds a map of the town in the file. Three locations are highlighted: the bank, the boarded up gas station, and the radio tower. PUSH IN on the radio tower. Vaughn stuffs the map into his pocket. He stops before leaving the room, turns and shatters the fish tank with the butt of his gun. Water spills out and the Chinese Fighting Fish flop onto the floor. As Vaughn lifts a boot to stomp them -</context>
+      <utterance>Motherfucker has lost his mind...</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look at the upshot, while you're behind bars you can finally finish your degree. If I was there, too, it would just be a distraction.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will stews. After a beat, his hand goes to his pocket. It's vibrating. He pulls out his cell.</context>
+      <utterance>Great idea, Chet. Thanks a lot. I'll just sit here and figure out a fucking major.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, it's them.</utterance>
+   <speaker>94.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will answers -</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ready to talk now?</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="5">
+   <speaker>DWAYNE</speaker>
+      <mode>INTO PHONE</mode>
+      <context></context>
+      <utterance>Yeah, I'm ready to talk. I want my money. Meet me back at the radio tower in 50 minutes.</utterance>
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>I've barely got an hour left!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the point. I want you on a short leash.</utterance>
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Fuck that. Give me the code first. Then you can have your money. You'll just have to trust me when I say that I don't want it.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Will's mind jumps to the only logical conclusion. Roller coaster stomach drop. His voice cracks as he asks a useless</context>
+      <utterance>Yeah, I'm sure. You just wanna go back to your fantastic life. Your great job. And that blonde bitch with the sexy voice.</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="16">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck is that supposed to mean?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>It means that girl you paid a visit to today is sitting in the back of my van right now. And it ain't exactly consensual.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you! You crossed a line!</utterance>
+   <speaker>95.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dwayne just laughs, maniacally.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are no lines! There's just me and you and 100 thousand dollars. Once we get that shit in order, you can have her back, and your life, too. So you're gonna show up where I say, when I say. Alone. And if you try anything stupid, the two of you will be delivering pizzas to Saint Peter.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me talk to her.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne hands the phone back to Jay, who puts it to Kate's ear. She is trembling.</context>
+      <utterance>You got ten seconds.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will...?</utterance>
+   <speaker>WILL</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Kate, I'm so sorry.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay...I'm fine...I'm just really - Dwayne snatches the phone.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Will absorbs this like a blow to the chest. The line disconnects.</context>
+      <utterance>She's just really gonna die if you fuck this up.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They have Kate.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck does that mean!?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They took her, man. They must have followed us to her office.</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="4">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn it! You had to go see her!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. I messed up...I finally messed up worse than I could have possibly imagined.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We gotta get her back, Will. These guys are crazy.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet grabs the bag of cash. They hustle into the car and it peels out, leaving behind a swirling cloud of dust. As the sun begins to set - SUPER COUNTDOWN: 58 minutes...</context>
+      <utterance>We still got the money. As long as we have that, she's alive. Come on.</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="2">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>In the shadow of the nearby shed, the minivan is revealed as its interior lights come on. The door opens and Dwayne emerges, in his mask.</context>
+      <utterance>I'm here!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much time you got left?</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="11">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ten minutes.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>The guys meet in a clearing. Dwayne nods at the bag.</context>
+      <utterance>Damn. Maybe we should just wait around for the money shot.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That the money?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Dwayne grins.</context>
+      <utterance>Maybe. Where's the girl?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the van. Maybe.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Dwayne whistles. The minivan door opens and Jay steps out. Strapped to his back is the frame pack we saw at his workshop. A long tube connects the pack to the handle of a metal pipe- like device in his hand. Jay helps Kate, still bound and blindfolded, out of the van. They approach Dwayne and take up position behind him.</context>
+      <utterance>Get her out here. You're wasting time. Will grips the bag close to him.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will, are you there?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm here. It's gonna be okay.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is a fucking tearjerker.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just let her come over here.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay aims the metal device he has been holding. He hits a button and a pilot light comes on.</context>
+      <utterance>I will. But you should know, my associate over there is packing a flamethrower.</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="8">
+   <speaker>JAY</speaker>
+      <mode>FLAT</mode>
+      <context></context>
+      <utterance>Just do what we say. Don't mess around or anything.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne roughly pulls Kate away from Jay and shoves her forward. Will grabs her, pulls her blindfold off and pushes her behind him.</context>
+      <utterance>Unless either of you can outrun a 25- foot flame.  Or a bullet.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get back.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I gave you the girl. Now give me the money.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How about we get the code out of the way first, since this bomb happens to be ticking so close to all of us.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fair enough. Dwayne pulls a slip of paper from his pocket.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode>TAUNTING</mode>
+      <context></context>
+      <utterance>You ready to be a free man?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just give it to me!</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="13">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's so fucking pretty, ain't it?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. It's awesome.</utterance>
+   <speaker>99.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dwayne looks up at Will.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, you can get out of here now.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I actually have this sneaking suspicion that once we turn around, you're gonna put a bullet in both of our backs - and this is just a guess - burn our bodies.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>And in this case, so do we.</context>
+      <utterance>They say great minds think alike.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I figured as much. That's why I got a gun pointed at you, too.</utterance>
+   <speaker>WILL</speaker>
+      <mode>LOUDLY</mode>
+      <context></context>
+      <utterance>I got a sniper in the bushes locked on you right now.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do I look that dumb?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Before Dwayne can react, he stops and blinks, something shining in his eyes.</context>
+      <utterance>I can't tell, you're wearing a mask.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne's eyes turn upward, just barely making out the red dot that dances on his forehead.</context>
+      <utterance>Hey...on your forehead.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>In the bushes, hidden from sight, Chet carefully aims his laser pointer at Dwayne's forehead. Will grins at Dwayne.</context>
+      <utterance>Son of a bitch. Well played.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>As Will turns away -</context>
+      <utterance>We're gonna walk out of here now. If you shoot, my sniper shoots. I can't guarantee he'll get both of you. But he'll definitely get you.</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="10">
+   <speaker>VAUGHN</speaker>
+      <mode>O.S.</mode>
+      <context>Vaughn emerges from the darkness. He looks at Will.</context>
+      <utterance>Hold the fuck up.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>Without warning, Vaughn cracks Will over the head with the butt of his gun. He goes down hard. Kate screams. Vaughn points the gun at her and she shuts up. Dwayne steps forward with the bag.</context>
+      <utterance>Wasn't expecting to see you here.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all good. We got your money.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>Dwayne complies. As soon as the bag lands, Vaughn aims the gun at him.</context>
+      <utterance>Nice mask, Dwayne. Now throw the money over here.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Kate looks on, terrified, an unconscious Will at her side. Vaughn's eyes burn a hole through Dwayne.</context>
+      <utterance>Hold up. You don't have to do this. I just paid you.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been hit with a pipe, shot with a pen, and wasted my whole motherfucking day...all because of you and this job.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Just take the money.</context>
+      <utterance>I don't know what you're talking about.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will. And then I'm gonna tie up the two loose ends in the gorilla masks.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not a loose end!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>Panicked, Dwayne's eyes flash over to Jay, who tightens his grip on the flamethrower handle. Jay catches Dwayne's eye. Dwayne nods. Vaughn sees this.</context>
+      <utterance>You're a fucking idiot. You are as loose as ends get.</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="3">
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chet!? What are you doing here!?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not now. We gotta take off.</utterance>
+   <speaker>CHET</speaker>
+      <mode>LOOKS AROUND</mode>
+      <context>Kate looks to the empty spot beside her where Will just was. Flames inches from him, Vaughn lines up a desperate shot - Good news: the bullet only grazes Jay's side. Bad news: it keeps going and punches through the flamethrower backpack, which happens to be filled with gasoline, which happens to have an incredibly low flash point. So the spark from, say, a bullet, would cause</context>
+      <utterance>Where's Will?</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="8">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay disentangles himself from the backpack, the source of the flames, but his clothes are now ablaze. In his frenzy, he somehow manages to string together two coherent words -</context>
+      <utterance>No!!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Dwayne gets to his feet as the Mustang roars down the driveway. He looks to Jay, then to his minivan. Dwayne's face: Two roads diverge in a wood. Which to take?</context>
+      <utterance>Dwayne! Help!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne sprints over to Jay, rips off his jacket and uses it to beat the flames down.</context>
+      <utterance>Goddamn it, Jay!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay hits the deck. Dwayne continues fighting the flames, finally falls on top of Jay with the jacket spread and smothers the last of them out. Jay looks up at Dwayne with puppy dog eyes.</context>
+      <utterance>Stop, drop and roll!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You came back for me...you said you never would.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Jay smiles. Flames overtake the field all around them.</context>
+      <utterance>You didn't hesitate back there, Jay. You did good.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Think you can get outta here?</context>
+      <utterance>I'm gonna go put a bullet in that motherfucker and get our money.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. Go get him.</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="7">
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh...I just got kidnapped.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, that was totally Will's fault. In case you want to factor that in while you're mulling over the whole relationship thing.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm very sorry about the kidnapping. This is me, taking responsibility for it. Growing up. Like a viable life partner.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This man has spied on you in the nude before!</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? No, I didn't.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context>And it won't stand.</context>
+      <utterance>He's lying. He's trying to build a relationship on a foundation of lies.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>Something catches Will's attention: a set of headlights rapidly growing larger in the rear-view mirror.</context>
+      <utterance>I just got kidnapped! Can we talk about that!?</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="2">
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet and Kate look out the back window. Chet screams -</context>
+      <utterance>Oh, shit. One of those dudes is definitely not dead!</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hurry up! He's already on us!</utterance>
+</dialogue>
+
+<dialogue id="128" n_utterances="4">
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell was that?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was the bomb I carried around all day. I reactivated it and put it in the back of his van. I guess his time was up.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"His time was up?" Were you thinking that up the whole day?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was prepared, yes. I can't help it if I'm the kind of guy who thinks about the future.</utterance>
+</dialogue>
+
+<dialogue id="129" n_utterances="10">
+   <speaker>CHET</speaker>
+      <mode>TO KATE</mode>
+      <context></context>
+      <utterance>He's not that kind of guy. He doesn't think about the future. Ever.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What exactly happened since I saw you this afternoon?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Primarily, we robbed a bank.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context>What do we do now?</context>
+      <utterance>What!? So you're, like, fugitives?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, Will. What does the future hold?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Kate opens the bag...smiles through the dirt and grime.</context>
+      <utterance>Nothing good if we stay in town and they pin this on us. Kate, I think you should put in for that vacation time. Right now. If anyone gives you a problem, tell them to fuck off. There's 100 grand in that trash bag by your feet. A third of it's yours.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will, that's -</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fucked up. Why does she get a share?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet stews. Will catches Kate's eyes in the rear-view.</context>
+      <utterance>Why do you get a share?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Airport's 30 minutes away. Pick a destination. This time it's not a practice run.</utterance>
+</dialogue>
+
+<dialogue id="130" n_utterances="6">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne inches closer, pokes the body. Nothing.</context>
+      <utterance>Dad?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>The body emits a low groan. Dwayne rolls it over. His father's face is white, he's lost a lot of blood, but he isn't totally spent yet. He struggles to speak -</context>
+      <utterance>Dad, are you -</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dwayne...</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened to you?</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some guy...said you hired him to kill me.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad, I...I'd never...</utterance>
+</dialogue>
+
+<dialogue id="131" n_utterances="8">
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look at you...lip quivering like you're getting fucked...be a man.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>This stirs something in The Major.</context>
+      <utterance>I am a man! I killed you, didn't I? Now I'm gonna use your money to open a tanning salon where they let you fuck the chicks.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context>Dwayne softens at the recollection.</context>
+      <utterance>You mean...like those whorehouses...in 'Nam...I used to tell you about?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>The Major nods. Opens his hand. Reveals a cordless phone. Dwayne looks to the bloody streaks down the hall, leading to the phone table. The Major dragged himself the whole way.</context>
+      <utterance>Those were great bedtime stories.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Medics are late...probably a couple lazy spicks...you tell 'em I said so...all right, son?</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>The Major looks up at Dwayne's bruised face, as if for the first time.</context>
+      <utterance>Sure thing, pop.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context>Dwayne's eyes well up. He reaches out, cradles his father as he expires. It's like a very bloody, white trash version of the Piet. Dwayne sobs uncontrollably, until - He drops his father and pound-pound-pounds his chest in some approximation of a life saving resuscitation.</context>
+      <utterance>Hell of thing...I think I may...actually respect you now.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>PULL AWAY as Dwayne pounds the body and distant sirens grow nearer.</context>
+      <utterance>Get up, you pussy! Come on, soldier!</utterance>
+</dialogue>
+
+<dialogue id="132" n_utterances="10">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fucking nine dollars to use the internet.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Police think it was that black guy. They found some kind of map in his car. And I'm sure racial profiling played a part.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But nothing about us?</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope. Guess it's time to head back.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was thinking we'd stick around a little a longer.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why? So you have more time to delude my sister?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Chet stares out at the ocean for a beat.</context>
+      <utterance>Yes. And it'd be easier if you gave us five fucking minutes alone.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You really think she's into you?</utterance>
+   <speaker>WILL</speaker>
+      <mode>SWALLOWS HARD</mode>
+      <context>Chet just nods. Will gets up.</context>
+      <utterance>I kissed her last night. No tongue. Then you walked in.</utterance>
+</dialogue>
+
+<dialogue id="133" n_utterances="7">
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're gonna go fuck my sister now, aren't you?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be thinking of you the whole time.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At the very least...be a considerate lover. Give pleasure, before taking pleasure.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will heads up a trail that leads to a hotel bungalow. Kate opens the door, steps out onto the porch. Will stops, looks back at Chet. He whistles. Chet turns.</context>
+      <utterance>I think I'm reading you. And I will try my best.</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Will reaches the porch. He stands close to Kate. His nerves clock overtime.</context>
+      <utterance>You're Riggs! You always have been! Chet smiles, shakes his head as -</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I lied and told your brother I kissed you. I thought it would make this easier.</utterance>
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here's an idea: pretend you have a bomb strapped to your chest. Tick,</utterance>
+</dialogue>
+
+<dialogue id="134" n_utterances="2">
+   <speaker>KATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is Chet watching us?</utterance>
+   <speaker>WILL</speaker>
+      <mode></mode>
+      <context>Kate laughs, leads him inside and the door shuts to -</context>
+      <utterance>Probably. We should go inside. I promised him I'd satisfy you.</utterance>
+</dialogue>
+
+<dialogue id="135" n_utterances="3">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne enters a tanning room. A man in a lab coat stares down at a clipboard, on which a complicated scientific equation is written.</context>
+      <utterance>Here at Major Tan, our specially trained technicians are hard at work developing new technologies that harness the power of the sun, to ensure a cutting-edge tanning experience.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>The man turns: it's Jay. His smiling face is speckled with healing burn wounds.</context>
+      <utterance>How's it looking?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>He gestures to a very ordinary looking tanning bed.</context>
+      <utterance>It's our most advanced tanning bed yet!</utterance>
+</dialogue>
+
+<dialogue id="136" n_utterances="5">
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne snaps his fingers. A BAD SPECIAL EFFECT makes him disappear, then reappear with a totally orange tan.</context>
+      <utterance>Hey, don't just take this scientist's word for it. The proof...</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>We follow Dwayne back out into the hallway.</context>
+      <utterance>...is in the tan.</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>Dwayne gestures to another room. The door opens and Juicy saunters out in a bikini. A beat later, a RANDOM GUY exits.</context>
+      <utterance>But Major Tan isn't just about looking good. It's also about feeling good.</utterance>
+   <speaker>RANDOM GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That "Deluxe Tan" was fantastic!</utterance>
+   <speaker>DWAYNE</speaker>
+      <mode></mode>
+      <context>PULL BACK TO REVEAL...The Major beside Dwayne. He's only about four feet tall now, on account of the wheelchair. But he's grinning like a jackal, in a POW-MIA cap. A SUPERED LOGO appears: Military Discounts Available! As father and son smile and wave at us -</context>
+      <utterance>So come on down to Major Tan...where we're proud to be a family business.</utterance>
+</dialogue>
+
+
+</movie>

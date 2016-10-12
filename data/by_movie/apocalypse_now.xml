@@ -1,0 +1,4066 @@
+<movie id="44" title="Apocalypse Now">
+
+<dialogue id="1" n_utterances="8">
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... It's crazy -- sugar is up to 200 dollars a ton -- sugar !</utterance>
+   <speaker>LAWYER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about oil ?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Food, oil --look, let me show you something. This is the economy of the United States in two years -- He takes a newspaper, draws a circle.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is West Germany.  This is Japan.  This is Italy.  This is Iran.  And this is Saudi Arabia... In two years ?  Do you understand ?</utterance>
+   <speaker>ACCOUNTANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's to prevent it ?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He leans to his associates, in a half-whisper.</context>
+      <utterance>Maybe nothing. But I'll tell you, I didn't build a two-billion-dollar company in the last twenty years by doing nothing. We can protect our interests.  We are still the most powerful nation in the world. Militarily.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>The VIEW BEGINS TO PULL AWAY from this group.</context>
+      <utterance>You know bodyguard; he was a captain in Viet Nam. You talk to him, except he won't talk. This kind of man can kill you with his pinky. A nice quiet fella, though.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Gradually, Charlie's voice softens as we MOVE AWAY, and a NEW VOICE, the voice of someone thinking, COMES IN OVER it :</context>
+      <utterance>Carries a attache case at all times. You know what's in it ?  An Ingram Machine pistol.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="2">
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context>Our VIEW IS MOVING through the people on the boat; some reading, flirting, drinking.</context>
+      <utterance>The attache case has been empty for three years, but it makes him safe to think there's a machine pistol in it. I don't like automatic weapons. They jam. I saw a friend of mine get ripped open because he flicked his M-16 to automatic, and it jammed. How much money did the contractors make on the M-16 ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>He likes to hear stories about Nam. I tell him I can't; they're not cleared. The truth is he wouldn't understand. We can now SEE A MAN with his BACK TO US, looking the opposite way. An attache case resting near to him. We</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="2">
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>There's no way I can tell them... what really happened over there. I wouldn't've believed it if someone'd told me. We are now RESTING on his back. Occasionally, he sips from a beer, but we cannot see his face.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>There was only one part that mattered -- for me, anyway. I don't even know if I remember all of it. I can't remember how it ended, exactly -- because when it ended I was insane.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="3">
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context>Willard looks back.</context>
+      <utterance>But I know how it started for me -- I was on R. and R. in Saigon; my first time south of the DMZ in three months. I wasn't sure, but I thought this guy was following me.</utterance>
+   <speaker>5  HIS VIEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>an American CIVILIAN.</utterance>
+   <speaker>6  MED. VIEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Willard ducks into a bar.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="7">
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How about a drink ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>He sits down at the table with the drinks.</context>
+      <utterance>Sure, thanks.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Winning the war by yourself.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Part.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which part is that ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My part.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>TO THE WAITER</mode>
+      <context></context>
+      <utterance>Beer, with ice and water.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="12">
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's good gin.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure it is, but I had hepatitis.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Delta ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>North ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. Way north.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What unit were you with ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>None.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rangers, eh?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The JUKE BOX starts BLARING. Annoyed , Willard looks over his shoulder.</context>
+      <utterance>Sort of.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Were you Longe Range Recon --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- I worked too far north for</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="22">
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's quite an array of ribbons...</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's talk about you.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was an FO for the 25th.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tracks ?</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fat. That's real fat.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At least you always have enough water. How many gallons does each one of those damn things carry ?</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thirty -- sometimes fifty.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, I can remember once, getting back below the DMZ -- and the first Americans we ran into were a track squadron. I just couldn't believe how much water they had. We'd been chewing bamboo shoots for almost a week, and before that, for two weeks, we'd been drinking anything -- rain water, river shit, stuff right out of the paddies. And there were these guys standing by their trucks spilling water all over. I could've killed them.  I swear to God I would have, too, if ...</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't know we had units up there in North Vietnam.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We do.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long were you up there ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A long time.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A year ? Waiter another beer.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Willard glances over his shoulder and indicates the Civilian. The Civilian is given a sign by the Captain. He rises and comes over to the bar.</context>
+      <utterance>I go up on missions. Listen Captain, buy me all the beer you want, but you better tell that asshole over there you're not going to find out anymore about me.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want ?</utterance>
+   <speaker>CIVILIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you're B.L. Willard, 4th Recon Group, we'd like you to come with us.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whose orders ?</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Headquarters 11 Corps -- 405th A.S.A Battalion -- S-2 -- Com-Sec -- Intelligence -- Nha Trang.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you ?</utterance>
+   <speaker>CIVILIAN</speaker>
+      <mode></mode>
+      <context>Willard looks at the Civilian a moment, and then walks roght out toward the jeep without saying another word. The Civilian follows.</context>
+      <utterance>The agency.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="15">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain B.L. Willard, G-4 Headquarters, reporting as ordered, sir.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode>O.S.</mode>
+      <context>Willard sits in a chair that is set in a center of a bare concrete floor. Across from him, around steel desks and tables sit several men. The nearest one, a COLONEL puts his cigar out on the bottom of his shoe -- behind him sits a MAJOR and a seedy-looking CIVILIAN.</context>
+      <utterance>Okay, Willard, sit down.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>He points to the Major.</context>
+      <utterance>Have you ever seen this officer before, Captain Willard ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, sir.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This gentleman or myself ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, sir.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I believe on your last job you executed a tax collector in Kontum, is that right ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am not presently disposed to discuss that, sir.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context>He turns to the Colonel and nods his approval. The Colonel gets up and goes to a large plastic map.</context>
+      <utterance>Very good.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know much about about Special Forces; Green Berets, Captain ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The officer smiles at this.</context>
+      <utterance>I've worked with them on occasions and I saw the movie , sir.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then you can appreciate Command's concern over their -- shall we say 'erratic' methods of operation.  I have never favored elite units, Captain, including your paratroopers or whatever. Just because a man jumps out of an airplane or wears a silly hat doesn't give him any priviliges in my book -- not in this man's army.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We didn't need 'em in Korea -- no sir, give me an Ohio farm boy and an M-1 Garand, none of this fancy crap -- no sir.</utterance>
+   <speaker>CIVILIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Major.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have Special Forces A detachments all along the Cambodian border. Two here and another one here -- twelve or fourteen Americans -- pretty much on their own; they train and motivate Montagnard natives; pick their own operations. If they need something, they call for it, and get it within reason. What we're concerned with is here.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="2">
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The A detachment at Nu Mung Ba. It was originally a larger base, built up along the river in an old Cambodian fortress.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The area has been relatively quiet for the past two years -- but --</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="43">
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>The Major looks at some papers in front of him.</context>
+      <utterance>... Captain, we know something's going on up there -- Major --</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Communications naturally dwindled with the lack of V.C. activity, this is routine, expected ... but six months ago communication virtually stopped.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About the same time -- large numbers of Montagnards of the M'Nong descent began leaving the area -- this in itself is not unusual since these people have fought with the Rhade Tribe that lived in the area for centuries. But what is unusual is that we began to find Rhade refugees too -- in the same sampans as the M'Nongs. These people aren't afraid of V.C. They've put up with war for twenty years -- but something is driving them out.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We communicate with the base infrequently. What they call for are air strikes, immediate -- always at night. And we don't know what or who the air strikes are called on.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who ?</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see, no one has really gone into this area and come back alive.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why me ?</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context>He puts Kurtz' dossier in Willard's hand.</context>
+      <utterance>Walter Kurtz, Lieutenant Colonel, Special Forces. We understand you knew him.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>The Colonel gets up and walks over to a tape recorder, flicks it on. The recording is first STATIC -- the AIR CONTROLLER then asks for more information on target coordinates -- it all sounds very routine, military. Then a frantic VOICE comes on, talking slurred, like someone dumb, except very fast.</context>
+      <utterance>He's commanding the detachment at Nu Mung Ba.</utterance>
+   <speaker>VOICE</speaker>
+      <mode>ON TAPE</mode>
+      <context>GUNFIRE is HEARD and a lower, slower VOICE in background.</context>
+      <utterance>Up 2 -- 0 -- give it to me quick -- Mark flare -- affirmative damn -- Immediate receive -- hearing automatic weapons fire man ...</utterance>
+   <speaker>SECOND VOICE</speaker>
+      <mode></mode>
+      <context>A heavy BURST of AUTOMATIC WEAPONS FIRE -- INSANE LAUGHTER -- STATIC, and faintly, very faintly we HEAR HARD ROCK MUSIC -- more STATIC -- suddenly a low, clear VOICE peaceful and serene, almost tasting the words.</context>
+      <utterance>Blue Delta five This Big Rhine -- three Need that ordinance immediately Goddamn give it to me immediate Christ -- Big Rhino -- Blue God -- Delta damn -- goddamn.</utterance>
+   <speaker>THIRD VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is Big Rhino six -- Blue Delta.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's Colonel Kurtz.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I want that napalm dropped in the trees -- spread it among the branches. We'll give you a flare -- an orange one -- bright orange.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode>STATIC</mode>
+      <context>STATIC interrupts -- the Major turns the machine off.</context>
+      <utterance>We'd also like some white phosporous, Blue Delta. White phosporous, give it to me.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I only met Kurtz once.</utterance>
+   <speaker>CIVILIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would he remember you ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>Willard shrugs.</context>
+      <utterance>What was your impression of him ?</utterance>
+   <speaker>CIVILIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't like him.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The Major offers him one; they wait as he lights up, thinks.</context>
+      <utterance>Anyone got a cigarette.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought he was a lame.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A lame ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>We had an argument.</context>
+      <utterance>This is years ago, before he joined Special Forces, I guess.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About what ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. He was a lame, that's all.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But why ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He couldn't get through a sentence without all these big words; about why we kill.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, he's killing now.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe.</utterance>
+   <speaker>CIVILIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What does that mean ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>I just don't believe it.</context>
+      <utterance>Maybe it's not Kurtz. I don't believe he's capable of that.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's got to be Kurtz.</utterance>
+   <speaker>CIVILIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The point is that Kurtz or somebody attacked a South Vietnamese Ranger Platoon three days ago. Last week a Recon helicopter was lost in the area -- another took heavy damage -- direct fire from their base camp.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Our Recon flight ?</utterance>
+   <speaker>CIVILIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ours.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Touchy.</utterance>
+   <speaker>CIVILIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can see, of course, the implications, if any of this -- even rumours leaked out.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want me to clean it up -- simple and quiet.</utterance>
+   <speaker>CIVILIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Exactly -- you'll go up the Nung River in a Navy P.B.R. -- appear at Nu Mung Ba as if by accident, re-establish your acquintance with Colonel Kurtz, find out what's happened -- and why. Then terminate his command.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Terminate ?</utterance>
+   <speaker>CIVILIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Terminate with extreme prejudice.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="3">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chief, try to keep out of where we're going -- Why we're goin' and what's gonna be the big surprise.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right with me, I used to drive a taxi.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The Chief nods. They all break formation and jump aboard and otherwise go about their work. The twin diesels kick up -- and t he boat moves away from the dock. The Chef jumps aboard; Lance mans the forward twin fifty-caliber machine guns -- they wave to the guards on the dock and move away into the complexity that leads to the ocean.</context>
+      <utterance>Let's go.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="5">
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Delta closes off to us about ten miles out of Hau Fat. We'll be able to pick up some supplies -- bit I think there are only two points we can draw enough water to get into the Nung River. It's all Charlie's turf from there on out.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're gonna have some help to get in the river. You know these waters, Chief ?</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Bout six months ago I took a man up to Lo Mung Bridge. He was regular Army too. Shot himself in the head. I brought his body back down.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shot himself. What for ?</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>Pause, looking at Willard.</context>
+      <utterance>Beats me -- the sun was too much for him, or the mud. Who knows ?</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="5">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Arch light.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hate that -- Every time I hear that noise something terrible happens.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anybody see some smoke ?</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too far inland.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>He points up to the sky.</context>
+      <utterance>There they are.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="2">
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context>Occasionally, in the b.g., we FEEL the terrifying buffeting of the distant B-52 BOMBING.</context>
+      <utterance>The dossier on A detachment had letters from Kurtz' wife and the wives and families of his men. All asking where to send future mail, understanding the necessery silence due to the nature of their work -- None of the men had written home in half a year.</utterance>
+   <speaker>21  CLOSE - ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>studying, examining a report.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="4">
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context>Another picture of Kurtz in Germany, standing next to the 161st Petroleum Supply Group sign.</context>
+      <utterance>Lieutenant Kurtz has shown a dedicated and well-disciplined spirit. He is a fine officer, combining military efficiency -- with a broad background in the Humanities, the Arts and Sciences ...</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context>A SHOT of Kurtz at jump school.</context>
+      <utterance>... He views his military career as the dedication of his talents to bringing our values and way of life to those darker, less fortunate areas in the world.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>... I feel Captain Kurtz' request for Special Forces training is highly unusual in regard to his past humanitarian concerns, and his somewhat liberal politics, though I can see no reason to deny it. A CLOSE SHOT of Kurtz with Green Beret on in the Vietnam jungle. His face is blank and vacant.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>... We feel Major Kurtz' need to bring a sense of Western culture to the backward peoples of these areas will be of use in accordance with our 'Vietnamization' programs ... MOVE IN TO Kurtz' empty eyes until the photograph is just a BLURRED MASS OF DOTS.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="2">
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lance -- I want you to go with the Captain an' get three extra drums of fuel and maybe scrounge some more 50 caliber.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah -- look at those uniforms.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="13">
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know anything about these papers, sir.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're in order -- it's perfectly clean -- just check with ComSec- Intel like I said.</utterance>
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you know I don't have the priority to do that, sir. It says here not to contact Com-Sec- Int. Who's your commanding officer ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right now -- I am.</utterance>
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well who the hell verifies that ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>He signs it quickly, leaving the Sergeant totally confused.</context>
+      <utterance>I do.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No shit -- what's all the activity for around here ?</utterance>
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The show --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What show ?</utterance>
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Big show in the parade grounds this noon -- some boss stuff --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This -- Bob Hope or the like --</utterance>
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No sir, I think -- this'll be a little bit different --</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>He points --</context>
+      <utterance>Where's it gonna be ?</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="14">
+   <speaker>29 FORWARD AREA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>jammed in the crowd</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's really too much -- I mean I've collected every picture of her since she was Miss December.</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah -- you can really get hung up on them like the cat in the Delta.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What cat ?</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One that went up for murder -- he was an Army Sergeant.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I never heard about that.</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah -- he really dug his Playboy mag, man -- I mean like he was there when it arrived -- He just knew.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what happened ?</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was working A.R.V.N. patrols and had one a them little cocky gook asshole Lieutenants -- anyhow, the Lieutenant took his new Playboy one day, sat on the end of the dock, and wouldn't give it back.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah -- typical A.R.V.N.</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then went too far -- he sat there and starts mutilating the centerfold. Poking pins in her an' all that. Sergeant says, don't do her like that. You leave your shitty little hands off that girl. Gook Lieutenant says Fuck you in Vietnamese -- Sergeant says, don't do that again. You'll wish you hadn't. Then he stood up, flicked his iron to rock and roll and gave the little zero a long burst through the Playboy mag. Man, it blew him clean off the dock -- Hell, just the magazine was floatin' there all full of holes.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They nail him for it bad ?</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context>give him no medals or nothing -- In the b.g., we begin to HEAR a SWELL of TWO THOUSAND MALE VOICES; the ENGINES of four helicopters approaching. All heads turn skywards while one descends onto the pedestal kicking up a lot of dust and general resentment. On the nose amd doors of the black Huey are painted large Playboy rabbits. Finally the blades are trimmed and a strange silence descends over the men. The door of the copter slides partially open -- two young Green Berets step out with M-16's to varied catcalls. When this abates a young, extremelly well-dressed man emerges. He is the epitome of a Hollywood AGENT. Hair is combed impeccably and free of dandruff -- clothes are formal but hip -- shoes are shined -- Quite some dude -- his presence causes some stirring but seems to strangely quiet the man. He walks over to the microphone.</context>
+      <utterance>He's in the L.B.J. -- didn't</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context>He pulls open the door and three unbelieveably beautiful sex playmates in fringed go-go outfits leap out and start dancing to the Creedence Clearwater Revival singing "Suzy Q."</context>
+      <utterance>I'd like to say hello from all of us up here, to all of you out there. All of you who've worked so hard during Operation Brute Force -- Paratroopers -- Infantry -- Airmen -- Medics -- Marines -- and Sailors. And I want you to know that we feel proud of you and know how hard your job is. To prove it -- we've brought some entertainment we think you're gonna like: The Playmate of the Year and her two runners up !</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="3">
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context>Suddenly, Chief looks out, ahead.</context>
+      <utterance>Two days out of Hau Fat, there was nothing but us and the coastline. I felt like I had set off for the center of the earth...</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Smoke !</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>They all turn. Chief points up the coast.</context>
+      <utterance>Where ?</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="3">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The Chief grabs field glasses.</context>
+      <utterance>Black smoke ... secondary burning.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah -- fishing village -- helicopters over there. Hueys, lots of 'em.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>First Air Cavalry. They're the ones gonna get us into the River.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="8">
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>A Lieutenant and radio man nod and rush off.</context>
+      <utterance>Lieutenant: Bomb that tree line back about a hundred yards -- give me some room to breathe.</utterance>
+   <speaker>37  CLOSE VIEW ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was not quite prepared for this.</utterance>
+   <speaker>38  VIEW ON KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>turning to his GUARDS</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bring me some cards.</utterance>
+   <speaker>GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir ?</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>The soldier rushes over and hands him two brand new packages of playing cards wrapped in plastic. Two other soldiers get out of the copter and walk over. They are well-tanned and carry no weapons. They seem more casual about the Colonel than anyone else. The Sergeant walks up, leading Willard, the Chief and Lance.</context>
+      <utterance>Body cards, you damn fool -- cards !</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain B-L. Willard, sir -- 4th Recon Group -- I carry priority papers from Com-Sec Intelligence 11 Corp -- I believe you understand the nature of my mission.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He cracks the plastic wrapping sharply -- takes out the deck of new cards and fans them. The Colonel strides right past Willard with no further acknowledgement. The others follow,</context>
+      <utterance>Yeah -- Na Trang told me to expect you -- we'll see what we can do. Just stay out of my way till this is done, Captain.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="8">
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>The soldier points to Lance, who immediately puts down the card he was holding. Kilgore strides over to the young man, who almost instinctively moves closer t Willard.</context>
+      <utterance>What ? Here. You sure?</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's your name, sailor ?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gunner's Mate, Third Class -- L. Johnson, sir.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lance Johnson? The surfer?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>Kilgore smiles -- sticks out his hand.</context>
+      <utterance>That's right, sir.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's an honor to meet you Lance. I've admired your nose-riding for years -- I like your cutback, too. I think you have the best cutback there is.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you, sir.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can cut out the sir, Lance -- I'm Bill kilgore -- I'm a goofy foot.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="6">
+   <speaker>KILGORE</speaker>
+      <mode>O.S.</mode>
+      <context>Lance blushes, sort of mumbling thanks.</context>
+      <utterance>This is Mike from San Diego and Johnny from Malibu -- they're good solid surfers -- none of us are anywhere near your class, though.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My orders are from Com-Sec Intel -- B.L. Willard, 4th Recon --</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>Willard eats it, for now. Kilgore puts his hand on Lance's shoulder, and continues flipping the cards in- discriminately on the bodies as they talk.</context>
+      <utterance>Just hold up a second, Captain -- I'll get to you soon enough -- We've got things to do here.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... we do a lot of surfing around here. Like to finish up operations early and fly down to Vung Tau for the evening glass. Have you ever surfed the point at Vung Tau? I liked the beach breaks around Na Trang a lot -- good lefts. He passes a twisted gun emplacement with about five bodies -- sprinkles cards all over them.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... we keep three boards in my Command Huey at all times. You never can tell when you're gonna run into something good. I got a guy in Cam Rau Bay that can predict a swell two days in advance. We try to work it in. He stops at a particularly wild-looking Viet Cong who has died with his mouth agape -- staring wild-eyed in horror at the sky. Kilgore pauses.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He puts the card in the gaping mouth.</context>
+      <utterance>Hell, that's an Ace if I ever saw one.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="3">
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where've you been riding, Lance?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't surfed since I got here.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's terrible -- we'll change that -- I'd like to see you work -- I've always liked your cutback; got a hell of a left turn, too.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="47">
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why the hell you wanna go up to Nu Mung Ba for?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got bored in Saigon.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the furthest you been in?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Haiphong.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Haiphong? Shit, you jump in ?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Walked.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'd you do for supplies?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mercenaries -- agents, traitors -- they put out caches.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you trust them?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. They put out two or three for every one I needed. When you get to the one you'll use, you just stake it out. If something feels wrong, you just pass it up. On one mission, I had to pass up three and ended up living on rats and chocolate bars.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nu Mung Ba. Last I heard, Walter Kurtz commanded a Green Beret detachment at Nu Mung Ba.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When did you hear?</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Bout a year ago? Is Kurtz still alive?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who knows.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seems to me he got himself fragged. i heard some grunt rolled a grenade in his tent. Maybe a rumor. Helluva man -- remarkable officer. Walter Kurtz woulda been a General some day. General of the Army. Shit, Head of the Joint Chiefs of Staff. Did you knew Kurtz?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I met him.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you agree?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He musta changed !  I got to get into the Nung River, here or here.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That village you're pointing at is kinda hairy.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hairy ?</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean it's hairy -- they got some pretty heavy ordnance, boy -- I've lost a few recon ships in there now and again.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So? I heard you had a good bunch of killers here.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I don't intend to get some of them chewed up just to get your tub put in the mouth of the goddman Nung River. You say you don't know Kurtz?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I met him.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You talk like him. I don't mind taking casualties, Captain, but I like to keep my ratio ten to one in this unit -- ten Cong to one.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll find enough Cong up there.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He puts his finger on the map.</context>
+      <utterance>What about this point here?</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He motions to one of his surfers.</context>
+      <utterance>What's the name of that goddamn village -- Vin Drin Dop or Lop; damn gook names all sound the same.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mike, you know anything about the point at Vin Drip Drop?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boss left.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's really long left slide, breaks on the short side of the point -- catches a south swell.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>Willard looks at Lance -- then at Kilgore.</context>
+      <utterance>Nice.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>It's all goddamn beach break.</context>
+      <utterance>Why the hell didn't you tell me about that place -- a good left.  There aren't any good left slides in this whole, shitty country.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's hairy ,though. That's where we lost McDonnel -- they shot the hell out of us. It's Charlie's point.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How big it is?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Kilgore gazes out across the parked helicopters.</context>
+      <utterance>Six to eight feet.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>Willard nudges Lance -- who gets the idea.</context>
+      <utterance>A six-foot left.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boss. What's the wind like.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Light off shore -- really hollow.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We could go in tomorrow at dawn -- there's always off-shore wind in the morning.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The draft of that river might be too shallow on the point.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell, we'll pick your boat up and lay it down like a baby, right where you want it. This is the Cav boy -- airmobile. I can take that point and hold it as long as I like -- and you can get anywhere you want up that river that suits you, Captain. Hell, a six foot left.  You take a gunship back to division -- Mike, take Lance with you -- let him pick out a board, and bring me my Yater Spoon -- the eight six.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, sir -- it's -- it's --</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>Kilgore turns and looks to Willard, exasperated.</context>
+      <utterance>Well, I mean it's hairy in there -- it's Charlie's point.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charlie don't surf.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="3">
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you feel, boy?</utterance>
+   <speaker>GUNNER</speaker>
+      <mode></mode>
+      <context>He turns to his R.T. man.</context>
+      <utterance>Like a mean motherfucker, sir.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's go.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="3">
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll come in low out of the rising sun -- We'll put on the music about a mile out.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Music?</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. Classical stuff -- scares the hell out of the slopes -- the boys love it.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="2">
+   <speaker>PILOT</speaker>
+      <mode></mode>
+      <context>The helicopter banks into a tight turn and bears toward the coast.</context>
+      <utterance>Big Duke six to Eagle Thrust -- turn on coordinates 1-0 -- niner, assume attack formation.</utterance>
+   <speaker>RADIO</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Eagle Thrust formation target 2800 yards -- begin psch-war operations.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="2">
+   <speaker>CO-PILOT</speaker>
+      <mode></mode>
+      <context>BULLETS RIP through the plexiglass. The Pilot FIRES back.</context>
+      <utterance>We're down, Eagle Thrust -- we're hit. We got a hot L.Z. here.</utterance>
+   <speaker>CO-PILOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell of a hot L.Z. Need immediate air strike on the tree line, Eagle Thrust.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="3">
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Big Duke Six to Hell's Angels Four -- bring it in on along tree line and huts.</utterance>
+   <speaker>RADIO</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Hell's Angels Four to Big Duke Six -- we'll need green smoke -- suggest you have the FAC mark it.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Haven't got time, Hell's Angels -- lay it right up the tree line.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="14">
+   <speaker>KILGORE</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Very good, Hell's Angels -- suggest you follow with cannon fire.</utterance>
+   <speaker>RADIO</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>This is Baker Delta Four -- Captain hit bad -- need dust-off. Receiving heavy automatic weapons fire from huts about thirty yards to our left.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He turns to door gunner.</context>
+      <utterance>Big Duke Six to Baker Delta Four -- hold -- we're right over you.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>The gunner FIRES leaning out --</context>
+      <utterance>Right along the doors, boy.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He leans back in.</context>
+      <utterance>Fine... fine... little higher. Through the roof; yeah, that's good.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Didn't anybody bring me any bombs, grenades, claymores or anything?</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't tell me to, sir.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>Suddenly, BULLETS SMASH through the copter -- Plexiglass SHATTERS; the copter vibrates and turns sharply. Kilgore is thrown down where he hangs on.</context>
+      <utterance>You shoulda known.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sonuvabitch -- anybody hurt?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Automatic weapons flashes along those trees -- probably eleven millimeter guns and AK-47's.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He grabs the R.T.</context>
+      <utterance>The trees, eh...</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eagle Thrust Four -- Big Duke Six. Join me in sparaying some trees.</utterance>
+   <speaker>RADIO</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Affirmative, Big Duke Six -- We're even got some rockets left.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take her in low, Lieutenant.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="5">
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He puts his arms across the sights -- the gunner swings back inside.</context>
+      <utterance>Hold it, boy.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>They rise above the paddy -- the man below runs for all he's worth. Kilgore motions to the door gunner who steps aside. Kilgore buckles himself into the gunner's harness.</context>
+      <utterance>Take her up to 300 feet, Lieutenant.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>A hand passes him a M-16.</context>
+      <utterance>Rifle.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>There is some fumbling and then a hand passes him a 300 Weatherby Magnum with a zebra wood stock -- mother of pearl inlays and a variable power scope. Kilgore takes it and opens the bolt.</context>
+      <utterance>My rifle, soldier.</utterance>
+   <speaker>71  VIEW ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amazed at these proceedings.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="3">
+   <speaker>75  VIEW ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The gaudy rifle passed by him.</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>That's 27, sir.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Somebody hands Willard the deck. He takes a card and flips it out of the copter, never lifting his gaze from Kilgore.</context>
+      <utterance>Anyone got a card?</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="4">
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He looks out toward the ocean.</context>
+      <utterance>The L.Z.'s cooling off fast -- we'll move in another company an' then we'll own it.  Charlie's point.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good swell.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What, sir?</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>Lance looks at Willard and then agrees.</context>
+      <utterance>I said it's a good swell -- hell of a good swell 'bout six feet. Let's get a look at it.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="16">
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context>They all dive, except Kilgore. He is watching a big set -- the SHELL EXPLODES in the water about a hundred yards away, sending up a huge geyser of spray. Kilgore is unmoved.</context>
+      <utterance>Incoming !</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>They look.</context>
+      <utterance>Look at that.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>Kilgore pays him no mention.</context>
+      <utterance>This L.Z. is still pretty hot, sir, maybe we oughta stand somewhere else.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm waiting for the fucking boat, Colonel.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He turns to Mike and Johnny who have their faces in the sand.</context>
+      <utterance>It'll get here, soldier.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Change.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wh -- what?</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Change -- get out there -- I want'a see if it's ridable -- change.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's still pretty hairy, sir.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He nods yes meakly.</context>
+      <utterance>You want'a surf, soldier?</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's good, boy, because it's either surf or fight. They turn and hurry off -- Kilgore grabs an M-1 from one of the guards. They all think he's going to shoot the surfers or someone. They move back uneasy.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm gonna cover for 'em -- that's all. He cocks thye weapon. Lance looks around uneasily. The Colonel walks over.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think that section on the point is ridable, Lance?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>A SHELL SCREAMS OVER -- they all hit the dirt except for Kilgore. It EXPLODES throwing sand through the air. Kilgore leans down yelling over the NOISE.</context>
+      <utterance>I think we ought to wait for the tide to come in.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doesn't happen for six hours. Lance looks up at him terrified, holding onto his helmet.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The tide -- doesn't come in for six hours.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="3">
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They far enough?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>Kilgore turns and takes a giant electric megaphone from a waiting lackey.</context>
+      <utterance>Sure -- fine --</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's far enough -- pick one up and come on in --</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="3">
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe he'll get tubed.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>A SERIES of SHELLS ROAR in.</context>
+      <utterance>Maybe he'll get inside the tube -- where -- where they can't see him.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="2">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Lance ducks -- puts his hands over his head. The SHELLS SCREAM over Kilgore and out towards the point. Kilgore looks through his glasses -- two EXPLOSIONS in the water are HEARD.</context>
+      <utterance>Incoming !</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>Lance looks up and out toward the point in horror.</context>
+      <utterance>Son of a bitch.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="4">
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>Willard looks over, beginning to think Lance is crazy, too.</context>
+      <utterance>The tragedy of this war is a dead surfer.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just something I read in the Free Press.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>Lance looks up.</context>
+      <utterance>They just missed a good set -- the chicken shits !</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="8">
+   <speaker>KILGORE</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Try it again, you little bastards.</utterance>
+   <speaker>90  BACK TO SCENE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He turns to Willard.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>I'll surf this place.</context>
+      <utterance>Im not afraid to surf this place.</utterance>
+   <speaker>91  CLOSE SHOT ON KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He turns, glowering to his lackeys.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He grabs it.</context>
+      <utterance>Bring that R.T., soldier.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Big Duke Six to Hell's Angels -- Goddamit, I want that treeline bombed -- yeah -- napalm -- gimme some napalm -- son of a bitch -- yeah, I'll take H.Z. or C.B.U.'s if you got any of them -- just bomb 'em into the Stone Age, boy. He throws the R.T. back to a soldier -- another SALVO WHISTLES over -- everyone drops.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>As the SHELLS EXPLODES on the beach behind him, KIlgore raises his M-16 and EMPTIES it full automatic in the general direction of the trees. He mumbles a few un- intelligible swear words and jams a new clip into his rifle turning to Lance --</context>
+      <utterance>Son of a bitch.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He FIRES another clip as the JETS SCREAM overhead.</context>
+      <utterance>We'll have this place cleaned up and ready for us in a jiffy, boy. Don't you worry.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="4">
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget that extra drum -- it's too damn hot.</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Clear on starboard -- Where's Lance an' the Captain?</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I saw that Colonel's Huey on the point -- Two HELICOPTERS SCREAM over FIRING ROCKETS.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's just get outta here.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="13">
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He'll kill us.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Kilgore FIRES another clip at the tree line, and then strides back without looking at them.</context>
+      <utterance>He can't kill us.  We're on his side.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You smell that.  You smell that?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Napalm, boy -- nothing else in the world smells like that -- They reflect the glow from the burning trees.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He looks off nostalgically.</context>
+      <utterance>I love the smell of napalm in the morning. One time we had a hill bombed for 12 hours. I walked up it when it was all over; we didn't find one of 'em ... not one stinking gook body. They slipped out in the night -- but the smell -- that gasoline smell -- the whole hill -- it smelled like ...  victory...</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, some day this war's gonna end..</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>Suddenly he senses something -- he stops -- lifts his hand -- then frantically licks his fingers and puts them up in the air.</context>
+      <utterance>Yes, I know.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The wind --</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>Sure enough there is a rushing breeze that increases.</context>
+      <utterance>What?</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He leans down and practically grabs Lance.</context>
+      <utterance>Feel it -- it's the wind -- it's blowing on shore -- It's on shore !</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>It's gonna ruin it ...</context>
+      <utterance>It's gonna blow this place out.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>They turn and stare out to sea.</context>
+      <utterance>The kid can't ride sloppy waves.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="5">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Slapping Lance on the shoulder.</context>
+      <utterance>You don't expect this kid to ride that crap, do you? He's a goddamn artist, he needs something to work with...</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I'm an artist, goddamit !</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context>He turns toward the trees.</context>
+      <utterance>Yeah -- yeah, I can understand how you feel.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the napalm -- it's causing the wind -- ruining my perfect left. He staggers off toward the trees followed by his guards and other lackeys.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The napalm -- ruin -- napalm my perfect left -- my perfect left point break -- napalm -- Lance motions with his eyes to Willard.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="13">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you finished surfing?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah... thanks.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Want to say goodbye to the Colonel?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nah.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>They break and run like hell toward the boat in the distance. OUR VIEW TRACKS with them. They are cheered by the crew -- suddenly, Willard sees some- thing and stops... Lance continuing. In a pile of equipment that the Hueys have left are two surfboards -- Willard looks at them.</context>
+      <utterance>Then let's get the hell out of here.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- no, Captain.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which one's the Colonel's?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>Willard glances over to it with determination. There is still MORTAR FIRE coming in between him and the board. Suddenly, Willard makes a run for it.</context>
+      <utterance>The Yater -- the clear one with the thin stringer.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode>O.S.</mode>
+      <context>The ROUNDS bracket the P.B.R. and line up the beach toward Willard. He stands there and doesn't move, the surfboard under his arm. The shells kick up sand. Lance has dropped. Fragments whistle by, one rips a chunk of foam and fibreglass from the rain of the board.</context>
+      <utterance>Incoming ! Incoming -- son of a bitch.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This one , Lance?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>Once again, Willard takes off fast as hell with the board under his arm. Lance follows toward the boat, through the water. Willard hands the board up to Mr. Clean, and they both scamper abroad, exhausted and relieved.</context>
+      <utterance>Yeah, Jesus Christ !</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'd you that for?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Mr. Clean stuffs the board in the stern 50 Cal. mount. The boat turns -- ENGINES RUNNING HARD and ROARS OFF toward the deeper water of the river -- the board clearly visible on the stern.</context>
+      <utterance>When I was a kid I, never had a Yater spoon.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="4">
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe we better stay in under the trees till dark -- we got his Yater.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>They all look up into the sky -- expecting the worst.</context>
+      <utterance>He didn't look like he'd take that sitting down.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The Chief nods.</context>
+      <utterance>Let's put some distance between us and Charlie.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lance ---</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="3">
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>They all look at Willard uneasily. After a suspensful pause, Willard smiles:</context>
+      <utterance>Why don't you roll us a big joint? I think the Captain'd like that.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>He fishes into his breast pocket -- pulls out a huge cigar-sized joint. They all smile -- Willard lights up.</context>
+      <utterance>Take one a mine --</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="30">
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You hear it again?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- I don't think so. But it'll be back. They were circling. It'll be back.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think he'd of shot us?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When?</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>Lance looks over at Willard.</context>
+      <utterance>Any time -- us -- Americans.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think hed of shot us on the beach but -- he'd of shot us if he saw me taking the board --</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A Yater spoon is hard to get -- especially here.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a man who knows what he wants -- he does know what he wants.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I go get those mangos now?</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll go with you in a while -- judt hold tight awhile --</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain -- that was all true about the rats and chocolate and stuff?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you could just tell when the supplies were booby trapped?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a feeling you get in the jungle. When you get good, you can find a track and tell not only how many they are, but their morale, how far they're going, whether they're near their camp, the weapons they're carrying.</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context>Willard smiles.</context>
+      <utterance>How can you tell their weapons.. an' how far they're going?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>A pause, and then suddenly his attention is diverted -- They all are silent -- It is pitch dark -- we HEAR the distant SOUND of ROTOR-BLADES and indistinguishable language on a loudspeaker -- The talk stops -- the ROTORS grow LOUDER until almost overhead.</context>
+      <utterance>Mostly from the imprints when they put them down to rest. their morale from the way they drag their feet, or the joints that may be lying around. If they're near a base camp, they wouldn't be conserving food; they'll be throwing it away half-eaten. If the branches aren't broken, their weapons are slung. But all this is just technique.. There's a feeling you get after a while, that's what's important. I was going through a village once. I was looking for a certain party. I took off my boots, and walked into each hut. It was midnight. I went into three like that and suddenly I realized Id gone into each hut the same way -- standing up -- so the next one I went in on my belly. An RPD burst took out the door a bit above my head.  Things like that.</utterance>
+   <speaker>KILGORE</speaker>
+      <mode>V.O.</mode>
+      <context>The HELICOPTER DRONES on into the night -- the same speech starts again further off -- Finally the noise ceases.</context>
+      <utterance>I'm not gonna hurt or harm you, boy -- I just want the board back -- You can understand -- It was one of my best -- You know how hard it is to get a board you like, boy. I'm not gonna hurt or harm you -- Just leave it where I can find it --</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus -- that guy's too damn much.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wonder if that was the same copter.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Chef steps forward with a plastic basket.</context>
+      <utterance>He's probably got 'em all over the river with that recording. We better move now while it's dark.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, Chef -- go ahead -- take Lance with you --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll go with him -- They all look at him.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wanta get my feet on solid land once in awhile -- He grabs an M-16 and follows Chef over the side.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chef.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why they call you that?</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call me what, sir?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chef -- is that 'cause you like mangoes an' stuff?</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, sir -- I'm a real chef, sir -- I'm a sauciere --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A sauciere --</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="6">
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right, sir -- I come from New Orleans -- I was raised to be a sauciere.. a great sauciere. We specialize in sauces; my whole family. It's what we do. I was supposed to go to Paris and study at the Escoffier School; I was saving the money. They called me for my physical so I figured the Navy had better food.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing out here?</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cook school -- that did it.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How?</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>They move into a slight clearing.</context>
+      <utterance>They lined us all up in front of a hundred yards of prime rib -- magnificent meat, beautifully marbled.. Then they started throwing it in these big cauldrons, all of it -- boiling. I looked in, an' it was turning gray. I couldn't stand it. I went into radio school.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Chef crouches close -- redies his M-16. Willard ges- tures that he heard something; he points.</context>
+      <utterance>-- quiet --</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="10">
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's this tiger shit?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No shit... I think I shot the hell out of him.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wasnt looking.. I was running.</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was a big tiger -- no shit?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who stopped to measure him -- let's get the hell out of here.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>The ENGINE ROARS to life -- the P.B.R. pulls away with great speed.</context>
+      <utterance>A motherfucking tiger -- I could've been killed.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You forgot the mangoes, didn't you?</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>They move off; swallowed by the darkness. The JUNGLE NOISES remain, as OUR VIEW BEGINS a MOVE INTO the jungle.</context>
+      <utterance>Mangoes? There as a fucking tiger in the woods -- I could've been eaten alive. I'm never going into that jungle again. I gotta remember never get out of the boat; never get outta the boat.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>He was right, the Chef -- never go into the jungle, unless you're ready to go all the way.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="3">
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context>He lights the cigarette; the light of his match illuminating his face momentarily. There is something different about him; a maturity, a cool inner peace.</context>
+      <utterance>What was in the jungle? What was there, waiting for me?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>... Kurtz was in there. Or was he; was it Kurtz? He was just a name to me now; I couldn't remember a face, a voice -- he just didn't add up to me. all his liberal bullshit about the end of savagery -- and the role of our culture, our way of life... Willard looks toward the group of people on the boat -- there is still some MUSIC. They talk and drink and laugh.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Our way of life -- I really started to look forward to meeting Kurtz again.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="2">
+   <speaker>RADIO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Rolling Stones and "Satisfaction..."</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>The SONG BLARES ON -- they all dig it. PAN TO Willard, sitting alone in the rear, reading from his file on Kurtz. We REVEAL Lance in the b.g., water- skiing behind the P.B.R., slaloming back and forth on his single ski to the MUSIC -- jumping the wake occasion- ally.</context>
+      <utterance>Outa sight.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="2">
+   <speaker>114  VIEW ON WILLARD</speaker>
+      <mode></mode>
+      <context>We can SEE it is a private correspondence -- feminine writing on the envelope.</context>
+      <utterance>Willard opens a letter from the packet.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>The dossier of A Dtachment contained letters from the families and wives of Kurtz' men There were letters from Kurtz' wife as well.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="46">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Soldier -- where's your C.O.?</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stepped on a booby trap, sir -- got blown all to hell --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well , who's in command here?</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context>He turns and walks off babbling incoherently --</context>
+      <utterance>I don't know -- don't have any idea -- I'm just the night man --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The soldier he was talking to turns around smiling idiotically and making animal noises. He stumbles off after his friend.</context>
+      <utterance>What about you, soldier?</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Willard turns around looking for where the voice came from.</context>
+      <utterance>Captain --</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>He turns to see the Hollywood Agent under the flap of a large tent so that he won't get wet. He wears the same clothes as before, but is much dirtier. He motions Willard into the tent.</context>
+      <utterance>Over here, Captain --</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You came in on that boat, didn't you?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah --</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you headed?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's it matter? Get to the point.</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look -- you know the girls -- Thta's Terri -- she was playmate of --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>They all look over.</context>
+      <utterance>Yeah, I caught your show at Hau Fat.</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh -- I see -- Well, girls, this is Captain -- eh --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain Willard -- go ahead.</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look -- we got in a little trouble -- they rudely took our helicopter for MedEvac work on this -- uh Operation Brute Force -- They just brought it back this morning.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well I mean like they also took our fuel -- We've been here two days.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dreadful.</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look -- the girls could get killed -- we're not supposed to be this close combat, I mean real combat.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well --</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We could use some fuel -- just a half drum -- just enough to get us out a here.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>He turns and starts to leave.</context>
+      <utterance>We need all our fuel.</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But, Captain, think what these girls have done for the boys -- think of how they've risked -- Willard is almost out of the tent.</utterance>
+   <speaker>TERRI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain -- He turns around.</utterance>
+   <speaker>TERRI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's really rough here -- Captain -- we're just not built for it -- The Pilot laughs.</utterance>
+   <speaker>PILOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's rich --</utterance>
+   <speaker>TERRI</speaker>
+      <mode></mode>
+      <context>Willard just stares at her -- even though she's in jeans and field jacket she is something to see -- The Agent takes Willard aside -- Terri goes back to the others.</context>
+      <utterance>Do us a favor -- I'd do one for you -- if I could --</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look -- you know who that is, Captain -- you know what she's saying -- you'll never see stuff that good outside of a magazine for the rest of your life.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not that fond of blondes -- maybe I like brunettes --</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take your pick -- they all like you -- I can tell --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I like all of them --</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good -- like I said, take your pick.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said I like all of them.</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context>Willard turns to leave again.</context>
+      <utterance>Now just a second -- I'm doing you a favor, buddy -- what're you trying to pull?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We need all our fuel anyway.</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait -- wait -- don't get up tight -- what I meant was we'd need a whole drum for that --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Willard sits down on a metal chair -- motions the Agent to do likewise.</context>
+      <utterance>Sit down -- we'll talk about it.</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's there to talk about -- this whole thing disgusts me.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My men --</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What !</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The girls are trying to pretend they're not listening -- the helicopter Pilot is cackling to himself.</context>
+      <utterance>That's what there is to talk about -- my man -- I take a good care of my men --</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're out of your skull --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have a lot of pride in our unit --</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How far do you think you can push -- what kind of people do you think --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Esprit de corps --</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="12">
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- absolutely not --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One for all -- all for one --</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can keep your fucking fuel -- Willard gets up.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You make some of your closest friends in the army -- war has a way of bringing men together.</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get out --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Men of all races -- nationalities -- He gets up and starts out.</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two drums -- Willard turns around slowly.</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two whole drums --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can use some fifty caliber and a 16 too --</utterance>
+   <speaker>AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know what you're talking about -- Get fucked --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will -- I assure you that -- You got a fifty on that H-34 -- leave the ammo in boxes -- I'll get my men to bring the first drum with 'em -- He turns to go under the tent flap.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have the girls freshen up a bit -- comb their hair -- put on something -- you know what I mean -- He leaves.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="12">
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You keep this thing in this condition an' it's gonna jam, Lance -- mark my words.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>Behins them on the beach stand several water buffaloes eating mud or whatever they do. They are painted jungle brown and green camouflage with grey bottoms -- on their sides the words have been stenciled in black:</context>
+      <utterance>Why don't you go pet the water buffaloes -- get off my back.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>1 Each -- Buffalo, Water B-1A U.S. Army No. 15239 Willard walks through them down to the boat.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Careful, Captain, they've been known to charge.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right I got a little surprise for you -- They all look up.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've arranged with those people we saw at Hau Fat to give us some 50 caliber in trade for a couple a drums of fuel --</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No shit.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chef -- since you're such a fan of Miss December's I think you should be detailed with Lance and Clean to take the first drum up there.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't believe you --</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're you trying to say, Captain --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll see soon enough -- get going, sailor --</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No shit -- hot damn --</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="6">
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got every one of your pictures -- I've got the centerfold -- the Playmate's review -- the Playmate of the Year run-off -- everything, even the calender --</utterance>
+   <speaker>LYNDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, get undressed and let's get it over with --</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't believe it -- I'd a never even got to see you if it wasn't for this war -- She lies down on the cot in only her panties.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wouldn't mind -- uh kinda draping that jacket over you sort of the way you were in the calender, would you?</utterance>
+   <speaker>LYNDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on -- cut this crap -- I gotta get back to Saigon --</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just let me look awhile -- I just don't believe --</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="4">
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well -- uh thanks -- see you around.</utterance>
+   <speaker>CATHY</speaker>
+      <mode></mode>
+      <context>He leaves -- she pulls herself up and starts combing her hair -- Mr. Clean walks in.</context>
+      <utterance>Yeah.</utterance>
+   <speaker>CATHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm next -- She shrugs.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="2">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>She picks up a shoe to throw at him. he turns, exits f.g.</context>
+      <utterance>Ma'am -- I'd like to thank you for what you an' all your friends have done for us -- I want you to know that me an' the men appreciate you coming all this way -- riskin' your lives -- living uncomfortably an' doing all you can to entertain us. I want you to know personally, Miss, that for the past few minutes you have made me feel at home.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The SHOE CLANGS off his helmet.</context>
+      <utterance>Just wanted to say that, ma'am.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="19">
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I gotta get out a here -- Ill pay -- I got money.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get away from this boat.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The Soldier ducks back and runs away.</context>
+      <utterance>Who's your C.O., soldier?</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context>Other men approach the boat. A young LIEUTENANT steps forward.</context>
+      <utterance>Fuck you, you'll get what's coming to you.</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain Willard?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's me.</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context>He hands up a plastic bag, maximum security markings, Willard takes it.</context>
+      <utterance>Captain Willard -- we got these from Nha Thrang two days ago -- they expected you here then --</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't know how happy that makes me, sir.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now I can get out a here -- if I can find a way out.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll be needing some supplies and fuel -- do you know anybody who can give me a hand?</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd just clear out as soon as I could if I were you, sir. They're gonna start working on the bridge with torches again. Charlie will start throwing it in hard --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is this bridge?</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context>He points to the men getting ready to work.</context>
+      <utterance>It's of strategic importance for keeping the highway into Bat Shan open -- the generals don't like to admit that Bat Shan is surrounded.</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context>He turns and splashes off into the darkness.</context>
+      <utterance>Every night we build it and by 0800 they've blown it up -- it and a lot of good men -- But the generals like to say the road is open -- ha ! Nobody uses that road except Charlie.</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the cesspool of hell.</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode>O.S.</mode>
+      <context>SHELLS WHISTLE OVER and CRASH into the bridge -- MEN SCREAM in the distance -- the EXPLOSIONS are thunderous.</context>
+      <utterance>Incoming.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right -- Lance, go with the Captain an' see what you can scrounge -- Willard climbs out with Lance.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>Willard nods and they scurry off the bank under the bridge.</context>
+      <utterance>Better make it fast, sir -- we don't really need much anyway.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="27">
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You came right to it, son of a bitch --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The Soldier doesn't respond.</context>
+      <utterance>Son of a bitch, sir.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's your chief supply officer?</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Beverly Hills --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Straight up the road -- a concrete bunker -- Beverly Hills -- where else you think he'd be?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>There is an apparent lull and they dash out along the road. Suddenly to their right an M-60 STARTS OPENING UP from a sandbagged emplacement.</context>
+      <utterance>C'mon --</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode>O.S.</mode>
+      <context>They drop and crawl to the slit trench and run up to the emplacement. Several SOLDIERS man a M-60. One has a sniper rifle -- another tries to spot for the Gunner. Willard and Lance edge up along the trench. Willard trips.</context>
+      <utterance>Get your asses down, buddy.</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Watch your feet, asshole -- Willard looks down.</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You stepped on my face.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We thought you were dead.</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context>They move ahead more carefully. The Gunner BLASTS away into the night, there is a pile of brass cases about three feet high next to him. Finally he stops swearing to himself.</context>
+      <utterance>The whole world loves a smart ass.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're you shooting at, soldier?</utterance>
+   <speaker>GUNNER</speaker>
+      <mode></mode>
+      <context>He turns and sees it's an officer.</context>
+      <utterance>Gooks.</utterance>
+   <speaker>GUNNER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Im sorry, sir.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all right, sergeant -- what's out there?</utterance>
+   <speaker>GUNNER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They were tryin' to cut through the wire -- I got 'em all I think.</utterance>
+   <speaker>OTHER SOLDIER</speaker>
+      <mode></mode>
+      <context>There is a low moaning SCREAM from out in the wire -- it stops for aminute then continues hideously.</context>
+      <utterance>Oh yeah -- listen.</utterance>
+   <speaker>GUNNER</speaker>
+      <mode></mode>
+      <context>The Spotter does, it arcs up, then bathes them in eerie light. The Gunner FIRES a long BURST.</context>
+      <utterance>He's trying to call his friends -- send up a flare.</utterance>
+   <speaker>SPOTTER</speaker>
+      <mode></mode>
+      <context>They think about this as the flare goes out. The SCREAMING gets more intense.</context>
+      <utterance>Those are all dead, stupid, he's obviously underneath 'em --</utterance>
+   <speaker>GUNNER</speaker>
+      <mode></mode>
+      <context>The Spotter moves down to where a tall lanky SOLDIER is leaned up against the trench. He kicks him hard several times. Roach wakes and just looks up. On his helmet are the words: "GOD BLESS DOW."</context>
+      <utterance>Wake up the Roach.</utterance>
+   <speaker>ROACH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, man.</utterance>
+   <speaker>SPOTTER</speaker>
+      <mode></mode>
+      <context>He listens, he does, he nods.</context>
+      <utterance>Slope in the wire -- hear him.</utterance>
+   <speaker>SPOTTER</speaker>
+      <mode></mode>
+      <context>Roach gets up somewhat annoyed but very cool. He saunters up the machine gun dragging his M-79 which has paisley designs all over it.</context>
+      <utterance>Bust him.</utterance>
+   <speaker>GUNNER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hear him?</utterance>
+   <speaker>ROACH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure , yeah.</utterance>
+   <speaker>GUNNER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You need a flare --</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="3">
+   <speaker>ROACH</speaker>
+      <mode></mode>
+      <context>He opens the breech of his shotgun-like weapon and plunks the big slug into it. He snaps it closed then rests it across his forearm over the trench -- he listens to the SCREAM, calculating.</context>
+      <utterance>No, its cool.</utterance>
+   <speaker>ROACH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muhhh Fuhhh ...</utterance>
+   <speaker>ROACH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He staggers back down the trench to go to sleep.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="19">
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>A SOLDIER comes up on his way with some others to start building the bridge.</context>
+      <utterance>Geez, I wish they'd hurry.</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, buddy, that boat still runs, eh?</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, it still runs.</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do me a favor buddy, please.</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it? He takes out a handful of crumpled envelopes.</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context>He puts them in Clean's hand.</context>
+      <utterance>Send these out when you get back to the world.</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's to everyone I really knew -- the first girl I screwed -- my brother -- best friend -- I wanted to tell 'em how much I enjoyed knowing 'em -- it's been a great twenty years. I gotta let 'em know.</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're you askin' me for -- put 'em in the first helicopter comes in tomorrow.</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context>He points up at the mountain ridges.</context>
+      <utterance>Nobody comes in here.</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context>He grabs Clean and looks at him with a maniacal urgency.</context>
+      <utterance>The N.V.A. 312th -- over there the 307th -- on that hill we counted fourteen different guns in one minute -- they got rockets mortars, snipers in those trees, there's a million of those shitty little bastards out there -- we're all gonna die.</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context>Clean takes the letters.</context>
+      <utterance>I'm gonna be dead.</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got a chance in that boat -- by morning you could be five miles down the river.</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context>The Soldier looks at him as if he is joking.</context>
+      <utterance>We ain't goin' down the river.</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's up river from here anyhow -- The Soldier doesn't answer, just stares dumbfounded.</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spooky.</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charlie?</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context>He takes the letters and leaves, somewhat disappointed and disgusted. Willard and Lance come back down the beach carrying some belts of ammunition and a couple of extra M-16's.</context>
+      <utterance>No, it'd be spooky without the war -- give 'em back.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow, you must a found the C.O., eh?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We found some bodies -- let's get out a here.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="11">
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We hit a big enough one this hull will shatter like a Corvette. Fucking plastic boat. Willard practically hangs off forward with a long pole, warding off the big debris moving toward the P.B.R. Clean joins him, helping.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about ducking into one of those tributaries till this river slows down?</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who knows what's up there?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>What do you think?</context>
+      <utterance>Can't be any worse than this.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>Willard points his pole in the direction of the mouth of a tributary.</context>
+      <utterance>I think this river wants to take us home fast. I'm practically goin' in reverse.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, get in there.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>There is a really loud WHACK against the hull. willard really mad, throws the pole at the Chief, who ducks.</context>
+      <utterance>This whole area is lousy with V.C. -- We don't stand a chance. Lemme turn around and we'll be in Hau Fat in six minutes.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get in there !</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is my crew and my fucking boat, and I'm the responsible party.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>It's clear that Willard will kill the Chief if he doesn't do as he says.</context>
+      <utterance>Get in there now or I'll bury you in this river.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>The P.B.R. navigates through the rush and into the mouth of the tributary.</context>
+      <utterance>You're fucking crazy. You're going to get us all killed.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="10">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you see?</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>He looks out -- the jungle at this point is very dark and high -- totally impenetrable.</context>
+      <utterance>I don't know.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>They work feverishly, knowing something is wrong.</context>
+      <utterance>Keep cutting.</utterance>
+   <speaker>139  VIEW ON CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>cutting with all he's got.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know it sounds stupid, but I feel like the goddamn jungle's watching us.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Probably is.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatdoya think it thinks.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Chef stops again, looks hard, trying to penetrate the darkness and from the very depth of it -- the darkness of it, comes a stream of tracers, lazily arching out at them. It whips between them -- the SOUND FOLLOWING much later. Other BULLETS SMASH through and ricochet off the deck fittings. GLASS SHATTERS, and a huge hunk of paint is removed from the armor shield by a 20 mm cannon.</context>
+      <utterance>That we're dumber than we look.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>Lance leaps down to his position. Willard, Clean and Chef cut feverishly, as the trapped boat struggles to get free.</context>
+      <utterance>Lance -- 'bout twenty meters starboard.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>Everything is confusion -- yelling -- GUNFIRE -- the THUD of heavy BULLETS ripping inti the P.B.R.'s fibreglass hull.</context>
+      <utterance>There in the trees !</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="2">
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Elevate Lance, in the tree. No, I saw another.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>Lance grits his teeth, FIRING --</context>
+      <utterance>Thirty meters up, Lance; I saw the fucking flash.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="7">
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context>Chief runs to Mr. Clean -- it is obvious that he is dead. He looks angrily to Willard. Willard and Chef are practically through. Willard leaps up, as Chef finishes the last strokes. He moves toward the cockpit.</context>
+      <utterance>I'm ripping 'em, man, son-of-a- bitch, it's jammed, oh God, it's jammed. Clean is riddled by MACHINE GUN FIRE.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Chef throws him an M-79 and several shells -- Willard opens it, jams a huge projectile and pulls himself over the edge of the cockpit.</context>
+      <utterance>Throw me that ordnance.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give me some kind a field a fire -- BULLETS rip by.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>He climbs aboard and collapses.</context>
+      <utterance>We're through.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, God --</utterance>
+   <speaker>LANCE</speaker>
+      <mode>FIRING</mode>
+      <context></context>
+      <utterance>I ain't finished ! I ain't finished !</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>He jams his gun up as he sees a flash and FIRES -- there is a low POP and a WHISTLE as the GRENADE arches into the jungle.</context>
+      <utterance>Bring that bow ordnance into those trees.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="13">
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's some bad holes, man, and the cracks -- water's coming through the cracks. Food's shot to hell.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much is left?</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>Chief has been silent by the body of Clean in a plastic sack.</context>
+      <utterance>Less than half -- sure is a mess down there.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And the grass?</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>Chief pushes Clean's body into the river.</context>
+      <utterance>Still got a lot of that stuff from Nha Trang. But we're running low on the other.</utterance>
+   <speaker>150  VIEW ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He notices something in the distance.</utterance>
+   <speaker>151  WILLARD'S POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A light.</utterance>
+   <speaker>152  MED. VIEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Willard stands up, pointing up the river.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>They all look over.</context>
+      <utterance>Hey.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a light down there --</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, it is.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell is it?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the middle of the jungle -- a goddamn light.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="8">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>They duck as SHOTS RING OUT from the dock, stitching the water across the P.B.R.'s bow. The crew crouches, guns trained on the dock as the boat still approaches.</context>
+      <utterance>Watch it !</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're not Cong.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>Another BURST, closer.</context>
+      <utterance>We're Americans.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>Willard stares at the dock and building, trying to figure it out.</context>
+      <utterance>Maybe you shouldn't say we're Americans?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Chief hands the loud-hailer to Chef, who shrugs and shouts:</context>
+      <utterance>Chef, try your French.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nous sommes Americains -- Silence.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nous ne voulon pas vous agresser.</utterance>
+   <speaker>157  VIEW ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He looks through the glasses.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="10">
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>There is silence as the boat drifts closer. Then:</context>
+      <utterance>Nous sommes Americains -- nous sommes des amis --</utterance>
+   <speaker>FRENCHMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Vous parlez Francais comme une vache espanole.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought it was pretty good, myself.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'd he say?</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Said I speak French like a Spanish cow.</utterance>
+   <speaker>FRENCHMAN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Laisser tomber vos armes --</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Put the guns straight up -- stand away from the mounts.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>They do.</context>
+      <utterance>Do it.</utterance>
+   <speaker>FRENCHMAN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Vous pouvez approcher mais doucement --</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take her in slow.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="4">
+   <speaker>PHILIPPE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hands on the heads.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't steer with my goddamn feet.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, they speak American.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is the commanding officer?</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="9">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am -- I'm Captain B.L. Willard. This is Chief Warrant Officer Phillips -- it's his boat. We were shot up bad downriver and need repairs and food -- we can pay you in gold.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context>Philippe moves to another position -- Kac grabs the rope from the deck and ties it to the dock.</context>
+      <utterance>Philippe --</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll help you with --</utterance>
+   <speaker>PHILIPPE</speaker>
+      <mode></mode>
+      <context>Gaston looks at the skyward pointed twin fifties admiringly.</context>
+      <utterance>Do not move --</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fifty calibers, eh, Captain --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As I said, we can pay you in gold.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context>He puts down his gun -- the others do likewise --</context>
+      <utterance>Entirely unnecessary, Captain.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context>Then he motions to the trees. A young man in a tiger suit and three women come forward from different positions -- all wear bush clothing and bear weapons.</context>
+      <utterance>We share a common enemy -- you are our guests.  I am Gaston de marais -- this is my family's plantation. It has been such for 121 years. It will be such after I die. This is my son, Philippe -- he has fought in Algeria and held the rank of Captain. And Henry LeFevre -- a sergeant; he was at Dien Bien Phu. My personal servant, Tran Van Kac ---</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My youngest son -- Christian --</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="11">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>American weapons?</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We took them from the dead.  Now -- I assume you want to rest, to shower. We'll attend to your repairs after dinner.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>Willard's men look at one another, dazed.</context>
+      <utterance>Shower.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We don't want to bother you any, we --</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context>Willard steps off -- then stops, reaches back and picks up his M-16 by the stock.</context>
+      <utterance>A man of war is never bothered to aid an ally -- you will follow me, Captain.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A habit of men of war, sir -- you understand.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context>The men are relieved. They pick up their weapons and follow.</context>
+      <utterance>Of course, Captain -- an unfortunate necessity.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about the boat?</utterance>
+   <speaker>PHILIPPE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My men will keep it for you --</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah -- well, I'll stay with the boat.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>They look at each other a moment. The Chief shrugs and follows.</context>
+      <utterance>Chief.  Come with us.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="7">
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context>He indicates that the men should follow Philippe. The Chief is hesitant.</context>
+      <utterance>A suitable accomodation for your men, captain -- you will, of course, be quartered with us --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go ahead -- Philippe leads them on, muttering.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context>Willard follows -- they walk over past the house and toward the jungle, approaching a huge crater, 100 feet across and about thirty feet deep. The bottom is filled with water and young French and Vietnamese children swim in it. On the opposite rim, sit two men and a woman with machine guns. Gaston strides up and looks down at the crater with pride.</context>
+      <utterance>Captain, this way.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context>Willard looks.</context>
+      <utterance>Magnificent, eh, Captain?</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is very good -- there is no current -- It is very good. I have never seen one like it in all Indochina. I was in Paris when it arrived -- do you know what might have caused --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks like a two thousand pound to me. Yeah, a two thousand pound bomb.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context>Gaston stands in serious admiration for this feat; Willard looks between him and this big hole in the ground in amezement.</context>
+      <utterance>No, I've seen those in Normandy. This is much better.  My country -- my country could never originate this. Magnificent.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="2">
+   <speaker>168  VIEW ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>haggard, looking down at the album.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I wondered -- how long has this room been like this; how long has the furniture been standing in these places?</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="3">
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context>The plantation being built. Pictures of the framing, skeletal against the sky and jungle.</context>
+      <utterance>Was it like this sixty years ago? Eighty years? But here, even eighty years is nothing. He turns the page,</utterance>
+   <speaker>170  VIEW ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>fascinated</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>It was jungle, once; and it will be jungle, again...</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="32">
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>Opposite the table, sitting next to the Chief, Lance reaches hungrily for bread and other food with his hands.</context>
+      <utterance>This food is wonderful ! I can't believe the chef is a slope.  Some more?</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey -- Lance.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context>wouldya pass me the Rice-a-roni, please. And then he looks to his friends for approval. Our VIEW REVEALS that behind a transparent silk curtain there is another, more elaborate table, where the De Marais family is dining with Willard. Our VIEW MOVES through the curtain and settles in a MEDIUM VIEW of the group. The men rise as a very attractive woman enters the room. Willard finally does as well, and she moves to the chair next to him.</context>
+      <utterance>Huh? Oh. Um, wouldya ..</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Roxanne, I hope you are feeling better.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Je vais bien maintenant.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I present Captain Willard? He is of a paratroop regiment. You know the difference between a paratrooper and a regular soldier, don't you , my dear?</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context>Willard is caught with this exotic woman on one side of him, and the ongoing conversation on the other. He is forced to face toward Gaston, and drawn to look at Roxanne.</context>
+      <utterance>Yes, they come from the sky. She sits -- there's an uneasy silence.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Philippe turns around, points to an elaborately scripted wooden plaque with various tallies on it.</context>
+      <utterance>I would like to know more about the .. uh, plaque...</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Attacks repulsed, as I was saying.  This is only for this war, Captain. Viet Cong -- 54; North Vietnamese regular forces -- 15; South Vietnamese -- 28 -- regular forces and otherwise.  Americain -- 6. Of course, they were, perhaps, mistakes, Captain.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course. I -- Once we make our repairs, we could send word, we could have you evacuated from here.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll get blown outta here some day.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We will never 'evacuate', Captain -- this is our home. Indochina is ours; it has been so for a hundred and twenty-one years, there is something to say for that.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Vietnamese think it's theirs -- I guess the Americans do, too.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But we civilized it. A place belongs to those who bring light to it, don't you agree.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I always thought the French came here to get the rubber.</utterance>
+   <speaker>PHILIPPE</speaker>
+      <mode></mode>
+      <context>He gets up, and leaves abruptely -- followed by his wife.</context>
+      <utterance>Excuse me, I must attend to my men.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I ask where the Captain is going in his little boat?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We were going upriver when we got caught in a storm, ma'am.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Upriver? Why upriver? There is nothing there, only jungle.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know that jungle?</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When I was a boy, my father would take me there, to hunt. There are a few savages, but no man can live there, no white man.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>There is a pause.</context>
+      <utterance>What about an American named Kurtz?</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context>Gaston rises, and takes Roxanne's hand.</context>
+      <utterance>We have never heard of him.</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context>Willard turns.</context>
+      <utterance>Bon nuit, Roxanne -- bon nuit, Captain.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Gaston leaves. Willard and Roxanne are left alone. The servants clear the table.</context>
+      <utterance>Good night.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You must realize, Captain -- we have lost much here -- I, my husband. Gaston -- his wife and son.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry to hear that.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cognac?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I should be checking on the boat.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context>She walks out of the room.</context>
+      <utterance>The war will still be here tomorrow.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>He follows.</context>
+      <utterance>I guess so.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="18">
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context>Have you someone there?</context>
+      <utterance>Do you miss your home, Captain?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Not really.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was discharged from the army four years ago. I went home, wasted some time, bought a Mustang Mach 1, drove it a week. Then I re-upped for another tour. No, everything I love is here.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context>She reaches out to him; indicating that he sit.</context>
+      <utterance>Then you are like us.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What will you do after the war?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just follow my footsteps, one at a time, trying to answer the little questions and staying away from the big ones.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's a big question?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kurtz.  I know you've heard of him.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you hear?</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That strange things.. terrible things have occured around this American, Kurtz.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What things?</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gaston would never tell me. It was asubject not to be spoken of, Captain.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you know -- deeper in the jungle, upriver -- there are savages?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context>A long pause. Then she looks at the cognac she poured for him.</context>
+      <utterance>But Captain, I mean -- cannibals.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context>Willard moves to the French doors, which have been left partly open to let a breeze in. He steps onto a terrace overlooking the river.</context>
+      <utterance>What a pity, you don't drink. Since my husband died, there are so many things I must do alone. She takes a sip.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="2">
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you warm, Captain?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>In fact, we REALIZE that he is checking the boat.</context>
+      <utterance>The river is beautiful.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="2">
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context>She moves her body close to his; and, in a moment, he is kissing her.</context>
+      <utterance>I spend hours watching that river from my bedroom window. It fascinates me.</utterance>
+   <speaker>179  CLOSE ON WILLARD, ROXANNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One eye steals another look at the P.B.R.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="7">
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context>He starts to get up.</context>
+      <utterance>I will fix you breakfast.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid I won't have time -- I gotta --</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context>He stops -- seemingly stunned.</context>
+      <utterance>Whe you reach the boat you will find that half your fifty calibre stores -- a case of grenades, a mortar and two M-16's and a case of clips are being transfered to us by your order.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So that's it.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context>She turns to go.</context>
+      <utterance>You may think what you wish, Captain, but I like you very much.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if I say no.</utterance>
+   <speaker>ROXANNE</speaker>
+      <mode></mode>
+      <context>She leaves.</context>
+      <utterance>Then Philippe will have to kill all of you.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="6">
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two of my men deserted last night. It happens from time to time. I assume my daughter told you of our conditions.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your daughter.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>He pauses for a second.</context>
+      <utterance>They taking half our ammo, Captain -- said it was your orders.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The Chief spits in the water disgustedly and starts the engines. Willard looks hard at Gaston.</context>
+      <utterance>That's right -- I did.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess this is whAt men of war do -- eh?</utterance>
+   <speaker>GASTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We endure, captain -- you can blow up the house and we will live in the cellar -- destroy that and we'll dig a hole in the jungle and sleep on it. Burn the forest and we'll hide in the swamp. all the while, we do but one thing -- clean the blood off our bayonets.  Au revoir, Captain.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="6">
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>Willard just smiles at the Chief. he leans over and pulls up a floorboard -- the men stare in amezement; it contains the contents of all those ammo boxes. .50 calibre; clips; grenades.</context>
+      <utterance>Next time we get in a good fire fight -- I'd like to know how she was, Captain.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Holy shit.</utterance>
+   <speaker>CLEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you put in all those ammo boxes?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rocks, sand -- those two men who deserted.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When'd you do it?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Willard moves to the back of the boat.</context>
+      <utterance>While you were sleeping. He lets the board drop.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="3">
+   <speaker>CHEF</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Flood.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>No -- most of 'em are still standing -- might've been disease.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>I don't know -- there'd still be some sign -- it's just like the one this morning.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="8">
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>Lance's TWIN FIFTIES split the silence as they POUR into the skulls on the opposite bank -- Suddenly there is a tremendous EXPLOSION and SECONDARY ONES from the jungle as shrapnel rips into the jungle and water from CLAYMORE MINES obviously set to cover the mound of skulls. The smoke clears.</context>
+      <utterance>-- All right, Lance --</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The other one --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- leave it --</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why -- Charlie put it there to kill --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thta's not Charlie's work -- There is silence.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoever put'em there didn't do it to kill people -- They put 'em up as signs --</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Signs?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Willard motions -- the Chief accelerates -- they move ahead past the smoking mound.</context>
+      <utterance>Yeah -- like keep out --</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="3">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>They are silent. We can HEAR the most ominous SOUND COMING FROM THE BANKS. The GROANING, OR WAILING .. of</context>
+      <utterance>Listen.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="11">
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're on the banks of the river.</utterance>
+   <speaker>200  VIEW ON LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frantically, he swings the twin fifties around.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus !</utterance>
+   <speaker>201  VIEW ON CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can barely SEE him -- in and out of the fog.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Lance. Not while you can't see.</utterance>
+   <speaker>202  VIEW ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>listening. The SOUND IS TERRIBLE, HORRIFYING.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will they attack?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If they have boats ... or canoes... they'd get lost in the fog. We can't move either -- we'll end up on the shore.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God...</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds like hundreds of them.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The CHORUS OF GROANS in unbearable. But it is not ahostile cahnt; or a war chant, but rather the SOUND OF HUMAN</context>
+      <utterance>Shhhhhh.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="4">
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Two hours after the fog lifted, we moved slowly to a spot we thought was roughly a mile and a half below Kurtz's camp. We approached a long sand-bank stretching down the middle of the river.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which way? Right or left?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who knows? Right.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>The P.B.R. moves toard the right-most channel. Chef takes a long pole and begins sounding depth.</context>
+      <utterance>Looks pretty shallow.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="3">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>rattling against the boat.</context>
+      <utterance>Upon reaching objective. Target key personnel and commence operation. Should difficulty arise from which extraction is impossible, break radio silence Com-Sec Command code Strong Arm -- indicate purgative air strike -- code -- Street Gang.  Purgative air strike ! Purgative ! They'd kill me too ! Suddenly Chef lays out flat on the bow. Hundreds and hundreds of slender sticks fly onto the P.B.R.</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit ! Fucking arrows ! They're shooting fucking arrows at us.</utterance>
+   <speaker>206  CLOSE ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>looking toward the banks.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="3">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop it.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context>He starts to wipe the blood off the boot.</context>
+      <utterance>It was the strangest thing -- I don't know that I can explain it. Two of my men dead, and all I could think of was whether Kurtz was dead too. That's all I wanted: to see Kurtz, to hear Kurtz.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Somehow, in the middle of this ... carnival, Kurtz had grown into something -- a gifted officer; a great man. Somehow, he was the only light in this hopeless, hopeless darkness. And now I was too late -- he was probably gone, disappeared... by a grenade rolled into his tent -- or by some spear on the head. Christ, I felt like howling like those animals in the fog.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="24">
+   <speaker>VIEW ON THE P.B.R.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Willard shouts out to the starnge greeter.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've been attacked.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charlie?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks that way.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's he?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The boat pulls up. The Australian harlequin hops on board; the crew regards him with their dark faces splat- tered with mud and blood.</context>
+      <utterance>God knows.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who the hell are you?</utterance>
+   <speaker>AUSTRALIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Moonby. Got any Winstons?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Moonby what?</utterance>
+   <speaker>AUSTRALIAN</speaker>
+      <mode></mode>
+      <context>Ex-Corporal Moonby,</context>
+      <utterance>Moonby, 4th battalion, Royal Australian Regiment, Task Force.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is this?</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context>Chef automatically offers Moonby a Winston.</context>
+      <utterance>Oh, they're simple enough people. It's good to see you, baby. Nobody has any Winstons?</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This boat's a mess.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's Kurtz? I want to talk to him.</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you don't talk to Colonel Kurtz.  You</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Simple. They don't want him to go.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're Australian?</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context>I'm California dreamin'.</context>
+      <utterance>Pre-Australian, actually. But I'd dig goin' to California.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So Kurtz is alive.</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context>He opens his arms wide, to indicate the breadth of his mind's expansion.</context>
+      <utterance>Kurtz. I tell you, that man has enlarged my mind.</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But lemme tell you,</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context>Of love, too.</context>
+      <utterance>I've asked myself that question. I said to myself, why didn't he shoot me? He didn't shoot me, because I had a stash like you wouldn't believe. I hid it in the jungle; the wealth of the Orient: Marijuana -- Hashish -- Opium -- cocaine -- uncut Heroin; the Gold of the Golden Triangle. and Acid -- I make Koolaid that makes purple Owsley come on like piss. Now I'm Kurtz' own Disciple -- I listen he talks. About everything ! Everything. I forgot there's such a thing as sleep. Everything.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Love?</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context>The whole time Moonby is chattering on, Willard has picked up his field glasses and scans the fortress.</context>
+      <utterance>Oh, no, not what you think... Cosmic love. He made me see things -- things, you know.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="9">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds like he's gone crazy.</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Colonel Kurtz couldn't be crazy -- if you heard him talk, just last week, you'd never think he was crazy.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that where he is? By the shrunken heads.</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Those heads, yes. Well, the rebels...</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're going ashore. Tie her up -- and leave your guns up, Lance.</utterance>
+   <speaker>LANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bring your rifles, that's all.  Take us to him.</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right on -- he's been waiting for --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Moonby nods and shrugs, and hops off the P.B.R. willard and the men follow.</context>
+      <utterance>And shut up.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="9">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His name is...</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Moonby shuts up. The MAN tries to speak, but nothing comes out. He is dumbstrucked at seeing them, as they are to see him.</context>
+      <utterance>I'm not ever goin' to tell you to shut up again.</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>Walter Kurtz, commanding.</context>
+      <utterance>Colby. Exec. officer, A-Team... Special Forces. F-82 -- Col.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened here?</utterance>
+   <speaker>COLBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What -- happened here.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charlie?</utterance>
+   <speaker>COLBY</speaker>
+      <mode></mode>
+      <context>Willard is the man in the middle -- he doesn't know what to say to this man, but he understands the forces that pounded him. He takes his arm.</context>
+      <utterance>NVA regulars. They're coming again tonight. Tet -- their big -- assault.</utterance>
+   <speaker>229  REVERSE ON COLBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>looks at Willard, not understanding.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="5">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Moonby slaps himself in the head with his hand.</context>
+      <utterance>I'm taking you back.</utterance>
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, no, dont say that.</utterance>
+   <speaker>COLBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take us back. Take us back ! But, the operation -- the team. Colonel Kurtz has such plans for -- the team.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Colby starts, and then, seeing the shrunken heads on poles, he turns, agitated, to Willard:</context>
+      <utterance>Take me to him, Major.</utterance>
+   <speaker>COLBY</speaker>
+      <mode></mode>
+      <context>Suddenly, frightened, he stops. Without looking Willard knows that Kurtz is standing behind him. He turns. Kurtz has stepped out from his headquarters: He is a powerful man, though obviously very ill. He slowly attempts to pull the remnants of his uniform together, though it is ripped and bloodied, and now combined with primitive ornaments designating him a tribal chief, as well as his U.S.A. Colonel's insignia. He is feverish, with long blonde hair and beautiful features. His eyes almost hypnotize. His midsection is bandaged from what seems to be a serious wound.</context>
+      <utterance>I had nothing to do with these operations -- I did not do the planning -- none of us did. It was all Colonel Kurtz -- he was the genius. You'll see -- the genius of our Colonel. He should be made a General, don't you think? A General? It's...</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="3">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Colonel Kurtz, I guess.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm Kurtz.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain B.L. Willard reporting his presence, sir.</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="15">
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why did you come to ... my province.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We were attacked -- down river. We need supplies and medical help.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were not coming here, to see me?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- no, sir.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You came up my river -- in that small boat. So simple. I always thought the final justice would come from the sky, like we did.  You are the final justice, aren't you?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean, Colonel?</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What other reason could you have come? A Captain. Ranger. Paratrooper. Graduate of the Recondo School. Am I right about these things?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>There is a clear, incredible intelligence about this man.</context>
+      <utterance>You know you're right.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>Exciting work.</context>
+      <utterance>Then the Agency approached you. Maybe in a bar in Quinon or Pleiku. Simple. A year's pay for one life. Perhaps a village elder, or a tax collector. Nobody's orders but your own.</utterance>
+   <speaker>235  CLOSE ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He remains silent.</utterance>
+   <speaker>236  CLOSE ON KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He smiles.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>There is a long pause, as the two men regard each other. Then Willard reaches to his holstered .45 -- withdraws it, and places it on the dirt before Kurtz, as an act assuring Kurtz that he is not an assasin.</context>
+      <utterance>You've spent tome at the Royal Tracking School of Malaysia. I can tell from the way the laces on your boots are tied. I understand you, Captain. We understand each other.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know me?</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>Kurtz reaches down; takes the .45 -- and without another word or gesture, shoots and kills a man.</context>
+      <utterance>Yes.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="10">
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain -- they've been probed all this week -- Cong and NVA regulars. There's gonna be a big offense any time.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Lance stirs; starts to wake up.</context>
+      <utterance>I know.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are we doing here?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kurtz. I'm supposed to kill him, just like he said.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I can see that. He's fuckin nuts --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He killed that guy without feeling anything.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not a thing.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When you kill Cong, don't you feel something.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Willard rises. Chef looks at him, confused and frightened.</context>
+      <utterance>Sure.  Recoil... I feel the recoil of my rifle.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="7">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>A woman tentatively moves to Willard, bowing, and then runs off to her bunker. WE ARE TRACKING with them as they move past the groups of people, huddled by their fires... men, women and children. Skulls, shrunken and otherwise hang from every hut -- adorn every sandbagged bunker -- dried scalps hang from barbed wire. A child is chewing on a big piece of almost raw meat.</context>
+      <utterance>This is good -- triple overlapping fields of fire -- walls so thick ordinary artillery just cleans the moss off their surfaces.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>We're all gonna die here.</context>
+      <utterance>This is evil -- evil, Captain.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I know.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't get it -- You said your mission was to kill him. Let's do it, an' get our asses outta here. This Kurtz is ruining the war; I mean, this don't look good for America !</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... he's an amazing officer.</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context>Lance just stands there; his eyes vacant.. He sort of nods, sucking a joint.</context>
+      <utterance>You got to kill this sonuvabitch -- Lance and me, we don't understand none of this -- Jesus, Captain -- I don't wanna die here -- Do it quick.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>He thinks.</context>
+      <utterance>Yeah. I know.</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="8">
+   <speaker>MOONBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's asleep -- don't bother him.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>Willard steps in closer. Kurtz looks to Moonby.</context>
+      <utterance>I'm awake.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>Moonby hesitates -- not wanting to leave him alone with Willard.</context>
+      <utterance>You. Get out.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right, the little gook- pricks. But they are noble little gook-pricks, noble. Because they fight with their guts, like animals.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I like it...</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love it.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've gone crazy.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>Suddenly Kurtz is seized with a terrible pain from his stomach wound. He groans horribly, clutching at it. He literally falls from his chair onto the dirt floor.</context>
+      <utterance>No. My thinking is clear.  But my soul has gone mad.</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="14">
+   <speaker>NIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Willard examining the wound.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>Willard quickly prepares another shot. Kurtz, truly frightened, holds up his hand.</context>
+      <utterance>You see how stupid it would have been to blow out my brains? I'm dying from the gut anyway.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- I don't want to sleep. I want to think. Water. Give me water.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't have water after morphine.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Still playing by the rules.  You're a damn good kiler.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's the pain?</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's yours?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can handle it.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pain is easy to handle -- but nobility.. the nobility of a man is judged by how much Truth he can handle.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What Truth?</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The truth that you were sent here to murder me, ans so far you haven't done it. And do you know why?  Yes, you know why.  Your mission makes about as much sense as those idiots who sent you on it.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No water.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what you're doing?</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Drink it -- drink it for tonight. Think of it. A whole regiment of those shitty little Cong -- War. Total war -- war like you've never known it. It's beautiful -- you'll love it. Trust me.</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="2">
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lance -- the fucker's not gonna do it.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>Lance stands up holding his M-16, looks into the cavern with Chef.</context>
+      <utterance>Goddamn -- You've gotta dig napalm on Speed, too. It's spectacular, you'll see.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="10">
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>Then it becomes</context>
+      <utterance>Look into the jungle. You can't -- it's too terrible. You have to smear yourself with warpaint to look at it -- you have to be a cannibal.  That's why warpaint was invented.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because of all the things we do, the thing we do best -- is lie.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think think a lie stinks.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh Captain, that is so true.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Willard drinks more of the LSD water.</context>
+      <utterance>Stinks. I could never figure --  I could never figure how they can teach boys how to bomb villages with napalm -- and not let them write the word 'fuck' on their airplanes.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could never figure it because it doesn't make sense.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck no.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll tell you what makes sense !</utterance>
+   <speaker>CHEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Captain -- kill him.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Think of it -- for years, millions of years, savages with pathetic painted faces were scared shitless that fire would rain down from the sky. And goddamn, we made it happen.</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="2">
+   <speaker>263  VIEW ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Exhilarated, and moving with the MUSIC.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Colby pushes a row of plungers: Advancing NVAs il- luminated by napalm drums, phosphorescent napalm EXPLODES beautiful, like a magnificent firework.</context>
+      <utterance>Napalm.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="2">
+   <speaker>272  VIEW ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>watching this spectacle.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>They stagger and fall, shattered and bleeding, save one who's merely lost his weapon. Kurtz looks at him, his gun empty. He drops it and flips open the flap of his holster. The Viet soldier goes for his pistol. Kurtz beats him to the draw and bloes him into the night. He moves over to pick up the NVA light machine gun. Holding it at his hip, he stands atop one of the ruined walls and FIRES into the masses. His native men see him and rush for the chance to die beside him. They are quickly encircled by onrushing Viets and are being overrun. The machine gun jams and Kurtz grabs a rifle. When it's empty and the bayonet is off he wields it as a club.</context>
+      <utterance>Charles !</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="7">
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go away -- hide yourself.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing?</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Going back - to the jungle to die.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm taking you back. You can still live.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I had immense plans.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm gonna get you out of here.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>Willard slings Kurtz's bleeding body around his neck, holding his hand, dragging hom through the jungle. The spectacle continues in the b.g.</context>
+      <utterance>I was on threshold of great things.</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="2">
+   <speaker>COLBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is he?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was the tragedy -- the tragedy of this war.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="3">
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>Willard looks down at him.</context>
+      <utterance>Don't. Don't frighten them away.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Kurtz looks up at him, past him with fury, longing in his eyes. There is a slight smile.</context>
+      <utterance>So you understand this?</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do I not?</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="14">
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My river... my people... my jungle... my ideas... my country... my wife...  ... my death.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You had immense plans... immense plans...</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes...</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Kurtz looks up to him, then an expression of overwhelming intense and hopeless terror, hopeless despair. A whisper at some image, at some vision, he cries out twice, a cry that is no more than a breath.</context>
+      <utterance>I'm taking you back.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode></mode>
+      <context>We HEAR the distant SOUND of HELICOPTERS approaching. The SOUND of ROTORS in the distance. They look up, craning their eyes at the sky. Colby points.</context>
+      <utterance>The horror, the horror.</utterance>
+   <speaker>COLBY</speaker>
+      <mode></mode>
+      <context>Over the jungle mountains the small formation of MEDEVAC helicopters hooping toward them.</context>
+      <utterance>There.</utterance>
+   <speaker>COLBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did they know?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>The helicopters are closer now but high up. Two of them breaking off, spiraling in TOWARD US.</context>
+      <utterance>They must have seen the fire.</utterance>
+   <speaker>COLBY</speaker>
+      <mode></mode>
+      <context>They're Medevac.</context>
+      <utterance>They're coming to rescue us.</utterance>
+   <speaker>283  CLOSE SHOT ON WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He stares up at the sky.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Copters directly overhead.</context>
+      <utterance>They're coming to take us back.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>COLBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Colonel Kurtz, he's dead.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>He raises his M-16 and FIRES the entire clip at the ap- proaching rescue helicopter.</context>
+      <utterance>Yeah.</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="2">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Then the door opens, and KURTZ'S WIFE is standing at the door. She is still beautiful, blonde, and dressed in mourning even though she doesn't wear black. There is a sense of purity about her, though she is not young.</context>
+      <utterance>Hi.</utterance>
+   <speaker>KURTZ'S WIFE</speaker>
+      <mode></mode>
+      <context>He enters.</context>
+      <utterance>Come in, Captain Willard.</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="15">
+   <speaker>KURTZ'S WIFE</speaker>
+      <mode></mode>
+      <context>There are pictures of Kurtz, not too many... but he is there in the various stages of his career. Then she sits suddenly, and Willard sits by her.</context>
+      <utterance>Can I get anything for you?</utterance>
+   <speaker>KURTZ'S WIFE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you know him very well?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You get to know each other pretty well out there.</utterance>
+   <speaker>KURTZ'S WIFE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you admired him?</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was a remarkable man. It was impossible not to --</utterance>
+   <speaker>KURTZ'S WIFE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Love him... Yes, it is true. That's the hard part for me... I knew him better than anyone ... I knew him best.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You knew him best.</utterance>
+   <speaker>KURTZ'S WIFE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were his friend... You must have been, if he had given you this...  If he sent you to his home. He was the best this country had -- he was --</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I know...</utterance>
+   <speaker>KURTZ'S WIFE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll never get over it -- But I'll always remember him...</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Both of us...</utterance>
+   <speaker>KURTZ'S WIFE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Men looked up to him...  He died as he lived...</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His death was -- yes, he died as he lived.</utterance>
+   <speaker>KURTZ'S WIFE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Were you with him, when...</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>Pause.</context>
+      <utterance>Yes I was... He said his last words to me.</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="3">
+   <speaker>KURTZ'S WIFE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me what he said.</utterance>
+   <speaker>KURTZ</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>The horror ! The horror !</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context>He sits there looking at her.</context>
+      <utterance>He spoke of you, ma'am.</utterance>
+</dialogue>
+
+
+</movie>

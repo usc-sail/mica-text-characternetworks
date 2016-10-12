@@ -1,0 +1,4452 @@
+<movie id="514" title="St Elmo s Fire">
+
+<dialogue id="1" n_utterances="5">
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>Everyone ignores her as Alec hands his card to the Cops.</context>
+      <utterance>They're dead, aren't they?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Leslie whispers to Jules, while Alec and the Cops talk.</context>
+      <utterance>Officers, I'm Alec Newberry with Congressman Langston's office.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think they're okay.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank God.</utterance>
+   <speaker>JULES</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>Are you aware there's a three- hundred-pound man walking around naked?</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="11">
+   <speaker>HER FRIENDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wendy. Oh, my God. Are you all right???</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm fine. It's the car my father gave me for graduation that's totalled.</utterance>
+   <speaker>ALEC</speaker>
+      <mode>TO KEVIN</mode>
+      <context>Kevin always does what Alec tells him to. Meanwhile, Wendy pulls out her Visa card and speaks to the nurse.</context>
+      <utterance>Find Billy. See if you can sober him up.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much do I owe you?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He almost killed you. Destroyed your car, and you're paying...?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>As Leslie comforts her, Wendy is looking over Jules' Date who hovers in the distance.</context>
+      <utterance>Jules, please.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>The naked man wanders past them.</context>
+      <utterance>Is that your date?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>As usual, Jules has managed to make Wendy laugh, Just as the Cops approach her.</context>
+      <utterance>No, that's my date!</utterance>
+   <speaker>COP # 1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You pressing charges?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'I'm Mr. Hicks' legal counsel and he's not required to take any tests.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="6">
+   <speaker>COP 1</speaker>
+      <mode></mode>
+      <context>The Cops start toward the electric doors as Kirbo and Alec follow. Leslie helps Wendy with the bill. CAMERA FINDS Jules whispering dramatically to her Date.</context>
+      <utterance>You're a little late, Counselor. He's in the van giving blood right now.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll have to be with her all night. They don't know if she's going to make it.</utterance>
+   <speaker>DATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She looks fine.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>Jules joins Leslie and Wendy.</context>
+      <utterance>Shock. She could black out at any second... I'll call you...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's cute.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too young... and don't you both start on your father complex theory.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="2">
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>They reach the back of the mobile van, where we see BILLY HICKS, a handsome daredevil, playing his saxophone, wearing handcuffs, for two good-looking nurses and Kevin, who is trying to give him black coffee.</context>
+      <utterance>We're dealing with a first offender here, and since Ms. Beamish doesn't want to press charges, whaddya say we just let this one slide, Officers?</utterance>
+   <speaker>COP $1</speaker>
+      <mode></mode>
+      <context>Alec looks to Kevin for information about Billy's condition.</context>
+      <utterance>Okay, you're under arrest.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="9">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't strike a match near his blood.</utterance>
+   <speaker>BILLY</speaker>
+      <mode>TO COPS</mode>
+      <context></context>
+      <utterance>Hey, watch my sax...</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Billy -- four months after graduation and you're still acting like every night's a fraternity party. Aren't you even concerned about Wendy?</utterance>
+   <speaker>BILLY</speaker>
+      <mode>TRUE PANIC</mode>
+      <context></context>
+      <utterance>Wendy? Jesus, how bad is it?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Billy smiles with relief as the Cops lead him toward their car.</context>
+      <utterance>Severe. She might have finally exceeded the limit on her father's Visa.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you both get serious. He's being arrested for drunk driving.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Wendy, Leslie and Jules come from the hospital, just in time to see Billy being put into the cop car. Wendy rushes to Billy and they embrace.</context>
+      <utterance>Drunk maybe. But I don't know if you could call that driving.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry, babe... sorry.</utterance>
+   <speaker>WEHDY</speaker>
+      <mode></mode>
+      <context>They all move toward Alec's car except Kirbo, who sud- denly notices'someone. He becomes mesmerized as he falls away from the group and starts back for the hospital. ST. ELMO'S FIRE - Rev. 10/1/84 5.</context>
+      <utterance>We'll be right behind you!</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="12">
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>She hesitates, somewhat puzzled.</context>
+      <utterance>Dale?... Dale Biberman?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't remember me.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I do, but I'm trying...</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kirby Kreager. You were a senior when I started Georgetown.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>How are you?</context>
+      <utterance>Kirby... It's been four years.</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I graduated!</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I always knew you would.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I'm a lawyer.  I mean I'm a waiter, studying to be a lawyer... and you became a doctor... Just like you said you would.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Almost. I'm finishing my clinical.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>There is a big COMMOTION at the other and of the hail.</context>
+      <utterance>Dale Biberman. I can't believe it. Do you still like Woody Allen movies?</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>She races down the hall, joining paramedics wheeling in a large black man on a gurney. His hysterical wife runs screaming behind them.</context>
+      <utterance>I've got to go. Nice seeing you.</utterance>
+   <speaker>DALE</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 6.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="3">
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Alec turns the corner as Billy continues.</context>
+      <utterance>Alec, could you kinds burn a little rubber?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks for bailing me out.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Again.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="13">
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When are you going to get a new car? One that truly expresses your lifestyle as the perfect couple.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not everybody got recruited out of school into international banking, 'moneybags.'</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Besides... My mom and dad gave us this car. I think I was conceived in the back seat.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's still sticky.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, God. Wait 'til my father hears the car is totalled.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Everyone screams in disbelief as they go into St. Elmo's. Alec, Leslie, Jules, Wendy, Kevin holds the door open, but no one thanks him.</context>
+      <utterance>I'm gonna get you a new car, Wendy.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>A young, burned-out UNDERGRAD (CLAYTON) follows.</context>
+      <utterance>You're welcome. You're welcome.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not welcome, Clayton. How's school?</utterance>
+   <speaker>CLAYTON</speaker>
+      <mode></mode>
+      <context>How's life after school?</context>
+      <utterance>Baroque. Thank you very much.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like getting slam-dunked against a brick wall, thank you very much.</utterance>
+   <speaker>CLAYTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>College is the last womb. Got a cigarette for a lowly undergrad?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you tell me the meaning of life?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 8.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="9">
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wally! You let undergrad punks at our tables???</utterance>
+   <speaker>WALLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Relax, Alec... they've only been there ten minutes.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Alec, Leslie, Jules, Wendy, Kevin and Billy (still with sax around his neck) take their usual chairs as Kirbo drops off a large pitcher of beer.</context>
+      <utterance>Yeah, well, we've been here for four years.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Kirbo is long gone. Kevin pours.</context>
+      <utterance>Hey, I need a real drink.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kevin and Alec begin bouncing quarters from the edge of a table into their beers -- obviously some ritual.</context>
+      <utterance>Waiters are like cops. Never around when you need one.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will somebody get me a screwdriver?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And a hammer.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what it means to have a suspended license for drunk driving on your record?</utterance>
+   <speaker>ALEC</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="3">
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, Al. It means I won't ever be able to be a cop in D.C... Hey, Wend, you're not angry are you?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm not angry.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never trust a woman who says she isn't angry.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="9">
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>Billy reluctantly leaves as Jules laces into Kevin.</context>
+      <utterance>You better call your wife, Billy.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're the one who's so angry these days. I thought writing for the Washington Post would make you happy.</utterance>
+   <speaker>KEVI N</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Writing obituaries is not writing, Jules. All my characters die in the and. I'd like to write something about the meaning of life for a change.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Alec suddenly spots TOMMY BANCROFT, an older version of Alec, across the room.</context>
+      <utterance>You'll get your chance, Kevin.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Tommy...</utterance>
+   <speaker>ALEC</speaker>
+      <mode>TO LESLIE</mode>
+      <context>They leave the table as Jules turns to Kevin.</context>
+      <utterance>Tommy Bancroft, Senator Hodges' key guy. Come on, I want you to meet him.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The meaning of life, Kevin, is fun, good times and a little H-U-M-O-R. Don't you enjoy anything anymore? Like girls?</utterance>
+   <speaker>KEVI N</speaker>
+      <mode></mode>
+      <context>He gets up and leaves the table, passing Kirbo.</context>
+      <utterance>I enjoy being afraid of Russia. It's a harmless fear. Makes America feel better and Russia gets an inflated sense of national worth from our paranoia... Excuse me, I have to call in my latest epitaphs to the death squad. The presses are waiting.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>Dale Biberman?</context>
+      <utterance>Did you see her at the hospital?</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="4">
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Billy adjusts a framed photo on the wall of him, Alec, Jules, Wendy, Kevin, Leslie and Kirbo in their graduation caps and gowns. He notices a woman's reflection in the glass. He turns to see she is flirting with him from the bar. He smiles back. Kevin arrives and Billy sees a perfect way to get off the phone.</context>
+      <utterance>Well, honey, I kinda had a car accident... What? Stop shouting. I know I don't have any insurance. Aren't you even gonna ask if I'm okay? --</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>He hands the phone to a more than reluctant Kevin and moves toward the YOUNG WOMAN at the bar.</context>
+      <utterance>Here's Kevin, he wants to say hello.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>He joins the Young Woman who is eyeing his sax.</context>
+      <utterance>Hey, Wally... a double screwdriver.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, you believe in premarital sax?</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="4">
+   <speaker>WEND Y</speaker>
+      <mode></mode>
+      <context>He lost his job today.</context>
+      <utterance>Will you both give Billy a break?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The job Alec got for him?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't give him any money, did you?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A little...</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="15">
+   <speaker>‚€ JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you were going to take definite steps to change everything in your life that is not working.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That doesn't leave much left.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>She leaves as Jules looks to Wendy.</context>
+      <utterance>I better break this to Alec gently before he finds out the wrong way and destroys his political career by murdering Billy in front of fifty witnesses.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wendy, this is all too destructive.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Life in the-fat lane.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not fat.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My thighs are fat. And no diet works. The only way to lose weight on your thighs is amputation.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have to amputate Billy the Kid.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know, but I can't.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't get it.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me, either.</utterance>
+   <speaker>1 1 BAR 11</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Billy gets cozier with the Young Woman.</utterance>
+   <speaker>YOUNG WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, what line of work are you in?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>So how 'bout we cut outta here?</context>
+      <utterance>Me? I'm a very important drinker!</utterance>
+   <speaker>BILLY</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 12.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="12">
+   <speaker>€ YOUNG WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came with my girl friend.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Alec appears.</context>
+      <utterance>That's okay, honey. This face seats five.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Billy follows as Leslie alerts Kevin and Kirbo.</context>
+      <utterance>Billy, may I see you, please.</utterance>
+   <speaker>12 INT. MEN'S ROOM 12</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec and Billy enter.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's up, Al?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Billy joins him. Alec grabs him and shoves his head in the toilet.</context>
+      <utterance>May I see you over here, please.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why didn't you tell me you blew another job?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Kevin and Kirbo rush in.</context>
+      <utterance>For some insane reason I thought you'd take it badly.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Alec releases Billy who comes up with his hair wet and gives Alec a major shove.</context>
+      <utterance>Don't drown him, he's a father.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right, you are a father and when are you gonna grow up?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>They all start to laugh. Alec softens.</context>
+      <utterance>Like this was real mature, Al?</utterance>
+   <speaker>BILLY</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 12A.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="5">
+   <speaker>‚€ BILLY</speaker>
+      <mode></mode>
+      <context>Billy looks at himself in the mirror.</context>
+      <utterance>Working for Senator Pomerantz was not for me...</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry, Billy.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>He shakes his head, showering them with toilet water.</context>
+      <utterance>That's all right. You couldn't help yourself. You're an asshole. Besides, the wet look is in.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do they put ice cubes in the urinals?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It tastes better.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="4">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Alec enters in his underwear, brushing his teeth.</context>
+      <utterance>If we could find the money it would be better to get the longer sofa.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>They wrap themselves around each other, kissing.</context>
+      <utterance>Tommy Bancroft said I could start working on weekends for Hodges. No pay at first, but a way toward big dough.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Isn't Hodges a Republican?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 1 4.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="13">
+   <speaker>‚€ 15 ALEC 15</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a senator, and Republican senators' aides get paid a lot more than Democratic congressmen's assistants.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode>KISSING HIM</mode>
+      <context></context>
+      <utterance>What happened to that Newberry political conviction I fell in love with?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want the longer sofa?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- I want you.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going to buy you a red nightgown with satin and lace.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And rubber and leather...</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>He opens her shirt and smothers her with love.</context>
+      <utterance>Yeah, leather...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>She starts for the bathroom.</context>
+      <utterance>Your breath is so sweet... Wait, let me get the babykiller.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on. Let's just do it. We're getting married soon.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not so soon.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's take a chance... Russian roulette!</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>There is a KNOCK at the front door.</context>
+      <utterance>And guess who has to carry the bullet around for nine months.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 15.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="9">
+   <speaker>15 LESLIE 15</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who could that be?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who else could it be... Jules, of course, afraid to stay in her new apartment alone and she's spending the night again.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So this crummy welfare hospital called and remember I told you about my father's second wife. My 'stepmonster.'</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The one who used to lock you in the closet all the time?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She gambled away all the money she got out of my father, is on her I deathbed and she put me down as next of kin.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But what about your father?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Unreachable somewhere in South Africa with his new wife, who it turns out is only three years older than me. And if I don't reach him, guess who's going to end up paying for that old witch's funeral. Is there some insane irony to this or what?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure your father will take care of everything.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>In the background, Alec has brought in their mattress and some sheets and a pillow.</context>
+      <utterance>Sure, just like he takes care of everything else, including not showing up for my graduation.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="2">
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Alec. You're still my Indiana Jones. Always coming to my rescue.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Leslie kisses Jules and goes into the bedroom with Alec. Jules takes another belt of vodka.</context>
+      <utterance>I just know better than to try and break the umbilical cord between two old roommates. Good night, Jules.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="4">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Quick, what's the meaning of life?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>Kevin looks puzzled as Kirbo hangs up his bike.</context>
+      <utterance>Dale Biberman.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The girl I fell in love with when we were freshmen. Remember, I met her at that big fountain on main campus? The one that says 'Knowledge, Art, Religion, Life'... she was sitting on the 'Life' side and she smiled at me.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kirbo searches madly through records strewn on the floor.</context>
+      <utterance>You took her to one movie! That's not love, it's infatuation!</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="9">
+   <speaker>€ KI RBO</speaker>
+      <mode></mode>
+      <context>He yanks JANIS JOPLIN OFF abruptly.</context>
+      <utterance>Kevin, there are several quintessential moments in a man's life... losing his virginity...</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Getting married... becoming a father.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Killing his roommate for removing Janis Joplin for the soundtrack from Manhattan???</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>"RHAPSODY IN BLUE" fills the room. Kevin begins gathering up his endless pieces of paper, notes, etc.</context>
+      <utterance>And having the right girl smile at you. She has the whitest teeth I've ever seen.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you think I'm going to live through another year of finding poorly written, unmailed love scratchings around this apartment.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I found her again. It's fate. It's true love. I have her hospital schedule!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Love is just an illusion created by lawyer-types like yourself to perpetuate another illusion called marriage to create the reality of divorce and the illusory need for divorce lawyers. Did you know there are more people in law school right now than there are lawyers on the planet?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're just bitter, 'cause you haven't had sex for a long time.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Who won?</context>
+      <utterance>No wonder. The sexual revolution?</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="5">
+   <speaker>KEVIN</speaker>
+      <mode>COHT'D</mode>
+      <context>Finally having gathered up all his notes, Kevin moves toward the bedroom.</context>
+      <utterance>Nobody... It used to be that sex was the only free thing in the world. No longer. Palimony, alimony. All financial. Love's an illusion.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the only illusion that counts.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Says who?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyone who's ever been in love.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>He moves into the bedroom, closing the door on Kirbo.</context>
+      <utterance>Love stinks.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="6">
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>As two college guys hit on Jules she flips her red cape.</context>
+      <utterance>You should have bought the red dress. Red drives men mad.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See...</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have a mad man in my life already.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have to put some kind of distance between you and Billy.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Kevin and Kirbo join them.</context>
+      <utterance>Jules is right.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 18A.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="6">
+   <speaker>WEHDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's easy for both of you. Men are just a game for you Jules.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Trivial pursuit.</utterance>
+   <speaker>WEHDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And of course you and Alec are...</utterance>
+   <speaker>LESLIE/JULES/WEHDY/KEVIN/KIRBO</speaker>
+      <mode></mode>
+      <context>They approach Jules' Jeep.</context>
+      <utterance>The perfect couple!!!</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks for the pressure, guys...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode>TO WENDY</mode>
+      <context></context>
+      <utterance>.. Shouldn't we be finding you an apartment?</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="10">
+   <speaker>WEND Y</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How'd you do?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Everyone applauds.</context>
+      <utterance>I'm an official pollster, thanks to Alec.</utterance>
+   <speaker>ALEC</speaker>
+      <mode>KISSING LESLIE</mode>
+      <context>Billy is quickly pulling off his tie, unbuttoning his shirt and messing up his hair.</context>
+      <utterance>I had to promise our first born. 'Keep your nose clean and you could move up fast, Billy.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a god, Alec.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>Everyone cheers except Alec.</context>
+      <utterance>How 'bout bloody Marys on me at St. Elmo's?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I gotta get back to work.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Since when do you work on Saturdays?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Since he started volunteer moonlighting for Senator Hodges.</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is the three-year president of Georgetown's Young Democrats doing working for a Republican?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>As most of the others boo and hiss playfully, CAMERA FINDS Billy talking to Wendy. Reaching in his pocket, he gives her a toy car.</context>
+      <utterance>Moving up, Kirbo.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="4">
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Let's celebrate tonight.</context>
+      <utterance>I told you I'd get you a new car. I'm goin' ultimate on this gig, Wend. Gonna pay you back for everything...</utterance>
+   <speaker>WENDY MI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about Felicia and the baby?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Could he mean sex? Love? What she's been waiting for?</context>
+      <utterance>Hey, come on, it's Saturday night. Let's party out. Let's go ultimate.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. Why can't I say no to you?</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="7">
+   <speaker>JULES</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>You haven't been here since you helped me move in...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode>O.S.</mode>
+      <context>She opens the elaborate locks and they enter.</context>
+      <utterance>Oh, did you move in, too? I only. remember 800 pair of shoes.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very subtle and very pink. Must have cost some subtle bucks.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>She disappears into the bedroom.</context>
+      <utterance>Why do you think God invented credit for fabulous people like me? Fix us a drink.</utterance>
+   <speaker>JULES</speaker>
+      <mode>0.5.</mode>
+      <context></context>
+      <utterance>I knew you'd like it. You have such sensitivity... Fix me a vodka rocks...</utterance>
+   <speaker>JULES</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 24.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="9">
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why, Dale? How nice to see you again.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>Nothing serious, I hope.</context>
+      <utterance>Kirby, what brings you back here?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, no... just tying up some legal loose ends for my friends...</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me... I'm late...</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, funny running into you again. I noticed there's going to be a Woody Allen festival and I thought maybe we...</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>She is moving away.</context>
+      <utterance>I don't get to the movies much anymore... I've got to go.</utterance>
+   <speaker>K I RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, lunch. How about lunch?</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>She is moving quicker.</context>
+      <utterance>Sure. That would be nice sometime.</utterance>
+   <speaker>DALE</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 25.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="19">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Open some wine.</context>
+      <utterance>A whole community within itself. Right near Lockheed.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks like it could be put together with Leggo blocks. You design this?</utterance>
+   <speaker>.LESLIE</speaker>
+      <mode></mode>
+      <context>Kevin is fighting with a ridiculous wine opener.</context>
+      <utterance>I did all the mechanicals for one of our senior architects and I think he's going to promote me to the design staff.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Naturally Leslie opens it in a flash.</context>
+      <utterance>Maybe you could design a corkscrew that actually works. Everything in this apartment comes from Scandinavia. They don't even have wine in Scandinavia.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you think my attachment to Alec is unnatural?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I think mine is. We've only just started to live together and he's already pushing for 'the wedding.'</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, since you fell in love with a Democrat and now he's a Republican, I think all bets are off.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 26.</utterance>
+   <speaker>32 CONTINUED: 32</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>€ Leslie burns herself and shouts.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do some women do this every night of their lives and not go insane?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They are insane. Wives, husbands, children, love, marriage, relationship. It's all insane.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what I'm afraid of. Did I tell you that my perfect sister and her perfect husband are getting a perfect divorce-?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>He finds the butter and puts some on her hand.</context>
+      <utterance>I have the perfect cure. Stay away from love.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>You like hot peppers?</context>
+      <utterance>You must have been in love, once.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doesn't Alec hate them?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Insurrection... Now, come on, Kevin, you must have been in love with somebody, sometime...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Once, in junior high. I played guitar in a group and fellin love with our singer who did 'We've Only Just Begun' as sweet as Karen Carpenter. I got high on cheap champagne and pledged my love. Next day she ran off with the bass player named Rocky and I traded my guitar in for a battered Underwood typewriter.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On which you will type your way to being one of the most important writers in America.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/11/84 27.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="12">
+   <speaker>‚€</speaker>
+      <mode></mode>
+      <context>Taking out shreds of papers and napkins.</context>
+      <utterance>On which I continue to turn out obituaries and very little else...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't seem to organize any of my thoughts into anything of any substance.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you need to stop thinking so much and fall in love again.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>The door opens and Alec arrives home.</context>
+      <utterance>Love stinks.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>He kisses Leslie.</context>
+      <utterance>Hi, guys.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Alec hands Leslie a red box. She opens it excitedly and finds a black lace nightgown. She screams as Alec heads for the kitchen.</context>
+      <utterance>Rough day with the right wing, dear?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Leslie makes naughty eyes at Kevin and disappears into the bedroom.</context>
+      <utterance>Try it on...</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leslie has to marry me, soon.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>What's your 'marriage' hurry?</context>
+      <utterance>Why, you pregnant? Kidding.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When you have a serious relationship, Kev, you'll find out the problem with living together: it's too easy.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe for you and Leslie. You have the perfect relationship.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/11/84 28. s</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="10">
+   <speaker>I ALEC</speaker>
+      <mode></mode>
+      <context>Alec takes a bite of dinner and cringes.</context>
+      <utterance>I mean, it's too easy to get out of. You either build to something bigger -- like marriage -- or one day you could make a mistake and the person you were living with is gone.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going to kill myself.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're only peppers, Alec.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>He lies down on the floor.</context>
+      <utterance>I can't believe what I just did. I innocently go to buy the nightgown and this amazing blonde salesgirl starts coming on to me... we wind up doing it standing up in front of a three-way mirror in the dressing room.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If Leslie would just marry me, I know I wouldn't do stuff like that -- it would be a legal violation.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As opposed to tonight's standing violation. You think marriage is going to make you faithful?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The idea of two people spending their lives together was invented by people who were lucky to make it to thirty without being eaten by dinosaurs. Marriage is obsolete.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Leslie screams from the bedroom.</context>
+      <utterance>Dinosaurs are obsolete. Marriage is still around.</utterance>
+   <speaker>ALEC</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/11/84 28A.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="9">
+   <speaker>BLACK HOOKER</speaker>
+      <mode></mode>
+      <context>Kevin passes quietly and she ignores him.</context>
+      <utterance>You want a date...? Hi... you want a date...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you ever ask me if I want a date?</utterance>
+   <speaker>BLACK HOOKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Cause I thought you were gay.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why would you think I'm gay?</utterance>
+   <speaker>BLACK HOOKER</speaker>
+      <mode></mode>
+      <context>And you always look real strange.</context>
+      <utterance>'Cause I never see you with a girl.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>He takes a swig from a bottle in a paper bag.</context>
+      <utterance>Well, just for your information. I happen to be in love with someone but they don't know it. I guess you wouldn't understand loving someone from afar.</utterance>
+   <speaker>BLACK HOOKER</speaker>
+      <mode></mode>
+      <context>She takes the bottle and takes a swig.</context>
+      <utterance>Delaware's about as far as I've ever gone. Is this person a he or a she?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a secret. But I guess you wouldn't understand about that, either.</utterance>
+   <speaker>BLACK HOOKER</speaker>
+      <mode></mode>
+      <context>He takes his bottle back and goes home.</context>
+      <utterance>Oh honey, lots of people come to me for love and it's a secret.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="11">
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See our real purpose, Miss Chambers, or do you prefer Ms... is to get you off welfare and train you in a skilled profession. Now, do you have any interest in the janitorial field?</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jus' give me my check.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are educational...</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context>Wendy hands her the check.</context>
+      <utterance>Jus' give me my check.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context>She leaves as Billy arrives in time to check her out.</context>
+      <utterance>You get some hot clothes, get yourself a man... you won't be worryin' about all this shit.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welfare recipients are getting better-looking these days.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>Billy sits on her desk.</context>
+      <utterance>Ever feel like you're not accomplishing anything?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think I'm in touch with the feeling. Let's go get a drink.</utterance>
+   <speaker>WEND Y</speaker>
+      <mode></mode>
+      <context>Billy gives her a look she knows all too well.</context>
+      <utterance>Billy, why aren't you at work?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Buddy, the only extra money I have is my savings for the most important date of my life.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 31.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="10">
+   <speaker>E</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you in love?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm ripped between rapture and s torture. s</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm all tapped out from the accident but I could probably get some from my father...</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No more money from you, Wend. But maybe you could help me find another job.</utterance>
+   <speaker>WEND-Y</speaker>
+      <mode></mode>
+      <context>They both smile.</context>
+      <utterance>Do you have any interest in the janitorial field?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>Billy...</context>
+      <utterance>You should be playing your music.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Alec, followed by Kevin, storms into the bar and attacks Billy.</context>
+      <utterance>I'm a family man and the rent is due.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You dumb shit. You have to start making passes at the women you're supposed to be polling?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>He smiles as Alec grabs him.</context>
+      <utterance>Actually, they were the ones who suggested another type of polin'...</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>You got a wife and kid.</context>
+      <utterance>You're twenty-three years old.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="2">
+   <speaker>A</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you're a great American.- Are you new at this? Or just an asshole?</utterance>
+   <speaker>A</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 32.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="5">
+   <speaker>‚€ ALEC</speaker>
+      <mode></mode>
+      <context>Billy starts to leave. Alec follows.</context>
+      <utterance>You're not the fraternity star anymore. No more Billy the Kid.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't bargain for you turning out this way.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I didn't bargain for you turning into a pompous politico. Suckin' up to Hodges. That's it, Al, isn't it?... You've become a Republican!!!</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you've become a drunk.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Born, bred and diseased in the s</context>
+      <utterance>Oh, no, not just 'a' drunk, Big Al. One of the great drunks!</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="2">
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Billy leaves. Wendy looks at Alec and starts to laugh.</context>
+      <utterance>Oh, I forgot, Kev. You don't do anything Alec doesn't tell you to do. Well, that's-okay, 'cause just remember one thing. You can pick your friends and you can pick your nose, but you can't pick your friend's nose.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>She can't and runs after Billy.</context>
+      <utterance>Stay right here, Wendy.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="4">
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>ST. ELMO'S FIRE - Rev. 10/1/84 33. 37 INT. VAN BUREN HOTEL - BATHROOM - NIGHT 37 s € Jules, wearing a sexy dress, whispers into the phone.</context>
+      <utterance>Alec Newberry.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec, it's Jules. I'm at the Van Buren... X INTERCUT their phone conversation.</utterance>
+   <speaker>ALEC</speaker>
+      <mode>V.0.</mode>
+      <context></context>
+      <utterance>What time is it?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>Please get me out of here... Suite</context>
+      <utterance>Please... I'm with these Arabs... and they've been forcing me to do coke all night... And I only understand a little Arabic, but I'm sure I heard the words for 'gang bang' and 'white slavery'...</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="2">
+   <speaker>ARAB VOICE</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>After a beat, the door is opened by a sedate Arab businessman. Alec pushes past him. ST. ELMO'S FIRE - Rev.. 10/1/84 34.</context>
+      <utterance>Open up.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="8">
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>He quickly grabs her and they leave the suite. The Arabs hardly notice.</context>
+      <utterance>Alec, what are you doing here?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, nobody make a move. 42 INT. VAX BUREN LOBBY - RIGHT 42 s Jules and Alec walk from the elevators.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a real pal. My Indiana Jones. I won't forget how you came to my rescue again.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They hardly impressed me as the gang bang type, Jules. Now much coke have you done?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shovels full. They've got barrels.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're just paranoid from the coke. You know sometimes I think you just make up these dramas to test me or something.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's very interesting, let's stay up all night like the old days and discuss it.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have to be at work in a few hours.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="3">
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'I'm a financial genius, haven't you heard?</utterance>
+   <speaker>JULES</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 35.</utterance>
+   <speaker>42 CONTINUED: 42</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She goes toward the public phone.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="4">
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you calling?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A systems analyst I met... very hot Jewish guy.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Come on, I'll take you home.</context>
+      <utterance>What are you, the new Middle East Ambassador? It's two-thirty.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>As Jules connects with her number, Alec starts to head out of the hotel in disgust. A beautiful older woman is getting her key from the desk and crosses in front of him toward the elevators. She and Alec check each other out. He smiles. She smiles. As her elevator, arrives, she changes her mind and, giving Alec an inviting smile, steps into the dimly-lit bar. Alec is torn between morality and temptation. Temptation wins as he follows the sexy lady.</context>
+      <utterance>And waste all this good coke!</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="6">
+   <speaker>MAITRE D'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, sir. We do not open until eleven.</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's all right. I'll wait.</utterance>
+   <speaker>MAITRE D'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you have a reservation?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Kreager. One o'clock. I want this table.</utterance>
+   <speaker>MAITRE D'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At that time, I will find a lovely table for you and your guest. But this is a table for four.</utterance>
+   <speaker>MAITRE D'</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 36.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="3">
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll pay double.</utterance>
+   <speaker>MAITRE D'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry.</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want this table... and I'm waiting right here.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="5">
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could order a nice Napa Valley Chardonney, unless you want to impress her with an import.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Money's no object.</utterance>
+   <speaker>JULES</speaker>
+      <mode>V.0.</mode>
+      <context></context>
+      <utterance>Montrechart or Mersalt then and don't forget to smell the cork.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay and how do you say escargot?</utterance>
+   <speaker>JULES</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Escargot. I'd stay away from them if I were you... heavy garlic.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="4">
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's payday, thank God!</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jules, you're advanced on your salary two months. I have no check for you.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode>V.0.</mode>
+      <context></context>
+      <utterance>Jules, I owe you.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 37.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="4">
+   <speaker>‚€ JULES</speaker>
+      <mode></mode>
+      <context>She hangs up and follows the Woman.</context>
+      <utterance>That's good. 'Cause I owe everyone else.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got to pay for my stepmonster's funeral. Then I'll catch up.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid you'll have to see Forrester Davidson.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The president of the bank?</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="8">
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could you please clean up these crumbs, waiter?</utterance>
+   <speaker>MAITRE D'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am not the waiter. I am the captain.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>Dale Biberman rushes into the restaurant in all her splendor. Kirbo is extremely excited.</context>
+      <utterance>Aye, aye, sir.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry I'm late. Have you been waiting long?</utterance>
+   <speaker>KIRB0</speaker>
+      <mode></mode>
+      <context>Kirbo beats out the Maitre D' and pulls out Dale's chair;.</context>
+      <utterance>Just got here.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The food is great here.</utterance>
+   <speaker>K I RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be having the alfalfa sprouts and a plate of mashed yeast.</utterance>
+   <speaker>K I RBO</speaker>
+      <mode>CONTIRUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 38.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="12">
+   <speaker>‚€ DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you a vegetarian?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ho... that's from Annie Hall, the movie we saw together... don't you remember?</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's funny... I thought we went to see a Mel Brooks movie.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ho... it was Annie Hall.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you sure? 'Cause I don't like _ Woody Allen movies very much.</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context>The Maitre D' comes over to the table.</context>
+      <utterance>Oh, me, too. I hate Woody Allen movies.</utterance>
+   <speaker>MAITRE D'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you be ordering any wine?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course... We'll have the...</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>Kirbo is shot down as the Maitre D' hands Dale a menu.</context>
+      <utterance>I can't... I'm on call.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So... how's your, uh... are you seeing anyone?</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>The Maitre D' returns with the telephone.</context>
+      <utterance>To tell you the truth, my work's so time-consuming, I don't get the chance to date, but when I do -- well, medicine's such an incestuous profession, the only people I seem to ever go out with are doctors.</utterance>
+   <speaker>MAITRE D'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Biberman? Telephone.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="12">
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>r See, they just won't let me alone.</utterance>
+   <speaker>DALE</speaker>
+      <mode>INTO PHONE</mode>
+      <context></context>
+      <utterance>Hello... Yes, yes, doctor, right away.</utterance>
+   <speaker>DALE</speaker>
+      <mode>HANGS UP</mode>
+      <context></context>
+      <utterance>I've got to get back to the hospital. I'm so sorry. Maybe we can do this again sometime.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>She is gone as the Maitre D' walks over to him with his pad and speaks with exquisite, controlled sarcasm.</context>
+      <utterance>When?</utterance>
+   <speaker>MAITRE D'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you had enough time to look at the menu?</utterance>
+   <speaker>48 INT. LAUNDROMAT - DAY 48</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin and Kirbo fold their laundry.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You cannot go to med school just to impress this girl with whom you have a fleeting infatuation.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>Laundry folded, they head out of the laundromat passing the drop-off "Fluff and Fold" facilities.</context>
+      <utterance>This is not just an infatuation and she's not just a girl -- she's the only evidence of God I can find on this planet -- with the exception of the mystical force which removes one of my socks from the dryer every time I do laundry.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Fluff and Fold.' I'm telling you, Kev, when I make it, that's where I take my laundry.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dreamer.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I understand 'Fold,' but what is 'Fluff'?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 40.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="3">
+   <speaker>MR. BEAMISH</speaker>
+      <mode>FATHER</mode>
+      <context></context>
+      <utterance>We've got twenty-four 'Card-A- Terias' now. What line are you in?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Munitions.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>Wendy leaves them as she enters:</context>
+      <utterance>He's kidding, Dad. He's a musician and a very fine one.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="6">
+   <speaker>RACHEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please do not bring up moving out tonight. Daddy'll have a heart attack in front of your boyfriend.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's not my boyfriend.</utterance>
+   <speaker>LIBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a nice young guy working for us now. Howie Krantz.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Libby, please.</utterance>
+   <speaker>WENDY</speaker>
+      <mode>KISSING MOTHER</mode>
+      <context></context>
+      <utterance>You're looking beautiful, Mom.</utterance>
+   <speaker>MRS. BEAMISH</speaker>
+      <mode>STAGE WHISPER</mode>
+      <context></context>
+      <utterance>I'm fat. I'm thin. I'm fat. I'm thin. I'm blonde. I'm brunette.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="2">
+   <speaker>WEKDY</speaker>
+      <mode></mode>
+      <context>52 INT. BEAMISH DIKING ROOM - NIGHT (CONTINUOUS ACTION) 52 s Billy fills his glass while Wendy's niece and NEPHEWS watch. Wendy joins him.</context>
+      <utterance>Look at it this way. You always wanted to look like Elizabeth Taylor... and now you do.</utterance>
+   <speaker>WEKDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are certain words my mother finds too horrible to utter so she whispers them... you'll get used to it...</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="13">
+   <speaker>MRS. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hear about Betty Rothberg?</utterance>
+   <speaker>MRS. BEAMISH</speaker>
+      <mode>STAGE WHISPER</mode>
+      <context>One of Wendy's BROTHERS-IN-LAW speaks to Billy.</context>
+      <utterance>Cancer.</utterance>
+   <speaker>BROTHER-IN-LAW #1</speaker>
+      <mode></mode>
+      <context>Just bought a BMW.</context>
+      <utterance>The day I married Rachel, I got three 'Card-A-Teria' franchises.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>to other Brother-</utterance>
+   <speaker>IN-LAW)</speaker>
+      <mode> IN-LAW)</mode>
+      <context></context>
+      <utterance>You in the card game, too?</utterance>
+   <speaker>BROTHER-IN-LAW #2</speaker>
+      <mode></mode>
+      <context>Mrs. Beamish addresses Billy.</context>
+      <utterance>Six franchises! We have two kids.</utterance>
+   <speaker>MRS. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where did you and Wendy meet again?.</utterance>
+   <speaker>BILLY</speaker>
+      <mode>STAGE WHISPER</mode>
+      <context>ST. ELMO'S FIRE - Rev. 10/1/84 42.</context>
+      <utterance>Prison.</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you'd get married and run a franchise like your sisters, you wouldn't need to borrow money.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have a job with the Department of Human Services, Dad.</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not a job. It's killing time 'til you get married.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>Suddenly, one of Wendy's Nephews comes running into the room excitedly.</context>
+      <utterance>I'm very committed and I think I should get my own apart...</utterance>
+   <speaker>NEPHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Billy's up on the roof.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="9">
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come down from there.</utterance>
+   <speaker>RACHEL'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What, is he crazy?</utterance>
+   <speaker>MRS. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew it the minute he walked in the door...</utterance>
+   <speaker>MRS. BEAMISH</speaker>
+      <mode>STAGE WHISPER</mode>
+      <context>Wendy runs inside.</context>
+      <utterance>drugs!!!</utterance>
+   <speaker>X</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 43. s</utterance>
+   <speaker>56 CONTINUED: 56</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She sits down next to him.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All the years we lived here and no one ever did this.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I used to do this at the Prat house all the time. Climb out from Alec's room onto the roof and play my sax.</utterance>
+   <speaker>RACHEL</speaker>
+      <mode></mode>
+      <context>Wendy and Billy ignore them as the family screams and runs back into the house.</context>
+      <utterance>Oh, my God. Wendy's up there with him!</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="7">
+   <speaker>WENDY 59</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You miss school, don't you?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not a day does by that I don't wish we were all back there. Everything made so much sense then. Our group being so ultimate, so number one.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every group on campus thought they were number one.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But we were. Alec and me running everything. Jules and Leslie the hottest girls... Kevin and...</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me having the fattest thighs.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You being the best of us all... Those all-nighters when we used to talk about our dreams.</utterance>
+   <speaker>BILLY</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 44. s</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="13">
+   <speaker>WENDY 59</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was gonna save humanity.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Wendy looks shocked.</context>
+      <utterance>I was headed for New York with my sax... to become the new Clarence Clemmens. Then I met Felicia and she got pregnant, or said she was.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By the time I found out she had lied, she really was pregnant...</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why didn't you ever tell me that before?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No matter... I probably wouldn't have made it in New York, anyway.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're very talented, Billy.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>School was so damned ultimate. Everyday life... there's no way to go ultimate.</utterance>
+   <speaker>BILLY</speaker>
+      <mode>SMILING</mode>
+      <context>He dangles his feet dangerously off the edge.</context>
+      <utterance>But if it all gets too much Like just too fucking much... You can end your life at any moment.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's ultimate.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you ever just want to die?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>Billy looks over at her. He's amazed.</context>
+      <utterance>Not while I'm still a virgin.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why didn't you ever tell me that before?</utterance>
+   <speaker>BILLY</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 45.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="8">
+   <speaker>61 INT. BEAMISH DEN 61</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>where Billy is drinking heavily at the bar.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Wendy takes a big gulp. They are both awkward and ap- prehensive. She turns out a lamp. So does he, but knocks it over.</context>
+      <utterance>Want some?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>She waits, and when she realizes no one has heard the crash, she sits down on the small loveseat. Billy joins her and going to kiss her, knocks her glasses askew.</context>
+      <utterance>Sssssh.</utterance>
+   <speaker>WENDY E BILLY</speaker>
+      <mode></mode>
+      <context>He goes to kiss her again and she responds. He pulls up her skirt and starts to stroke her legs.</context>
+      <utterance>Sorry...</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell is that...?</utterance>
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Her long-line panty girdle.</utterance>
+   <speaker>BILLY</speaker>
+      <mode>O.S.</mode>
+      <context>He laughs as Wendy is destroyed with mortification. She gets up.</context>
+      <utterance>What's that, your scuba suit...?</utterance>
+   <speaker>BILLY</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 46.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="4">
+   <speaker>W</speaker>
+      <mode></mode>
+      <context>Wendy is destroyed as she opens the door.</context>
+      <utterance>Hey, come on, Wend. You're allowed to laugh when you're screwing.</utterance>
+   <speaker>WEND Y</speaker>
+      <mode></mode>
+      <context>She pulls out the money her father gave her and places it on a nearby table.</context>
+      <utterance>I don't think we should see each other, anymore.</utterance>
+   <speaker>WEHDY</speaker>
+      <mode></mode>
+      <context>She starts up the stairs. Billy comes to the doorway.</context>
+      <utterance>There's your rent money. Just take it and go away.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>She is up the stairs and out of sight. Billy feels terrible. He eyes the money on the table and decides not to take it. As he opens the front door, white light from the moon glares INTO the CAMERA, as Billy moves into the light, it becomes whiter, more incandescent -- he becomes a ghostlike shape that eventually disappears and the SCREEN becomes SHIMMERING WHITE as we --</context>
+      <utterance>Wend... I'm sorry...</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="8">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But don't you need science credits to get into mad school?</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have most of the credits from when I was going through my 'major-of-the-week' phase. All I need is Organic Chemistry which I just enrolled in for January.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This must be some woman to turn 7 you into a doctor, Kirbo.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>He is gone as Jules and Leslie wave to Billy and start toward the ladies' room.</context>
+      <utterance>Hey, I've been an amateur gynecologist for years.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, I went to see my boss and I thought he'd say something presidential like, 'How can I be in banking when I can't even balance my own checkbook.' But instead, he took me to dinner -- several times.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was wondering why you haven't been sleeping over. Jules, I don't think you should start bopping your boss.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too late, Leslie. You should see him -- sort of a cross between John Forsythe and Richard Gere.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An old man who doesn't wear underwear.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="11">
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you have an extra key to your apartment I could use tomorrow?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What for?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>She's been calling me at work.</context>
+      <utterance>Remember the lingerie salesgirl?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec, you're going to have to learn to say 'no.'</utterance>
+   <speaker>AJ.EC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need a reason to say no. Until Leslie agrees to marry me, I've got to grab some of the gusto.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Wendy arrives, nervously, with HOWIE KRANTZ, a plump, cheerful guy, uncomfortable in his preppy clothes.</context>
+      <utterance>You've seen too many beer commercials.</utterance>
+   <speaker>WEND Y</speaker>
+      <mode></mode>
+      <context>As Alec and Kevin welcome Howie, CAMERA STAYS ON Wendy, who is filled with mixed emotion watching Billy play. As she sits down slowly, Kevin'speaks to her:</context>
+      <utterance>Hi... this is Howie Krantz.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thought you weren't coming here anymore.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>Kevin and she smile as he puts his arm around her. Alec and Howie are talking business.</context>
+      <utterance>Oh, we were just passing by.</utterance>
+   <speaker>HOWIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Greeting cards. I work for one of Wendy's brother-in-laws.</utterance>
+   <speaker>HOWIE</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO`S FIRE - Rev. 10/1/84 49.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="9">
+   <speaker>‚€</speaker>
+      <mode></mode>
+      <context>Kevin is watching Alec kiss Leslie, when suddenly they are joined by Jules' neighbor, ROH.</context>
+      <utterance>Over here!</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everybody... this is my friend and decorator, Ron Dellassandro!!!</utterance>
+   <speaker>JULES</speaker>
+      <mode>TO KEVIN</mode>
+      <context>This is not Kevin's night. As Ron sits next to him, Alec's jovial mood suddenly changes.</context>
+      <utterance>You remember Ron.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>All their eyes move across the room, where a very sexy young WOMAN has entered with a noisy blue-collar type.</context>
+      <utterance>Oh, shit.</utterance>
+   <speaker>HOWIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's wrong?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's Felicia. Billy's wife.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>Kirbo seats them at a small reserved table. Alec, Leslie, Jules, Wendy, Kevin and Howie all turn their attention immediately to Billy, who is playing his heart out -- until he sees FELICIA. Felicia and blue-collar get chummier. Billy stops abruptly and jumps from the platform. Alec is up in a flash and headed after him. Billy arrives at their table.</context>
+      <utterance>But who is she with?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hands off my wife.</utterance>
+   <speaker>FELICIA</speaker>
+      <mode></mode>
+      <context>Alec arrives.</context>
+      <utterance>Oh, you finally remembered. Where were you this past week?</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="9">
+   <speaker>IS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Billy...</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Blue-collar just smiles. Billy throws himself on top of him, slugging. Felicia screams. Alec tries to stop them. St. Elmo's watches as Billy and blue-collar beat the shit out of each other. Blood flows. Wally, the owner, arrives with a baseball bat.</context>
+      <utterance>I said, take your goddamn hands off my wife.</utterance>
+   <speaker>WALLY</speaker>
+      <mode></mode>
+      <context>Alec, Kevin and Kirbo get Billy moving toward the door.</context>
+      <utterance>Get him outta here.</utterance>
+   <speaker>FELICIA</speaker>
+      <mode></mode>
+      <context>Felicia is hurling insults at Billy as she tends to blue- collar. Alec and the others drag Billy past Leslie and Jules, who look to Ron, who has been hiding behind them with a hand in front of his face.</context>
+      <utterance>Yeah, get outta here... you no- good shit.</utterance>
+   <speaker>ROM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just had my nose done.</utterance>
+   <speaker>WALLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're fired, Billy.</utterance>
+   <speaker>WALLY</speaker>
+      <mode>TO BAND</mode>
+      <context>Wendy is dying, as she watches them take Billy out.</context>
+      <utterance>You, too. Out, all of you.</utterance>
+   <speaker>WEHDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's bleeding.</utterance>
+   <speaker>FELICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get outta here, Billy. Get outta my life!!!</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="4">
+   <speaker>I BILLY</speaker>
+      <mode></mode>
+      <context>He pushes his friends away as he lunges into the street to make a grand gesture of marching away. Suddenly blue- collar comes charging out of the doorway and kicks Billy in the back. Billy goes down as Felicia jumps on him.</context>
+      <utterance>I shoulda had a vasectomy at birth. You ever have boys, do 'em a favor and get 'em neutered at birth. Knock up some slut and you're the one who's really fucked. Fucked for life. I hate that bitch!!!</utterance>
+   <speaker>FELICIA</speaker>
+      <mode></mode>
+      <context>There is pandemonium as Felicia and Billy pummel each other. Alec grabs Billy, while Kevin and Kirbo restrain R Felicia. As the young couple are being dragged away 2 from each other, suddenly Felicia cries out to,her man.</context>
+      <utterance>Goddamn you, Billy. You shit.</utterance>
+   <speaker>FELICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Billy...</utterance>
+   <speaker>BILLY</speaker>
+      <mode>MELTING</mode>
+      <context>They break away from the friends who are restraining them, and rush to each other in the middle of the street. Only the very young and the very drunk can get away with this. They collide in sexual frenzy.</context>
+      <utterance>Baby...</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="2">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just go ahead with your evening with Howie.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>Leslie glares at Jules, but Wendy starts laughing.</context>
+      <utterance>Yes. No matter what he looks like.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="11">
+   <speaker>FELICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is all my fault.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ho, you married a loser and you better face it.</utterance>
+   <speaker>FELICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't say that.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Haven't you, Big Al?</context>
+      <utterance>Alec's,known it for a long time.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're just running away from x responsibility, and it's catching up with you, just like I said it would.</utterance>
+   <speaker>FELICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll get a job.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't have you working.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen to me, Billy. There's a hot-shot Korean in town. Big money. He needs a gopher. I don't know, for some reason I think you might be perfect for each other.</utterance>
+   <speaker>FELICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec. You've been so good to us.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But if you blow this one, Billy...</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Felicia starts to cry as she holds him.</context>
+      <utterance>I'm not gonna blow this one, Alec I'm gonna do ultimate by everybody...  I almost lost my wife tonight . and my little baby... Jesus...</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="5">
+   <speaker>0</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Still want to get married?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leslie, that is not a marriage in there. That is a mistake.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And who's this Korean hot-shot?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>She leaves with the coffee.</context>
+      <utterance>A business acquaintance.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Speaking of business acquaintances, you still want my extra key?</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="6">
+   <speaker>BLACK HOOKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, secret love, you want a date tonight?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What would you say the meaning of life is?</utterance>
+   <speaker>BLACK HOOKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got fifty bucks? I'll show you the meaning of life.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't pay for sex.</utterance>
+   <speaker>BLACK HOOKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you think if you get some girlfriend, or maybe a wife, you ain't gonna pay? Oh, you'll pay . but you won't ever be sure you're gonna get it. Now with me, you pay, but you get it, and you get it good!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>ST. ELMO'S FIRE - Rev. 10/1/84 55.</context>
+      <utterance>Food for thought. Food for 'thought. He walks toward his apartment.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="2">
+   <speaker>DALE</speaker>
+      <mode>V.0.</mode>
+      <context>Kirbo cannot bring himself to speak.</context>
+      <utterance>Yes...?</utterance>
+   <speaker>DALE</speaker>
+      <mode>V.0.</mode>
+      <context>Kirbo is dying to speak, but can't. He quickly charges out of sight.</context>
+      <utterance>Hello.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="2">
+   <speaker>WOODY</speaker>
+      <mode>V.0.</mode>
+      <context></context>
+      <utterance>An idea for a short story, about um, people in Manhattan who, uh, who are constantly creating these real, uh, unnecessary neurotic problems for themselves 'cause it keeps them from dealing with, uh, more unsolvable terrifying problems about, uh, the universe.</utterance>
+   <speaker>WOODY</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 56.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="10">
+   <speaker>R AUDIENCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kirbo and Kevin watch.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kirbo quickly pulls out his camera and snaps a picture of the screen.</context>
+      <utterance>Not just in Manhattan, Woodman.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't keep ringing doorbells and running away, calling her and hanging up. What are you afraid of?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rejection. Total and devastating. As long as she hasn't rejected me, there's hope.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have lived with a secret obsession many years myself. However, I realize the other person has no interest in me -- so I pursue my career which is going even more unsuccessfully.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you in love with?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't have to share everything with you...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode>GRABBING LAUNDRY</mode>
+      <context></context>
+      <utterance>My underwear is enough. Kirbo, if you must pursue this narcissistic mortification, that you have decided to call love, then you must ask her out on a proper date. Like a young god. Like Alec, our leader, would.</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context>Having taken their stuff out of the dryer they leave.</context>
+      <utterance>Alec has balls. He sees things with his balls. A ball's-eye view so to speak.</utterance>
+   <speaker>KI RBO</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 57.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="5">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll go fluff and fold, someday. Whereas I will still be writing obits. I can't even come up with a decent piece for the paper to show my editor.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't help you with your writer's block -- until I see that look in Dale Biberman's eyes. The look that says she knows I'm the one for her.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kirbo, what about all the other women you were going out with?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They weren't women. They were practice.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll never catch me making a fool ofmyself over a beautiful woman. I know what they're really made of. Watch this.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="2">
+   <speaker>BEAUTIFUL GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leave me alone.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>They disappear into their building.</context>
+      <utterance>The defense rests.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="13">
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi. x</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>La Petite Chateau. One o'clock.</context>
+      <utterance>We came to take you to lunch.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't leave here and go to La Petite Chateau. Ladies, please, x let's have a little perspective.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, we could eat here.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>They are joined by MYRA, a bag lady, and several other regular patrons.</context>
+      <utterance>Campbell's mushroom barley. How chic.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is Myra. Myra, Jules and Leslie.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's Howie?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't say my father is trying to bribe me, but he offered me a Chrysler Le Baron convertible if I'd get engaged to Howie.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you fucked him yet?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jules!!!</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You haven't? Listen, get engaged. x Get the car. Fuck him and if you don't like it, break the engagement.</utterance>
+   <speaker>X</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They put their trays down at a table.</utterance>
+   <speaker>X</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/11/84 59.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="11">
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, no sense beating around the bush. Wendy, we came to see you because we're both worried about you.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Jules, that was the scam that Leslie and I worked out because we were worried about you.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Moi? Your were worried about moi?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We were worried about you and this affair with your boss.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forrester is the greatest...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forrester is married...</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leslie, this is the Eighties... I bop him for a few years -- get his job when he gets caught with his hand in the vault. I become a legend -- do a black mink ad, but get caught in a sex scandal. Retire in massive disgrace -- but write a huge bestseller and become the star of my own talk show.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Silly of us to be concerned.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And besides, Forrester suggested some fabulous alternatives for my stepmonster...</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>It's creepy.</context>
+      <utterance>That's another thing. You seem obsessed with this woman's dying.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it turned out that cremation is almost as expensive as the non- torch method -- so if I don't find a cheaper solution -- I'll probably end up...</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="3">
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I've got to meet Forrester.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jules, you haven't touched your food.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>Jules is gone in a neurotic flurry. Leslie and Wendy are worried.</context>
+      <utterance>Who'd want to? I think this was a wonderful talk, don't you? Nice meeting you, Myra.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="6">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The senior architect I've been assisting is going to promote me to the design staff.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's so great.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, it worked out really well.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's great. So I guess that means marriage now, huh?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It scares me. My sister lived with her husband for five years before they got married. And now it's over. They loved each other so much, but somehow it just disappeared.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELI10'S FIRE - Rev. 10/11/84 61/62.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="7">
+   <speaker>‚€ WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't say that. You're not your sister. You and Alec were made for each other.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love Alec. I do, but I just don't think I'm ready for the big step.</utterance>
+   <speaker>WEND Y</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seen Billy?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was wondering how long it was going to take until you asked.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's like stopping smoking. I can go as long as I can and then I just have to have a hit.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec's got him working for some Korean gangster, and I actually think Billy is doing a great job.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great. Great.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="2">
+   <speaker>88 CONTINUED: $$</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everyone is shocked to see everyone.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah... I thought you were comin' back Thursday.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="3">
+   <speaker>VOICES</speaker>
+      <mode></mode>
+      <context>The CAMERA (Kirbo) STOPS as Dale looks up from her con- versation. She is pleasant, but slightly stunned.</context>
+      <utterance>Excuse me... Sir...?'</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>We see Kirbo now, soaking wet and in pain.</context>
+      <utterance>Kirby... How are you?</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm obsessed. Thank you very much.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="8">
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>r What's going on?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going to be a doctor.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>They pull up in front of her building and get out of the car.</context>
+      <utterance>That's not what's going on.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why did you tell me you had to work tonight? Why did you lie?</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't want to hurt your feelings.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm obsessed with you, Dale. I have been for four years.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you don't even know me.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>Dale realizes this man needs some help.</context>
+      <utterance>I know. But I'm obsessed by my fantasy of you.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="3">
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>She gestures toward her sloppy bedroom.</context>
+      <utterance>I'm very average... full of flaws...</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a slob.., can't even make a bed straight... You ready for more...</utterance>
+   <speaker>DALE</speaker>
+      <mode>(INDICATING MAGAZINES on a coffee table)</mode>
+      <context>She then goes into the tiny kitchen and picks up a large garbage bag.</context>
+      <utterance>.. I steal People magazine from my dentist's office.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="6">
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>She opens the apartment door as her roommate, JUDITH, arrives home with a bad cold.</context>
+      <utterance>Here. Watch. Dale Biberman takes out her own garbage.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here's my roommate, Judith. She hates me.</utterance>
+   <speaker>JUDITH</speaker>
+      <mode></mode>
+      <context>Judith disappears into the bedroom as Dale puts out the garbage. Kirbo sits for a moment alone, stunned. Dale returns.</context>
+      <utterance>I hate her.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And here's the worst of all... When I first decided to be a doctor, I thought it was because I wanted to serve people. But now, well, I'm beginning to get this funny feeling that what medicine's really all about is money... You want some coffee?</utterance>
+   <speaker>MIRBO</speaker>
+      <mode></mode>
+      <context>He gets up and leaves.</context>
+      <utterance>It's money, isn't it? That's what you're trying to tell me. It's 'cause I don't have any money! Thank you for being so honest.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kirby?</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="10">
+   <speaker>TROY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like old times, Billy-Boy.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know I've been thinkin', Troy 6 9 I'd like to get some kind of job maybe on campus... you know work with the students or the fraternity. Maybe coaching or something.</utterance>
+   <speaker>TROY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We could use somebody like you around, Billy.</utterance>
+   <speaker>BILLY</speaker>
+      <mode>ENCOURAGED</mode>
+      <context></context>
+      <utterance>Really?</utterance>
+   <speaker>TROY</speaker>
+      <mode></mode>
+      <context>Billy realizes there is no place for him here either. He looks up to see Felicia and the baby. He gives the football to Troy and slowly walks across the field.</context>
+      <utterance>Yeah. We need somebody to get us some good drugs.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>There is a long pause.</context>
+      <utterance>Hi, babe...</utterance>
+   <speaker>FELICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Member Ray Slater? He was the guy I was goin' with before I met you?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Felic...</utterance>
+   <speaker>FELICIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He came to see me, Billy, and he still wants to marry me. And held take good care of Melody and I could probably get an annulment.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't give up on me. Please, baby.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="7">
+   <speaker>BILLY</speaker>
+      <mode>COHT'D</mode>
+      <context>He holds her and she wants to believe him badly.</context>
+      <utterance>I know it's been rough on you. But I'll get the right job soon. I'll change... I swear it. No women, no booze... You won't believe how ultimate I'm gonna go...</utterance>
+   <speaker>KIM SUNG HO</speaker>
+      <mode></mode>
+      <context>We now see he is talking to Kirbo.</context>
+      <utterance>I work out of my house. You must be available twenty-four hours a day. Complete discretion and loyalty. Five hundred dollars a week.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm your man, Mr. Ho.</utterance>
+   <speaker>KIM SUNG HO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your scholastic record is very impressive, why would you be willing to leave law school for essentially a gofer's position?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't feel it has any relevancy in the world I want to go into.</utterance>
+   <speaker>KIM SUNG HO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which world is that?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The 'real' world. Besides, did you know that there are more students in law school than there are practicing lawyers?</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="11">
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kirby. What are you up to?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>He quickly holds up a newspaper with Kim on the cover.</context>
+      <utterance>I was hand-picked as special attache to Kim Sung Ho. You know, the famous Korean entrepreneur?</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about medical school?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have to grab my huge financial opportunities while-I can. It's all about money, isn't it, Dale?</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, good luck.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm giving a little party Saturday night at Kim's house.  I'd really like to see you there.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>She smiles sweetly and runs off as Kirbo sits back and talks to the female Chauffeur.</context>
+      <utterance>Well, thank you, Kirby. I'll try...</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She'll be there. You see her face when she saw this car?</utterance>
+   <speaker>CHAUFFEUR</speaker>
+      <mode></mode>
+      <context>You'll be out on the street.</context>
+      <utterance>Mr. Ho catches you having a party in his house Saturday night.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He won't be back until Sunday... remember, there's an extra hundred bucks for you and Kenny to shut up.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>ST. ELMO'S FIRE - Rev. 10/1/84 69.</context>
+      <utterance>Fluff and Fold!!!</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="9">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll be right down. Alec comes from the bedroom getting dressed.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>June first!'</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honey, I just got promoted. I'm going to have a lot more responsibility. I'm sure it's the right time.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looking at my big picture agenda, I want to be playing softball with my firstborn in about four years.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you realize that over half the marriages today end in divorce.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And the other half don't.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My six-year-old niece asked me today why everyone's father doesn't live in a separate house like her father does. I don't want us to become another divorce statistic in Newsweek.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look at my parents. My father may not come home with a raging hard- on, anymore, but they're happy.</utterance>
+   <speaker>ALEC</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 70. t</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="5">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your father sits around playing chess while your mother talks to him constantly. But he's not listening.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's probably why they're happy.  Leslie, let's stop living together . get married and start really living together!</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sweetheart, please. Let's not talk about it tonight. This party means a lot to Kirbo. The floor's filthy again.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>She opens the door as he grabs a nearby can of white spray paint, and sprays the floor white again as they back out through the door.</context>
+      <utterance>Just pick a date, any date...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are some things we have to work out first.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="3">
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. Okay. Like my mom always says, 'Don't get a hard-on'...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>But you never know which one.'</context>
+      <utterance>And like my mom always says... 'Marriage makes two people one.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, and like my pop says, 'The way to woman's heart is,to saw her in half.' ST. ELMO'S FIRE - Rev. 1.0/1/84 71.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="5">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, does this mean you're officially engaged?</utterance>
+   <speaker>HOWIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No... It just means I'm officially thinking about it.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is this? Howie, didn't you always think women were dying to get married?</utterance>
+   <speaker>HOWIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not to me.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="4">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does Alec know you're doing this?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told him I had Kim's permission. Should I go for the formal'tux, or the velvet smoking jacket, I-do- this -all -the -time look?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've left school, put yourself into debt, lied to Alec who got you this job in the first place -- and all for a woman who doesn't seem to be interested in you.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When she sees me in this setting and realizes my potential, which she has always secretly known about me, the veil will be stripped from her eyes and she will give herself to me tonight.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="3">
+   <speaker>‚€</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps in that very bed you are sitting on. Is the cummerbund out of style?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, excuse me, buckeroo. But I think you're a fool.</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps, but a well-dressed fool.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="3">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>holds court for the undergrads.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The best advice I can give you undergrads is to fail. Failure is a virtue in today's society. Human error is a badge of honor. If you're the alcoholic child of a celebrity, you can blame them and earn a year on the best-seller list. If you're a celebrity, your mistake will earn you a People magazine cover. It's post- Watergate morality. Take responsibility for your mistakes and make a quick buck while you're at it.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>They start screaming with laughter.</context>
+      <utterance>Then Sully snuck the pizza waitress into the showers...</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="9">
+   <speaker>‚€</speaker>
+      <mode></mode>
+      <context>Everyone laughs as Alec looks to Billy seriously.</context>
+      <utterance>And the fat chick Sandy met on a plane. Alec and me pretended to be renting agents. She wound up taking on the whole house...</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not getting you any more jobs, Billy...</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Jules redoes Wendy's makeup as Leslie watches.</context>
+      <utterance>You know, Al, you're so perfect. Such a young god... I'll bet you were sproutin' pubic hairs at the age of three.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jules, your hands are shaking.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thin blood.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>She drops the makeup.</context>
+      <utterance>How's Forrester?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>Wendy and Leslie are worried.</context>
+      <utterance>Oh, shit.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's your stepmother?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>Wendy and Leslie look to each other. Kirbo nervously dials the 'phone.</context>
+      <utterance>Hanging on. the old witch. At least it gives me a chance to funeral-shop. Did I tell you I found this place in California -- 'The Neptune Society.' They'll wrap her up and throw her to the sharks for five hundred dollars... But I have to ship the body all the way out there... Excuse me.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="10">
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So how you doin'? Still living at home?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, how about you?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Felicia hasn't kicked me out yet.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You been playin' your sax?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hocked it to pay the phone bill... You forgiven me yet for bein' such a horse's ass?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's nothing to forgive. In fact, I should thank you... It helped me grow up a lot and see how stupid I was...</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>They both pause for a beat.</context>
+      <utterance>How stupid you were to be caring about a loser like me. I agree with you wholeheartedly.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have a lot of talent, Billy.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you still a virgin?</utterance>
+   <speaker>BILLY</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/1/84 74.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="6">
+   <speaker>9 WENDY</speaker>
+      <mode></mode>
+      <context>Wendy quickly goes back into the house. Billy spits at the moon.</context>
+      <utterance>That's none of your business.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Emergency break in!... Operator! . That's right... What do you mean she won't release the phone??? Did you tell her I'm giving a party for her???</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Everyone more or less quiets down. Kevin TURNS DOWN the STEREO, but not without SCRATCHING the record.</context>
+      <utterance>Quiet. Big Al has an announcement.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Everyone rushes to Leslie, who is stunned.</context>
+      <utterance>On June first. Leslie will do me the long-awaited honor of becoming my bride. You're all invited.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Alec is already accepting congratulations, and passing out cigarettes like cigars, as Leslie grabs him.</context>
+      <utterance>Alec, you're drunk.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>She leads him toward the kitchen as he shouts back:</context>
+      <utterance>Alec, may I speak to you please...</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="6">
+   <speaker>0 ALEC</speaker>
+      <mode></mode>
+      <context>They pass Kirbo who dashes out of the kitchen franti- cally. He finds Wendy.</context>
+      <utterance>Hey, Howie... how 'bout we make it a double wedding?</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I use your car?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wendy, please, this is the most important thing in my life...</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's brand new.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Trust me.</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="6">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just want a yearly Christmas card with the Newberrys in front of the fireplace..</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're just afraid to commit.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't have to slow down your career to help raise them.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus Christ, will you just for once not make the reason you won't marry me your fucking career!</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right then, what will we do about your extra-curricular love life?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What extra-curricular love life?</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="3">
+   <speaker>ALEC</speaker>
+      <mode>COHT'D</mode>
+      <context></context>
+      <utterance>What did Kevin tell you?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+   <speaker>ALEC A</speaker>
+      <mode></mode>
+      <context>He dashes back into the</context>
+      <utterance>What?</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="3">
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'd you tell her?... Little buddy... little traitor. Huh, what'd you tell her?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Alec filled with guilt and remorse becomes angrier. Alec realizes that everybody in the house is watching him. He must save face.</context>
+      <utterance>He told me nothing. It was just a hunch... until now.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Alec marches out the door. The place is a wreck.</context>
+      <utterance>Leslie, I want you out of the apartment tonight.</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="7">
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context>Suddenly the window above him opens and Dale's roommate Judith appears angrily.</context>
+      <utterance>You better get off the phone and open this door!</utterance>
+   <speaker>JUDITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you the maniac trying to cut in on my line?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is Dale?</utterance>
+   <speaker>JUDITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She went skiing.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What???... Where???</utterance>
+   <speaker>JUDITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why should I tell you?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I'm not responsible for what I'll do to you if you don't.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="8">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't been here for a long time.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's still the same. Small and ugly... but then again it's small and ugly. Are you sure we shouldn't find you some nice lady-like hotel?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'll be fine here for tonight 0 as long as I'm not putting you or Kirbo to any trouble...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode>NOTICES SOMETHING</mode>
+      <context>We now see that a long coffee table which has always been covered with junk is indeed a black coffin.</context>
+      <utterance>. What are you doing.with a coffin?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not how you're supposed to ask. You're supposed to be a young lady who is very impressed with. my mind. Having come from a deep Hungarian film and getting cozy over a brandy, she says... 'Is that... a coffin...?' And, then I say, 'Yes, it's my coffin' . 'Your coffin,' she would gasp, her interest in me growing by leaps and bounds. Then'I would sit back stroking her arm and say 'Yes, I figured we're going to spend a long time in the ground together so I've made friends with it... I've gotten drunk on it... rolled joints on it . Even made love on it many times!' It's a prop for affect.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does it work?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How would I know?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well you better not let Jules see it. She'll steal it for her stepmother. Are these relatives of yours?</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="7">
+   <speaker>E</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>distinguished family.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>He opens a straw box, obviously filled with his most personal possessions and extricates a photograph of a very ordinary family.</context>
+      <utterance>No, that's more effect.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You remember my family.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So I've wandered into a real woman trap here, haven't I?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kevin searches for clean glasses in the debris that passes for a kitchen, Leslie finds photos and political cartoons in his straw box. Eventually, she finds a photo of herself, and then another -- followed by dozens more. Kevin has an entire homage to her in his secret stash. He comes back with the brandy to find her looking at the photos.</context>
+      <utterance>Except you're the first woman I've ever been able to get up here. And I've blown all my props already... So how about some brandy?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Am I part of your props?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode>PAINFULLY; SWEETLY</mode>
+      <context>He quickly starts pouring the brandy as Leslie looks at Kevin, almost for the first time.</context>
+      <utterance>No... you're the real thing.</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="9">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec was the first. There were other guys, in high school, boys -- but he was the first love of my life. I always wondered if Alec and I hadn't ended up in the same dorm -- well, I guess I would have just found someone else. And so would he.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec had the luck of geography. Whatever we say about Alec we'll regret tomorrow.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think about our relationship. as an outsider?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oooo -- dangerous question.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode>BIG SLUG</mode>
+      <context></context>
+      <utterance>Sometimes I think I just hang around with you and Alec 'cause. well, since he introduced me to you...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I think the reason I'm not interested in other women... is 'cause I...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin. All this time right in front of us. How could I have been so blind?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leslie, we won't even remember this tomorrow.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="4">
+   <speaker>S</speaker>
+      <mode></mode>
+      <context>There is a mad moment of hesitation and then Kevin and Leslie smash into each other's arms.</context>
+      <utterance>It is tomorrow.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>They kiss madly, passionately. They fall to the floor in a frenzy. Leslie pulls Kevin's hair.</context>
+      <utterance>I love you... I've always loved you.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>No. I love it. I love it!!! Leslie grabs onto the large throw rug as they roll around the floor. Somehow as they roll and turn, the rug gets wrapped around them. Leslie tears at his shirt, as he yanks her sweater off. Kevin fights madly with the back of Leslie's bra. He is going berserk trying to find the clasp.</context>
+      <utterance>Aaaaah. Ouch...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>With a flick of her hand she undoes her bra and opens up the wonders of paradise to her old buddy. They kiss madly again as they roll in the rug.</context>
+      <utterance>No... it's in front.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="12">
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which one is yours? I always forget.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>He points to a house. Jules stops the Jeep.</context>
+      <utterance>So do I. You wanna go someplace?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do I. I've had a shit day.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've had a shit year.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where do you want to go?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The bars are all closed. How 'bout your place?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>She STARTS up the JEEP.</context>
+      <utterance>We're going to my place. Good.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jules, you've really grown up into a fine-looking woman.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't feel very fine-looking.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been meaning to ask you something all night. What do you have on under that skirt?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You should know.</utterance>
+   <speaker>JULES</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/11/84 81.</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="9">
+   <speaker>‚€ BILLY</speaker>
+      <mode></mode>
+      <context>Jules needs some attention. The hot couple kiss. He immediately goes for the gold.</context>
+      <utterance>Come on -- Gimme some of those beautiful lips.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Billy... enough!</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who says?</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I say.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>He kisses her wildly as she pushes him away aggressively.</context>
+      <utterance>Yeah, well, I bet you really won't have so much to say with me in your mouth.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>He grabs the keys from the ignition as the CAR DIES.</context>
+      <utterance>I'm serious, Billy. No!!!</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>Holding her off with one hand, he shoves the keys into his underwear and then sits back grinning.</context>
+      <utterance>Billy!</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come and get 'em.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>She attacks him, biting his hands, his neck and his chest. Billy shrieks with laughter and pain.</context>
+      <utterance>You shit!!!</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="2">
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ultimate...</utterance>
+   <speaker>BILLY</speaker>
+      <mode>ECHO</mode>
+      <context></context>
+      <utterance>Ultimate!!</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="3">
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I really needed you tonight.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nell, just get back in the Jeep and assume the missionary position.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>She drives off in the Jeep. Billy fumbles with his pants and then turns toward his house. Felicia, holding their baby, stands watching from the porch. Obviously having seen most of this, she silently goes back into the house,. locks the door and turns out the light. Alone, drunk and bewildered, Billy starts moving away from the house real- izing he has no place to go.</context>
+      <utterance>You break my heart. You break everybody's heart.</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="4">
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit... Goddammitt...</utterance>
+   <speaker>124 IHT. CAR - MIGHT 124</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He searches the dashboard frantically.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>He rams and jams every button and knob in sight as he weaves dangerously on the freeway. Eventually one of the levers comes off in his hand.</context>
+      <utterance>Heater. Where's the defroster???</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>So much for American enterprise!</context>
+      <utterance>Dear Mr. Iacoccoa... I recently had the misfortune of using one of your, so-called, new luxury cars in an emergency situation.</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="9">
+   <speaker>MAX</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Who is it?</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is Dale Biberman in there?</utterance>
+   <speaker>MAX</speaker>
+      <mode>V.0.</mode>
+      <context></context>
+      <utterance>Who wants to know?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>The door swings open and there stands GUY, a handsome thirty-year-old wrapped in a blanket. Dale comes from the bedroom, fastening a man's robe and staring at Kirbo in disbelief.</context>
+      <utterance>Kirby Kreager! And who the hell are you?</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>His entire world has collapsed. He can't swear, shout or cry -- he can only dash toward the car frantically. Falling in the snow once or twice, he eventually jumps into the car and tries to peel out, but it just spins in the snow. Meanwhile Guy has put on heavy boots and comes running out to the car where Kirbo stands on the gas to no avail.</context>
+      <utterance>Kirby? What are you doing here?</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>He ignores her maniacally as he keeps desperately trying to get out of there.</context>
+      <utterance>Kirby, stop. Come inside.</utterance>
+   <speaker>GUY</speaker>
+      <mode></mode>
+      <context>Kirbo ignores them.</context>
+      <utterance>You've got no skid chains or snow tires. You've got no traction.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kirby, please!</utterance>
+   <speaker>GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You-'re not gonna get out of here tonight. You better come back inside.</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="6">
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll stay in the car.</utterance>
+   <speaker>GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He wants to stay in the car.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>She begins pulling on her boots as Guy tries to reason with Kirby.</context>
+      <utterance>He'll freeze!!!</utterance>
+   <speaker>GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>People have died out here.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>Dale has joined them.</context>
+      <utterance>Leave me alone. I'm not your responsibility!</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By driving up here, you've made us responsible for you. Now come inside.</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="5">
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your clothes should be dry in a few hours.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a doctor, isn't he?</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here are some pajamas.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You expect me to wear his pajamas?</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>She joins Guy, in the bedroom and closes the door. Kirbo is left with the pajamas and his desperate anguish.</context>
+      <utterance>We'll talk in the morning.</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="3">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kirbo?</utterance>
+   <speaker>ALEC</speaker>
+      <mode>O.S.</mode>
+      <context>Kevin and Leslie look at each other frantically.</context>
+      <utterance>No, it's Alec.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode>WHISPERING</mode>
+      <context></context>
+      <utterance>I gave him a key.</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="3">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>133 INT. LIVING ROOM 133</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec has found a beer.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I believe you. I want you to know that I believe you and, Kev, I'm sorry I hit you. Shit, how'd she find out? How long has she known? I've been thinking all night about school... How sex was always a barometer,'especially, at the fraternity. The more women you got, the more of a man you were... or thought you were... I thought I was.</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="11">
+   <speaker>9 ALEC</speaker>
+      <mode>CONT'D</mode>
+      <context>Kevin gingerly comes from the bedroom in a robe.</context>
+      <utterance>Shit, my whole life at school revolved around sex... even after I fell in love with Leslie. I always had to be doing better than the next guy... I had my rep. Big Al... It all started as a game...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah... I kind of have company.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh Jesus... I'm sorry... I never thought. Who is it?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec...</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>You and the fat chick...</context>
+      <utterance>That fat chick from the party?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Alec capitulates and leaves the apartment. Kevin relaxes just as Alec pops back in.</context>
+      <utterance>Alec, I'll call you later.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>The bedroom door opens and Leslie appears wrapped in a sheet.</context>
+      <utterance>Just tell me if it's the fat chick...</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. No. No... wait a minute... I don't believe it. This could not be real. There is no way this is happening.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It happened, Alec.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>My little buddy. No way, Jose.</context>
+      <utterance>Not Kevin. Little fuckin' Kevin.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He didn't do it alone, Alec.</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="3">
+   <speaker>‚€</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>takes a stand.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kevin prepares for the fight.</context>
+      <utterance>I know that if we fight, you're going to win. But I'm warning you, I will use every bone in my body, every lamp in this room to make sure I inflict as much damage as possible on you before you bring me down.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>On his exit, Alec takes a lamp and throws it against a Woody Allen photograph on the wall. Kevin and Leslie look at each other, uncertain of what they have done.</context>
+      <utterance>You're both pathetic. I don't want to see either one of you again, ever. You understand me? You see me on the street, you see me at St. Elmo's, just pretend you don't know me.</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="2">
+   <speaker>KIM SUNG HO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's'Kirby Kreager?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He took my new car.</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="5">
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. I had no idea it had gone this far.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>Dale sits down next to him.</context>
+      <utterance>I gave up school... and my job at St. Elmo's... and you never even knew about it. It's kind of funny, isn't it?</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The reason I didn't know... is because all of this happened</utterance>
+   <speaker>R</speaker>
+      <mode></mode>
+      <context>Guy yells to them from outside.</context>
+      <utterance>between you and you. I could never participate because I never knew what was expected of me. Love isn't like this, Kirby. It's mutual and reciprocal.</utterance>
+   <speaker>GUY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Okay, she's starting... You better get out of here before it starts snowing again.</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="2">
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>Guy gets out of the car.</context>
+      <utterance>Drive carefully.</utterance>
+   <speaker>GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute... I've got to get a picture of you old college chums...</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="5">
+   <speaker>139 CONTINUED: 139</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>0 He goes into the cabin. Dale sees Kixbo's pain.</utterance>
+   <speaker>DALE</speaker>
+      <mode></mode>
+      <context>She kisses him gently on the cheek. He is about to sink into more pain when suddenly he grabs Dale and kisses her with all the passion he has for her. When he releases her she is dazed. Something has definitely happened.</context>
+      <utterance>I don't really know you well... but you seem like a fine person .. and I want you to know that I'm flattered by all of this and deep down, I'm sure for a long time, I'll wonder if maybe this somehow isn't my loss.</utterance>
+   <speaker>GUY</speaker>
+      <mode></mode>
+      <context>They turn to face Guy and his Polaroid camera. After he takes their photo, he hands it to Kirbo who hands it to Dale'and quickly gets into the car.</context>
+      <utterance>Smile.</utterance>
+   <speaker>GUY</speaker>
+      <mode></mode>
+      <context>Kirbo drives off quickly.</context>
+      <utterance>Aren't you going to wait for it to develop?</utterance>
+   <speaker>REARVIEW MIRROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dale gets smaller and smaller.</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="2">
+   <speaker>MIRROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She is smaller and smaller.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A kind of win fills his senses.</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="9">
+   <speaker>€ MR. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Love comes later. Marriage, family, the family business -- children carrying on the parents' traditions... that's what...</utterance>
+   <speaker>WEHDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad, I have my own work, and I want to get my own apartment.</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, keep your job 'til you get pregnant. Howie is a fine boy. You don't need your own apartment.</utterance>
+   <speaker>WEHDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't love Howie, Dad. I love Billy!</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Billy on the roof? Let me tell you something, he's a drunk and a lowlife. How could you love such a person?</utterance>
+   <speaker>WEHDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's talented and confused and he's not a lowlife. And I love him because he's alive! He's the most alive person I've ever known.</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context>Wendy has started to cry.</context>
+      <utterance>When he looks at you, all he sees is U money. He doesn't give a damn about you...</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context>Wendy is overcome with grief.</context>
+      <utterance>I'm warning you, young lady. You marry him -- no 'Card-A-Terias' !</utterance>
+   <speaker>WEHDY</speaker>
+      <mode></mode>
+      <context>She rushes from the counter grabbing her coat.</context>
+      <utterance>I hate you, Dad. I really hate you now.</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="8">
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some place this is. Your car fixed?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got a personal letter from Lee lacocco... they fixed everything for nothing.</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good... so you like the car?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>She finds the keys and hands them to him.</context>
+      <utterance>It's a great car, Dad, but I can't keep it. I don't feel right about driving a car like that and working with people who can't afford to eat.</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Keep the car... you and Howie are going to need it.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm giving Howie back, too.</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wendy, listen to me. You think I wanted to marry your mother? I was pressured into it. She was pressured into it.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't love Howie.</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="3">
+   <speaker>144 CONTINUED: 144</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eventually, Mr. Beamish comes running after her.</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context>Wendy keeps running. A BAG LADY from the soup kitchen, crosses her path.</context>
+      <utterance>Wendy...</utterance>
+   <speaker>BAG LADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, Wendy.</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="5">
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context>Wendy continues running and crying as YOUNG STREET TOUGHS run past her.</context>
+      <utterance>Wendy... Wait. Oh, my God, my leg!</utterance>
+   <speaker>STREET TOUGH #1</speaker>
+      <mode></mode>
+      <context>Wendy keeps running, but then looks back. The Street Toughs are giving her father a hard time as he puffs, wheezes and deals with the pain in his chest and his leg. Wendy can't stand it. She shouts at them.</context>
+      <utterance>Don't worry, Wendy... we got the old pervert covered.</utterance>
+   <speaker>WEND Y</speaker>
+      <mode></mode>
+      <context>She runs over to them and shoos the Toughs away. Still crying, she guides her father toward a stoop.</context>
+      <utterance>That's my father. You leave him alone... that's my father!</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>They sit down, both still very emotional. After a moment, Mr. Beamish takes a torn greeting card from his pocket. It has a very sexy woman on it.</context>
+      <utterance>Sit down, Daddy... sit down.</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See this... A feminist came into the Pennsylvania Avenue store this morning -- called me a 'sexist' and a 'pig' and tore the card up. I said 'Listen, we got naked men on cards, too, with their pee-pees hanging out... It's fair! We got men and we got women!'</utterance>
+</dialogue>
+
+<dialogue id="128" n_utterances="4">
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Daddy, I'm sorry. I'm sorry I said I hated you...</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context>He starts to get up with her help.</context>
+      <utterance>That's okay. I'm sorry about Howie. You don't have to marry anybody you don't want to marry and if you want to move out, well, move out... But listen...</utterance>
+   <speaker>MR. BEAMISH</speaker>
+      <mode></mode>
+      <context>They start back toward the restaurant.</context>
+      <utterance>.. Don't judge your mother and me so hard... and the way we raised you and your sisters. There's no training to be a parent, you know. You're learning every day on the job.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>He hugs her as they walk back into the restaurant.</context>
+      <utterance>There's no training to be me either, Dad. I'm learning on the job, too.</utterance>
+</dialogue>
+
+<dialogue id="129" n_utterances="2">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>As she picks up the broken pieces, the door opens from the bedroom. Alec appears, looking horrible, in his bathrobe.</context>
+      <utterance>Shit.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I especially took off work because I thought you wouldn't be here.</utterance>
+</dialogue>
+
+<dialogue id="130" n_utterances="15">
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sick.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's wrong?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just sickness...  .. Hey, you can't take The Pretenders' first album. That's mine.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I bought it.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You did not!!!</utterance>
+   <speaker>ALEC</speaker>
+      <mode>IN CONCESSION</mode>
+      <context>Except for 'The Stranger.'</context>
+      <utterance>You can have all the Billy Joels.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm taking 'Thriller' and Mahler's Ninth.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin is so fond of Mahler.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've moved in with Jules.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How nice. Roomies again...</utterance>
+   <speaker>ALEC</speaker>
+      <mode>GRABBING ALBUMS</mode>
+      <context></context>
+      <utterance>. No Springsteen is leaving this house. But you can have all the w Carly Simons.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got those for me on Valentine's Day. When there were still valentines around here.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>You take the consequences.</context>
+      <utterance>You ran out on this relationship.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't run out on anything. You ran out.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You fucked Kevin!</utterance>
+</dialogue>
+
+<dialogue id="131" n_utterances="8">
+   <speaker>‚€</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You fucked manyl</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nameless, faceless manyl</utterance>
+   <speaker>LESLIE</speaker>
+      <mode>SARCASTICALLY</mode>
+      <context>Alec angrily grabs another album from her.</context>
+      <utterance>Oh, I feel much better now.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not taking The Police so just forget it!</utterance>
+   <speaker>LESLIE.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't 'fuck' Kevin. I was confused and angry... and I care for him deeply.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Leslie reluctantly hands him the keys and moves toward the bedroom closet slowly.</context>
+      <utterance>No more albums! That's it... Get your clothes and give me the keys.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Alec sits down angrily on the new sofa, clutching his albums.</context>
+      <utterance>I don't believe this is happening to us.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wasted love. I wish I could get it all back.</utterance>
+</dialogue>
+
+<dialogue id="132" n_utterances="8">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God, this is so exciting. Your first byline...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure I'll be back doing obits tomorrow.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, no. You're going to really attract some attention with this...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode>LAUGHING</mode>
+      <context></context>
+      <utterance>Did somebody actually say 'I believe in the golden rule, whoever's got the gold makes the rule'?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>He kisses her warmly.</context>
+      <utterance>Sort of. Leslie, I couldn't write anything of any meaning until you.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>He aggressively gets on top of her, and feeling the excitement and the champagne kisses her madly. The front door opens and Jules appears breathless.</context>
+      <utterance>Kevin.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>Leaving the door wide open, she races through the apart- ment. Kevin continues to madly attack Leslie when Ron, carrying packages, arrives at his door across the hall. He and Kevin exchange a look as-Ron goes inside.</context>
+      <utterance>Don't you two ever use a bed?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me show Jules your piece.</utterance>
+</dialogue>
+
+<dialogue id="133" n_utterances="8">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Jules is so stoked she can't focus.</context>
+      <utterance>Kevin has his first byline.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>'Tract Housing in Maryland'...</context>
+      <utterance>Wonderful. Brilliant... Ha ha...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, it's the other piece... Jules...</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got to fly. Forrester, the magnificent animal, is waiting. Did the hospital call? Is my stepmonster dead yet?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jules, I'd like to meet him.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>She is out the door in a flash as Leslie moves toward - the window.</context>
+      <utterance>I'll have him wave up to you.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doesn't she seem out of control to you?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>They look out of the window.</context>
+      <utterance>Since the day I met her.</utterance>
+</dialogue>
+
+<dialogue id="134" n_utterances="11">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jules' boss and lover... International banking seems to be getting sexier.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>As she closes the window, Kevin attacks her again.</context>
+      <utterance>Speaking of which...</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin, I've been thinking.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me, too, and I don't like to count my cornish hens before they hatch, but I do think I'll be getting a raise. And I was thinking we could get a place together.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know it's fast. But I also know I love you.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think you do love me.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean we love each other as friends. But... Kevin, you were sitting on all these incredible feelings... all tied up in that box with my pictures in desperate need of a love affair. And me... well, I needed to break the Alec habit... and it's only natural I would turn to you in my confusion. But this doesn't feel real. It feels manufactured.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's me, isn't it?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you kidding? You're a little € miracle.</utterance>
+</dialogue>
+
+<dialogue id="135" n_utterances="7">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But not a big miracle like Alec.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Kevin realizes how serious Leslie is.</context>
+      <utterance>Oh, Alec was the big miracle for a long time... But I think I'd like to try life without any miracles for a while.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, having your first byline, and losing the love of your life in the same night has a certain 'The Gods must be laughing at me' feeling.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not the love of your life.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who says?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I say.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Leslie embraces him with deep friendship.</context>
+      <utterance>But you're a girl, what do you know?</utterance>
+</dialogue>
+
+<dialogue id="136" n_utterances="8">
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think I need the eggs anymore. Dale Biberman gave me enough cholesterol for a lifetime. You were right all along... Love stinks.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've had second thoughts. Intimacy is dangerous and shattering... but ultimately necessary.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But, Kevin, I used to wait outside her house,. ring the bell and then when she'd come to the window I'd run away. Just to get a glimpse of her.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The night Leslie gave me the kiss- off, I fucked a black hooker three times.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not Naomi, from our corner?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Naomi from our corner.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think you better go to the doctor and get some shots.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I used a rubber. She put it on me with her mouth.</utterance>
+</dialogue>
+
+<dialogue id="137" n_utterances="5">
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I always thought we'd be friends forever.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>They move on, passing a sign on the door: "WAITER WARTED." Kevin points to it.</context>
+      <utterance>Forever got a lot shorter suddenly.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, as soon as I get back in school, I'm going to work part- time for a law firm. Did you know there are as many people in law school as there are practicing lawyers?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds familiar.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How'd she put the rubber on with her mouth?</utterance>
+</dialogue>
+
+<dialogue id="138" n_utterances="4">
+   <speaker>GENTLEMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, may I help you?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to see Forrester Davidson Jr.</utterance>
+   <speaker>GENTLEMAN</speaker>
+      <mode></mode>
+      <context>Leslie is shocked and even more confused.</context>
+      <utterance>I am Forrester Davidson Jr.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, there must be some mistake. I've come to see Julianna van Patten and they told me she doesn't work here anymore.</utterance>
+</dialogue>
+
+<dialogue id="139" n_utterances="3">
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you forget one of your albums?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Alec hesitates angrily.</context>
+      <utterance>I'm sorry to bother you here. It's Jules. After she left for work this morning, the finance company came and took away all her furniture, her Jeep, everything they could get their hands on... I couldn't reach her so I finally went over to her office. Alec -- she was fired three weeks ago! All this time, she's been pretending to go to work every day , and pretending to be still having this affair with her boss. And she's been doing a lot of coke .. Well, anyway, I confronted her at the apartment, and at first she denied everything, but then she went crazy -- and now she's locked herself in the apartment and she won't let me back in... I'm really worried about her.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec, please. I need your help.</utterance>
+</dialogue>
+
+<dialogue id="140" n_utterances="2">
+   <speaker>LATER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec knocks on the door with Leslie.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Leslie puts her key in the door.</context>
+      <utterance>Jules, open the door.</utterance>
+</dialogue>
+
+<dialogue id="141" n_utterances="8">
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>No answer.</context>
+      <utterance>Jules, remember my junior year when I went cold turkey on cigarettes? You sat up with me all night in the commons room feeding me emergency carrots...?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>There is a beat and then Jules speaks from the depths of hell.</context>
+      <utterance>Jules, if you don't let us in, we're going to have to call the police.</utterance>
+   <speaker>JULES</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>I'll throw myself out the window before they get through the door.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not my greatest ploy.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>Kevin and Kirbo come dashing up the stairs breathlessly.</context>
+      <utterance>Jules, remember the time I flunked art history and I was trying to drink myself to death...</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How is she?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She just threatened to throw herself out the window. Kevin and Alec have a moment of awkwardness.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The fire escape!</utterance>
+</dialogue>
+
+<dialogue id="142" n_utterances="9">
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>He stops.</context>
+      <utterance>Jules, what are you doing? You'll freeze...</utterance>
+   <speaker>KEVI N</speaker>
+      <mode></mode>
+      <context>The three young men start tearing at the bars frantically.</context>
+      <utterance>To death. Exactly!</utterance>
+   <speaker>165 INT. HALLWAY 165</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leslie pounds on the door.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jules, you're really scaring me now.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The whole country is.falling apart, but these five bars are made perfectly.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We need something that cuts through metal.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or an experienced thief.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>Kirbo dashes down the fire escape.</context>
+      <utterance>I'll find Billy.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was kidding.</utterance>
+</dialogue>
+
+<dialogue id="143" n_utterances="7">
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>Kirbo takes off on his bike as Alec looks at Kevin.</context>
+      <utterance>Billy's working at the big Chevron station on Michigan. He must have a hacksaw or something...</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Billy is working in a gas station???</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Suddenly, Alec and Kevin become aware that they are alone.</context>
+      <utterance>He needed the money.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I saw your article.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kevin tries to laugh charmingly. Alec tries to laugh along with him, but suddenly rage returns.</context>
+      <utterance>Yeah, well, yesterday's editorial achievement is today's garbage wrapper, right...?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>He grabs Kevin. Kevin tries to fight back, but Alec is so overpowering he pushes Kevin up to the railing of the fire escape, and then pushes him over. Kevin hangs upside down as Alec holds him by his legs. Dozens of scraps of paper fall from his pocket. Leaning out the apartment hallway window, Leslie sees them.</context>
+      <utterance>You little shit!!!</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec, no!!!</utterance>
+</dialogue>
+
+<dialogue id="144" n_utterances="6">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My notes!</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You won't need any more notes on the meaning of life.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>upside-down,</utterance>
+   <speaker>STRAINING)</speaker>
+      <mode> STRAINING)</mode>
+      <context>Leslie runs into the alley underneath them.</context>
+      <utterance>I'm kinda betting on you not doing it, Al... think of your political career.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>She frantically starts climbing the fire escape.</context>
+      <utterance>Alec, stop Iit!</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec!!!</utterance>
+</dialogue>
+
+<dialogue id="145" n_utterances="5">
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>After all I've done for you.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I feel I've done a lot for you, too, Al... so pull me up and we'll call it even.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>The woman he was going to marry arrives frantically onto their landing. She struggles with Alec.</context>
+      <utterance>What you did for me was take the woman I was going to marry.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Below them, Billy and Kirbo pull up in a Chevron tow truck. Billy, wearing Chevron coveralls, jumps out with an acetylene torch in hand, shouting.</context>
+      <utterance>Alec, stop it right now!</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks pretty ultimate up there...</utterance>
+</dialogue>
+
+<dialogue id="146" n_utterances="8">
+   <speaker>170 EXT. FIRE ESCAPE 170</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He slowly pulls Kevin onto the fire escape.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Kirbo tries to get the dolly up the fire escape with Billy.</context>
+      <utterance>Are you all right?</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context>Kevin goes down the fire escape to help him, leaving Alec and Leslie alone. Leslie kneels by the window with her hands on the iron bars and speaks to Jules.</context>
+      <utterance>Hey! Help.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, my God. Jules, please, it's so cold.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very noble how you ran up here to save your lover.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's not my lover. Jules, listen...</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bullshit.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have never lied to you once since the day I met you... you cocky shithead.</utterance>
+</dialogue>
+
+<dialogue id="147" n_utterances="8">
+   <speaker>170 CONTINUED: 170</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec knows it's the truth.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>She has been holding onto the bars with her bare-hands, but the bitter cold makes her wince as she removes her hands. Alec is overwhelmed with feelings as he takes her hands and holds them to his mouth, breathing warm breath onto them. Much emotion passes between them.</context>
+      <utterance>Hang on, Jules. We all love you.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your breath, your breath is so sweet.</utterance>
+   <speaker>ALEC.</speaker>
+      <mode></mode>
+      <context>Kirbo and Kevin arrive. Billy races down the alley.</context>
+      <utterance>Leslie, I'm sorry. I'm so profoundly sorry.</utterance>
+   <speaker>KIRBO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Blowtorch, anyone?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give it to me.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kevin takes the torch and goes for the bars. SPARKS and fire fly. Suddenly there is a PHENOMENAL POUNDING from inside the apartment at Jules' front door. It stops everyone on the fire escape.</context>
+      <utterance>Do not hand him a blowtorch!</utterance>
+   <speaker>171 INT. JULES' APARTMENT 171</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The POUNDING jolts Jules.</utterance>
+</dialogue>
+
+<dialogue id="148" n_utterances="2">
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Ron enters tentatively and joins them as JULES and BILLY start SHOUTING and LAUGHING LOUDER.</context>
+      <utterance>You want some coffee, Ron?</utterance>
+   <speaker>RON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, until today I thought gay people were nuts.</utterance>
+</dialogue>
+
+<dialogue id="149" n_utterances="8">
+   <speaker>WEND Y</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then what happened?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was it... We came out of the bedroom and had coffee with everybody.</utterance>
+   <speaker>WEND Y</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You saved her life.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's not get dramatic.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, when did you get so sane?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When I realized how insane I've been all this time tryin' to be like Alec and Leslie... and you and Kevin... I'm not part of this post-college Georgetown life; marriage and jobs. Felicia and Melody'll be better off without me.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did she get remarried already?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three or four weeks...</utterance>
+</dialogue>
+
+<dialogue id="150" n_utterances="7">
+   <speaker>BILLY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I was thinkin' of hanging around tryin'to be one of those in-the- neighborhood dads... but it would just confuse everybody... especially me. New York'll suit me fine. if somebody'll let me play sax.</utterance>
+   <speaker>BILLY</speaker>
+      <mode>INDICATING APARTMENT</mode>
+      <context></context>
+      <utterance>This is great.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>They chuckle together and then they become more serious.</context>
+      <utterance>I'll tell you what's great. Last night I woke up in the middle of the night and made myself a peanut butter and jelly sandwich... and you know it was my kitchen, and my refrigerator and My apartment . and it was the best peanut butter and jelly sandwich I've ever had in my life.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>She picks up his sax and blows a few comic notes.</context>
+      <utterance>So you're goin', huh...?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, are you still a virgin?</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why is my sexual status so important to you?</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context>Wendy is moved.</context>
+      <utterance>Have I abused our relationship too much? Or could I be so bold... as to ask you for a going-away present...?</utterance>
+</dialogue>
+
+<dialogue id="151" n_utterances="13">
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>She smiles, but shows him her gloves. As she searches for change in her pockets, Alec stops her and puts his own coins in the machine. He presses buttons as he talks.</context>
+      <utterance>Need someone to blow on your hands?</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>He looks at her sincerely as he hands her the plastic cup from the machine.</context>
+      <utterance>Did you know that I.always wanted to make you coffee? I tried once -- when you were in the shower -- but it didn't turn out right, so I threw it out and cleaned everything up so you wouldn't know. I don't like doing things I'm not good at -- like making coffee and saying I'm sorry...</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context>They exchange a tender glance, and then Leslie takes a sip from the steaming cup.</context>
+      <utterance>Leslie, I'm sorry.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alec, this is soup.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>Alec's nervousness turns to embarrassment as they both start to laugh. Old feelings surge.</context>
+      <utterance>This is soup.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context>They look at each other for a moment.</context>
+      <utterance>I love you.</utterance>
+   <speaker>LESLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We need time.</utterance>
+   <speaker>ALEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know.</utterance>
+   <speaker>ALEC</speaker>
+      <mode>CONTINUED</mode>
+      <context></context>
+      <utterance>ST. ELMO'S FIRE - Rev. 10/11/84 116A.</utterance>
+   <speaker>181 CONTINUED:  181</speaker>
+      <mode>AL</mode>
+      <context></context>
+      <utterance>Kirbo comes running over.</utterance>
+   <speaker>KI RBO</speaker>
+      <mode></mode>
+      <context>Alec and Leslie Join him and they quickly move to where Jules. Kevin and Wendy are saying goodbye to Billy who has his suitcase and sax. A bus waits.</context>
+      <utterance>The bus is leaving.</utterance>
+   <speaker>JULES</speaker>
+      <mode></mode>
+      <context>She hugs him expansively. Billy next kisses Leslie and shakes hands with the guys at the same time. Wendy waits until last and then they embrace emotionally.</context>
+      <utterance>'Bye, baby.</utterance>
+</dialogue>
+
+<dialogue id="152" n_utterances="5">
+   <speaker>181 CONTINUED: 181</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She whispers into his ear.</utterance>
+   <speaker>WENDY</speaker>
+      <mode></mode>
+      <context>Billy smiles at her as she fights tears.</context>
+      <utterance>Go ultimate.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll keep in touch.</utterance>
+   <speaker>WENDY</speaker>
+      <mode>LAUGHING</mode>
+      <context>He wants to say more to all of them, but the bus is wait- ing and he hops on it. The door closes and the bus backs out of the terminal. Billy stands near the driver and waves out at them.</context>
+      <utterance>No, you won't.</utterance>
+   <speaker>HIS FRIENDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>watch him pull away.</utterance>
+</dialogue>
+
+
+</movie>

@@ -1,0 +1,4567 @@
+<movie id="168" title="Devil s Advocate">
+
+<dialogue id="1" n_utterances="7">
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... we go back to our homeroom for dismissal, unless you have a pass for sports or something.</utterance>
+   <speaker>PROSECUTOR</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>And is that what you did on the day in question?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Mr. Gettys asked me to stay after class.</utterance>
+   <speaker>PROSECUTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened next, Barbara?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Gettys closed the door.</utterance>
+   <speaker>PROSECUTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everyone else had gone?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context>MR. GETTYS, the defendant, is 50. The very picture of respectability. His perfect wife and son staunchly enduring this testimony.</context>
+      <utterance>Yes. He told me to sit in the chair beside his desk.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="7">
+   <speaker>PROSECUTOR</speaker>
+      <mode></mode>
+      <context>KEVIN LOMAX. Defense counsel. Taking it all in.</context>
+      <utterance>In your own words, Barbara, can you tell us exactly what happened during the next few minutes?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode>O.S.</mode>
+      <context>Kevin -- his eyes -- drifting around the courtroom -- taking inventory -- assessing damage --</context>
+      <utterance>I told him I was afraid I would miss my bus. He promised I would get to the bus on time if I would help him to do something...</utterance>
+   <speaker>BARBARA</speaker>
+      <mode>O.S.</mode>
+      <context>Kevin -- checking the jury and --</context>
+      <utterance>... Then he put -- before I could say anything -- he placed his hand inside my blouse...</utterance>
+   <speaker>BARBARA</speaker>
+      <mode>O.S.</mode>
+      <context>Kevin -- checking Gettys -- seeing something that stops him cold --</context>
+      <utterance>... I was so frightened I didn't move. I thought if I was just quiet it would be okay...</utterance>
+   <speaker>BARBARA</speaker>
+      <mode>O.S.</mode>
+      <context>Gettys' hand -- down below the table -- down where no one but Kevin could possibly see it -- Getty's fingers subtly feeling their way along the leg of his chair --</context>
+      <utterance>... Then his other hand went up under -- inside my skirt...</utterance>
+   <speaker>BARBARA</speaker>
+      <mode>O.S.</mode>
+      <context>Kevin -- glancing around -- nobody else can see it --</context>
+      <utterance>... his hand then, it started, he started, moving back and forth -- farther and farther inside my skirt...</utterance>
+   <speaker>BARBARA</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>... he said he was testing to see if I had any special feelings, that he wanted to find out what kind of feelings I had...</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="11">
+   <speaker>BARBARA</speaker>
+      <mode>O.S.</mode>
+      <context>Kevin is rocked. Trying not to show it.</context>
+      <utterance>... I didn't know what to say, I was trying to think of something to say but I was confused and he just kept on -- with his hand -- moving it -- under my dress -- higher and higher...</utterance>
+   <speaker>BARBARA</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>... then I, I was asking him to stop but it was like he couldn't hear me -- he just kept on -- Suddenly, Gettys' hand stops moving --</utterance>
+   <speaker>BARBARA</speaker>
+      <mode>O.S.</mode>
+      <context>Kevin looks up to find Gettys' eyes waiting for him. Gettys quickly returns his hand into his lap. He's been caught -- watching, as Kevin turns away and --</context>
+      <utterance>-- and then I screamed...</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... then he, he got mad and said we would have to try again sometime.</utterance>
+   <speaker>PROSECUTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And did he try again?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not with me.</utterance>
+   <speaker>PROSECUTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With friends of yours?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>PROSECUTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And when you told them what he had done to you, they told you what he had done to them, isn't that true?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>PROSECUTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have nothing further.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="2">
+   <speaker>JUDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your witness, Mr. Lomax.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any chance, Your Honor, for a short recess?</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="7">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lloyd, as your attorney, I'm advising you to get the fuck away from me.</utterance>
+   <speaker>GETTYS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why? What are you talking about?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>You definitely had me fooled.</context>
+      <utterance>The wife. The kid. The outrage.</utterance>
+   <speaker>GETTYS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're my lawyer! You're here to defend me!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what I'm thinking? Why don't we put you on the stand and you can jerk off for the judge.</utterance>
+   <speaker>GETTYS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know she's lying.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Gettys standing aside, as we --</context>
+      <utterance>Get the hell out of my way.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="6">
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, hell, there you are. Rumor was you were out wandering in traffic.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not now, Larry.</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the game plan, Kevin? I got a four-thirty deadline. I need a quote. Gimme a quote.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck off.</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context>Kevin pulls some cold water to his face. Startled, as THUNDER EXPLODES overhead -- then just as suddenly, becomes nothing more than the urinal flushing...</context>
+      <utterance>'Mr. Lomax had no comment on today's events. Speculation, however, was widespread that the young lawyer's unblemished string of victories would come to an end in this courtroom.'</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context>The Reporter exits. Kevin alone with the mirror. And then it's over. He's made his decision. Replacing his wedding ring. Reaching for his jacket, as we --</context>
+      <utterance>It was a nice run, Kev. Had to close out someday. Nobody wins 'em all.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="13">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Math hasn't exactly been your subject this year, has it?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any theories on why you've done so poorly in math this year?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not my fault.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you say Mr. Gettys is the problem?  You're not sure. Have you had any discipline problems in math class this year?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No? Isn't it true Mr. Gettys has had to talk to you repeatedly about your behavior? Isn't that why he asked you to stay after class?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have other teachers ever asked you to stay after class?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Once or twice.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did they want to talk about your behavior?</utterance>
+   <speaker>PROSECUTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Objection. Immaterial.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goes to motive.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="11">
+   <speaker>JUDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Overruled. You may answer the question.</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know what the other teachers wanted. You'd have to talk to them.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ever pass notes in class, Barbara? Maybe a note that made fun of Mr. Gettys?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No? Never called him a 'disgusting pig monster'?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context>Kevin handing out paperwork.</context>
+      <utterance>No.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Honor, I've pre-marked this Defense Exhibit A...</utterance>
+   <speaker>PROSECUTOR</speaker>
+      <mode></mode>
+      <context>The Judge quickly studying his copy of the note.</context>
+      <utterance>Objection, Your Honor, we've had plenty of time for discovery here.</utterance>
+   <speaker>JUDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm gonna let this in, Mr. Lomax, I'm also gonna suggest that if you have any other exhibits you present in a timely fashion or not at all.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, Barbara, I was wrong, it's 'huge hog beast'. This is your handwriting, isn't it?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, but --</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="11">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wrote this in his class.</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a joke.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'He's a huge hog beast. He probably eats a thousand pancakes for breakfast.' You're writing here about Mr. Gettys, aren't you?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was meant to be a joke.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you ever had a party at your house when your parents were away?  Yes or no?</utterance>
+   <speaker>PROSECUTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Objection. This is way out of...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Credibility and bias.</utterance>
+   <speaker>JUDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Overruled. Answer the question.</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The word special came up in your testimony earlier. You claimed that Mr. Gettys asked you whether you had special feelings, if you felt special.  Have you ever heard of a game called 'Special Places?'  You're under oath, Barbara. A man's career -- his reputation -- his life is on the line. This is not a joke. Have you ever played the game Special Places?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="12">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is this game sexual in nature?  Is this game sexual in nature?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We only played it once.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This special party, Barbara, this was the first time you told the story about Mr. Gettys.</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've spoken to the other children who were there that day. Can you think of anything else, Barbara, they might have told me about that party?</utterance>
+   <speaker>PROSECUTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Objection. Your Honor, if he has other witnesses let him call them.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I need to call those other children, I will.</utterance>
+   <speaker>JUDGE</speaker>
+      <mode></mode>
+      <context>Rephrase your question.</context>
+      <utterance>I'm gonna sustain that, Mr. Lomax.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You threatened those children, didn't you?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not the way it happened --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You told them to falsely claim that Mr. Gettys had hurt them, didn't you?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These things did happen!</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="6">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because if they didn't go along you were going to tell everyone about this special party.</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They happened to me.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you made up a story. A special story, about a math teacher -- a disgusting pig monster -- you didn't like. That's what really happened, isn't it?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context>BARBARA'S FATHER can take it no longer -- suddenly on his feet -- charging --</context>
+      <utterance>I didn't want to be the only one!</utterance>
+   <speaker>BARBARA'S FATHER</speaker>
+      <mode></mode>
+      <context>The bailiff making a diving grab --</context>
+      <utterance>You son of a bitch!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Chaos -- court officers struggling with Barbara's Father and people yelling and Gettys hugging his wife and son and the gavel banging like mad and Kevin just sitting there, staring at the floor, completely drained, emotionally, morally, physically and -- In the back of the room, a man. He's black. Elegant. Amused by the scene. His name is LEAMON HEATH. MARY ANN LOMAX leans in behind her husband. She is a doll. We love her.</context>
+      <utterance>I have no further questions, Your Honor.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="4">
+   <speaker>LAWYER #1</speaker>
+      <mode>O.S.</mode>
+      <context>Kevin, subdued, watches the rest of them drink.</context>
+      <utterance>In the event we all get drunk and forget, I suggest we frontload the ceremonial bullshit...  To the best damn trial lawyer in Alachua County.</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, Kev, off the record, how's it feel to squeeze a man like Gettys through the door of reasonable doubt?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.  I told you already, we're not gonna discuss that damn case anymore. Done.  Am I right?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll drink to that.  No shop talk.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="9">
+   <speaker>HEATH</speaker>
+      <mode>O.S.</mode>
+      <context>Kevin turns -- Leamon Heath standing beside him.</context>
+      <utterance>Mr. Lomax?</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Helluva job today.  I didn't want to disturb your party.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Milton, Chadwick, Waters. Never heard of it.  What're you gonna do? Sue me?</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Actually, we were hoping to retain your services. We've been following your progress.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>From New York.</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've never lost a case.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've had some sympathetic juries.</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's exactly what we're looking for. We want you to come to New York. Help us pick a jury.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really.  I'll tell you, man. You're pretty damn good. And the card is great. And the black thing -- you being black -- whose idea was that? Paul's? 'Cause that's just brilliant.  I'm just not drunk enough yet to fall for it.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's two weeks at most.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've never been to New York.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="13">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every dog gets a day.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pick a jury...  I feel the hand of Mary Ann on this adventure.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>New York is not a good idea.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, how you fixed for cash?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have my bad feeling.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I put a couple hundred in here...</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds like more than two weeks.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mary Ann typed out the numbers for you -- phone, the flights -- it's all in there.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me tell you about New York.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Babylon.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forewarned is forearmed.  'Fallen, fallen is Babylon the great. It has become a dwelling place of demons.' Revelation Eighteen. Wouldn't hurt you to look it over.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Couldn't forget it if I tried.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="3">
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And what happened to Babylon?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Thou mighty city. In one hour hast thou mighty judgement come.'</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context>Kevin gathers her in. Kissing her good-bye, as we --</context>
+      <utterance>'And the light of a single lamp shall shine in thee no more.'</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="4">
+   <speaker>KEVIN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>-- wait -- leave 'em off --</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>-- what are you... I can't --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode>O.S.</mode>
+      <context>More LAUGHTER. Stumbling shadows moving PAST us and --</context>
+      <utterance>-- close your eyes -- do it --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Okay. Stop.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. Open your eyes.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="6">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Go ahead...'  '... bite the Big Apple.'</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'... Rats on the West Side, bed bugs uptown, I can't give it away on Seventh Avenue. This town don't look good in tatters...'</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know... looks to me like that dress is in your way.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why, counselor...  Surely you don't think a small- town girl changes overnight just because a man buys her dinner in the big city.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, ma'am. In fact, I hardly ever think at all.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>Kevin smiles. She's taking off the dress. Babylon.</context>
+      <utterance>Well, that's different, then. You're my kind of guy.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="3">
+   <speaker>MEISEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you think as a juror you'd be able to set aside any prior opinions you might hold about the savings and loan industry?  That was a question, sir.</utterance>
+   <speaker>PIE-FACE</speaker>
+      <mode></mode>
+      <context>Heath catches Meisel's eye. Waves him over.</context>
+      <utterance>What? Do I like bankers?</utterance>
+   <speaker>MEISEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Honor, may I have a minute to speak with my colleagues.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="6">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dump him. While you're at it let's get rid of number six, eight, and I'd say lose number twelve, except the prosecutor's gonna fuck up and do it for us.</utterance>
+   <speaker>MEISEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Number six? You're kidding, right? She's my first choice.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's my first pass.</utterance>
+   <speaker>MEISEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And eight? With the dreadlocks? That's crazy. He's a defendant juror if I ever saw one.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see his shoes?</utterance>
+   <speaker>MEISEL</speaker>
+      <mode></mode>
+      <context>We're not squeezing oranges here.</context>
+      <utterance>Look, kid, maybe down in Florida you're the next big thing, but this is New York. Manhattan.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="8">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>She's damaged goods.</context>
+      <utterance>He polishes those shoes every night. He makes his own clothes. He may look like a brother-with- an-attitude to you, but I see a man who's got a shotgun under his bed and woe betide the creature who steps into his garden.  And number six? Your favorite?</utterance>
+   <speaker>MEISEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's a Catholic schoolteacher.  She believes in human frailty.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. There's something missing from her. She's wrong.  She wants on this jury. Somebody hurt her and she wants revenge.</utterance>
+   <speaker>MEISEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How the hell do you know that?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>MEISEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, either you put a stop to this happy horseshit or I walk.</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Walk.</utterance>
+   <speaker>MEISEL</speaker>
+      <mode></mode>
+      <context>The defendant staring a hole into Kevin, as we --</context>
+      <utterance>All right. Here's the deal.  I lose with your jury? You do the explaining.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="5">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your mother called. She has her bad feeling.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every now and then she gets one right.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's up?  You okay? Something's up.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They deliberated for thirty-eight minutes.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh shit...</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="8">
+   <speaker>MARY ANN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Oh, Kevin... I'm sorry, honey. What the hell did they expect? The man is guilty as can be. Wasn't a jury anywhere gonna let him off.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. Except one.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kev....</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not fucking guilty.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Omigod...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thirty-eight minutes. My jury.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You did it! Omigod, Kevin...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Put on something that's gonna be easy to take off later. We are going out, girl!</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="2">
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context>Kevin slowing as they pass an open doorway --</context>
+      <utterance>We've got forty partners vested at the moment. Close to six hundred associates. This is the home office, but we've got quite a few international arrangements, so Mr. Milton spends a good deal of his time in the air. In addition to our corporate clients, we're currently representing about twenty-five foreign countries. Mid-East, Balkans, Central America, West Africa. Interesting work, but travel intensive.</utterance>
+   <speaker>HEATH</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>He's got you scheduled for fifteen minutes, which is a good sign, so make the most of it...</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="3">
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I watched a Senator piss his pants right where you're standing.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great.</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context>Kevin sucks it up. Starts walking. Up ahead, nothing but an open door.</context>
+      <utterance>He's waiting for you. Good luck.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="7">
+   <speaker>MILTON</speaker>
+      <mode>O.S.</mode>
+      <context>Kevin turns. There he is.</context>
+      <utterance>Behind you.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry. Didn't mean to...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Please.  Kevin Lomax.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>John Milton.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nice to meet you.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have we been treating you well?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very well. Thank you.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="14">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your wife, she's had a good time?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>The whole thing's been great.</context>
+      <utterance>She sure has. It's been great.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good. That's our secret. We kill you with kindness.  What's your secret?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I couldn't say.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were a prosecutor.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Out of law school. Five years in the Jacksonville D.A.'s office.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>What a number.</context>
+      <utterance>Sixty-four straight convictions.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I like to be in court. I didn't plea out a lot.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that like? One day you're putting them away and the next you're setting them free?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Takes a little getting used to.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pays better though, doesn't it?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes it does.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The math teacher. The Gettys case. I hear you were brilliant.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Prosecutor dropped the ball.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="9">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really. So you think your guy was guilty.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't say that.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you say?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's this? I began the case with a clear conscience.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was sure you had a secret.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The men's room.  Upstairs men's room in the Duval County courthouse. There's a hole in the wall. Straight through to the next room.  I spent five years listening to juries deliberate.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love it.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Love it all you want, just don't repeat it. I'm not sure the Florida Bar Association would appreciate it.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't really want to go back to Florida, do you? Walk with me.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="10">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think? Some people can't handle it.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's peaceful.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Exactly.  Fill in the resume. Tell me about your family. What does your father do?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I never got to know my father. He passed away before I was born. My mom raised me. Just the two of us.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She never remarried?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She wasn't married the first time.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That can't be easy in Gainesville.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think it's easy anywhere.  Holy shit...</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>What's she like?</context>
+      <utterance>Little different when you're looking down, isn't it?  Tell me about her. Your mother.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's a preacher's daughter. She's tough. She's worked in the same poultry plant for as long as I can remember. I think she's up to eight-fifty an hour. She's got a church she really likes, so she's usually either there or they go out, they do a lot of volunteer work.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="13">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Many are in high places, and of great renown: but mysteries are revealed unto the meek.'</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So they say.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>The church?</context>
+      <utterance>Didn't rub off on you? The book?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm on parole. Early release for time served. Suddenly they're quiet. Silenced by the view.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lotta potential clients down there.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't have to sell me on New York.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You like it here, don't you?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are we negotiating?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Always.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do you need a criminal department?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because our clients break the law just like everyone else and I'm tired of sending their business across the street.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you offering me a job?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm thinking about it. You have the talent. I knew that before you got here. It's the other thing I wonder about.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="4">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What thing is that?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pressure. Changes everything. Some people, you squeeze them, they focus. Some people fold. Can you summon your talent at will? Can you deliver on deadline? Can you sleep at night?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When do we talk about money?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Money's the easy part.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="7">
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>I'm Jackie Heath...</context>
+      <utterance>You must be Mary Ann -- Welcome.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's so sweet of you to come by.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please. We live across the hall.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're kidding?</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right here.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So it's just two apartments per floor?</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't tell them about the apartment?</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="6">
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's what they call a classic eight.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We had them paint everything white. Let you see it naked before you pick your palette.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What am I picking?</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Palette. Your colors.</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need to warn you about one thing.  There are going to be some very envious people at the firm. These apartments, there aren't many of them, it's really a partner's perk. You must've made quite an impression.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Took us six years to get in here.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="4">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I sure as hell hope so.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They must want you pretty bad.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>You want to go home, I'm with you.</context>
+      <utterance>Look, Mare, I'm only getting behind this if you're on board.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>She smiles first. Kevin pulling her toward him, as we --</context>
+      <utterance>Sure. Let's go back to Gainesville. You can keep scrounging for clients and pumping out the basement and I'll keep repossessing cars for Akamian. Maybe, if we kill ourselves, in about five years we can afford a baby and a weekend shack at Gulf Shores.  Are you shitting me?</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="5">
+   <speaker>LAWYER #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Krasna. Maritime Law.</utterance>
+   <speaker>LAWYER #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Parvathi Resh. Energy law. I run the Islamic sub-group.</utterance>
+   <speaker>LAWYER #3</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joyce Rensaleer. Mergers and acquisitions.</utterance>
+   <speaker>LAWYER #4</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chan Sanyou. Intellectual property.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context>Christabella and another woman running in. Taking seats quickly. Christabella beside Kevin.</context>
+      <utterance>Eddie Barzoon. Managing Director.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="4">
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context>Primarily G-7 and E.C.</context>
+      <utterance>Christabella Adrioli. Economics.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There you go, Kevin. The whole team. I'm trying to think how long it's been since we were all together. All of us. Too long. I'm looking around, I know some of you came from very far away to be with us here today. It's appreciated.  This room we're in was built -- architecturally designed -- to promote healthy group dynamics. A psychic centrifuge. Makes you want to reach out, doesn't it? Inclusion. Commonality. Synergy. All that good shit. That's what I'm looking for today. Because when I hear stories -- the kind of stories I've been hearing -- about backbiting, about partners not working together, departments cutting each other's throats over clients, or worse... I feel drained. It drains me. I feel empty. I feel as though I've let you all down.  We need something. A gesture.  What do I need, Eddie?</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How about a public flogging?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Milton is first. Reluctance begins to fold.</context>
+      <utterance>Wait a minute. I got it. It's perfect. It's intimate. It's quick. Doesn't cost a thing. There's a power to it. What is it?  Let's hold hands. All of us. Together.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="5">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Kevin finds Christabella's hand at his side.</context>
+      <utterance>Right now. Every person at this table -- take the hand of the person on either side...</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want out of this, Eddie?</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've made your point, John.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Kevin watching Barzoon fold. Watching the circle form.</context>
+      <utterance>You won't hold hands?  It's important to me, Eddie.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See. See, I feel better already.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="4">
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess it'll do.</utterance>
+   <speaker>PAM</speaker>
+      <mode>O.S.</mode>
+      <context>In the doorway, PAM GARRETY. Never married. Two-pack-a- day habit. Tough as dirt.</context>
+      <utterance>Until something better comes along...</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin Lomax. Pam Garrety.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="3">
+   <speaker>HEATH</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Pam was with the Brooklyn D.A.'s office for fourteen years, so she knows her way around the local scene. She'll be your guide.  You're gonna be expediting his New York Bar application, right?</utterance>
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the pipeline. For now, we'll just have you work pro hac vice. We've petitioned Florida for a letter of good conduct. And...  ... I prepared, at Mr. Milton's request, an overview of the Moyez case.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Moyez case?</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="3">
+   <speaker>JUNKIE</speaker>
+      <mode>O.S.</mode>
+      <context>Three JUNKIES camped on the stoop of a burned-out brownstone across the street. Dull, wasted faces aroused by the DOG'S BARKING --</context>
+      <utterance>You get 'em! Go get 'em, man!</utterance>
+   <speaker>JUNKIE</speaker>
+      <mode></mode>
+      <context>Stopping instantly because -- a WOMAN is standing in the botanica doorway. Her skin is jet black. Her eyes are pale blue. Her hair is white. She holds a live chicken by its feet. The DOG is still BARKING so she slaps it. Hard. Now there is silence.</context>
+      <utterance>Tell her turn that shit down! I know what she's doin'! That's right! Tell 'em take that noise back t'Africa 'fore I --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>She moves aside. Kevin enters --</context>
+      <utterance>I'm looking for Phillipe Moyez.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Phillipe Moyez.</context>
+      <utterance>I called this morning, I'm not sure who I spoke with.  I'm his lawyer. I have a card...  They said he would meet me here.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context>Kevin taking a very deep breath, as we --</context>
+      <utterance>Bhalla! Bhalla!</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, I'm not sure I'm making myself clear here.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Moyez.  You need him. Speak wid him.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're saying he's down here?  In the basement? In the dark?</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context>Where you think me taking you?</context>
+      <utterance>Where? Where you think -- ?</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="9">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>I'm here about the animals.</context>
+      <utterance>Mr. Moyez?  We've never met. I'm a lawyer.</utterance>
+   <speaker>MOYEZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As you wish.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be arguing your case with the city. I need to ask you some questions.  I've done a little preliminary research -- precedent -- cases in the past that dealt with Santeria and Vou--</utterance>
+   <speaker>MOYEZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. This is not Santeria. We are not Voodoo. Candomble. Obeayisne. None of that. We are much older. Before. Before all of it.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. Is there a name? Or...</utterance>
+   <speaker>MOYEZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have papers. At your firm. We have the tax exemption.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. I'll get right into that.  The animals. Let's start with that, then.</utterance>
+   <speaker>MOYEZ</speaker>
+      <mode></mode>
+      <context>Moyez stands. Starts slowly across the room.</context>
+      <utterance>We have an investment in blood. Think of it as spiritual currency.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, Mr. Moyez, I'm going to need your help with this.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="8">
+   <speaker>MOYEZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. That's very clear.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Moyez, ignoring him, moves to an old refrigerator beside the stairs. For an instant, the door is open -- just a glimpse. Meat. Bags of entrails. Jars of blood. Moyez goes to a workbench near the wall --</context>
+      <utterance>Perhaps we could start at the beginning?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Moyez?</utterance>
+   <speaker>MOYEZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is the name of the man who will prosecute us?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Merto. Assistant District Attorney Arnold Merto.</utterance>
+   <speaker>MOYEZ</speaker>
+      <mode></mode>
+      <context>The Boy already running up the stairs. The sound of NAILS FALLING onto the workbench --</context>
+      <utterance>Bhalla. La chemise noire. Vite!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Moyez stands aside, wiping his hands on his trousers. A huge beef tongue sits on the bench. The nails are scattered around it.</context>
+      <utterance>What are you doing, Mr. Moyez?</utterance>
+   <speaker>MOYEZ</speaker>
+      <mode></mode>
+      <context>Moyez now with a hammer. And the nail. Driving it into the tongue. Kevin backing away, as we --</context>
+      <utterance>You can go now. You will have all the help I can give you.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="6">
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a health code case. And it's a loser. So what's the point?  It's a test, right?</utterance>
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Isn't everything?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The smart thing to do is make a deal. Plea him out and suppress the tape.</utterance>
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure the D.A.'s waiting for your call.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, well, let him wait.  And you can tell Milton too.  I didn't come to New York to plea bargain.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="5">
+   <speaker>KEVIN</speaker>
+      <mode>O.S.CONT'D</mode>
+      <context>Merto begins to cough. Quietly at first, but...</context>
+      <utterance>It's certainly not a religious practice performed by everyone. It's not as common as, say, circumcision. It's certainly not as common as the belief that wine is transformed into blood. It's not even as common as the handling of poisonous snakes to prove one's faith. But Phillipe Moyez isn't two thousand miles away in a stockyard. He doesn't use electricity to kill. And worst of all...  Phillipe Moyez is not shrink- wrapped.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Merto's coughing getting worse as he tries to stop...</context>
+      <utterance>Your Honor, the city timed this police action to catch my client exercising his constitutionally- protected right to religious freedom.</utterance>
+   <speaker>JUDGE SKLAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is a law protecting Kosher butchering.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Moyez staring a hole in Merto, and the man cannot stop coughing...</context>
+      <utterance>Exactly, Your Honor. And I'd like to move at this time for an immediate directed verdict for dismissal.</utterance>
+   <speaker>JUDGE SKLAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I happen to know a little bit about Kashrut law, Mr. Lomax.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm aware of that, Your Honor, which is why I feel confident in requesting a dismissal.</utterance>
+   <speaker>JUDGE SKLAR</speaker>
+      <mode></mode>
+      <context>Merto can't speak -- wheezing and coughing, as we --</context>
+      <utterance>Mr. Merto?</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="3">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bravo, Kevin. Bravo.  Pamela, you're looking lovely.  Satisfied, Phillipe?</utterance>
+   <speaker>MOYEZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Always.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Kevin, trying to look modest and failing, as we --</context>
+      <utterance>Kevin, what can I say?  Outstanding.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="6">
+   <speaker>MILTON</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Guy like Moyez living in that subterranean shithole all the time he's running around with fifteen million dollars in the bank.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You gotta be kidding.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think? We're giving you away? He's paying us in goat's blood? I'm billing you out at four-hundred an hour, my friend. I don't see a whole lot of pro bono work in your immediate future.  Seriously, what I like, you got in there with him. Inside the cage. That's instinct. Can't be taught. You gotta hear that on your own. It's gotta be in your blood. It's molecular. I bet I've got five thousand lawyers working around the planet. I couldn't name ten -- couldn't name three -- I'd trust with Moyez.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what the hell are they doing?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are they doing? They're corporate lawyers, what do you think they're doing? They're busy reducing life and death to the proper position of a semi- colon. They're doing needlepoint. Push button battles. Push button wars. Armies that get so fucking far away from each other they need satellites to tell them who won. No pain. No sound. No smell. One big, multinational circle jerk. You, on the other hand, you're on the slaughterhouse floor. You can't help but smell your clients.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I figure you came to court to make sure I didn't fuck this up.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="6">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe I did. But don't get too cocky. No matter how good you are. Don't let them see you coming. That's the gaff, my friend -- make yourself small. Be the hick. The cripple. The nerd. The leper. The shit- kicking surfer. Look at me -- I've been underestimated from day one. Do I look like a master of the universe? That's your only weakness as far as I can tell.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The look. The Florida stud thing. 'Scuse me, ma'am, did I leave my boots under your bed?'</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never worked a jury didn't have a woman.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Milton escaping across the street.</context>
+      <utterance>You know what you're missing? What I have? This beautiful girl she's just fucked me every way she knows how -- we're done -- she's walking to the bathroom -- she turns back -- and there I am. It's me. And she smiles -- it's like a veil coming down across her face -- and that smile, that's a question mark, because she's looking at me, she's wondering, how did that happen? And see, right there, from that moment on, she's got a secret. I'm the hand up Mona Lisa's skirt. I'm the whisper in Nefertitti's ear. I'm a surprise. They never see me coming. That's what you're missing.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So why did you come down today?</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="7">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I knew it was gonna be good. Because I knew I was gonna like it. That you would shine -- that we would take this walk -- that we'd really talk. Why I came down? You want the truth? I'm an aging, hipster plutocrat. I came up from nothing. From dirt. I'm warming my hands on your talent --  Where's the chicken?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>A CHINESE MAN sits in a doorway --</context>
+      <utterance>What?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's the chicken? The chicken that plays tic-tac-toe. He used to be right here.</utterance>
+   <speaker>CHINESE MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, you passed it. Back that way.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a chicken, he's famous, he plays tic-tac-toe. He never loses.  Hey. Like you. Right?  Look, I'm rambling because I'm excited. You're in the part of the game I like best. The realm of the True Believers. You are a believer, aren't you?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I believe in the presumption of innocence.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Better a hundred guilty men go free than a single innocent be executed.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="6">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Something like that.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>You can't believe a little bit.</context>
+      <utterance>No. Exactly like that. It's faith. You're either in or out.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was kidding.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Token?</context>
+      <utterance>You're not here to amuse me. See, that's why people hate lawyers. So many of us have lost our faith. Don't let that happen to you.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Milton offering a token. Behind him, the entrance to the Canal Street station --</context>
+      <utterance>Excuse me?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Kevin taking the token, as we --</context>
+      <utterance>Learn the subways, Kevin. Use them. Stay in the trenches.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mare... Mare...?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>You're late...</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="4">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's all this?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode>O.S.</mode>
+      <context>Mary Ann up the hall in the bedroom door. Finishing her makeup for a night out.</context>
+      <utterance>All what?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>Kevin smiles. Drops his briefcase. Drops his pants.</context>
+      <utterance>Oh, that...  It was gonna be a nursery, but then I remembered you'd have to be home long enough to knock me up, so now I'm thinking of building a law library.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>She blows him a kiss. Ducking back into bedroom.</context>
+      <utterance>Save the thought. We were due up there fifteen minutes ago.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="5">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me I can handle this.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can handle this.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say something nice.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Something nice.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Promise me you won't leave me alone in there.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="3">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Promise.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How the hell did we get here?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Instinct.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="7">
+   <speaker>DIANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love the eights. The entire 'A' line -- such a great shell.  I do. I envy you. Starting from scratch. Do you have your fabrics yet? Tell me you don't.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not yet. I don't think so.</utterance>
+   <speaker>DIANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come with me. Instantly.  I'm borrowing your wife...</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context>Mary Ann giving Kevin a "help me" look as she's dragged into the party --</context>
+      <utterance>Be gentle, honey. These are normal people.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your first?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is this your first marriage?</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="4">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is that?</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My God, girl...</utterance>
+   <speaker>DIANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You haven't met him yet?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is he?</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="3">
+   <speaker>DIANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I swear he can hear us.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell, he can smell us.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Even as he says this, he's kissing their smiling cheeks. Mary Ann looking a little lost, as we --</context>
+      <utterance>Mary Ann? John Milton...  I was hoping we'd meet tonight. And here you are, already swimming with the sharks.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="10">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Deadbeats. I mean, that's what it comes down to. You can call yourself a finance trainee, or a financial resources adviser, or whatever, you're still spending most of your day trying to hammer car payments out of deadbeats.  No deadbeats here tonight.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd be surprised. There's a lot more fear in this room than you'd think.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do these people have to be afraid of?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>What scares you?</context>
+      <utterance>Each other. Themselves. Why?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not knowing who the deadbeats are.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll figure that out. There's only one thing worth being frightened of anyway, and that's being alone. Truly and finally alone.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I think you're right.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Responsibility.</context>
+      <utterance>You know what terrifies me?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For what?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For what. For you. Let's be honest, I've changed your life. Changed it forever. There's been a seismic shift in your existence and I'm responsible. And you've never even met me. We're talking for the very first time. How insane is that?</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="11">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a wonderful opportunity for Kevin.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin. Please. I'm not worried about Kevin. He buys a few new suits. Learns a few new tricks. He's there. I don't worry about Kevin. What about you?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not leaving a lot behind.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You must have family.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bad subject. I haven't spoken to my folks in a long time. My sister ran all the way to Germany.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoaa... I gotta think about that. I had you down as daddy's little girl, you know? The princess. Sugar plum snapshots. Pastel bedspreads. Cinnamon cookies.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I tell Kevin the only thing worse than not having a father was having mine.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>You've made a real commitment.</context>
+      <utterance>So you've got a lot at stake here.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess I have.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not gonna be like Gainesville, but then you know that already.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're gonna be fine. It's gonna be great.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="9">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If it isn't, will you come to me? Let me help? I'd feel a lot less responsible. Will you do that for me?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The worst vice is advice, right? But can I make a suggestion? It's about your hair, some people are sensitive, that's why I ask.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I mean, go ahead. You don't like it?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Pull it back.</context>
+      <utterance>You have shoulders nobody can see.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean, you want me to pull my hair back?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I do it, everyone in this room that's pretending not to watch us will assume we're fucking or something. Pull back your hair.  Take a look. See. That's it. Isn't that incredible? You need to cut your hair.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're kidding.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Mary Ann frozen there, as we --</context>
+      <utterance>A woman's shoulders are the frontlines of her mystique. And her neck, if she's alive, has the very mystery of a border town. It's the no man's land in the battle between mind and body.  You know, your natural color would really bring out your eyes...</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="13">
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you have this view?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry?</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>From your terrace, is this your view?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sort of. Not exactly. I'm about twelve floors down. What about you?</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I live downtown. This is the family building.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds like fun. Downtown, I mean. I'm just getting to know the city.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it everything you expected?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>More.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May we always have more than we expect. Salute.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amen.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you alone?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean, tonight?</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is your wife a jealous woman?  Silly question. We're all jealous, aren't we?</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="10">
+   <speaker>CHRISTABELLA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Oh, dear, I'm going to scare you away.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I doubt it.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You like to be on top, don't you?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of the situation. You prefer to be on top.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Depends on the view.</utterance>
+   <speaker>MILTON</speaker>
+      <mode>O.S.</mode>
+      <context>Milton in the doorway. He's been watching them.</context>
+      <utterance>You know what I see?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see the future of this law firm.  Christabella, cara, prestamelo per favore, pe lo riporto piu tardi.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context>Kevin can't help watching her walk away.</context>
+      <utterance>It's a boring party, anyway.  Ciao.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, we gotta talk. You grab Heath and Eddie Barzoon and get up to my place right away. And let's be quiet about it.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="5">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>The Men -- two vaguely familiar faces from the firm.</context>
+      <utterance>Sorry...  I'm looking for my husband.</utterance>
+   <speaker>MAN #1</speaker>
+      <mode></mode>
+      <context>Suddenly, a WOMAN's head rises INTO FRAME --</context>
+      <utterance>Don't think he's here.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's just us...</utterance>
+   <speaker>MAN #2</speaker>
+      <mode></mode>
+      <context>And suddenly it's clear, she's walked in on an impromptu menage a trois. The Woman is kneeling on a table, dress hiked up, ass in the air. Man 1 fucking her from behind. Man 2 is getting blown and -- Mary Ann IN SHOT as the woman begins to laugh and the door WIPES the FRAME.</context>
+      <utterance>But feel free to join in...</utterance>
+   <speaker>MAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>DEVIL'S ADVOCATE - Rev. 11/2/96 55.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="11">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is there more to it?</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just this room.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And a bedroom?</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No bedroom.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where does he sleep?</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who said he sleeps?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where does he fuck?</utterance>
+   <speaker>MILTON</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Everywhere.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's up, John?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many hours did we bill Alex Cullen last year?</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sixteen thousand, two hundred and forty-two.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="4">
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck did he do now?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alex Cullen has just been charged with murdering his ex- wife, her stepson, and a maid.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When did this happen?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just now. Tonight. I already sent Pam downtown to make bail arrangements.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="12">
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They'll fucking crucify him. They'll get in line. I gotta call Meisel...</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I want Kevin on this case.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context>You're dreaming.</context>
+      <utterance>I hope you're kidding.  Alexander Cullen in a Manhattan triple murder? With Kevin?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've shaken hands with every marquee defense attorney in town. I take Kevin and I don't look back.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a great judge of talent, John. You're the master. I just don't see it coming together.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want you on board, Eddie.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, I appreciate the vote of confidence, but maybe Eddie's got a point here.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can get this case. The man's our client.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a business client.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We know him better than he knows himself. We have the inside track. We have the best damn trial lawyer in the city. It's ours to lose.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell it to Cullen.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. That's up to Kevin.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="6">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You left me there. I had a fucking panic attack until Jackie told me where you were.  Three hours? You don't even call?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop. Reset. I'm upstairs, I'm with Milton and Barzoon and there is a very good possibility that I'm about to catch a triple homicide defendant who also happens to be the largest real estate developer in the city. I had to bail on the party!</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You bailed on me!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mare... did you hear me?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was all by myself!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For three whole hours...  You gotta be kidding, right? No, she's leaving. Kevin left there, alone --</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="2">
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... You may be right, but look at it from my point of view. I'm sure he's a whiz kid. I believe you. But this is my ass we're talking.  Jesus, Eddie...</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Who do you trust, Alex?</context>
+      <utterance>Alex, you know how this town works. You've got enemies you never heard of. And now? Now you're down? I'd prepare for a class-A, New York pig-fuck. You're going to have to ask yourself who you really trust.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="8">
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know... I gotta look around.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't have time to shop, Mr. Cullen.  Jury selection started this morning at every breakfast table in the city. You lost round one. This is what people know. They know you and your wife were living separately. They see this maid -- Elucinda -- a sixty-eight-year-old grandmother supporting seven children. And then there's your stepson, a ten-year-old with a bullet in his brain. Those are already powerful images in the mind of the public.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't kill anybody.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm telling you how it looks. You discover the crime. You call it in. You've got blood on your person and clothes, and --  -- and -- your prints are on the murder weapon.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you know that?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a second print in blood -- it's a partial of a hand -- on the wall next to th--</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have keys! I called the cops from the house! I touched the goddamn wall!  I was panicked! I panicked!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We need twelve people who can see past all that. I'd get out in front of this fast.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="7">
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I panicked! Is that a crime? I touched the wall!</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's right, Alex. People need to hear these things.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not happy tomorrow? The next day? We'll move over. But right now -- this moment -- you need immediate representation.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got a fourteen-year-old stepdaughter who I care more about than anything in the world. They won't let me call her from downtown. They won't let me talk to her after I'm out. I gotta go deal with that first.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Cullen looks to Milton. Waiting. Help me.</context>
+      <utterance>We need to issue a statement.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a winner, Alex. And they'll never see him coming.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm gonna make some very tough phone calls. Then I'm gonna take a pill and try to get some sleep. My place. Eight A.M. tomorrow. Alone.  And you better be every fucking inch as good as you think you are.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="8">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is three thousand dollars.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Know what you need to do? Buy it. Wear it once. And then throw it away. That'll loosen you up.</utterance>
+   <speaker>DIANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I say spend it all. If you're never gonna see your husband, you might as well have a relationship with his money.  I swear, if he wasn't afraid of me shooting my mouth off, Eddie would've put a cellulite clause in the pre-nup.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dr. Robert, I'm telling you, he's the miracle man. You've seen my new tits, I mean who does it better than that?</utterance>
+   <speaker>DIANA</speaker>
+      <mode></mode>
+      <context>Mary Ann turns. Jackie beside her. Topless. Smiling.</context>
+      <utterance>It's not my tits I'm worried about.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Real or not?  They look real...  They move real...</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Must be real.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>Before Mary Ann can stop her, Jackie is taking her hand, guiding it to her breast, and holding it there.</context>
+      <utterance>Feel them. Go ahead. That's the ultimate test.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="2">
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Feel real?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.  Absolutely. Real.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... first thing -- I need this ASAP -- I want articles, clippings, TV interviews, I want everything you can get on Alex Cullen.</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You better get a semi truck.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="14">
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Enjoying yourself?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry. I'm just...</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just what? Looking?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guilty.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Congratulations on Cullen.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What an incredible situation, even if you lose you become a star.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if I win?</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you win...  If you win it's everything.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any advice?</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cullen is a pig. He's a pig beyond reasonable doubt. I suggest you keep him as far away from the jury as possible.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll keep it in mind.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can look all you want, but I don't fuck married men.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What a relief. I was starting to think you were perfect.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="2">
+   <speaker>PAM</speaker>
+      <mode>O.S.</mode>
+      <context>He turns instantly -- Pamela standing behind him.</context>
+      <utterance>Kevin...</utterance>
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context>Christabella smiling as Kevin rushes off.</context>
+      <utterance>Your wife is on the phone. She sounds upset...</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="7">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't care if they can hear me! I don't care! I don't like it here. And these women, my God... I mean, I'm seeing things for crissake!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just left them in the store?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, calm down, all right? Listen to me... Mare? First, you do this radical thing with your hair...</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You hate it.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop. I think it's fine. But I also think it's traumatic. You've got the pressure of fitting in with new friends, a new place... add three bottles of wine and --</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! It wasn't the wine. It wasn't the wine or my hair or talking to Kathy, because I know that's what you're gonna say --</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="10">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about Kathy?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about her? She's pregnant again.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, and that's got nothing to do with it...</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin, I never see you anymore. Now that you've got this big case, it's just only gonna get worse. I don't know anybody here. These women scare the living shit out of me. If you can believe it, I'm actually looking forward to having your mother come and visit.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about the apartment?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Exactly! You just go out -- you buy a few new suits and you're fine. I've got this whole place to fill up and I know we have all this money and it's supposed to be fun, but it isn't! It's like a test! The whole thing is like one big test! I'm lonely.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's make a baby.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't tease me.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't do that. Unless you asked.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You hate my hair, don't you?</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="3">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>Kevin looks like he's been shot. In the balls.</context>
+      <utterance>Stop.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Mary Ann doesn't look so sure.</context>
+      <utterance>Right here.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="10">
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know why I picked it up -- it was before I saw Elucinda's body and then, I mean we've been over this...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You kneeled down to pick it up?</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context>It's not something you plan for.</context>
+      <utterance>You work late. You come home. You walk in. Everybody's dead.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Back up. Two prints by the gun. Right knee. Right hand. It's a strange move you must've made to pick it up.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The blood, I don't know, maybe I was trying to avoid the blood.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Cullen reaches into his jacket and pulls out a gun.</context>
+      <utterance>I'm trying to picture it...  Your hand came from inside and underneath.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context>Kevin watching Cullen quickly retrieve the gun from the floor with this weird little motion.</context>
+      <utterance>You want to see? Here...  I'll fucking show you.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay? Clear? Got it?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whose gun is that, Alex?</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's mine.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="13">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you out of your mind?  You're charged in a triple homicide, you're walking around with a forty-five?</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've had nine death threats.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give it over. Now. Gimme the gun.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I gotta protect myself.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Cullen hands him the gun.</context>
+      <utterance>That's my job. When the case is over you can have it back.  This is a dealbreaker, Alex.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. Let's wrap it up.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what's next?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We need to talk to your assistant.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call her.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You feel confident she'll back you on the time.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Melissa, yeah. She's okay. She's a real straight arrow.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So we're going to talk to her and you're not going to talk to anybody. Okay?</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No comment.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="3">
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would my babysitter have to testify?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We need her to establish the time you returned home.</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She doesn't have her green card is why I ask. I don't want her to get in trouble.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="4">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell you what, Melissa, let's talk to her first. See where she stands and take it from there.</utterance>
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll make sure Melissa gets down to the car.</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Cullen didn't kill those people.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>As Melissa exits with Pam, Kevin notices two associates carrying boxes far up the hall and we --</context>
+      <utterance>That's why we're all working so hard.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="3">
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context>Barzoon stops as he sees Kevin in the doorway.</context>
+      <utterance>Okay, Excelsior Insurance, who's handling that?  All this has to go. Guatemala, Sudan, Cyprus...  Let's stay organized here.  Martin, no. Devada Holdings. That's all you're doing. Believe me, it'll take all night.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought I was the only one working late.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So did we.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="14">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good news. We just wrapped up with Cullen's assistant. She looks like a great alibi.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What a pleasant surprise.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But it looks like you have your hands full.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just a little housekeeping.  If they ask, you never saw this.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who would ask?</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Weaver.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's that?</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Justice Department. Weaver Commission.  You don't know about Weaver?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How nice for you.</utterance>
+   <speaker>MILTON</speaker>
+      <mode>O.S.</mode>
+      <context>Milton in the hall behind Kevin. Tickets in hand.</context>
+      <utterance>Grab your coat, Mr. Lomax...</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The night is young.  Title fight. Ringside.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd have to call Mary Ann...</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do it on the way.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="5">
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You get my message?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You write beautifully, Eddie.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We need to talk.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Soon.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hope so.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="5">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what's this Weaver Commission?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Suddenly, one of the guys behind them, the biggest of the three, we'll call him BIG GUY, turns back --</context>
+      <utterance>I don't micro-manage. You find the talent and then you delegate. Who knows what the hell Eddie's up to. He's got a lotta fingers in a lotta pies.</utterance>
+   <speaker>BIG GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck you looking at?  You fucking deaf or something?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I can hear you just fine.</utterance>
+   <speaker>BIG GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good, 'cause I want you should get your skinny little ass somewhere down the fucking car away from me.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="6">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Big Guy pulls open his jacket -- a knife in his belt.</context>
+      <utterance>I'm not going anywhere.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>But Milton doesn't move. He smiles.</context>
+      <utterance>Oh, shit.  John...</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Big Guy backing away -- into his friends --</context>
+      <utterance>Maricela, the moment you left the apartment she was upstairs with Carlos. They're on the pipe right now, my friend. They're in the kitchen splitting a jumbo and then he's going to fuck her in the ass, right on your bed, and she's going to like it.</utterance>
+   <speaker>BIG GUY</speaker>
+      <mode></mode>
+      <context>The SUBWAY RATTLING into the Fourteenth Street station.</context>
+      <utterance>Como...? How do you...?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you say to him?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told him if he didn't leave us alone, you were going to kick all three of their asses.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="4">
+   <speaker>DON KING</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look at this sorry shit, you got better seats than me.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You need a better lawyer.</utterance>
+   <speaker>DON KING</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody better than you, Johnny.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Kevin shaking hands with Don King, as we --</context>
+      <utterance>Hang on a second...  Meet my new heavyweight. Kevin Lomax.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>CLICK. The LINE is dead. He looks at the cigarette. Takes a hit. Fuck it. And then his eyes find -- The dressing room across the hall. An open door. Inside, a woman, one of the dancers, all but nude, stepping into her dress. A simply perfect body. And then she turns TOWARD us and it's Christabella -- clearly -- for a single moment -- before she slams shut the door. Kevin crosses to the door. Knocks. And again. The door opens. A DANCER standing there. It's not Christabella.</context>
+      <utterance>And say what? He's the senior partner at the --  Mare, you're really starting to piss me off --  Yes. I'm having one cigarette. You want me to lie? One cigarette after seven months is not --  That's exactly what I'm saying. Go to bed. I have no idea.  I told you, he never sleeps.  Mare. Stop. The guy pays our bills. The food, the heat, the rent on that enormous fucking apartment we live in.  I live there, too!</utterance>
+   <speaker>DANCER</speaker>
+      <mode></mode>
+      <context>Kevin already backing toward --</context>
+      <utterance>Can I help you?</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="2">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>Mary Ann easing slowly forward.</context>
+      <utterance>You poor thing...</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>The baby turns to her voice. Smiling now.</context>
+      <utterance>How did you... how did you get here?  Are you okay? Look at you... hello... hello...  Where's your mommy?</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="3">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>Viscera. Entrails and blood and slime. The child's hands full of someone's insides...</context>
+      <utterance>What are you playing with? What do you have there? The baby offers his open hands --</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>The baby raising his hands toward her --</context>
+      <utterance>... Oh, God, no...</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>Stopping suddenly as she looks down at her body. Her nightgown is covered with blood. Just starting to scream, as we --</context>
+      <utterance>... no... please, God, no --</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="4">
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Took two seconals to get her out.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Milton got his hooks into me.</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Relax. We've all been there.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leave her with me. Let her sleep. She'll be out another five, six hours at least.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This transition, it's been really tough on her...</utterance>
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context>Kevin nods. Jackie ushering them out, as we --</context>
+      <utterance>We're gonna find some names for you. Doctors. Good people.</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="3">
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Caught me.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've gotta find Cullen.  We just got the prosecution discovery package.</utterance>
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context>Kevin just keeps going into --</context>
+      <utterance>That bad?</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="2">
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Careful...  You'll spoil me for other men.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what they all say.</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="5">
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I get one supervised hour a week with my stepdaughter. This is it. You better have a great reason to call me out.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your wife, the day she was killed, had lunch with a friend. She says and I quote: 'Alex is fucking around and I can prove it.'</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hearsay. Never gets in.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wrong answer.  Your prenuptial agreement is on file at the firm. The contract is null and void in the event of marital infidelity.  You fuck around, she gets rich.  That's a motive, Alex.  What do I need to know?</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Melissa. My assistant.  She's not even that good a fuck.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="10">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And, on the night in question?</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was boning my assistant while my wife was getting shot.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got to re-interview Melissa.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget it. We're not telling that story.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Cullen turns -- something more important --</context>
+      <utterance>Juries want honesty. Fuck with that at your peril.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context>Allesandra emerging from the building looking teary and distraught. Her THERAPIST helping her toward the limo.</context>
+      <utterance>Allesandra. Wait...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Arthur...</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not now.</utterance>
+   <speaker>THERAPIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Time's up, Mr. Cullen.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context>Kevin watching Cullen rush away, as we --</context>
+      <utterance>Allesandra. Please...</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="6">
+   <speaker>PAPARAZZI</speaker>
+      <mode></mode>
+      <context>Kevin reluctantly smiles. Get it over with.</context>
+      <utterance>Kevin, hey, how's it going? Can we get a couple shots here? How about a thumbs-up here? What do you say?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's he doing?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>FEENEY, the doorman, at the ready. Mary Ann first inside. Mrs. Lomax lingers a moment watching Kevin have his picture taken.</context>
+      <utterance>Kevin's had his picture in the paper.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welcome to Babylon, Ma.</utterance>
+   <speaker>FEENEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry, Mr. Lomax, I thought we'd scared 'em all away...</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Always did like to stick his nose in a camera.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="4">
+   <speaker>FEENEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And how are you, Mrs. Lomax? Did you have a fine dinner?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I surely did.  Are you hungry?</utterance>
+   <speaker>FEENEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm fine. Thank you.</utterance>
+   <speaker>MILTON</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Speak of the devil...</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="10">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was just telling the Moyez story.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And is this your mother?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Mom, this is...</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>John Milton. Nice to meet you.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alice Lomax. How do you do?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mary Ann...  I think you've met Christabella, and this is Giselle who's just in from Paris. A moment of bullshit superficial greetings and then -- the elevator doors opening and the whole uncomfortable clot of them moving into --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks for the champagne.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've very welcome.  This isn't really your first visit to New York, is it?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="12">
+   <speaker>GISELLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cette femme, elle est la mere de l'homme dont vous m'avez parle?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>I'm sure it wasn't easy.</context>
+      <utterance>She can't believe you're his mother. You've done one helluva job bringing him up, Mrs. Lomax.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context>Mrs. Lomax has been staring, and now Milton meets her eyes as the elevator stops and the doors open.</context>
+      <utterance>No.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nice to see you...</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context>Kevin next out, holding the door, waiting --</context>
+      <utterance>Have a lovely evening.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom, we're here...</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context>Mrs. Lomax takes one last look at Milton as she exits.</context>
+      <utterance>Yes. Good night to you.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin, hang on...  How's Cullen. Everything on beam?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>In the b.g., Mary Ann opening the apartment door and going inside. Mrs. Lomax right behind her.</context>
+      <utterance>That's a long conversation.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you come on up?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Milton smiles. Christabella smiles. Giselle smiles.</context>
+      <utterance>Now?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's talk tomorrow.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="6">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That what you're doing when you're working late?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are we talking about?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know exactly what I'm talking about.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's ridiculous.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going to bed.  'Night, Alice...</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context>Mary Ann exits.</context>
+      <utterance>'Night.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="10">
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm worried about her. You shouldn't fight like that.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not a fight, Ma, it's marriage. Not exactly your area of expertise.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you happy here?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you happy here?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're kidding, right? Am I happy? Every now and then I look around and I think my mama must be praying awful hard for me, 'cause I died and went to heaven. Am I happy?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were always running somewhere.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess I finally got there.  Look, I'm sorry about being so busy this week. Maybe Saturday I can get some time off and...</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry on it.  I love you more than anything in the whole world. You know that, don't you?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kevin turning out the lights, as we --</context>
+      <utterance>I love you too, Ma.</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="8">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom? Ma, what are you doing?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going home, Kevin.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? What are you talking about?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't feel right.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just got here.  Look, I'm late and I just got my teeth kicked in on the front page, so I gotta run. We'll talk later.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have to go, Kevin. I miss my church.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ma, this is New York, there must be twenty-thousand goddamn churches. Take your pick.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You need to do a better job with Mary Ann. She's not well. This place isn't good for her.</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="5">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So stay. Take care of her if you're so concerned! Help me out.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll take her home if you let me.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Unbelievable.</context>
+      <utterance>This is home. You understand? This is where we live! I'm not going back to Gainesville.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Wide is the gate, and broad is the way that leadeth to temptation.'</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Mrs. Lomax watching him go, as we --</context>
+      <utterance>It's a little early for scripture. I'm going to work.  You can do whatever you want.</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="4">
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't do it. It's one thing to have an affair with your boss, it's another to have to tell the world in a murder case.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have to bring it out, Melissa.</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My ex-husband would have a field day with this.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Melissa looking away, as we --</context>
+      <utterance>A man's life is at stake. You're our whole case.</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="7">
+   <speaker>WEAVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... there is nothing vague or exploratory about this subpoena request, Your Honor. We're specifically asking for any and all documents relating to Devada Holdings. It's taken six months and seventeen separate motions and we still don't know who's responsible here. We've got a paper trail here that seems to stretch into eternity!</utterance>
+   <speaker>WOMAN JUDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Barzoon?</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't turn over what you don't have, Your Honor. We've been conducting a comprehensive search of our records and I'm sorry to say it's a great deal less than Mr. Weaver would suggest.</utterance>
+   <speaker>WEAVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Honor, this is outrageous. We need to get in there and seize these documents before there's nothing left!</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Honor, it's exactly these types of insulting accusations --</utterance>
+   <speaker>WOMAN JUDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Enough. Both of you. Put it on paper. I'll read it.</utterance>
+   <speaker>WEAVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Honor...</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="9">
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context>A REPORTER pulls up alongside -- excited --</context>
+      <utterance>Forget about lunch. This guy Weaver is running me ragged.</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context>How are you?</context>
+      <utterance>Kevin. Nancy Osborne, Metro News.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Busy.</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We had a report of a private plane at Teterboro airport ready to take Alexander Cullen out of the coun --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Cullen is innocent. He's not going anywhere. He's been released on a two million dollar bond. He looks forward to having his day in court. Thank you.</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin, is there any truth to --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Barzoon is getting away. Kevin hustling to catch up.</context>
+      <utterance>I'm in the middle of a meeting. Call my office. Schedule an interview. Or else forget it.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm picking a jury tomorrow.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're good at that.</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="6">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not gonna have time to help me on Cullen, are you?</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context>Just then, Weaver comes rumbling past --</context>
+      <utterance>No.</utterance>
+   <speaker>WEAVER</speaker>
+      <mode></mode>
+      <context>Before he can answer -- ANOTHER REPORTER swoops in --</context>
+      <utterance>Devada Holdings, Eddie. Look in your rearview window, I'm right behind you.</utterance>
+   <speaker>REPORTER #2</speaker>
+      <mode></mode>
+      <context>Kevin turns to see two more REPORTERS jogging over.</context>
+      <utterance>Kevin, Chuck Higgery, Action News. Have you spoken with Alex Cullen concerning the D.A.'s report...</utterance>
+   <speaker>REPORTER #3</speaker>
+      <mode></mode>
+      <context>And a photographer -- Kevin under siege and --</context>
+      <utterance>Kevin, just a statement --</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context>Barzoon escaping as reporters begin to materialize from all sides, and we --</context>
+      <utterance>Gotta go.</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="2">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I dreamt about this.  Right here.  It's not a dream if it's true.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me this is the medication.</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="11">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You won't stay with me now.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, let's get you undressed and in the tub. Okay?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You won't stay. I know you. You'll leave me now for sure.  Get-away-from-me!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. I'm confused.  Why? What is it now? What the fuck is it today, Mare? I swear to God, I'm calling this doctor, I'm gonna find out what the hell they're giving you.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They took my ovaries. I told you!  My sisters have seven children between them. My mother had Derek when she was forty-five. You could set a clock by my periods.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't have children!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Says who?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The doctor! The other doctor. I was there today.  Non-specific ovarian failure.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>The PHONE begins to RING across the room.</context>
+      <utterance>That's ridiculous.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know you. You'll leave me.</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mary Ann...</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>The PHONE keeps RINGING. Kevin will finally pull away. Answering the phone O.S., quietly conducting business as Mary Ann falls apart.</context>
+      <utterance>It's these monsters, Kevin.  I dreamt this...</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="7">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh huh. For sleep. And she can take that during the day?  No, she won't be driving.  I'm gonna have the pharmacy call you right back. Thanks.  He thinks, he's not sure, he thinks it could be some kind of hormonal imbalance.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm taking you off the case.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want you to drop this case.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This case? Cullen?  John, I've got a jury showing up this morning.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you love this woman?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Of course I do.</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="9">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin, she's sick. Everyone will understand. I'll understand.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about Cullen?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll find someone new. You consult. You live to fight another day.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I put together a great jury.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>You move on.</context>
+      <utterance>It's a disappointment. We all have them. Embrace it. Use it.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hang on, we gotta talk about this.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's to talk? It's your wife, man. And she's very sick. And that's gotta come first.  Are you telling me the possibility of leaving the case has never crossed your mind?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what scares me? I quit the case. She gets better. And I hate her for it.  I don't want to resent her, John. I've got a winner here. I gotta nail this fucker down, do it fast, and put it behind me. Just get it done. Then put all my energy into her.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>I stand corrected.</context>
+      <utterance>I guess you have thought about it.</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="5">
+   <speaker>BROYGO</speaker>
+      <mode></mode>
+      <context>Done. The courtroom is silent. The jury liked him.</context>
+      <utterance>... And when all that evidence is laid before you, when all these pieces weave together, you will conclude -- you will know -- that Alexander Cullen is guilty of murdering three people in cold blood with malice aforethought.</utterance>
+   <speaker>JUDGE POE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Lomax...  We can break for lunch now, or you can do a stop and start...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If it's a choice, I'll go now. I won't be as long as Mr. Broygo.</utterance>
+   <speaker>JUDGE POE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Proceed.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We just spent our morning listening to Mr. Broygo talk about his 'evidence'. What he neglected to tell you is what this case is really about. He left out the most important fact of all: Alex Cullen was somewhere else when these murders took place. Now, Alex Cullen has done a lot of things I don't like. He's been a terrible husband to all three of his wives. He's been a destructive force in the lives of his step-children. He's cheated the city. His partners. His employees. He's paid hundreds of thousands of dollars in penalties and fines over the years. I don't like those things. I don't expect you to like them. There will be other things during the course of this trial that you will hear about and like even less. But this isn't a popularity contest. It's a murder trial and Alex Cullen hasn't killed anybody.</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="4">
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context>Kevin -- one push -- Cullen sent flying.</context>
+      <utterance>What the fuck was that? Are you out of your fucking mind?  They fucking hate me!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen to me like you've never listened to anybody before. I'm going to bust my ass to make sure they hate you. Because as long as you're out boning Melissa, you're not home killing your wife.</utterance>
+   <speaker>CULLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why didn't you tell me before?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then it doesn't look spontaneous.</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="5">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me put it this way, then: can you tell from a blood sample if the person were alive or dead?</utterance>
+   <speaker>TECHNICIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The victim? Of course not.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And there's a two hour window in which to place these murders.</utterance>
+   <speaker>TECHNICIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, you've got absolutely no way to determine the condition of the victims when Alexander Cullen put his hand on that wall.</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="4">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eddie...</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Saw you go in.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's up?</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Congratulations.</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="10">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not over yet.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not talking about the trial.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How the fuck does your name get on the firm's charter?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks like it's been there for years. Now you're a partner? When did that happen? I am still the managing director of this firm. You want my job? Take me head on. Backdoor me one more time and I'll take your partnership papers and stuff 'em down your throat.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know what you're talking about, but I sure as hell don't like your tone of voice.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bullshit.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got a problem with documents, I suggest you put together one of your late-night shredding sessions.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think you're tough enough to run this firm? Fine.  You tell Milton next time Weaver calls maybe I pick up the phone.</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="8">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was he drunk?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I doubt it. He was going running. What the hell was he talking about?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eddie's gotten himself into trouble again. And he wants me to save him. And I can't.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why does he think I'm after his job?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you have any experience with manic-depression?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not directly, no.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Milton already on the phone. Punching a number.</context>
+      <utterance>You do now.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, it's me.  Get Eddie Barzoon. Right away. He may be out running, so page him if you have to. It's an emergency.  Looks like you could use a drink.</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="3">
+   <speaker>OLD MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gimme your watch.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want the watch, old man? Come and get it.</utterance>
+   <speaker>BARZOON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>DEVIL'S ADVOCATE - Rev. 11/2/96 106.</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="2">
+   <speaker>MILTON</speaker>
+      <mode>V.O.</mode>
+      <context>Milton turns to find Kevin staring at him.</context>
+      <utterance>You take a look at Eddie Barzoon you gotta wonder if maybe God overplayed his hand. Maybe he made the game a little too interesting.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Milton watching him walk away, as we --</context>
+      <utterance>I'm gonna, I'm gonna go downstairs now. Put this stuff away.  Ice cream's already melting.</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="5">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You testified that the defendant called you at four-thirty to ask you to come to his office gym for the purposes of sex.</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Cullen, though, he's not just your lover, is he? He's the boss.</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So two hours go by before you act on his request?</utterance>
+</dialogue>
+
+<dialogue id="128" n_utterances="11">
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I went up at six-ten. I knew it was six-ten, they had weather coming on the news. I remember -- Cut off by --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. Stop.  This prosecutor is no fool. He's gonna change tempo, attitude, tone of voice -- he's gonna come out with questions you never thought of, just to screw you up.  So what do we do?</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes and no answers. Stay calm.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Exactly.  Is it your testimony, Ms. Block, that between the hours of six-ten and nine-forty you were engaged in sexual congress with the defendant?</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At any point during this three hour marathon, Ms. Block, did you lose sight of the defendant?</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did he use the bathroom?</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is he circumcised?  You understand the question?</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+</dialogue>
+
+<dialogue id="129" n_utterances="5">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So is he cut or not?</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Silence. Melissa looks away.</context>
+      <utterance>Which is it?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've been polishing his knob three times a week for six months and you don't know whether or not he's got foreskin?</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context>Kevin staring at her. Looking away. Moving quickly for the door, and into:</context>
+      <utterance>I've had it up to here with this fucking game. Why don't you take your questions and shove 'em up your ass.</utterance>
+</dialogue>
+
+<dialogue id="130" n_utterances="6">
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, Kevin --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's happened?</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eddie Barzoon...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about him?</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's dead. He was killed.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When?</utterance>
+</dialogue>
+
+<dialogue id="131" n_utterances="8">
+   <speaker>HEATH</speaker>
+      <mode></mode>
+      <context>Kevin standing there, holding Christabella. Feeling heat on the back of his neck and turning to find Milton at the far end of the hall. Their eyes lock --</context>
+      <utterance>Last night in the park. He was running if you can believe it.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>What is wrong with people?</utterance>
+   <speaker>HEATH</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>At least they got the scumbags who did it.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>LAWYER #1</speaker>
+      <mode></mode>
+      <context>Pam coming through the hallway like steel --</context>
+      <utterance>Two old, homeless crazies.</utterance>
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context>As Melissa appears in the conference room door --</context>
+      <utterance>Kevin... Kevin, I'm sorry, but you're due in court in thirty minutes.</utterance>
+   <speaker>MELISSA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are we through here, or what?</utterance>
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll bring Melissa down in the car, but you better get going.</utterance>
+</dialogue>
+
+<dialogue id="132" n_utterances="10">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't put her on the stand.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What choice do we have?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know she's lying.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because she didn't answer you fast enough? Did she lie to you? No. She said nothing. The fact is, you'll never know.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He killed those people.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You really believe that?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cullen set me up. Melissa, the whole thing, I know it.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, you gotta go with your gut.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's your advice?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Kevin unreadable. The SUBWAY CAR RATTLING away.</context>
+      <utterance>I'll back you either way. Hey, you think I haven't lost before?  We talked about this, Kevin. Pressure. Take a big whiff.</utterance>
+</dialogue>
+
+<dialogue id="133" n_utterances="2">
+   <speaker>JUDGE POE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Counselor...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I call Melissa Block.</utterance>
+</dialogue>
+
+<dialogue id="134" n_utterances="2">
+   <speaker>FEENEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She didn't look well, sir. Felix tried to talk to her, but she --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is she?</utterance>
+</dialogue>
+
+<dialogue id="135" n_utterances="10">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honey...  Mare. It's me.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He let himself in. You need to know that. The bath running, or something, I didn't hear him. I swear to you.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then we talked. We talked for hours.  I haven't talked to anyone, really talked to anyone in such a long time. You have this whole life and all I have is me and he was so clear about it all.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who let himself in?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came down here. I've just been sitting. I'm afraid to pray. I let him stay. I'm sorry. I'm sorry. I'm sorry, Kevin.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did somebody hurt you?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Milton. He fucked me, Kevin. I let him fuck me. I couldn't stop him.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? When?</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Today. This afternoon. All afternoon. God, I'm so ashamed...</utterance>
+</dialogue>
+
+<dialogue id="136" n_utterances="3">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Today? Today? Today. He was in court, Mare. He was in court, in my presence all afternoon!</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not crazy. I'm not. I swear.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>She stands. Throws open the comforter. She is naked. There are scratch marks all over her body.</context>
+      <utterance>I don't know, Mare. I don't know how much more of this I can take.</utterance>
+</dialogue>
+
+<dialogue id="137" n_utterances="3">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know why this is happening.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They want you to go to sleep.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the money, Kevin. Blood money. We just drank it down. Both of us. We knew it. Winning those cases, taking the money. We knew they were guilty. But you kept winning. Every time.</utterance>
+</dialogue>
+
+<dialogue id="138" n_utterances="3">
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do they say?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They don't know. It's bad. She's falling apart.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode>O.S.</mode>
+      <context>Kevin turns to see Christabella standing beside him. Jackie's concerned expression blossoms into a private, knowing smile now that Kevin has turned away. Christabella squeezes in, as the MUSIC SWELLS and THE PRIEST walks solemnly to the altar. Kevin caught in a high-intensity sexual cross-fire between Jackie and Christabella. He's tense. He's flipping out.</context>
+      <utterance>Do you have room for one more?</utterance>
+</dialogue>
+
+<dialogue id="139" n_utterances="2">
+   <speaker>THE PRIEST</speaker>
+      <mode></mode>
+      <context>Kevin staring at Cullen and the girl.</context>
+      <utterance>We are here today, to remember and pray and exalt in the spirit of Edward Barzoon...</utterance>
+   <speaker>THE PRIEST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Father, husband, partner, friend, colleague...</utterance>
+</dialogue>
+
+<dialogue id="140" n_utterances="3">
+   <speaker>THE PRIEST</speaker>
+      <mode></mode>
+      <context>Cullen's hand moving with purpose -- stopping -- waiting -- as Allesandra sits back and now his fingers find her skin -- stroking ever so subtly --</context>
+      <utterance>... taken from us so suddenly...</utterance>
+   <speaker>THE PRIEST</speaker>
+      <mode></mode>
+      <context>Cullen turns -- except it's not Cullen, it's Gettys -- yes, Gettys -- whispering in Allesandra's ear and --</context>
+      <utterance>... to contemplate evil. How it robs -- how it steals everything of value from us...</utterance>
+   <speaker>THE PRIEST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... farther from God's purpose...</utterance>
+</dialogue>
+
+<dialogue id="141" n_utterances="8">
+   <speaker>WEAVER</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Mr. Lomax?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No comment. I'll have something for you later.</utterance>
+   <speaker>WEAVER</speaker>
+      <mode>O.S.</mode>
+      <context>Kevin turns. Weaver walking beside him.</context>
+      <utterance>I'm a friend of Eddie Barzoon.</utterance>
+   <speaker>WEAVER</speaker>
+      <mode></mode>
+      <context>Justice Department.</context>
+      <utterance>Remember me? Mitch Weaver.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Staking out the funeral?</utterance>
+   <speaker>WEAVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looking for you actually.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>I need to talk to my wife.</context>
+      <utterance>I'm in a bit of a hurry right now.</utterance>
+   <speaker>WEAVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just wanted to ask you -- off the record -- I had a few questions about Eddie.</utterance>
+</dialogue>
+
+<dialogue id="142" n_utterances="3">
+   <speaker>WEAVER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Desoto and Dibalista, in Panama, that's a firm that specializes in opening bank accounts for judges all over South America. Huge drug cases. Murder. Everything.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Weaver left standing there, as Kevin rushes away -- through traffic -- across the street --</context>
+      <utterance>He's a lawyer! What the fuck do you want?  Stay off my back.</utterance>
+   <speaker>WEAVER</speaker>
+      <mode></mode>
+      <context>Kevin, across the street, stops.</context>
+      <utterance>This is a first time, last time offer!  I'm learning about you, Kevin. I talked to some old friends down in Florida this morning...  The Gettys case. The eighth grade teacher?  Found him this morning. He had the body of a ten-year-old girl in the trunk of his car.</utterance>
+</dialogue>
+
+<dialogue id="143" n_utterances="7">
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin... honey...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing here?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came this morning. I been calling the house and getting no answer and then I spoke to Pam and... I need to talk to you.</utterance>
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We got her on the first flight up this morning.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you all right?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just... I don't know.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context>Mrs. Lomax guides Kevin out. Mary Ann's vacant eyes watching them exit --</context>
+      <utterance>Will you excuse us a moment?</utterance>
+</dialogue>
+
+<dialogue id="144" n_utterances="2">
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context>I'll never forgive myself.</context>
+      <utterance>I never should've left. I knew it.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was gonna call you, I just...</utterance>
+</dialogue>
+
+<dialogue id="145" n_utterances="13">
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What I did, Kevin, I thought it was for the best. Loving you was always first for me.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's nothing you could've done.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I could've told you the truth.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About what?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've lied to you, Kevin.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Always.  Baptist Endeavor Youth Crusade, ninety-sixty-four. I was here. In New York. That night in the elevator, you never let me answer.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We stayed a week. The Tremont Hotel, it's not there anymore, I went by and it's gone -- they had a restaurant downstairs and we ate there almost every meal --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait. Stop.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your father was a waiter in that restaurant.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, this is great, Ma... this is just perfect --</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- honey, listen to me --</utterance>
+</dialogue>
+
+<dialogue id="146" n_utterances="7">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Now? You do this now? -- Because, I mean, your timing -- it's superb -- you wait thirty years? -- you fly up here -- you pick today? --</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Kevin, honey, wait --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- obviously I'm not under enough pressure -- I don't have enough on my mind, I need this little --</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen to me.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you doing this now?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context>Kevin overwhelmed -- walking away -- down the hall -- completely fritzed -- leaving her standing there --</context>
+      <utterance>Because I'm afraid!</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin. Kevin!  'Behold I send you out as sheep amidst the wolves.' Kevin just stopped walking.</utterance>
+</dialogue>
+
+<dialogue id="147" n_utterances="2">
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context>A hand mirror. Mary Ann turns away instantly --</context>
+      <utterance>Don't you look beautiful now.  Here. Have a look and see.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+</dialogue>
+
+<dialogue id="148" n_utterances="3">
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all right, dear. Look...</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Please...</utterance>
+   <speaker>PAM</speaker>
+      <mode></mode>
+      <context>Mary Ann opens her eyes. There's her reflection. She is beautiful. It's okay. She smiles. What was she afraid of? And then, the mirror shifts to find --</context>
+      <utterance>Go on. Take a look. See how beautiful you are?</utterance>
+</dialogue>
+
+<dialogue id="149" n_utterances="2">
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context>Mary Ann THROUGH the glass, jamming a chair up under the doorknob --</context>
+      <utterance>What's going on?</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context>Kevin jogging down the hall -- trying the door --</context>
+      <utterance>Kevin!</utterance>
+</dialogue>
+
+<dialogue id="150" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Mary Ann raising the blade to her throat and --</context>
+      <utterance>-- Mare! -- No! -- Look at me! --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kevin grabbing a folding chair -- swinging it --</context>
+      <utterance>-- Stop! -- No! -- Mare! --</utterance>
+</dialogue>
+
+<dialogue id="151" n_utterances="3">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>And she does. Watching him claw at the wire --</context>
+      <utterance>-- Mare! -- Hang on! -- I'm almost there! -- Look at me!</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>Pulling the blade across her neck --</context>
+      <utterance>I loved you.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Noooooooooo!</utterance>
+</dialogue>
+
+<dialogue id="152" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Mary Ann falling to the floor -- her bloody hand still holding the blade deep in her neck --</context>
+      <utterance>Oh, God, Mare, what've you done? -- no...</utterance>
+   <speaker>ORDERLY #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- why? -- Oh God, Mare, why?  We need a doctor in here!</utterance>
+</dialogue>
+
+<dialogue id="153" n_utterances="2">
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- please -- somebody -- help her! -- What are you all doing? Somebody! -- ORDERLY 1 turning the corner up ahead --</utterance>
+   <speaker>ORDERLY #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the hell's going on down here?</utterance>
+</dialogue>
+
+<dialogue id="154" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- no, Mare -- hang on -- please, Mare, I'm right here, it's gonna be okay, baby -- oh, God, Mare, why did you do this? --  Where's the fucking doctor?!</utterance>
+   <speaker>ORDERLY #1</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Oh shit, man...</utterance>
+</dialogue>
+
+<dialogue id="155" n_utterances="3">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing? Help her!</utterance>
+   <speaker>ORDERLY #1</speaker>
+      <mode></mode>
+      <context>YELLING in the hall now, and faces in the doorway. Mrs. Lomax crying and two weird patients from the next staring and... Pam. And only we can see it, but she's smiling...</context>
+      <utterance>Hey, look, I ain't no doctor...  Hang on -- lemme --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kevin holding her, but she's gone, as we --</context>
+      <utterance>-- please, baby, stay with me... it'll be okay -- it's gonna be fine just, just stay with me -- Oh God, Mare... please, baby...</utterance>
+</dialogue>
+
+<dialogue id="156" n_utterances="5">
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wish you'da let me help you.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Finish the story.  Nineteen-sixty-four. You're in New York. There's a waiter in a restaurant.  Finish the story.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context>Kevin's eyes settle on the suitcase. Mary Ann...</context>
+      <utterance>He talked to me. Nobody'd ever really talked to me before. Sixteen years old, a thousand miles away from home, somebody takes an interest... Working so hard, putting himself through school, I'd never met anybody like that. Knew the Bible, every word, just knew it by heart. Every meal, there he was, at my ear and I just... I didn't want that week to ever end. But it did. He came to say goodbye, it was late, and I started to cry and he said not to worry, 'Behold, I send you out as sheep amidst the wolves.' And that just stopped me cold because we'd spent that whole day at Bible study reading Matthew Ten and there was just no way for him to know about that, so I was... I took it as a sign. I let him in. And then everything was different. He was cruel. He was so cruel and I was so ashamed, I thought I'd die...</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I promised right there if God would let me back into His grace I would never leave again. I prayed there was a reason this terrible thing had happened. There had to be a reason. And there was. It was you. You were my blessing. You were reason enough to endure anything. How much I love you.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to hear you say it.</utterance>
+</dialogue>
+
+<dialogue id="157" n_utterances="9">
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His face -- that night -- I knew it was him and the same time I was confused -- and you were so proud you'd come to New York and done all this on your own, I didn't have the heart to tell you --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say it.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- you wondered yourself -- the apartment, the money, all this attention, everything out of nowhere...  Milton. He's your father.  Somehow he found us. Tracked you down.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kevin stands. Quiet fury. A machine.</context>
+      <utterance>He's always been there. I know that now. Watching. Waiting. He's been playing us like a game. Jerking us around. Destroying Mary Ann...</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I gotta go.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No... let it alone! Stay with me.  Forget about him! We can leave here. We can go home! We don't ever have to see him again!</utterance>
+</dialogue>
+
+<dialogue id="158" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't do that. You go home.  Pray for Mary Ann.</utterance>
+   <speaker>MRS. LOMAX</speaker>
+      <mode></mode>
+      <context>Kevin disappearing down the stairs. Mrs. Lomax dropping to her knees as his FOOTSTEPS ECHO away, and we --</context>
+      <utterance>Kevin, please... Honey!  I love you!</utterance>
+</dialogue>
+
+<dialogue id="159" n_utterances="8">
+   <speaker>MILTON</speaker>
+      <mode>O.S.</mode>
+      <context>Milton appears out of nowhere. Walking past Kevin.</context>
+      <utterance>You're right about one thing... I have been watching. Couldn't help myself. Watching, waiting, holding my breath. But I'm no puppeteer, Kevin...</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Kevin has a gun -- Cullen's gun, in his hand --</context>
+      <utterance>... I don't make things happen. Doesn't work like that. Free will -- it's like butterfly wings -- one touch and it never gets off the ground. I only set the stage. You pull your own strings.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you do to Mary Ann?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A gun? In here?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you do to my wife?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Kevin FIRES the GUN -- BANG! BANG! BANG! -- bullets pass right through him -- into the wall --</context>
+      <utterance>On a scale of one to ten, ten being the most depraved acts of sexual theater, one being an average Friday night run-through at the Lomax household, I'd say...  Six.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Kevin lowers the gun to his side.</context>
+      <utterance>Whoa... Got me! Damn!  That's my boy. Step on up! Stay angry! Keep hold to that great fury! Hang on tight, Kevin, because it's the final fig leaf.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+</dialogue>
+
+<dialogue id="160" n_utterances="12">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Yes. But why?</context>
+      <utterance>Never lost a case. Why? Why? Because you're so fucking good?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because you're my father.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I'm a little more than that. Awful hot in that courtroom, wasn't it? 'What's the game plan, Kevin?'  'It was a nice run, Kevin. Had to close out someday.'</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have so many names.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Satan.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call me Dad.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mary Ann, Barzoon, Weaver...</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on. You're not listening. Blaming me for Mary Ann? I hope you're kidding. You could've saved her any time you liked. She only wanted love. But you knew it wouldn't really work out, didn't you? Mary Ann in New York? Face it, you started looking to better- deal her the minute you got here.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a lie.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, it's not that you didn't care for her, it's just you were a little bit more involved with someone else. Yourself.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell do you know about love?</utterance>
+</dialogue>
+
+<dialogue id="161" n_utterances="8">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bio-chemically no different than eating large quantities of chocolate.  Don't be such a fucking chump. There's only one real sickness in all of creation and that is self- delusion. I told you to take care of your wife -- that the world would understand. And you made a choice. 'You know what scares me, John? I leave the case, she gets better and I hate her for it...' Remember?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You set me up. It's entrapment.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who told you to pull out the stops for Mr. Gettys? And Moyez -- the direction you took -- Snake handlers, Popes and swamis all feeding at the same trough -- whose ideas were those? And then Cullen -- knowing he's guilty -- seeing those pictures -- putting that lying bitch on the stand... What did I say, Kevin? Maybe it was time to lose, right? You didn't think so.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's my job. That's what I do!</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Exactly!  Vanity is definitely my favorite sin. Self love. It's so basic. What a drug. Cheap, all-natural, and right at your fingertips. Pride. That's where you're strongest. And believe me, I understand. Work for someone else? -- Hey, I couldn't hack it. 'Better to reign in Hell than serve in Heaven.'</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want from me?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do I want? I want you to be yourself!</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>DEVIL'S ADVOCATE - Rev. 1/18/97 136.</utterance>
+</dialogue>
+
+<dialogue id="162" n_utterances="8">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Christabella emerges from behind the bar --</context>
+      <utterance>I've had many children, Kevin. So many disappointments. Neurotic, indecisive wannabes. Over-eager, ham-handed butchers. Strung-out, priapic losers. And then there's you. Your mother, I'll tell you, she outstripped my wildest fantasy. That church she dragged you to? Every day? What training. What a challenge! It's awesome what you've done. How far you've come. Both of you... You and your sister.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Half-sister to be exact.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Surprise.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think, Kevin? What a scene, huh?</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't let him scare you.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait till you meet her mother.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is a test, isn't it? The whole game, you sitting there, keeping score.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. That's the other guy. I don't judge anybody. As far as I'm concerned, everyone's a winner.</utterance>
+</dialogue>
+
+<dialogue id="163" n_utterances="5">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm here, on the ground, my nose in it since the whole damn thing began. Why? Because I worship man himself. And it's my time now. Our time.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anybody want a drink? I'm having a drink.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is some pitch. You must need me pretty bad. What do you want?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eddie was right. Your name is on the partnership charter. I want you to take over the firm. You and your sister.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that it?</utterance>
+</dialogue>
+
+<dialogue id="164" n_utterances="12">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.  She's ovulating. Right now.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your vanity is justified, Kevin, you're the seed to a new future. Your son will sit at the head of all tables. You hold a special place in the history of all things.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want a child.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want a family.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Antichrist.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatever...</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Christabella begins to strip.</context>
+      <utterance>But I have to volunteer.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Free will. It's a bitch.  I need a family. I command an ever larger presence on the board. I'm busy and I need some help. There's a plan here. I've been conserving my energy. Synergy. Prioritize. It's the millennium, Kevin. Title fight. Round twenty. I'm ready to work.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what are you offering?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are we negotiating?</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Always.</utterance>
+</dialogue>
+
+<dialogue id="165" n_utterances="3">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you offering?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Revolution! Viva la causa!</context>
+      <utterance>Everything. Anything. All of it!  What am I offering? I'm offering bliss. Instant bliss. Bliss by remote control. Bliss on tap. That first line of cocaine. That walk into a strange girl's bedroom. The jury coming back in thirty- eight minutes. Freedom.</utterance>
+</dialogue>
+
+<dialogue id="166" n_utterances="4">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're right, aren't you? About me. I mean, I made all the choices, didn't I? Gettys. Cullen. Mary Ann. I did kill her, didn't I?</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Christabella passing Kevin, handing him her bra.</context>
+      <utterance>Don't be too hard on yourself.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's done. Forget it. It's all for us now.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Christabella lingering and Kevin leaning in... kissing her... just a moment before she pulls away --</context>
+      <utterance>God, she's just fucking stunning, isn't she?</utterance>
+</dialogue>
+
+<dialogue id="167" n_utterances="2">
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're right. I wanted to fuck her from the minute we met.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like that's wrong. Like there's anything wrong with that. That there could be laws preventing something so natural. That's our ticket in.  Did you know there were more students in law school right now than lawyers walking the Earth?</utterance>
+</dialogue>
+
+<dialogue id="168" n_utterances="5">
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>We've got a winner here, kids!</context>
+      <utterance>We're coming out, guns blazing. The two of you -- all of us -- acquittal after acquittal until the stench of it reaches so high into heaven it chokes the whole fucking lot of them! What we cannot legislate we will buy. What we cannot buy we will degrade. We will blow every fuse of enlightenment until it looks like a vandalized, neon sign! And while God is busy at his peephole -- as he deigns us with his disapproval -- as he lumbers around his empty kingdom like some overfed colonial governor -- as God sleeps late, we will win.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the Bible you lose. You're destined to lose.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context>Christabella -- her hands -- moving over her body --</context>
+      <utterance>Consider the source.</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop talking. Both of you.  Kevin, please...</utterance>
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>DEVIL'S ADVOCATE - Rev. 1/18/97 141.</utterance>
+</dialogue>
+
+<dialogue id="169" n_utterances="4">
+   <speaker>CHRISTABELLA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin, really, please...</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's right, my son. It's time to step up and take what's yours.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Kevin raises the GUN to his temple -- quick and simple -- SNAP! -- he's blown his brains out -- Milton stunned -- disbelieving for a moment and then an aura of fire and heat explodes around him --</context>
+      <utterance>You're right. It's time.</utterance>
+   <speaker>MILTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nooooooo...!</utterance>
+</dialogue>
+
+<dialogue id="170" n_utterances="3">
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context>Kevin nods. Smiles. Backs away. Into his seat. Gettys there beside him. Kevin will not look at him.</context>
+      <utterance>Honey, what are you doing?  Are you okay?</utterance>
+   <speaker>BAILIFF</speaker>
+      <mode></mode>
+      <context>The Judge enters. Takes his seat.</context>
+      <utterance>All rise for the honorable Justice Garson Deeds.</utterance>
+   <speaker>JUDGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're still under oath, young lady.</utterance>
+</dialogue>
+
+<dialogue id="171" n_utterances="2">
+   <speaker>JUDGE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Your witness, Mr. Lomax.</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>Another silence. But this one isn't very long. There will be chaos in the courtroom. Gettys will freak out and the press will start running for the phones and the Judge will be banging that gavel, as we --</context>
+      <utterance>Your Honor, I'm terribly sorry, but I can no longer represent my client. I need to be replaced as counsel.</utterance>
+</dialogue>
+
+<dialogue id="172" n_utterances="6">
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin! -- Hey!  Listen, this story -- this is the one, pal -- this is the one you dream about --</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There is no story.</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bullshit. A lawyer with a crisis of conscience? You gotta be kidding. It's huge!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context>You can cover that.</context>
+      <utterance>They're gonna disbar me, Larry.</utterance>
+   <speaker>MARY ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can they do that?</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not when I get through with the story.  You gotta talk, Kevin. You gotta gimme an exclusive.</utterance>
+</dialogue>
+
+<dialogue id="173" n_utterances="3">
+   <speaker>REPORTER</speaker>
+      <mode>CONT'D</mode>
+      <context>You're a star!</context>
+      <utterance>This is wire service. This is 'Sixty Minutes'. This is a story that needs to be told. It's you!</utterance>
+   <speaker>KEVIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call me tomorrow.</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context>Kevin nods. Holding Mary Ann's hand as they escape.</context>
+      <utterance>You got it. First thing.</utterance>
+</dialogue>
+
+
+</movie>

@@ -1,0 +1,3242 @@
+<movie id="384" title="Men in Black">
+
+<dialogue id="1" n_utterances="2">
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context>He squirts some wiper fluid onto the glass, which clears it up a bit, but now he sees something worse up ahead. It's a grouping of headlights, eight of them, all pointed at him, sealing off the road. He bites his lip and calls over his shoulder, to the back of the van. He speaks in Spanish, which is subtitled.</context>
+      <utterance>Goddamn bugs.</utterance>
+   <speaker>DRIVER</speaker>
+      <mode>CONT'D</mode>
+      <context>(Let me do the talking.)</context>
+      <utterance>Deja me hablar.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="3">
+   <speaker>AGENT JANUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well. Nick the Dick. What a surprise. Where you comin' from?</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was fishing in Cuernavaca.</utterance>
+   <speaker>AGENT JANUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure you were. What do you say we have a look at your catch?</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="20">
+   <speaker>AGENT JANUS</speaker>
+      <mode></mode>
+      <context>They pile out of the van. Some are parents with small children.</context>
+      <utterance>Me, I woulda thrown 'em back.  Vamanos. Fuera. Hagan una lina!</utterance>
+   <speaker>AGENT JANUS</speaker>
+      <mode>CONT'D</mode>
+      <context>He stops in the middle of his sentence, as another car is approaching, fast, its engine WHINING as it barrels down the road toward them. Several Agents pull their weapons. The new car pulls a hard right, goes off the road, spins around the INS cars, and SQUEALS to a sideways halt, silhouetted in front of their headlights. It's a boxy, black 1986 Ford LTD. TWO MEN get out, dressed in plain black suits, crisp white shirts, simple black ties, shiny black shoes. KAY, fiftyish, is the apotheosis of world-weary; his partner, DEE, mid-sixties, is just weary. They approach the INS agents.</context>
+      <utterance>What do you get, Nick? Hundred bucks a head? Two hundred? I hope you saved it all for your lawyer, pal, 'cause you're gonna need --</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll take it from here.</utterance>
+   <speaker>AGENT JANUS</speaker>
+      <mode></mode>
+      <context>Kay and Dee flash some form of ID.</context>
+      <utterance>Who the hell are you?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>INS Division 6.</utterance>
+   <speaker>AGENT JANUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Division 6? I never heard of Division 6.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Kay and Dee move past him and approach the row of nervous immigrants.</context>
+      <utterance>Really?</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What're we thinking, Dee?</utterance>
+   <speaker>DEE</speaker>
+      <mode></mode>
+      <context>He walks down the row, studying the faces, greeting each one cheerily in Spanish.</context>
+      <utterance>Tough call, Kay.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>One by one, their faces relax, reassured by Kay's calm demeanor. When he reaches the fifth Guy, he keeps the same cheery tone, but:</context>
+      <utterance>!Oye! Que pasa, coma estas? Hey!  No se preocupe, abuela. Bienvenida a los Estados Unidos.   A donde vas? San Antonio? Buscando trabajo, no? Buena suerta.   Es un placer verle aqui.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>The Guy smiles and nods. Kay stops. His own smile broadens and he drops a hand on the Guy's shoulder.</context>
+      <utterance>Que dices si te rompo la cara?</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Again, the Guy smiles and nods. Kay looks back at Dee.</context>
+      <utterance>No hablas ni una palabra del Espanol, verdad, amigo?</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>We got a winner.  Los restos estan libres a irse. Largense!</utterance>
+   <speaker>AGENT JANUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>(Get on the road and go.)</context>
+      <utterance>Tomen el camion, y vayeuse.</utterance>
+   <speaker>AGENT JANUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir, you can't just --</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Silence on the road. The Driver grins, jumps back in the front seat of the van. The others pile into the rear and they tear out of there.</context>
+      <utterance>Don't "Sir" me! You have no idea who you're dealing with!</utterance>
+   <speaker>AGENT JANUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ever heard of Division 6?</utterance>
+   <speaker>2ND INS AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There is no Division 6.</utterance>
+   <speaker>3RD INS AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are those guys?</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="10">
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He pulls out a small laser device, which he ZIPS neatly down the front of the man's clothes.</context>
+      <utterance>I think you jumped off the bus in the wrong part of town, amigo. In fact, I'll bet dollars to pesos that you're not --</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>The man's clothes fall to the ground, revealing what he really is underneath -- A SCALY SPACE BASTARD, about four-and-a-half feet tall, with a snouth, snail-like tentacles, and independently moving eyes on stalks at the top of his head. The only part of his camouflage not crumpled to the ground is the humanesque "head," which he still lamely holds in one of his hands. It's propped up by a stick, like a puppet, and it continues to make expressions as he holds it.</context>
+      <utterance>-- from anywhere near here.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>MIKEY replies -- an unfathomable combination of GRUNTS, SQUEAKS, and saliva.</context>
+      <utterance>Mikey?! When did they let you out of jail?</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Political refugee. Right.</utterance>
+   <speaker>DEE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know how many treaty articles you've just violated? Mikey makes a lame SQUEAK.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One, my ass. Try seven.</utterance>
+   <speaker>DEE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>From unauthorized immigration to failure to properly inoculate prior to landing.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Agent Janus SCREAMS. Mikey rips free of the rest of the "Mexican" disguise, knocks Dee out of the way, and takes off straight at Janus, SCREECHING a horrible Space Bastard screech. Janus freezes, terrified.</context>
+      <utterance>Ah, shit.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Dee struggles to roll over and change the controls on his gun, which fell out of his hand as he hit the ground.</context>
+      <utterance>Dee! Shoot him!</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Mikey keeps moving, covering the last few yards to Janus quickly. He steps on a rock, launches himself into the air, his dripping jaws cranked wide open -- -- there is a SIZZLING sound, a brilliant white flash -- -- and Mikey ERUPTS in a geyser of blue goo that splatters all over the ground, the trees, and Agent Janus' face. Behind where Mikey was, Kay stands, smoking weapon in hand.</context>
+      <utterance>Dee, for Christ's --</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="24">
+   <speaker>AGENT JANUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Th -- th -- th --</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"That."</utterance>
+   <speaker>AGENT JANUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That wasn't -- wasn't -- wasn't --</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He takes out a handkerchief and wipes off the Agent's face. As he does, Janus looks back to where Mikey blew up. Then at Kay. And then up at the stars. The other INS Agents burst over the rise, SHOUTING questions.</context>
+      <utterance>Human, I know. Oops. Got some entrails on you.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>From over the rise, car engines WHINE in the distance and headlights start to flash around them. Kay reaches into his pocket and pulls out a tubular metallic device the size of a pocket recorder. He checks his watch, figures in his head, then dials an electronic counter on the side of the device up to "08."</context>
+      <utterance>Okay, everybody, situation's under control, calm down. If you'll just give me your attention for a moment I'll tell you what happened.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Behind him, six more MEN IN BLACK, all wearing black suits and sunglasses, come over the hill. Kay barks a few orders to them.</context>
+      <utterance>This is called a "neuralyzer." A gift from some friends from out of town. The red eye here isolates and measures the electronic impulses in your brain. More specifically, the ones for memory.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Gimme a splay burn on the perimeter, please; holes at 40, 60, and 80.</utterance>
+   <speaker>2ND INS AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What in the hell is going on?!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Exactly the right question. And the answer lies right -- here. Pay attention.</utterance>
+   <speaker>JANUS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you, really?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He holds up the neuralyzer. The Agents peer closely at it. Kay reaches into his pocket, puts on his own black sunglasses -- -- and pushes a button on the side of the neuralyzer. A BLINDING FLASH a tenth of a second long sears the Agents' eyeballs. They stare blankly.</context>
+      <utterance>Really? I'm just a figment of your imagination.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Behind him, TONGUES OF FIRE blast from a flame thrower held by one of the Men in Black. Kay looks back at the INS Agents, who are just coming around, as if awakening from a concussion.</context>
+      <utterance>God, we're a gullible breed.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>The Agents look around, confused.</context>
+      <utterance>I mean it, fellas, you are lucky to be alive after a blast like that.</utterance>
+   <speaker>AGENT JANUS</speaker>
+      <mode></mode>
+      <context>Kay gestures behind him, where the Men in Black are now using fire extinguishers to douse the flames they themselves started.</context>
+      <utterance>What -- blast?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Underground gas vein, genius. You guys need to exercise more caution before discharging your firearms. He jabs a finger into Janus' chest.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Dee has moved away from them all and is sitting on a rock, staring up at the night sky, his sunglasses dangling idly from one hand. Kay steps away from the group and finds him. He sits down next to him.</context>
+      <utterance>Especially you.</utterance>
+   <speaker>DEE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. About...back there.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Happens.</utterance>
+   <speaker>DEE</speaker>
+      <mode></mode>
+      <context>He holds up his hands, which tremble with age.</context>
+      <utterance>Didn't used to.</utterance>
+   <speaker>DEE</speaker>
+      <mode>CONT'D</mode>
+      <context>He looks up, at the million stars shining overhead.</context>
+      <utterance>The spirit's willing, Kay, but the rest of me...</utterance>
+   <speaker>DEE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>They're beautiful, aren't they?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>DEE</speaker>
+      <mode></mode>
+      <context>Kay pulls his neuralyzer from his pocket and looks down at it.</context>
+      <utterance>The stars. We never just -- look. Anymore.  I'll tell ya, Kay. I will miss the chase.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. You won't.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="2">
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>He continues running, out of frame, and we stay on one of the other COPS, overweight, who gives up the chase and drops to his knees, heaving air.</context>
+      <utterance>Stop! NYPD!</utterance>
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context>The Cop fumbles in his pocket for a pack of cigarettes.</context>
+      <utterance>All yours, Edwards!</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="2">
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>With the bus still moving, he scrambles down the circular stairs and runs out through the side door. He spots the Perp, sailing east on Forty-first Street.</context>
+      <utterance>Grand Central Station off to your left, folks...</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>Edwards spots one of those New York Post delivery trucks, the kind with the open back door, rumbling by. He runs and jumps into the back.</context>
+      <utterance>Dammit, man, you're making me sweat up my gear!</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="4">
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>He leaps from the back of the moving truck and tackles the Perp. The Perp, now straddled by Edwards, is terrified.</context>
+      <utterance>Yo, man, your luck just ran out.</utterance>
+   <speaker>PERP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's coming! He's coming!</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>Edwards is about to slap the cuffs on him, when the Perp blinks. Nothing unusual about that, but then another set of translucent, milky white eyelids, underneath his regular eyelids, blinks also. Edwards is thrown for a moment, which is all the time the Perp needs to pull out... His WEAPON, which is the strangest looking gun you've ever seen. Reacting quickly, Edwards bats it out of the Perp's hand. THE WEAPON smashes into the stone wall surrounding Central Park and SHATTERS into a million pieces.</context>
+      <utterance>And when he gets here, I'll kick his ass too.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>WHOMP! The Perp kicks him in the nuts, then scrambles to his feet and takes off again. Edwards staggers after him, in pain. The Perp leaps over a moving car, towards the GUGGENHEIM MUSEUM. Edwards tries to follow, but a bus pulls in front of him. After it passes, the Perp is gone.</context>
+      <utterance>What the...</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="5">
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>The Perp SCREAMS inhumanly and panics. He backpedals, toward the edge of the roof.</context>
+      <utterance>Wassup?</utterance>
+   <speaker>PERP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's coming! He's coming because I failed, and now he'll kill me too!</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop!</utterance>
+   <speaker>PERP</speaker>
+      <mode></mode>
+      <context>But the Perp has backed right into the edge of the roof, and now he starts to fall over. The Perp blinks.</context>
+      <utterance>You don't understand. Your world is gonna end.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>-- and he falls, SCREAMING, to his death.</context>
+      <utterance>What are you?! The Perp looks down. He decides.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="14">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perpetrator then blinked two sets of eyelids. You mean blinked with both eyes?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, sir. He blinked once with one set, then again with another completely different set.</utterance>
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sort of a low beam, high beam.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was that before or after he drew the weapon which you claim evaporated into a million pieces?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>After, sir.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And why do you suppose none of the other officers saw either of these two events?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Cause some of the other officers are a little soggy in the midsection. And they couldn't keep up, sir.</utterance>
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Edwards, if you were half the man I am --</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean? I am half the man you are.</utterance>
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell is your problem?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My problem is you being all up in my damn face all the time.</utterance>
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think he threw him off the roof. Ten minutes -- your best shot.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Now.</context>
+      <utterance>Sergeant. I want to talk to you outside.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You need ten minutes on a Stairmaster, you pudgy bastard.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="23">
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Laurel Weaver. Deputy Medical Examiner. I believe you. I opened him up. Find me at the morgue. On 26th. I'll tell you what I found.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey...Wait a minute. Wait a minute.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>She hurries to turn the corner, but is STOPPED by someone who remains just offscreen.</context>
+      <utterance>You have really pretty eyes.</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Edwards twists in his chair, to get a better look. All he sees is Laurel, facing whoever it is in the hallway.</context>
+      <utterance>Dr. Weaver, from the coroner's office? Working on the John Doe?</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. That's right.</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>The Someone says something else and Laurel steps forward, now also out of Edwards's line of vision.</context>
+      <utterance>Would you look right here, please.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode>O.S.</mode>
+      <context>Edwards stretches even further in his seat, when there is a blinding FLASH from the corridor. Really curious now, he starts to get up -- -- when KAY steps into the room and closes the door behind him. Edwards rolls his eyes.</context>
+      <utterance>Look where?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some night, huh?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>He crosses to the door.</context>
+      <utterance>Oh, yeah, some night.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Edwards stops.</context>
+      <utterance>They were gills.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not eyelids.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did he say anything to you?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, sure. He said the world was coming to an end.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did he say when?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're kidding, right?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you recognize his weapon if you saw it again?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Absolutely.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's take a ride.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute. I got a ton of paperwork.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>At that point, the INSPECTOR sticks his head in, smiles and gives Edwards the thumbs up.</context>
+      <utterance>It's all done.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Edwards looks at the Inspector, then at Kay. As they leave.</context>
+      <utterance>Good work, Edwards.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ran that guy down on foot? That's tough. That's double tough.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="7">
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>Kay says nothing.</context>
+      <utterance>So who you with?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You got the plain clothes, the government-issued wheels. Secret Service?</utterance>
+   <speaker>CIA?</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kay remains utterly silent.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Yeah, well, whoever it is, you're short on funding.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing is what it seems, kid.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>Kay pulls the car to a stop.</context>
+      <utterance>Oh, yeah, my bad '86 Ford LTD. That's a luxury ride. C'mon, who ya with?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Kay opens the door and gets out of the car. Edwards follows.</context>
+      <utterance>I'm part of a secret organization that monitors and polices alien activity on earth.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="5">
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>They get out of the car.</context>
+      <utterance>This is where we're going?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Jack Jeebs? Guy buys from chain snatchers. Doesn't even sell guns.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, you think it's worth shaking him up, fine. I'll do my thing. Then I want some answers.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do your "thing," kid. Edwards goes inside.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="38">
+   <speaker>JEEBS</speaker>
+      <mode></mode>
+      <context>He casually brushes some Rolexes off the counter.</context>
+      <utterance>Officer Edwards. Oh, hey, geez, how'd these get here? I thought I turned 'em in to the proper authorities.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Way I hear it, Jeebs, you into something a little hotter than some stolen Rolexes.</utterance>
+   <speaker>JEEBS</speaker>
+      <mode></mode>
+      <context>This pisses Edwards off. He grabs Jeebs by the collar.</context>
+      <utterance>Sure -- I'm a big crack dealer now. I just work here because I love the hours.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm talking about guns, Jeebs. High-tech stuff.</utterance>
+   <speaker>JEEBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>C'mon, Edwards, whatcha see is what I got.</utterance>
+   <speaker>KAY</speaker>
+      <mode>O.S.</mode>
+      <context>At the sound of Kay's voice, Jeebs suddenly pales, a look of fear coming over his face.</context>
+      <utterance>Why don't you show him the imports, Jeebs.</utterance>
+   <speaker>JEEBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>H-hiya Kay, how are you?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The imports, Jeebs. Now.</utterance>
+   <speaker>JEEBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know I got outta that business a long time ago, Kay.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He pulls his own gun and aims it at Jeebs' forehead.</context>
+      <utterance>Why do you lie to me? I hate it when you lie.</utterance>
+   <speaker>JEEBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa, whoa, Kay, hold on a minute here...</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Edwards, seeing that Kay is getting somewhere, joins in the routine.</context>
+      <utterance>I'm going to count to three.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He'll do it, Jeebs.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've seen him do it.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Talk to me, Jeebs, he's crazy when he's like this.</utterance>
+   <speaker>JEEBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's always crazy.  Take a cruise. Get a massage --</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>KA-BOOM! Kay blows Jeebs' head off and Jeebs' body collapses to the floor. Edwards is shocked. Edwards pulls his own weapon and points it at Kay's head.</context>
+      <utterance>Three.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Put down the gun and put your hands on the counter!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I warned him.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Drop the weapon!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You warned him.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are under arrest. You have the right to remain silent.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you relax?</utterance>
+   <speaker>JEEBS</speaker>
+      <mode>O.S.</mode>
+      <context>Edwards whirls around to see Jeebs' BODY, growing another head. Only takes four or five seconds. Kay calmly shoves his gun up against Jeebs' baby-soft new cheek.</context>
+      <utterance>Don't do that.</utterance>
+   <speaker>JEEBS</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Do you know how much that hurts?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Jeebs, panicked, hits a button on the underside of the counter, which promptly flips over, revealing yet another dusty shelf, piled high with junk -- -- but this is all alien junk. Weapons, mostly, bizarre, otherworldly weapons of all shapes and sizes.</context>
+      <utterance>Show us what you got, Jeebs. Or I'll use up another one.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Edwards, still dazed by Jeebs' regrown head, glances down at all the weapons.</context>
+      <utterance>Edwards?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>Kay looks at Jeebs, pissed off.</context>
+      <utterance>Uh, this. This is what I saw.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sold a carbonizer with implosion capacity to an unlicensed cephlapoid.</utterance>
+   <speaker>JEEBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He looked all right to me.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A carbonizer is an assassin's weapon, Jeebs. Who was the target?</utterance>
+   <speaker>JEEBS</speaker>
+      <mode></mode>
+      <context>Kay raises the weapon again, threatening.</context>
+      <utterance>I don't know.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeebs!</utterance>
+   <speaker>JEEBS</speaker>
+      <mode></mode>
+      <context>Kay lowers his gun, gestures to the shelf full of weapons.</context>
+      <utterance>I don't know!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is all confiscated. All of it. I want you on the next transport off this rock. Or I'll shoot you where it doesn't grow back. Jeebs nods, point taken. Kay leaves.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. I'll be by tomorrow for those Rolexes. Shaken, Edwards follows.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="6">
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The eyelids, fine ... and the jumping thing ... and the gun ... okay, but the head?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Searching for a handle on the moment here? A place to file all this.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See a head doesn't do that, it doesn't just grow back.  What's going on?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't help you, kid. Only comfort I can offer is that tomorrow, you won't remember a thing.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>Kay pulls the neuralyzer from his pocket. He hesitates for the briefest of moments -- as if this particular neuralyzation is different than all the others. Then he puts on his sunglasses.</context>
+      <utterance>Oh, no. This I'm gonna remember for a long, long time.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ever see one of these?</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="6">
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>Kay checks his watch.</context>
+      <utterance>Huh?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoops. Gotta run. Thanks for the egg rolls.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where am I?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He turns and walks out. Edwards checks his watch. A WAITRESS appears.</context>
+      <utterance>See what I mean about tequila? You're a bright young man, James. Just lay off the sauce. I'll see you tomorrow, nine a.m. sharp.</utterance>
+   <speaker>WAITRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Another beer?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>She walks off. Edwards looks at the table. There is a business card lying next to his plate, on which Kay has handwritten "James D. Edwards, Saturday, 9 a.m., 504 Battery Drive." Edwards looks at it, puzzled. He turns the card over and looks at the other side. There's not much there, no name, no phone or fax number, no e-mail address. Just three little letters, dead in the middle of the card:</context>
+      <utterance>Coffee. Please.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="10">
+   <speaker>EDGAR</speaker>
+      <mode>O.S.</mode>
+      <context>In the sky above, it's one of those brilliant star fields. But something strange is happening with one of those stars -- it's getting bigger.</context>
+      <utterance>I go out, I work my butt off to make a living, all I want is to come home to a nice clean house with a nice fat steak on the table, but instead I get this -- this -- I don't even know what you call this!</utterance>
+   <speaker>EDGAR</speaker>
+      <mode>O.S.</mode>
+      <context>No, that star isn't getting bigger, it's moving. Toward us. Fast. It goes from a pinpoint to a dime, to a nickel, to a quarter, and works its way into fruit metaphors.</context>
+      <utterance>I'll tell you what it looks like, it looks like poison. Don't you take that away, I'm eating that, damn it! It is poison, isn't it?!</utterance>
+   <speaker>EDGAR</speaker>
+      <mode>O.S.</mode>
+      <context>Okay, we're way past watermelon now, that thing is huge, and it's starting to glow hot red as it enters the earth's atmosphere, headed straight toward us, coming here, to Beatrice and Edgar's place. The blazing fireball barrels through the sky, SNAPS off a couple trees --</context>
+      <utterance>I swear to God, I would not be surprised if it was, the way you skulk around here like a dog been hit too much -- or ain't been hit enough, I can't make up my mind.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode>O.S.</mode>
+      <context>-- and SLAMS right through a pickup truck parked in the driveway. A concussive BLAST follows, then a geyser of smoke and flame erupts.</context>
+      <utterance>You're useless, Beatrice! The only thing that pulls its weight around here is my goddamn truck!</utterance>
+   <speaker>EDGAR</speaker>
+      <mode>O.S.</mode>
+      <context>The silhouette of Edgar leaps to its feet, races to the door, and throws it open. Edgar is everything his voice led us to expect -- a nasty, bug-eyed redneck carrying a twelve-gauge shotgun. His mouth agape, he walks across the yard and stares at the hulking shell that was his truck. The skeleton of the truck is still there, but there's a huge, smoldering hole in it, a hole that goes at least ten feet down into the ground.</context>
+      <utterance>Stay here!</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>He walks to the truck and touches the door handle. Hot. Using his shirt tail, he opens the door and peers down into the hole. IN THE HOLE, he sees a smooth curve of metal and a few blinking lights. Embedded into the ground is, indeed, a spaceship, maybe eight feet across. BEATRICE calls from behind him, standing in the doorway fearfully.</context>
+      <utterance>Figures.</utterance>
+   <speaker>BEATRICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it, Edgar?!</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Edgar staggers back a step, terrified. But then he regains himself, raises the weapon, and steps forward, pointing it menacingly down into the hole.</context>
+      <utterance>Place projectile weapon on ground.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>There is a pause while the voice thinks about this offer. Finally, it responds, in a voice and cadence remarkably similar to Edgar's.</context>
+      <utterance>You can have my gun when you pry it from my cold, dead fingers!</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>A long, hairy pincer flashes out of the hole, grabs Edgar by the head, and pulls him down into the hole. From deep in the hole, we hear a terrible RIPPING sound, like a bedsheet being torn in half. There are some disgusting GUSHY sounds, then a moment later, something flies out of the hole and FLOPS onto the ground next to the truck. It's Edgar. Well, sort of. His body parts still hang together -- face, arms, legs, even clothes -- but everything inside has been removed and now he just lies there, flat and empty, like a tuxedo on the floor after the prom. The shotgun flies out and lands beside him.</context>
+      <utterance>Your proposal is acceptable.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="8">
+   <speaker>BEATRICE</speaker>
+      <mode></mode>
+      <context>He looks at her strangely. When he speaks, his voice is different than before. More refined.</context>
+      <utterance>What on earth was it?!</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>Pause. She looks out the window, at the smoking truck.</context>
+      <utterance>Sugar.</utterance>
+   <speaker>BEATRICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've never seen sugar do that.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>Puzzled, Beatrice gets up, goes to the cabinet, and grabs a bag of sugar. She holds it out to him.</context>
+      <utterance>Give me sugar.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode>CONT'D</mode>
+      <context>Frightened, she takes a glass of water from the table. She dumps some of the sugar into it.</context>
+      <utterance>In water.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode>CONT'D</mode>
+      <context>She puts more, till the glass is brimming. She stirs it quickly with a knife and hands it to him, her hand trembling. Edgar takes it and downs it in a single gulp. Beatrice stares at Edgar, no idea what to think. She notices something odd about the skin on his neck.</context>
+      <utterance>More.</utterance>
+   <speaker>BEATRICE</speaker>
+      <mode></mode>
+      <context>Edgar drops the glass and looks in a window, to catch his reflection. He reaches up -- -- and twists his whole face, as if adjusting a ski mask, then tucks the skin of his neck back into his shirt collar. He looks at her.</context>
+      <utterance>Edgar, your skin! It's -- it's -- just hanging off your bones!</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>Beatrice faints.</context>
+      <utterance>That better?</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="3">
+   <speaker>GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Help you?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe, I'm not sure, see, I got this card --</utterance>
+   <speaker>GUARD</speaker>
+      <mode></mode>
+      <context>And he goes back to his comic book. Edwards, maybe out of nothing more than curiosity at this point, walks across the room, toward the elevator. As he draws close, the elevator doors WHOOSH open, expecting him.</context>
+      <utterance>Elevator. Push the "call" button.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="9">
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context>Edwards takes the remaining chair. The elevator doors slide shut. Zed continues addressing the Recruits.</context>
+      <utterance>You're late. Sit down.</utterance>
+   <speaker>ZED</speaker>
+      <mode>CONT'D</mode>
+      <context>They all turn and regard Edwards a little smugly. He gives it back.</context>
+      <utterance>My name is Zed. You're all here because you're the best of the best. Marines, Navy SEALS, Army Rangers...NYPD.</utterance>
+   <speaker>ZED</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>And we're looking for one of you. Just one. What will follow is a series of simple tests designed to quantify motor skills, hand-eye coordination, concentration, stamina -- I see we have a question. Edwards's hand is, indeed, up.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>Silence. Then one of the young recruits eagerly raises his hand. Zed calls on him.</context>
+      <utterance>Why, uh -- I'm sorry, it's just no one really asked this, but -- why, exactly, are we doing this?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Son?</utterance>
+   <speaker>AMBITIOUS RECRUIT</speaker>
+      <mode></mode>
+      <context>Edwards tries to stifle a laugh, but can't.</context>
+      <utterance>Jake Jensen, West Point, graduate with honors. We're here because you're looking for the best of the best of the best, sir!</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's so funny, Edwards?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I -- I don't know, sir. This guy. "Best of the best of the best of the best of the --"  It just struck me as --  Humorous. Sir. Short pause. Then Zed continues.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. Let's get going.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="9">
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyone, uh...any of you guys know what we're doing here?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>The two far walls pull apart. The whole room pulsates and the air is suddenly filled with a bewildering swirl of stroboscopic images, both human and alien. Everywhere is color, light and movement -- a holographic mass of strange shapes and characters moving simultaneously. The Recruits lunge for the weapons, snapping them up and taking aim. SIX SHOTS are fired at once. And then, a second later, a SEVENTH SHOT is fired. Everyone sort of looks at Edwards, who puts his gun down last. There's an awkward silence. Then the door opens. Light pours in, and ZED with it. Even the highly competitive cadets can't help but feel some sympathy as Zed walks straight to Edwards.</context>
+      <utterance>Well, yeah, I know, but... And then .. suddenly --</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The hell happened?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>Zed looks into the gallery. Most obvious in the frozen tableau of creatures is a lunging, snarling beast, which has three bullet holes in its chest. Next to it is a massively deformed humanoid creature with a large hook for a head, which also has three holes in it. In the back corner of the gallery, there is a single bullet hole in a pretty eight-year-old girl.</context>
+      <utterance>Hesitated, sir.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I ask why you felt little Tiffany deserved to die?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She was the only one who actually seemed dangerous. At the time.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And how did you come to that conclusion?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>Sideways glances from the other recruits. Zed sighs.</context>
+      <utterance>Hook-head guy. You explain to me how he can think with a hook for a head. Answer; it's not his head. His head is that butt-ugly bean-bag thing over there. 'Cause if you look at the snarling beast-guy, he's not snarling, he's sneezing -- he's got tissues in his hand. No threat there, and anyhow, the girl's books were way too advanced for an eight-year-old's. And besides, from where I'm looking, she was the only one who appeared to have a motive. And I don't appreciate your jumping down my throat about it.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Or, uh -- do I owe her an apology?</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="4">
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's got a real problem with authority.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So do I. The guy ran down a cephlapoid, Zed. On foot. Tenacity. That I can use.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context>Zed turns and walks away. Kay stares through the glass, at EDWARDS, who stands alone on one side of the room, apart from the rest of the group. Zed reappears on the other side of the glass, coming through a door and into the shooting gallery. As he talks, Kay turns and walks off.</context>
+      <utterance>I hope you know what you're doing.</utterance>
+   <speaker>ZED</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Congratulations, you're everything we've come to expect from years of government training. Now, if you'll just follow me, we have one more test to administer, an eye exam.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="3">
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>The other recruits continue down the hall with Zed. Kay doesn't answer, just gestures to Edwards to follow him down the hall, which he does.</context>
+      <utterance>You! Hey, what's goin' on?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>As they pass an alcove, Edwards notices the six other Recruits, who have been herded into a corner. Zed, addressing them, pulls a neuralyzer from his pocket.</context>
+      <utterance>Back in the mid-fifties, the government started a little underfunded agency with the simple and laughable purpose of making contact with a race not of this planet.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context>He holds a neuralyzer up in front of them, and the Recruits stare obediently at it as Zed slips on a pair of black sunglasses. Edwards stares, fascinated, but Kay's hand reaches in and yanks him away, just as Zed's neuralyzer FLASHES WHITE.</context>
+      <utterance>Now, if you'll look directly at the end of this device.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="12">
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Another photograph, a grainy black and white image of two ships hovering in the night sky -- classic flying saucer shapes.</context>
+      <utterance>Everybody thought the agency was a joke. Except the aliens. They made contact on March 2nd, 1961, outside New York City.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Yet another photograph, this one showing a young KAY, in a shirt and tie, holding a bouquet of flowers, staring at the open door of the landed flying saucer. ALIEN SHAPES are visible within.</context>
+      <utterance>There were nine of us that night. Seven agents. An amateur astronomer. And one poor kid who got lost on the wrong back road.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>Kay steers Edwards to the right, down another corridor, just as long as the first.</context>
+      <utterance>You brought the aliens flowers?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Another picture, this one of the 1964 World's Fair grounds, still under construction. Giant models of rockets mark the Fair's theme of space travel; most prominent in the construction are two tall towers, with the flying saucers now mounted at the top of each.</context>
+      <utterance>They were intergalactic refugees with a simple request. Let us use the earth as an apolitical zone for people without a planet. Ever see "Casablanca?" Same thing, no Nazis. We agreed. So we masked all evidence of their landing.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The 1964 World's Fair was a coverup?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>They live among us, in secret.</context>
+      <utterance>Why else would we hold it in Queens?  Now left. More nonhumans arrive every year.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see. Not to change the subject, but when was your last cat-scan?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every six months; it's company policy.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>They have stopped next to an unmarked door. Kay throws it open and steps inside.</context>
+      <utterance>Well, thanks for the very amusing morning, but I'm hopin' you'll show me where I came in? 'Cause this is where I go out.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>As Kay walks into the kitchenette, Edwards' jaw drops, his eyes widen, and he stares in wonderment -- -- at THREE WORM-LIKE ALIENS standing around a water cooler. Tall, impossibly thin, most certainly not from New York, the aliens hold an animated conversation in a language that seems like a combination of Esperanto and microphone feedback.</context>
+      <utterance>Yeah, sure, hang on, I wanna grab a coffee while we're right here.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>He finds the cream sitting out on the counter where the alien indicated, dumps some in his coffee, and comes back outside, closing the door behind him. He reaches up and gently pushes Edwards' jaw up, closing his mouth.</context>
+      <utterance>Oh.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>For future reference, this is a better look for you.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="13">
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any given time, around fifteen hundred landed aliens are on the planet, the majority right here in Manhattan. Most aliens are decent enough, just trying to make a living.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cab drivers?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not as many as you'd think. Humans, for the most part, don't have a clue. Don't want one, either. They're happy. They think they've got a pretty good bead on things.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why the big secret? People are smart, they can handle it.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A person is smart. People are dumb. Everything they've ever "known" has been proven to be wrong. A thousand years ago everybody knew as a fact, that the earth was the center of the universe. Five hundred years ago, they knew it was flat. Fifteen minutes ago, you knew we humans were alone on it. Imagine what you'll know tomorrow.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what's the catch?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What you'll gain in perspective, you'll lose in ways you're too young to comprehend. You give up everything. Sever every human contact. No one will know you exist. Ever.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not even allowed a favorite shirt. There. That's the speech I never heard. That's the choice I never got.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold up. You track me down, put me through those stupid-ass tests, now you're trying to talk me out of it. I don't get it.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got 'til sun-up.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it worth it?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You find out, you let me know.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="9">
+   <speaker>ORKIN MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, well, well. Movin' right in, are we? Think we own the place? He unfurls a hose from the side of the tank.</utterance>
+   <speaker>ORKIN MAN</speaker>
+      <mode>CONT'D</mode>
+      <context>He raises a mask to his face and unscrews the handle on the top of the tank. LETHAL GAS starts to HISS from the end of the hose.</context>
+      <utterance>Got a little eviction notice for you, boys.</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>The Orkin Man turns around. EDGAR stands in the doorway to the garage, staring at him disdainfully.</context>
+      <utterance>Just what exactly do you think you're doing?</utterance>
+   <speaker>ORKIN MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Takin' care of your pest problem.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Pest" problem? "Pest?"</utterance>
+   <speaker>ORKIN MAN</speaker>
+      <mode></mode>
+      <context>Edgar advances on him, slowly.</context>
+      <utterance>Yeah. You got a hell of an infestation.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, I have noticed an infestation here. Everywhere I look, in fact. Nothing but undeveloped, unevolved, barely conscious pond scum. So convinced of their own superiority as they scurry about their short, pointless lives.</utterance>
+   <speaker>ORKIN MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well -- yeah. Don't you want to get rid of 'em?</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>Edgar lashes out quickly, jerking the mask off the Orkin Man's face with one hand -- -- and shoving the gas hose down his throat with the other. THE ORKIN MAN'S CAR KEYS drop to the garage floor, and Edgar picks them up.</context>
+      <utterance>In the worst way.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="23">
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right. I'm in because there's some next-level shit going on around here, and I'm with that. Before you beam me up, there are a couple of things we need to get straight. You chose me 'cause you recognize the skills. So as of now you can cease with all of that calling me "son" or "kid" or "sport." Cool?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cool, slick. Now about those skills of yours, The elevator doors --</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>It's unlike anything we've ever seen -- huge, multileveled, of sixties design, polished steel and glass. The workplaces are sleek and uncluttered, manned by both HUMANS and ALIENS. Most of the Aliens stay in the background, like the UPSIDE-DOWN GUY who walks on the ceiling, shuffling papers. KAY and EDWARDS step off the elevator and onto a platform that looks out over the whole place. Kay leads him down into the complex. First, they walk past a sort of passport control center, where a human BUREAUCRAT at a desk is checking the documents of a line of ALIENS who've just arrived. There are a dozen bizarre life forms in that line, CHATTING in half a dozen different alien tongues. Edwards slows as they pass, listening to the PASSPORT CONTROL OFFICER as he addresses an ARQUILLIAN, a large, humanoid visitor.</context>
+      <utterance>As of this moment, they don't mean much.</utterance>
+   <speaker>PASSPORT OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Purpose of trip?</utterance>
+   <speaker>ARQUILLIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Diplomatic mission.</utterance>
+   <speaker>PASSPORT OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Duration of stay?</utterance>
+   <speaker>ARQUILLIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lunch.</utterance>
+   <speaker>PASSPORT OFFICER</speaker>
+      <mode></mode>
+      <context>Edwards just stares, fascinated, but Kay grabs him by the arm and hurries him along.</context>
+      <utterance>Carrying any fruits or vegetables?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Kay moves him into the central hall.</context>
+      <utterance>Let's go. He's a little...grouchy.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A couple of hours wait after a 17-light-year flight would get on anybody's nerves.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What branch of the government do we report to?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>None. They started asking too many questions.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So who pays for all this?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>AT A STORAGE CAGE, Kay turns a key in the lock of a caged-in area and throws the door open. Inside, there are piles of sophisticated-looking devices stacked on shelves and tabletops.</context>
+      <utterance>Oh, we hold a few patents on gadgets we confiscated from our out-of-state visitors. Velcro. Microwave Ovens. Liposuction.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He holds up a cylindrical metal tube and a small wire clip that looks like a lapel microphone.</context>
+      <utterance>Here. A new recording device to replace CD's. So now I gotta buy the White Album again?  This is amusing. Universal translator.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Edwards picks up a small yellow ball from one of the shelves.</context>
+      <utterance>We're not supposed to have it. I'll tell you why. Human thought is so primitive it's considered an infectious disease. Makes you proud, doesn't it?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's this?</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>THE BALL ZINGS OUT OF EDWARDS' HANDS -- it flies out into the main complex -- hits the ceiling and ricochets around the room, faster than the eye can follow -- VARIOUS SHOTS OF HUMANS AND ALIENS ducking, dodging, and jumping out of its way. ON KAY as he calmly, a little wearily, slips an odd-looking metal glove over his right hand... He raises his hand and the yellow ball zings into it -- Kay catches the ball, calmly.</context>
+      <utterance>Don't touch that!</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Caused the '77 New York blackout. Practical joke by the Great Attractor. He thought it was funny as hell. They leave the room.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context>ON THE MAIN FLOOR, they walk briskly across the room, reaching a giant screen on the far wall.</context>
+      <utterance>Sorry!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>The screen displays a map of the world on which thousands of tiny lights blink in all parts of the globe, log lines of data flashing next to them.</context>
+      <utterance>Observation, the heart of our little endeavor.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>He hits a button on the console and the map is replaced by hundreds of boxes, each with smaller video images.</context>
+      <utterance>This map shows the location of every registered alien on earth at any given time. Some of them we keep under constant surveillance.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>ON THE SCREENS, we see live images of aliens. Aliens who look alien are in spots where they can't be seen. Aliens who look human are functioning right out in public -- including SAM DONALDSON. MICHAEL JACKSON. And TONY</context>
+      <utterance>Everyone on these screens is an alien. In public -- normal. In private -- you'll get the idea.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="11">
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Kay gestures to two small, bony CREATURES with eight arms each and a single eye growing out of a central stalk in their heads. They turn around and wave two or three arms each.</context>
+      <utterance>Meet the twins.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I gotta be honest about something.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It makes no sense?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It makes perfect sense. When I was a third grader in Philadelphia, they told me I was crazy 'cause I swore that our teacher was from, like, Venus or something.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Edwards, stunned, looks at Kay as 4-Eyes boots her onto the screen: Mean face, cat glasses. Bony fingers. Extremely well-hidden tail.</context>
+      <utterance>Mrs. Edelson.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>With their remaining arms, they punch button after button on the enormous console. ZED, who was standing up close to the screen, walks over to Edwards, sizing him up.</context>
+      <utterance>Jupiter, actually. Well, one of the moons.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's your jacket size, Edwards?</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh -- forty regular.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then let's put it on.</utterance>
+   <speaker>EDWARDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Put what on?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The last suit you'll ever wear.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="3">
+   <speaker>ZED</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>You'll conform to the identity we give you, eat where we tell you, live where we tell you, get approval for any expenditure over a hundred dollars.</utterance>
+   <speaker>ZED</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>You will have no identifying marks of any kind. You will not stand out in any way.</utterance>
+   <speaker>ZED</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Your entire image is carefully crafted to leave no lasting memory whatsoever with anyone you encounter.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="2">
+   <speaker>ZED</speaker>
+      <mode>O.S.</mode>
+      <context>The coat is removed. The hat comes off the shelf.</context>
+      <utterance>You're a rumor, recognizable only as deja vu and dismissed just as quickly. You don't exist; you were never even born.</utterance>
+   <speaker>ZED</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Anonymity is your name. Silence your native tongue.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="3">
+   <speaker>ZED</speaker>
+      <mode>O.S.</mode>
+      <context>Feet slip into black shoes. A belt is buckled. A tie pushed up.</context>
+      <utterance>You are no longer part of "the system." We're above the system. Over it. Beyond it.</utterance>
+   <speaker>ZED</speaker>
+      <mode>O.S.</mode>
+      <context>As the coat is buttoned, we notice the sleeve. Monogrammed on the cuff is, simply, the letter "J."</context>
+      <utterance>We're "them." We're "they." On screen, all that's left is the letter "J."</utterance>
+   <speaker>ZED</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>We are the Men in Black.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="2">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>He slips on the sunglasses.</context>
+      <utterance>The difference between you and me?</utterance>
+   <speaker>JAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I make this look good.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="7">
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context>BEE, an agent on one of the monitors, nods.</context>
+      <utterance>Okay, let's see.  Bee, we got the deposed sur-prefect of Sinalee touching down in the forest outside Portland tonight. I'm pulling you down from Anchorage to do a meet-and-greet.</utterance>
+   <speaker>BEE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Humanoid?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context>He turns a page, coming across a red memo.</context>
+      <utterance>You wish. Bring a sponge.  What else -- everybody, we gotta keep Rolling Fish-Goat out of the sewer system, he's scaring the rats. And Bobo the Squat wants to reveal himself on "Unsolved Mysteries." Bee, make sure he doesn't.</utterance>
+   <speaker>ZED</speaker>
+      <mode>CONT'D</mode>
+      <context>Next to him, his computer screen BEEPS importantly. Zed looks over at it.</context>
+      <utterance>Red-letter from last night -- we had an un-authorized landing somewhere in upstate New York farm country. Keep your ears open for this one, Kay, we're not hosting a galactic kegger down here.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, well, well -- we got a skimmer.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Landed alien out of zone.  Who is it?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Redgick. He's not cleared to leave Manhattan but he's way out of town right now, stuck in traffic on the New Jersey Turnpike. Why don't you take Jay? This is a good one for him to warm up on.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="3">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, wussup with Zed?  "Go get em, tiger. We're not hosting an intergalactic kegger..."</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>An MIB MECHANIC pulls up in Kay's black LTD and hops out, leaving the door open. Jay sizes up the car.</context>
+      <utterance>Zed was saving the world before you were born, son. Show some respect.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We got the use of unlimited technology from the entire universe and we cruise around in this? Kay glares at Jay. He's getting annoyed.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="8">
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seat belt.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, ya'll gotta learn how to talk to people. You could be a little kinder and gentler. Kay grits his teeth.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Buckle up, please.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Kay shifts the car into reverse. The awesome power of the car kicks in and Jay sails forward, THWACKING into the dash. Kay shifts into forward and taps the gas, SLAMMING Jay back into his seat.</context>
+      <utterance>Now did that hurt?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>A LIGHTED PANEL rotates into place between the two front seats. Jay's hand falls by accident on a flashing red button in the panel.</context>
+      <utterance>Makin' fun of my ride...</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jay. The button?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Jay jerks his hand away.</context>
+      <utterance>Never push the button, Jay.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="27">
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>The Driver hands over some documents. Kay flips through them.</context>
+      <utterance>License and registration, please.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>The guy digs out two other cards and hands those over. Jay peers over Kay's shoulder. The photographs on the "RESIDENT ALIEN ID"cards are of two friendly-looking reptile types, husband and wife, smiling atthe camera, their long, skinny tongues dangling in a friendly sort of way. Kay hands them back.</context>
+      <utterance>Other license and registration, please.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Your resident card has you restricted to the five boroughs only. Where do you think you're going?</utterance>
+   <speaker>REDGICK</speaker>
+      <mode></mode>
+      <context>Kay leans down and looks in the window. MRS. REDGICK is in front, MOANING in pain, holding her swollen belly. Kay straightens up, fast.</context>
+      <utterance>It's my wife! She's -- she's -- well, look!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Mrs. Redgick SCREAMS in pain. Real soon. For the first time since we've seen him, Kay is nervous.</context>
+      <utterance>Oh God. How soon?</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Okay. All right. No big deal.  You handle it.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Mrs. Redgick SCREAMS again. Redgick gets out of the car, worried.</context>
+      <utterance>Sure, it's easy, you just sorta -- catch.</utterance>
+   <speaker>REDGICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you sure he knows what he's doing?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Kay gives Jay a supportive SLAP on the back and leads Redgick away, to the rear of the car. Jay stays in the background and opens the rear door, tentatively. He leans down, into the car.</context>
+      <utterance>Yeah, hell, sure, he does this all the time. C'mon, let him work, Redgick, I wanna ask you something.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>A few yards from the car, Kay turns Redgick to face him.</context>
+      <utterance>Oh God! I see it I see it I see it!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Croagg the Midwife's back on 64th and 8th. You were headed out of town.</utterance>
+   <speaker>REDGICK</speaker>
+      <mode></mode>
+      <context>Suddenly a TENTACLE whips out from between Mrs. Redgick's legs, CRACKS the whip once, and wraps around the door post, grabbing hold.</context>
+      <utterance>Well, we're, uh -- meeting someone.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh sweet Jesus Mother of God did you see that?!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So? Who you meeting?</utterance>
+   <speaker>REDGICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it's -- a ship.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really? I didn't see a departure clearance for today.</utterance>
+   <speaker>REDGICK</speaker>
+      <mode></mode>
+      <context>Now a SECOND TENTACLE whips out, but this one wraps around Jay's neck and pulls tight. He GASPS, choking.</context>
+      <utterance>You didn't? Uh, well -- it was an emergency.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guys -- guys --</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doin' fine, Ace.  What kind of emergency? What's the rush to get off the planet all of a sudden?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>He starts tugging for all he's worth, but the fight is sort of going against him, as the tentacles pull him in even harder than he tries to pull the baby out.</context>
+      <utterance>Help?! HELP! Hello?!</utterance>
+   <speaker>REDGICK</speaker>
+      <mode></mode>
+      <context>Redgick looks at Kay, clearly concealing something, but darts his eyes away.</context>
+      <utterance>We just don't like the neighborhood anymore. Some of the -- new arrivals.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What new arrivals? This have anything to do with the crasher from last night?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>But in that moment, Jay finally gets a foot up on the door frame, acquires leverage, and RIPS the baby free. He falls, flat on his back in the dirt, the multi-tentacled lizardlike baby resting squarely on his chest.</context>
+      <utterance>Can you guys do this later?!</utterance>
+   <speaker>JAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Kay turns and claps Redgick on the back.</context>
+      <utterance>Oh -- oh -- oh -- man.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Jay looks down at the creature COOING and nestling on his chest.</context>
+      <utterance>Congratulations! It's a lizard.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, you know, it is sorta -- It vomits on him.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="3">
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anything about that seem unusual to you? Jay just looks at him, very Jack Benny.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pick.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What kind of "new arrival" would scare Redgick so bad that he'd risk a warp jump with a newborn?  Let's check the hot sheets.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="4">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Kay pulls a copy of the Weekly World News from the stand and gives the guy a buck.</context>
+      <utterance>These are the hot sheets?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Best damn investigative reporting on the planet. But hey, go ahead, read the New York Times if you want. They get lucky sometimes.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're actually looking for tips in a supermarket tabloid?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He SMACKS the paper down on the hood in front of Jay, the pages turned open to a headline in typeface so large one would think it reserved for the Second Coming: Farm wife says</context>
+      <utterance>Not looking for. Found.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="9">
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not so fast. Walk up slow.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>BEATRICE appears in the door to the house, curious.</context>
+      <utterance>Part of the routine. Makes it look like we're sizing up the situation. Gives her time to get the wrong impression.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Puts some fear into her. Makes things go smoother. Beatrice calls to them.</utterance>
+   <speaker>BEATRICE</speaker>
+      <mode></mode>
+      <context>Beatrice looks much better than the last time we saw her -- more nicely dressed, a touch of makeup, a smile on her face. Kay pulls a black card from his wallet and extends it to her as she draws close. As she reaches for it, the card reforms into an FBI badge.</context>
+      <utterance>Can I help you gentlemen?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you do, ma'am, I'm Special Agent Manheim, this is Agent Black, FBI. Had a few questions about your visitor.</utterance>
+   <speaker>BEATRICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you here to make fun of me too?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No ma'am. We at the FBI don't have a sense of humor that we're aware of. Mind if we come in?</utterance>
+   <speaker>BEATRICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. Lemonade?</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="15">
+   <speaker>BEATRICE</speaker>
+      <mode></mode>
+      <context>A little GIGGLE escapes her at the thought. Jay, over by a bookcase, notices a framed PHOTO OF EDGAR, kneeling in the woods, proudly about to skin a deer.</context>
+      <utterance>And they said to me, "If he was murdered, how could he walk back in the house?" And I must admit, I was a little stumped by that one. But I know Edgar. And that wasn't him. It was more like something else that was wearing him. Like a suit. An Edgar suit.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn. If he was this ugly before he was an alien...</utterance>
+   <speaker>BEATRICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go on.</utterance>
+   <speaker>BEATRICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyway, when I came to, he was gone.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did he say anything?</utterance>
+   <speaker>BEATRICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes! He asked for water. Sugar water, if I remember.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sugar water.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Kay nods, puts on his sunglasses. Takes out another pair, hands them to Jay. Kay draws his neuralyzer. FLASH! Beatrice freezes, staring straight ahead as if hypnotized. Kay takes Jay's glasses off and hands them back to him.</context>
+      <utterance>Did you taste her lemonade?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ray Bans.  Okay, Beatrice. There was no alien, and the flash of light you saw in the sky wasn't a UFO. Swamp gas from a weather balloon was trapped in a thermal pocket and refracted the light from Venus --</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa! That thing erases her memory, and you give her a new one?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Standard issue neuralyzer.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And that's the best you can come up with?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On a more personal note, Beatrice, Edgar ran off with on old girlfriend. Go stay at your mother's for a few days and get over it. Decide you're better off.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, and you're better off 'cause he never appreciated you anyway. In fact, you kicked him out, and now that he's gone, you ought to buy some new clothes, maybe hire a decorator or something...</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="11">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>The spectral analyzer turns blue.</context>
+      <utterance>Hey. Kay...when am I gonna get one of those memory things?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Kay closes his eyes and sits back, leaning against the dirt. Above him, JAY leans over, staring down. Kay looks up at him.</context>
+      <utterance>When you're ready.  Please -- not green. Purple. And then green.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Do you know what alien life form leaves a green spectral trail?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>AT THE CAR, Kay snatches up the radio handset and keys the microphone.</context>
+      <utterance>Wait -- don't tell me -- that was the question on Final Jeopardy last night.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He turns off the radio and sighs. Jay stands next to him.</context>
+      <utterance>Zed, we have a bug.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm gonna jump way past you and just guess that this is bad. Right?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bugs thrive on carnage, Tiger. They consume, infest and destroy. They live off the death and decay of other species.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So basically you have a racial problem with all insect-based life forms?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen, kid -- imagine a giant cockroach five times smarter than Albert Einstein, four times stronger than an ox, nine times meaner than hell, strutting his stuff around Manhattan Island in his brand new Edgar suit. Does that sound like fun?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do we do?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With a bug in town? Watch the morgues.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="8">
+   <speaker>ROSENBERG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry I'm late. The cab drivers on this planet are terrible.</utterance>
+   <speaker>ARQUILLIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your majesty, you are in grave danger.</utterance>
+   <speaker>ROSENBERG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, and they overcharge you every time.</utterance>
+   <speaker>ARQUILLIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir, a bug landed here. We must get you off the planet.</utterance>
+   <speaker>ROSENBERG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A bug? He must know why I'm here.</utterance>
+   <speaker>ARQUILLIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We think he does.  Is that what I think it is?</utterance>
+   <speaker>ROSENBERG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, just some diamonds for your children. Do we have time to eat? The Arquillian relaxes.</utterance>
+   <speaker>ARQUILLIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. I ordered you some pirogi.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="4">
+   <speaker>ARQUILLIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To the continued reign of the Arquillian Empire.</utterance>
+   <speaker>ROSENBERG</speaker>
+      <mode></mode>
+      <context>They CLINK glasses and drink, just as the Waiter arrives. Still, we see only his arms and midsection as he sets the tray on a stand and lifts the plates of pirogi. He carries them to the table and sets them down. Rosenberg, setting his glass down next to the plate, catches a glimpse of the Waiter's hand -- -- just as an enormous silverfish bug slithers out of the waiter's sleeve and scurries across the table. The glass slips out of Rosenberg's hand, dumping wine all over the table. He looks up, slowly, and sees the Waiter's face. It's EDGAR. Another half dozen insects of all variety tumble out of Edgar's sleeves and scurry across the table. Rosenberg and the Arquillian freeze, paralyzed with fear. They seem to know what dire implications Edgar's presence holds.</context>
+      <utterance>To the safety of the galaxy.</utterance>
+   <speaker>ROSENBERG</speaker>
+      <mode></mode>
+      <context>Edgar smiles.</context>
+      <utterance>You can kill us both -- but you will not find it.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>Suddenly a long STINGER whips out from under the back of Edgar's apron and zips under the table. First Rosenberg and then the Arquillian lurch forward their chairs, their faces contorting in pain. They both pitch forward, their faces slogging into fresh pirogi. The stinger SNAPS out from under the table and whips back under Edgar's apron. He moves quickly, searching their pockets, but he doesn't find what he's looking for. The cat, still perched on top of the ornate box, HISSES at him. Edgar reaches out and BATS the cat away with one vicious swipe of his hand. The animal HOWLS and flies across the room, landing in a WOMAN's lunch. The Woman SCREAMS. Now other DINERS' attention is drawn to Edgar's table, where two obviously dead men are being robbed by a waiter. There are SHOUTS of outrage, a few MEN rise out of their seats. Edgar grabs the ornate box and tries to open it, but finds it locked. With the furor rising around him, he shoves the box under one arm and bolts for the door. Rosenberg's cat leaps back onto the table and SNARLS at him as he goes.</context>
+      <utterance>You're right about one thing.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="2">
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What am I supposed to do with the cat?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>The Cop nods and follows the stretcher with Rosenberg's body into the back of one of the ambulances, allowing the cat to ride on the chest of its dead owner for the time being. The doors of the wagon SLAM shut.</context>
+      <utterance>I don't know. Send it with the stiff. Let family claim it.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="7">
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context>The coroner turns around. It's DR. LAUREL WEAVER, the woman who tried to speak to Jay before. She sighs and waves a hand.</context>
+      <utterance>Where do you want contestant number three?</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By the wall, I guess.  What's with the cat?</utterance>
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, the cat. There's a problem with the cat. Sign here. Laurel signs his clipboard.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the problem with the cat?</utterance>
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context>Laurel gives him a dirty look, but he laughs and leaves. She goes over to the stretcher and bends down, petting Rosenberg's cat gently.</context>
+      <utterance>Your problem.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>She sets the cat aside and wheels the stretcher under the lights.</context>
+      <utterance>Are you having a bad day, baby? Cheer up.  His is worse.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Okey-dokey. Shall we?</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="44">
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...approximately 112 degrees at time of autopsy, indicating, quite impossibly, a post-mortem increase in body temperature. Examiner attempted to verify result rectally, only to find subject was, uh, without rectum. Which can only be described as...well...as really...</utterance>
+   <speaker>KAY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Weird? Dr. Leo Menville, Department of Public Health. This is Dr. White. She looks up. Jay and Kay are standing there.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>He hands her his CARTE NOIR, which changes to read "Dr. Menville, Department of Public Health." She hands it back.</context>
+      <utterance>Yeah, well whoever you are, I'm afraid I'm going to need to see some ID.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You boys must not have much of a home life.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We watch the morgues very carefully. You've got something unusual?</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>She gets up and goes to the Arquillian's body, which is still out on a table under the lights.</context>
+      <utterance>I'd say so -- triple homicide.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode>CONT'D</mode>
+      <context>She throws back a sheet, revealing (to them only, not us) the fully dissected Arquillian. Kay raises an eyebrow; Jay nearly retches.</context>
+      <utterance>The first corpse was perfectly normal, except that he was broken in half, but when I opened up the other two -- well, look.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode>CONT'D</mode>
+      <context>Kay steps past her, going straight to the body. He begins to examine it.</context>
+      <utterance>There's a skeletal structure at work here unlike anything I've ever seen.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll have a look at this one. Dr. White, why don't you and Dr. Weaver check out the other body?</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>Jay and Laurel cross the room, to where ROSENBERG's corpse lies out on another gurney.</context>
+      <utterance>This way, Doctor.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>This one's even stranger. I did a full laparotomy. I started with the lesser curvature of the stomach -- though, if you want, we could begin at the gastro-esophageal junction.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think, uh, we should start at the same place you did.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>Jay hears a MEOW and looks down. Rosenberg's cat is rubbing up against his leg.</context>
+      <utterance>All right.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your cat?</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>She SNAPS one of her rubber gloves and reaches down (out of frame), sinking her hands into the body as she moves things aside. Just by the look on Jay's face, one can imagine how disgusting it is. Laurel digs in, up to her elbows. Jay winces. She pulls one bloody glove out, to wipe a strand of hair out of her face. He looks at her -- -- and she winks at him. He's surprised. She laughs.</context>
+      <utterance>Guess it is now. Came in with the bodies.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode>CONT'D</mode>
+      <context>Jay is reluctant, so she rolls her eyes and helps him, taking him by the hand and guiding him into the thick of the corpse.</context>
+      <utterance>Okay. Dive right in. God knows he won't mind.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You have very pretty eyes.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank-you, but is this really the time to uh -- you know, come on to me?</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, just walking the dog.  Feel that? Where the piloric junction would be?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, yes. Exactly.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now push that aside. Notice anything strange? Stomach? Liver? Lungs?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope. All fine.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doctor, they're all missing.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>That we can be sure of.</context>
+      <utterance>Well, of course they are. What I'm pointing out is that there are no pieces of them left. So they're intact, wherever they are.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have we met before? I have the strangest feeling of deja vu.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Laurel looks at him sideways, skeptical, but also intrigued. She whispers to him. Confiding in him.</context>
+      <utterance>You know, I was just going to ask you the same thing.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. You wanna know what I really think?  But don't tell that guy. He looks like he's already under enough stress.  This body is not really a body, but it's actually some sort of transport unit for something else altogether. The question is: what? Jay just looks at her intrigued.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By the way, stop me if I'm freaking you out.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>After a particularly gross GUSHY sound, he looks away, toward her. She's staring at him. Laurel leans over and lowers her voice, just for him.</context>
+      <utterance>No, no...not at all.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what I like to do sometimes? When it's really late?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>From the other side of the room, Kay CLEARS HIS THROAT.</context>
+      <utterance>No...</utterance>
+   <speaker>JAY</speaker>
+      <mode>CONT'D</mode>
+      <context>He walks across the morgue to Kay, who is still examining the Arquillian. But Jay never takes his eyes off Laurel.</context>
+      <utterance>Excuse me.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very interesting. Got a real Queen of the Undead thing goin' on.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of the body.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great body.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The dead body?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not a clue.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>ACROSS THE MORGUE, Laurel is still examining Rosenberg, now bent down next to his head, carefully studying his left ear. She notices something strange, turns, and calls over her shoulder to Jay.</context>
+      <utterance>All right. Keep her occupied. Try not to sound too dumb.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>Jay, in conversation with Kay, does not respond to what is not his name.</context>
+      <utterance>Dr. White.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode>CONT'D</mode>
+      <context>He still doesn't answer.</context>
+      <utterance>Dr. White.  Dr. White.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Jay turns and races across the room to rejoin her.</context>
+      <utterance>You're up, Slugger.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>Jay leans down. There is strange stitching around the base of Rosenberg's ear.</context>
+      <utterance>Look at this.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>He reaches out, touches the ear, then he actually turns it. With a soft</context>
+      <utterance>What is that?</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="31">
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>They lean in closer. The Tiny Little Green Man (a BALTIAN) forces words out of his mouth.</context>
+      <utterance>Far -- freaking -- out.</utterance>
+   <speaker>BALTIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Must -- to pre -- prevent --  -- contest? No...to prevent --</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all right -- What are you trying to say? Struggle?</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>The Baltian nods vigorously. That's it.</context>
+      <utterance>War?</utterance>
+   <speaker>BALTIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Galaxy on -- or -- or -- Orion's --  What is word? Be...?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>The Baltian nods again, falls, and dies. Jay and Laurel look at the little dead alien, then at each other.</context>
+      <utterance>Bed? Belt? Orion's Belt?</utterance>
+   <speaker>JAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>"To prevent war, the galaxy is on Orion's Belt?" The hell does that mean?  Hey! Kay! I mean, Dr., uh, whatever, come here! Kay begins over. Laurel looks at them.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>Jay shakes his head -- but is now paying more attention to Kay, as he leads him toward the Little Man.</context>
+      <utterance>"Doctor Whatever"? You're not with the Department of Public Health, are you?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Kay looks at the mess -- the body, the little dead man.</context>
+      <utterance>He's dead.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rosenberg. Damn. Good man.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You knew him?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One of the few I actually liked. Exiled High Prince.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was right -- this is an alien life form, and you're from some government agency who wants to keep it under wraps... Kay and Jay are not paying attention to Laurel.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He said "to prevent war, the galaxy is on Orion's Belt."</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>FLASH! Without even looking at her, Kay whips out his neuralyzer and blanks her out.</context>
+      <utterance>... This make total sense. How else do you explain New York? The other night I'm in a cab, this guy...</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He said there's a galaxy on Orion's Belt? That makes no sense.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what he said.  Didn't he? Right after he --  Oh, for Christ's sake, you did the flashy thing already.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, hi, whoever you guys are, I'm afraid I'm going to need to see some ID if you're going to be in the morgue, okay?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>FLASH! He neuralyzes her again. Jay slaps his hand.</context>
+      <utterance>Sure thing, sweetheart. Here you go.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop that --</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Typical day, too much caffeine, get a life.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- that thing probably gives you brain cancer!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never hurt her before.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Never hurt her before"?! How many times have you done the flashy thing to this poor woman?!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Couple.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aren't you worried about, you know, long term damage?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Little bit.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell happened to make you such a callous son of a bitch?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He heads out. Jay follows.</context>
+      <utterance>I took this job.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, you never flashed me with that thing, did you?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nah.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="4">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Kay, I really think I should be in charge of the flashy memory thing department.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not while I'm around, Slim.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>An MIB containment vehicle pulls up, and four men dressed in black suits get out.</context>
+      <utterance>Yeah, well you're a menace with that thing...</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've got two dead aliens in there, and a deputy medical coroner in need of a new memory.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="6">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doesn't anybody believe in sleep around here?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The twins keep us on Alpha Centaurian time -- a 37-hour day. Give it a few months -- you'll get used to it. Or you'll have a psychotic episode. He points up at the screen with a laser pencil.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context>He indicates the three stars that make up the belt.</context>
+      <utterance>Here's Orion; the brightest grouping of stars in the northern sky...  and here's Orion's belt --</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what the little guy was talking about, "To prevent war, the galaxy's on Orion's belt..."</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are no galaxies on Orion's belt. The belt is just these three stars; galaxies are huge, made up of billions of stars.  You heard wrong.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Jay starts to cross over to ANOTHER MONITOR, where Kay is sitting alone, tie loosened, slightly disheveled. On the screen, the word "SEARCHING" blinks, encouraging patience. The image changes to a satellite view of North America, which quickly zooms in on the Southwest. On screen, the satellite view zooms down to Arizona, then a city, then a neighborhood, then a block, then a back yard. The printout changes to</context>
+      <utterance>You're attracted to me, aren't you?</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="3">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Kay clicks off the picture of her. Jay drags a chair and sits down.</context>
+      <utterance>Pretty lady...</utterance>
+   <speaker>JAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Grumpy Guy's story comes into focus. She ever get married?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>It's more than Kay can bear. He reaches out and flicks a switch. The monitor goes blank, except for a data screen:</context>
+      <utterance>No.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="20">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it's better to have loved and lost than never to have --</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Try it.</utterance>
+   <speaker>ZED</speaker>
+      <mode>O.S.</mode>
+      <context>Jay and Kay cross back toward the LAD (Landed Alien Display), where each of the thousand or so Aliens who live on earth are represented by a flickering LIGHT. Some lights are starting to go out.</context>
+      <utterance>Kay.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're leaving.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've had twelve jumps in the last hour. Redgick was just the beginning.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Kay looks to his partner, then to the screen. Another light flickers out.</context>
+      <utterance>What do they know that we don't know?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>ON THE SCREEN New York City is just a bright spot of light on the Eastern coast of the United States.</context>
+      <utterance>Why do rats desert the ship?  Go to Lem Sat IV. Put up a forty-field view of Manhattan.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Now there's a view of the earth from space. Nothing unusual.</context>
+      <utterance>Four hundred.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Now we're looking at earth from far, far away -- and from here we can see something that doesn't belong in this picture: A BATTLE CRUISER far off to one side of the earth. The words "LEVEL FOUR" flash in red letters on one side of the map.</context>
+      <utterance>Four thousand.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>That's an Arquillian battle cruiser.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>A COMMUNICATION STARTS COMING OVER THE SPEAKERS -- a sound like a cat and mouse caught in a blender.</context>
+      <utterance>And we've got a dead Arquillian prince.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>The communication continues.</context>
+      <utterance>Message coming in.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>The communication continues.</context>
+      <utterance>Speak of the devil.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They sound pissed.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context>Kay and Jay walk away.</context>
+      <utterance>Translate that and step on it!  Meanwhile get down to Rosenberg's store and see what you can turn up.</utterance>
+   <speaker>ZED</speaker>
+      <mode>CONT'D</mode>
+      <context>IN THE EQUIPMENT LOCKER Kay pulls out the ENORMOUS, MANY-BARRELED HAND GUN. A small, clear, canister sprouts from underneath it, malicious swirling gases visible through its walls.</context>
+      <utterance>And Kay -- take a lot of fire power.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I like that.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Kay pulls out another weapon, the TINIEST GUN WE'VE EVER SEEN.</context>
+      <utterance>Series four de-atomizer.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Here. We call this the "Noisy Cricket."</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Jay follows Kay out, glancing back to see the huge gun turrets on the Arquillian Battle Cruiser HUM and WHIR as they swing around into position, pointed down at the unwitting planet below.</context>
+      <utterance>You get a series four de-atomizer and I get a "Noisy Cricket?!"  I'm afraid I'm going to break it.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="3">
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's my truck!</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context>Edgar reaches into the front seat of the van and pulls out his twelve gauge. He points it at the tow truck Driver. The tow truck driver looks at him with disdain, and pulling back his shirt reveals a mean-looking gun.</context>
+      <utterance>And make sure you tell them that at the impound.</utterance>
+   <speaker>DRIVER</speaker>
+      <mode>CONT'D</mode>
+      <context>He keeps hitching up the van. Two pedestrians walk past the dispute, very fast, ignoring the debate, headed right for the shop. We go with them, and realize that it's -- -- JAY and KAY. They stop at the smashed door of the jewelry shop and exchange a glance. Kay pulls a very menacing-looking weapon, nods, and they step inside.</context>
+      <utterance>I got worse.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="6">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who robs a jewelry store and leaves the jewels?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Jay moves behind the counter. On the floor is an ornate, empty bowl and a bag of cat food, next to a scrumptious pillow. There are several PHOTOS OF A CAT on the wall. There is also a pile of BEJEWELED CAT COLLARS. Jay picks up one of the COLLARS, inspects it closely, shaking his head.</context>
+      <utterance>Someone who's not looking for jewels.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Jay's attention is broken by something through the window. Outside, lumbering straight for the store, is EDGAR. Jay thinks for a moment -- where does he know that face? Suddenly, Edgar raises his arms, pointing both the farmer's rifle and the driver's shotgun. Before Edgar can shoot, Jay YELLS...</context>
+      <utterance>This guy had a serious crush on his cat.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>And then Jay FIRES, shattering the storefront window, and BLOWING UP A CAR on the street. The blast hurls him up and back a good ten feet, SLAMMING him into the wall with tremendous force. Edgar turns and rushes away down the street as Jay picks himself up.</context>
+      <utterance>Kay! GET DOWN!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Jay leaps through the broken storefront window and after Edgar.</context>
+      <utterance>The bug in the Edgar suit! The ugly redneck from the picture! That's him!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Kay runs out after Jay.</context>
+      <utterance>Damn it.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="5">
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We do not discharge our weapons in view of the public.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can we drop the cover-up bullshit?! There's an Alien Battle Cruiser that's gonna blow-up the world if we don't...</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Kay gestures to a group of ONLOOKERS, drawn by the curious blasts from the store. There's smoking rubble everywhere.</context>
+      <utterance>There's always an Alien Battle Cruiser...or a Korlian Death Ray, or...an intergalactic plague about to wipe out life on this planet, and the only thing that lets people get on with their hopeful little lives is that they don't know about it.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>After gesturing to the back of the Orkin van, where Edgar's spaceship is neatly stowed, Kay pulls out his cell phone.</context>
+      <utterance>Don't worry about the bug. He's not leaving town. We've got his ship.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Zed, we're gonna need a containment crew down here at McDougal, south of Houston.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="6">
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context>Zed looks down to the vast floor below and sees the four worm guys with suitcases walking across the floor.</context>
+      <utterance>Containment may be a moot point, my friend. The exodus continues. It's like the party's over and the last one to leave gets stuck with the check.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sorry little ingrates!</utterance>
+   <speaker>KAY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>What about the Arquillians?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've only translated a part of the message so far: "Deliver the Galaxy."</utterance>
+   <speaker>KAY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>No, they don't want much, do they?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, it gets better... They're holding us responsible. He looks up at the screen. It reads:</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="2">
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Another contestant has entered the ring.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, kid. The Arquillians want the galaxy, whatever the hell that means. We need help. A professional. Someone with years of experience in intergalactic politics. I just hope the little prick hasn't skipped town.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="4">
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where do you keep your dead?</utterance>
+   <speaker>VENDOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't have any dead.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where?!</utterance>
+   <speaker>VENDOR</speaker>
+      <mode></mode>
+      <context>Edgar shoves him away roughly. But before he leaves, his eye catches a postcard display marked "LANDMARKS OF THE NEW YORK CITY AREA." Edgar stares, fascinated, but we don't see what he's looking at. He reaches out and picks up a color postcard. He raises it to his face, thinking, then shoves it in his pocket and hurries off.</context>
+      <utterance>I don't know, the city morgue!</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="25">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course that guy's an alien. That's gotta be the worst disguise I've ever seen. A voice answers him, but not the Vendor's.</utterance>
+   <speaker>FRANK THE PUG</speaker>
+      <mode></mode>
+      <context>Jay looks down. The voice is coming from the dog. This is FRANK THE PUG. Kay approaches, motioning to Jay to make sure no one hears.</context>
+      <utterance>You don't like it, you can kiss my furry little butt.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You busy, Frank?</utterance>
+   <speaker>FRANK THE PUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry, Kay, I can't talk right now, my ride's leaving in -- Kay grabs Frank. He yelps like, well, a dog.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call the pound. We got a stray.</utterance>
+   <speaker>FRANK THE PUG</speaker>
+      <mode></mode>
+      <context>PASSERBYS glare at Kay, who appears to be seriously mistreating this poor little dog. Jay tries to explain.</context>
+      <utterance>Hey! Get your paws off me!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The, uh...dog owes my friend some money.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Arquillians and bugs. What do you know?</utterance>
+   <speaker>FRANK THE PUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know nothing.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Kay shakes Frank the Pug, trying to force an answer.</context>
+      <utterance>Not a thing?</utterance>
+   <speaker>FRANK THE PUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop it. Okay, okay. Rosenberg wasn't some two-bit Arquillian. He was the guardian of a galaxy. They thought he would be safe here on earth.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And the bug had other plans.</utterance>
+   <speaker>FRANK THE PUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The galaxy is the best source for subatomic energy in the universe. If the bugs get their slimy claws on it, kiss the Arquillians goodbye.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ask him about the belt.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rosenberg said something about a galaxy on "Orion's belt." What's he talking about, Frank?</utterance>
+   <speaker>FRANK THE PUG</speaker>
+      <mode></mode>
+      <context>Kay shakes Frank the Pug once more.</context>
+      <utterance>Beats me.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're rehearsing a ventriloquist act.</utterance>
+   <speaker>FRANK THE PUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The galaxy is here.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The galaxy is hundreds of millions of stars and planets? How's it here? If a dog can smirk, Frank does.</utterance>
+   <speaker>FRANK THE PUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You humans, when're you gonna learn that size doesn't matter? Just 'cause something's important, doesn't mean it's not very, very small.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How small?</utterance>
+   <speaker>FRANK THE PUG</speaker>
+      <mode></mode>
+      <context>Kay lets go of Frank, turns to Jay, who is lost in thought.</context>
+      <utterance>Tiny. Like the size of a marble. Or a jewel. Now if you'll excuse me, I need to be walked before the flight.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>The galaxy's here. It's not on Orion's belt. Jay suddenly notices Frank the Pug bark at a cat farther down the sidewalk.</context>
+      <utterance>Get out of here.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kay...</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="3">
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>She pets the cat. As she does, the cat's collar shines in the light. Laurel turns the name tag to face her.</context>
+      <utterance>Boy, when you want attention --</utterance>
+   <speaker>LAUREL</speaker>
+      <mode>O.S</mode>
+      <context>From out in the corridor, a bell rings -- DING, DING. Laurel notices something dangling from the cat's collar -- a CIRCULAR ICON of a strange and beautiful metal. The center is some sort of hardened, translucent material, light green in color.</context>
+      <utterance>"Orion." That's a pretty name.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode>CONT'D</mode>
+      <context>She peers into the jewel, and her face washes over with amazement.</context>
+      <utterance>What's this?</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="6">
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>Outside, the bell DINGS again. Orion looks up, as if knowing who's out there, and not liking it. She SNARLS at the door and leaps off the desk, scurrying across the lab and disappearing under some equipment.</context>
+      <utterance>Wow.</utterance>
+   <speaker>INT./EXT. LTD - MANHATTAN - DAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jay and Kay barrel through town.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So two galaxies have been fighting for years. And the only people who've been benefiting are a race of creatures called bugs. Then the two galaxies decide to make peace...and the bugs send this guy down to make sure the fighting never stops.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By killing the emissaries, and stealing the galaxy they've been fighting about.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And if we don't get it back before he leaves the planet...we're history.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're not even history. 'Cause history implies there's someone around to remember it.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="10">
+   <speaker>TONY</speaker>
+      <mode></mode>
+      <context>Suddenly, quick as a gunfighter, Tony SNAPS the fly swatter down on a BUZZING FLY. Edgar winces.</context>
+      <utterance>Thank you for making sure the bell works.</utterance>
+   <speaker>TONY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What's up, Farmer John?</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A man came in here earlier. A dead man.</utterance>
+   <speaker>TONY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And this means what to me?</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was a very dear friend of mine. And I believe he had an animal with him. A gift I gave him, a pet cat that means worlds to me. I would like it back.</utterance>
+   <speaker>TONY</speaker>
+      <mode></mode>
+      <context>WHACK! Tony flicks the fly swatter again, sending another bug to meet its maker. Edgar grits his teeth.</context>
+      <utterance>I'll need a picture ID, written proof of ownership of the cat, or notarized proof of kinship with --</utterance>
+   <speaker>TONY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>-- the deceased.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>WHACK! Still another fly goes down.</context>
+      <utterance>Don't -- do that.</utterance>
+   <speaker>TONY</speaker>
+      <mode></mode>
+      <context>Tony looks down, to where Edgar's hands rest on the counter. Half a dozen cockroaches stream out of his sleeve.</context>
+      <utterance>Do what?</utterance>
+   <speaker>TONY</speaker>
+      <mode>CONT'D</mode>
+      <context>-- and comes up with a can of Raid. Edgar's eyes bug out.</context>
+      <utterance>Shit! He ducks under the counter --</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="4">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll handle this one, you wait outside.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell for?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>And he continues into the morgue, leaving Kay waiting outside.</context>
+      <utterance>Because all we have to do is walk in and get a cat, it's not that hard. But if you go in, you're gonna lay your Jack Webb on her and flash your brain ray in her face and she's gonna end up with leukemia or some shit. The woman's a doctor, she doesn't need you erasing half her med school classes. Take me five minutes.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two minutes!</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="5">
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is the animal?!</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you, I don't know, it ran under some equipment! Over there.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>He grabs her roughly and drags her across the morgue, toward the equipment she pointed to. As they draw close, ORION the cat bolts from underneath it, races between their legs, and leapfrogs over several small cabinets, landing on top of a very tall one with only six inches clearance between it and the ceiling. A very tough hiding place. Edgar just starts to turn when they hear the BELL and a VOICE from the corridor outside.</context>
+      <utterance>Get it!</utterance>
+   <speaker>JAY</speaker>
+      <mode>O.S.</mode>
+      <context>Edgar looks up at the cat's hiding place. No time to get it. The bell DINGS again.</context>
+      <utterance>Hello? Anybody here?</utterance>
+   <speaker>JAY</speaker>
+      <mode>O.S.</mode>
+      <context>Roughly, Edgar pulls Laurel close and puts a finger to his lips -- "Shhhhhhh."</context>
+      <utterance>Hello?</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="14">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, hi.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm Sergeant Friday, from the Twenty-Sixth precinct. They brought a cat in here with a corpse the other day, might have said "Orion" on the cat's name tag?</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. That's right.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right, well, the cat is, uh -- the cat's a witness in a murder case and I'm going to need to take it with me.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know where the cat is at the moment.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't?</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>Jay looks at her.</context>
+      <utterance>No.  Maybe you could take me with you instead.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said, maybe you could take me with you instead.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn, you do start fast, don't you?</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>Jay just looks at her, amazed at the power he seems to have over this woman. He looks over his shoulder, to make sure he has a few more seconds alone.</context>
+      <utterance>I'd really like to go with you. Now.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Laurel rolls her eyes. She seems irritated with him, but it doesn't go with what she's saying.</context>
+      <utterance>And, uh, why exactly is that?</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just do.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="4">
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>She looks down, pointedly, in the direction of her waist.</context>
+      <utterance>I have something I need to show you.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now slow down, you don't have to hit the gas like that. She leans in and lowers her voice.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't understand. You really need to see this.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I will. But we gotta get something straight here -- I'm gonna drive. It's not some kind of macho trip, it's just the way I'm used to doing things, okay?</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="3">
+   <speaker>SIZZLE.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kay furrows his brow. Odd.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>She points, sharply, at the examination table directly in front of her.</context>
+      <utterance>Look, Stud, I don't know how many more times I'm going to get to tell you this. There's something --</utterance>
+   <speaker>LAUREL</speaker>
+      <mode>CONT'D</mode>
+      <context>Jay's smile vanishes and his jaw drops as he figures it out. He starts to reach for his gun.</context>
+      <utterance>-- that you have to help me with.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="21">
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Freeze it, Bug!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't shoot! Don't shoot!</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>CHRIST, are you THICK!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How was I supposed to know!?!</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did I have to do, SING it for you!?!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe if you didn't come on like a drunken prom date!</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, that's SO typical. Any time a woman shows the slightest hint of sexual independence, men just --</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everybody shut UP!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let her go, Shit Eater.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen, Monkey Boy, I may have to take that kind of talk in my end of the universe, but compared to you humans, I'm the top rung on the evolutionary ladder, so can it, all right?!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>ORION the cat suddenly attacks, leaping off the top of the cabinet and landing on Edgar, HISSING and scratching and clawing for all she's worth. Edgar snaps an arm up and whips her off. The cat squirms in his arm, the icon jangling. Edgar grabs the icon, holds onto it, and flings the cat away, across the morgue. The icon comes free, remaining in his hand. He drops it into his mouth and swallows. He shoves the gun hard against Laurel's cheek.</context>
+      <utterance>You're breakin' my heart. Move six inches to your left and I'll solve all your problems.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>Kay freezes, teeth clenched, gun still in front of him. Standoff.</context>
+      <utterance>That's better. Now put down your weapons. We're leaving.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode>CONT'D</mode>
+      <context>Edgar cranks one of Laurel's arms behind her back, hard, and she CRIES OUT in pain.</context>
+      <utterance>Have you ever pulled the wings off a fly?</utterance>
+   <speaker>EDGAR</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Would you care to see the fly get even?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How far you think you'll get without your ship? If that's what you call that hunk of space crap we've got back at our office.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Put the weapons down!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Edgar backs away with Laurel, further into the morgue, toward a glass window that looks out at the base of an air shaft. Jay and Kay advance, slowly, cornering him.</context>
+      <utterance>Never gonna happen, Insect.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay, Laurel!</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>HOW is it okay?!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean it's going to be okay!</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>-- and CRASHES right through the window, into the air shaft.</context>
+      <utterance>Don't bet on it, meat sack. And with that he turns, leaps --</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="5">
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take me here.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>Edgar just cranks the car into gear -- opening his mouth and swallowing the icon -- and in so doing revealing a TRIPLE ROW OF SERRATED BUG-TEETH, he SLAMS HIS FOOT on the gas pedal. Laurel's head snaps back as the car rocks forward. She has no choice, but to grab the wheel and start steering as -- The car screeches out into traffic, swerving wildly as Laurel is forced to make a 90-degree turn. The car fishtails wildly, swiping an oncoming car as it straightens and heads into the traffic. The furious Cab Driver runs off after it, still yelling as he disappears around the corner. A second later, KAY and JAY rush out into the street. The cab is nowhere to be seen. Jay runs into the street, noticing the wooden beads, the ripped pine-scented green deodorizer, and the still-burning cigarette.</context>
+      <utterance>What???</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>And Jay starts running down the street, where DOZENS of cabs are waiting at the intersection. He's running from cab to cab, pounding on windows, scaring the living shit out of people --</context>
+      <utterance>They're in a cab.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>-- but Laurel and Edgar are nowhere to be found. Up ahead the light turns green and the tide of taxis wash away, leaving Jay on the street. He turns as a car screeches up behind him, its headlights shining in his eyes. As it gets closer, Jay sees it's Kay in the LTD.</context>
+      <utterance>Hey! Laurel!? Hey!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop wasting time. He's not getting off the planet in a cab.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="4">
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come with me. Put up a bio-net all the way around Manhattan; if it's not human, it's not leaving the island.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What've we got from our friends upstairs?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Same thing: "Deliver the galaxy."</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>AT THE MAIN VIEWING SCREEN, A GREEN LINE shoots out from the Arquillian ship, striking a region of planet earth.</context>
+      <utterance>Yeah, well the bug's got the galaxy, but we've got his ship. He's got to be looking for a way out. Just then, a loud ALARM wails.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="4">
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Arquillian battle rules, kid. First we get an ultimatum, then a warning shot, then we have a galactic standard week to respond.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A galactic standard week? How the hell long is that?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One hour.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Viewing the screen, it now reads:</context>
+      <utterance>One hour?</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="19">
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To keep the bugs from getting it, the Arquillians will destroy the galaxy and whatever planet it's on.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're talking about US!</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sucks, doesn't it?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pull up the locations of all land-based interstellar vehicles.</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context>As Kay and Zed watch as the machine scrolls through the data, Jay walks back towards the center of the room, deep in thought. Over him we hear:</context>
+      <utterance>They're all gone. Frank the Pug took the last ship on the planet.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Atlantic City?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gone.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That landfill on the Jersey Shore?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gone.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, gentlemen.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Epcot?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gone.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miami Beach?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gone.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fellas.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hartford?</utterance>
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gone, thank God.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Kay and Zed both look up at once, scowling.</context>
+      <utterance>Hey. Old guys.</utterance>
+   <speaker>JAY</speaker>
+      <mode>CONT'D</mode>
+      <context>They follow his gaze, up, over the computer terminals. There, on the wall in front of them, where it has loomed for the entire movie, is the enormous mural of the 1964 World's Fair grounds. Most prominent in the mural are two tall towers that rise dramatically from the ground, topped by -- -- the two flying saucers from the very first alien contact. As they stand there, wide-eyed, staring at it, we --</context>
+      <utterance>Do those still work?</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="3">
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're coming with me.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?! Why?!</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>And he shoves her ahead of him, off in the direction of the space ships. Behind him, abandoned on the front seat of the cab, we finally see the front of the postcard he's been carrying around. "FLUSHING MEADOWS, SITE OF THE 1964 WORLD'S FAIR," it says, with a distinctive photograph of the spaceships. So that's how he knew.</context>
+      <utterance>It's a long trip. I'll need a snack.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="3">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're taking the tunnel?!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know a better way to Queens?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's usually jammed?!</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="5">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jay. The button?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah?!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>A LIGHTED PANEL rotates into place between the two front seats, and that red button flashes underneath its plastic shield again. Jay flips back the plastic cover and JAMS his finger down on the red flashing button.</context>
+      <utterance>Push the button, Jay.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>And you may want to throw on a seat belt.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="5">
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mind if I smoke?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?!?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the car, I mean.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't care!!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He lights a cigarette and blows the smoke out leisurely, one hand on the wheel, just waiting out the tunnel. Jay gives up struggling to right himself and closes his eyes, suffering through this.</context>
+      <utterance>Hey, just a common courtesy. It bothers some people if you smoke in a car.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="3">
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, let me go, you don't want to eat me. I'm a very important person on my planet. Like a queen. A goddess, even. There are those who worship me, yes. I'm not trying to impress you with this, I'm just letting you know. It could start a war.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good. War means food for my family, all seventy-eight million of them. That's a lot of mouths to feed, your highness.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>And with that she KICKS him squarely in the face. He reels, momentarily losing his grip on her. She takes advantage of the moment and FLINGS HERSELF out, into the air. Edgar flails, but she is beyond his reach. She falls, tumbling through the air -- -- and lands in the branches of a tree. She hits hard, the branches rattling, and reaches out and hangs on for dear life, high above the ground. Above, Edgar just keeps climbing.</context>
+      <utterance>You're a wonderful dad.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="4">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Kay pumps it once, with extreme confidence.</context>
+      <utterance>You know how to work that?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He SLAMS the trunk, revealing the flying saucers sitting atop their columns in the distance.</context>
+      <utterance>No idea whatsoever.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>As if on cue, one of the saucers begins to HUM. Then it starts to spin, faster and faster. The ship begins to rise.</context>
+      <utterance>Let's bag us some bug.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, shit.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="4">
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Set it to pulsar level five, sub-sonic implosion factor --</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Jay raises his weapon; they press their green buttons.</context>
+      <utterance>Press the little green button, on three.</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>For a moment, nothing happens, as if it were a misfire. But then, there is a VACUUM WHUMP, like all the air in the immediate area being sucked into a space the size of a dime, and a tremendous shock wave rolls out from the barrel of the guns. Jay and Kay are sucked to the ground by the bizarre force, THUDDING to their stomachs like magnets to a refrigerator.</context>
+      <utterance>One...two... They pull their triggers.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="6">
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't get it. I've won. It's over.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are under arrest for violating number 4-1-53 of the Tycho accord. Please hand over any galaxy you might be carrying.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You milk-suckers! You don't matter! In a few seconds you won't even be matter!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He pumps the gun for emphasis.</context>
+      <utterance>Move away from the vehicle and put your hands on your head.</utterance>
+   <speaker>EDGAR</speaker>
+      <mode></mode>
+      <context>Edgar stares at him. Then flexes his arms, still encased in flesh. His giant pincers RIP free of the rotting skin. He extends both pincers to the sides, and, my God, his reach must be twelve feet across. Now the skin and clothes on Edgar's legs begins to CRACK and SHRED. They BURST APART, revealing two hideous, doubled-over insect legs. The bug raises himself aloft on his legs. He sucks in a deep breath of air, and now the rest of the Edgar suit goes the way of the arms and legs. The torso EXPLODES in great rendering of cloth and skin, and finally Edgar's head simply BURSTS apart, SPATTERING against the walls. Edgar now reveals himself as he really is: a hairy, bug-like exoskeleton, a scaly tail with a long stinger, a head like a cobra with elliptical eyes and a small nose, and two horse-like feet with three toes each. He raises his pincers in the air, resting them on his head. The GALAXY hangs on a chain around his neck.</context>
+      <utterance>Put my hands on my head?</utterance>
+   <speaker>BUG</speaker>
+      <mode></mode>
+      <context>Kay and Jay pump their guns and aim at the Bug. Suddenly the Bug SPITS. And a HUGE, SLIMY WAD OF GOO shoots from him and engulfs both shotguns. The Bug snorts it back, tearing them from Jay and Kay's grasp, then swallowing them. Jay and Kay have only a second to react before -- The Bug SWIPES at them with the back of his clawed hand, like someone brushing aside a gnat -- and SENDS THEM FLYING FIFTEEN FEET IN THE AIR.</context>
+      <utterance>Like this?</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="8">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>They look up to see the Bug moving for the second tower -- and the second flying saucer. Kay gets to his feet.</context>
+      <utterance>That did not go at all like I had planned.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Kay starts walking after the Bug.</context>
+      <utterance>This guy's really starting to bug me.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatever happens, Jay, don't let him get on that ship.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you going?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Getting my gun back.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Kay steps forward and yells at the departing Bug.</context>
+      <utterance>What!?</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>The Bug just keeps moving toward the ladder.</context>
+      <utterance>Hey, Bug!</utterance>
+   <speaker>KAY</speaker>
+      <mode>CONT'D</mode>
+      <context>The Bug turns toward Kay. Kay steps up to him, the small human facing off against the giant alien hug.</context>
+      <utterance>I'm talking to you, Bug! You know how many of your kind I've swatted with a newspaper?</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="2">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>The concrete THUNKS off the Bug's shell -- he doesn't seem to notice; just keeps moving. Jay picks up a twisted metal pole and runs at the Bug.</context>
+      <utterance>Hey! Come over here and try that!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Jay starts pounding on the Bug with the metal pole.</context>
+      <utterance>Stop right there, or I'll start wailing on your waxy, pointed ass!</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="6">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>In frustration, Jay screams and throws himself on the Bug, hanging onto its back, trying to drag it down.</context>
+      <utterance>What are you, afraid of me? Come on! Stand and fight like an arthropod!</utterance>
+   <speaker>JAY</speaker>
+      <mode>CONT'D</mode>
+      <context>The Bug flicks him off with his tail -- sending him SAILING twenty feet through the air. Jay CRASHES into the dumpster, landing on a heap in front of the garbage. But, scratched and beat-up, Jay still doesn't quit -- he stands to yell at the Bug, extending his arm at the creature.</context>
+      <utterance>You want a piece of this, huh?! Maybe you're a badass in your hive, but this is New York City. You're just another tourist here!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>He notices something on his arm...a cockroach running down his sleeve. He flicks it off... Looks down at the ground...sees another roach...looks over to the dumpster behind him...there are more of them...a whole mob, in fact...fifty or sixty of the critters, climbing out of a rusted hole in the dumpster... Jay has one last desperate idea...He kicks at the dumpster -- part of the side is rusted paper thin and it kicks apart and crumbles to pieces. TENS OF THOUSANDS OF ROACHES pouring forth from the dumpster, crawling like a black glittering river, away from the garbage... Jay leaps to his feet and moves to the glistening mob of insects...</context>
+      <utterance>You're messing with the wrong species, Bug --</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>CLOSE ON JAY'S FOOT as he steps on the roach. CRUNCH. ON THE BUG as he flinches on the ladder -- he hates that sound. ON JAY. He smiles.</context>
+      <utterance>Hey, Bug!</utterance>
+   <speaker>JAY</speaker>
+      <mode>CONT'D</mode>
+      <context>He knows he's getting to him. He steps toward the Bug -- moving his foot over another roach. CRUNCH! He crushes another one.</context>
+      <utterance>If I'm not mistaken, that was a cousin of yours.</utterance>
+   <speaker>JAY</speaker>
+      <mode>CONT'D</mode>
+      <context>ON THE BUG. He turns around, anger burning in his eyes.</context>
+      <utterance>Whoa! That had to hurt. And, what d'you know, here's your old Uncle Bob! He steps forward again -- CRUNCH!</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="7">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>CRUNCH. [ON] THE BUG as he starts climbing down the tower and moving toward Jay. ON JAY. They are moving toward each other in a show down -- Jay moves on, poising his foot over another roach.</context>
+      <utterance>What's that? Can you hear what he's saying? 'Help me! Help me!'</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>The Bug is right over Jay now, jaws dripping ready to gobble him up.</context>
+      <utterance>Ooh! There's a pretty one. That one looks kinda familiar, don't you think? I know who that is!</utterance>
+   <speaker>BUG</speaker>
+      <mode></mode>
+      <context>Jay stares right back at the Bug. Inside, he sees Kay's hand, closing around the trigger of the shotgun. He brings it around, pointing up, straight at the Bug's head.</context>
+      <utterance>Don't do that!</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>He moves to CRUNCH the roach -- The Bug moves to chomp Jay -- Jay stares up at him, unflinching...</context>
+      <utterance>That's your Momma!</utterance>
+   <speaker>JAY</speaker>
+      <mode>CONT'D</mode>
+      <context>Kay BLASTS a hole right in the middle of the Bug's midsection. The front of the Bug's thorax EXPLODES in a shower of bug juice all over Jay. The Bug flies into two pieces -- the butt end sailing one way; the head flying behind Jay. Kay falls out of the Bug, in a mess of goo, gasping for breath, dropping the atomizer from his slippery fingers. The other gun sails off into the darkness. The ICON drops to the ground, rolls over to Jay's feet, and CLATTERS to rest like a silver dollar on a barroom floor. He calmly bends down and picks it up. Jay is pissed and starts in on Kay.</context>
+      <utterance>Didn't she ever teach you not to bite off more than you can chew? and at that very moment...</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context>Kay holds up a finger in a 'wait a minute' gesture -- pulls out his pocket phone and hits a number.</context>
+      <utterance>You son of a --</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Zed. Get a message to the Arquillians. We have the galaxy.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="9">
+   <speaker>ZED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think the word's already out. Our friends are coming back.  Got an authorized landing at Times Square. You and Jay check it out on the way back... And pick me up one of those soft pretzels, while you're at it. Extra salt. I feel like celebrating.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were saying?</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Getting eaten!? That was your plan!?</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>As they argue, behind them, unseen, THE FRONT HALF OF THE BUG RAISES ITSELF UP on its forearms, eyes gleaming with hate, jaws dripping -- ready to lower itself onto Kay and Jay.</context>
+      <utterance>Worked.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>After I got the shit beat out of me!</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I almost got digested. It goes with the job.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You coulda told me what you were doing.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>HISSS! The Bug attacks, swinging its head down on them. They turn to see it, and just before the jaws snap down on their heads... BOOM! The Bug's head explodes into a million bits. Bug juice showers down everywhere, bucketsful of goo drenching Kay and Jay even further. They turn to see... LAUREL standing behind the dead Bug, the other atomizer in her hands, the barrel smoking, the weapon and Laurel dripping the Bug innards.</context>
+      <utterance>There wasn't time, sport!</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>ON THE SKY. Bits of Bug juice still flying through the air.</context>
+      <utterance>Interesting job you guys got.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="12">
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, I know we got rules, but she did just bust the Bug for us. And so maybe you don't have to flashy thing her. Kay pulls out the neuralyzer.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's she gonna tell, anyway? She only hangs out with dead people.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not her. Me.  They're beautiful, aren't they? The stars. I never just look anymore and they're beautiful.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kay, you're scaring your partner.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't been training a partner -- I've been training a replacement.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh no, I can't do this job by myself.</utterance>
+   <speaker>LAUREL</speaker>
+      <mode></mode>
+      <context>We're not even on the right island.</context>
+      <utterance>Hey, guys, we're nowhere near my apartment.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Kay starts dialing back the neuralyzer.</context>
+      <utterance>Maybe you won't have to.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>He hands the neuralyzer to Jay. Taps his pocket. Indicates for him to put his glasses on. Jay resists.</context>
+      <utterance>Days. Months. Years. Always face it forwards.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Jay takes the neuralyzer. Slips on his glasses.</context>
+      <utterance>I've just been down the gullet of an interstellar cockroach. That's one of a hundred memories I don't want.</utterance>
+   <speaker>KAY</speaker>
+      <mode></mode>
+      <context>Jay raises the neuralyzer. With a brilliant FLASH, the screen turns white.</context>
+      <utterance>See you around, sport.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, you won't.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="4">
+   <speaker>MAN AWAKENS FROM 30-YEAR COMA</speaker>
+      <mode></mode>
+      <context>A large photograph shows a smiling KAY, arm-in-arm with ELIZABETH RESTON, his long-lost fiancee, in her back yard in Tempe, Arizona. She holds a large bouquet of flowers, the same kind he brought but never gave her thirty years ago. JAY, who's reading the paper, smiles. AT THE CURB, Jay hurries back to the LTD with the newspapers. ELLE, (formerly Laurel), is waiting, leaning against the hood. Tailored black suit. Black shoes. Short-cropped hair. The look never looked better.</context>
+      <utterance>Returns to Girl He Left Behind</utterance>
+   <speaker>ELLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Zed called. The High Consulate of Regent-9 emissary wants floor seats to the Knicks -- Bulls game.</utterance>
+   <speaker>JAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll talk to Dennis Rodman, it's his damn planet.</utterance>
+   <speaker>ELLE</speaker>
+      <mode></mode>
+      <context>Both car doors SLAM, Jay drops it in gear, and the LTD BLASTS away from the curb.</context>
+      <utterance>Let's roll.</utterance>
+</dialogue>
+
+
+</movie>

@@ -1,0 +1,2559 @@
+<movie id="101" title="Bourne Identity The">
+
+<dialogue id="1" n_utterances="6">
+   <speaker>SAILOR #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Jesus, look at him --</utterance>
+   <speaker>SAILOR #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- what? -- you never saw a dead man before? --</utterance>
+   <speaker>SAILOR #3</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- look, look he was shot --</utterance>
+   <speaker>SAILOR #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- don't, don't do that --</utterance>
+   <speaker>SAILOR #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- he's dead, you think he cares? --</utterance>
+   <speaker>SAILOR #1</speaker>
+      <mode></mode>
+      <context>THE BODY MOVES! -- convulsing -- coughing up sea water -- the Sailors -- freaked -- jumping back -- standing there, as -- THE MAN begins to breathe.</context>
+      <utterance>-- so have some respect -- it's a --</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="6">
+   <speaker>GIANCARLO</speaker>
+      <mode></mode>
+      <context>GIANCARLO with an old trunk -- just getting it open, as --</context>
+      <utterance>-- it's here -- hang on -- it's here somewhere -- give me a minute -- get some blankets -- get some blankets on him --  -- here we go -- here it is --</utterance>
+   <speaker>THE CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Giancarlo.  We pick him up? Okay, we have to pick him up. But that's as far as it goes.</utterance>
+   <speaker>GIANCARLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He needs a doctor.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck that. He lives? He dies? I don't care. We've wasted two hours on this shit already. You do what you can, but we're not going back.  You understand me?</utterance>
+   <speaker>GIANCARLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context>GIANCARLO watching them run out. Snagging a quick pull on a pint of rum he's got stashed and --</context>
+      <utterance>Let's get back to work!</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="8">
+   <speaker>GIANCARLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're awake. Can you hear me?  You've been shot. I'm trying to help you.  You were in the water. You've been shot. It's okay now.</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where am I?</utterance>
+   <speaker>GIANCARLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're American. I thought so. From your teeth -- the dental work --</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where am I?</utterance>
+   <speaker>GIANCARLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're on a boat. A fishing boat. Italian flag. We're out of Vietri.  It's the cold that saved you. The water. The wounds are clean. I'm not a doctor, but the wounds, it looks okay. It's clean.</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did I get here?</utterance>
+   <speaker>GIANCARLO</speaker>
+      <mode></mode>
+      <context>Long dead pause.</context>
+      <utterance>You we're lost at sea. They pulled you out.  Who are you?  You were shot -- two bullets -- in the back. You understand me?  Who are you?</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="4">
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if it doesn't come back?</utterance>
+   <speaker>GIANCARLO</speaker>
+      <mode></mode>
+      <context>Silence. THE MAN can't rest. Too busy trying to make sense of all this.</context>
+      <utterance>I told you. You need to rest.</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context>GIANCARLO rummaging around -- finding a magnifying glass --</context>
+      <utterance>I can read. I can read that sign on the door. I can count. I can talk...  What are you doing?</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context>INSERT -- MAGNIFIED POV -- a slip of plastic from the tube -- written there -- 000-7-17-12-0-14-26. GEMEINSCHAFT BANK,</context>
+      <utterance>What is that?</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="6">
+   <speaker>GIANCARLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It came from your hip. Under the skin.  You have a bank in Zurich.  You remember Zurich?</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context>GIANCARLO staring at him now. Different suddenly. Suspicious.</context>
+      <utterance>No.</utterance>
+   <speaker>GIANCARLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, I'm just on this boat, okay? I'm an engineer. Whatever this is, it's not for me to be involved, okay?</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context>GIANCARLO pulls his pint. Takes a hit.</context>
+      <utterance>I don't remember Zurich.</utterance>
+   <speaker>GIANCARLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You drink rum?</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="2">
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context>And then he stops. Blinks. Wipes away the perspiration just beading on his forehead.</context>
+      <utterance>I don't know who I am. Do you know who I am? Do have any idea who I am?</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context>And what else is inside there?</context>
+      <utterance>Tell me who I am. If you know who I am, please stop fucking around and tell me. No answer. Just that face. His face. Who am I?</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="4">
+   <speaker>GIANCARLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not much, but it should get you to Switzerland.</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context>GIANCARLO gives him a look. Shakes his head, and --</context>
+      <utterance>I won't forget this.</utterance>
+   <speaker>TICKET AGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Una sola via?</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Si. One way. Una sola via.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="4">
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>MARSHALL, a CIA bigwig has the remote control. And the floor.</context>
+      <utterance>...no, no, no -- the time is not right, my enemies are too strong. I'm telling you to wait for this, you understand? I'm telling you this, and I'm making a warning to all those peoples out there that think that my powers have become so weak that they can play with me as they wish. You will see -- I will tell you when the evidence is clear. Then you will have a story. My old friends will hear about themselves.</utterance>
+   <speaker>MARSHALL</speaker>
+      <mode></mode>
+      <context>TWELVE CIA MANDARINS sitting around the table like kids in detention. We will tour the faces as MARSHALL continues, but the guy we're interested in is named WARD ABBOTT. Picture a sawier, slicker John Poindexter.</context>
+      <utterance>That's Nykwana Wombosi speaking in Paris the day before yesterday. I'm sure most of you have a passing knowledge of Mr. Wombosi. Some of you on the African desks have worked with him over the years. Some of you very closely...</utterance>
+   <speaker>MARSHALL</speaker>
+      <mode></mode>
+      <context>ABBOTT'S FACE says this is news to him. HIS HANDS suggest otherwise.</context>
+      <utterance>...He was an irritation before he took power. He was a problem when he was in power. And he's been a disaster for us in exile.  Wombosi likes to send us messages through the European media. This is an interview we pulled down from a local German television station in Dresden. We've been getting these little broadsides every couple of months. He knows this -- he knows that -- he's writing a book about the Agency's history in Africa -- he's going to name names. It's basically a shakedown...</utterance>
+   <speaker>MARSHALL</speaker>
+      <mode></mode>
+      <context>Long pause. No hands go up.</context>
+      <utterance>This interview -- and I'll make the tape available for anyone who wants it -- he goes on to claim that he has just survived an assassination attempt. He says it's us. He says he's got proof.  The overwhelming negative ramifications of this should be obvious.  The Director wants to know if there is any possible shred of truth in this accusation.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="9">
+   <speaker>ZURICH COP #1</speaker>
+      <mode>O.S.</mode>
+      <context>THE MAN turns. TWO ZURICH COPS coming toward him.</context>
+      <utterance>Can't you read the signs?</utterance>
+   <speaker>ZURICH COP #2</speaker>
+      <mode></mode>
+      <context>THE MAN makes his feet. They're on top of him now.</context>
+      <utterance>On your feet. Let's go. Right now.</utterance>
+   <speaker>ZURICH COP #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The park is closed. There's no sleeping in the park.</utterance>
+   <speaker>ZURICH COP #2</speaker>
+      <mode></mode>
+      <context>THE MAN not sure what to do. Eyes moving. Mouth shut.</context>
+      <utterance>Let's see some identification.</utterance>
+   <speaker>ZURICH COP #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on. Your papers. Let's go.</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've lost them. I've...  My papers. They are lost.</utterance>
+   <speaker>ZURICH COP #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. Let's go. Put your hands up.</utterance>
+   <speaker>ZURICH COP #2</speaker>
+      <mode></mode>
+      <context>THE MAN raising his hand slowly -- ZURICH COP 1 reaching up to pat him down --</context>
+      <utterance>-- come on -- hands up -- up --</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context>ZURICH COP 2 has heard enough -- giving a sharp poke with the nightstick -- into THE MAN's back -- and that's the last thing he'll remember because -- THE MAN is in motion. A single turn -- spinning -- catching COP 2 completely off guard -- the heel of his hand driving up into the guy's throat and -- COP 1 -- behind him -- trying to reach for his pistol, but THE MAN -- still turning -- all his weight moving in a single fluid attack -- a sweeping kick and -- COP 1 -- he's falling -- catching the bench -- trying to fight back but -- THE MAN -- like a machine -- just unbelievably fast -- three jackhammer punches -- down-down- down and -- COP 1 -- head slammed into the bench -- blood spraying from his nose -- he's out cold and -- COP 2 -- writhing on the ground -- gasping for air -- struggling with his holster -- THE MAN -- his foot -- down -- like a vise -- onto COP 2's arm -- shattering the bone -- COP 2 starting to scream, and then silenced because -- THE MAN -- he's got the pistol -- so fucking fast -- he's got it right up against COP 2's forehead -- right on the edge of pulling the trigger -- he is, he's gonna shoot him --</context>
+      <utterance>-- look, I'm just trying to sleep okay? --  -- I just need to sleep --</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="14">
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>ZORN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Abbott wants to talk.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell him we're busy.</utterance>
+   <speaker>ZORN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I tried.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Storm clouds are gathering, Ted. It looks like rain and I don't have a thing to wear.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know what we're talking about.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're talking about Marseille. We're talking about Nykwana Wombosi. And I'm asking you if this abortion in Marseille has anything to do with Treadstone.  Was this Treadstone?</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're asking me a direct question?</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context>Silence. Pressure drop.</context>
+      <utterance>I thought you were never going to do that.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're putting together an agency oversight committee. They're going to look through everyone's budgets. Treadstone is a rather sizable line item in my ledger.  What am I going to do about that?</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd want to make that go away. You'd want to remind them that Treadstone is a training organization. That it's all theoretical. You'd want to sign off on that.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And what if I couldn't do that?</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then I'd have to explain Treadstone. And you'd have to explain how you let me get this far.  Doesn't sound like much of a Plan-B, does it?  We'll clean up the field. You clean up your budgets.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="3">
+   <speaker>RECEPTIONIST</speaker>
+      <mode></mode>
+      <context>THE MAN standing before her. Looking very out of place.</context>
+      <utterance>Can I help you?</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context>THE RECEPTIONIST nods. Pulls a pen and bank card.</context>
+      <utterance>I'm here about a numbered account.</utterance>
+   <speaker>RECEPTIONIST</speaker>
+      <mode></mode>
+      <context>THE MAN takes the pen, as we --</context>
+      <utterance>If you'll just enter your account number here I'll direct you to the appropriate officer.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="2">
+   <speaker>APFEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good morning, sir. I assume you're here about your box.</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context>APFEL nods. Gestures down the corridor --</context>
+      <utterance>...yes...  The box.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="2">
+   <speaker>NATIONALITY: U.S.A.</speaker>
+      <mode></mode>
+      <context>And a bar code. But no passport. This one is missing. BOURNE sitting there. Trying to push his confusion away.</context>
+      <utterance>PLACE OF ISSUE: Paris, France There's a signature sample.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>But there's something hollow about this. He came looking for one identity and now he's faced with six. The money... The gun... Suddenly, it's all fucked up. BOURNE into gear. Looking around the room -- there -- there's a pile of red canvas burn bags in the corner. BOURNE grabbing one -- stuffing everything into it -- everything except... The gun. He doesn't want the gun. No guns.</context>
+      <utterance>Bourne. My name is Jason Bourne. I live at 121, Rue de la Jardin, Paris.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="2">
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm trying to think how long it's been since I was here.</utterance>
+   <speaker>DEPOSIT GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure. Must be three weeks.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="11">
+   <speaker>MARIE</speaker>
+      <mode>O.S.</mode>
+      <context>A NEARBY CUBICLE. Meet MARIE KREUTZ. German. Big energy. Real beauty hidden beneath the armor. And armor it is, because this is a warrior in full, crisis battlemode.</context>
+      <utterance>-- no, this is not my current address. It was my current address two days ago when I started standing in line outside --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>A CONSULATE CLERK caught in her headlights.</context>
+      <utterance>-- and so now I lost my apartment, I have no address, and I have no visa, and you keep telling me how much help you cannot give me!</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Kreutz, please... I'm gonna have to ask you to keep your voice down.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All the papers -- all the papers they asked for -- I brought all the papers --</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Kreutz, excuse me, but you entered into a fraudulent marriage in an effort to circumvent the immigration laws of the United States --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You only know that because I told you!  Ask the case officer -- find his name -- it's on the papers -- I told him all this myself! --</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- it's not the source of the information that's important here --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- I paid this fucking guy -- I paid him four thousand dollars -- my last four thousand dollars to marry me, okay? -- I told this to the case officer last week...  ...here -- Mr. Thomas. I told Mr. Thomas I didn't know this guy was already married -- I admitted this!</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Miss Kreutz, please --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- I'm the one that got ripped off! -- not you -- not the United States government -- me -- I'm the one being ripped off!</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context>That shuts her up. Yes. Today she's a student.</context>
+      <utterance>So now you're asking for a student visa?</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="4">
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- and they're sure it's him? --</utterance>
+   <speaker>ZORN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- he accessed the account --</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- but it was him --</utterance>
+   <speaker>ZORN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- yes, sir, it's confirmed --</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="11">
+   <speaker>MAN ON LINE</speaker>
+      <mode>O.S.</mode>
+      <context>BOURNE comes to. Shit. It's his turn. A WOMAN CLERK waving him forward. BOURNE trying to think -- what the fuck is he doing? -- what's he gonna say? -- now he's at the window, and if he was looking for a friendly face, he came to the wrong place --</context>
+      <utterance>You're up.</utterance>
+   <speaker>WOMAN CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a U.S. Citizen?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.  I mean, I think so. Yes. Yes...</utterance>
+   <speaker>WOMAN CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, either you are, or you aren't.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right.</utterance>
+   <speaker>WOMAN CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have your passport?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have a passport. I've got...  Actually, it's a little complicated.</utterance>
+   <speaker>WOMAN CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you have your passport, sir?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, maybe I should just...</utterance>
+   <speaker>WOMAN CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir, you waited on line.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>But he's already bailing, walking away from the woman, the window, the room -- he's out of here --</context>
+      <utterance>Yeah, I know...</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="6">
+   <speaker>SECURITY CHIEF</speaker>
+      <mode>O.S.</mode>
+      <context>BOURNE turns back -- as does everyone else in the lobby --</context>
+      <utterance>-- stop! -- stop right there! --</utterance>
+   <speaker>SECURITY CHIEF</speaker>
+      <mode></mode>
+      <context>BOURNE glancing back -- ONE OF THE GATE MARINES BEHIND HIM -- the guy's raising his M-16 --</context>
+      <utterance>-- YOU -- red bag -- the red bag -- stop right there! -- hands up! --</utterance>
+   <speaker>GUN MARINE</speaker>
+      <mode></mode>
+      <context>BOURNE nodding -- total compliance -- starting to drop -- but only starting, because now -- He's swinging the backpack and -- THE GUN MARINE -- nailed -- blind-sided -- no chance and -- BOURNE -- all motion -- all forward -- all perfect -- vaulting the metal detector even as he pulls ONE OF THE PEOPLE ON LINE around to shield his back and -- ANOTHER GATE MARINE -- right there -- trying to grab him -- making his move -- BOURNE -- almost an afterthought -- his boot -- like a knife -- out of nowhere -- SNAP! -- the guy's arm just shattered and -- THE SECURITY CHIEF -- freaking out -- TWO MARINES WITH HIM -- they're raising their weapons and there's people in the lobby and --</context>
+      <utterance>-- you heard him -- let's move it! -- down -- let's go! --</utterance>
+   <speaker>SECURITY CHIEF</speaker>
+      <mode></mode>
+      <context>BOURNE -- landing hard on THE GUN MARINE -- rolling away from the gate -- into the building now -- coming up with the backpack and --</context>
+      <utterance>-- no -- no -- hold your fire! --</utterance>
+   <speaker>SOMEONE SCREAMING</speaker>
+      <mode></mode>
+      <context>And he does -- BOURNE with the M-16! -- coming up with it -- coming up on the move -- swinging it around as he searches for an escape route and THE GUN -- it's like a magic wand of hysteria -- PEOPLE IN THE LOBBY -- SCREAMING -- diving away -- everyone dropping for cover and -- BOURNE -- bailing -- on the run -- sprinting down a hallway -- tossing away the M-16 as he sprints into the building --</context>
+      <utterance>-- he's got a gun! -- he's got a gun! --</utterance>
+   <speaker>THE SECURITY CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- red! -- red! -- red! -- code red! -- South side entrance! -- male -- five- ten, brown hair -- black jacket -- red bag --</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="6">
+   <speaker>DEPUTY DCM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- what're you talking about? --</utterance>
+   <speaker>SECURITY CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- we're evacuating the building --</utterance>
+   <speaker>DEPUTY DCM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- we're in the middle of a trade meeting! --</utterance>
+   <speaker>SECURITY CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- call the code! -- I want everyone out! --</utterance>
+   <speaker>DEPUTY DCM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- you gotta give me more to go on --</utterance>
+   <speaker>SECURITY CHIEF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- he's running from the cops, he's got a bag filled with God knows what, he's in the building and I don't know where! --</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="14">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE standing across the car -- on the passenger side --</context>
+      <utterance>What are you looking at?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need a ride.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need a ride out of here.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>(backing away and --)</context>
+      <utterance>Oh, Jesus...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please. I don't want to scare you.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a little late for that.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got a situation here and --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get the fuck away from my car.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll give you ten thousand dollars to drive me to Paris.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great. You know what? I'll give you ten gazillion dollars to get the fuck away from me before I start screaming my head off.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>BOURNE tosses cash -- a stack of hundreds -- across the car into her hands -- she catches it. Looks at it.</context>
+      <utterance>You don't want the police any more than I do.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>MARIE looking at him. At the money. Back at him, and --</context>
+      <utterance>Get me out of here. Please.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="13">
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context>COM TECH 1 working the console. Freezing the image. Punching it up. There it is -- BOURNE leaving the bank with the red bag.</context>
+      <utterance>go -- keep going -- go...wait -- stop -- you went past it --</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context>ZORN the phones across the room. COM TECH 2 at his console --</context>
+      <utterance>It's him. My God, it's really him...</utterance>
+   <speaker>COM TECH #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- we got a cross-ref ready to go here, sir, we're running hotel, airline, train, and medical variables, anything else you'd like?</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No...  Go ahead. Run it.  Let's get a map, let's get a grid map on Zurich.</utterance>
+   <speaker>ZORN</speaker>
+      <mode></mode>
+      <context>CONKLIN up from the console. ZORN waiting for him --</context>
+      <utterance>Sir...</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>ZORN</speaker>
+      <mode></mode>
+      <context>Silence. Like the floor just fell away. So heavy.</context>
+      <utterance>Zurich police are looking for an American with a red bag. Apparently he put two cops in the hospital last night.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck is he doing?</utterance>
+   <speaker>ZORN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe it's a game. Maybe he's trying to send us a message.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It doesn't matter now. We've just got to be the first ones there.  Get everybody up. I want them all activated.</utterance>
+   <speaker>ZORN</speaker>
+      <mode></mode>
+      <context>A moment between them. CONKLIN all steel here now.</context>
+      <utterance>All of them?</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You heard me.</utterance>
+   <speaker>COM TECH #2</speaker>
+      <mode></mode>
+      <context>CONKLIN breaks away -- back to the console and --</context>
+      <utterance>Sir, the cross-ref is coming up cold...</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="18">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what's in Paris?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to go home.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE looks back from the map.</context>
+      <utterance>For twenty thousand dollars.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said ten thousand.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have blood on your pants.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay.  Twenty thousand. Ten now. Ten there.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. No, that was too easy --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait up --  -- just wait up --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE just grabbed her. Both of them shocked that he's done this. He immediately pulls back.</context>
+      <utterance>-- get the fuck out of here -- all this money, this crazy offer, I mean give me a fucking break with this, this is --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, I want a ride to Paris.  That's all I want. I swear.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You swear?  That's great. I feel so much better now.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>Silence now. She looks back. Measuring him.</context>
+      <utterance>I don't want anything but a ride. All I want to do is go home.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could buy a car for twenty grand. You could buy this car.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to go alone. I want you to drive me to Paris. Like we're a couple. Like we're a couple and we're travelling together. That's all we're doing.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I don't get hurt. I get twenty thousand dollars and I don't get hurt.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't hurt you.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if I say no?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then I'll find another ride.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="17">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just so you know, if you're gonna burn me on the money, you might as well kill me.  I was supposed to have this car back three days ago. It's not my car.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>MARIE staring at him -- glancing back to the road -- just in time -- almost rear-ending a slow moving truck --</context>
+      <utterance>I know that.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit --  Can I tell you how much you're freaking me out? Okay? Because you are -- you're completely freaking me out.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. Really. What do you want me to do?</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. Smile. Sneeze. Something. You've got a bag full of money and a ride to Paris. Fuck it, I don't know...  What kind of music do you like?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What does that mean?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen to what you want.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>There it is. And she wants an answer --</context>
+      <utterance>Who pays twenty thousand dollars for a ride to Paris?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. I don't know who I am.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, well, welcome to the club.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. No, I mean, I really don't know who I am. I can't remember anything earlier than two weeks ago.  I'm serious.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? Like amnesia?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, go ahead... put the radio on...</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amnesia?  You're saying you don't remember anything that happened before two weeks ago?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what I'm saying.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE staring at her. She's furious. She's downshifting -- she's accelerating -- pulling out to pass the truck on a blind turn, as we --</context>
+      <utterance>Give me a fucking break.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="3">
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>WOMBOSI moves to the freezer box. Stares down. As if it were nothing. He's seen -- he's made -- much, much worse. And now he reaches down into the box -- hands on -- literally feeling around this dead, awful corpse with his bare hands -- feeling around for something -- feeling and feeling and not finding --</context>
+      <utterance>Get the fuck out of my way --</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>DEAUVAGE looking pale as WOMBOSI slams shut the freezer.</context>
+      <utterance>It's not him.</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So who's crazy now?</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="21">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you have no idea -- not a clue -- what came before that?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When you think of it, before the ship -- before you wake up on the ship, what do you see?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing. It's just not there.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, this is great.  I'm sick of myself and you have no idea who you are.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I kept trying things, I thought if I could find all the things I could do, I could --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- you could put it together --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- which was okay for a while, I was okay with it...  But then -- there's all these other things -- all these other things I know how to do -- and this -- this stuff from the bank and...  I think something bad happened.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds like you were in an accident or something.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was shot twice in the back.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, so you're a victim.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There was a gun. Who has a safe deposit box with a gun and all this money and all these passports?</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lots of people have guns. You're American. Americans love guns.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I fought my way out of an embassy. I climbed down a fifty-foot wall -- I went out the window and I was doing it -- I just did it. I knew how to do it.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>People do amazing things when they're scared.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do I? -- I come in here -- instinctively -- first thing I do -- I'm looking for the exit -- I'm catching the sightlines -- I know I can't sit with my back to the door --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>She's not listening. He leans in. Flat out now.</context>
+      <utterance>You're paranoid. You were shot. It's natural.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>Long dead pause.</context>
+      <utterance>I can tell you the license plate numbers of all three cars out front. I can tell you that the waitress is left-handed and the guy at the counter weighs two-hundred and fifteen pounds and knows how to handle himself. I know that the best, first place to look for a gun is the cab of that grey truck outside. I know that at this altitude I can run flat out for half a mile before I lose my edge. I knew that you were my first, best option out of Zurich? How do I know all that? How can I know all that and not know who I am? How is that possible?</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God, you're not kidding, are you?</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="12">
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And that's the best angle of the courtyard?</utterance>
+   <speaker>RESEARCH TECH #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the only angle.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do they have on the streets? The area. They must have something.</utterance>
+   <speaker>RESEARCH TECH #1</speaker>
+      <mode></mode>
+      <context>CONKLIN rubbing at the tension in his temples as ZORN enters --</context>
+      <utterance>Hang on...</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>ZORN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Abbott. He knows about the embassy. He's coming down for a show and tell.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That'll solve all our problems.</utterance>
+   <speaker>RESEARCH TECH #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir...</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+   <speaker>RESEARCH TECH #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's an angle of the street -- some sort of alleyway -- you can just...</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context>INSERT -- THE MONITOR -- as the image enlarges to fill the screen. And there's Bourne. And the little red car. And Marie.</context>
+      <utterance>Enhance it.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Who the hell is that?</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="9">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I needed a break.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are we?</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're about an hour away.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't believe I slept.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were tired. Here...  For twenty-thousand I like to throw in breakfast.  So what do you dream about?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>Another silence. She's watching him.</context>
+      <utterance>I dream I'm asleep. I dream that I'm asleep and I can't wake up.  I don't think I smoke.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ever think maybe you have a family?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>She looks away. Was she hoping for another answer?</context>
+      <utterance>I thought about it. I don't know.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess it's like Christmas every day for you, huh?</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="13">
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is she?</utterance>
+   <speaker>ZORN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Marie Helene Kreutz. She's twenty- six. Born outside Munich. Father was a welder. He died in '91. We don't have the mother. There might be a step-sister, we're trying to track that down.  It's tough. She's a wanderer. She pops up on the grid here and there but... I mean, the last time she paid an electric bill in Europe was '94. No taxes. No steady employer. She's got three arrests. Two shoplifting cases, one in Spain, one in Germany. And she actually did three months in an Italian detention center for credit card fraud.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No political affiliations?</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's a gypsy. If it's a cover, it's a great one.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm assuming we're exploring that possibility.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're exploring every possibility.  We are in pursuit. How much more do you want me to tell you?</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pursuit would indicate that you know exactly where he is.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Pursuit ends when we know exactly where he is.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context>CONKLIN hesitates. Inside he's screaming.</context>
+      <utterance>Yes, well, I think we need some fresh eyes on this problem. I'm bringing in some people from upstairs.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've been down here for two weeks banging our heads against the wall. We've been sleeping down here. We just got our first lead fourteen hours ago, and now? -- now that we finally have something to work with -- you want to bring planning personnel down here?  I'd rethink that.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want a second opinion.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is an operations desk.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not asking.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="21">
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Slow down. No, don't stop. Just...</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>AN APARTMENT BUILDING. Big building. Elegant but cold.</context>
+      <utterance>That's it? Is that it?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Four-fifty. That's the address...</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks familiar?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>MARIE pulling up -- turning a corner -- watching him as she does. But he's pre-occupied -- eyes scanning -- taking it all in --</context>
+      <utterance>No.  No. Go around. Keep going...</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>MARIE angles into an alleyway. Cuts the engine.</context>
+      <utterance>Yeah. Pull in here. Park it.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So this is it, right?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>Dead pause. She's waiting. He's still scanning the street.</context>
+      <utterance>I guess.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I should go.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't remember any of this.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>He turns back. She's staring at him.</context>
+      <utterance>Jason...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>Before she can say anything, he's digging in the backpack. He pulls out another stack of hundreds. Hands it over. She takes it. It's not what she wanted, but she's used to being disappointed. Fighting it.</context>
+      <utterance>Sorry. The money, right?</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, so...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks for the ride.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anytime. Silence. That moment. He focuses. Getting it.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, I don't know what's up there.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got me pretty fucking curious.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, you could come up. Or you could wait if you want. I could go check it out. You could wait.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nah...  With you, I mean, you'd probably just forget about me, right?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>MARIE smiles. We've never seen it before. Worth waiting for.</context>
+      <utterance>How could I forget about you?  You're the only person I know.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="7">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE checking the door. How to pop it open? Just about to get into it, when --</context>
+      <utterance>I guess you're not home.</utterance>
+   <speaker>CONCIERGE</speaker>
+      <mode>O.S.</mode>
+      <context>THE CONCIERGE is sixty. Plump and proper.</context>
+      <utterance>Monsieur Bourne...I'm coming...</utterance>
+   <speaker>CONCIERGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Bourne, there you are -- I was wondering -- I haven't seen you --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>THE CONCIERGE looking at BOURNE like maybe she's never seen him look like this before. And she's looking at MARIE like here's the reason her tenant looks like such shit.</context>
+      <utterance>Here I am.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>THE CONCIERGE nods. Instant chilly disapproval.</context>
+      <utterance>I seem to have lost my key.</utterance>
+   <speaker>CONCIERGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been ringing your bell. It's good you were away. We had some trouble with the hot water. It's been repaired.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>THE CONCIERGE steps aside and --</context>
+      <utterance>Great. We could use a shower.  It was a long drive.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="4">
+   <speaker>THE LIVING ROOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>BOURNE and MARIE exploring.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE silent. Struggling to get a feel for the place.</context>
+      <utterance>It's big.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is like a real apartment.  This is really yours?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>MARIE taking it in fast. BOURNE seems paralyzed. Trying to soak it all in. Willing himself home. Touching things as he passes. As if a texture, a smell -- something will become familiar. He's deep into this as we go to --</context>
+      <utterance>I guess so.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="17">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is your office?  God, you live like a monk...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All this stuff -- it's all about boats.  I think I'm in the shipping business.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See. It's starting to come back, yeah?  You mind if I take a bath?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>MARIE backs out. BOURNE alone again. Standing there for a moment. Dealing with it. And then he sits down in a chair. BOURNE sitting there. Staring. The room, the desk -- it's all so devoid of personality. And then, something catches his eye and -- INSERT -- THE DESK TOP -- a faint silhouette through the dust and grime. Outlines of where a computer used to sit. BOURNE reaching suddenly under the desk. Bingo. Pulling out a retractable computer keyboard tray. But it's empty. No keyboard. Now he's really confused and -- INSERT -- A PHONE/ANSWERING MACHINE -- BOURNE pressing the playback button and --</context>
+      <utterance>Go ahead.</utterance>
+   <speaker>PHONE MACHINE</speaker>
+      <mode></mode>
+      <context>BOURNE leaving that for a moment -- about to anyway -- and then he turns back -- new idea -- pressing for the speaker phone -- and then hitting redial and -- THE PHONE stars dialing... RINGING and...</context>
+      <utterance>"You have no messages."</utterance>
+   <speaker>OPERATOR/PHONE</speaker>
+      <mode></mode>
+      <context>BOURNE quick grabbing the receiver. Taking it off speakerphone and --</context>
+      <utterance>Bonjour, Hotel Marboeuf...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...yes -- oui -- uh...</utterance>
+   <speaker>OPERATOR/PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir. Hotel Marboeuf, Paris. How can I direct your call?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Paris?</utterance>
+   <speaker>OPERATOR/PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir...  How can I help you?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I'm...I'm looking for Mr. Jason Bourne.</utterance>
+   <speaker>OPERATOR/PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One moment, please...  I'm afraid, I have no one by that name registered, sir.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>D'accord... Merci.  Un moment -- un moment --</utterance>
+   <speaker>OPERATOR/PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- sir? --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>BOURNE grabbing the backpack -- tearing through it -- where is it? -- where is it? -- shit and money falling out and -- There it is -- from the safe-deposit box -- that piece of card stock -- the one with no passport attached to it --</context>
+      <utterance>-- hang on -- I need you to check another name for me -- hang on -- un moment, s'il vous plait --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kane. Do you have Mr. John Michael Kane?</utterance>
+   <speaker>OPERATOR/PHONE</speaker>
+      <mode></mode>
+      <context>BOURNE waiting. And then there's muzak -- holding music and --</context>
+      <utterance>One moment, sir.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="17">
+   <speaker>THE OFFICE STUDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bourne still on hold. And then --</utterance>
+   <speaker>MANAGER/PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bonjour? Monsieur? Allo...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I'm here...</utterance>
+   <speaker>MANAGER/PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You call about Monsieur Kane? John Michael Kane?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Is he there?</utterance>
+   <speaker>MANAGER/PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are a friend of his?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>MANAGER/PHONE</speaker>
+      <mode></mode>
+      <context>Silence. BOURNE is rocked. But the Manager, it's natural, he interprets the silence as grief...</context>
+      <utterance>I have some very bad news for you, sir. I'm terrible sorry to have to tell you this, but Monsieur Kane has passed away almost two weeks ago...</utterance>
+   <speaker>MANAGER/PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There was an accident. On the motorway. Apparently, he was killed instantly. Really, I'm terrible sorry to be the one to tell you this...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...I understand...</utterance>
+   <speaker>MANAGER/PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...we actually, we were unaware for several days that this had happened. When they came for his things, it was made known for us, you see?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who? Who came?</utterance>
+   <speaker>MANAGER/PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His brother. You know his brother?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right. Yes. Of course.</utterance>
+   <speaker>MANAGER/PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's very bad this. Terrible sad. Such a young man.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you -- his brother -- do you have a phone number?</utterance>
+   <speaker>MANAGER/PHONE</speaker>
+      <mode></mode>
+      <context>BOURNE just hands up the phone. Just like that. Not even goodbye. Standing there frozen. Stunned. John Michael Kane is dead. And he had the passport. Suddenly, everything's changed. They shouldn't be here. This is bad. Danger.</context>
+      <utterance>I think not...  No, I'm sorry. It was very sudden. He was here very briefly.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="6">
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>BOURNE like we've ever seen him. Like an animal. Every sound -- every breeze -- everything carries information. Standing still. Taking it all in. Real quick layout -- there's big windows along one wall that face out to the street below. The hallway to the bedroom and bath feeds into the living room from one side. There is a large frosted airshaft window along that hallway wall. Simple furniture.</context>
+      <utterance>Yeah, it's cold in here, too...  Let's give it another minute.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>MARIE backing away -- completely freaked -- BOURNE standing there with the knife in his hand and --</context>
+      <utterance>-- omigod! --  -- what're you? -- no -- no --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- no -- Marie -- no! -- it's not like that --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- please -- Jason -- omigod --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>MARIE -- frightened -- confused -- paralyzed for a moment -- BOURNE glancing back -- a curtain fluttering behind him -- motioning for MARIE to get down -- do it -- now -- down! MARIE hesitating and -- BOURNE -- what's he doing? -- he's unscrewing a lightbulb from a lamp beside him and -- MARIE about to say something -- he shakes her off -- BOURNE -- knife in one hand -- lightbulb in the other -- putting his foot on a chair in front of him and --</context>
+      <utterance>-- quiet -- quiet --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE waving her to shut up -- crawl -- now -- back up -- get under the window -- go! -- MARIE -- he seems so sure -- it's weird, but she's doing it -- she's under that frosted window -- down below the sill -- looking back -- what the fuck is he doing now? -- BOURNE -- the lightbulb -- he's tossing it across the room -- over her head -- into that frosted window and -- As she ducks down -- As it SHATTERS --</context>
+      <utterance>...what are you doing?...</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="5">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE ignoring her -- grabbing the guy's backpack --</context>
+      <utterance>omigod -- omigod -- what're you doing? -- what're you doing? --  -- what is he? -- what've you? -- omigod -- what is this? --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- what're you doing? -- Jason, please, tell me what's happening!</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>CASTEL -- eyes wild -- tries to make his feet --</context>
+      <utterance>Open it --  -- do it -- what's he got in there?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>CASTEL -- crablike against a wall -- bloody hands leaving a mess as he struggles to get to his feet --</context>
+      <utterance>Who are you?  -- who are you?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- who are you? -- tell me who you are -- who sent you? --  -- what is this about? -- YOU'VE GOT</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="10">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>MARIE -- the guy's backpack -- something in her hand -- and as freaked out as she was a moment ago -- this is worse --</context>
+      <utterance>...omigod, no...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? -- what? --  -- what is it?</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...this is my picture... he's got my picture --  -- this is me -- this is Zurich -- this... this... this is yesterday --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- just --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- where does this come from? --  How do you have my picture?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Marie, just --  -- just stay there! -- just --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- he's got my picture! -- this is yesterday! -- this is me! --  -- where did you get my picture? --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- let me do this, okay? --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- do what? -- what are you doing? -- he's got my picture --  -- he's -- my God -- look at him -- he's bleeding to death -- my picture -- look! -- he was trying to kill us! -- omigod -- Now there's KNOCKING AT THE DOOR and --</utterance>
+   <speaker>THE WINDOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>CASTEL hurling himself into the glass and --</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="27">
+   <speaker>THE CONCIERGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>--I'm calling the police, Mr. Bourne -- you give me no choice -- I'm calling them right away! --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>MARIE standing there in utter shock -- paralyzed -- the picture in her hand -- the broken glass -- all of what just happened --</context>
+      <utterance>-- your shoes -- Marie! -- where? -- where are your shoes? -- Marie --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's dead isn't he?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Marie -- look at me -- there's no time for this --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He went out the window -- why? -- why would someone do that?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- we can't stay here -- I can't stay here -- it's not safe here --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He came to kill us.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- we can go -- I can get us out of here -- but we have to go now --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You knew he was coming.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I trusted you.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're wrong. I didn't know.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't trust anybody and I trusted you!</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't know this would happen.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He had my picture! He knew I was here! He came here to kill us!</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And where is he now?  You believe what you want, but I'm telling you the truth -- I never would have brought you here if I thought it was dangerous.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, Jesus...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You stay -- if you want, you stay -- it's okay -- it's better -- maybe it's better -- I don't know --  But I can't stay here. I can't.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But the police --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- there's no time --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- we'll explain it --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- how? --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- there's two of us -- we'll tell them -- we'll just --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- forget it --</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- we'll tell them what happened --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>BOURNE -- that's it -- grabbing the backpack -- pulling it on -- just about to make his move -- She's standing there. Just utterly swamped. Lost.</context>
+      <utterance>I don't know what happened!  I don't know who he is! I don't know what he wants! I don't even know who I am! The only thing I know is that if I stay here, I'm never gonna find out!</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come with me.  I can get us out of here. I know it. Then we can think. Then we can work it out. We'll explain it then. Once we're safe.  I can protect you.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="2">
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>SIX KIDS -- TWO WIVES -- THREE BODYGUARDS -- all startled by this steamrolling mass of energy and paranoia --</context>
+      <utterance>-- No! -- I say, no! -- they go this far -- out a body in the grave -- another body! -- no! -- this isn't over -- these people are not finished -- nothing will make them finish until they have Wombosi! -- the real Wombosi -- until I'm the one in the box! --</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- what are you doing? --  -- sleeping? --  -- he's sleeping! -- this man is sleeping at his post! --  -- I've had men killed for this! --  -- you think these people? -- these people who come for me -- you think they sleep? -- they never sleep! -- they spend all the day -- all the night -- all time thinking about how to put Wombosi in that box! --</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="3">
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- and it won't just be me! -- they don't just want Wombosi now! -- they want my babies -- they want my children! -- and I say no! --  -- you leave that window open again, you better pray they kill me --  -- everything changes here now! -- everyone is a soldier here now! -- this is a fortress now! Are we clear with this?</utterance>
+   <speaker>DEAUVAGE</speaker>
+      <mode></mode>
+      <context>WOMBOSI stops to look at DEAUVAGE. In the background, we can hear A CHILD CRYING by the pool --</context>
+      <utterance>Yes, sir. All clear.</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>WOMBOSI moving quickly now and WE'RE STILL TRACKING -- taking him into --</context>
+      <utterance>This man is out there. Kane is out there. And they pretend he's dead. That means he's coming back.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="3">
+   <speaker>BOURNE/TAPE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Okay. Merci."  "Un moment -- un moment --"</utterance>
+   <speaker>OPERATOR/TAPE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"-- sir? --"</utterance>
+   <speaker>BOURNE/TAPE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"-- hang on -- I need you to check another name for me -- hang on -- un moment, s'il vous plait --"</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="9">
+   <speaker>BOURNE/TAPE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Kane. John Michael Kane."</utterance>
+   <speaker>OPERATOR/TAPE</speaker>
+      <mode></mode>
+      <context>MRS. DOYLE nods to THE ENGINEER. She's heard enough.</context>
+      <utterance>"One moment, sir."</utterance>
+   <speaker>MRS. DOYLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's not lying. He's very highly stressed, but he's not lying. He's confused. He's aggressively searching for a way out of the chaos. This conversation, the video from the consulate -- the body language, vocal pattern -- it's my sense he's really lost here.  I think he snapped.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context>She turns. Battle lines drawn.</context>
+      <utterance>Is that a medical term?</utterance>
+   <speaker>MRS. DOYLE</speaker>
+      <mode></mode>
+      <context>Silence. The idea dangling for a moment.</context>
+      <utterance>You want clinical terminology? It's called, "conversation hysteria."  I don't know exactly how you train these people. I'm not sure I want to know. I'll take a guess there's some extremely rigorous behavior modification going on here.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's assume that's true.</utterance>
+   <speaker>MRS. DOYLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can only wind people so tight. Even machines break down.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This unit has an unblemished record of success.</utterance>
+   <speaker>MRS. DOYLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then I guess I'm in the wrong meeting.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="3">
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was two hours -- two hours to get a second opinion -- and nothing changes. He's loose. He's out of control. It's very clear what needs to happen.  I have work to do.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if he is working for someone else? What if he turned?</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Turn? To who? Where does he turn? What does he have to offer? He's got nothing. He's a killer. He's a piece of equipment for crissake. Where's he gonna turn?</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="3">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You stayed there five times in the past six months. But I didn't have time -- I could only get the bill from the last stay -- you were there for two days. Some room service -- there's half a dozen phone calls here so that's someth--</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who paid the bill?</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a company... MPG Capital.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="4">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>She turns around -- and what's he doing? -- BOURNE with a piece of paper and pencil -- or something/anything resourceful and handy -- maybe it's carpet lint -- maybe it's breaking the glass on the door and holding it up to the light -- or a rubbing -- anyway, he's doing something ingenious with the glass door -- And as he's doing this, we're hearing --</context>
+      <utterance>This can't be it.</utterance>
+   <speaker>TELEPHONE VOICE</speaker>
+      <mode>OVER</mode>
+      <context></context>
+      <utterance>Destin Navigational, can I help you?</utterance>
+   <speaker>BOURNE'S VOICE</speaker>
+      <mode>OVER</mode>
+      <context>We're watching the MPG LOGO emerge and seeing BOURNE and MARIE react, as we hear --</context>
+      <utterance>Hey, how are you. I'm trying to reach Richard? Is he there.</utterance>
+   <speaker>TELEPHONE VOICE</speaker>
+      <mode></mode>
+      <context>(continuing into --)</context>
+      <utterance>I'm afraid there's no Richard here.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="10">
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, where are you? Where am I calling?</utterance>
+   <speaker>TELEPHONE VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is an answering service, sir. The company's located in Southampton, but --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- this is a tire dealership, right?</utterance>
+   <speaker>TELEPHONE VOICE</speaker>
+      <mode></mode>
+      <context>Dial tone. BOURNE making a note. And as he does -- TIME CUT -- one minute later -- call number two --</context>
+      <utterance>No sir, this is a navigational chart registry. I'm afraid you have the wrong number.</utterance>
+   <speaker>NEW VOICE</speaker>
+      <mode>OVER</mode>
+      <context></context>
+      <utterance>Marseille-Tropez Marina, how can I help you?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, so this is the Marina, right?</utterance>
+   <speaker>NEW VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir. Can I help you?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the one in Marseille, right?</utterance>
+   <speaker>OPERATOR RECORDING</speaker>
+      <mode>OVER</mode>
+      <context></context>
+      <utterance>The number you have dialed has been disconnected. If you think you've reached this message in error-- TIME CUT -- one minute later -- last call --</utterance>
+   <speaker>RECORDED VOICE</speaker>
+      <mode>OVER</mode>
+      <context>BOURNE hangs up. Scribbles down the number. Backing away and --</context>
+      <utterance>"You've reached the office of Simon Rawlins at Alliance Security Maritime Division. Paris office hours are from nine a.m. to six p.m. If this is an emergency, please call our twenty-four hour help line at..."</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="7">
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- let's check that Interpol window again --</utterance>
+   <speaker>RESEARCH TECH #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- I'm on it --</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- I want that red car -- the girl -- we gotta get lucky here --</utterance>
+   <speaker>RESEARCH TECH #2</speaker>
+      <mode></mode>
+      <context>CONKLIN turns and --</context>
+      <utterance>Sir.  I've got a code here from NSA -- they're not gonna give us Keyhole satellite clearance unless we have sign-off from upstairs.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.  We can't risk it.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Our last sighting was forty-eight hours ago. Even if they stayed in the car, the grid is huge.  This is it. He's trained -- conditioned -- they're built to disappear. You give him another day to run and we may never find him.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context>CONKLIN left hanging. ABBOTT clear on this one.</context>
+      <utterance>This doesn't go upstairs.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="17">
+   <speaker>RAWLINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Kane...  Come right in... please... have a seat.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>BOURNE just trying to feel his way through this...</context>
+      <utterance>Thanks.</utterance>
+   <speaker>RAWLINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well...  I must admit, when my assistant told me you were here I was, really -- I was quite -- I was surprised.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really.</utterance>
+   <speaker>RAWLINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We thought you were gone for good.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you?</utterance>
+   <speaker>RAWLINS</speaker>
+      <mode></mode>
+      <context>A long awkward beat. Neither of them sure where to go.</context>
+      <utterance>Well, I mean it's a tough business, isn't it? Cutthroat.</utterance>
+   <speaker>RAWLINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, our bid -- it was competitive -- but definitely at the high end of competitive -- when we didn't hear back from you, we did some re-analysis of the numbers, and honestly, we'd really like a chance to do a bit better.  I'm assuming you're still in the market. It's the same vessel?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>RAWLINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We just picked up a job quite like the one we were bidding for you. Gorgeous boat, hundred-and-seventy- five-foot pleasure cruiser. I think we learned a few things that might allow us to make our proposal for your job, as I said, a bit more competitive.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>Another beat. Rawlins holding back until now...</context>
+      <utterance>Okay.</utterance>
+   <speaker>RAWLINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was it the break-in?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>RAWLINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We also thought we hadn't heard from you -- we've had a bit of a publicity nightmare, people have been talking.  Our offices were broken into -- vandalism mostly -- shortly after we last spoke.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>RAWLINS smiles. Reset. Sales mode.</context>
+      <utterance>I hadn't heard.</utterance>
+   <speaker>RAWLINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me get you a new copy of the proposal.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That'd be great.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="2">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I found it.  It took six calls.  I found Kane. I found the body.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's go --  We got to get away from this phone.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="5">
+   <speaker>ATTENDANT #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was the name again?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kane. John Michael Kane.</utterance>
+   <speaker>ATTENDANT #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's number 121.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to see the body.</utterance>
+   <speaker>ATTENDANT #1</speaker>
+      <mode></mode>
+      <context>BOURNE pulling out another hundred and --</context>
+      <utterance>Our boss could come back. We're not supposed to.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="11">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>INSERT -- FREEZER 121 -- it's empty.</context>
+      <utterance>What?</utterance>
+   <speaker>MORGUE BOSS</speaker>
+      <mode>O.S.</mode>
+      <context>Here comes the boss back from his break -- a little drunk?</context>
+      <utterance>What the hell's going on here?</utterance>
+   <speaker>ATTENDANT #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This guy, he came to see the American, but the body, it's missing.</utterance>
+   <speaker>MORGUE BOSS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They came last night. His brother.</utterance>
+   <speaker>ATTENDANT #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not in the book.</utterance>
+   <speaker>MORGUE BOSS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are these people?  Who are you? What's going on here?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where did this body go?</utterance>
+   <speaker>MORGUE BOSS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said, someone came last night --  Look, this isn't a carnival -- people call and they make an appointment and they follow the rules -- everyone signs in and out -- this is a serious place -- serious work -- it's not just to come in whenever you like --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit, we didn't sign in.</utterance>
+   <speaker>MORGUE BOSS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So get the hell out of here.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>Everybody following -- all of them confused -- and into --</context>
+      <utterance>Fine. But I'd like to sign in. In fact, I insist on it. Where's the book? I gotta sign in --</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="8">
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is this it? --  -- this is it, right? --</utterance>
+   <speaker>MORGUE BOSS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- slow down -- you can't just take the book like that --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>MARIE trying to take the hint, but she's curious what he's doing --</context>
+      <utterance>-- don't sweat it, I have a pen -- no problem -- just let me find the page --  -- honey, why don't you wait for me outside, okay? --</utterance>
+   <speaker>MORGUE BOSS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- we have rules here, this is a very serious place -- I'm the one who decides who gets in here, okay? --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- what do I? -- I put the name of the person I came to see? --</utterance>
+   <speaker>MORGUE BOSS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- this is serious business down here and we cannot have people coming and going --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>But he's not writing -- he's ripping -- tearing the page out of the book --</context>
+      <utterance>-- here we go -- I found it --</utterance>
+   <speaker>MORGUE BOSS</speaker>
+      <mode></mode>
+      <context>BOURNE just slammed him against the wall. Hard. Like a tractor hit him. And fast. And that shuts up the room. THE TWO ATTENDANTS rushing to help their boss -- BOURNE grabbing MARIE and pulling her out the door --</context>
+      <utterance>-- what are you? -- what are you doing? -- you crazy fuck -- you ripped the book! -- you stupid fucki--</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="9">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE ignoring her -- ripping through the Alliance Security brochures -- scanning them as he walks --</context>
+      <utterance>What are you doing? --  -- Jason -- stop -- talk to me...</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- I don't know what you're doing and you're scaring me -- what are you looking for? -- what just happened in there? --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nykwana Wombosi.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is that?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>(the ripped-out page --)</context>
+      <utterance>It's a name. Mr. Wombosi owns a thirty million dollar yacht. He's the proud owner of an Alliance Security package.  He also paid a visit to the morgue to see John Michael Kane.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What does that mean?  Jason, what does that mean?  Jason, please... who is he?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what are we doing?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>BOURNE walking away. Into Paris night and --</context>
+      <utterance>Go back to the hotel. MARIE just stops. Reeling.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="3">
+   <speaker>ZORN</speaker>
+      <mode></mode>
+      <context>ABBOTT jumps off the call. Eyes never leaving ZORN.</context>
+      <utterance>They found him. They found Bourne.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where?</utterance>
+   <speaker>ZORN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You better come in.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="2">
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- how long? --</utterance>
+   <speaker>COMM TECH #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- minutes -- he's close --</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="8">
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- he went inside! --</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- if we can get a clean shot --</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- inside the house? --</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- that's what they're trained for -- just a surgical strike.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget it.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want to do?</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We don't know what we're into!</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're in the shitter, man! Pick your poison. Maybe he's in there to finish the job. Maybe he's working for Wombosi. Maybe they want to go on TV together. Every possibility sucks -- we've got to move!</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="18">
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>BOURNE steps up to the plate.</context>
+      <utterance>Come in.  Please...</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you bring investment advice for me tonight? It was tax shelters, wasn't it? Swiss debenture-swaps.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>MPG Capital.</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think investment advice from a dead man, it's a bad idea.  How does it feel to be dead?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>KIDS have started sneaking into the room -- DEAUVAGE is trying to scoot them out but --</context>
+      <utterance>It's a lot more stressful than I thought.</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>BOURNE watching the kids -- they are all staring --</context>
+      <utterance>-- no -- no, let them in! -- let them in.  Come in -- on y va -- come in...  I think everyone wants to see the dead man.</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>There is A BOMB on the throne now.</context>
+      <utterance>What do you do?  You get an appointment with me? You make sure it's on the boat? You come visit me -- you pitch me this bullshit investment package. You drink my water -- eat my bread -- play with my children -- and what? -- two nights later you come back and you put this death --  -- you put this in my engine room!</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>BOURNE -- caught off guard as -- WOMBOSI suddenly rips away his jacket -- so hard that he tears straight through to the shirt -- BOURNE'S BACK -- bare -- two bullet scars -- still raw --</context>
+      <utterance>So this is a different kind of meeting.  Maybe now we talk some truth, okay? One dead man to another.</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see this?  I told you my shot was better!</utterance>
+   <speaker>DEAUVAGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He went in the water -- how did he live?</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>BOURNE imploding -- this news -- the kids staring at him -- the bomb -- it's all getting loud around him --</context>
+      <utterance>No, no no...  This is a strong killer. This is a crazy strong killer. Oh, yeah...  To make a killer that looks like you? This young? This face?  It's bloody fucking amazing.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who do you think sent me?</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>BOURNE distracted by the kids -- these faces -- it's...</context>
+      <utterance>I know who sent you. I don't know why.  I learned many, many things from the CIA. Many things. I learned the way they think.  Was the bomb on my boat supposed to go off or not?</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>BOURNE not sure -- about any of it --</context>
+      <utterance>You didn't set the bomb. Why?</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was this a game or a fuck up?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>He doesn't have to say it twice -- they know the drill -- they're gone.</context>
+      <utterance>Get the kids out!</utterance>
+   <speaker>WOMBOSI</speaker>
+      <mode></mode>
+      <context>DEAUVAGE closing the doors and as he does --</context>
+      <utterance>And the door.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="10">
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- code him again -- punch it in --</utterance>
+   <speaker>COM TECH #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- he's not responding --</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- the paging unit must be damaged --</utterance>
+   <speaker>COM TECH #2</speaker>
+      <mode></mode>
+      <context>ABBOTT looks like he might puke. ZORN watching his career burn to the ground around him.</context>
+      <utterance>-- we just ran a remote diagnostic, sir, it's not the unit --</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context>CONKLIN grabbing shit -- like a madman --</context>
+      <utterance>What are you doing?</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going to Paris.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No you're not. You're not going anywhere. I'm shutting this down.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not doing shit. You're so scared you can't even think.</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just blew up a house in Paris! This program is over. Call it off.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context>CONKLIN splits and --</context>
+      <utterance>I can't call it off. He's not responding. Get out of my way.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="3">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It doesn't matter who you were before. It's who you want to be. That's all that matters.  We have this money. We have what we have. I had nothing before and now, I don't know, maybe I have more, maybe it's nothing, but...  I say we leave here. We leave this place. We go until we can't go anymore.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could do that?</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE nods. Turns off the light. Takes her hand. And they lay in bed. Just laying there.</context>
+      <utterance>Yes. That's who I want to be.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="22">
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>xxxxxx...</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE enters. He's got the black duffel. Car keys.</context>
+      <utterance>xxxxxx</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>xxxxxx.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>And now they're headed for the door. Something doesn't feel right for BOURNE -- and then he notices --</context>
+      <utterance>xxxxxx</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop where you are.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>Bourne turns back to the CLERK.</context>
+      <utterance>What?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's the dog?</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My husband's out looking for him.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He run away often?</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context>Suddenly -- just like that -- everything's different --</context>
+      <utterance>That old beast? Miss his breakfast? Not a chance.  It's always something, right?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get in the basement.</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>Now MARIE doesn't need a second warning --</context>
+      <utterance>Get everyone down in the basement.</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell're you talking about?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're in danger. All of you. I have no time to explain.</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>-- those words -- the way he said it -- she's grabbing her purse, clearing out of the room. Slamming the door behind her -- click -- it's locked.</context>
+      <utterance>I'm sorry.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>No answer -- too busy -- reaching under the check-in desk, coming up with -- A SHOT GUN, an old one, but nonetheless a gun --</context>
+      <utterance>Jason...</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>And now BOURNE is moving, pulling open a drawer. A box of shells. Filling his pockets.</context>
+      <utterance>Who is it? Who's out there?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>xxxxxx</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>xxxxxx</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>And he is moving down the small hallway. Away from the front door -- towards the back door under the stairs.</context>
+      <utterance>I won't let that happen.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="3">
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>xxxxxx</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>And now they are running, across this little courtyard. To a wall -- BOURNE is up, on it -- reaching down for MARIE -- grabbing her -- swinging her over the wall as -- ABM!!! The PROFESSOR SHOOTS.</context>
+      <utterance>xxxxxx</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>MARIE takes off running. BOURNE leans over the wall, FIRES BACK TWICE -- RATATAT -- The WALL IS SHREDDED. BOURNE takes off running -- reloading on the fly. Rounds a bend, is chambering two rounds when he sees -- a WOMAN is in her kitchen -- staring at him -- no time to explain -- he turns back -- The PROFESSOR is just vaulting over the wall. BOURNE FIRES TWICE -- BAM! BAM! But the spray is too wide from this distance. Windows are shattered to both sides of him but -- the PROFESSOR stumbles but keeps going -- blood on his face now -- RATATAT -- BOURNE has to move. Reloading his almost useless gun. Reaching MARIE -- facing a choice and they climb a wall -- FLOWER POTS EXPLODE around them but they make it -- now -- RUNNING IN A LABYRINTH -- right -- then left -- through a small staircase. LEAPING a wall -- landing on a STEEP ROOF -- sliding, falling, crashing to the ground in -- A SMALL COURTYARD -- steep walls on all sides. But there's a large window -- and it's open. And they step through and find themselves --</context>
+      <utterance>Go!</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="3">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE shakes his head. Tucks the gun under his coat.</context>
+      <utterance>Did we lose them?</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is it?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>And now he is opening the door -- they step into --</context>
+      <utterance>We have to keep moving.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="2">
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>xxxxxx</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>xxxxxx</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="4">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>xxxxxx</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>And -- THE PROFESSOR FIRES -- SHREDS the back off their car --</context>
+      <utterance>xxxxxx</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>And now she's got his shotgun, leaning out the window.</context>
+      <utterance>Give me the gun --</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>BOURNE swerves, up on the sidewalk back onto the street -- slaloms through the traffic -- racing towards an intersection and --</context>
+      <utterance>Wait 'till he's close.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="6">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>xxxxxx</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>xxxxxx</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>xxxxxx</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>And ahead -- daylight -- the train tracks go above ground and as the train hits daylight -- we see the PROFESSOR directly behind BOURNE on the other side of the glass and -- CRASH! The PROFESSOR grabs BOURNE through the glass, ramming his head into the metal as -- BOURNE grabs the knob, swings the door open and CRUSHES the PROFESSOR -- CRUSHES him again and now he is free and -- BOURNE turns, pulls up the shotgun and -- the PROFESSOR kicks it out of his hands -- it clatters to the ground and now we have a beat -- THE TRAIN CAR races across the Bir Hakeim bridge -- all of Paris laid out behind them. BOURNE and the PROFESSOR squaring off -- both looking at the gun -- realizing there's no chance for either one of them to get it and -- A BRUTAL RUTHLESS FIGHT breaks out. BOURNE's motivated -- the PROFESSOR's crazy -- makes it a pretty even match. Looks like it could go on for a little while when suddenly -- BAM!!! The PROFESSOR drops to the ground -- behind him -- MARIE wields the shot gun.</context>
+      <utterance>xxxxxx</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>xxxxxx</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>And BOURNE takes the gun from her -- standing there -- reloading -- both barrels -- raising the gun -- aiming it --</context>
+      <utterance>xxxxxx</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="23">
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>THE PROFESSOR staring up at the gun. Stunned. Doomed. Mouth dry. Eyes struggling to make sense of the chaos.</context>
+      <utterance>Who else is coming?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't ask again.</utterance>
+   <speaker>PROFESSOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I work alone. Like you...  ...we always work alone.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+   <speaker>PROFESSOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you? Rome? Paris?  Treadstone... both of us... I was warned but...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Treadstone?</utterance>
+   <speaker>PROFESSOR</speaker>
+      <mode></mode>
+      <context>BOURNE lowering the weapon -- head swimming --</context>
+      <utterance>...which one are you?...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Paris. I live in Paris...</utterance>
+   <speaker>PROFESSOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...headaches... you have that... I get such bad headaches...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>PROFESSOR</speaker>
+      <mode></mode>
+      <context>He's losing blood fast -- things inside him seizing up --</context>
+      <utterance>...it's a problem...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Treadstone.</utterance>
+   <speaker>PROFESSOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...or in a car... when it's dark... something with the headlights...  ...pills, right? Treadstone had those pills...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is Treadstone?</utterance>
+   <speaker>PROFESSOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...what did you do?... you must've really fucked up...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think so.</utterance>
+   <speaker>PROFESSOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...someone said caffeine -- for a headache... doesn't seem...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do they want me to do?</utterance>
+   <speaker>PROFESSOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...they won't let you go...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>THE PROFESSOR -- coughing -- a spasm -- helpless --</context>
+      <utterance>Why?</utterance>
+   <speaker>PROFESSOR</speaker>
+      <mode></mode>
+      <context>And he's gone. Like that. Sitting there. And BOURNE looks paralyzed too. Kneeling there. Stalled out.</context>
+      <utterance>Look at this...  ...least you have a woman....</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>BOURNE doesn't answer -- can't, because there's this sound -- this pulsing hum -- BOURNE reaching into THE PROFESSOR'S POCKET and -- INSERT -- THE E-PHONE PAGER -- covered in blood -- hum -- hum -- hum -- BOURNE'S HAND wiping at the blood that covers the display -- BOURNE staring at it. Very familiar to him.</context>
+      <utterance>Jason...</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've got to go.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="8">
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>She turns. He's holding the locker key.</context>
+      <utterance>Take this.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>But she doesn't move.</context>
+      <utterance>Take it.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And that's it?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>She takes it. Staring at him. Simply refusing to cry.</context>
+      <utterance>If you're lucky.  Take it.  There's enough in there to make a life. Any life. Just get out now. Get low. Stay low.  Take it.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was I thinking, right?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't protect you anymore.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about you?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>MARIE takes one last look. And she's running -- BOURNE hangs there a moment -- listening to her go -- and then he pulls out THE E-PHONE PAGER. And it's pulsing like crazy. BOURNE flips open the shell. There's a keypad in there. Holding it. Like a missing organ.</context>
+      <utterance>I'm gonna find the end of this.  I can't protect you.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="21">
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>CONKLIN wheels around. There he is. Right behind him.</context>
+      <utterance>What did you do to me?</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context>So now you know.</context>
+      <utterance>What did I do? What've you done? Do you have any idea? Any conception? What you've destroyed? Do you have any idea how much time and work -- how many people have their lives wrapped up in this?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you Treadstone?</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context>BOURNE showing nothing -- or is he trying too hard not to?</context>
+      <utterance>Am I Treadstone? Me?  What the hell're you talking about?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you do to me?</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did I do? I spent thirty million dollars on you. I spent three years finding you -- four years training you --  What did I do?  What in the name of God have you been doing, Jason?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're right about you, aren't they? You're fried.  You really don't know what's going on, do you?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know you've been trying to kill me.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course. We had to try. We didn't know what was wrong.  We didn't know you were in trouble.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So now you know.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So it's time to go home.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's all I get?</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll make you better. We can put the pieces back. We can do that.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think so.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have to go home, Jason.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jason Bourne is dead.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There never was a Jason Bourne.  You have to come with me. It's the only way. We can give it back to you...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>(and he's walking --)</context>
+      <utterance>Keep it.</utterance>
+   <speaker>CONKLIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jason...  They can't let you go...</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>And with that, BOURNE scrambles up a wall -- like it's nothing -- CONKLIN just left there -- on the Quai -- in the dark --</context>
+      <utterance>That'll be their second worst mistake.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="4">
+   <speaker>ABBOTT</speaker>
+      <mode>O.S.</mode>
+      <context>ABBOTT in the hot seat. ZORN right there beside him.</context>
+      <utterance>The Treadstone project has actually already been terminated. It was designed primarily as a sort of advanced game program...</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...We'd hoped it might build into a good training platform, but quite honestly, for a strictly theoretical exercise, we thought it was far too expensive. The cost-benefit ratio was just too high. It's been all but decommissioned at this point.</utterance>
+   <speaker>MARSHALL</speaker>
+      <mode></mode>
+      <context>ZORN handing ABBOTT the next hundred pages.</context>
+      <utterance>All right, what's next?</utterance>
+   <speaker>ABBOTT</speaker>
+      <mode></mode>
+      <context>ABBOTT is just gonna go on and on and on.</context>
+      <utterance>Okay, this is Blackbriar. Blackbriar is a joint, DOD, communications program that we really feel has good traction to it.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="7">
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I help you?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This your store?</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Think I could rent a scooter?</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have ID?</utterance>
+   <speaker>BOURNE</speaker>
+      <mode></mode>
+      <context>Beat. He smiles.</context>
+      <utterance>Not really.</utterance>
+   <speaker>MARIE</speaker>
+      <mode></mode>
+      <context>Her turn to smile. And we...</context>
+      <utterance>It's not a problem.</utterance>
+</dialogue>
+
+
+</movie>

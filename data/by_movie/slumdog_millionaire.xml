@@ -1,0 +1,4143 @@
+<movie id="499" title="Slumdog Millionaire">
+
+<dialogue id="1" n_utterances="5">
+   <speaker>TALKBACK V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ten to white-out, nine, eight, seven...</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Silence. A hand shakes a shoulder a little too roughly.</context>
+      <utterance>Are you ready?</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I said are you ready?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>TALKBACK V/O</speaker>
+      <mode></mode>
+      <context>Suddenly, the door splinters as it is smashed through. A burst of gun-fire and white light as suddenly...</context>
+      <utterance>...three, two, one, zero. Cue Prem, cue applause...</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="4">
+   <speaker>TALKBACK V/O</speaker>
+      <mode></mode>
+      <context>A wall of light and noise as the two walk on stage. Cheering, music, banks of searing studio lights. On stage, Jamal, an eighteen year-old Indian boy-man stares, petrified. He would surely turn and run but for the iron grip on his shoulder of the smiling host, Prem Kumar.</context>
+      <utterance>Go, Prem.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>More applause.</context>
+      <utterance>Welcome to Who Wants To Be A Millionaire!</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>Under cover of the wild applause, Prem ushers Jamal towards the guest's chair, leaning in and hissing.</context>
+      <utterance>Please give a warm welcome to our first contestant of the night- a local from our very own Mumbai!</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>The lights seem to bore into him but Jamal manages a tentative smile. Out of nowhere, a hand slaps him ferociously across the face. Then again and again. Blood trickles from his mouth.</context>
+      <utterance>Smile, dammit.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="3">
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context>Constable Srinivas's hand pulls back Jamal's head by the hair, forcing him to stare directly into the lights.</context>
+      <utterance>Your name, bhen chod.</utterance>
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Your name!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>And seamlessly we are back....</context>
+      <utterance>Jamal Malik.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="2">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Close on Jamal's face. Without warning, it is shoved under water.</context>
+      <utterance>So, Jamal, tell us a bit about yourself.</utterance>
+   <speaker>JAMAL V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I work in a call centre. In Juhu.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="7">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A Phone-basher! And what type of call centre would this be?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>XL 5. Mobile phones.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aha! So, you're the man who rings me up every single day of my life with Special Offers, huh?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, actually, I'm an assistant.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>A raised eye-brow at the audience. Amusement ruffles through them.</context>
+      <utterance>An Assistant Phone-basher?</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>And what does an Assistant Phone- basher do, exactly?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I- I get tea for people and-</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="2">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Laughter in the audience.</context>
+      <utterance>- a chi-wallah! Why didn't you say?</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>So, ladies and gentlemen, Jamal Malik from Mumbai, let's play Who Wants To Be A Millionaire...!</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="6">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Has he confessed, yet?</utterance>
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Apart from his name, I can't get a word out of the runt.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Srinivas shrugs.</context>
+      <utterance>You've been here all bloody night, Srinivas. What have you been doing?</utterance>
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tough guy.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Constable Srinivas brings a box and a tangle of wires out of a cupboard and proceeds to put crocodile clips on Jamal's fingers. The Inspector stares, deep in thought. Sweat trickles down his face. He wipes it away with a handkerchief, seems to be talking to himself.</context>
+      <utterance>A little electricity will loosen his tongue.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Every night I get home, "why can't we have a/c like Bajan Chacha?</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="7">
+   <speaker>INSPECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>Turns on Jamal.</context>
+      <utterance>Why don't you care about your poor family, dying in this heat." Twenty-four years a policeman and I can't afford bloody a/c.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>Jamal just stares.</context>
+      <utterance>But you. You've got ten million rupees ek dum guaranteed, yaar? And who knows how much further? Fancy the twenty million, do you?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>The Inspector nods absently to Constable Srinivas who turns a handle. Jamal's body pulsates and jerks. He screams. His body goes limp again. The Inspector goes over to Jamal.</context>
+      <utterance>I think you probably do.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>Constable Srinivas hadn't thought of that. Grabs Jamal's arms and starts squeezing them all over until the Inspector has had enough.</context>
+      <utterance>So. Were you wired up? A mobile or a pager, correct? Some little hidden gadget? No? A coughing accomplice in the audience? Microchip under the skin, huh?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>Jamal doesn't answer. The Inspector sighs and sits down. Looks at his watch, nods at Constable Srinivas again. Jamal's body jerks with electric current. When the shudders and screams have subsided, the Inspector goes over to Jamal's collapsed form. Clicks his fingers in front of Jamal's face to check for a response.</context>
+      <utterance>Srinivas! Look, it's hot, my wife is giving me hell, I've got a desk full of murderers, rapists, extortionists, assorted bum-bandits...and you. Why don't you save us both a lot of time? Hmm?</utterance>
+   <speaker>INSPECTOR OF POLICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's unconscious, chutiya. What good is that? How many times have I told you-?</utterance>
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry, Sir.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="6">
+   <speaker>YOUNG CONSTABLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's coming! Sir.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Constable Srinivas goes over to Jamal and starts to undo the crocodile clips.</context>
+      <utterance>Ar wa, Srinivas, we'll have Amnesty International in here next, peeing their pants about human rights. Get him down, tidy him up, for God's sake.</utterance>
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe he did know the answers.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Jamal lifts his head.</context>
+      <utterance>Have you gone soft, Srinivas? Professors, lawyers, doctors, General Knowledge Wallahs never get beyond sixteen thousand rupees. And he's on ten million? What the hell can a slum dog possibly know?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>He lifts his head, spits blood out of his mouth and says again, straight into the Inspector's face.</context>
+      <utterance>The answers.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>Titles. Slum Dog Millionaire.</context>
+      <utterance>I know the answers.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="5">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Without breaking step, they both jump expertly over the stream of piss. Not so the Security Guard who gets it all over his trousers, but doesn't stop the pursuit. The two children charge past a shack filled to the roof with chickens in cages who all start squawking. They break out into the sunlight of the `main road' of the slum lined with shops. It is packed: with people, stalls, bicycles and cows. All modern India is here, drinking tea, shouting at each other, selling food, playing carom, video games. Leaving a trail of shouting and wreckage behind them, the pair approach a brand new Mercedes almost blocking the lane. Beside it stands Javed, an impressive man in a beautiful suit and his two Minders. Jamal and Salim skid to a stop, put their hands together in respectful greeting and edge ever so carefully past the immaculate paintwork of the car. Still in pursuit, the Security Guard also slides carefully past the car with deprecating bows and smiles. On past the chi stall where a crowd has gathered to watch a hindi film blaring from the tv rigged up overhead. The irate Security Guard gets tangled up in a bicycle. Jamal and Salim stop to give him a taunting, hip-gyrating parody of the dance on the tv before scooting down another tunnel. They break out into sunlight again.</context>
+      <utterance>Vinod! Musketeers coming through!</utterance>
+   <speaker>WOMAN'S VOICE</speaker>
+      <mode></mode>
+      <context>Jamal skids to a halt, bumping into Salim who is already frozen.</context>
+      <utterance>Jamal!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit. Mummy-ji.</utterance>
+   <speaker>JAMAL'S MOTHER</speaker>
+      <mode></mode>
+      <context>The Security Guard arrives and he too skids to a halt at the sight of Jamal's mother.</context>
+      <utterance>Don't you move a muscle.</utterance>
+   <speaker>JAMAL'S MOTHER</speaker>
+      <mode>CONT'D</mode>
+      <context>The Guard puts his hands together in grudging respect as Jamal's Mother lifts each skinny kid off the floor by their t-shirt and marches them down the road.</context>
+      <utterance>Thank you, Mister Gupta. I will deal with these two.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="3">
+   <speaker>MISTER NANDHA</speaker>
+      <mode></mode>
+      <context>He crashes the heavy book down on his head. Salim opens the book. Jamal glances over and turns the book the right way round for Salim.</context>
+      <utterance>So, the musketeers return. We are honoured. Salim. Or Porthos, isn't it?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Mister Nandha hovers over Jamal's head. He winces in anticipation.</context>
+      <utterance>I know!</utterance>
+   <speaker>MISTER NANDHA</speaker>
+      <mode></mode>
+      <context>The book comes down like thunder. Jamal blinks from the impact and suddenly we are back....</context>
+      <utterance>And Athos.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="4">
+   <speaker>COMMISSIONER OF POLICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is so kind of you to visit our station, Sir. A great honour.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Out of his jacket pocket comes a couple of tickets.</context>
+      <utterance>Not at all, not at all. I hope you will visit us, Commissioner.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Bring the family. It's a lot of fun.</utterance>
+   <speaker>COMMISSIONER OF POLICE</speaker>
+      <mode></mode>
+      <context>Missus Janda will be overcome.</context>
+      <utterance>Oh! A thousand thanks, Sir.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="10">
+   <speaker>COMMISSIONER OF POLICE</speaker>
+      <mode>CONT'D</mode>
+      <context>The Inspector joins them in the corridor.</context>
+      <utterance>chi, you lazy chutiy, chi!</utterance>
+   <speaker>COMMISSIONER OF POLICE</speaker>
+      <mode>CONT'D</mode>
+      <context>The Inspector moves his head. Maybe yes, maybe no.</context>
+      <utterance>Ah, Inspector! Cracked it?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>The Commissioner is just able to contain his apoplexy.</context>
+      <utterance>Nearly, Sir.</utterance>
+   <speaker>COMMISSIONER OF POLICE</speaker>
+      <mode></mode>
+      <context>Prem holds up a tolerant hand to the Commissioner who falls silent. Turns his laser-like charm onto the Inspector.</context>
+      <utterance>Nearly? Nearly? When Prem Kumar himself has-</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Clearly the kid cheated.</context>
+      <utterance>Inspector. How good to meet you.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Clearly, Sir.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, it is just a question of how, no?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Indeed, Sir. The proof. That is all we need.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Forced laughter from the Commissioner.</context>
+      <utterance>We are lucky to have a man of your obvious experience on the case. This kid might run rings around us filmi types, but he won't make fools out of the Mumbai Police Force, I can see that.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>More laughter. And fear.</context>
+      <utterance>In front of sixty million people.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="4">
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>Prem walks away down the corridor. Stops and turns, apparently casual.</context>
+      <utterance>Which is what will happen if we don't get a result, Gentlemen. He goes back on the show to rob us all with the whole of India watching. But. I can rely on you.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Has he- has he made any allegations?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Allegations?</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Walks off. The Inspector stares after him. Goes back into his office.</context>
+      <utterance>He's a cunning one. A convincing liar. Don't be taken in, Inspector, don't be taken in.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="4">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>We close in on the tv screen where Prem is smiling his crocodile smile and find ourselves....</context>
+      <utterance>So, Mister Malik, the man who knows the answers. Talk.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, are you ready for your first question for one thousand rupees?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not bad money to sit in a chair and answer a question. Better than making the tea, no?</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="4">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Yes. No.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Laughter from the audience. Jamal looks confused. Prem waves it away, switches on his serious face.</context>
+      <utterance>No. Yes. No. Apka final answer?</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>The lights go down, the portentous music rolls.</context>
+      <utterance>Remember, you have three lifelines if you're not sure of your answer- Ask the Audience, 50/50 and Phone a Friend. So, the question:</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Who was the star of the 1973 hit film Zanjeer. Was it A- Close on Jamal's eyes.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="4">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Turns to the toilet door.</context>
+      <utterance>Immediately, sir.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Bhai, get out of there. Prakash wants a shit.</utterance>
+   <speaker>JAMAL O.S.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not finished.</utterance>
+   <speaker>PRAKASH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop your time-pass. This is urgent.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="8">
+   <speaker>JAMAL O.S.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a shy one. Since when was there a time limit on a crap?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>He flashes another placatory smile at Prakash.</context>
+      <utterance>Since there was a customer waiting, that's when.</utterance>
+   <speaker>JAMAL O.S.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on out, you beauty, unveil yourself, my darling-warling....</utterance>
+   <speaker>PRAKASH</speaker>
+      <mode></mode>
+      <context>A disturbing combination of heaving and snake-charmer noises come from the toilet shack. Finally Prakash can stand it no longer.</context>
+      <utterance>Look, kid, I got a bad stomach. It's borderline....</utterance>
+   <speaker>PRAKASH</speaker>
+      <mode>CONT'D</mode>
+      <context>He snatches the coin back from Salim and hurries off. Salim bangs on the toilet door.</context>
+      <utterance>I'm off to Devi's bog. Give me that.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Salim stops. In the distance, there is the faint sound of shouting, a crowd coming closer. Then the crowd bursts through the outer shacks of the slum, pour onto the rubbish dump and make for the airfield.</context>
+      <utterance>You just lost me good money, you stupid idiot-</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's Amitabh! That's his helicopter!</utterance>
+   <speaker>JAMAL O.S.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amitabh? Amitabh Bacchan?</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="4">
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>He looks down the toilet hole at the sewage beneath him, the landing helicopter, the disappearing crowd. A final rattle of the door. There is only one way out. He jumps down the hole, sprawling headlong into a year's worth of human waste, managing to keep the flyer out the mire. He runs for the helicopter.</context>
+      <utterance>Wait! Amitabh....</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>Salim is at the back of the crowd, trying to force a way through, but the adults shove him back. Not so for Jamal. The down-draft from the helicopter flicks bits of sewage from his clothes. Disgusted fans curse him and get out of his way. Suddenly, the red sea parts and there is nobody between Jamal and Amitabh Bacchan getting out of the helicopter.</context>
+      <utterance>Amitabh-ji! Amitabh-ji!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>Jamal holds out his flyer. Used to signing autographs, the movie star barely looks at Jamal. He takes the flyer and scribbles his autograph on it.</context>
+      <utterance>Please. Amitabh-ji.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>He hands the flyer back to Jamal as his bodyguards surround him and hustle him into a car. Jamal chases the flyer across the tarmac, grabs it. Kisses it.</context>
+      <utterance>A thousand thanks, Amitabh-ji.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="2">
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>Then another shout and another, a chain of voices coming closer. People come out of their doorways with pails and buckets. The shouts come closer until we see a naked figure entirely encased in bubbles dancing and singing in the lane. Jamal is the happiest boy in the slum.</context>
+      <utterance>It's coming!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amitabh, Amitabh, oh Amitabh!</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="2">
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I have your autograph, oh, holy Amitabh!</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>Water comes bubbling through a hose and Jamal's mother hoses down her ecstatic son.</context>
+      <utterance>Here it comes!</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="4">
+   <speaker>PREM V/O</speaker>
+      <mode></mode>
+      <context>Applause on screen. The Inspector looks at Jamal. Jamal shrugs.</context>
+      <utterance>You chose A- Amitabh Bacchan. Guess what? You just won one thousand rupees!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't have to be a genius.</utterance>
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew it was Amitabh.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Constable Srinivas twists Jamal's arm behind his back, evincing a squeal of pain from Jamal.</context>
+      <utterance>Like I said.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="2">
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>The Inspector stares at Jamal, turns back to the tv where Prem is asking the next question.</context>
+      <utterance>He's the most famous man in India...!</utterance>
+   <speaker>PREM O/S</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For four thousand rupees....the national emblem of India is a picture of three lions. What is written underneath? Is it...</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="6">
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>Laughter from the audience. The studio lights bear down on Jamal. a drop of sweat trickles down his forehead. Prem is loving his discomfort.</context>
+      <utterance>What do we think, Jamal? The most famous phrase in our country's history. Maybe you want to phone a friend?</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>He gestures expansively at his audience. Oh, they love him.</context>
+      <utterance>Or Ask the Audience? I have a hunch they might just know the answer. What do we think?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Prem whistles. Raises his eyes at the audience.</context>
+      <utterance>Ask the audience.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you're the contestant, Jamal.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="10">
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>The lights dim. Portentous music.</context>
+      <utterance>Put the poor man out of his misery, Ladies and Gentlemen. Press your key-pad now.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Silence. Constable Srinivas kicks Jamal's chair.</context>
+      <utterance>So, Jamal. My five-year-old daughter knows the answer to that, but you don't. Strange for a millionaire genius. What happened? Your accomplice nip out for a piss, did he? Or did he just not cough loud enough?</utterance>
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Inspector asked you a question.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much is bhelpuri at Jeevan's stall on Chowpatty Beach?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One bhelpuri. How much?</utterance>
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ten rupees.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wrong. Fifteen since Divali. Who stole Constable Varma's bicycle outside Dadar Station last Thursday?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know who that was?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Despite himself, the Inspector laughs. Then leans in.</context>
+      <utterance>Everyone in Juhu knows that. Even five year-olds.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="3">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Jamal just stares back.</context>
+      <utterance>I'll give you five hundred rupees if you just admit it. You go home, I go home. Everybody happy.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>No, you want to go back on the programme and win twenty million rupees, don't you?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wouldn't you?</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="5">
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Are you married, Jamal?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Audience laughter.</context>
+      <utterance>Well, don't despair, there's someone out there who thinks our national motto is "Fashion alone triumphs". You two could be very well matched.</utterance>
+   <speaker>DIRECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the bloody hell is he playing at? He's way off script...</utterance>
+   <speaker>VISION MIXER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Split up with his girl-friend.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="4">
+   <speaker>DIRECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which one?</utterance>
+   <speaker>VISION MIXER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All three, I heard. Nita as well. Back with the wife. She's pregnant again.</utterance>
+   <speaker>DIRECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, God, that's all we need....</utterance>
+   <speaker>VISION MIXER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, for Sharukh Khan...Stand by white out.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="2">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Music, lights, applause.</context>
+      <utterance>...won four thousand rupees!</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>The lights dim. Prem presses his computer.</context>
+      <utterance>One more question before the commercial break. What will our Call Centre Assistant do next?</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="2">
+   <speaker>JAMAL AND SALIM'S MOTHER</speaker>
+      <mode></mode>
+      <context>The woman next to her nods.</context>
+      <utterance>It's going to come. Today. I can feel it.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hope so. My head is exploding.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="7">
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>Jamal is trying to intercept the ball that Salim and Krishna are throwing to each other. He's not having much success. The ball flies overhead again from Salim to Krishna. Jamal dives for it, misses and goes underwater. When he comes up for air, he shakes his head, clearing his ears of water. Then he stops, listens. Shakes his head again. Definitely something strange. Thunder? Salim and Krishna are trading catches, unaware that anything has changed. But Jamal's mother has heard it too. The faintest sound of shouting, roaring. The wave of noise is still faint but getting louder. A frozen moment broken by:</context>
+      <utterance>Yes. We need rain.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Everybody stares at her. A train speeds through as she continues to shout, her words lost beneath the thundering train.</context>
+      <utterance>Run! Jamal, Salim, run!</utterance>
+   <speaker>MOTHER</speaker>
+      <mode>CONT'D</mode>
+      <context>The train goes through, the last carriage flying past suddenly opening up the sight of a wall of rioting men wielding clubs, scythes, metal bars. They come screaming across the railway tracks.</context>
+      <utterance>Go! Run!</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Salim holds out his hand to Krishna who is wading with difficulty through the water.</context>
+      <utterance>Krishna, quick!</utterance>
+   <speaker>KRISHNA</speaker>
+      <mode></mode>
+      <context>The rioters leap the tracks and are upon them.</context>
+      <utterance>No way! You're a bloody Muslim. Get away from me!</utterance>
+   <speaker>KRISHNA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>They're Muslims! Him and him!</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>Salim and Jamal scramble out and retreat into the lanes. Salim turns to see his Mother felled by a rioter. She is surrounded by screaming, chanting men who rain blows down on her. Jamal runs back and drags Salim down an alley. As they head down the alley, they get glimpses of burning houses, fleeing women, a three- year old boy in a doorway, painted entirely in garish blue. He stares at them. In his hand, he is carrying a bow and arrow. An eleven-year old girl dressed only in a pair of pants runs after them.</context>
+      <utterance>Go!</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="6">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Then Mister Nandha starts walking towards him. An oasis of calm in the chaos. Jamal looks at him with relief.</context>
+      <utterance>Salim!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>Mister Nandha smiles, walks towards them.</context>
+      <utterance>Mister Nandha.</utterance>
+   <speaker>MISTER NANDHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ram nam satya hai, Babri Masjid dhvasth hai.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mister Nandha?</utterance>
+   <speaker>MISTER NANDHA</speaker>
+      <mode></mode>
+      <context>From behind his back he produces a knife and runs towards Jamal, screaming.</context>
+      <utterance>We have destroyed your mosque. Now, the followers of Ram will drive you dogs out of our city.</utterance>
+   <speaker>MISTER NANDHA</speaker>
+      <mode>CONT'D</mode>
+      <context>They flee, but Jamal turns, sees the girl, frozen. He chases back a few steps, hauls her arm. The spell broken, and they are off.</context>
+      <utterance>Ram has returned to his temple! Ram has returned!</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="11">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Silence.</context>
+      <utterance>We should go back.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>Salim shakes his head fiercely, silencing Jamal for a moment. But only a moment.</context>
+      <utterance>See if Ama-</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>Salim shakes his head.</context>
+      <utterance>What about Jeevan Chacha?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Maybe he- Salim shakes his head again.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- I saw him. He was with them.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But he wouldn't hurt-</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- he was with them!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But-</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Salim turns away and sees the girl. Picks up a rock and hurls it at her. She dodges, takes a couple of steps back but makes no real attempt to get away. He finds another rock and hurls this in her direction too.</context>
+      <utterance>- shut up, Jamal, can't you? Just shut up!</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>Then a flash of lightning and thunder rumbles across the city. Rain begins to come down.</context>
+      <utterance>Ja!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What shall we do?</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="7">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>The girl might not even have heard.</context>
+      <utterance>Go away. Ja, ja!</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>She'll have the Security Guard onto us, standing there.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not if we let her in.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She could be the third musketeer.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Salim huddles down in the pipe. After a while, Jamal follows suit.</context>
+      <utterance>I am the head of this family, now. And I say no. Piss off, you.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>We don't even know what the third musketeer's called.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="5">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Silence.</context>
+      <utterance>Where's your Mother?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>The girl shakes her head slightly. Jamal takes the plastic sheet from around his shoulders. Gives it to her.</context>
+      <utterance>Father?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I'm Jamal. He's Salim.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>Jamal goes back to his water pipe, climbs in. Watches her huddled under the sheet. Sighs, motions for her to join him. She darts across, jumps into the water pipe and huddles up next to Jamal.</context>
+      <utterance>Latika.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wake up every morning wishing I didn't know the answer to that question? If it wasn't for Ram and Allah, I would still have a Mother.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="3">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Final answer?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Prem stares at him for dramatic effect. Presses his computer.</context>
+      <utterance>Final answer.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Computer-ji, D lock kiya-jaye.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="8">
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>Music, applause. Prem switches off his professional smile. Gets up.</context>
+      <utterance>Jamal Malik, you answered D? Ram is depicted with a bow and arrow in his hand. And guess what? You've just won sixteen thousand rupees! Well done, my friend. Time for a commercial break- don't go away, now.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Got lucky, huh? I'd take the money. You'll never get the next one.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're from the Juhu slum, aren't you?</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>The Floor Manager comes over and gives his head-phones set to Prem. Prem listens.</context>
+      <utterance>Hmm? Sure. Know where I live now, kid? Pali Hill. Twelve bedrooms, a/c in every room, two kitchens, a gym and a screening room. Steel balls is what it takes, my friend, steel balls.</utterance>
+   <speaker>DIRECTOR V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Prem? Tone it down, for goodness sake. You're making him a laughing stock. Prem glances up at the gallery with contempt.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>He makes no attempt to hide the conversation from Jamal.</context>
+      <utterance>We're having fun here. They love it...Where the hell do you get them from?</utterance>
+   <speaker>DIRECTOR V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's supposed to be a quiz show, not a blood sport.</utterance>
+   <speaker>FLOOR MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two minutes.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="10">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Meet me after the show. Please.</utterance>
+   <speaker>NITA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nita, I can explain.</utterance>
+   <speaker>NITA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No need. I read it in bloody Stardust. Didn't even have the balls to tell me. "Prem's happiness with another baby on the way". After everything you said...</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Baby, it all happened before I met you. I swear to you.</utterance>
+   <speaker>NITA</speaker>
+      <mode></mode>
+      <context>Prem is about to object. But instead, he laughs.</context>
+      <utterance>She's got the gestation period of an elephant, then.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Scornful but hints of melting.</context>
+      <utterance>You see? Amidst all this misery, only you can make me laugh.</utterance>
+   <speaker>NITA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All this misery...</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Nita turns away. The Floor Manager comes over.</context>
+      <utterance>Her and I- nothing. You have to believe me, baby...</utterance>
+   <speaker>FLOOR MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One minute.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="12">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I'm not going on.</utterance>
+   <speaker>NITA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Prem...</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Clicks his fingers at the Floor Manager.</context>
+      <utterance>I can't. Without you, it's all pointless.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>Nita shakes her head at the Floor Manager who by now is looking very worried.</context>
+      <utterance>You. Tell the Director.</utterance>
+   <speaker>FLOOR MANAGER</speaker>
+      <mode></mode>
+      <context>Prem shrugs and folds his arms. Sees her weaken.</context>
+      <utterance>Thirty seconds.</utterance>
+   <speaker>NITA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Prem...</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Calypso Bar, private room, just you and me?</utterance>
+   <speaker>FLOOR MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fifteen.</utterance>
+   <speaker>NITA</speaker>
+      <mode></mode>
+      <context>He grins, jumps up, blows her a kiss, and stalks back on stage.</context>
+      <utterance>Alright.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Turns to Jamal.</context>
+      <utterance>Steel balls.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Okay, Juhu boy, you've had a good run. Take your Mother to Khandala and eat some chiki.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My Mother's dead.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="8">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, your girlfriend then. Even better.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't have a girl-friend.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Live wire like you? You surprise me.</utterance>
+   <speaker>FLOOR MANAGER</speaker>
+      <mode></mode>
+      <context>The warm-up man starts the applause.</context>
+      <utterance>Five, four...</utterance>
+   <speaker>TALKBACK V/O</speaker>
+      <mode></mode>
+      <context>Cheering and music. Prem switches on his charm.</context>
+      <utterance>....three, two, one...</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welcome back to Who Wants to be a Millionaire! Our contestant, Jamal Malik, Call Centre Assistant- from Mumbai, is on sixteen thousand rupees and has already used one lifeline: Ask the Audience. So, my friend: are you ready for the next question?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Portentous music. The lights dim.</context>
+      <utterance>Then, let's play.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="8">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>He produces a cheque and waves it at Jamal.</context>
+      <utterance>So, what's it to be? Walk away and this cheque for sixteen thousand rupees is yours. Look, it's even got your name on it.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Laughter from the audience. Prem is momentarily wrong- footed.</context>
+      <utterance>I don't have a bank account.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>More laughter, this time with Jamal, rather than at him. Prem gets up and starts rummaging theatrically through his jacket pockets and trousers.</context>
+      <utterance>But I'll take cash.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope. Looks like the Producer's stolen my wallet again-</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Nobody was expecting this. Least of all Prem who has to rearrange his features into one of surprised delight. He sits down.</context>
+      <utterance>- I'll play.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll play?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Prem tears up the cheque with theatrical slowness.</context>
+      <utterance>Well, well, well. We've got a wild one, here.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="7">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>But though he is screaming her name, his voice is swallowed by the noise around him. Then he sees two thuggish-looking men also fighting a way towards her.</context>
+      <utterance>Latika! Latika!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>Frightened now, he fights his way down the steps, one figure against an army of white-robed people.</context>
+      <utterance>Latika!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Latika!</utterance>
+   <speaker>JAMAL V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chhatrapati Shivaji Terminus.</utterance>
+   <speaker>PREM V/O</speaker>
+      <mode></mode>
+      <context>Sure?</context>
+      <utterance>Chhatrapati Shivaji Terminus.</utterance>
+   <speaker>JAMAL V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think so.</utterance>
+   <speaker>PREM V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think so. A brave man, Ladies and Gentlemen, a brave man.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="8">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Final answer. Chhatrapati Shivaji Terminus.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Applause and music. The Inspector presses pause. Stares at Jamal.</context>
+      <utterance>Is the right answer! Sixty-four thousand rupees to you, Sir!</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Jamal smiles sadly.</context>
+      <utterance>And did she come back?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't be here if she had.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Jamal stares down at his feet.</context>
+      <utterance>Pretty was she?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>Right in the eyes.</context>
+      <utterance>Guess not.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Constable Srinivas snorts. Suddenly, Jamal is out of his chair and at Srinivas' throat. The combined force of the Inspector and Srinivas force him roughly back down. He is again handcuffed to the chair.</context>
+      <utterance>The most beautiful woman in the world.</utterance>
+   <speaker>INSPECTOR OF POLICE</speaker>
+      <mode></mode>
+      <context>Constable Srinivas swears under his breath but bumbles out.</context>
+      <utterance>Well, well. The slum dog barks. Money or women. The reason for most mistakes in life. Looks like you got mixed up with both. Srinivas, you need the exercise: a trip to VT Station to check on the statue. And lock your bloody bike up.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="2">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the chutiy out the way. Now, man to man. How did you know all the answers?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I knew, I'd tell you.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="4">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know this one.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>The lights dim, the music swells and Prem presses his computer.</context>
+      <utterance>Oh. I see. An expert on the poets, huh?</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="4">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Four, nine, zero, nine- the one with the stick going down, Salim- six- stick going up- Latika's head appears from around the corner.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>But they don't hear. Then she is running for her life past the pair of them.</context>
+      <utterance>Oi!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Salim collapses off Jamal's shoulders and all three run off down an alley past a dozen of the gang's sprayed-on adverts all reading: "Beanbags- 989 4909661". A fat Security Guard with a long stick huffs round the corner. Chases them up an alley. Nowhere to go except through an imposing gate that clearly leads to a private house.</context>
+      <utterance>Six, one, shit, let's go-</utterance>
+   <speaker>SECURITY GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got you now, little shits.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="3">
+   <speaker>SECURITY GUARD</speaker>
+      <mode></mode>
+      <context>The Security Guard lands a couple of blows on Jamal's back as he dodges around him and back across the lawn, dress in hand. The Security Guard gives up.</context>
+      <utterance>Aha! Little thief!</utterance>
+   <speaker>SECURITY GUARD</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Pervert!</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Useless bloody look-out. What good is she, huh?</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="2">
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I tried to warn you.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Latika slips on the dress. Spins. Both of them look up. Stare. She pulls her hair back, smiles, is transformed into a beautiful girl.</context>
+      <utterance>It's okay, Salim.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="2">
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>He hands the bottle to Salim, gets another from his bag and waves it questioningly at Jamal.</context>
+      <utterance>Hello.</utterance>
+   <speaker>MAN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Hot, huh? My name is Maman.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="7">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He must be a very good man to look after these people.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Arvind, a boy smaller than either Jamal or Salim overhears.</context>
+      <utterance>A saint.</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're not allowed to talk to them.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>Arvind shrugs. Latika licks her plate, glances at Maman who is looking right at them.</context>
+      <utterance>Why not?</utterance>
+   <speaker>LATIKA</speaker>
+      <mode>CONT'D</mode>
+      <context>As if telepathic, Maman signals to Punnoose and he brings a large bowl of rice and dhal over to them. Latika looks at Jamal and Salim. They burst out laughing.</context>
+      <utterance>Well, if there are seconds, Maman is definitely a Saint.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I tell you, Lord Siva is with us.</utterance>
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop! You. Again.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="6">
+   <speaker>MAMAN</speaker>
+      <mode>CONT'D</mode>
+      <context>They all join in. Maman continues down the line. He stops at Salim whose octave-slipping singing is lusty and appallingly out of tune. Maman winces and moves on. Standing next to Salim, Latika giggles. Immediately, Salim is on her. Before a fight breaks out, Punnoose pulls Salim off Latika and hurls him across the room. Salim gets up and charges at Punnoose. For a second, Punnoose is back-footed, but then pins Salim's arms to his side. Maman laughs. Approaches Salim.</context>
+      <utterance>Everyone.</utterance>
+   <speaker>MAMAN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You sing like one, and you fight like one. I think you've found your dog, Punnoose.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>The children get to their feet. Latika sighs, puts a patch over her eye and grabs a pair of crutches. Suddenly, the lame beggar. Salim goes over to one of the girls, who is carrying a sleeping baby. Puts out his hand.</context>
+      <utterance>Okay, let's go, let's go! It's not a bloody holiday!</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>The girl shakes her head. Salim grabs her by the hair in one hand and takes the baby with the other. He shoves her to the ground. The other children stare.</context>
+      <utterance>Give me that.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>He challenges Jamal.</context>
+      <utterance>Hey, Salim!</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What, chot bhai? You got a problem?</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="7">
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Here. For you.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want it.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll earn double. I'm doing you a favour, Latika.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She doesn't want it.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Latika turns away and begins to walk towards the cars.</context>
+      <utterance>Chup, Jamal.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>He holds the baby up. Latika grabs the baby with a cry just as Salim releases it from his hands. Salim pinches the baby.</context>
+      <utterance>I'll drop it.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>Latika snatches it away. Salim laughs, goes back to sitting with Punnoose. The children scatter to the cars trapped at the lights, tapping plaintively on the windows and making the universal begging gesture.</context>
+      <utterance>Triple if it's crying.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="4">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>She smiles and walks past Jamal with a shrug. Then Punnoose comes stalking in and the children scatter away.</context>
+      <utterance>You're dead, sala.</utterance>
+   <speaker>PUNNOOSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get back to bed, dogs! What the hell...</utterance>
+   <speaker>JAMAL V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They taught me every song in the history of Indian music.</utterance>
+   <speaker>INSPECTOR V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And why would they do that, I wonder?</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="3">
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very good, very good. I am pleased, Arvind. He is ready.</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context>Maman nods to Punnoose. Before Arvind can turn round, Punnoose has covered his mouth with a cloth and after the briefest of struggles, Arvind's body goes limp. The villager puts an old tin box on the table. Taking the lid from the tin, he brings out a cloth and unwraps it. Inside is a spoon. He checks the edge with his thumb. Sharp. Douses it with a clear liquid from a bottle and passes it over a candle flame. The spoon whooshes with a high flame for a moment. The villager wipes it with the cloth nods to Punnoose.</context>
+      <utterance>Ready?</utterance>
+   <speaker>PUNNOOSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Salim!</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="8">
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. Take him out the back. Punnoose picks up Arvind and carries him out.</utterance>
+   <speaker>MAMAN</speaker>
+      <mode>CONT'D</mode>
+      <context>A frozen moment.</context>
+      <utterance>Now the other one. Salim, go get Jamal.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context>Maman gets out of his chair. Approaches Salim.</context>
+      <utterance>Gunfighter Number One, isn't that right, Salim? The money, the women, the cars...you want them bad, huh? And why not?</utterance>
+   <speaker>MAMAN</speaker>
+      <mode>CONT'D</mode>
+      <context>Maman holds Salim's head in his hands.</context>
+      <utterance>The time has come to choose, yaar. The life of a slum dog or the life of a man. A real man. A gunfighter, Salim.</utterance>
+   <speaker>MAMAN</speaker>
+      <mode>CONT'D</mode>
+      <context>Understand?</context>
+      <utterance>Your destiny is in your hands, bhai. You can be me. Or nobody.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Maman nods.</context>
+      <utterance>Yes, Maman.</utterance>
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context>Salim is frozen for another few seconds, then turns and walks out of the door. Punnoose appears at the door. Maman nods to him and he slips off after Salim.</context>
+      <utterance>So, brother, go get Jamal.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="9">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...weddings, government things, big parties. If Maman says my voice is ready. Big money.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Enough for a room?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Easily. Maybe an apartment.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>The three musketeers.</context>
+      <utterance>That's what Arvind said. On Harbour Road. You, me and Salim.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Harbour Road! We can have ice cream from Babanji's.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Salim appears at the door. Nods his head at Jamal.</context>
+      <utterance>Every day if we want.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>It's my turn.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>Latika's hand comes through the gap. Jamal takes it for a moment. Salim hisses at Jamal. He lets go of the hand and heads out.</context>
+      <utterance>Good luck, Jamal.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="2">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, this is it, hey, bhai? The good life, here we come....</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Jamal is suddenly alert. Slows</context>
+      <utterance>Athos.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="2">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Salim nods. Big smile. Puts a hand on Jamal's shoulder.</context>
+      <utterance>Porthos?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When I say.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="7">
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jamal, hello. You have done well. It's time for you to- turn professional.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really?</utterance>
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context>Jamal opens his mouth, then closes it again. Holds out his hand.</context>
+      <utterance>Sing me a song, yaar. How about Chalo Ri Murali, huh? My favourite.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fifty rupees.</utterance>
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Maman laughs.</context>
+      <utterance>I've turned professional. What can I do?</utterance>
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context>He throws some notes at him.</context>
+      <utterance>Sala...!</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="3">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Salim and Jamal scramble for the door. The knocked-over candle catches the spilled chloroform and a curtain which whooshes up in flame.</context>
+      <utterance>Go!</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jamal!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Run!</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="5">
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>Salim barges Jamal out of the way. Jamal stumbles back as Salim reaches his hand out to Latika, so he doesn't see Latika's hand grasp Salim's, nor see their eyes lock onto each other, nor see Salim very deliberately let go of her hand. Latika stumbles.</context>
+      <utterance>Take it! Take it! I can't reach...</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>Jamal scrambles to the rail. The train gains more speed. Jamal climbs on to the top rung, makes to jump, but Salim flings him backward. Jamal tries to scramble to his feet again, but Salim restrains him.</context>
+      <utterance>Jamal!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got to go back. We've got to go back.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>The train is speeding along. Jamal breaks free and stares back at Latika.</context>
+      <utterance>He'll kill us if we go back. Jamal! He was going to take your eyes out- with a bloody spoon!</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>Latika stumbles again and stops running. They watch as Punnoose catches up with her and stops running. He smashes Latika to the ground.</context>
+      <utterance>She'll be alright. She always is.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="3">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>The life-lines are there....</context>
+      <utterance>The question was, for two hundred and fifty thousand rupees: who wrote the famous song Chalo Ri Murali. I should warn you, Jamal: from this question on, if you get the answer wrong you lose everything. So. Are you sure?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Surdas.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Surdas. Apka final jawab?</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="3">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>The lights dim, the music swells. Prem presses a button on his computer: looks him straight in the eyes for an age.</context>
+      <utterance>Computer-ji, A lock kiya-jaye.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>Applause, music, lights.</context>
+      <utterance>Guess what? You're right.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="3">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Blind singers earn double. You know that.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>They blinded her too?</context>
+      <utterance>And what happened to the girl?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They had other plans. Though it took me a long, long time to find out.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="4">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Salim puts an arm around Jamal's shoulder. Jamal wipes the tears from his eyes, shakes his head furiously. Salim gets up. Holds out his hand.</context>
+      <utterance>Ar, Jamal...</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Come.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where you going?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>First class, bhai. Where else?</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="2">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Salim? Is this heaven?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Jamal clears his head. Sees Salim picking himself up from the ground. But the apparition is still there.</context>
+      <utterance>You're not dead, Jamal.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="3">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what's that?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>They stare at the apparition. The unmistakable outline of the Taj Mahal rises from the horizon, pink in the morning sun. Nothing could be more beautiful.</context>
+      <utterance>Wow.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some hotel, huh?</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="3">
+   <speaker>ADA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please, what time is the next tour?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Err-</utterance>
+   <speaker>PETER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- so much waiting around in this damned country.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="7">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I-</utterance>
+   <speaker>ADA</speaker>
+      <mode></mode>
+      <context>Peter waves a couple of thousand rupee notes at Jamal. His eyes widen.</context>
+      <utterance>- we're on a very tight schedule, you see, young man. Have to see the Red Fort this afternoon. Would it be possible to show us around now? Obviously we understand it would cost more for just the two of us...</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal stalks off. The Germans follow. Jamal stops before the monument. Points a confident arm at it.</context>
+      <utterance>But of course, Madam. Please follow me.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>A terrible pause as Peter and Ada stare at him. Clearly more is expected. He moves off at a pace.</context>
+      <utterance>This is....the Taj Mahal.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>He waves confidently in the direction of the fountains.</context>
+      <utterance>The Taj Mahal was built by the Emperor Khurram for his wife Mumtaz who was maximum beautiful woman in the whole world. When she died, the Emperor decided to build this five star hotel for everyone who wanted to visit her tomb...but he died in- in fifteen eighty-seven, before any of the rooms were built. Or the lifts. The swimming pool, however, as you can see was completed on schedule in top class fashion.</utterance>
+   <speaker>ADA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It says nothing of this in the guide book.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With respect, Madam, the guide book is written by a bunch of lazy, good-for-nothing, Indian beggars.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="9">
+   <speaker>ADA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And this, Lady and Gentleman, is burial place of Mumtaz.</utterance>
+   <speaker>ADA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did she die?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A road traffic accident.</utterance>
+   <speaker>ADA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maximum pile-up.</utterance>
+   <speaker>PETER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought she died in child- birth.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal moves on. Ada and Peter exchange a glance.</context>
+      <utterance>Exactly, Sir. She was on the way to the hospital when it happened.</utterance>
+   <speaker>ADA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've seen the way they drive around here...</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="3">
+   <speaker>JAMAL V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was the best-paid job I've ever had.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal shows the tourist a battered postcard of Princess Diana, staring doe-eyed into the distance with the Taj behind. The tourist sits. Jamal adjusts her legs so that they match the postcard. Takes the photo....</context>
+      <utterance>This is the Princess Diana seat, Madam. Allow me.</utterance>
+   <speaker>SALIM O/S</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tourist police!</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="9">
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>They say that every man in Uttar Pradesh is wearing a kurta that has been washed here at least one time.</utterance>
+   <speaker>CLARK</speaker>
+      <mode></mode>
+      <context>Let's get a look at this, Adele. He gets out his video camera and wanders towards the dhobi ghat. Behind them a motor rickshaw pulls up. Salim, Shankar and a couple of the street kids from the Taj leap out. Within seconds, the Mercedes is up on bricks and the wheels are being removed. Salim takes a hacksaw to the Mercedes badge on the bonnet, whilst urging the others on.</context>
+      <utterance>Is that so? That's amazing.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>The crowds in the lane barely notice as the car is stripped of all its parts.</context>
+      <utterance>Ar, sala! Formula One, Formula One! Pit-stop ka speed, Schumacher ka ishtyle</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>A shout from the top of the lane and the boys scatter, bouncing the four wheels at speed down the lane. Jamal, the Indian driver and the two Americans return. They stop in front of the denuded car.</context>
+      <utterance>Go, go!</utterance>
+   <speaker>CLARK</speaker>
+      <mode></mode>
+      <context>Suddenly the Indian driver is slapping Jamal ferociously around the head with one of his shoes.</context>
+      <utterance>Woah. What happened here?</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I give you two tight slaps, mader chod!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>But the beating continues, the driver kicking Jamal down onto the floor. The two Americans stare, uncertain what to do.</context>
+      <utterance>I don't know! I didn't do it, did I...? Nothing to do with me...get off!</utterance>
+   <speaker>ADELE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do something, Clark.</utterance>
+   <speaker>CLARK</speaker>
+      <mode></mode>
+      <context>Finally Clark intervenes, pulling the driver off Jamal.</context>
+      <utterance>Well, I- I dunno, I-</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="4">
+   <speaker>CLARK</speaker>
+      <mode>CONT'D</mode>
+      <context>Jamal sits up. He is bleeding from his nose and mouth.</context>
+      <utterance>Okay, okay, just cool it. You're insured, aren't you? Jesus Christ...</utterance>
+   <speaker>CLARK</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You okay?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wanted to see the `real India', Mister David. Here it is.</utterance>
+   <speaker>ADELE</speaker>
+      <mode></mode>
+      <context>Adele pulls out his wallet and rummages for dollars.</context>
+      <utterance>Well, here's a bit of the real America, too, son.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="6">
+   <speaker>WOMAN</speaker>
+      <mode>CONT'D</mode>
+      <context>She hands him a cigarette. He puts the wallet back. She smiles at him and they both turn to the stage.</context>
+      <utterance>It's called Orfeo. Orpheus and Eurydice. Orpheus- that one there- is looking for his lover, Eurydice. She died, but he can't live without her.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>The pain is so bad that he goes to the underworld- the place we go when we die- to try to get her back.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't do that. Can you?</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can in opera.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does he find her?</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context>Jamal watches as Orpheus sings one of the most beautiful pieces of music a human is likely to hear. Tears are running down Jamal's cheeks.</context>
+      <utterance>Watch and see.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="3">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woah! What are you- Jamal?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have to go, Salim.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go? Go where?</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="12">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bombay.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be stupid. We're making good money here.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Salim turns to Shankar with sudden understanding.</context>
+      <utterance>We should have gone a long time ago.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>With a flat-chested hijra.</context>
+      <utterance>Oh, God. Baby brother's in love.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Latika was one of us. A musketeer.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A musketeer...Grow up, Jamal. Look, how was I to know they'd beat you up. Here, you can have some of the cash. Come on...</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>He rips out a wad of dollar bills from his pocket.</context>
+      <utterance>I've got cash.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Dollars.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>He walks off.</context>
+      <utterance>Enough. I'm getting my stuff.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>He gets up, kicks the fire in rage and stomps after Jamal.</context>
+      <utterance>Wait! Jamal! Ah, shit!</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, my friend: ready for another question.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="2">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Prem presses his computer. The lights dim again, the music comes up.</context>
+      <utterance>Yes.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>A long pause.</context>
+      <utterance>Pay or play, Jamal? All you have to do is stop now and you walk away with a cool quarter of a million rupees. Decide to play, get the answer wrong and you walk away with absolutely nothing. But, get the answer right and you win a million rupees. So. You decide. Pay or play?</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="2">
+   <speaker>DIRECTOR</speaker>
+      <mode></mode>
+      <context>Stand by.</context>
+      <utterance>Okay, he hasn't got a clue. This is going to be a walk-away.</utterance>
+   <speaker>VISION MIXER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, he's going to play with him, first.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="2">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get a lot of hundred dollar bills in your line of work, Jamal?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Laughter from the audience.</context>
+      <utterance>The minimum tip for my services.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="11">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now I know why my cell phone bill is so high...they pay the chi-wallah in hundred dollar bills!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>A gasp from the audience. Prem is caught off-guard.</context>
+      <utterance>It's C. Benjamin Franklin.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woah! We haven't locked the computer, man. You're going to play?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think I just have. Haven't I?</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You certainly have. C. Right?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right. C.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Benjamin for Roosevelt?</context>
+      <utterance>Not confusing your Franklins?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've never heard of Roosevelt Franklin.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>He gives this one to the audience who titter on cue. Jamal looks confused.</context>
+      <utterance>There's a million rupees at stake and he's never heard of Roosevelt Franklin...I can't bear to look.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>He presses the computer, pretends to ruminate for a while with his finger pressed to his lips.</context>
+      <utterance>No, no. Don't you worry, Jamal. You were asked which statesman is depicted on a hundred dollar bill. You said C. Benjamin Franklin. Ladies and Gentlemen...</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Jamal Malik- you chose to play not pay. I'm afraid you no longer have two hundred and fifty thousand rupees....</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="8">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's on the thousand rupee note?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>He waves the note at him.</context>
+      <utterance>I don't know.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's Gandhi!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>The Inspector kicks his chair.</context>
+      <utterance>I've heard of him.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't get clever or I'll get the electricity out again.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>The Inspector stares hard at Jamal.</context>
+      <utterance>They didn't ask me that question. I don't know why. Ask them.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Then, Constable Srinivas stomps back into the office, sweat pouring from him.</context>
+      <utterance>Funny, you don't seem that interested in money.</utterance>
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Platform Seventeen- Has to consult his notebook.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="2">
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>A statue of Frederick Stevens, architect and builder of Victoria Terminus in -</utterance>
+   <speaker>INSPECTOR OF POLICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- yes, yes, Srinivas. The hundred dollar bill.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="2">
+   <speaker>JAMAL V/O</speaker>
+      <mode></mode>
+      <context>We descend, down until the lines of ants become people.</context>
+      <utterance>Bombay had turned into Mumbai.</utterance>
+   <speaker>JAMAL V/O</speaker>
+      <mode>CONT'D</mode>
+      <context>Descending even further, we pick out a construction site and then Jamal....</context>
+      <utterance>The orphanage had gone, the slum had gone, the people.... all gone. And everywhere was building, building, building.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="7">
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I'm going to Chowpatti again, okay? Want to come?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For God's sake. You got some disease? You force me back to this shit-hole, we leave our friends, a good life, loads of money- for this. Isn't that enough?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We came back to find her.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, you did, Jamal, not me. Me, I don't give a shit about her. Plenty of pussy in Bombay for Salim. Oh, yes, sir! You should come down the Cages on Saturday night instead of searching for your lost love.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going to Chowpatti.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>She's history.</context>
+      <utterance>"I'm going to Chowpatti". There are nineteen million people in this city, Jamal. Forget her.</utterance>
+   <speaker>JAMAL V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But she wasn't.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="13">
+   <speaker>ARVIND</speaker>
+      <mode>CONT'D</mode>
+      <context>Blessings upon you, Sahib.</context>
+      <utterance>A fifty. And a hundred!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you know?</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context>Arvind puts his hands together and bows deep again. Then, Jamal takes his shoe off and gets out a hundred dollar bill.</context>
+      <utterance>There are many ways of seeing.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal crouches down and puts the bill into Arvind's hand. His fingers feel it. He sniffs it.</context>
+      <utterance>Here.</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dollars. But how many?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One hundred.</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now you are playing with me, Sahib.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I swear.</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context>Tell me.</context>
+      <utterance>What is on it? The pictures.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Trees behind it.</context>
+      <utterance>A building. With a clock on it.</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The other side. Turn it over.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A man- it doesn't say his name. He is sort of bald, but has long hair on the sides.</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Benjamin Franklin. My God, my God. Thank you, Sahib. You were generous the first time. But this...</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="13">
+   <speaker>ARVIND</speaker>
+      <mode>CONT'D</mode>
+      <context>A long pause. Arvind keeps hold of Jamal's arm.</context>
+      <utterance>And without even a song?</utterance>
+   <speaker>ARVIND</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>So you are rich, now, are you, Jamal? I am happy for you.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am so sorry, Arvind.</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got away. I didn't. That is all. No, no tears. Tears mock me all the more.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Arvind, I am looking for-</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- how's your voice, Jamal?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. I haven't sung since- since then. Arvind, I-</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- and your eyes?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My eyes? My eyes are fine.</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context>He doesn't forget.</context>
+      <utterance>Then stay away, chutiy, and count your blessings every morning you open them and see the sun rising. You owe Maman.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Arvind shakes his head angrily.</context>
+      <utterance>I owe Latika.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Please. Is she alive? Arvind, is she alive?</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alive? Oh, she's alive alright. It's your life, Jamal. Pila Street. They call her Cherry, now.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="2">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal heads off through the traffic. Arvind shouts after him.</context>
+      <utterance>Thank you.</utterance>
+   <speaker>ARVIND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will sing at your funeral, yaar.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="5">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm looking for Cherry.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context>She indicates curtained cubicles behind him.</context>
+      <utterance>No, kid. Not available. Plenty of others. Take a look.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>The Woman looks at him properly for the first time.</context>
+      <utterance>I'm Latika's brother.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context>Then, Jamal pulls out some rupee notes.</context>
+      <utterance>She's still not on the menu. Choose someone else or piss off.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>She takes the money, counts it.</context>
+      <utterance>Just two minutes to talk to her.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="6">
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context>She nods upwards. Salim and Jamal head up the dark, tiny staircase. The Woman picks up the phone on her desk.</context>
+      <utterance>Two minutes.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>He shoves Jamal out of the way and watches.</context>
+      <utterance>Is it her or not?</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>Then the music stops, an effeminate man steps into the limited frame Salim can see and snaps a stick down hard on Latika's hand.</context>
+      <utterance>Shit, she's sexy, man....</utterance>
+   <speaker>DANCE TEACHER</speaker>
+      <mode></mode>
+      <context>The man starts the music again and Latika's hands flow elegantly around her head.</context>
+      <utterance>Smile! Flow, flow! You entice with the hands not make chapattis, you gawaar. Again.</utterance>
+   <speaker>DANCE TEACHER</speaker>
+      <mode>CONT'D</mode>
+      <context>The stick is raised to hit her but Jamal opens the door.</context>
+      <utterance>Lift your feet, you lump. Stop, stop!</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>The Dance Teacher turns.</context>
+      <utterance>Jamal?</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="10">
+   <speaker>DANCE TEACHER</speaker>
+      <mode></mode>
+      <context>He switches off the music.</context>
+      <utterance>What the hell do you want?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>But Latika remains fixed.</context>
+      <utterance>Come. Quick.</utterance>
+   <speaker>DANCE TEACHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You silly little boys. Get out now while you can.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Latika runs to Jamal. But she freezes as she looks at the doorway. Maman, Punnoose and the Woman from downstairs stand there. The skin around Punnoose's eye bears the blisters from the chloroform burn years ago.</context>
+      <utterance>Come with us.</utterance>
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look who we have here, Punnoose. Hello again, Jamal. Salim. Never forget a face. Especially one that I own.</utterance>
+   <speaker>PUNNOOSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shall I take them to the marshes?</utterance>
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context>He turns to Jamal.</context>
+      <utterance>Whatever you like. Have fun. Just make sure that you dispose of them properly afterwards. No traces, thank you.</utterance>
+   <speaker>MAMAN</speaker>
+      <mode>CONT'D</mode>
+      <context>He fingers Latika's hair.</context>
+      <utterance>You really thought you could just walk in and take my prize away? Have you any idea how much this little virgin is worth, bhen chod?</utterance>
+   <speaker>MAMAN</speaker>
+      <mode>CONT'D</mode>
+      <context>Punnoose and the Muscle walk towards Jamal. Maman turns to the Dance Teacher as they grab his arms.</context>
+      <utterance>Get them out of here.</utterance>
+   <speaker>MAMAN</speaker>
+      <mode>CONT'D</mode>
+      <context>The Dance Teacher puts the music back on.</context>
+      <utterance>Please continue, Master-ji.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="10">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Suddenly, Salim is holding a pistol.</context>
+      <utterance>No.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>Punnoose and the Muscle slowly release Jamal and join Maman.</context>
+      <utterance>Leave him. Get over there.</utterance>
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context>Salim straightens up his gun arm.</context>
+      <utterance>Let's not be foolish, Salim. Heavy, aren't they?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Money.</utterance>
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context>Maman gets out his wallet and throws all the money in it on the floor.</context>
+      <utterance>You can have money. Here.</utterance>
+   <speaker>MAMAN</speaker>
+      <mode>CONT'D</mode>
+      <context>Salim collects up the money.</context>
+      <utterance>Take it. Go. Disappear with your friend and we'll forget all about this. Okay?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maman never forgets. Isn't that right?</utterance>
+   <speaker>MAMAN</speaker>
+      <mode></mode>
+      <context>Salim walks over to the music, turns it up. Picks up a cushion from the bed and walks right up to Maman.</context>
+      <utterance>Oh, Maman can make an exception.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>He wraps the cushion around the gun and pulls the trigger. Or tries to. Nothing happens. There is a frozen moment as they watch him fail to shoot. Everybody watches with surreal interest as Salim fumbles with the pistol. Eventually he looks up, giggles stupidly.</context>
+      <utterance>Can't take that risk, Maman. Sorry.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>Shrugs apologetically and shoots. Nobody is more surprised than Maman who crumples onto the floor.</context>
+      <utterance>Safety catch.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="11">
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>They run out of the room and down the stairs as Maman dies on the floor in front of his frozen colleagues.</context>
+      <utterance>Come on.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit, there's thousands here.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We should be celebrating.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just killed somebody.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was going to kill us.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where did you get the gun?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bought it. Now, I'm going to have to throw this beauty in the sea.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't need to kill him.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? Typical. I save your life and you're on at me. All you ever do is mess us up. Whenever you're around-</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Silence.</context>
+      <utterance>- shut up, can't you? Just shut up.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why can't you just be happy, huh?</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="4">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Happy?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got what you wanted, didn't you? So, let's celebrate.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>She takes a long swig from the bottle.</context>
+      <utterance>Yeah. Let's celebrate.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode>CONT'D</mode>
+      <context>She nudges Jamal and holds the bottle out to him. Smiles at him. He smiles back, shakes the black dog from his head and takes a long, long drink. Latika and Salim cheer.</context>
+      <utterance>While we can.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="5">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Service!</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Reception!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We want a room, boy. Executive Class with smoking. Third floor with balcony.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sea-facing, yaar.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>And they scoot off, giggling into the dark.</context>
+      <utterance>Have the bags brought up.</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="2">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Where are they? Suddenly,</context>
+      <utterance>Latika? Salim?</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>She comes shooting out of the darkness across the kitchen floor riding a trolley with Salim pushing her at top speed. Jamal has to skid out of the way. He grabs another trolley and glides off in pursuit.</context>
+      <utterance>Room service!</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="7">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>307 here. I want a bottle of Johnny Walker Red Label, beer, wine-</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- chicken.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal closes his eyes at the wonderful thought.</context>
+      <utterance>Ah! Chicken....</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What kind of chicken?</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tikka Masala. With roti-</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Naan, chutney, dal-</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- aloo gobi, rice- She stops. Change of mind.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="4">
+   <speaker>LATIKA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Pop Tarts!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Pop Tarts?</context>
+      <utterance>Hold the line, chutiye.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On the tv. The commercial. Everybody's happy when they have Pop Tarts.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal slams down the phone.</context>
+      <utterance>Exactly! A bucket of Pop Tarts, chutiye.</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="8">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Found some lunghi!</utterance>
+   <speaker>LATIKA V/O</speaker>
+      <mode></mode>
+      <context>The shower stops.</context>
+      <utterance>Stay there. Look away.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Atcha, atcha.</utterance>
+   <speaker>LATIKA V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll know if you're looking....</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>With a towel around her, Latika comes to the doorway where Jamal is holding out a the lunghi with his eyes tight shut.</context>
+      <utterance>I'm not!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Where's Salim?</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>She watches this innocent a second with true fondness.</context>
+      <utterance>Dunno.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You're a sweet boy, Jamal.</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="6">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm looking for Javed-bhai.</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ja, mada chod. He's not looking for you. Ja!</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>The group of men stir, irritated now. Salim begins to back away, then stops. Pulls the gun from behind his back.</context>
+      <utterance>I need to see him.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>The group are frozen.</context>
+      <utterance>I killed Maman. I'll kill you too. Easy.</utterance>
+   <speaker>JAVED</speaker>
+      <mode></mode>
+      <context>Javed is standing in the doorway.</context>
+      <utterance>You killed him?</utterance>
+   <speaker>JAVED</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>My enemy's enemy is my friend, no? So, come in, friend.</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="3">
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maman's gang will hunt us. You know that?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't care.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>They burst into stupid laughter. The laughter subsides.</context>
+      <utterance>Me neither.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="7">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Latika rolls over and switches off the light. Rolls back. In the half light, her hands begin to move for Jamal, the elegant, alluring hand movements of the bar- girl dancers. Jamal stares, mesmerised.</context>
+      <utterance>That dance you were doing. In Pila Street. Show me.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You came back for me.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you'd forgotten.</utterance>
+   <speaker>AMIR</speaker>
+      <mode></mode>
+      <context>It's our destiny.</context>
+      <utterance>I never forgot. Not for one day. I knew I'd find you in the end.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>Latika stops her hands. They stare at each other, their faces inches away from each other. Latika strokes Jamal's face.</context>
+      <utterance>Destiny. Yes.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode>CONT'D</mode>
+      <context>And face to face, they slowly fall asleep.</context>
+      <utterance>Thank you.</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="4">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Jamal opens his eyes. Salim is standing over them, swaying with alcohol.</context>
+      <utterance>Hey.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>He puts his hand out to Latika.</context>
+      <utterance>Salim?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal tries to get up, but Salim's hand is round his throat and pushes him down on the bed.</context>
+      <utterance>No. Salim....Bhai, you've had a lot to drink...</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="3">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am the elder. And I am the boss. For once, you do as I say.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Salim pulls Latika to her feet.</context>
+      <utterance>No.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I saved your bloody life, didn't</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="2">
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Salim, please-</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>As he turns, pulling a protesting Latika, Jamal leaps on him. The two brothers go down fighting, but of course it is Salim who comes up on top. Latika launches herself at Salim, but he smashes her away, almost delighted that she has joined in. He drags Jamal to the door, laughing.</context>
+      <utterance>- chup, sali.</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="5">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am Number One now!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Salim, no, no....!</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Salim slams the door. Jamal gets up, bangs on the door, keeps on banging until the door opens and Salim stands there with the pistol pointing straight at Jamal's head.</context>
+      <utterance>Get yourself a room, bhai.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>He shoves Jamal hard down the corridor, the gun pointed at him all the while.</context>
+      <utterance>The man with the Colt 45 says chup.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Salim nods towards the fire escape door.</context>
+      <utterance>Salim...</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="2">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Salim cocks the pistol. Jamal screws up his eyes for the inevitable. But Salim shoves him out with a roar and slams the door. Jamal bangs on the door.</context>
+      <utterance>Now go. Or Gunmaster G-9 will shoot you right between the eyes. Boom. Don't think he won't. You have five seconds. One, two, three, four-</utterance>
+   <speaker>JAMAL O/S</speaker>
+      <mode></mode>
+      <context>Salim walks slowly back down the corridor as Jamal bangs and bangs on the door. Down the hall, Salim's door shuts.</context>
+      <utterance>Salim...</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="6">
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir, sir!</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Enlighten us Constable.</utterance>
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context>The Inspector puts his hands in the air, palms up. Simple.</context>
+      <utterance>Accessory to murder, Sir.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Untroubled by irony, Srinivas looks extremely pleased.</context>
+      <utterance>Only the finest minds in the Mumbai Police Force.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>Srinivas goes out.</context>
+      <utterance>Go check the files, Constable.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>Jamal shrugs.</context>
+      <utterance>You puzzle me, Slumdog. Admitting murder to avoid a charge of fraud is not exactly clever thinking. Now, why would you do that?</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="6">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>The Guard grunts.</context>
+      <utterance>Where are they?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>A more impatient grunt from the Guard. He stands up, walks towards Jamal.</context>
+      <utterance>Where did they go?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Please, Sir. Which way?</utterance>
+   <speaker>SECURITY GUARD</speaker>
+      <mode></mode>
+      <context>The Guard raises his stick and gives him a roar. Jamal backs away onto the street. The Guard slams the gate shut. Jamal looks despairingly up and down the street at the teeming traffic, the crowds.</context>
+      <utterance>I don't know and I don't care.</utterance>
+   <speaker>PREM V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ready for another question.</utterance>
+   <speaker>JAMAL V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I'm ready.</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="4">
+   <speaker>TEACHER</speaker>
+      <mode></mode>
+      <context>He holds up a copy of Radio Times showing Kat from East Enders smiling at them. A collective groan from the Trainees.</context>
+      <utterance>Okay, guys, it's been a big week in UK. Kat is back.</utterance>
+   <speaker>BARDI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's already back.</utterance>
+   <speaker>TEACHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bardi...Jamal?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Well. She did come back, then she went away when Alfie split up with her and now she's back again.</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="7">
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>But it looks as if Alfie still fancies Mo after all, so-</utterance>
+   <speaker>TEACHER</speaker>
+      <mode></mode>
+      <context>Bardi glares at Jamal. Jamal shrugs apologetically and goes out.</context>
+      <utterance>- thank you, Jamal. Keep up, Bardi. The chi-wallah knows more than you.</utterance>
+   <speaker>TEACHER</speaker>
+      <mode>CONT'D</mode>
+      <context>He points at a young woman Trainee.</context>
+      <utterance>Okay, it's been super-duper hot for UK this week, so there'll be a lot of chat about that- they love their weather- and there's the festival in Edinburgh- Edinburgh?</utterance>
+   <speaker>NASREEN</speaker>
+      <mode></mode>
+      <context>The Teacher points at another Trainee.</context>
+      <utterance>Scotland. Kilts, castles, err, haggis? Porridge, the Highlands, mountains. Ben- Ben Nevis?</utterance>
+   <speaker>TRAINEE 2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Detective Taggart. Whisky, Sean Connery!</utterance>
+   <speaker>TEACHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And lochs. Their word for lakes. Good. It's also double bonus time for an upgrade to the `friends and family' package this week, so remember to push for an upgrade...</utterance>
+   <speaker>EVERYONE</speaker>
+      <mode></mode>
+      <context>Jamal walks out, turns a corner.</context>
+      <utterance>...Every Call!</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="8">
+   <speaker>MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If they want an upgrade, a new tariff or we're stealing them from the other networks, you take the call. Anything else- He mimes cutting his throat.</utterance>
+   <speaker>MANAGER</speaker>
+      <mode>CONT'D</mode>
+      <context>Jamal stops by him. The Manager takes a glass of tea from Jamal.</context>
+      <utterance>No time-wasters on Team Bradford, kid. Leave that to the homosexuals on Tunbridge Wells.</utterance>
+   <speaker>MANAGER</speaker>
+      <mode>CONT'D</mode>
+      <context>Jamal hurries down the aisle signposted "Cornmarket", gets to a male trainee and hands him a tea. Dave glances around to check nobody's looking and slips off his head-set.</context>
+      <utterance>Where've you been? Dave on Cornmarket's virtually lost his voice, there's two on Ilkley Moor who've had their hands up for hours. Come on, move it!</utterance>
+   <speaker>DAVE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two minutes, Jamal. I'm on "Millionaire" duty.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rajneesh...</utterance>
+   <speaker>DAVE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's my turn, Jamal. I've had my pee breaks. Please. If he comes just keep your head down and pretend you're doing an upgrade on the-</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal still looks unwilling.</context>
+      <utterance>- `friends and family'. I know.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Two minutes.</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="6">
+   <speaker>OPERATORS</speaker>
+      <mode></mode>
+      <context>Most of the Operators- including the man next to Jamal- suddenly lose their tension.</context>
+      <utterance>I'd like to be a contestant on Who Wants to be a Millionaire.</utterance>
+   <speaker>OPERATOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bloody bastard. I never get it.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>The Operator looks at him. Jamal shrugs.</context>
+      <utterance>You have to dial when Prem says "if". "If you want the chance to be a contestant on Who Wants To Be A Millionaire..." That's when they open the lines.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>That's what Anjum in Technical says. He put the system in.</utterance>
+   <speaker>OPERATOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So why don't you?</utterance>
+   <speaker>WOMAN V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello? Hello? Have I been transferred again, for God's sake?</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="12">
+   <speaker>WOMAN V/O</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Hello? Jesus, God, will somebody talk to me?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>He stares at the computer.</context>
+      <utterance>Hello, Mrs...</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>...Mackintosh from King Gussie.</utterance>
+   <speaker>WOMAN V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's Kingussie, love. Pronounced Kinoosie.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kinoosie?</utterance>
+   <speaker>WOMAN V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So where are you from? Abroad, I bet. China or somewhere. What good is-</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- just down the road from your house, Mrs Mackintosh. Next to the loch.</utterance>
+   <speaker>WOMAN V/O</speaker>
+      <mode></mode>
+      <context>Jamal searches desperately around, spots a picture of Big Ben.</context>
+      <utterance>Oh aye? Which loch?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Loch Big- Loch Ben. Next door to Detective Taggart's flat.</utterance>
+   <speaker>WOMAN V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Loch Ben? Och, no, hen, that's one of the wee ones up in the Highlands. You're all the way up there? But I bet it rains, eh, hen?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Indeed yes, Mrs Mackintosh. I have to wade through a metre of water every morning.</utterance>
+   <speaker>WOMAN V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No!</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="10">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, yes, Mrs Mackintosh. In my kilt.</utterance>
+   <speaker>WOMAN V/O</speaker>
+      <mode></mode>
+      <context>Jamal puts his feet on the desk.</context>
+      <utterance>Och, no, hen.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's alright once I've had my porridge, my haggis and a few Scotch whiskies- and the monsoon's nearly over, so-</utterance>
+   <speaker>WOMAN V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- and what monsoon would that be? I'd like to speak to your supervisor, son.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think that's a good idea. He is a very important man, Mrs Mackintosh-</utterance>
+   <speaker>WOMAN V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- get me the supervisor on this line now-</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal panics, presses the button he saw the Manager press earlier. The screen goes blank, then reboots itself. Jamal looks around. Where the hell is Dave? On the screen, Jamal is faced with the question: "what name do you require?" He looks around again, and then with one finger types in the word "Latika". He presses enter. Hundred upon hundred of Latikas with their surnames and phone numbers scroll down the page. He erases her name and enters the name Salim K. Malik. Presses enter. Fifteen numbers come up. He stares at the numbers for a long time, then types it into his computer and presses dial.</context>
+      <utterance>- and he doesn't like bloody time wasters.</utterance>
+   <speaker>MAN V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Salim?</utterance>
+   <speaker>MAN V/O</speaker>
+      <mode></mode>
+      <context>Clearly not Jamal's brother. Jamal cuts the line. Dials the next number.</context>
+      <utterance>Who wants to know? Do you know what bloody time it is?</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="8">
+   <speaker>MAN V/O</speaker>
+      <mode>CONT'D</mode>
+      <context>Clearly not his Salim. He cuts the line. Dials again.</context>
+      <utterance>Huh. Hello?</utterance>
+   <speaker>SALIM V/O</speaker>
+      <mode></mode>
+      <context>But Jamal can't speak.</context>
+      <utterance>Hello? Hello? Who is this?</utterance>
+   <speaker>SALIM V/O</speaker>
+      <mode>CONT'D</mode>
+      <context>Silence.</context>
+      <utterance>Hey. Is someone screwing with me?</utterance>
+   <speaker>SALIM V/O</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Who is this?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am calling from XL 5 Communications Sir. As a valued customer, we are offering you a free upgrade with our `friends and- Jamal's voice peters out.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Family.</utterance>
+   <speaker>SALIM V/O</speaker>
+      <mode></mode>
+      <context>There is another long silence.</context>
+      <utterance>Jamal? Is that you? Brother? Where are you, man?...I thought you were dead or something...we had to go, Jamal. Maman's guys. They were searching the hotel...Jamal, say something. Please.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, Salim.</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="3">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ever been to Cambridge?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ever been to the circus?</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="3">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Gasps and laughter from the audience. Jamal laughs and shrugs.</context>
+      <utterance>No. And I've never been to UK before. But I'll still have a go.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>Prem grips his heart theatrically.</context>
+      <utterance>Why not?</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can someone call me an ambulance?</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="2">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't remember.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't remember. Does that mean you did know? Once?</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="11">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think it's Oxford.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Based on your extensive travelling, right?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>He stops as he hears the surprised laughter of the audience.</context>
+      <utterance>Well, Oxford has Broad Street, Saint Aldates, Turl Street, Queen Street, The High and Magdalene Bridge- which is pronounced Maudlin, so-</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you hadn't been to UK.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I haven't. And it's not Leeds, because that's Elland Road, Kirkgate Market, Commercial Street, St Peter's-</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- what might it be then, Jamal?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I don't think it's Cambridge.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cambridge Circus is not in Cambridge? Dare I ask why?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>I'll go for D) London.</context>
+      <utterance>Too obvious. There's definitely an Oxford Circus in London, and there's a rowing race between Oxford and Cambridge so there's probably a Cambridge Circus too.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>D. Apka final jawab?</context>
+      <utterance>That's the logic that's got him this far, Ladies and Gentlemen. Who are we to argue? So. Jamal.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If the Gods are with me...Final answer. D.</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="4">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>More portentous music.</context>
+      <utterance>Computer-ji, D lock kiya-jaye.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>Huge cheers and applause. Even Jamal laughs at this. He cannot quite believe it himself.</context>
+      <utterance>It's been a rollercoaster ride all the way, a pleasure to have you on the show, my friend, but I'm sorry to say that you're....incredibly, absolutely right!</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>More applause. Prem hands him a cheque. Jamal looks at it. Laughs again.</context>
+      <utterance>Ladies and Gentlemen, Jamal Malik, the man with two and a half million rupees!</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>The lights dim, the music swells. Prem consults his computer.</context>
+      <utterance>A few hours ago, you were fetching tea for the phone- wallahs. Now you are richer than they ever will ever be. What a player, Ladies and Gentleman! What a player.</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="4">
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Final answer?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>The music swells again. Prem presses his computer.</context>
+      <utterance>Final answer.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>He holds out his hand. Jamal hands him back the cheque. He tears the cheque in two.</context>
+      <utterance>You had two and a half million rupees. If I may-?</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>Cheers and applause from the audience.</context>
+      <utterance>Ladies and Gentlemen, the chi- wallah has done it again! D. Is right! Incredible!</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="3">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not that incredible. You'd just murdered somebody with a Colt 45, after all.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was self-defence.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's call it manslaughter, then, shall we?</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="3">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Getting hot in here, isn't it?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>The audience laugh. Prem is momentarily flustered.</context>
+      <utterance>Are you nervous?</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? Am I nervous? You're the one who's in the hot seat, my friend.</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="5">
+   <speaker>DIRECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bloody hell. He's got Prem on the run...</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What sports do you play?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>None.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>He clicks his fingers.</context>
+      <utterance>You've got a cheque for five million rupees in your hands. You've still got two life-lines, Phone A Friend and 50/50. For ten million rupees: pay, play, or bail out. It's still an option. Remember, if you get the answer wrong, you will lose everything like that.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Are you sure you want to do this?</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="2">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Tense laughter from the audience. Prem holds up the cheque. Jamal nods. Prem tears it up slowly. Allows the pieces to fall to the floor.</context>
+      <utterance>I'll play.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The dreams of so many. On the floor.</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="4">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Jamal looks around. There is Salim standing on the edge of the building. He saunters over to Jamal, his arms outstretched in theatrical greeting. He is groomed, expensively dressed with the best mobile money can buy dangling from a gold chain around his neck.</context>
+      <utterance>Jamal!</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>He tries to embrace Jamal. With as much force as he can muster, Jamal punches him in the face. Salim takes it. Stands there. Wipes blood from his lip. Gets another punch. Then another and another, not even defending himself, until he is being beaten back by a raging Jamal towards the edge of the building. Finally, he tries to reason with Jamal</context>
+      <utterance>God is good, bhai. God is good.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>Jamal keeps on beating him back.</context>
+      <utterance>Maman's boys were after us. Had to skip.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Liar.</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="5">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Waited weeks for you in Nagpur.</context>
+      <utterance>Left a message at reception.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There was no message at reception.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Salim opens his arms, defenceless. It would take one, small push to send him over the edge. There is a moment, when Jamal might. He even has his hands on his chest.</context>
+      <utterance>Bhai, I left a message.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will never forgive you.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>The fury in Jamal subsides minutely. Finally, he turns away with a roar of frustration. Salim hangs his head.</context>
+      <utterance>I know.</utterance>
+</dialogue>
+
+<dialogue id="128" n_utterances="5">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you believe it? This was our slum. We lived just there, huh? Now it is business, apartments, call centres...Fuck USA, fuck China. India is at the centre of the world, now, bhai. And I am at the centre of the centre, Jamal. This is all Javed-bhai's.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Javed Mehta? The Gangster from our slum? You work for him?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who else would protect us from Maman's gang, huh?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you do for him?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Salim's mobile rings. Salim is immediately subservient on the phone. Rings off.</context>
+      <utterance>Anything he asks.</utterance>
+</dialogue>
+
+<dialogue id="129" n_utterances="5">
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>He hands Jamal a card.</context>
+      <utterance>He is coming. You must go. My card.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What for?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Ab phut!</context>
+      <utterance>You think I am going to let you out of my sight again, little brother? You stay with me now.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Salim, where's Latika?</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Jamal gets up, hurries away, hidden behind piles of building materials just as Javed appears in his flash suit and jewelry. Three of his young henchmen walk alongside.</context>
+      <utterance>Still? She's gone, Jamal. Long gone. Now go. Quick.</utterance>
+</dialogue>
+
+<dialogue id="130" n_utterances="3">
+   <speaker>JAMAL V/O</speaker>
+      <mode></mode>
+      <context>Jamal creeps towards Salim's bedroom door. He pushes it open a fraction to see Salim crouched on the floor in prayer, sobbing quietly.</context>
+      <utterance>Sometimes the opposite.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A khuda mujh baksh d main bahut gunaah kiy hain....</utterance>
+   <speaker>JAMAL V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But younger brothers don't interfere. Mostly.</utterance>
+</dialogue>
+
+<dialogue id="131" n_utterances="2">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>The Door-Keeper grunts and goes inside. After a brief pause, he returns.</context>
+      <utterance>Baba, I am the new cook from the agency. A thousand apologies, I am late for the Memsaab.</utterance>
+   <speaker>DOOR-KEEPER</speaker>
+      <mode></mode>
+      <context>Know anything about that?</context>
+      <utterance>She doesn't know anything about any cook. There's supposed to be a dishwasher being delivered.</utterance>
+</dialogue>
+
+<dialogue id="132" n_utterances="3">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>The Door-keeper grunts at this attempt at humour. Latika appears at the gate.</context>
+      <utterance>Baba, I am your dishwasher!</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Haven't I told you, don't interrupt when I'm watching- She looks at Jamal. Is silenced briefly.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>- come inside. I'll show you the kitchen.</utterance>
+</dialogue>
+
+<dialogue id="133" n_utterances="7">
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jamal, Jamal, look at you...! Their heads are close, they might kiss. Then Latika turns away, stares out of the window.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode>CONT'D</mode>
+      <context>Jamal smiles hopefully at her. But there is sadness in her now. She takes her sunglasses off, rubs her eyes. There is a bruise there.</context>
+      <utterance>Ar wa, Jamal....</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've hurt your eye.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you here?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To see you.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>She stands there, challenging. On the tv, somebody is winning money.</context>
+      <utterance>Well. You see me.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why does everyone love this programme?</utterance>
+</dialogue>
+
+<dialogue id="134" n_utterances="13">
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>Doesn't everyone want that?</context>
+      <utterance>It's the chance to escape, isn't it? Walk into another life.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have another life. A rich one.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>A slum dog, with all this.</context>
+      <utterance>Who'd have thought it possible?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you happy?</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have five star food, five star clothes. I sleep in a bed, not on the street. From where we come from, Jamal, that is happiness.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't look so happy with a black eye.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>Voices at the gate-house.</context>
+      <utterance>You turn up here out of nowhere, telling me I'm not happy: how dare you?</utterance>
+   <speaker>LATIKA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>God, Javed will kill you. Here.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>She throws him an apron. He gets it on just in time for Javed to walk in. Jamal turns away.</context>
+      <utterance>Javed? You are with him?</utterance>
+   <speaker>JAVED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>First you want a dishwasher, now a bloody cook-</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-I just thought-</utterance>
+   <speaker>JAVED</speaker>
+      <mode></mode>
+      <context>Javed changes channel and dials on his mobile.</context>
+      <utterance>- chup. The cricket's on.</utterance>
+   <speaker>JAVED</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Why do you always watch that shit? Huh? I'm already a millionaire.</utterance>
+</dialogue>
+
+<dialogue id="135" n_utterances="10">
+   <speaker>JAVED</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Well, come on then, Cook. I'm hungry. Get me a sandwich.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Javed stares at Jamal a moment, trying to place a face he vaguely recognises. Then the Bookie comes on the line and he turns back to the television.</context>
+      <utterance>Immediately, Sir.</utterance>
+   <speaker>JAVED</speaker>
+      <mode></mode>
+      <context>Latika hurries around the kitchen getting out bread and condiments, whispering while Javed talks on the phone.</context>
+      <utterance>Atcha...</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come away with me.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chutiy. Away where? And live on what? What can you provide? What have you got, Jamal?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Love.</utterance>
+   <speaker>JAVED</speaker>
+      <mode></mode>
+      <context>Javed pours himself a glass of whisky, never taking his eyes from the television.</context>
+      <utterance>..yeah. He's on eighty-five. I want four lakh on him making a century. What are you giving?...Okay, make it five lakh.</utterance>
+   <speaker>TV COMMENTATOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We are watching history unfold today at the Wankhed Stadium as Sachin Tendulkar carves his way towards another magnificent century and the record books. His thirty-eighth century- the most by any Indian cricketer ever...</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Love. That will feed us, will it?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It won't buy you a new dishwasher, but it might make you happy.</utterance>
+</dialogue>
+
+<dialogue id="136" n_utterances="11">
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where have you been? Get in the real world, Jamal.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Latika snatches the sandwich from him and gives it to Javed. Goes back to Jamal, whispers under cover of putting condiments away.</context>
+      <utterance>You and me. That is the real world. Come away with me.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're crazy.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Salim will help us.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Salim? You still believe in Salim? Jamal...I'll be gone soon, anyway. Bombay's got too dangerous for- She indicates Javed.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where?</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think he'd tell me?</utterance>
+   <speaker>JAVED</speaker>
+      <mode></mode>
+      <context>Then the batsman at the other end calls to take a second run.</context>
+      <utterance>Straight bat, straight bat, dammit.</utterance>
+   <speaker>JAVED</speaker>
+      <mode>CONT'D</mode>
+      <context>Tendulkar seems to agree, tries to halt the other batsman with a shout, then succumbs to the inevitable and charges down the wicket. A fielder hurls the ball at the stumps. The bails fly off.</context>
+      <utterance>No! A single!</utterance>
+   <speaker>JAVED</speaker>
+      <mode>CONT'D</mode>
+      <context>He flings his glass of whisky at the television. Suddenly tastes what he has been eating.</context>
+      <utterance>No, no, no! stupid ben chod idiot...</utterance>
+   <speaker>JAVED</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>And what is this shit supposed to be, mader chod? Get out. Get out!</utterance>
+</dialogue>
+
+<dialogue id="137" n_utterances="10">
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>She leads Jamal to the door.</context>
+      <utterance>Now go, before he kills us both.</utterance>
+   <speaker>JAVED</speaker>
+      <mode></mode>
+      <context>Latika shouts over her shoulder.</context>
+      <utterance>Latika, where's my bloody shirt? The Armani.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>Back to Jamal.</context>
+      <utterance>Coming!</utterance>
+   <speaker>LATIKA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You want to do something for me?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anything.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then forget me.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>She shakes her head.</context>
+      <utterance>I'll wait at VT station. Five o'clock every day until you come.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I love you.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>She slams the door. Hurries back into the kitchen, throws Javed's plate into the sink. The Door-keeper comes in.</context>
+      <utterance>So what, Jamal? So what?  Now, get out and tell your no- good agency not to send anybody else until they've learnt to cook. You hear?</utterance>
+   <speaker>DOOR-KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Madam, your dishwasher has arrived. Leaning over the sink, Latika weeps silently.</utterance>
+</dialogue>
+
+<dialogue id="138" n_utterances="10">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Girls? I can get you girls.</context>
+      <utterance>Why can't you let it alone? You want money, I'll give you money.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what I want.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're like some crazy man- you're obsessed.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She is my destiny, Salim.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Is that what you want? Huh?</context>
+      <utterance>Know what your destiny is, crazy boy? A bullet between the eyes. And after that, he'll kill her.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Salim takes his hand away from Jamal's neck.</context>
+      <utterance>Me, I don't care. Latika? She's already half dead.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. About that, you are right.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sold her.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>He turns away bitterly.</context>
+      <utterance>I didn't sell her. Javed wanted her. He gets what he wants.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>She's doing alright. Get it into your thick head, Jamal. She's not yours and she never will be.</utterance>
+</dialogue>
+
+<dialogue id="139" n_utterances="3">
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You've got the luck of the devil, yaar, I'll give you that.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I- I need to-</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>The Floor Manager and a Security Guard usher Jamal off- stage. Prem looks up at the gallery, raises his eyes at the Director. Some show. Then he gathers himself and heads off-stage.</context>
+      <utterance>Oh, the toilet. Sure. Naveed, Jamal wants the bog.</utterance>
+</dialogue>
+
+<dialogue id="140" n_utterances="2">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>I know what you've been through.</context>
+      <utterance>A guy from the slums becomes a millionaire overnight. You know the only other person who's done that? Me. I know what it's like.</utterance>
+   <speaker>JAMAL O/S</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not going to become a milionaire. I don't know the answer.</utterance>
+</dialogue>
+
+<dialogue id="141" n_utterances="5">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've said that before, yaar. Prem finishes pissing. Goes over to the washbasins, runs the taps and washes his hands.</utterance>
+   <speaker>JAMAL O/S</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I really don't.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? You can't take the money and run now. You're on the edge of history, kid!</utterance>
+   <speaker>JAMAL O/S</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't see what else I can do.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Prem leaves. Jamal flushes and comes out of the cubicle. Goes to the washbasins. In the mist on the mirror above the taps is written the letter "B". Jamal stares at it. Gradually it fades, leaving only the growing fury on his face staring back at him.</context>
+      <utterance>Maybe it is written, my friend. You're going to win this. Trust me, you're going to win.</utterance>
+</dialogue>
+
+<dialogue id="142" n_utterances="3">
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>Frightened now, he fights his way down the steps, one figure against an army of white-robed people. He gets to the bottom of the steps, is making progress against the tide. But so are the two men. Jamal is now on the same platform. Shouts her name again. She turns with a smile. But the two Thugs leap through a train onto her platform. She sees them, starts running, is lost in the crowd. Jamal runs off along the platform after Latika.</context>
+      <utterance>Latika!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>By the time Jamal has fought himself to where Latika was- she is gone. He whirls around, mad with frustration.</context>
+      <utterance>Latika! Latika!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Latika! Latika!</utterance>
+</dialogue>
+
+<dialogue id="143" n_utterances="3">
+   <speaker>TALKBACK V/O</speaker>
+      <mode></mode>
+      <context>Jamal and Prem stare at each other. Prem smiles.</context>
+      <utterance>Fifteen seconds.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do the right thing and in approximately three minutes you will be as famous as me.</utterance>
+   <speaker>TALKBACK V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ten seconds.</utterance>
+</dialogue>
+
+<dialogue id="144" n_utterances="10">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And as rich as me.</utterance>
+   <speaker>TALKBACK V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Five seconds.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Almost.</utterance>
+   <speaker>TALKBACK V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Four, three...</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>From rags to Raja. It's your destiny.</utterance>
+   <speaker>TALKBACK V/O</speaker>
+      <mode></mode>
+      <context>Applause from the audience.</context>
+      <utterance>...we're on.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know it isn't Sachin Tendulkar.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a start. So, it could be Ricky Ponting, Jack Hobbs or Michael Slater.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll use a life-line. Fifty- fifty.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Music swells, lights dim.</context>
+      <utterance>Okay. Computer, take away two wrong answers.</utterance>
+</dialogue>
+
+<dialogue id="145" n_utterances="9">
+   <speaker>D.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A barely perceptible jump from Prem.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>D. Jack Hobbs.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Jamal shakes his head.</context>
+      <utterance>Do you know?</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>So it could be B, Ricky Ponting?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or D. Jack Hobbs.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Final Answer?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>A just-perceptible narrowing of the eyes.</context>
+      <utterance>Final Answer. D.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Prem turns to the computer. Music. Lights.</context>
+      <utterance>Computer-ji D lock kiya-jaye.</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>The audience go wild. Prem's smile is thin.</context>
+      <utterance>With one hundred and ninety- seven first class centuries, the answer is...D. Jack Hobbs!</utterance>
+</dialogue>
+
+<dialogue id="146" n_utterances="5">
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>The camera goes off Prem for a second. He mimes a disgusted spit. Then he is back on.</context>
+      <utterance>Jamal Malik, Crorepati!</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I cannot believe what I am seeing here, tonight, Ladies and Gentlemen....So, are you ready for the final question for two Crore rupees- twenty million rupees?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not really, but...maybe it is written, no?</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>The lights dim again, the portentous music increases. Suddenly a klaxon sounds. The audience burst into nervous laughter and groans. Prem laughs.</context>
+      <utterance>Maybe, indeed. Okay, okay. For twenty million rupees, the final question on Who Wants to be a Millionaire?</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>Applause. The studio lights come up. Prem switches off his smile as fast as the cameras switch off. Gets up and pulls out his mobile.</context>
+      <utterance>Ohhhhh! Just when I thought I would need a pacemaker fitted, we're out of time! What a show, Ladies and Gentlemen, what a show. Join us tomorrow night to see if Jamal Malik has made the biggest mistake of his life or has just won the biggest prize in the history of Indian television....Same place, same time. You wouldn't dare miss it. Goodnight!</utterance>
+</dialogue>
+
+<dialogue id="147" n_utterances="6">
+   <speaker>DOOR-KEEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Told you.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where? Where is she?</utterance>
+   <speaker>DOOR-KEEPER</speaker>
+      <mode></mode>
+      <context>He grabs the Door-keeper by the shirt-collar, slams him up against the wall. Holds the knife against his throat.</context>
+      <utterance>Dunno.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where?</utterance>
+   <speaker>DOOR-KEEPER</speaker>
+      <mode></mode>
+      <context>Jamal lets go of the Door-keeper. Goes hopelessly to the window. On the window sill is a phone. He picks it up. There is a dial tone. Jamal rummages in his trouser pocket. Gets out the battered card with Salim's details on. Dials. Salim picks up.</context>
+      <utterance>I don't know! Wouldn't say, would they? They had to get out fast. The police. Honestly.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you? Where is she?</utterance>
+</dialogue>
+
+<dialogue id="148" n_utterances="4">
+   <speaker>DIRECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on?</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a cheat.</utterance>
+   <speaker>DIRECTOR</speaker>
+      <mode></mode>
+      <context>Prem shrugs.</context>
+      <utterance>This was you? You called them?</utterance>
+   <speaker>DIRECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>How d'you know he's cheating?</utterance>
+</dialogue>
+
+<dialogue id="149" n_utterances="4">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Director stares at him.</context>
+      <utterance>Oh, come on! Of course he is. He's a bloody village boy. Even when I fed him the wrong answer the little shit got it right.</utterance>
+   <speaker>DIRECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You gave him an answer?</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>The Director walks away shaking his head. In the doorway, Nita is standing there, watching.</context>
+      <utterance>Well, I didn't exactly-</utterance>
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>But she too turns and walks away.</context>
+      <utterance>Nita?</utterance>
+</dialogue>
+
+<dialogue id="150" n_utterances="5">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>And yet...</context>
+      <utterance>It is all bizarrely plausible.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I am a slum dog, chi- wallah, I am a liar, right?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Srinivas comes hurrying in carrying a file, very pleased with himself.</context>
+      <utterance>Most of you are.</utterance>
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context>The Inspector takes the file. Stares at it. Shakes his head.</context>
+      <utterance>Shooting at Pila Street, October 19th...Maman Hossani....Victim pronounced dead at scene. Suspects absconded: two males, early teens, one female, early teen.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>He turns to Srinivas.</context>
+      <utterance>But you: you're not a liar, Mister Malik, that is for sure. You are too truthful.</utterance>
+</dialogue>
+
+<dialogue id="151" n_utterances="2">
+   <speaker>INSPECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>The Young Constable sticks his head around the door.</context>
+      <utterance>Thank you, Constable. All that remains is to work out whether it was manslaughter or murder. Ten years, or life.</utterance>
+   <speaker>YOUNG CONSTABLE</speaker>
+      <mode></mode>
+      <context>The Inspector sighs. Gets up. Accompanied by Srinivas, he leaves the room. Jamal sits there. Lets his head drop. The camera floats from the room, down the dingy corridor and out through a window...</context>
+      <utterance>The Commissioner's here, Sir.</utterance>
+</dialogue>
+
+<dialogue id="152" n_utterances="4">
+   <speaker>COMMISSIONER OF POLICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So? Have you charged him yet?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I- progress is being made sir.</utterance>
+   <speaker>COMMISSIONER OF POLICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Progress? Have you charged him?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Sir.</utterance>
+</dialogue>
+
+<dialogue id="153" n_utterances="8">
+   <speaker>COMMISSIONER OF POLICE</speaker>
+      <mode></mode>
+      <context>He motions the Inspector to come over to the window. Lifts the blind. The Inspector hurries over. Looks alarmed.</context>
+      <utterance>And if that isn't enough for you...</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's-?</utterance>
+   <speaker>COMMISSIONER OF POLICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- yes, yes! The boy's a bloody hero with every beggar and thief in the city. We're in danger of looking very stupid, here, Inspector.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whilst I'm not convinced he actually cheated, I have got- The Inspector brandishes the file.</utterance>
+   <speaker>COMMISSIONER OF POLICE</speaker>
+      <mode></mode>
+      <context>The Inspector pauses.</context>
+      <utterance>- Prem Kumar himself- a man of great standing and integrity- said the kid was a liar and a cheat. What more do you need?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Then he puts the file behind his back. Srinivas frowns.</context>
+      <utterance>A liar.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode>CONT'D</mode>
+      <context>Srinivas coughs pointedly. Gets a steely look from the Inspector. The Commissioner has been staring out of the window at the crowds. Turns back to them.</context>
+      <utterance>Indeed, sir.</utterance>
+   <speaker>COMMISIONER OF POLICE</speaker>
+      <mode></mode>
+      <context>Understand?</context>
+      <utterance>He's in for fraud, so you charge him for fraud. Fast. Or you'll find yourself on traffic duty at the Gateway of India.</utterance>
+</dialogue>
+
+<dialogue id="154" n_utterances="3">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>The Commissioner walks out.</context>
+      <utterance>Yes, sir.</utterance>
+   <speaker>CONSTABLE SRINIVAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir-?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not a word, Srinivas.</utterance>
+</dialogue>
+
+<dialogue id="155" n_utterances="3">
+   <speaker>JAVED</speaker>
+      <mode></mode>
+      <context>But she has already gone. He growls after her.</context>
+      <utterance>What about my bloody whisky, woman?</utterance>
+   <speaker>JAVED</speaker>
+      <mode>CONT'D</mode>
+      <context>He motions Salim to get him a drink. Javed's mobile rings as Salim goes over to the sideboard. Shifts a bottle to the back.</context>
+      <utterance>Hey, Salim.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Salim smiles faintly at the image of Jamal and hurries out.</context>
+      <utterance>We're out. I'll just get- Syed.</utterance>
+</dialogue>
+
+<dialogue id="156" n_utterances="11">
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>He shakes his head.</context>
+      <utterance>That boy. He will never give up. Never.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>Salim approaches Latika. She flinches as he walks towards her. He puts some car keys in front of her.</context>
+      <utterance>Crazy chutiy.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Ja. Go.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But-</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Latika takes the keys. Hesitates.</context>
+      <utterance>- just drive. There won't be another chance. Go.</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>Salim smiles, shakes his head.</context>
+      <utterance>He'll kill you.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is not written.</utterance>
+   <speaker>JAVED O/S</speaker>
+      <mode></mode>
+      <context>Salim goes to the back door. Unlocks it. Opens it for her.</context>
+      <utterance>Salim!</utterance>
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>Salim points at the television.</context>
+      <utterance>Salim, I....can't.</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>He holds out his mobile phone.</context>
+      <utterance>You have to. It'll take you two hours if you drive fast. Here.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>For God's sake, hold on to it.</utterance>
+</dialogue>
+
+<dialogue id="157" n_utterances="2">
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>Salim releases her.</context>
+      <utterance>For what I have done, please forgive me.</utterance>
+   <speaker>SALIM</speaker>
+      <mode>CONT'D</mode>
+      <context>Salim puts his hands together in blessing. She leaves. Salim shuts the door, locks it. Smiles.</context>
+      <utterance>Go. Have a good life.</utterance>
+</dialogue>
+
+<dialogue id="158" n_utterances="2">
+   <speaker>INSPECTOR OF POLICE</speaker>
+      <mode></mode>
+      <context>Jamal stops.</context>
+      <utterance>What happened? To the girl? Latika?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal walks on. The Inspector watches him all the way.</context>
+      <utterance>Who knows?</utterance>
+</dialogue>
+
+<dialogue id="159" n_utterances="7">
+   <speaker>NITA</speaker>
+      <mode></mode>
+      <context>Prem sneers.</context>
+      <utterance>Good luck.</utterance>
+   <speaker>TALKBACK V/O</speaker>
+      <mode></mode>
+      <context>She finishes powdering Jamal.</context>
+      <utterance>Two minutes.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>I'm sweating, here.</context>
+      <utterance>Hey. Sweetheart. What about me?</utterance>
+   <speaker>NITA</speaker>
+      <mode></mode>
+      <context>She dumps the powder compact in his hand.</context>
+      <utterance>You should be.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So. Tonight. The Calypso Bar.</utterance>
+   <speaker>NITA</speaker>
+      <mode></mode>
+      <context>She walks off.</context>
+      <utterance>Not if you were the only man in the world.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I am the only man in the world.</utterance>
+</dialogue>
+
+<dialogue id="160" n_utterances="3">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welcome back to Who Wants to be a Millionaire? I can safely say that tonight is the biggest night of both of our lives, Ladies and Gentlemen. Jamal Malik, the Call Centre worker from Mumbai has already won one Crore rupees, a cool ten million. Tonight, he can walk away with that in his pocket or make the biggest gamble in television history and go for the final question and a staggering twenty million rupees! Jamal, are you ready for that question?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>The lights dim, the music rumbles. Prem pushes the button on his computer. Pauses. Gets conversational.</context>
+      <utterance>Yes.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Nervous laughter from the audience. Jamal just shrugs.</context>
+      <utterance>Big reader, are you Jamal? A lover of literature?</utterance>
+</dialogue>
+
+<dialogue id="161" n_utterances="6">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The final question, for twenty million rupees: and he's smiling. I guess you know the answer.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal laughs. There's nothing else to do. The audience groan.</context>
+      <utterance>Would you believe it? I don't.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't? So, you're going to take the ten million and walk?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>A gasp from the audience.</context>
+      <utterance>I'll play.</utterance>
+</dialogue>
+
+<dialogue id="162" n_utterances="3">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>A terrible pause.</context>
+      <utterance>You just said you don't know the answer. I heard that, right? You do understand that if you get the answer wrong, you lose everything? Ten million rupees. A fortune, Jamal.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd like to phone a friend.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Here we go....</context>
+      <utterance>We're going to the wire, Ladies and Gentlemen, we are going to the wire. The final Life-line.</utterance>
+</dialogue>
+
+<dialogue id="163" n_utterances="4">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doesn't look as if your friend is in, Jamal. Who is it?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My brother's number, but-</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>- the sort of brother who'd go for a walk on the twenty million rupee question?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the only number I know.</utterance>
+</dialogue>
+
+<dialogue id="164" n_utterances="4">
+   <speaker>LATIKA V/O</speaker>
+      <mode></mode>
+      <context>A gasp from the audience.</context>
+      <utterance>Hello?</utterance>
+   <speaker>LATIKA V/O</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Hello? Jamal?</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow! That's cutting it fine. I'm guessing this isn't your brother. This is-</utterance>
+   <speaker>LATIKA V/O</speaker>
+      <mode></mode>
+      <context>The first real smile of Jamal's adult life.</context>
+      <utterance>My name is Latika.</utterance>
+</dialogue>
+
+<dialogue id="165" n_utterances="2">
+   <speaker>JAVED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the bloody-? He pushes the girl off him. Gets to his feet.</utterance>
+   <speaker>JAVED</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Latika! Salim!</utterance>
+</dialogue>
+
+<dialogue id="166" n_utterances="8">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay! So, Latika, you want to hear the question one more time? And let's be clear about this. Twenty million rupees ride on your answer. You have thirty seconds. Jamal, please read out the question to Latika.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that really you?</utterance>
+   <speaker>LATIKA V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The question, Jamal.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fifteen seconds.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you?</utterance>
+   <speaker>LATIKA V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm- I'm safe.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Silence.</context>
+      <utterance>Ten seconds. So, Latika, what do you think?</utterance>
+</dialogue>
+
+<dialogue id="167" n_utterances="5">
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context>Time's up! Your answer.</context>
+      <utterance>Five, four, three, two, one.</utterance>
+   <speaker>LATIKA V/O</speaker>
+      <mode></mode>
+      <context>The audience groan.</context>
+      <utterance>I don't know.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh...</utterance>
+   <speaker>LATIKA V/O</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've never known.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Jamal shrugs.</context>
+      <utterance>You really are on your own, now, Jamal. Your answer: for twenty million rupees.</utterance>
+</dialogue>
+
+<dialogue id="168" n_utterances="5">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A. Because?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just...because.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Apka final jawab?</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>The lights dim, the music crescendoes. A buzz runs around the audience. Prem pushes the button on his computer. Stares hard at Jamal.</context>
+      <utterance>Yes. Final answer. A. Aramis.</utterance>
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context>Wild applause. Prem jumps up and pulls a bemused Jamal to his feet, raising his arm in the air. Jamal is smiling, but disorientated.</context>
+      <utterance>Computer-ji A lock kiya-jaye. Jamal Malik, Call Centre Assistant from Mumbai, for two Crore, twenty million rupees, you were asked who the Third Musketeer was in the novel by Alexandre Dumas. You used your final life-line to phone a friend. You answered A. Aramis.....which is...I have to tell you...the correct answer!</utterance>
+</dialogue>
+
+<dialogue id="169" n_utterances="2">
+   <speaker>PREM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Ladies and Gentlemen, Jamal Malik, Crorepati! What a night! We have all been present at the making of history, Ladies and Gentlemen! Jamal Malik, millionaire!</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>To ever-increasing roars and applause from the audience, Prem escorts Jamal off-stage.</context>
+      <utterance>Latika? Latika?</utterance>
+</dialogue>
+
+<dialogue id="170" n_utterances="2">
+   <speaker>JAVED O/S</speaker>
+      <mode></mode>
+      <context>Javed is banging on the door. Salim gets up from where he has been praying. He climbs into the bath which is full of bank notes and lies down amongst the money. He reaches across for the pistol and picks it up. Smiles slightly as Javed smashes down the door, pulls the trigger and shoots Javed. He falls onto the floor, dead. But the Thug right behind him shoots Salim in the chest. He lies back in the bath, the faintest trace of a smile on his face as he stares at the pictures of Jamal on the tv.</context>
+      <utterance>Salim! Teri ma ki chute! Salim!</utterance>
+   <speaker>SALIM</speaker>
+      <mode></mode>
+      <context>Salim dies.</context>
+      <utterance>God is good.</utterance>
+</dialogue>
+
+<dialogue id="171" n_utterances="2">
+   <speaker>PREM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Finally, huh?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>He takes Jamal by the arm, leads him backstage.</context>
+      <utterance>If you'd like to come with me.</utterance>
+</dialogue>
+
+<dialogue id="172" n_utterances="2">
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>The Inspector stops the jeep. Unlocks the handcuffs. Holds the back door open for Jamal.</context>
+      <utterance>Truth alone triumphs? I should have known better.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>He nods towards the outside world. Dazed, Jamal gets out.</context>
+      <utterance>Thought you might need a lift, Sir.</utterance>
+</dialogue>
+
+<dialogue id="173" n_utterances="5">
+   <speaker>LATIKA</speaker>
+      <mode></mode>
+      <context>Jamal forces himself through the people. Nothing will stop him. Latika too is shoving them aside until they are face-to-face. They stop, look at each other, hold each other's hands tight. The whole station seems frozen, the only movement from a thousand bodies being Jamal and Latika.</context>
+      <utterance>Jamal?</utterance>
+   <speaker>LATIKA</speaker>
+      <mode>CONT'D</mode>
+      <context>He shakes his head.</context>
+      <utterance>I thought we would meet again only in death.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode></mode>
+      <context>Jamal puts his hand on Latika's chin, turns her head gently so that she is facing him. He sees the knife scars on her cheek for the first time. She tries to turn her head, but he won't let her. Runs his hand slowly down the scar. Rests his hand there.</context>
+      <utterance>I knew you'd be watching.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>He gently kisses the scarred cheek.</context>
+      <utterance>This is our destiny.</utterance>
+   <speaker>JAMAL</speaker>
+      <mode>CONT'D</mode>
+      <context>The camera pulls back and back, rising above the station. The music starts and the frozen station comes alive, two thousand kurta-clad men and saree-clad women dancing in and out and on top of the trains, an unbound celebration of hope and humanity that has at its centre, Jamal and Latika.</context>
+      <utterance>This is our destiny.</utterance>
+</dialogue>
+
+
+</movie>

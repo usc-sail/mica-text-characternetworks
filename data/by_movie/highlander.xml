@@ -1,0 +1,3889 @@
+<movie id="274" title="Highlander">
+
+<dialogue id="1" n_utterances="12">
+   <speaker>FIRST MAN</speaker>
+      <mode></mode>
+      <context>The first without hesitation raises a sword, the intended thrust interrupted by his own death as the second with a flash of metal severs the agressor's head.</context>
+      <utterance>MacLeod. The second nods.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My, but are you the picture.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>His FATHER enters with a pail of milk.</context>
+      <utterance>It's a bit tight.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, Conor, how you look a man.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you time for some- thing to eat?</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Conor's father looks him over with pride.</context>
+      <utterance>No, Mother. They'll be here shortly.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your grandfather wore that in his service to the King, and I to fight for the Duke.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Must he go?</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye. It is his duty. All of ours.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But Ian, he's still but a boy.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a MacLeod.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be fine Mother.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="3">
+   <speaker>CLANSMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They march.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is the boy among them?</utterance>
+   <speaker>CLANSMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="5">
+   <speaker>VASSAL #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is a bad day for this.</utterance>
+   <speaker>VASSAL #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Duke has been compro- mised. He will have his due.</utterance>
+   <speaker>VASSAL #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By day's end he will have our heads.</utterance>
+   <speaker>VASSAL #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We ride against the Suther- lands. That is all that matters.</utterance>
+   <speaker>VASSAL #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This makes no sense to me.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="4">
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context>Conor's nervousness is showing.</context>
+      <utterance>The fog is bad. We cannot even see the sides of our own ranks.</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is this your first?</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>SHOUTING is heard on the plain.</context>
+      <utterance>Aye.</utterance>
+   <speaker>FRIEND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's begun.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="5">
+   <speaker>OFFICER #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kevin! Get is a backup.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was merely walking by when-</utterance>
+   <speaker>OFFICER #1</speaker>
+      <mode></mode>
+      <context>His partner runs up, shotgun in hand.</context>
+      <utterance>Don't move. The officer has his pistol out and leveled.</utterance>
+   <speaker>OFFICER #2</speaker>
+      <mode></mode>
+      <context>His voice cuts short as the blood flows against his shoe.</context>
+      <utterance>They're on their way.</utterance>
+   <speaker>OFFICER #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Christ.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="2">
+   <speaker>PRIEST</speaker>
+      <mode></mode>
+      <context>His sobbing mother holds a compress to Conor's forehead.</context>
+      <utterance>...Libera Domine Animan servi tui sicut libertasi David de manu regis Saul...</utterance>
+   <speaker>PRIEST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...In mamus tuas domine commendo spiritum meum...</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="7">
+   <speaker>VASSAL #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Has the boy died?</utterance>
+   <speaker>CLANSMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He is having the last rites now. It should be over by morning.</utterance>
+   <speaker>VASSAL #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never seen anybody cut as bad live so long. He should have died on the field.</utterance>
+   <speaker>CLANSMAN</speaker>
+      <mode></mode>
+      <context>The Vassal peers inside at the priest administering the sacraments.</context>
+      <utterance>Tonight or tomorrow, it's all the same.</utterance>
+   <speaker>PRIEST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Auditorium nostrum in nomine domini...</utterance>
+   <speaker>VASSAL #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This has been a dark day.</utterance>
+   <speaker>PRIEST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Requiescant in pace...</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="5">
+   <speaker>EXAMINER</speaker>
+      <mode></mode>
+      <context>Moran gestures to a sword, wrapped in plastic, lying nearby.</context>
+      <utterance>Real clean. No sawing action at all. Whatever it was did it in one swipe.  Like the other one.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about that?</utterance>
+   <speaker>EXAMINER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hasn't any blood on it.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About the only thing that doesn't.</utterance>
+   <speaker>EXAMINER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll give it a closer look when I get back.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="19">
+   <speaker>OFFICER #3</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on Brenna, you know better than that.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>She walks to where the medical examiner is organizing his equipment.</context>
+      <utterance>I'm invited.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>The examiner turns and smiles.</context>
+      <utterance>Mr. Levine...</utterance>
+   <speaker>EXAMINER</speaker>
+      <mode></mode>
+      <context>Brenna looks to the now-sheeted corpse, blood flowing from where the head should be.</context>
+      <utterance>Hope this isn't past your bedtime.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doesn't have a head, does he?</utterance>
+   <speaker>EXAMINER</speaker>
+      <mode></mode>
+      <context>Lt. Moran is standing near.</context>
+      <utterance>This one came unassembled.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just show her what she came for, Tom.</utterance>
+   <speaker>EXAMINER</speaker>
+      <mode></mode>
+      <context>Brenna and the examiner walk the few yards from the corpse to the sword.</context>
+      <utterance>Come on, this is more your line of work.</utterance>
+   <speaker>EXAMINER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's your uncle? I hardly ever see him anymore.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>The examiner stops and gestures to the weapon clothed in forensic plastic.</context>
+      <utterance>Fine.</utterance>
+   <speaker>EXAMINER</speaker>
+      <mode></mode>
+      <context>Brenna's expression changes to interest as she kneels down beside it.</context>
+      <utterance>There you go.</utterance>
+   <speaker>EXAMINER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Didn't look like it came from "Toys-Are-Us", that's why I called you.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Didn't think it was my buddy over there.</utterance>
+   <speaker>EXAMINER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Figured you knew more about swords than I did.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Claymore.</utterance>
+   <speaker>EXAMINER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Huh?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Scottish claymore. Take a French epee, add twenty pounds of ballast so it means business, and you've got a claymore.</utterance>
+   <speaker>EXAMINER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're the expert.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's in good condition.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="25">
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This your present address?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr.-  Taupin, what were you doing in that alley?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was walking by when I heard a shout. Your men came right after.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you know the victim?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His name was Iman Fasil if that jogs your memory.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It doesn't.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context>Taupin's face is stoic and controlled.</context>
+      <utterance>He was carrying a Syrian passport and had been in the country less than a week.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two days ago a Bulgarian national was murdered the same way. He'd also been in the country less than a week.  What is your citizenship?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Moran paces to a corner of the room.</context>
+      <utterance>American.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you make a habit of hanging out in that neigh- borhood at night?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you getting at?</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context>Moran places both hands on the table and leans across it.</context>
+      <utterance>Let's just say that in my years with this department I've seen more than one well dressed business man look for a hand job on 14th Street.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What were _you_ looking for?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's none of your business.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context>Moran reaches into a bag on the table and removes a large broad sword; old, but in mint condition.</context>
+      <utterance>You're wrong.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know what this is?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I presume it's a sword.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A claymore to be exact. You wouldn't know anything about it would you?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your murder weapon?</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was covered with Mr. Fasil's fingerprints, but none of his blood.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A mystery.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context>Moran turns the sword over in his hand then sets it down. He rises and opens the door.</context>
+      <utterance>For the moment.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context>Taupin passes through the doorway without comment.</context>
+      <utterance>All right Mr. Taupin, we'll be in touch.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="7">
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah Steven, it is good to see you.</utterance>
+   <speaker>TRAVELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I only just heard of Conor. I came up from Catroch as soon as I could.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a kind man to be sure.</utterance>
+   <speaker>TRAVELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought it only proper to pay me last respects to the family.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Steven, Conor didn't die.</utterance>
+   <speaker>TRAVELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I had heard his wounds were mortal.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They were Steven, they were. It's been a miracle it has. He lasted right through and healed. No one in the village has ever seen anything like it. Ever.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="25">
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Mara is silent. Distant.</context>
+      <utterance>You're pretty today.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm your future husband, remember?</utterance>
+   <speaker>MARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have no future husband.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>This is difficult for her. Tears well in her eyes.</context>
+      <utterance>I don't understand. Not a week ago your father gave us his blessing.</utterance>
+   <speaker>MARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My future husband died in battle against the Sutherlands.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you saying? I'm standing here as real as you.</utterance>
+   <speaker>MARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You cannot be real, Conor. You had the last rites. No man has been cut half as bad and lived.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I did live.</utterance>
+   <speaker>MARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Live? In less than a week you're prancing about the country like a squirrel.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So why the crazy talk? It's a miracle it is. Saint Andrew has smiled on me. On us.</utterance>
+   <speaker>MARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some think not.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>MARA</speaker>
+      <mode></mode>
+      <context>Some call it magic.</context>
+      <utterance>There's rumor in the village.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's mad. Surely you don't take their word?</utterance>
+   <speaker>MARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, Conor. It's not natural. Maybe something has touched you.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're sounding like that mad woman, Widow Baggins.</utterance>
+   <speaker>MARA</speaker>
+      <mode></mode>
+      <context>He puts a hand to her cheek.</context>
+      <utterance>Me father has taken back my hand.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>She steps back.</context>
+      <utterance>Ah, Lassie...</utterance>
+   <speaker>MARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please not be touching me, Conor.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll not take that kind of talk from you. From those others below, maybe. But not from you.</utterance>
+   <speaker>MARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leave me alone, Conor. Please.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Anger tumbles into exasperation.</context>
+      <utterance>You're not talking sense, Mara!</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>He steps for her. She moves away. Conor's face hardens with resentment.</context>
+      <utterance>I'm sorry.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you send me away now, Mara, I'll not come looking for you.</utterance>
+   <speaker>MARA</speaker>
+      <mode></mode>
+      <context>Resigned, Conor turns and limps away.</context>
+      <utterance>Do what you must.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="14">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you play?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Taupin sits down and begins sorting through a stack of papers on his desk.</context>
+      <utterance>Very traditional.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Cartwright, what is it I can do for you?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd like to ask you about the claymore.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not mine.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's quite rare you know, some- thing so common in its time so well looked after all these years.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna has taken a carving from the shelf.</context>
+      <utterance>Miss Cartwright, unless you have come here to sell the sword, there's very little I can help you with. Now if you will excuse me, I have a great deal of work to do.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Byzantine?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Basil the II.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charming guy, Basil. Once after beating an army of Serbians he blinded all but-</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna suddenly tosses the carving at him. Taupin snatches it out of the air with lightning precision.</context>
+      <utterance>-All but one out of a hundred, I know. All left to be led like donkeys back home. Now if you will please-</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good reflexes.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good day, Miss Cartwright.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="16">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't believe him.</utterance>
+   <speaker>SUPERVISOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's too cool. Too sharp. I think he's got something to do with it.</utterance>
+   <speaker>RESEARCHER #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, has your penetrating research on 9th Century Lithuanian dildos suddenly made you an expert on the criminal mentality?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>The men, LAUGH. They delight in baiting her. Researcher 2 opens a Budweiser and pours the beer into a medieval mug he's borrowed from the collection.</context>
+      <utterance>Screw off, Larry.</utterance>
+   <speaker>RESEARCHER #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The cops bought it. They let him go.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What could they hold him for? I think they're just waiting for something concrete before they haul him in for real. We should look into it. He had to have gotten that sword from somewhere.</utterance>
+   <speaker>SUPERVISOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hang on a sec, you did your little favor for the boys downtown, I'm sure your uncle and the rest are perfectly capable of taking it from here.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've seen nobleman swords that weren't as well preserved. It's just a hunk of peasant iron. Why would he be carrying it around in an alley?</utterance>
+   <speaker>RESEARCHER #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here we go. Everytime there's a murder in town we have to put up with junior D.A.</utterance>
+   <speaker>RESEARCHER #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Must be genetic.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Someone should check him out. Maybe a collection somewhere got knocked over. He has one, he might have two.</utterance>
+   <speaker>SUPERVISOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see that desk? _Your_ desk? You see the crap piled up on it?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give it a rest Ned, huh?</utterance>
+   <speaker>RESEARCHER #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Might be interesting to see what his family connections are. That's a hell of a piece to be just chuck- ing around in an alley.</utterance>
+   <speaker>SUPERVISOR</speaker>
+      <mode></mode>
+      <context>Researcher 2 lifts the mug of beer to his mouth.</context>
+      <utterance>I swear to God Brenna, between you and Thompson's novels I'm going to get a bloody ulcer.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="16">
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Evening, Douglas.</utterance>
+   <speaker>DOUGLAS</speaker>
+      <mode></mode>
+      <context>The tavern goes silent. Wary. The attention is on Conor.</context>
+      <utterance>Conor.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>The owner unenthusiastically fills Conor a mug. Conor takes it and walks to where four other VILLAGERS sit.</context>
+      <utterance>Ale suits me.</utterance>
+   <speaker>TAVERN MAN #1</speaker>
+      <mode></mode>
+      <context>Conor looks to the next table.</context>
+      <utterance>We rather you not be sitting with us, Conor.</utterance>
+   <speaker>TAVERN MAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We be drinking alone as well. The entire tavern spells the same sentiments.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Angered, Conor approaches the second man. As he looms above his chair the man in genuine fear pulls out a cross and thrusts it forward.</context>
+      <utterance>What's wrong with you all? Silence.</utterance>
+   <speaker>TAVERN MAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Requiem acer'nam donaei-</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing man?</utterance>
+   <speaker>TAVERN MAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-Et lux perpetua-</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll not be bringing the church into this.</utterance>
+   <speaker>TAVERN MAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-Luceat ei- The weird display frightens Conor.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be quiet.</utterance>
+   <speaker>TAVERN MAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-Auditorium nostrum-</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop.</utterance>
+   <speaker>TAVERN MAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-In nomine sanctus esperitu-</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>His nerves shattered, he rushes out.</context>
+      <utterance>Stop! Conor HURLES his mug against the wall.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="5">
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please take care of yourself.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Conor turns to his father.</context>
+      <utterance>Aye.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>They clasp hands.</context>
+      <utterance>I wish there was some other way.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodbye, Conor.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Without looking back he passes through the doorway and down the empty path, his figure quickly fading in the moorish fog.</context>
+      <utterance>Goodbye.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="7">
+   <speaker>DESK OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is against the rules.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So's playing choo-choo with two high school cheerleaders in the middle of-</utterance>
+   <speaker>DESK OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-Okay okay.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>The computer returns a reply onto a printer.</context>
+      <utterance>You owe me. Besides, I'm cute.</utterance>
+   <speaker>DESK OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Taupin, Richard Marshall. Born March 16, 1945 in Church Hill, Maryland. Received first driver permit 1967 in Philadelphia.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Church Hill, that's pretty close, isn't it?</utterance>
+   <speaker>DESK OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anything in Maryland is close.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="13">
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Bulging eyes stare at him.</context>
+      <utterance>Where is he?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where!</utterance>
+   <speaker>INTRUDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Taupin presses the blade. A trickle of blood rolls down the throat.</context>
+      <utterance>What name is he using?</utterance>
+   <speaker>INTRUDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Smith. Carl Smith.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many came?</utterance>
+   <speaker>INTRUDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The last four.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And the Bulgarian?</utterance>
+   <speaker>INTRUDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He got him.  He always does. Eventually.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He knows I'm here. How?</utterance>
+   <speaker>INTRUDER</speaker>
+      <mode></mode>
+      <context>The knife is pressed deeper.</context>
+      <utterance>None of this would be happening if you hadn't run...</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>_Answer_ me.</utterance>
+   <speaker>INTRUDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We learned he'd found the immigration notaries in Liverpool and traced them to New York. Then he figured out the birth records in Church Hill...</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="33">
+   <speaker>KIDELL</speaker>
+      <mode></mode>
+      <context>He carries the binder to the table where Brenna sits.</context>
+      <utterance>1945, that strains the memory.  Here we are, Richard Taupin.</utterance>
+   <speaker>KIDELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you like more tea?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Kidell sips his own and looks over the binder page.</context>
+      <utterance>No thank you, I'm fine.</utterance>
+   <speaker>KIDELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was unsual.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>KIDELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, this is a small town, and it was even smaller then. Most all the babies I delivered were from local families. Richard's parents were just passing through when his mother's time came. I did it right here at the house.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then you didn't know Richard later on.</utterance>
+   <speaker>KIDELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been trying to find somebody who knew him and any connections his family might have had with museums or historical societies.</utterance>
+   <speaker>KIDELL</speaker>
+      <mode></mode>
+      <context>Suppose nobody does.</context>
+      <utterance>Don't know about any of that.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't follow you.</utterance>
+   <speaker>KIDELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Poor little tyke didn't have a chance. Hopelessly premature. He died a few days after he was born.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The boy _died_?</utterance>
+   <speaker>KIDELL</speaker>
+      <mode></mode>
+      <context>Dr. Kidell removes from the binder a tattered newspaper clipping.</context>
+      <utterance>Mother too. Sad case it was. The young lady just couldn't make it through labor. Never even saw her son.</utterance>
+   <speaker>KIDELL</speaker>
+      <mode></mode>
+      <context>Something in the clipping sparks Brenna's interest.</context>
+      <utterance>My brother worked for the town paper at the time. He took this picture of the funeral.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you spoken to anyone else about this?</utterance>
+   <speaker>KIDELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There was this one fella. Asked a lot of questions. I was out of town but I heard he spent near a full day in the records office.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you remember his name?</utterance>
+   <speaker>KIDELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Carl Smith.</utterance>
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context>Several rows back in the dark sits Brenna's UNCLE JOE, the district attorney, and another man, his ASSISTANT.</context>
+      <utterance>Just tell us when you see the one.</utterance>
+   <speaker>UNCLE JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget it.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm just curious.</utterance>
+   <speaker>UNCLE JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're never "just curious".  You've met my neice, Brenna.</utterance>
+   <speaker>ASSISTANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi Brenna.</utterance>
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Number 5, lift your coat up more.</utterance>
+   <speaker>UNCLE JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aren't you getting a little old for this? You flunked out of law school.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now there's a new topic.</utterance>
+   <speaker>UNCLE JOE</speaker>
+      <mode></mode>
+      <context>Brenna puts on her best little-girl angelic smile, a smile her uncle can never refuse.</context>
+      <utterance>Don't they have enough for you to do at the castle?</utterance>
+   <speaker>UNCLE JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forgers do it all the time. They take the birth certificate of some- one who died young and use it to get legit I.D. Usually they carry it long enough to pass some bad checks then dump it.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks.</utterance>
+   <speaker>UNCLE JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call your mother. You never call her.</utterance>
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well?</utterance>
+   <speaker>OLD LADY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. I'd have to see his thing.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="7">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't figure out why he's doing it. He's been Richard Taupin at least since 1967. And the guys rich. You should see the stuff he has in that shop.</utterance>
+   <speaker>DENNIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe he's hiding from something.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Dennis gets out of bed and begins putting on his uniform.</context>
+      <utterance>Some guy named Smith was asking about him in Church Hill. I passed his name around with your buddies downtown but they drew a blank. So he isn't a cop. District anyway.</utterance>
+   <speaker>DENNIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Probably just some exec ducking an ex-wife.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dr. Kidell had a picture in his file of the funeral. The father looked just like Richard. Even had a mark on his cheek.</utterance>
+   <speaker>DENNIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How old is Richard?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>P.D. says 41, but he barely looks</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="8">
+   <speaker>DENNIS</speaker>
+      <mode></mode>
+      <context>He buttons his shirt. Something occurs to him.</context>
+      <utterance>Find the father. That should clear things up.</utterance>
+   <speaker>DENNIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Taupin, isn't that the guy Moran picked up the other night?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>DENNIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He'd want to know about all this.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Congeniality? Let him find his own clues. There's a journal article in this somewhere.</utterance>
+   <speaker>DENNIS</speaker>
+      <mode></mode>
+      <context>Dennis puts on his police cap.</context>
+      <utterance>Uncle Joey's little girl. Can't get the taste out of her mouth.</utterance>
+   <speaker>DENNIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, the cream of society awaits.  If you're ever in the neighborhood...</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="3">
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context>The officer leads him down to the river where a headless BODY wearing a tuxedo jacket is being put into a plastic bag.</context>
+      <utterance>They found it.</utterance>
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context>Moran looks down at the body bag, its dark plastic reflecting the rythmic rotation of squad car beacons.</context>
+      <utterance>It was about fifty yards down- stream from the head.</utterance>
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Both were cut real clean. Like the other ones...</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="10">
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context>Taupin lifts his eyes to the suburban treeline.</context>
+      <utterance>There's been another murder.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My condolences.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where were you Tuesday night?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Home.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A neighbor saw your car leave.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Taupin climbs down from his horse. Moran moves close.</context>
+      <utterance>He's mistaken.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, I don't know what the hell you're up to, but I think I've got a pretty good idea.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you?</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All I need is time.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>In no hurry, Taupin leads his horse away.</context>
+      <utterance>I've got all the time in the world.  Except right now. If you will excuse me, Lieutenant.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="33">
+   <speaker>MICHAEL TAUPIN".</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The casket is empty.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Someone beat you.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you taken to touring small town cemetaries, Miss Cartwright?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Grave robbers?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Probably.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>People like that rarely leave business cards.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>A flash of interest, quickly suppressed.</context>
+      <utterance>Does Carl Smith?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know what you're talking about.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think you do. Better yet, I don't think anything was stolen because nothing was there in the first place. And I think Mr. Smith, whoever he is, now knows that.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have an active imagination.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been to Church Hill.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>He starts for the gate.</context>
+      <utterance>Miss Cartwright, you are involving yourself in matters that do not concern you. I strongly suggest you return to Washington and stay out of small town cemetaries.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Taupin stops.</context>
+      <utterance>I could find him.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have friends.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>After only a few paces Taupin suddenly shudders to an abrupt stop.</context>
+      <utterance>I doubt that.  Good day, Miss Cartwright. He walks on.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>He holds up an open palm to silence her.</context>
+      <utterance>What's wrong?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Taupin's face is expressionless. He listens intently. Sensing. An unseen voice rides seemingly on the wind.</context>
+      <utterance>Your help may be unneccessary. The air is still.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Long time.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>The Knight is closing in on him, sword gripped in both hands.</context>
+      <utterance>Not so long.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've been here from the start.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>The Knight throws Brenna a glance.</context>
+      <utterance>My quarry grows clever with age. And the others, incompetent.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Friend of yours?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of sorts.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>The Knight leans his whole body into a two-fisted swing, clanging out a chunk of marble as Taupin ducks. A second swipe also imbeds itself in stone.</context>
+      <utterance>I do hope she enjoys a good show.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>A thrust cuts only air.</context>
+      <utterance>So now it ends.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Taupin leaps behind a tree. The Knight cuts it nearly in half.</context>
+      <utterance>Generation upon generation. Tens of thousands of miles.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Taupin drops to the ground in a shoulder roll to avoid a swipe.</context>
+      <utterance>You're the last, MacLeod. Romirez, Lacroux, Neuvich, those fools that followed me, their heads all line my shelf. All but yours.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Taupin grabs a tree branch and raps the Knight on the knee, knocking him over. The Knight quickly rights himself and cuts the branch from Taupin.</context>
+      <utterance>Can you feel it, MacLeod? Can you _feel_ it!</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>An elderly WATCHMAN, shotgun cradled in his arms, stands in the clearing.</context>
+      <utterance>There can be but one. He raises his blade.</utterance>
+   <speaker>WATCHMAN</speaker>
+      <mode></mode>
+      <context>The Knight pauses a split second then with decision launches his sword spear-style firmly into the watchman's chest. Taupin pushes past him to Brenna.</context>
+      <utterance>Hey! What's going on here?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Taupin shoves her roughly toward the gate.</context>
+      <utterance>Run! Brenna is frozen in shock.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Run!</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="5">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus Christ.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll be safe here. He won't kill in a church.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tradition.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Taupin stares out the window, stained glass shining orange on his face. He looks at Brenna briefly, then passes through the Church's doorway without a word.</context>
+      <utterance>What the hell is going on?</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="6">
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Afternoon.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your name is Conor?</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Juan Cid Romirez. Chief surveyor and alchemist.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not from these parts.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am from Spain. And I would like a moment of your time.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="34">
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't much to offer, Mr. Romirez from Spain, but you're welcome to what's here.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Romirez is looking at the faint, pale hint of a scar that runs from Conor's shoulder blade to his waist.</context>
+      <utterance>Please go to no trouble.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your back, it would seem perhaps you were injured in battle?</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Five years past me clan fought another over some- thing I cannot even re- member.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your marks would suggest great injury.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was nearly killed.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Conor looks up from his work in pained memory.</context>
+      <utterance>But you lived.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did at that.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And but for a mark you are well as any man, no?</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Conor turns and faces him.</context>
+      <utterance>I should imagine that your recovery must have alarmed your fellow villagers, perhaps giving them reason to invent an explanation. And a solution. Something isn't right.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was driven out.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And now you live in a small village miles away from all you knew.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can you know this?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Stunned with the implications of what Romirez has said, like a robot Conor serves the meal. His eyes never leave Romirez, who digs hungrily into the food.</context>
+      <utterance>First food, no? A good meal makes conversation so much easier.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hmm, que rico. What is it you call this?</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pheasant.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You Scots have a way with game. It still has life in it. Spirit. Back home the food is so...domestic.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you here?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was sent by his majesty of Spain to Inverness as a con- sultant on matters of metal.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a long way from Inverness.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In my travels I heard the story of the MacLeod boy struck down and brought from the hand of death by powers not of this Earth.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know me home. Me name.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Romirez pulls back the sleeve on his cloak.</context>
+      <utterance>It was time for our paths to cross.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>He traces some discoloration on his arm.</context>
+      <utterance>You see this?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When I was a boy a cart driven by a drunken fool crushed me. All thought I would die or be maimed for life. But I healed quickly. And like you I paid the price for being different.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are the same?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you ever feel a flow, as if some- thing were pushing against you?</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Always.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does it change with me in the room?</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is less.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You feel you know me.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know why.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We are brothers.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="16">
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He told me there could be only one.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some cling to sanity through time with the one continuity and trad0 ition their lives have known: The Game.  You and I Conor, we are different from all others around us. You know this, you can feel it. We are flesh and bone like any man, but unlike our neighbors we are rather difficult to injure,  permanently.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't understand.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are still so very young.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm twenty-two.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Romirez chooses his words very carefully.</context>
+      <utterance>Not even a single lifetime.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Conor, you and I, we cannot be killed.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Stunned, Conor backs away from Romirez.</context>
+      <utterance>We are immortal.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Romirez grasps Conor's shoulder.</context>
+      <utterance>No, that can't be.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is as you are.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>This is all too much for Conor.</context>
+      <utterance>No!</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen to me. Hear the words.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is madness!</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is the truth.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Romirez suddenly draws his sword and thrusts it into Conor's heart. The boy's mouth drops open in shocked terror as his eyes roll up into his head. A shudder, then Conor slides off the blade and crashes to the ground.</context>
+      <utterance>No!</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="7">
+   <speaker>MALE VOICE</speaker>
+      <mode></mode>
+      <context>Beep.</context>
+      <utterance>This is Dr. Wickland at GWU. Your test came back today. You can call me here at the med center if you have any questions. Click.</utterance>
+   <speaker>SUPERVISOR'S VOICE</speaker>
+      <mode></mode>
+      <context>Brenna stands and goes to the kitchen, returning with a glass of wine. Click. Beep.</context>
+      <utterance>Brenna, where the hell are you? The place is full of cops asking weird questions. What's going on? I've got work stacking up. Get in here right away.</utterance>
+   <speaker>KNIGHT'S VOICE</speaker>
+      <mode></mode>
+      <context>She freezes in her tracks.</context>
+      <utterance>Brenna.</utterance>
+   <speaker>KNIGHT'S VOICE</speaker>
+      <mode></mode>
+      <context>Brenna's eyes are glued on the machine.</context>
+      <utterance>My quarrel is not with you. Meet me.</utterance>
+   <speaker>KNIGHT'S VOICE</speaker>
+      <mode></mode>
+      <context>Beep.</context>
+      <utterance>We have much to talk of, you and I. Answers for the young historian.  O'Reily's. Tonight. I've grown to like taverns. Click.</utterance>
+   <speaker>SEVERAL LITTLE GIRLS</speaker>
+      <mode></mode>
+      <context>Brenna is still upset from the last call.</context>
+      <utterance>Happy birthday to you, happy birth- day to you, happy birthday dear Brenna, happy birthday to you.</utterance>
+   <speaker>MOTHER'S VOICE</speaker>
+      <mode></mode>
+      <context>Hiss.</context>
+      <utterance>Hi Brenna, it's mom. Me and your neices just wanted to call and wish you a happy birthday. Crissy made a real cute card for you, be sure to call her. Will you be home for Easter? Call when you can. Love you. Click.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="10">
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>It's time you ate.</context>
+      <utterance>Three days you've laid there.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This can't be.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are not dead, boy. Accept it.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is monstrous. I'll burn in hell for all eternity.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Conor starts CRYING.</context>
+      <utterance>You'd have to die first.  Aqui.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is to become of me? Am I to wander the Earth forever like a ghost?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You will live. Survive.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>This is God's punishment.</context>
+      <utterance>Then they were right. I am evil.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have done nothing wrong Conor MacLeod.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God. Oh my God I'm lost.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="10">
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why does he want to kill me?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You recall how I spoke of the push you feel and how I make it less?</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is always less with my living. Far or near. But if I were to die the push would become stronger than ever before. There is power in this. And as long as you and I live, The Knight can never have it all.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But we cannot be killed.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There is an imperfection. For all your healing, if your head ever leaves your neck, you are dead. You can survive anything but steel against your threat. Then it is over. The end.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can I stop such a man?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hide. Run to the ends of the Earth till you learn. You must learn to defend yourself. In this I can help.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We are brothers. And you are a defense-  -of sorts.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="11">
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When your father died I saw to it that the grounds were kept up.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The money in the estate was enough to cover your costs?</utterance>
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yes, more than enough.</utterance>
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context>Taupin drags a finger across a dusty window pane.</context>
+      <utterance>Most of the furniture was put into protective storage. I'll have some boys come up and clean the place out for you.</utterance>
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're one of William's kids, huh?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His only kid.</utterance>
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure take after him. Never seen a father and son look more alike.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We were very close.</utterance>
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The resemblance is amazing.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When may I expect the cleaners?</utterance>
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll send them right up.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="7">
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That stuff'll put you away if you're not careful.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There was a Count. Count Dusan. He would invite the local peasants to his chateau, fill them full of wine, then slice their bellies so he could reuse it.  The symmetry of that somehow always appealed to me.</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're very macabre.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's my birthday.</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Happy birthday.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Brenna drains her glass and sets it down with a sigh.</context>
+      <utterance>Thanks.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Buy a birthday girl a drink?</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="17">
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context>Kahn breaks into a broad smile.</context>
+      <utterance>MacLeod. Taupin is anxious, poised for attack.</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spare a chair?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kahn?</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you going to offer me a chair or leave me standing here all night?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Kahn takes his place across the table.</context>
+      <utterance>Sit.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How are you?</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Head still secure to the neck.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did you find me?</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context>Taupin looks to his own glass.</context>
+      <utterance>How many places this side of the Atlantic serve lager and lime?</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Old habits die hard.  Waitress! A round of Nitzhic!  Peasant drool, I know. But it's the closest thing they stock to my side of the fence.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing here?</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context>Taupin tenses.</context>
+      <utterance>It is the gathering, my friend. The settling of old scores.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And have you something to settle with me?</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not tonight. Tonight I have a drink with an old friend.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>The waitress sets down two glasses.</context>
+      <utterance>It's good to see you, Kahn.</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context>Kahn drains his glass.</context>
+      <utterance>Come, toast with me the past.  To old conquests, old loves, and to a time when we cared about either.</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Waitress!</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="8">
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll never forget the look on that Papal commander's face when his "heretic stronghold" turned out to be a rock full of whores climbing all over Neuvich.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Neuvich, the clown of the crusades.</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But then rides up Pope Pius who calmly brushes the dust from his papal cross, climbs off his papal horse, draws his papal sword and asks just what the hell is going on. And what did Neuvich, dear dear drunken Neuvich do?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>A JOGGER stops on the gravel and listens to the strange conversation.</context>
+      <utterance>Offered the Pope one of his whores. They LAUGH.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>For a Pope.</context>
+      <utterance>Had a great swing with his blade.</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context>The jogger shakes his head and runs on.</context>
+      <utterance>Good times then. A man could stretch his legs without bring- ing half the world down around his ears. Not like now.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He found us even there.</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He always did.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="3">
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't drunk this much since-</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context>Kahn chucks an empty wine bottle. An unspecified animal GROWLS sleepily somewhere in the darkness.</context>
+      <utterance>-Since you last saw me.</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="11">
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love zoos. Ever since I was a kid.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Kahn leans on the wall of a water buffalo pen.</context>
+      <utterance>You were never a kid.</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew his great-grandfather.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're insane.</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, seriously. We used to shoot pool together in Rangoon.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you do it, Kahn? How do you live so full of life for so long?</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tasting and enjoying life is the only thing of value we have. All else is just marking time.  You're marking time.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Kahn jams his hands into his overcoat and starts down the footpath.</context>
+      <utterance>I've had a few more concerns.</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The pressure only comes when you let the taste slip into your mouth.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're wrong.</utterance>
+   <speaker>KAHN</speaker>
+      <mode></mode>
+      <context>You just don't run as hard anymore.</context>
+      <utterance>You don't run as hard, MacLeod.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="3">
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>The Knight BURSTS in with his leather carrying bag. Brenna slides along the draped back wall to avoid him.</context>
+      <utterance>I apoligize for the lateness of the hour, but I'm sure you will all agree the quality of this year's collection is well worth the time.</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>The Knight closes in on Brenna casually, without hurry.</context>
+      <utterance>For this fine example of medieval religious art, let us open the bid at 4,000 dollars.</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Brenna raises her arm to attract the attention of a SECURITY</context>
+      <utterance>10,500 once, 10,500 twice...</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="2">
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>11,000. A bid at 11,000.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>The guard notices she has no lapel number and starts for her very officially. Being closed in on from both sides, Brenna suddenly runs across the room to a fire exit, setting off an ALARM as she flies open the door. The Knight leaps after her, knocking over an OLD WOMAN in the front row.</context>
+      <utterance>No, I-</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="29">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Nothing has been left unturned or unbroken. Brenna kneels and sifts through a pile of crumpled papers. She comes across an old black and white photograph. Badly streaked and faded, it shows Taupin standing beside a farm- house. Written in the corner is "Worstick, 1928". Brenna slips the photo into her pocket. Standing, she turns smack into Taupin.</context>
+      <utterance>Mr. Taupin? I have to talk to you.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>He looks past her to the destruction of his living room. It doesn't seem to surprise him.</context>
+      <utterance>Finished?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He tried to kill me last night.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Taupin sifts through the debris, selecting articles from it.</context>
+      <utterance>Dupont Circle.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is he?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At the moment? Carl Smith.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>He ignores the question.</context>
+      <utterance>And you?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What will you do now?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>I've been at this a very long time.</context>
+      <utterance>You needn't worry Miss Cartwright.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He called you "MacLeod".</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not your concern.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I left a man dead in Felton. But you don't really care, do you?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That bothers you?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was innocent.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's dead. Whatever I may or may not feel means exceedingly little to him now.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about me?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a witness to a murder. That seems to put me pretty high on your friend's chop list.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you gone to the police?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not? I'm sure they'd love to hear your story.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd rather hear yours.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are being foolish.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a historian, Mr. Taupin. Only once in a lifetime do you stare history in the face.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>He walks to the doorway.</context>
+      <utterance>Go home.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Taupin stops, his back to her.</context>
+      <utterance>Why does he want to kill you?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He sees me as a threat.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Taupin walks out the door.</context>
+      <utterance>Are you?</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="17">
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Conor thrusts. Romirez blocks.</context>
+      <utterance>Concentrate!</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Harder. Concentrate harder.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me arm hurts.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Conor strikes. Romirez easily blocks.</context>
+      <utterance>Again. Try again.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Harder! You swing like an impotent cow!</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go to hell.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Ticked off, Conor leans himself into a two-fisted swing. Romirez knocks it aside, but Conor recovers faster than he, knocking Romirez flat on his back.</context>
+      <utterance>Oh, the boy has a mouth, now if only he had an arm.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Impotent cow.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Conor drops the sword and wipes the sweat from his face. Romirez pours wine from a leather bag into a goblet pulled from his belt. He offers it to Conor.</context>
+      <utterance>Muy Bien!</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Conor accepts the cup. Romirez pulls himself to his feet.</context>
+      <utterance>Here my boy, from vineyards as sweet and smooth as a young girl's thigh.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It will take less effort as you learn.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Romirez puts his arm around Conor and refills his cup.</context>
+      <utterance>It's like to kill me first.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have a gift. One you must protect.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And what is this great gift that cannot be seen or smelt?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Fabric of life. The spark that allows the passing of existence from one generation to another.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Romirez put his arm around Conor and leads him away.</context>
+      <utterance>If that was meant to be an ex- planation Mr. Romirez from Spain, I'm afraid you've failed.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come. Enough sword play for an afternoon.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="31">
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Romirez. We're raised as riders.</context>
+      <utterance>You're no match for Scot, Mr.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>Both their eyes turn to the beauty in view. Romirez pulls a leaf from a tree and studies it closely.</context>
+      <utterance>Point conceeded, Mr. MacLeod.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is the fascinatioon? It is only a leaf.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>He pulls the leaf's points from the stalk, one by one.</context>
+      <utterance>All living things pay dues, Conor. They must be respected for that.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As they age they contribute to a sum that is the kindling from which all future life comes. To feel it, to know it, is to be in touch with the will of every living thing.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I do not think I like the sound of that.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It does not feel nearly as frightening as it sounds. But the consequences of such feelings can be very frightening. For it gives you great strength. The strength of _knowledge_. The ability to stand between the giving of what has always been to what will always be.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I feel hardly nothing.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have not been fully trained. But you will learn. And you will be good, I can feel that. You have apt- itude. This is why our friend is so concerned.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But why be so concerned about me?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This power is divided amongst you, me, and others like cuts in a pie. But the cuts are not equal. Some, like you and he, have more. Much more.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am a small player. But if by helping you I can keep that monster from being the last, then perhaps my life has meant something.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am not ready for this.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You must be. You have responsibilities. You must learn the rules. You can never attract attention to yourself, never show the side that will draw others to you. You will always know when you are in the presence of another. Beware. But more importantly Conor MacLeod, will be your battle against time. In the coming years you will see kingdoms rise then rot like wheat. People will become a transitory, pathetic lot. The only constant you will know will be the others and the tradition their greed and quest represent. But life without morality, without the ability to truly taste the sweetness of wine and love, is no life at all. That is how the others exist. Nothing more than walking corpses living only to slaughter each other in an insane quest to be the last. Keep your soul sewed to the earth. Do not become one of them.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are young, inexperienced. You do not know what time can do. How it can sap all pity, all love.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That is not me.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With the proper tools, Conor, a naive man can be much more dangerous than an evil one.</utterance>
+   <speaker>VILLAGER</speaker>
+      <mode></mode>
+      <context>A VILLAGER approaches from across the pasture.</context>
+      <utterance>Conor!</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, Darin.</utterance>
+   <speaker>VILLAGER</speaker>
+      <mode></mode>
+      <context>Conor looks to Romirez.</context>
+      <utterance>Hate to be bothering you like this, but me mare threw a shoe.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go ahead, Senor.  I have my friend to keep me company.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Conor sets off across the pasture.</context>
+      <utterance>I'll be back when I can.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>The limb is severed.</context>
+      <utterance>Romirez. What a surprise. Romirez is struggling under the debris. The Knight thrusts hard onto an exposed leg.</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>The Knight begins casting aside the shelving. With lightning speed Romirez pulls the sword from beneath the bed and hammers it deep into the Knight's side.</context>
+      <utterance>Madonna!</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>He crashes back against the wall. Romirez tries to lift himself from the bed using his sword as a crutch. The Knight has regained a meager balance on his knees. Blood pours from the slice in his stomach, Romirez pushes himself across the bed, plants his sword into the floor and hobbles a few paces before collapsing.</context>
+      <utterance>Bastard!</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>The Knight crawls across the bed and drops to his knees beside Romirez.</context>
+      <utterance>Oh, Santa Maria!</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why run?</utterance>
+   <speaker>ROMIREZ</speaker>
+      <mode></mode>
+      <context>The Knight's trembling hands raise his shaking sword high.</context>
+      <utterance>Demonio!</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To hell with you.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="7">
+   <speaker>LIBRARIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on Brenna, your ass is already in a sling, don't drag me into it.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All I need is for you to check the name.</utterance>
+   <speaker>LIBRARIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You talked to your supervisor lately? He's burning up the place about you just dropping out of sight. That on top of the cops bugging him.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>The librarian looks her over skeptically.</context>
+      <utterance>I'll take care of that Corey, but I need this now.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Corey, you _owe_ me.</utterance>
+   <speaker>LIBRARIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's that important?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>The librarian reluctantly reaches for his keys.</context>
+      <utterance>Yeah.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="9">
+   <speaker>RESEARCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wilson know about this?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm doing it on my own.</utterance>
+   <speaker>LIBRARIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good way to lose your job.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some job. Card filing and cabinet dusting. Four years in this dump and I haven't written anything for Wilson that a wounded yak couldn't do.</utterance>
+   <speaker>LIBRARIAN</speaker>
+      <mode></mode>
+      <context>Too bad no one else did.</context>
+      <utterance>I liked the bit you did about Baltic chastity belts.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's bullshit. Everything. My job, the people I get involved with, I'm up to here with it.</utterance>
+   <speaker>LIBRARIAN</speaker>
+      <mode></mode>
+      <context>The librarian pulls a binder and opens it.</context>
+      <utterance>You always were hard to impress.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is it?</utterance>
+   <speaker>LIBRARIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not who. What. Worstick's a town in Pennsylvania.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="2">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Chris is seated at the desk next to her. He points at the supervisor's door.</context>
+      <utterance>Chris, have you seen my notebook?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why, that son of a bitch.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="29">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>The chair turns. Detective Moran, not her supervisor, leafs through her notebook.</context>
+      <utterance>What's wrong Wilson, huh? Not enough excitement in your own desk? What the hell were you looking for in mine?</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A murder.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You better have a warrant. That's my notebook, you've got no right to be sticking your fingers into it.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got a morgue filling up with bodies. That's my right.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want from me?</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context>Brenna lifts the telephone receiver.</context>
+      <utterance>Well, the man of the hour that we all would like to talk to about now has apparently skipped town.  And all of a sudden the Smithsonian's ambulence chaser is an expert on missing persons.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm calling an attorney.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You and I should talk first.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Moran presses the post on the phone.</context>
+      <utterance>We've got nothing to say.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you going to tell them? That you're protecting a man who's killed four people?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Four?</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All fashionably without heads.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spare me the details.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But there's more. Wednesday someone played javelin with the cemetary curator in Felton, Delaware. Some locals spotted two cars with D.C. plates and surprise surprise, they turn out to be registered to our own Brenna Cartwright and the ever popular Richard Taupin.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you getting at, Moran?</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've been a busy little beaver. Especially with that records mess up in Church Hill.  Your notes are very complete. Naturally my feelings were crushed when you didn't rush right over and tell us what you knew.  In fact, we're considering book- ing the ambulence chaser as an accessory to murder.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It'll never stick.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But we might just give it the 'ole college try. What with the court back ups, it could be days before you got an arraignment. But then, I'm sure the flunk-out neice of the D.A. knows all about that.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're an asshole, Moran.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want Taupin.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What makes you so sure he's the one?</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just for laughs we raided wonder boy's house. There was a gallon of one of the corpse's blood in his carpet. I think it was about then I withdrew his name for humanitarian of the year.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's all of this got to do with me?</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What were you doing in Felton?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Research. If your pal was there I never saw him.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have witnesses that can put the two of you together.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never take up poker, Detective.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be stupid, lady. Your neck can be sliced as fast as anyone else's. Brenna reaches across and lifts her notebook.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Moran watches her leave. He lifts the telephone receiver.</context>
+      <utterance>Why don't you wait until it comes out in paperback?</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="2">
+   <speaker>DENNIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I warned you.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go to hell.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="10">
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna whirls around and sees Taupin behind her.</context>
+      <utterance>You shouldn't have come.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>He looks to the road.</context>
+      <utterance>We're you followed?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No one knows you're here?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I had to talk to you.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You had to do _nothing_!</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're wrong.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a fool.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Pause. Taupin strides through the doorway.</context>
+      <utterance>Maybe.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come inside.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="5">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is this what you killed them with?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've been listening to rumors.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Our cars were seen together in Felton. They're calling me an accessory to murder.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Beat. They're stuck with each other.</context>
+      <utterance>You are. Now.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's several bedrooms down the hall. Take your pick.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="4">
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context>He hangs up.</context>
+      <utterance>No, that's the last place we saw her. Okay, will do.</utterance>
+   <speaker>PARTNER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well?</utterance>
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We keep looking.</utterance>
+   <speaker>PARTNER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wonderful.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="11">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's all that?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna walks to the window.</context>
+      <utterance>Richard Taupin has become cumbersome. It would be best if he just disappeared.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You did kill those men.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not all of them.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When you finish, what then?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I go my way and you can write all you want about the big bad Mr. Taupin.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You make it all sound so simple.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The only real difficulty comes in changing over the ownership of property I've aquired. That requires certain records and most importantly a personal appearance at the county seat in Gettysburg. But that's where you come in.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want me to front for you.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna is unsure.</context>
+      <utterance>The less exposure I recieve around government buildings the better. You, as Mrs. Taupin, will attract considerably less attention than I.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not such a bad trade. The story of a lifetime for a few days work?</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="10">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Moran sighs and tosses a piece of wood on the pile of debris.</context>
+      <utterance>They lost her outside of Thurmont.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want people in here to check over every piece of this stuff.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Figure she's with him?</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We ran down that Church Hill info. She's right. There is no Richard Taupin.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any other I.D.s come up?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Moran rises and dons his coat.</context>
+      <utterance>Not yet. Called FBI yesterday. Thompson's going to try CIA this afternoon.  Y'never know.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Should have seen him the first night. Son of a bitch stood there with a quart of blood on his pant leg and didn't even blink.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context>Moran walks to the door.</context>
+      <utterance>You'd think he'd had practice.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think he has.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="3">
+   <speaker>AIDE</speaker>
+      <mode></mode>
+      <context>A GENERAL stands beside the major.</context>
+      <utterance>The men are assembled, Major.</utterance>
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See that they are indeed ready, Dupont.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode>CONOR</mode>
+      <context></context>
+      <utterance>Yes General.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="16">
+   <speaker>STAFF SARGEANT</speaker>
+      <mode></mode>
+      <context>Dupont walks past the sargeant to the line.</context>
+      <utterance>Regiment ready for review, sir.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stand straight, you are a soldier of the King.</utterance>
+   <speaker>SOLDIER #1</speaker>
+      <mode></mode>
+      <context>Dupont continues down the line. Another soldier's infantry jacket is almost hilariously mis-buttoned, one collar sticking up four inches higher than the other. Dupont with both hands rips open the soldier's coat, spraying brass buttons onto the ground. He moves on.</context>
+      <utterance>Yes sir.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is your bayonet?</utterance>
+   <speaker>SOLIDER #3</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lost it sir.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context>The soldier hedges.</context>
+      <utterance>Where?</utterance>
+   <speaker>STAFF SARGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You heard the Major! Where!</utterance>
+   <speaker>SOLDIER #3</speaker>
+      <mode></mode>
+      <context>Dupont's face softens in exasperation, then toughens.</context>
+      <utterance>Whorehouse sir.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context>The soldier obeys. Dupont inspects the firing mechanism.</context>
+      <utterance>Your rifle. Hand it to me.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context>He throws the rifle roughly back into the soldier's hands.</context>
+      <utterance>The flint is cracked. No spark will reach your powder. You will die tomorrow.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context>The sargeant leaps to attention.</context>
+      <utterance>Tomorrow you go to _battle_! And you look like children!  The General has charged me with seeing that you are prepared, and prepared you will be! If necessary you stand here all night! Sargeant!</utterance>
+   <speaker>SARGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes sir.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See to it.</utterance>
+   <speaker>SARGEANT</speaker>
+      <mode></mode>
+      <context>Dupont turns briskly, then stops abruptly as if alerted by some- thing. He whirls around and faces the young infantrymen. His expression is quizzical as he walks the line, checking each face carefully. One PRIVATE seizes his attention. The private is cautious.</context>
+      <utterance>Yes sir.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your name?</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context>It is as if Dupont knows him. The two stare at each other. Dupont turns and leaves.</context>
+      <utterance>Mulet.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="33">
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context>The OFFICERS LAUGH. All but Dupont.</context>
+      <utterance>...And what a sight! That old mare just kept falling over her own guts till someone finally shot her.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Complete your inspection?</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're nothing but boys. It will be a slaughter tomorrow.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I doubt much can change that. The enemy has five brigades waiting for us.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We need more time.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context>Dupont pokes unenthusiastically at his plate.</context>
+      <utterance>Won't get it.  We are a sacrifice. A diversion.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eat up Dupont. It will probably be your last.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context>Dupont goes to the window. Dusk shines orange on his face. In the foreground the man Dupont encountered at the line-up, Mulet, is chopping firewood.</context>
+      <utterance>Not likely.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode>CONOR</mode>
+      <context></context>
+      <utterance>I thought I gave orders the regiment was to drill.</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Staff sargeant detailed me to prepare firewood for the break- fast cooking.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is your position?</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Second musketeer.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I understand you joined up in Bremen.</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You seem to understand a great deal.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am a Major, Private. You would do well remembering that when addressing me.</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, "sir". I thought we spoke as equals.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Equals?</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context>Mulet returns to his chore.</context>
+      <utterance>If you wish to play games, Major.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait. I think we understand each other.</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have no understanding.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context>Mulet LAUGHS.</context>
+      <utterance>Then it is time two of us did. You are very young. I was once young. I can help.</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Help? I've seen others "help". Somehow a head always ended up on the counter.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It can be different. It must be.</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context>Mulet turns to his chore. Dupont grabs his arm.</context>
+      <utterance>It never changes, Major.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We must talk.</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stay out of it.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't threaten me, Private.</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context>Dupont draws his cutlass.</context>
+      <utterance>Who do you think I am? One of your freckle faced children waiting to die tomorrow? "Threaten you"? You and I just living will always be a threat. Forever. Look at your life, Major. Look at mine. Nothing there but threat. Threats and nothingness. It's what we live for. Mulet turns his back on Dupont.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do not turn your back on me.</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are really going to force this, aren't you?</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context>Mulet turns slowly, axe in hand.</context>
+      <utterance>Either you are with me or against me.</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context>The two stare into eyes empty of emotion. Mulet's hand flinches. An attack? Dupont CUTS quickly, slicing open both of Mulet's arms. The axe drops to the ground. Mulet seems strangely calm.</context>
+      <utterance>Have I a choice?</utterance>
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see Major? You are not so different. Dupont cuts off Mulet's head where he stands.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="23">
+   <speaker>MULET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see Major? You are not so different...</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context>Dupont sighs and looks to the altar.</context>
+      <utterance>I had no choice.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who am I deceiving?</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Dupont whirls around to see the Knight, dressed as he in uniform, sitting one row behind. Dupont leaps to his feet.</context>
+      <utterance>Certainly not me.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Dupont eases his breathing.</context>
+      <utterance>You needn't look so flushed, Major. You are quite safe in church.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>State of grace and all that.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tradition.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Dupont has backed up a few paces.</context>
+      <utterance>It's all we have.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Dupont sits down.</context>
+      <utterance>All this time and still a scared little boy.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not so scared.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps not.  You seem to have misplaced a private. No doubt by now his head is stranger to his neck.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No doubt.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You surprise me. Eliminating a rival like that. Such are the actions of a man of conquest. I was mistaken. 300 years have turned the boy's fear into ambit- ion.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're wrong.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>The Knight almost seems proud of Dupont.</context>
+      <utterance>I know you very well, Conor MacLeod. And I can see the truth beginning to make itself clear to you. Mulet, Romirez, they were fools without vision. It was destined that the board would be cleared for the real players.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Romirez understood. Not you.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>The Knight looks to the altar.</context>
+      <utterance>Romirez is dust.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Finish your prayers?</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Finish yours?</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Our common heritage.  I am your only real friend, you know. The only one who truly understands you.  I look forward to the day we meet again. And I kill you.</utterance>
+   <speaker>DUPONT</speaker>
+      <mode></mode>
+      <context>The Knight leans forward and puts his face very near.</context>
+      <utterance>So sure?</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>The Knight moves into the aisle.</context>
+      <utterance>You can't stay in church forever.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Conor sits in the dim church alone. Very alone.</context>
+      <utterance>Good night, Major. He exits.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="14">
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Morning Mr. North</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Same.</utterance>
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Such a pretty day. If I live to be 90 I'll never tire of mornings like this. Mind you I'm 74 now.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes sir. When you get older your priorities change. It's the simple things that count. Without them growing old can be a very lonely thing.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>The grandson is having difficulty baiting his line. Taupin bends down beside the young fisherman.</context>
+      <utterance>I'm sure that's true.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here. The hook should go just below the head, where the meat is toughest.</utterance>
+   <speaker>GRANDSON</speaker>
+      <mode></mode>
+      <context>Taupin's show of affection surprises Brenna.</context>
+      <utterance>Thanks.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Taupin takes a clump of leaves from the bridge and winds them around the hook.</context>
+      <utterance>Show you a trick.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fish are creatures of habit. They like their food where they're used to it. At the top, hiding in old leaves.</utterance>
+   <speaker>GRANDSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where did you learn that?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My father taught me.</utterance>
+   <speaker>GRANDSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your father must be smart.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna is touched.</context>
+      <utterance>Yes, he was.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="3">
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There was a man once. Just a simple woodcarver. But he understood. More than anyone he could see to the heart of it.  It never ends. Today is the same as the first. Tomorrow will be the same as today. So much time. And all of it wasted.  You love history?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wish I could.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="15">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The estate stuff is pretty straight forward. Just lots of forms and an appearance at the county seat.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna is silent.</context>
+      <utterance>It will take some time for the forms to clear before you go to Gettysburg.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Pause.</context>
+      <utterance>Second thoughts?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.  So what now? We just wait?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>She hands him the poster from earlier.</context>
+      <utterance>Well, as long as we're stuck here.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's some sort of party the town is throwing.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They do it each year.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Taupin stacks the documents into a folder.</context>
+      <utterance>I thought it might be a nice break from all of this.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe it would do us both good.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a catch. You're supposed to wear 19th century clothing.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>He comes across a long period dress and offers it to Brenna.</context>
+      <utterance>My father was something of a junk collector.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here, try this. I suppose they're still making women the same as back then.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's beautiful.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Taupin fishes through the trunk and comes up with an old top hat. He turns it over in his hand with stoic memory.</context>
+      <utterance>A little dusty.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="28">
+   <speaker>KATHERINE</speaker>
+      <mode></mode>
+      <context>She is thoroughly charmed by Conor.</context>
+      <utterance>Do it again.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Conor wraps a length of yarn about his fingers. By turning his hand over and bending his knuckles just so, the web becomes the outline of a lion..</context>
+      <utterance>All right.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Conor starts to remove the yarn. Katherine touches his arm.</context>
+      <utterance>A lion.  Katherine is delighted.</utterance>
+   <speaker>KATHERINE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh please. Another one.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What would you like?</utterance>
+   <speaker>KATHERINE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Something pretty.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>Conor cups his hands, bends his fingers, and comes up with a four leaf clover.</context>
+      <utterance>Like you.</utterance>
+   <speaker>KATHERINE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's wonderful. Where did you ever learn it?</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Far away.</utterance>
+   <speaker>KATHERINE</speaker>
+      <mode></mode>
+      <context>Conor shoots a glance for the mother, then kisses Katherine softly.</context>
+      <utterance>Kiss me.</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context>A YOUNG MAN stands a few yards from the stairs.</context>
+      <utterance>You'll be leaving the girl alone.</utterance>
+   <speaker>KATHERINE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you have cause to bothering us?</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's my girl.</utterance>
+   <speaker>KATHERINE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David, we've already spoken of this.</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context>Conor climbs to his feet.</context>
+      <utterance>He's not what he pretends to be.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You best leave, son.</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think you're so high and mighty, coming into town and taking a man's woman. Well I know about you. I know about the things you do.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said you best leave.</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context>Conor grabs the youth's collar and pulls him close.</context>
+      <utterance>You'd like that, wouldn't you?  Ask him about his friends. The ones he meets in the town square. Ask him about the blade he keeps beneath his bed.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>The youth pushes away from the grasp.</context>
+      <utterance>Leave. While you still can.</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't frighten me.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context>The young man throws a fist at Conor. It is easily blocked. Conor returns with a savage blow to the chest that knocks the young man gasping onto the ground. Katherine runs up behind and grabs Conor's outstretched arm.</context>
+      <utterance>I should.</utterance>
+   <speaker>KATHERINE</speaker>
+      <mode></mode>
+      <context>COUGHING painfully, the youth climbs to his feet and staggers away.</context>
+      <utterance>No! Leave him. Please don't hurt him. Please.</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context>He turns and runs down the road.</context>
+      <utterance>He's not what you think.</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context>Katherine turns to Conor, his face still locked in ice.</context>
+      <utterance>He's not what you think!</utterance>
+   <speaker>KATHERINE</speaker>
+      <mode></mode>
+      <context>She hugs him tightly.</context>
+      <utterance>I don't care who you are or where you come from.</utterance>
+   <speaker>KATHERINE</speaker>
+      <mode></mode>
+      <context>Conor's face softens as he brings up an arm to hold her.</context>
+      <utterance>I love you.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="30">
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context>Taupin pours a glass of punch. An ELDERLY WOMAN approaches him.</context>
+      <utterance>Mr. Taupin! Glad you could make it. Best get some punch before it's gone. Near the whole valley showed up. They go to the table.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I didn't know better I'd say William Taupin.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His son. Richard.</utterance>
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Taupin is up from Washington to look over his father's estate.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context>The tone is snide.</context>
+      <utterance>Your father died some years ago. This is your first visit?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of sorts.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context>(walks away)</context>
+      <utterance>I suppose a Taupin had to show up eventually.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>She turns in surprise at his knowing her name, then walks on.</context>
+      <utterance>Good evening, Mrs. Butler.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was all that about?</utterance>
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry Mr. Taupin. That's not meant for you. Just some didn't take much to your father.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My father was never one for social whirls.</utterance>
+   <speaker>MR. TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kept to himself for sure. Then with all that business in '31.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What business?</utterance>
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Family down the road from the Taupin place was murdered. All cut up they were. Horrible. Two strangers were also found with the bodies. No one ever accused William, but with his reputation as a loner and the rumors about him and some of the wives in town, folks just never forgot. Most were relieved when they heard he'd died. Sorry Mr. Taupin.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing to be sorry about.</utterance>
+   <speaker>MR. NORTH</speaker>
+      <mode></mode>
+      <context>The rock band finished as a PORTLY MAN in a union soldier's uniform takes the microphone.</context>
+      <utterance>Just your pappy scared some.</utterance>
+   <speaker>PORTLY</speaker>
+      <mode></mode>
+      <context>The rock band gives ground to a group of older MUSICIANS. With a nod from the union soldier they begin a folk tune with fiddles and hammer dulcimer. The costumed guests take to the floor.</context>
+      <utterance>All right, the kids have had their fun. Now it's time for a little more traditional dancing.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know any of these. I'll make a fool of myself.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Taupin starts into it with perfect grace. A faltering Brenna tries to keep up.</context>
+      <utterance>Follow me.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>William Taupin seems to have left his mark.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you are William Taupin, aren't you?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>They do a final turn and finish. The other DANCERS applaud.</context>
+      <utterance>Yes.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're using your son's name.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna is staring at him.</context>
+      <utterance>No. Just the child of some lonely girl I gave a ride to. When they died I put them in a grave with my name on it. Twenty years later I became the son.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>He leads her to a table.</context>
+      <utterance>More punch?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then you must be at least 70 years old.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At least.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Several of the ELDERLY WOMEN are watching Taupin from across the room.</context>
+      <utterance>That's impossible.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="14">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's frightening sometimes the way you talk about other people's lives.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A factor of age.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hope I never get that old.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna pulls away.</context>
+      <utterance>You won't.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I must be insane. Leaving work, ditching cops. All to follow a murderer. A very old murderer, but a murderer just the same.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you here?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been telling myself it's the award winning journal article I'm going to write. But it's not.  It's you.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not even sure why.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hardly a reason to run off with a murderer.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My life has been chock full of people with complications and weak- nesses. I can't stand it. But you're different. It's in your hands. A clarity.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are a very perceptive young woman.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>A thoughtful pause.</context>
+      <utterance>Just a little crazy.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Cartwright, it's time I showed you something.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="32">
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna steps uneasily into the darkness. Taupin follows and switches on the light.</context>
+      <utterance>Miss Cartwright?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>The sight is overwhelming.</context>
+      <utterance>My God.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna picks up a Carolingian tapestry and runs her hand along its intricate weaving.</context>
+      <utterance>I had this room built some time ago.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That would be difficult to explain.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Taupin picks up a Byzantine icon, brushing the dust from its shoulders.</context>
+      <utterance>I'd like you to try.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>He replaces the icon.</context>
+      <utterance>I was born Conor MacLeod in the village of Ardvrek on the High- land plain of Strathnaver in the clan of MacLeod under the King of Scotland. On the eleventh of December, 1408.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Taupin walks along the cases.</context>
+      <utterance>I have served in the armies of twelve nations, married nine women, fathered thirty-eight children and buried them all.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I carried that rifle in World War I. This book is a 16th Century policy report for the King of Austria. The diploma is my con- ference of degree in Latin from Trinity College. Class of 1672.  It goes on.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's why Smith called you MacLeod.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He knows about you.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He is older than I.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What could possibly be worth all this murder and distruction.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes I think it's just for something to do. A conquest to be the last. Something to hold onto while everything else around you withers and blows away. Some- thing to replace the love that can never work.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's insane.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>An inheritance.</context>
+      <utterance>Perhaps. There is something more.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of bodies.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't kill the watchman.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You killed those other two.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not the same.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about that family in '31?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes innocents become involved.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You and your buddy make a real team, don't you? Exchanging eloquent threats in iambic pen- tameter while hacking up all the innocents in between.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are differences.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You kill with your left hand?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't killed _you_.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Taupin moves very close.</context>
+      <utterance>Is that a threat?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna's face softens. She turns away.</context>
+      <utterance>No.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come here, Brenna.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>He kisses her.</context>
+      <utterance>Damn you.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="3">
+   <speaker>MINISTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May God commend into his kingdom the soul of our dear departed Jason, son of Katherine- The old woman.</utterance>
+   <speaker>MINISTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And brother to Howard and James- The two middle aged sons.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Watches the funeral quietly at a distance.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="7">
+   <speaker>OLD WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You.</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Katherine.</utterance>
+   <speaker>OLD WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing here?</utterance>
+   <speaker>CONOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I owe him this.</utterance>
+   <speaker>OLD WOMAN</speaker>
+      <mode></mode>
+      <context>The two sons come up behind. The three stand there: an old woman who could be 60 years Conor's senior and her two sons old enough to be his father.</context>
+      <utterance>He never knew you.</utterance>
+   <speaker>SON #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is something wrong, Mother?</utterance>
+   <speaker>OLD WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Howard. James. This is your father...</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="7">
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna is lost in Taupin's scars.</context>
+      <utterance>"Brenna". In Celtic is means "woman with raven hair". Only chieftan's daughters were allowed it.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it like? Being you?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Empty. And fear. Fear of those that would kill you and fear of those that would love you. It can never last, and in the end you always end up destroying both.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>History I'll only read about.</context>
+      <utterance>But you're known so much.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all the same. Half lives that never go away.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it you want?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All of it finished.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="4">
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gettysburg's an hour's drive at most. You should be back by nightfall.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will I see you again?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Pause. Brenna considers touching him but instead climbs briskly into the car.</context>
+      <utterance>Be careful. Don't stay any longer than you have to.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good luck.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="5">
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you sure?</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Won't know till the records department comes back with it this after- noon. Looks good though. They found the receipt in his townhouse. It was pretty smeared but had Taupin's father listed as a signatory.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Round up who you can and put them on standby.</utterance>
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Think we should call the local P.D. out there first?</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I want this to be all ours.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="2">
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context>The clerk fills out a small sheet and hands it to her.</context>
+      <utterance>O.K. Mrs. Taupin, that's all I need.</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context>A pair of Levis follow Brenna at a distance down the corridor.</context>
+      <utterance>Just take this down the hall to the regis- trar. Hurry up though, it's near closing time. Most everyone's gone home already.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="3">
+   <speaker>CLERK #2</speaker>
+      <mode></mode>
+      <context>She disappears into the rear area.</context>
+      <utterance>I'll be right back.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you have a drinking fountain?</utterance>
+   <speaker>CLERK #3</speaker>
+      <mode></mode>
+      <context>Brenna steps around and takes a drink. She looks into her reflection on the stainless steel and spends a moment fiddling with her hair.</context>
+      <utterance>Around the corner.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="3">
+   <speaker>THE KNIGHT</speaker>
+      <mode></mode>
+      <context>Stepping back, he lifts his sword and HAMMERS it deep into the wood.</context>
+      <utterance>Tries the door handle.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>He STRIKES again. And again. Splinters smack against surround- ing walls.</context>
+      <utterance>Oh God...</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>CRYING hysterically, Brenna presses herself against the far wall, sliding to the floor in a crouch.</context>
+      <utterance>Go away! Oh God, go away!</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="8">
+   <speaker>KNIGHT'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have some unfinished business.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you here?</utterance>
+   <speaker>KNIGHT'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want you to come to me.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And if I refuse?</utterance>
+   <speaker>KNIGHT'S VOICE</speaker>
+      <mode></mode>
+      <context>This affects him.</context>
+      <utterance>Give me an address where I can forward Miss Cart- wright's head.</utterance>
+   <speaker>KNIGHT'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes laddie, I have her.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Should I care?</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have three hours.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="7">
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Taupin stands at the entrance.</context>
+      <utterance>Welcome.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>In a corner the Asian's head lies on its side, the horror of death still pressed into the face. Taupin's eyes return slowly to the Knight and Brenna.</context>
+      <utterance>Kahn sends his best.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>The Knight throws Brenna roughly against a wall.</context>
+      <utterance>Let her go.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You disappoint me.  I thought you'd finally gotten over that sort of thing.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leave her out of this.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>The Knight holds his sword out at a ceremonial angle. Taupin does the same. The weapons are CLANKED together twice, then pulled back into battle position. The two begin walking a circle, poised swords waiting for an opening. The Knight leaps first, his clash of steel RINGING off the high walls. Another ATTACK without result.</context>
+      <utterance>As you wish.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Taupin swings. The Knight jumps back. Sweat gleams from their brows.</context>
+      <utterance>You can do better than that.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="2">
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context>He jumps up on a rock. Several yards away can be seen two figures attacking each other.</context>
+      <utterance>It's from over near the memorial.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="2">
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Moran. All right, get a patrol unit out there right away. I'll meet them.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Not now.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="11">
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Taupin looks at Brenna and the dead policemen. A resignation sweeps over him.</context>
+      <utterance>Get up.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the point?</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This isn't done. Get up.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the point! You have me, finish it!</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have waited forever for this. You will not cheapen it, little boy.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tradition.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all we have.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>The Knight looks to Brenna.</context>
+      <utterance>Go to hell.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps Miss Cartwright would like to play.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leave her alone.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Taupin struggles to his feet. Blood pouring from his shirt, he stands uneasily with his sword at ready. The Knight swings. Taupin blocks.</context>
+      <utterance>Get up.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="17">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You bastard!</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be silent.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leave him alone.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Taupin kneels with his forehead pressed against the floor. His teeth grind in pain. The Knight smiles.</context>
+      <utterance>You will be silent!! The voice is THUNDERING.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I do hope you're enjoying this as much as me.</utterance>
+   <speaker>MORAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stands in the entryway. The Knight sees him.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>The Knight walks toward him,</context>
+      <utterance>Get out. Moran draws his pistol.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>The Knight raises his sword.</context>
+      <utterance>This is nothing that concerns you. Moran levels his gun.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>Two EXPLOSIONS as Moran FIRES. The slugs slam into the Knight, blowing him off his feet. He lies still. Moran looks to Brenna. To Taupin. Then he walks closer to the Knight.</context>
+      <utterance>You will leave!</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Taupin curls in a spasm of pain. Moran moves closer. The Knight lies face down, blood oozing from exit wounds over his heart. He isn't breathing. Moran bends over slowly to see the Knight's face.</context>
+      <utterance>Don't.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>The Knight suddenly rolls over and plants his sword into Moran's chest. The pistol DISCHARGES against a far wall. Taupin crawls for the Knight. Moran's mouth opens but no sound escapes. The Knight, blood pouring from his mouth and nose, thrusts deeper then retracts quickly. Moran slides off the sword dead. Taupin CUTS hard against the Knight's chest. The Knight GAGS in surprise and crumples. Taupin CUTS again, then puts the blade against the Knight's GURGLING throat.</context>
+      <utterance>Stop. You don't understand.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>He raises the sword.</context>
+      <utterance>In mamus tuas Domine commendo spiritum meum. Auditorium nostrum in nomine Domine.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Taupin drops to the floor WHIMPERING. He sucks in painful gulps of air.</context>
+      <utterance>Requiescant in pace. And CUTS the Knight's head off. Taupin drops his sword. His breathing quickens. A sensation sweeps over him.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>Taupin bolts up and looks at her without seeing.</context>
+      <utterance>My God.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>A blood-stained hand suddenly GRABS Brenna's shoulder. She SCREAMS. The headless body of the Knight stands beside her.</context>
+      <utterance>Conor. Taupin is looking past her.</utterance>
+   <speaker>THE KNIGHT'S HEAD</speaker>
+      <mode></mode>
+      <context>The eyes open. The face pulls into a smile.</context>
+      <utterance>Lies on the floor.</utterance>
+   <speaker>KNIGHT</speaker>
+      <mode></mode>
+      <context>The eyes roll up into the skull. The face slackens. The hulking mass standing beside Brenna sways, the collapses to the ground.</context>
+      <utterance>And now you know.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="10">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's wrong?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna kneels beside him.</context>
+      <utterance>I can't stand it. Oh God, I can't stand it!</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna SOBS.</context>
+      <utterance>The scream of your blood. The shriek of trees. Stop it! Stop it!</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Taupin doubles over in pain. The pain of the whole world trying to force itself into him. Brenna tries to hold him. He pushes her savagely away.</context>
+      <utterance>I'm the last. Oh Christ, I'm the _last one_!</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get out.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No!</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>He doubles over in pain.</context>
+      <utterance>I'll destroy you. I've destroyed everything I've ever touched! Oh God...</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>He grabs his sword and threatens her.</context>
+      <utterance>Conor...</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>SOBBING, Brenna runs from the memorial. Taupin is alone. Bleeding. Crying. In agony.</context>
+      <utterance>_Get out_!</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="10">
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>The cat's eyes are all fixed in Taupin. They cautiously shrink away, frightened.</context>
+      <utterance>What are we supposed to say?</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Who would have guessed?</context>
+      <utterance>The emptyness. The years and years of void. Nothingness. Bordered only by the quest for ultimate nothingness.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The inheritance.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Taupin holds a blade of grass as if it was speaking to him.</context>
+      <utterance>Not power. Not control.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Life. It is the gift and the under- standing of life.</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have lived forever.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>Brenna's chin quivers.</context>
+      <utterance>Life is only life when it is bounded by death. The inheritance is death. The gift is the finality of life. To be part of the fabric. The inside.  I love you Brenna.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It will be horrible. The future. I may die tomorrow or 10,000 tomorrows. I can promise you nothing. Nothing but a moment. Maybe two. But a moment of love, is that not worth a lifetime?</utterance>
+   <speaker>BRENNA</speaker>
+      <mode></mode>
+      <context>He holds her. They hold each other.</context>
+      <utterance>Yes.</utterance>
+   <speaker>TAUPIN</speaker>
+      <mode></mode>
+      <context>A jogger runs by, unaware of any life but his own.</context>
+      <utterance>It's taken me so long. So very long.</utterance>
+</dialogue>
+
+
+</movie>

@@ -1,0 +1,4287 @@
+<movie id="348" title="Liar Liar">
+
+<dialogue id="1" n_utterances="11">
+   <speaker>MS. BERRY</speaker>
+      <mode></mode>
+      <context>QUICK CUTS of a series of five-year olds standing beside their desks, addressing the class:</context>
+      <utterance>"Work." Today we're going to share what our parents do for work.</utterance>
+   <speaker>JEFF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My dad is a truck driver.</utterance>
+   <speaker>MELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My mommy is a doctor.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My dad is a librarian and my mom is a vegetarian.</utterance>
+   <speaker>THEODORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My father is a struck-sher-al- engine-ear.</utterance>
+   <speaker>KELLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My daddy works at a place where they make stuff, and my mommy is a mommy.</utterance>
+   <speaker>ELLIOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>looking a little</utterance>
+   <speaker>CRAZED)</speaker>
+      <mode> CRAZED)</mode>
+      <context>The QUICK CUTS end with MAX:</context>
+      <utterance>My father is a postal worker.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context>As Max starts to sit:</context>
+      <utterance>My mom's a teacher.</utterance>
+   <speaker>MS. BERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And your dad?</utterance>
+   <speaker>MAX</speaker>
+      <mode>HESITANT</mode>
+      <context></context>
+      <utterance>My dad? He's . . . a liar.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="3">
+   <speaker>MS. BERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A liar? I don't think you mean "a liar."</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well... he wears a suit and goes to court and talks to the judge and--</utterance>
+   <speaker>MS. BERRY</speaker>
+      <mode>RELIEVED</mode>
+      <context>Max shrugs.</context>
+      <utterance>Oh! I see-- you mean he's a lawyer.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="3">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>He nods at the victim - - a fragile OLD MAN in his 70's.</context>
+      <utterance>A dark street. . . a stormy night... two desperate men struggle... one man is taken to the hospital, the other to ja il. The prosecutor wants you to believe this is an open-and-shut case of a poor man, brutally victimized.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Fletcher's CLIENT is a 250 pound brute in a suit.</context>
+      <utterance>Well, for once I agree with t he prosecutor. This is an open-and shut case -- but the true victim is my client.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context>As he describes his client's movements, Fletcher ACTS THEM</context>
+      <utterance>Put yourself in his shoes for a moment--walking home from church, alone, in a frightening part of the suburbs.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="10">
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context>He reveals the weapon in his hand is only a credit card.</context>
+      <utterance>And in that terrifying instant you do what any respectable citizen would -- you defend y ou rse lf. Only after you shatter his arm and collarbone do you realize it's all a mistake... the man was merely walking away from an ATM machine, the apparent flash of metal caused by his bank card.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D - CONCERNED</mode>
+      <context>He walks along the jury box:</context>
+      <utterance>As you stand over his crumpled, though potentially still-dangerous form, your he art goes out to him. You want to help. First, you gather up the many bills he dropped, to stop them from bl owi ng away. Second, in an effort to get the name and number of someone to notify, you take his wallet. Finally, you leap into the man's Lexus to head for assistance, when suddenly a police car speeds up. You breathe a sigh of relief: "Someone to look -after the injured man! Oh joy!" But do the police applaud your initiative? Do they hail your heroism? No-- they arrest you and throw you in the slammer!</utterance>
+   <speaker>IMPRESSIVE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>moment, then answers his own</utterance>
+   <speaker>QUESTION:)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Discrimination,</utterance>
+   <speaker>QUESTION:)</speaker>
+      <mode>(to a black JUROR)</mode>
+      <context>(to a female</context>
+      <utterance>But this time it's not based on race.</utterance>
+   <speaker>JUROR)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not based on gender.</utterance>
+   <speaker>JUROR)</speaker>
+      <mode>(to a man wearing a crucifix) Not based on religion, (to a heavy set JUROR)</mode>
+      <context>Fletcher points accusingly at the opposition.</context>
+      <utterance>No--this time it's discrimination based on size! . I know what the prosecution wants you to think - - i t ' s always the big guy's fault. Is that what we've come to as a society -- persecuting people because they're large?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context>(turning back to</context>
+      <utterance>Shame on you, Mister Prosecutor! Shame on you!</utterance>
+   <speaker>JURY)</speaker>
+      <mode></mode>
+      <context>In the front row we see two sad-faced YOUNG CHILDREN.</context>
+      <utterance>The state is trying to barbeque my client on the spit of Justice. Only you can douse the flames. The decision is your s. And please...don't let your emotions run away with y ou . The fact that my client is a family man, raising his sons alone after the tragic death of their mother, has absolutely no bearing on this case.</utterance>
+   <speaker>JURY)</speaker>
+      <mode>CONT'D</mode>
+      <context>Fletcher returns to his seat. Jurors, dab their eyes.</context>
+      <utterance>Instead, let cold reason be your guide as you decide the fate of this church-going, orphan-rasing widower!</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="8">
+   <speaker>LAWYER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's it going, Fletcher?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher's huge client catches up to him.</context>
+      <utterance>Another gratifying day serving Justice.</utterance>
+   <speaker>CLIENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey great job, Mr. Reid. I wish there was some way I could show my appreciation.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>A PUBLICIST carrying, a clipboard approaches Fletcher.</context>
+      <utterance>Stay out of my neighborhood after dark.</utterance>
+   <speaker>PUBLICIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Reid, do you have a  moment-?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm late picking up my son.</utterance>
+   <speaker>PUBLICIST</speaker>
+      <mode></mode>
+      <context>Fletcher instantly shifts directions.</context>
+      <utterance>-Because a couple of reporters want to interview you about your big win today.</utterance>
+   <speaker>FLETCHER    ..</speaker>
+      <mode></mode>
+      <context>And he's off to woo a GANG OF REPORTERS.</context>
+      <utterance>How's my hair?</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="5">
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What time is it?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>checks her</utterance>
+   <speaker>WATCH)</speaker>
+      <mode> WATCH)</mode>
+      <context>Finally, Fletcher's BMW pulls up. Max races to him, delighted.</context>
+      <utterance>I ' m sure he just got tied up in court again.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>(calls out a</context>
+      <utterance>Maximillian!</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="5">
+   <speaker>TRANSFORMERS!! .</speaker>
+      <mode></mode>
+      <context>TRANSFORMER TOY making ROBOTIC MOVEMENTS and SOUNDS. Max knows the routine well, moves in perfect sine with dad. . ... Until -- .</context>
+      <utterance>Fletcher instantly becomes a human version of the</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher's "mechanical arm" becomes CLAW-LIKE, TICKLING MAX like crazy! Max loves it. Audrey watches these two kids, smiles.</context>
+      <utterance>Malfunction in vector 3 ! ! Malfunction in vector 3!!  Look out! It's on tickle mode!!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Max, could you introduce me?</context>
+      <utterance>And who is this lovely lady?</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's no lady, that's mom!</utterance>
+   <speaker>AUDREY. </speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Max.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="7">
+   <speaker>   FLETCHER</speaker>
+      <mode></mode>
+      <context>(under his</context>
+      <utterance>Mom? !</utterance>
+   <speaker>BREATH)</speaker>
+      <mode></mode>
+      <context>Fletcher's other robotic arm becomes a "pincher", comes after Audrey.</context>
+      <utterance>Himnm. . . I don't remember her looking that good,  Malfunction in Vector 4! Malfunction in Vector 4!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode>PLAYFULLY</mode>
+      <context></context>
+      <utterance>Keep Vector 4 away from me. Unless you want Vector 4 chopped off.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, you were much easier when we were married...  So where are you off too?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stanford. I'm delivering a paper.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>O h really? Where I live, we use a boy on a bike.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey mom, dad's taking me to see wrestling!</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="9">
+   <speaker>FLETCHER/DAN GEORGE</speaker>
+      <mode></mode>
+      <context>Audrey can't help but LAUGH.</context>
+      <utterance>The boy must learn the way of the war rior . An d wh o be tter to teach him than Rowdy Rod- . Piper and Big John Stud?</utterance>
+   <speaker>FLETCHER/DAN GEORGE</speaker>
+      <mode></mode>
+      <context>For only then--</context>
+      <utterance>He must be schooled in the way of the face-claw, the sleeper- hold, and the purple nuxple.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode>PLAYFULLY</mode>
+      <context></context>
+      <utterance>Shut up!!</utterance>
+   <speaker>FLETCHER/DAN GEORGE</speaker>
+      <mode></mode>
+      <context>A HORN HONKS. It's the good-natured, affable JERRY. Max runs up to him.</context>
+      <utterance>The squaw will never understand us.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context>Jerry gives Max "five", then kisses Audrey on the lips.</context>
+      <utterance>Max, my man!</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher, good to see you?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? No kiss for me?</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context>Fletcher grits his teeth as Jerry gives Max a piggyback ride to get the luggage.</context>
+      <utterance>What do you say, Max? Give me a hand?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't know the boyfriend was going.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="6">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Audrey heads inside.</context>
+      <utterance>Jerry. His name is Jerry and yes, he's going.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>T o Stanford? Overnight? Does this mean you two are...</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been seeing him seven months, what do you think?</utterance>
+   <speaker>FLETGHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was hoping that after being married to me, you'd have no more strength left.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. Well you have to remember when we were married, I wasn't having sex nearly as often as you were.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>MEDIC!! I've been hit.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="3">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, great... I'm so happy for you two. I am just Mister H appy man. Happy, happy, happy.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Fletcher turns sincere.</context>
+      <utterance>Relax, Fletcher. It looks like Jerry's taking that job offer in Boston.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aud, I am so sorry...</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="7">
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>calling to</utterance>
+   <speaker>AUDREY)</speaker>
+      <mode> AUDREY)</mode>
+      <context>Audrey and Jerry say goodbye to Max. They get in his Explorer.</context>
+      <utterance>Ready?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>They drive off.</context>
+      <utterance>Yo u gonna be okay? Because if not, we could leave Max with your sister and I could go out with you two, does that appeal to you at all?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>(flipping Max the</context>
+      <utterance>Wave to the soon-to-be ex- boyfriend, Max.</utterance>
+   <speaker>KEYS)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You drive.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad, are we really going to go to wrestling?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Max SIGHS. He's heard this before.</context>
+      <utterance>Absolutely, Maxattacker. We just have to stop by the office for one minute.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="2">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>patting his</utterance>
+   <speaker>POCKETS)</speaker>
+      <mode> POCKETS)</mode>
+      <context></context>
+      <utterance>'Fraid not. Sorry.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="9">
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Philip!</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And this must be Max!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher starts off with Max, when Philip calls after him.</context>
+      <utterance>. Yes. Yes it is. Well, it was good seeing you--</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, Ethel and I had a blast at our last little get- together.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher heads into an open elevator... only to find the door's closing impededby Philip's foot.</context>
+      <utterance>Oh, me too. I can never get enough of charades. We'll have to do it again sometime.</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>The door again begins to close... when Philip stops it.</context>
+      <utterance>Soon.</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How 'bout tonight?</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="5">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not that soon. I'm taking Max to see wrestling--</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We love wrestling. We could--</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Max looks up at Fletcher. He isn't.</context>
+      <utterance>I don't think so. See, Max is really shy around strangers.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Tell you what -- give me your card as a reminder. I'll call y o u . Soon. Promise.</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context>Philip hands him his card just as the door closes.</context>
+      <utterance>Great!</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="6">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>(indicates, her</context>
+      <utterance>Hi, Mr. Reid.</utterance>
+   <speaker>HAIR)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>(indicates the </context>
+      <utterance>Fabulous! I love it.</utterance>
+   <speaker>BASKET)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's this?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know who sent it. But it's for Mr. Allan. It's his anniversary.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah... The Partnership Committee meeting still scheduled for Friday?</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="3">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Fletcher quickly removes a gift card from his pocket, scribbles on it, puts it in place of the one already there</context>
+      <utterance>Yep...</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I'm... fixing the card,  Look, they spelled Mr. Allan's name wrong. Have an apple.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="6">
+   <speaker>FRED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't do it.</utterance>
+   <speaker>M IRANDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fred, it's your duty to present the strongest case possible.</utterance>
+   <speaker>FRED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The strongest case possible, consistent with the truth.</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let the Judge decide what's true. That's what he gets paid for. You get paid to win.</utterance>
+   <speaker>FRED</speaker>
+      <mode></mode>
+      <context>Miranda looks out her window, calculating.</context>
+      <utterance>If you insist on my taking it to trial, I'll represent Mrs. Cole aggressively and ethically. But, Miranda -- I won't lie.</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then we'll just have to find someone who'will.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="5">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Max looks at PETE, -whose fashion-disaster tie startles him.</context>
+      <utterance>Hey, Pete! Great tie! .</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>THOMAS glances up from a file. Max notes that he's corpulent.</context>
+      <utterance>Thomas--looks like you're losin' weight.</utterance>
+   <speaker>THOMAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gained three pounds.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>wedging past</utterance>
+   <speaker>HIM)</speaker>
+      <mode> HIM)</mode>
+      <context></context>
+      <utterance>On you, it works.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="5">
+   <speaker>GRETA '</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>M ax ! What's new?</utterance>
+   <speaker>.MAX</speaker>
+      <mode></mode>
+      <context>Flet cher's EYES WIDEN. He has clearly forgotten.</context>
+      <utterance>Well. . . it's my birthday tomo rrow. We're having a party and everything.</utterance>
+   <speaker>GRE TA</speaker>
+      <mode></mode>
+      <context>Fletcher tries to wave her off, awkwardly stopping when Max turns to him. .</context>
+      <utterance>I'm sure your dad'11 give you something wonderful.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>We'll be leaving in a second.</context>
+      <utterance>Oh, yeah. You're going to love it. Uh, why don't you play in my office for a minute? Fax something, sue someone, have a good time.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="7">
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Damn! I completely forgot.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context>Greta produces a wrapped GIFT.</context>
+      <utterance>Oh, there's a surprise.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a saint. I should get you something.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context>She holds up another, smaller package.</context>
+      <utterance>You did.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah. Well, I always do the classy thing. Any calls?</utterance>
+   <speaker></speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She hands him a stack of mail.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. Let's see.. . </utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="5">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell him it's in the mail.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>jotting down a</utterance>
+   <speaker>NOTE)</speaker>
+      <mode> NOTE)</mode>
+      <context></context>
+      <utterance>Right. You'll do it next week. Mr. McKinley phoned, questioning that fourteen hours you billed on Christinas Eve.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Write him a long, explanatory letter. Then bill him for the letter.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context>Done. Your mother called.</context>
+      <utterance>. ..</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="9">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ' m on vacation.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is your fifth week. .  .</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a long vacation.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>jotting down a</utterance>
+   <speaker>NOTE)</speaker>
+      <mode> NOTE)</mode>
+      <context></context>
+      <utterance>"Break mother's heart." Done. And that's it, except Miranda's looking for you.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As if I don't have anything better to do than bow and scrape at her royal perfumed p artner feet. Tell her I'm in court.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Court's closed.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell her I broke my leg and had to be shot.</utterance>
+   <speaker>GRETA</speaker>
+      <mode>WHISPERS</mode>
+      <context>As Miranda approaches, Fletcher switches gears in an</context>
+      <utterance>Why don't you tell her yourself?</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="5">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>--And then send out a notice of judgement on my win today!</utterance>
+   <speaker>GRETA</speaker>
+      <mode>DRY</mode>
+      <context>Fletcher turns -- and pretends to be surprised.</context>
+      <utterance>I'll get right on it.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Here, I bought you a gift.</context>
+      <utterance>Miranda! I didn't see you. Hey, you look lovely, today.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He grabs Greta's gift and hands it to Miranda.</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks. I heard about your victory today. You're making quite an impression on the partnership committee.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="2">
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're not going, are we?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course we are. A promise i s a promise. We are gonna see wrestling or my name isn't Fletcher T. Reid.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="3">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>(the wrestler</context>
+      <utterance>Could you hand me that?</utterance>
+   <speaker>DOES)</speaker>
+      <mode></mode>
+      <context>(without looking</context>
+      <utterance>Thank you.</utterance>
+   <speaker>UP)</speaker>
+      <mode></mode>
+      <context>PUSH IN on Max; he isn't.</context>
+      <utterance>We are having some fun, eh Maxer?</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="4">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you alright?</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, yeah, just, uh... how long are you gonna be on the phone?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just wanted to say good- night to Max, but he must still be out with Fletcher,</utterance>
+   <speaker>JERRY</speaker>
+      <mode>SUDDENLY</mode>
+      <context>She's SHOCKED.</context>
+      <utterance>Will you marry me?</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="2">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh...would I . . . ? What did you say?</utterance>
+   <speaker>JERRY</speaker>
+      <mode>NERVOUS</mode>
+      <context></context>
+      <utterance>I proposed, I . . . Look, I know this Boston thing is a great opportunity, good job, mo ney .. . everything. But I started to think about being three thousand miles away from you and Max. And I didn't like it. I-- Look, I know it's a lot to ask, to move and everything, but I . . . . I love</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="7">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>T h ir t y ? Forty?</context>
+      <utterance>Max Factor... Happy birthday. How old are you today?</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Five.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher produces --</context>
+      <utterance>Well, you've held up well. I only wish there was some way to commemorate such an occasion, some small symbol to mark this day, like....</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. . . A present! .</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Max eyes it with wonder.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Max knows his father doesn't have a clue but he rips the box open, revealing, a BASEBALL, GLOVE, DODGER'S CAP, and</context>
+      <utterance>It's... it's.  a surprise.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="2">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Baseball stuff.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you play catch with me?</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="12">
+   <speaker>AUDR EY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jerry, these are for tomorrow.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The company wants me to get started right away.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't just pick up and move to Boston with two days notice.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ju st come check it out. You a nd Max, see the town. Let's . pick out a place together. Then, if you want to turn me down and scar me for life, fine.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's just not that simple... What about my job? I've been at UCLA three years.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's New England. They're lousy with colleges. You can't swing a bat back there without hitting a college.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd get a job there in a second.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are other factors involved.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode>POINTS</mode>
+      <context>They pull up in front of Fletcher's building where Fletcher and Max are waiting. Fletcher's still reviewing a file. As Audrey gets out of Jerry's car, Max runs over.</context>
+      <utterance>T here they are now. .</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you have fun? How were the wrestling matches?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Big fun. Manly fun. Am I right, Maxie?</utterance>
+   <speaker>MAX</speaker>
+      <mode>HALF-HEARTEDLY</mode>
+      <context></context>
+      <utterance>It was fun..</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="10">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So how were the wrestling matches ? Did you have fun?</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context>Max and Jerry exchange "fives" and'a hug. Jerry gives Max a light punch on the arm.</context>
+      <utterance>Max , my man! My happy birthday man!</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One-two-three-four-five... and one for good luck.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you see that? He struck the child!</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context>(shows the glove)</context>
+      <utterance>Look what dad got me!</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa! Great! I have my glove in the car. We'll stop in the park on the way home and play c atch. Then tonight we'll oil</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context>Fletcher hates him. Jerry and Max go to Jerry's car.</context>
+      <utterance>it, wrap a rubber band around it. . . It'll be great.  Great birthday present, dad!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some thing's come up. We need to talk.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom, let's go. I want to play.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll talk tonight.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="5">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tonight?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Max's birthday?</utterance>
+   <speaker>FLETCHER'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh , yeah, right. Seven. I knew that. I did. I blocked it out weeks ago. The se ven tee nt h of May. Max's birthday.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the eighteenth.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>They drive away.</context>
+      <utterance>The seventeenth of May is the day I .remind myself that the eighteenth is Max's birthday. See you tonight.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="7">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is good. This is really smart.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context>Fletcher and Miranda exchange glances.</context>
+      <utterance>Only i t ' s . . . Like not true. Every word of it is a lie.</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I mean... isn't that a problem?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Cole, the only problem here is that after you've provided years of faithful service and loving support, of raising his children -- They are his?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>H m ? Oh yeah. One for sure.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>After all that, your husband wants to deny you a fair share of the marital assets based on one single act of</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="2">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seven.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hm?</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="3">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seven single acts of indiscretion.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>--Seven acts of indiscretion, only one of which he has any evidence of, and all of which he himself is responsible, for.</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He is?</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="18">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Cole, I stayed up all night last night studying your c ase. Not just your case... b ut you. And, by now, I feel I know you. You are the victim here. The wife of a cold, distant businessman. Starved for affection, driven into the arms of another man--</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seven.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>not missing a</utterance>
+   <speaker>BEAT)</speaker>
+      <mode> BEAT)</mode>
+      <context></context>
+      <utterance>--Seven .other men. You're not trying to deny him what is r ig htf ull y his. All you're insisting on is what is r ig htf ull y yours. And maybe an idgy-smidgy bit more. I think you're bending over backwards.</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I did agree to give him j oint custody of the kids...  He's always been a good father.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you've always been a good wife.</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>getting worked</utterance>
+   <speaker>UP)</speaker>
+      <mode> UP)</mode>
+      <context></context>
+      <utterance>Yeah. . .</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's such a thing as being t oo nice. That's why you need aggr essive representation. To show the court that there is more than one side to this st ory. All I'm asking is the opportunity to see that justice is done on your behalf.  Will you give me that opportunity?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He stares into her eyes. A moment, then...</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes! I ' m tired of getting kicked around.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good for you!</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context>S he gives him a HUG and momentarily grabs his ass. With a farewell nod to Miranda, she leaves. Miranda turns, smiles at Fletcher, then shuts the door. She moves in on him.</context>
+      <utterance>Thank you, Mr. Reid. I ' m so grateful I have an attorney I can trust.</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're good. You're really good.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, pshaw.  She picks a piece of lint off.his jacket.</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>N o, I mean it. The Cole case is worth a truckload of money to this firm, not to mention the press it's going to g en er at e . You win this case and I guarantee you'll make partner.</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode>(STRAIGHTENING his tie)</mode>
+      <context></context>
+      <utterance>Actually, how would you like to make a partner right now?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>She grabs his lapels and pulls him in for a deep KISS.</context>
+      <utterance>Excuse me?</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="3">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>indicating the</utterance>
+   <speaker>CLOWN)</speaker>
+      <mode> CLOWN)</mode>
+      <context></context>
+      <utterance>What do you think?</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, if you don't hire your brother, who will?</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="8">
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They called me again from B oston. They really want me there tomorrow.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. . . I can't go to Boston.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How come?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Max.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He'll love it there.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's Fletcher.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't move Max three thousand miles away from his father.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="2">
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Audrey, I have never said a bad word about your ex --</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="9">
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But how much responsibility does Fletcher take for Max, now? He'd never come over if you didn't remind him.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know. But if they're three thousand miles apart they'll never see each other. Fletcher will never come to Boston and how can I send Max cross-country to him?</utterance>
+   <speaker>.JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So because your ex-husband is unreliable, we can't-'-</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Pause.</context>
+      <utterance>I know, it's not logical, it's emotional. I'm sorry.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I still want to marry you.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Jerry picks up the PHONE, pulls out a piece of paper, dials.</context>
+      <utterance>Are you sure?</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Crisitelli, Jerry She!ton... I hope I'm not calling too late... Mr. Crisitelli, I'm afraid I have to turn down your offer..'. So am I . . . Well, I've fallen in love with this beautiful woman in L.A. and she doesn't want to leave and I won't leave without her... Well, thank you very much... Yes, good-bye.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He wasn't there, but that's 1 the speech I would've made. She smiles and KISSES him. The PHONE RINGS. Audrey answers.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello...</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="3">
+   <speaker>A UDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher, where are you? We're getting ready to cut the cake.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Miranda bites one of Fletcher's nipples.</context>
+      <utterance>Urn, actually, something has come up. A problem on a new caaa-- .</utterance>
+   <speaker>F LET CHE R</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A-h-h-h-!</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="6">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing. I just nailed my knee into the desk... Listen, I'm really sorry I can't 'make it.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Max is going to be so disappointed.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll make it up to him, I promise. I'll pick him up from school tomorrow, okay?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Miranda starts "reeling in" the phone cord.</context>
+      <utterance>Do you want me to put him on the phone?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, no. I have to go.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="6">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Max doesn't respond.</context>
+      <utterance>All right, birthday boy, make a wish.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode>CONT'D</mode>
+      <context>When he .doesn't respond, she leans down to him..</context>
+      <utterance>C'mon, honey. It can be anything-- whatever you want most in the world.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Max, your dad is sorry. He had to work.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He said he was coming. He promised.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Max doesn't believe it.</context>
+      <utterance>Yes, well, he... promises he'll see you tomorrow.</utterance>
+   <speaker>MAX</speaker>
+      <mode>V.O.</mode>
+      <context>He takes a breath --and blows out all the candles. A strange WIND blows the drapes and the wisp of smoke up, up, up... to the clock on the wall. It's 9:15.</context>
+      <utterance>I wish, for just one day, Dad couldn't tell a lie.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="2">
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context>Without thinking, Fletcher responds in the most astonishing way possible-- he TELLS THE TRUTH.</context>
+      <utterance>S o . . . was it good for you?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Miranda turns to him in disbelief -- but it's nothing compared to the LOOK OF SHOCK on Fletcher's face.</context>
+      <utterance>I've had better.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="3">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>New in the building?</utterance>
+   <speaker>MODEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just moved in Monday.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah. Well, you must allow me to give you the grand tour.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="3">
+   <speaker>BEGGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any change, Mister?</utterance>
+   <speaker>.FLETCHER</speaker>
+      <mode></mode>
+      <context>But he continues walking.</context>
+      <utterance>Absolutely.</utterance>
+   <speaker>BEGGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could you spare some?</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="6">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher walks faster, PUZZLED that he has answered truthfully. The beggar is even more puzzled.</context>
+      <utterance>Unquestionably.</utterance>
+   <speaker>BEGGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>BEGGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How come?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>As Fletcher heads up the stairs...</context>
+      <utterance>Because I resent your p re sen ce. You fill me with an unpleasant mixture of disgust and guilt. Further, I don't believe you'll use the money for food, but I believe you'll use it for, at worst, drugs, or, at best, whiskey, or . cigarettes. Also, I'm cheap.</utterance>
+   <speaker>BEGGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jerkoff.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="4">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You look like you're having a rough morning.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>He WINCES as he recognizes the words. Then, an extremely wealthy, respectable industrialist, RICHARD COLE enters with his attorney, DANA APPLETON, young, brisk, confident.</context>
+      <utterance>I've had better.</utterance>
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good morning, Fletcher.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dana. "</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="7">
+   <speaker>RICHARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, Virginia, how much will it take to put an end to this?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Richard is SHOCKED.</context>
+      <utterance>Fifty per cent of your estate.</utterance>
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context>What's your case?</context>
+      <utterance>Fifty per cent? With a pre- nup and proof of adultery?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher opens his mouth to enlighten her -- but he CAN'T GET THE WORDS OUT. He tries to FORCE OUT SOUNDS, but succeeds only in looking like a fish gasping on dry land.</context>
+      <utterance>Our case is simply this. . .</utterance>
+   <speaker>FLETCHER   ..</speaker>
+      <mode></mode>
+      <context>But when Dana tries to take the document, the astonished Fletcher finds himself PHYSICALLY UNABLE TO RELEASE IT.</context>
+      <utterance>Wa it! Wait! I've got it in writing!</utterance>
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let go!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm trying!</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="9">
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Calling case BA 09395, Richard Cole versus Virginia Cole. How're we doing this morning, counsel?</utterance>
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine, thank you.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you, Mr. Reid?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher screeches to a standstill, suddenly aware of what he just said. After an awkward silence--</context>
+      <utterance>Well, I'm a little upset about a bad sexual episode I had last night--</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode>DRYLY</mode>
+      <context></context>
+      <utterance>Well, you're still young. It'll happen more and more. In the meantime, what do you say we get. down to business? First, Mr. Reid, I see that your client was previously represented by Mr. Rand of your office.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, Your Honor.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I take it you're seeking to substitute in as counsel?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, Your Honor.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine , fine. And for the record, the reason is?</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="8">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher is incredulous. Somehow his greatest asset in the world, his mouth, has become his worst enemy.</context>
+      <utterance>Mr. Rand had severe ethical objections to my client's case.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context>Reid?</context>
+      <utterance>I take it you don't share the same ethical objections, Mr.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have lower standards, Your Honor.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context>Virginia looks to the judge, then to Fletcher, whose unorthodox syle seemed so brilliant earlier.</context>
+      <utterance>I see. Well, if Mrs. Cole wants the substitution of counsel, I'll allow it. Is that what you want, Mrs. Cole?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode>UNSURE</mode>
+      <context></context>
+      <utterance>Yes?</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine.</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>aside, to</utterance>
+   <speaker>FLETCHER)</speaker>
+      <mode> FLETCHER)</mode>
+      <context></context>
+      <utterance>What are you doing?</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="2">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I realize that, Your Honor, but I ' d really, really, really like a continuance.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll have to hear good cause, counselor. What's the problem?</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="2">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't lie!</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode>IMPATIENT</mode>
+      <context></context>
+      <utterance>Commendable, Mr. Reid, but I'm still waiting for the good caus e. Now, do you have it or . not?</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="2">
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Motion for a continuance denied. Is there any chance of a settlement in this case?</utterance>
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think so, Your Honor. Mr. Reid made it abundantly clear that the last thing in the world he wanted was to --</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="16">
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Honor, under the terms of the prenuptual agreement, if Mrs. Cole commits adultery, she is entitled to nothing. We have in our possession an audiotape made by a licensed private investigator of an explicit act of sexual congress with a man who is not her husband.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context>Reid.</context>
+      <utterance>Sounds pretty damning, Mr.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It certainly does.</utterance>
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>However, my client has no desire to see his ex-wife destitute. Against my advice, he's willing to offer her a cash settlement of.two point four million dollars.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two four seems like a pretty fair offer, Mr. Reid.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Dana fumes. The judge finds Fletcher's boldness refreshing.</context>
+      <utterance>Fantastically fair. Phenominally fair. In fact, I'd say beyond fair, bordering on stupid.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you suggesting, Mr. Rei d? That Ms. Appleton's willingness to proffer such an offer betrays a lack of faith in her position?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, not at all. She's got my client dead to rights. When</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>attorneys go to sleep at night, they dream of having a case as strong as hers.</utterance>
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context>She brandishes the audiotape.</context>
+      <utterance>Can the sarcasm, Reid. All right, I admit it -- I've seen you make even the lamest case fly. But this time I have you. Even Clarence Darrow couldn't explain this away.</utterance>
+   <speaker>JUDGE SAMIOAN</speaker>
+      <mode></mode>
+      <context>How's you client's story?</context>
+      <utterance>Wel l, Mr. Reid? without a dynamite explanation, I'd say you're dead in the water.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The best that money can buy, Y o u r Honor. </utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Strong corroborating evidence?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Despite herself, Dana is beginning to look worried.</context>
+      <utterance>We have evidence that you are not going to-believe.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're pretty confident how this trial is going to come out, eh, Mr. Reid?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher is referring to himself, of course, but Dana thinks he's speaking about her. She buckles.</context>
+      <utterance>. "Confident" is too weak a word, Your Honor. I am certain what will happen if I take this puppy to trial. The verdict will be a stunning, humiliating defeat that will cut a spectacularly promising legal career off at the knees.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="3">
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context>(venomous, to</context>
+      <utterance>All right! Double the offer! Four point eight! And not a penny more.</utterance>
+   <speaker>FLETCHER)</speaker>
+      <mode></mode>
+      <context>She storms out, leaving an astounded Fletcher behind.</context>
+      <utterance>Bastard!</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are some negotiator, Mr. Reid. If your client has half a brain, she'll jump at the offer.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="2">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No!</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We are --</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="2">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No? ! Mrs. Cole, this offer was a miracle. I'm talking about a walking-on-water, Lazarus-rising-from-the-dead,</utterance>
+   <speaker>WATCH)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>four minutes. Think of it this way -- now you're getting paid seven hundred thou per schtupp!</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="2">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Reid, you convinced me yesterday -- I'm the victim here, starved for affection, driven into the arms of another man--</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seven! </utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="4">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Seven other men. With the story you came up with, I don't think I can lose. I want to proceed.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>But before Fletcher can finish, the judge enters.</context>
+      <utterance>Mrs. Cole, you don't . understand, I--</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context>Fletcher looks pleadingly at his client, but she is firm. He shakes his head unhappily. The judge is irritated.</context>
+      <utterance>Well , Mr. Reid. Do we have a settlement?</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode>CONT'D</mode>
+      <context>He BANGS the gavel. Fletcher emits an involuntary whimper.</context>
+      <utterance>Th ere' s no settlement. Trial to start at one-thirty sharp.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="5">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think?</utterance>
+   <speaker>FLETCHER .</speaker>
+      <mode></mode>
+      <context>HORRIFI ED, Fletcher hurries on. The heavyset Thomas ambulates in his way.  - </context>
+      <utterance>I think you need help.</utterance>
+   <speaker>THOMAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's shakin', Fletcher?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>The now panicked Fletcher breaks into a run, passing Fred.</context>
+      <utterance>Your cellulite, Tubster.</utterance>
+   <speaker>FRED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hiy a, Fletcher. How's the Cole case going?</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="6">
+   <speaker>FL ET CH ER</speaker>
+      <mode></mode>
+      <context>He holds up a BLUE PEN.</context>
+      <utterance>A test. . . Something small... Aha!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Red. Red. All right. Focus,</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>(with great DELIBERATION)</mode>
+      <context>(burying his</context>
+      <utterance>The color of this pen is  r--. R--. R--! The color of this pen is--blue! AAAAHH!</utterance>
+   <speaker>HEAD)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ahhhh! One' tiny lie and I can't say it!!</utterance>
+   <speaker>HEAD)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>suddenly sitting</utterance>
+   <speaker>UP)</speaker>
+      <mode> UP)</mode>
+      <context>He takes a sheet of PAPER, his pen and writes "This pen i s . . . " He tries to write an "R" but can't. He STRAINS. S TR AIN S HARDER. He's out of his chair, on the desk. His feet KICK OVER OBJECTS on the shelves'behind him. He finally forces pen to paper. He looks down where he wrote</context>
+      <utterance>' I'll write.it!</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="2">
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boss, what's wrong?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>b l u e ! ! The GODDAMN PEN IS</context>
+      <utterance>. The pen is blue!! The pen is .</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="5">
+   <speaker>FLETCHER</speaker>
+      <mode>BITTER</mode>
+      <context></context>
+      <utterance>Oh, that's easy for you to say?!</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you all right?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have to go home.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Home? Was the case settled?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I have to be in court at one-thirty.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="9">
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, then how can you.go home?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, I don't know!!!</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context>(walking on</context>
+      <utterance>Okay.</utterance>
+   <speaker>EGGSHELLS)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Before I forget -- Rubin and Dun n called. They want to know where the Darvis settlement offer stands.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Not certain why her boss would .shoot himself in the foot, Greta nonetheless jots down his remarks.</context>
+      <utterance>I only proposed a settlement t o dick with them. I never had any intention of going th ro ug h with it. .</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'...dick with them." Okay. Your accountant, Philip, called to remind you about getting together. .</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd rather shave my ass and sit in vinegar..</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>jotting down a</utterance>
+   <speaker>NOTE)</speaker>
+      <mode> NOTE)</mode>
+      <context></context>
+      <utterance>Got it. And your mother called again. Are you still on vacation?</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="3">
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ' m having a little trouble following you. what do I say to your mom?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>RESIGNED</mode>
+      <context></context>
+      <utterance>Tell her I'm a thoughtless son who'd rather spend ten hours clogging the wheels of justice than five minutes talking to her-- but only if she asks. You.might also add that she deserves better, though I hope to God you don't.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks for clearing that up. And that's it, except your ex called and asked when you were cowing over to see your son.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="2">
+   <speaker>AUDREY'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Fletcher. T was wondering if you were going to still pick up Max after school today.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think I can. I had a case I was certain would settle and it didn't. I have to go to trial this afternoon, God help me.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="7">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>not believing</utterance>
+   <speaker>HIM)</speaker>
+      <mode> HIM)</mode>
+      <context></context>
+      <utterance>Right.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher considers what he just said, realizes it is true.</context>
+      <utterance>It's true... I really do want to see Max, today.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>How about that. I really do.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode>CYNICALLY</mode>
+      <context></context>
+      <utterance>But things keep coming up at the last minute.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, but-this time it's different.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see. And how is that?</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="10">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>he walked into</utterance>
+   <speaker>IT)</speaker>
+      <mode> IT)</mode>
+      <context></context>
+      <utterance>This time I'm telling the truth.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But last night you weren't?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What were you doing?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Having sex.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>, It must have been with someone very "special."</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. It was with someone I don't even like. But I thought it would help my career and at the moment that</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>seemed more important than attending my son's birthday!</utterance>
+   <speaker>A U D R EY</speaker>
+      <mode></mode>
+      <context>She SLAMS DOWN the phone.</context>
+      <utterance>M y God!!</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="6">
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is dad picking me up?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Max is disappointed.</context>
+      <utterance>No, I'm sorry, Max. He can't make it. I will. I'll work it out.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess my wish didn't come  true.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What wish?</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context>Max heads toward his teacher. Audrey is deeply moved.</context>
+      <utterance>I wished that, for just one day, Dad couldn't tell a lie.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Answer, answer, answer...</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="13">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Something has happened to me--</context>
+      <utterance>Audrey, let me explain.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher, something else is about to happen to you.</utterance>
+   <speaker>FLETCHER.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Max and I are moving to Boston.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jerry asked me to marry him. He wants Max and I to fly with him this weekend to pick out a house. And I'm going to go. God knows I don't have any reason to stay here.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. Wait, you can't move! If you take Max away... I'll practically never see him.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well then you'll have pretty much the same relationship you have with him now.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Audrey, please.... Is this because of what I just said on the phone?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was the straw and this is the camel's back saying goodbye.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heading home.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="7">
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Aaaah!</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context>Fletcher is FRIGHTENED.</context>
+      <utterance>Flet cher. Fletcher, Fletcher, Fletcher. I must confess-- after last night's incident, I was. . . hurt. So hurt. I was tempted to do whatever little things lie in my power to scuttle your chances of making partner.</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>But then I thought, "No, that 's not fair. Fletcher didn't mean to insult me."</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode>(STRAIGHTENING his tie)</mode>
+      <context>Fletcher smiles. It looks like he's off the hook, until--</context>
+      <utterance>"It was just some massive, boneheaded misunderstanding, and Fletcher is very, very sorry."</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Isn't that right, Fletcher?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh -- not really, no.</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>N o ? No?! What are you sayi ng? Have you no respect for me?!</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="3">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>None, whatsoever. I mean, I ' d like to respect you, and if it weren't for your mistreatment of the associates, your rudeness to the staff, and the fact that your work sucks, I would.</utterance>
+   <speaker>M IRANDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But -- what about last night?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was afraid you wouldn't support my partnership if I turned you down. Plus, I have an immature need for sexual conquests.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="15">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>He's so preoccupied that he speeds through a crosswalk and almost hits an OLD MAN.</context>
+      <utterance>Gotta focus. . . gotta focus.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>But he hasn't regained the ability to lie -- he's referring to the RED LIGHT he just ran, nearly colliding with a truck. The DRIVER screams:</context>
+      <utterance>The color of the pen is -- re d ! .</utterance>
+   <speaker>DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's your problem, schmuck?!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ' m an inconsiderate prick!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher once again focuses on the blue pen.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CON "ID</mode>
+      <context>This time he's referring to the flashing red light of a POLICE CAR in his rearview mirror.</context>
+      <utterance>C'mon, you can do this! The color of the pen is -- RED!</utterance>
+   <speaker>FLETC HER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>S hi t !!</utterance>
+   <speaker>FLETC HER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher pulls over. A POLICE OFFICER strolls up.</utterance>
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know why I stopped you?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Depends on how long you were following me.</utterance>
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't we take it from the top.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>  Here goes -- I didn't fasten my seatbelt, I didn't glance in my rearview mirror, I didn't signal when I pulled away from the curb, I sped, I followed too closely, I ran a stop sign, I almost hit :a Chevy Camaro, I almost hit a ge ezer, I sped some more, I failed to yield at a crosswalk, I changed lanes in the intersection, I changed lanes without signalling, and I changed lanes in the</utterance>
+   <speaker>INTERSECTION-WITHOUT</speaker>
+      <mode></mode>
+      <context>A long moment.</context>
+      <utterance>signalling while running a red light and speeding.</utterance>
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I see your driver's license?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="6">
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And why is that?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's in my other pants.</utterance>
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see. And where are your  other pants?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hanging from my boss's credenza.</utterance>
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you expect me to believe that?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="5">
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you think I'm an idiot?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes -- but that's beside the point! My license actually is in my other pants, and they actually were hanging from a credenzaJ I wouldn't lie to you! I mean, I would if I could, but I can't!</utterance>
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see. So you ..have no reason to try and hide your license from me?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't say that. I have other reasons. Seventeen reasons, to be precise.  Unpaid parking tickets.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>BESEECHINGLY</mode>
+      <context></context>
+      <utterance>Be gentle.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="6">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Audrey, wait!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait? You know, I just had an insight into myself. I ' m crazy. You call me up and . tell me to wait here because you'll be right over and -- here's the crazy part -- I actually wait.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can explain--</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>I. . . Did you come in a cab?</context>
+      <utterance>I missed a department meeting.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's your car?</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="3">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you. . I can't tell you how much this means to me.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can. One thousand, six hundred, and fifty-four dollars and eleven cents.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ow.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="3">
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You scratched my car!</utterance>
+   <speaker>TOW-YARD EMPLOYEE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where? .</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right there!</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="10">
+   <speaker>TOW-YARD EMPLOYEE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh that? That was already there.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>OUTRAGED</mode>
+      <context></context>
+      <utterance>Why, you -- you liar! Do you know what I ' m going to do about this?</utterance>
+   <speaker>TOW-YARD EMPLOYEE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>angrier and</utterance>
+   <speaker>ANGRIER)</speaker>
+      <mode> ANGRIER)</mode>
+      <context></context>
+      <utterance>...Nothing! Because if I take you to small-claims court, it will just drain eight hours out of my life, and you probably won't show up, and if I finally got the judgment you'd just stiff me anyway, so what I'm gonna do is piss and moan like an impotent jerk and . then bend over and take it up the tail pipe!</utterance>
+   <speaker>TOW-YARD EMPLOYEE</speaker>
+      <mode></mode>
+      <context>He flips Fletcher the keys and goes.</context>
+      <utterance>You've been here before, haven't you?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>She starts out.</context>
+      <utterance>Well I can't remember when I've had more fun, now if you'll excuse me, I have a class.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Audrey, wait. I want to talk to you about this Boston situation.</utterance>
+   <speaker>. AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want to say?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't go. It's not fair. Taking Max three thousand miles away is not fair.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="6">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let' s define "fair." Last  night a five-year old boy was crushed because his father lied to him about coming to his birthday party. Fair?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Last night--</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Was none of my business. When it happened two years ago it was my business, but now I don't have to care anymore. See, that's the magic of div orce . But it does matter to Max. Everything you do matters to him... and everything you don't do.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Audrey doesn't know what to say. Fletcher seems very sincere, but she can't trust him.</context>
+      <utterance>All right-- now let me tell you something...you're absolutely right. I'm guilty of all charges. I'm throwing myself on the mercy of your -court.</utterance>
+   <speaker>FLETCHER {CONT'D)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have an idea. I'll come over tonight, right after court lets out and play with M ax. Have him invite some fri ends over. We'll have a game and everything. Then, you and I can sit down and talk.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're suppose to be on a plane</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="2">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Audrey. Just talk to me abou t this first. Please. Au drey, I've lost you. Don't make me lose Max, too.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're really coming?</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="3">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>What time?</context>
+      <utterance>This is iron-clad. This is the mother of all promises.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Six?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ten-to-six.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="4">
+   <speaker>FLETCHER.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will be there.</utterance>
+   <speaker>FLETCHER.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As Audrey gets in her car -- .</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>She drives away. Fletcher starts for his car, pensive, when a new thought strikes him.</context>
+      <utterance>I hope so. Do you know what your son was doing at nine- fif teen las t ni ght? He was making a wish on his birthday c ake. He was wishing that, for just one day, his dad couldn't tell a lie.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God! That-'s it! An innocent kid - - a heartfelt plea-- a birthday wish! Sure, it' s impossible --but it 'makes sense!..! If he can wish it, he can unwish it!</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="2">
+   <speaker>MS . BERRY</speaker>
+      <mode></mode>
+      <context>Berry, Max's teacher!</context>
+      <utterance>Are you Max's dad? I ' m Ms.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi. Listen, I need to talk to</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="8">
+   <speaker>MS. BERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Reid, we were just talking ab ou t careers. You're a lawyer, aren't you?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>WARY</mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Reid it'would be wonderful for the children to hear something positive about lawyers!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, actually-- </utterance>
+   <speaker>MS. BERRY</speaker>
+      <mode></mode>
+      <context>She leads the kids in APPLAUSE. Fletcher takes center s tage. The children stare, rapt with attenion.</context>
+      <utterance>Children! .Mr. Reid is going to tell us what it's like to be a lawyer.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>He starts out.</context>
+      <utterance>Uh, hi. Uh, I'm a lawyer and I work at a big law firm with a lot of other lawyers and I do stuff in a law court. Thank you.</utterance>
+   <speaker>MS. BERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One moment, Mr. Reid. Maybe some of the children have</utterance>
+   <speaker>QUESTIONS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey?</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="11">
+   <speaker>JEFF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What kind of lawyer are you?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mostly, I ' m a divorce lawyer.</utterance>
+   <speaker>BILLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It means if you're daddy left your mommy, he'd call me.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what do you do?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I help people fight over their money and their children.</utterance>
+   <speaker>THEODORE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't they fight without you?</utterance>
+   <speaker>FLETCHER ' "</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They could but then J wouldn't make a living.</utterance>
+   <speaker>JILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why would my daddy leave my mommy?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>The kids EYES GO WIDE. A moment, then:</context>
+      <utterance>To marry a younger woman. To escape a loveless marriage and have cheap meaningless sex. To cling to an illusion of youth as his body gives way to sore backs, flat feet, spare tires, gum disease, hair loss, liver spots, kidney stones, clogged arteries, diabetes, goiter and eventual death.</utterance>
+   <speaker>MS. BERRY</speaker>
+      <mode>BRIGHTLY</mode>
+      <context></context>
+      <utterance>Well, I think it's time for fingerpainting.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="8">
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dadzilla. You came to play catch?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Max is disappointed again.</context>
+      <utterance>No. I ' d like to, but I can't right now.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I ' m sorry I missed your party la st night. How was your Uncle Glen?</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stupid. His big nose and stupid orange hair...</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher elbows Max, playfully, trying to induce a laugh. Max doesn't laugh.</context>
+      <utterance>That's why he should have worn make-up.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Max is amazed.</context>
+      <utterance>Yeah, okay, urn... Your mother told me about... the wish you made last night. It came true.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really? You mean you have to tell the truth?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="2">
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No matter what?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No matter what.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="14">
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is wrestling real?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Channel 23, no.</context>
+      <utterance>In the Olympics, yes. On .</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will sitting close to the TV set make me go blind?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not in a million years.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I keep making this face--</utterance>
+   <speaker>MAX</speaker>
+      <mode>(makes a horrible FACE)</mode>
+      <context></context>
+      <utterance>will it get stuck that way?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh-uh.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>.If I go in the water right after lunch, will I drown?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Only if you can't 'swim.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do I have to eat squash?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because your mom buys it.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context>The sudden shift in tone startles Fletcher. He feels awful.</context>
+      <utterance>How come you're always too busy to play with me?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I . . . I don't know. I ' m . . . Hey, you know I'm coming over to nig ht. We're gonna play together.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Baseball?</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="13">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher and Max do their ritual "five" slap.</context>
+      <utterance>. Yes! This is absolutely an A-number one promise. You and I -- tonight -- baseball.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now, listen, Max, I need a favor from you. I ' m in a little trouble today. I need you to take that wish back.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you can lie?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not to you.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To who?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Max nods.</context>
+      <utterance>Max, sometimes grownups... need to lie. It's hard to explain, but i f . . . Look, here's an example. When Mommy was pregnant with you, she gained a little weight. Se venty pounds. I thought she was gonna give birth to a car. But she'd say to me "How do I lo ok?" So I'd say, "Oh, honey, you're beautiful, you're glowing.11 Otherwise, I would've hurt Mommy's fee ling s. Understand?</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't think she was beautiful.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Max shakes his head "no."</context>
+      <utterance>Right. No... Max, I don't know how to get along in the grown-up world if I have to stick to the truth. I could lose my case, I could lose my promotion, I could even lose, my job... Do you understand?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context>A moment -- then Max reluctantly nods.</context>
+      <utterance>Will you help me anyway?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Fletcher opens the box, revealing a cake and candles.... He takes out two birthday hats. He puts one on Max and one on himself.</context>
+      <utterance>That's my boy!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Not really happy, Max turns to the candles on the cake. He takes a breath-- and blows them out.</context>
+      <utterance>Now, do whatever you did last night... only this time, make an un-wish.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did it. ^</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great! Great! Now to test --</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="6">
+   <speaker>SLAPS HIM.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher returns to his son.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did it work?</utterance>
+   <speaker>CHEEK)</speaker>
+      <mode></mode>
+      <context>Max nods.</context>
+      <utterance>Not like I ' d hoped. Did you really unwish it?</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Only...</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Only what?</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yesterday, when I wished it, I r ea lly meant it. This time when I unwished it I only did it 'cause you told me to.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="5">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, then do it again. Only this time, mean it.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?!</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I don't want you to lie.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I explained this to you! I have to lie. Everybody lies! Mommy lies, even the wonderful Jerry lies--</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="5">
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you're the only one who makes me feel bad.</utterance>
+   <speaker>MS. BERRY</speaker>
+      <mode>CALLING</mode>
+      <context></context>
+      <utterance>Max, recess 'is over, come on in.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have to go.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Max hesitates, then nods.</context>
+      <utterance>I am coming over, tonight, Max. You believe me, don't you?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Max heads back to class. Fletcher picks up the cake, looks at it, then dumps it in a trash barrel.</context>
+      <utterance>I'll see you tonight, buddy... That's a promise.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="6">
+   <speaker>MACHO ATTORNEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, Fletcher! How's it hanging?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher hurries up the steps when he spots Philip. He shields his face with his briefcase. Philip recognizes him anyway.</context>
+      <utterance>Short and shrivelled.</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher! I'm still waiting for your call. I guess you must've lost my card --</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No --</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or my phone was busy --</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No --</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="6">
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or you just forgot --</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No --</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>cannot be</utterance>
+   <speaker>DISCOURAGED)</speaker>
+      <mode> DISCOURAGED)</mode>
+      <context>Philip starts off, when Fletcher calls after him resolutely.</context>
+      <utterance>Or something. So anyway,' why don't you swing by my place around seven-thirty!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>A long moment, then --</context>
+      <utterance>Philip... I don't want to come over to your house!</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context>And he runs off. Frustrated, Fletcher hurries on.</context>
+      <utterance>Fi n e ! We'll go out! There's this new karaoke bar I've been dying to try. I'll pick you up at your office! Seven- thirty! !</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="2">
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you want your messages?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>He goes into his office. Greta is concerned. She follows him in, leaving his door open.</context>
+      <utterance>No.</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="11">
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you okay?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My son hates me.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! He loves you. I've seen y ou together. You're his hero.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>O h yeah? Last night at his birthday party, he made a wish. That I wouldn't be able to tell a lie for one whole day.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kids...</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It came true.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's true. Didn't it seem odd to you that I kept telling the truth all morning?</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, yeah, but...</utterance>
+   <speaker>GRETA</speaker>
+      <mode>INCREDULOUS</mode>
+      <context></context>
+      <utterance>You're telling me that you can't lie.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right! I am incapable of lying.</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="9">
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just today?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>It's a twenty-four hour curse.</context>
+      <utterance>Apparently until 9:15 tonight.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, those are going around.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't believe me.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course not.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>She thinks.</context>
+      <utterance>Go ahead. Ask me something I ' d normally lie about.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A ll right. Remember a few months ago, I wanted a raise--</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>QUICKLY</mode>
+      <context></context>
+      <utterance>Forget it. Let's not do this.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- and the firm wouldn't.give me one. And I asked you if you would give it to me out of your own pocket and you said the company wouldn't permit it because it creates jealousy among the other secretaries? Was that true or did you just not want to pony up the dough?</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="11">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>He wants to say "yes", but he can't.</context>
+      <utterance>Greta, please...  Yes Judge Stevens, hi!.. Fletcher Reid. I ' m scheduled to be in your court in half- an-hour... Judge Stevens, I badly, badly need a continuance. . . so I can go home and stay there the rest of the day...111? Am I ill?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>(covers the</context>
+      <utterance>In a way.</utterance>
+   <speaker>MOUTHPIECE)</speaker>
+      <mode></mode>
+      <context>Greta holds up a framed photograph.</context>
+      <utterance>Please, lie to him for me.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I remember when you. bought me t hi s silver frame. From Tiffany's.</utterance>
+   <speaker>GRETA</speaker>
+      <mode>QUESTIONING</mode>
+      <context></context>
+      <utterance>. . . Tiffany's?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>She thrpws it in the trash and keeps packing.</context>
+      <utterance>Jumbo's House of Junk.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I'll give you the raise!</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>gives him the</utterance>
+   <speaker>FINGER)</speaker>
+      <mode> FINGER)</mode>
+      <context></context>
+      <utterance>Here's your raise.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>The PHONE RINGS.</context>
+      <utterance>Hi, Judge Stevens?... Yes, I know I haven't given you a reason.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>But if you could just do this for me, I-- The phone won't stop ringing. .'</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="7">
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context>He falls to his knees.</context>
+      <utterance>Oh dammit! I cut him off! I cut off the Judge! Greta...</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context>Greta stops. She seems to consider.</context>
+      <utterance>I'm on my knees in a nine hundred dollar suit. Don't leave.</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A few years ago a friend of mine had a burglar up on her roof.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. . . but what' s your poijit!</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My point is, it's hard to get justice. But this is justice,</utterance>
+   <speaker>GRETA</speaker>
+      <mode>(pinches his CHEEK)</mode>
+      <context></context>
+      <utterance>Have a nice day in court, bubbie. She leaves. Fletcher starts to give chase...</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="7">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Miranda smiles like a cat that's trapped a mouse.</context>
+      <utterance>Aaaah!</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, Fletcher, so nice to bump i nto you. Are you busy?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Extremely.</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context>Highly nervous, Fletcher follows Miranda down the hall.</context>
+      <utterance>Good. Would you follow me, please?</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode>CONT'D</mode>
+      <context>(off his wary</context>
+      <utterance>Fletcher, did you know that the partnership committee is being headed up by Mr. Allan himself?</utterance>
+   <speaker>NOD)</speaker>
+      <mode></mode>
+      <context>(off his waried</context>
+      <utterance>Say, you used to work directly for Mr. Allan, didn't you?</utterance>
+   <speaker>NOD)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me, what do you think of him?</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="2">
+   <speaker>FLETCHER</speaker>
+      <mode>HELPLESS</mode>
+      <context></context>
+      <utterance>He's a pedantic, pontificating, pretentious bastard, a belligerent old fart, a worthless, steaming pile of cow dung.</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode>GRINNING</mode>
+      <context>She swings open a door, ushering Fletcher into --</context>
+      <utterance>How delightful!</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="4">
+   <speaker>MR. ALLAN</speaker>
+      <mode></mode>
+      <context>An involuntary WHIMPER from Fletcher.</context>
+      <utterance>It's good to see you again, Fletcher. '.</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context>Fl etc he r gulps. This is it. His career is history. He's trying to hold it back, but--</context>
+      <utterance>Oh, that's right. You used to work together. .Tell me, what do you think of Mr. Allah?</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said... What do you think of Mr. Allan?</utterance>
+   <speaker>FLETCHER     .</speaker>
+      <mode></mode>
+      <context>DE AN SILENCE. Then --Mr. Allan bursts into raucous LAUGHTER. He is joined by everyone except Miranda, who looks on, STUNNED. Everyone pounds the table in hysterics.</context>
+      <utterance>He's a pedantic, pontificating, pretentious bastard, a belligerent old fart, a worthless, steaming pile of cow dung.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="3">
+   <speaker>MR. ALLAN</speaker>
+      <mode></mode>
+      <context>Miranda is incensed.</context>
+      <utterance>Marvelous! Marvelous! That's what I love most about this firm-- the collegial atmosphere, the hearty good- fellowship!</utterance>
+   <speaker>MR. ALLAN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>And thanks for those flowers for my anniversary. My wife loved them.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I'm due in court... bye- bye.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="7">
+   <speaker>BAILIFF</speaker>
+      <mode></mode>
+      <context>They do. Judge Stevens enters. He sits. Everyone sits.</context>
+      <utterance>All rise.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Counselors, are we ready to begin?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>eagerly and a little too</utterance>
+   <speaker>LOUDLY)</speaker>
+      <mode> LOUDLY)</mode>
+      <context>The doors OPEN and Virginia Cole enters with her CHILDREN and a NANNY.</context>
+      <utterance>N o sir! We are not ready to b eg in. My client has not arrived.</utterance>
+   <speaker>DETERMINATION)</speaker>
+      <mode> DETERMINATION)</mode>
+      <context>He begins to hyperventilate. Virginia turns to Falk.</context>
+      <utterance>Did you and Mrs. Cole ever make lo-- forni-- roll in the h-- make the beast with two ba -- Did you two ever fu-- fu-- Fu!</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context>Falk hurries into the building as Fletcher hacks on.</context>
+      <utterance>Wate r! Get him water!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fu-- fu--</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="3">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context>(slaps him on the</context>
+      <utterance>S it down! Get some air!</utterance>
+   <speaker>BACK)</speaker>
+      <mode></mode>
+      <context>Falk hurries out with a cup, hands it to Fletcher, who downs it in one gulp -- then spews it out again, SCREAMING in PAIN. -</context>
+      <utterance>Try to relax! Breathe deeply!</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>W hat?! What?!</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="2">
+   <speaker>FALK</speaker>
+      <mode></mode>
+      <context>Fletcher runs up and down the steps, frantically fanning h is scalded mouth. The bailiff appears.</context>
+      <utterance>I couldn't find any water, so I got him coffee!</utterance>
+   <speaker>BAILIFF</speaker>
+      <mode></mode>
+      <context>Fletcher's expression turns to terror.</context>
+      <utterance>Judge is taking the bench.</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="4">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>by way of</utterance>
+   <speaker>EXPLANATION)</speaker>
+      <mode> EXPLANATION)</mode>
+      <context></context>
+      <utterance>Sympathy.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>The judge BANGS the gavel.</context>
+      <utterance>Well, it's working. I feel sorry for them already.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ms. Appleton, you may begin.</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="2">
+   <speaker>BRYSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>referring to his</utterance>
+   <speaker>NOTES)</speaker>
+      <mode> NOTES)</mode>
+      <context>He shows a photo - - o f a strapping hunk. Fletcher TAKES A</context>
+      <utterance>-- From March six through June twelve, I surveilled Mrs. Cole at the behest of Mr. Cole. During that period, I noted that Mr. Cole left each day between seven-forty and seven- fifty. Thereafter, Mrs. Cole would frequently have a male visitor arrive and stay for one to four hours. I was able to take several photographs of the male visitor.</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="9">
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see. And do you .know what Mrs. Cole and her male visitor</utterance>
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context>visits?</context>
+      <utterance>did during their frequent...</utterance>
+   <speaker>BRYSON</speaker>
+      <mode></mode>
+      <context>H e hands her the tape. Fletcher refills his glass.</context>
+      <utterance>Well, they were pretty good about keeping the shades drawn -- but I sure was able to hear. I made an audiotape of one such., "session."</utterance>
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With the Court's permission, I would like to play the tape.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Honor, I object!</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And why is that, Mr. Reid?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>can't help</utterance>
+   <speaker>HIMSELF)</speaker>
+      <mode> HIMSELF)</mode>
+      <context>The judge is startled by his candor.</context>
+      <utterance>Because it's devastating to my case.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context>As Dana pops the tape into a player, Fletcher anxiously</context>
+      <utterance>Overruled..</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="16">
+   <speaker>MALE VISITOR</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>So , what did you say? You ready?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Oh boy am I ready.</utterance>
+   <speaker>MALE VISITOR</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Good. Let me help you off with that. Come on, lie down.</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Wai t a minute. Do you have protection?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode> O . S . </mode>
+      <context></context>
+      <utterance>Right here. Okay, now I ' m gonna show you something new.</utterance>
+   <speaker>MALE VISITOR</speaker>
+      <mode>O.S.</mode>
+      <context>WE HEAR labored rhythmic breathing.</context>
+      <utterance>Don't worry, you can take it. Oh yeah. That's it. There you go. Yes! Yes!</utterance>
+   <speaker>MALE VISITOR</speaker>
+      <mode>O.S - CONT'D</mode>
+      <context>As Dana fast-forwards again, then resumes... with still more labored breathing, building intensity and --</context>
+      <utterance>Yes, yes, yes --</utterance>
+   <speaker>MALE VISITOR</speaker>
+      <mode>O.S. - CONT'D</mode>
+      <context></context>
+      <utterance>Oh yeah, bring it on .home -- yes! Yes! Yes!</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode>O.S.</mode>
+      <context>The groans reach their incredible climax. There's a still moment. . . As the shy COURT REPORTER, the macho BAILIFFS and the no- nonsense judge all mop their brows, Dana shuts off the tape. She turns to Fletcher with a satisfied smile.</context>
+      <utterance>Yes! YES! YES!</utterance>
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your witness.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No questions.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No questions? .</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No questions?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>afraid to ask</utterance>
+   <speaker>ANY)</speaker>
+      <mode> ANY)</mode>
+      <context></context>
+      <utterance>No questions.</utterance>
+   <speaker>DANA</speaker>
+      <mode>TRIUMPHANT</mode>
+      <context></context>
+      <utterance>Petitioner rests.</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="6">
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, Mr. Reid. You may proceed.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Gathering his courage, he stands, downs the last of his water, and moves to the lecturn. He's about to speak... when a WONDERFUL FEELING sweeps through him. After a momement, he grins.</context>
+      <utterance>How?!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Would the Court be willing to grant me a short bathroom break?</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It can't wait?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not unless you want to mop up.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode>FRUSTRATED</mode>
+      <context>Fletcher beams. Then necessity compels him to race out.</context>
+      <utterance>All right, but get back in here immediately so .we can finish this.</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="3">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>He HITS HIS FOREHEAD in frustration... and gets an idea. He HITS HIMSELF AGAIN and AGAIN, SMASHES HIS HEAD INTO THE WALL, POKES HIMSELF IN THE EYES, YANKS ON HIS EARS, finally KNOCKS HIMSELF IN THE STALL, where he continues his attack. A MAN enters, hears a commotion from behind the stall door.</context>
+      <utterance>What did I think? That I could piss for forty-five minutes?!</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on in-there?</utterance>
+   <speaker>MAN</speaker>
+      <mode>O . S . </mode>
+      <context>The man looks disgusted. He carefully leaves the room.</context>
+      <utterance>I ' m abusing myself! Do you mind?!</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="4">
+   <speaker>BAILIFF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I found him like this in the bathroom. Somebody beat the hell out of him.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who did this?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>TRUTHFULLY</mode>
+      <context></context>
+      <utterance>A madman, Your Honor.. A desperate fool at the end of his pitiful.rope.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-What did he look like?</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="6">
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context>A HUBBUB rises. He bangs the gavel.</context>
+      <utterance>Bailiff, have the deputies search the building.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode>CONT'D</mode>
+      <context>Fletcher smiles serenly -- until --</context>
+      <utterance>Under the circumstances, I have no choice but to recess this case until tomorrow morning at nine.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode>CONT'D</mode>
+      <context>Fletcher covers his mouth in a desperate attempt to avoid answering, but he can't repress the truth.</context>
+      <utterance>-- Unless, of course, you think you can still proceed?</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Can you?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I can.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context>Fletcher looks as if he has just been sentenced to death.</context>
+      <utterance>Splendid. I admire your courage, Mr. Reid. I'll give you a few minutes to compose yourself, and then we'll get started.</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="5">
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad...</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>summoning up</utterance>
+   <speaker>ENTHUSIASM)</speaker>
+      <mode> ENTHUSIASM)</mode>
+      <context></context>
+      <utterance>Maxi-pad. How's it going?</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great. You know Paul and Emanuel from across the street?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The twins.</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="4">
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh boy. We're setting up a whole field in the yard. Where we buried Petey the hamster is second base.  You're still coming right?'</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>sees Virginia</utterance>
+   <speaker>APPROACHING)</speaker>
+      <mode> APPROACHING)</mode>
+      <context>Max hangs up.</context>
+      <utterance>I'11 be there. I gotta go now, Max. I'll see you in two hours.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context>She smiles, but she's worried. .</context>
+      <utterance>He's really coming.</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="6">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Reid, you remember Laurence Falk, the man from the tape.</utterance>
+   <speaker>FALK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How are you?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Virginia exchanges an anxious look with Falk.</context>
+      <utterance>I've slipped into the seventh circle of Hell, thank you, and you?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shouldn't we go over our testimony?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, basically the plan is I walk you through the tape step by step, I ask you questions--</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And we give the explanation you came up with.</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="3">
+   <speaker>FALK</speaker>
+      <mode></mode>
+      <context>Sounds simple enough.</context>
+      <utterance>So all we have to do is lie.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>But Fletcher GAGS. He CAN'T GET THE QUESTION OUT. The others look concerned, but he waves them off.</context>
+      <utterance>Do esn't it? And I'll finish up with a dramatic series of questions, something like... "Mr. Falk, isn't it true that you and Mrs. Cole have never made lo--"</utterance>
+   <speaker>FLETHCER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Sorry. I'm fine. "Mr. Falk, isn't it true that you and Mrs. Cole have never made lo--</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="3">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>At this moment Miranda and Mr. Allan come up the steps.</context>
+      <utterance>Oh my God! I can't do it! I can't finish the question if I know the answer is a lie!</utterance>
+   <speaker>MR. ALLAN</speaker>
+      <mode></mode>
+      <context>Fletcher shoots a hateful look at Miranda. She smiles.</context>
+      <utterance>Don't let me interrupt, Fletcher. I just want you to know I'll be observing this a fternoon. Miranda insisted I see you in action.</utterance>
+   <speaker>MR. ALLAN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I'm looking forward to it. Go get 'em!</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="11">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher's clears his throat. Here goes...</context>
+      <utterance>Respondent calls... Lawrence Falk.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Falk, do you know my client, Virginia Cole?</utterance>
+   <speaker>FALK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>The "not" was INVOLUNTARY. It takes everyone by surprise.</context>
+      <utterance>Isn't it true that your relationship with my client is entirely platonic, not?</utterance>
+   <speaker>FALK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I might rephrase your Honor.  Is your relationship with my client entirely patonic, not?</utterance>
+   <speaker>X\</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is your relationship with my client not entirely platonic? Is not your relationship with my client entirely platonic?</utterance>
+   <speaker>X\</speaker>
+      <mode>(thinks he's got it, beams with CONFIDENCE)</mode>
+      <context></context>
+      <utterance>Mr. Falk, is not your relationship with my client entirely platonic?</utterance>
+   <speaker>FALK</speaker>
+      <mode>CONFUSED</mode>
+      <context></context>
+      <utterance>No. I mean, yes. I think.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, is your relationship with my client not entirely platonic, or yes, is not your relationship with my client entirely platonic?</utterance>
+   <speaker>FALK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="4">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How 'bout just answering the question you think I'm asking? '</utterance>
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Honor, he's badgering the wintness!</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's hig witness!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you ever not make lo-- Did you not ever make lo--</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="16">
+   <speaker>FLETCHER</speaker>
+      <mode>WEAKLY</mode>
+      <context></context>
+      <utterance>No further questions.</utterance>
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh...no questions.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call your next witness.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>A MURMUR erupts from the crowd.</context>
+      <utterance>I have no further witnesses, your Honor.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have no further witnesses?!</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher meekly shakes his head, no.</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>whispers, to</utterance>
+   <speaker>FLETCHER)</speaker>
+      <mode> FLETCHER)</mode>
+      <context></context>
+      <utterance>What are you doing? Call me.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Reid?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call me, damn it!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Virginia GRABS HIM BY THE TIE, pulls him CLOSE to her face.</context>
+      <utterance>You don't understand. I can't lie . Until nine-sixteen tonight, I can't even.ask a question that calls for a lie!</utterance>
+   <speaker>VIRG INIA</speaker>
+      <mode></mode>
+      <context>Fletcher suddenly stops -- focused on something Virginia said.</context>
+      <utterance>L is ten , you bastard. I want m y money. I am not gonna wind up a 31 year old divorce on welfare because my scum bag attorney had a sudden attack of conscience!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thirty-one?</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context>Fletcher quickly looks at the blowup of Virginia's prenup and her passport.</context>
+      <utterance>Mr. Reid, we're not getting any younger...</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Reid you have presented virtually nothing in the way of evidence and as such I have no choice but to rule in favor of --</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="9">
+   <speaker>MR. ALLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell is he doing?</utterance>
+   <speaker>MIRANDA</speaker>
+      <mode></mode>
+      <context>The Baliff stands before the witness.</context>
+      <utterance>Kissing his career goodbye.</utterance>
+   <speaker>BALIFP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you swear to tell the truth, the whole truth and nothing but the truth, so help -you God?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context>Fletcher approaches,. CONFIDENT NOW, COCKY.</context>
+      <utterance>I do.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Cole -- may I call you Virginia?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But that would be a lie, wouldn't it?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Isn't your true name...</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="12">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, yes. But it wasn't me so I started using Virginia. Is there anything wrong with that?</utterance>
+   <speaker>F LETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your driver's license. What color are your eyes?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Blue.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tru e blue? What if I asked you to remove your contact l enses? What color would they be then?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode>RELUCTANTLY</mode>
+      <context></context>
+      <utterance>Brown.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And here it says you're a b l on de . Are you?  C'mon, Carlotta, there's a very easy way for us to check. If you don't remember, perhaps Mr. Falk will.</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Brunette.</utterance>
+   <speaker>FLETCH ER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>More like a dirty brown, isn't it?  Let's see - . - " Weight: one-o- five"? Please...</utterance>
+   <speaker>VIRGINIA .</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One-eighteen.</utterance>
+   <speaker>VIRGINIA .</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One-twenty-six. I swear!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So on this single document, you basically lied at every opportunity. I'm sure a woman as vain as you would also lie about her age. It says you were born in 1964. What's the truth? 1962? '60? How young did you try to make yourself?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode>JOYFULLY</mode>
+      <context></context>
+      <utterance>Wrong! I didn't lie to make myself younger. I made myself older. I was born in 1965!"</utterance>
+</dialogue>
+
+<dialogue id="128" n_utterances="3">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes! " lied so I could get married! So .there Mister 'I</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Reid, does this have a point?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you bet it does, your Honor!  My client lied about her age because she was only 17 when s he got married. Which makes h er a minor. And in the great state of California, NO MINOR</utterance>
+</dialogue>
+
+<dialogue id="129" n_utterances="2">
+   <speaker>DANA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>defeated, to</utterance>
+   <speaker>HERSELF)</speaker>
+      <mode> HERSELF)</mode>
+      <context></context>
+      <utterance>Prenuptual agreements.</utterance>
+</dialogue>
+
+<dialogue id="130" n_utterances="2">
+   <speaker>PRENUPTUAL AGREEMENTS! THANK</speaker>
+      <mode></mode>
+      <context>u r OSTT!</context>
+      <utterance>YOU VERY LITTLE! This contract is void!!! The fact that my client gets nailed  more often than a two-by-four is irrelevant. Standard community property applies and this woman is entitled to half of the marital assets or thirty-seven point three-nine- five million dollars!!  Yo . . . . a e . . . . T A T T T ! !</utterance>
+   <speaker>PRENUPTUAL AGREEMENTS! THANK</speaker>
+      <mode>DRAMATICALLY</mode>
+      <context></context>
+      <utterance>Nothing further, your Honor!</utterance>
+</dialogue>
+
+<dialogue id="131" n_utterances="5">
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>banging his</utterance>
+   <speaker>GAVEL)</speaker>
+      <mode> GAVEL)</mode>
+      <context>All is quiet while the Judge reviews the documents. Then:</context>
+      <utterance>Q uie t! Let me see-the license and birth certificate.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context>The courtroom ERUPTS. FLETCHER'S WON! Dana, Mr. Cole are devastated. '</context>
+      <utterance>In light of this new evidence, the court must rule in favor o f the defense. Mrs. Cole is hereby awarded half of the marital assets -or thirtyrseven million three hundred and ninety-five thousand dollars.</utterance>
+   <speaker>MR. ALLAN</speaker>
+      <mode></mode>
+      <context>Mr. Allan gives Fletcher a thumbs-up; simultaneously, Miranda gives him the finger.</context>
+      <utterance>That son of bitch pulled it off!</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>O r d e r ! Order!! Now i understand both parties have agreed to joint custody. Is that correct?</utterance>
+</dialogue>
+
+<dialogue id="132" n_utterances="10">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! I'm contesting custody.</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher freezes.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Payback. For him trying to prevent me from collecting my thirty-seven million.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was entitled to prevent you. You committed adultery.' You only won because you're a liar, remember? .</utterance>
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. You pointed out that my husband took advantage of a poor underage girl. I was the vic tim here. And now I'm going to hit him where it hurts.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But -- but -- you said he was a good father.</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context>Fletcher takes a distressed look at the children.</context>
+      <utterance>M r. Reid? Do we have an agreement on custody or not?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. .</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context>He BANGS THE GAVEL. Everyone gets up, but Fletcher's attention is drawn to a commotion between Virginia and her kids.</context>
+      <utterance>In that case, there will be a custody hearing tomorrow mor ning at nine. Court is adj ourned!</utterance>
+</dialogue>
+
+<dialogue id="133" n_utterances="2">
+   <speaker>VIRGINIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop that! We're leaving now!</utterance>
+   <speaker>CHILD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to go with Daddy.</utterance>
+</dialogue>
+
+<dialogue id="134" n_utterances="8">
+   <speaker>MR. COLE</speaker>
+      <mode></mode>
+      <context>Mr. Allan has made his way up to Fletcher.</context>
+      <utterance>Don't worry. I'll see you no matter what. I promise.</utterance>
+   <speaker>MR. ALLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>re: the</utterance>
+   <speaker>COMMOTION)</speaker>
+      <mode> COMMOTION)</mode>
+      <context>(pats Fletcher on</context>
+      <utterance>I love kids. They give you so much leverage in a case like this.</utterance>
+   <speaker>BACK)</speaker>
+      <mode></mode>
+      <context>And with that question asked, as he watches poor Mr. Cole and his kids, the truth dawns on Fletcher like a sledgehammer!</context>
+      <utterance>Congratulations, partner. how does it feel?</utterance>
+   <speaker>FLETCHER '</speaker>
+      <mode></mode>
+      <context>Wait!</context>
+      <utterance>Excuse me. Just a second.  Y our Honor? Your Honor?</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We',re adjourned, Mr. Reid.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Everyone stops, watches Fletcher.</context>
+      <utterance>Screw that!! She lies and she wins ?! What are we, nuts?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>T his woman --my client -- goes down with the frequency of a nuclear submarine and we just gave her thirty seven million dollars because she's a liar! And now as an extra added little bonus, we're going to let her steal, the kids, too?</utterance>
+</dialogue>
+
+<dialogue id="135" n_utterances="2">
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's enough, Mr. Reid --</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-Let' s see what I' ve done today. I've helped a gold digging slut get richer. I'm taking this guy's kids away.  I don't like you in the least, now I'm one of your partners!</utterance>
+</dialogue>
+
+<dialogue id="136" n_utterances="2">
+   <speaker>GREAT 1 I</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher does feel strangely fantastic. Free,</utterance>
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's it, Mr..Reid. I find you in contempt!</utterance>
+</dialogue>
+
+<dialogue id="137" n_utterances="2">
+   <speaker>JUDGE STEVENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bailiff! Remove Mr. Reid from the courtroom!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo u wanna know the truth? Oh yeah, let's let it rain... The truth is is that I've traded my life...a beautiful wife, an incredible son for THIS PISS</utterance>
+</dialogue>
+
+<dialogue id="138" n_utterances="2">
+   <speaker>HAPPY TO SEE ME??</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher is pushed passed Mr. Allan.</utterance>
+   <speaker>MR. ALLAN</speaker>
+      <mode></mode>
+      <context>I hope you're happy.</context>
+      <utterance>You just killed your career.</utterance>
+</dialogue>
+
+<dialogue id="139" n_utterances="8">
+   <speaker>PAUL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're going home.</utterance>
+   <speaker>EMMANUEL</speaker>
+      <mode></mode>
+      <context>Emanuel knocks Max's hat off. Audrey's been watching from the door. She goes and sits by her son.</context>
+      <utterance>Yeah, thanks for the great game, Max.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Max, honey. Your dad had a very big case today. It probably just--</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to talk about it.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay.</utterance>
+   <speaker>MAX</speaker>
+      <mode>SUDDENLY</mode>
+      <context></context>
+      <utterance>I hate dad! I hate him!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Max is really upset. It's "that look" and then some. The look Audrey never wanted to see again. She makes a decision.</context>
+      <utterance>Honey, don^t say that.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Max, there's something I-want to talk to you about. . .</utterance>
+</dialogue>
+
+<dialogue id="140" n_utterances="5">
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When would we move?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Soon. My semester's almost over. You only have a week left of school... You like Jerry don't you?  So what do you say, should we check it out? Jerry wants us to come with him tonight. He has to pick out a place to live and he really wants our help?</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could I get a sled for when it snows?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Max thinks, then:</context>
+      <utterance>Of course you can.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay.</utterance>
+</dialogue>
+
+<dialogue id="141" n_utterances="6">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Audrey! It's Fletcher--</utterance>
+   <speaker>AUDREY</speaker>
+      <mode>PISSED</mode>
+      <context>We have to pack.</context>
+      <utterance>I can't talk now, Fletcher.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait, the most amazing thing's happened to me! I am feeling so good...</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>REALIZING</mode>
+      <context></context>
+      <utterance>Pack?! Did you say pack?!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Max was sitting on the porch again, waiting for his dad. I won't let you do this to him anymore. I won't let you do this to me.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A ud rey , wait. Please, I need to talk to you. I .swear, I'm a changed man. Just come to the courthouse with a thousand dollars and bail me out... Hello?  O ne more call!! I need another call!!</utterance>
+</dialogue>
+
+<dialogue id="142" n_utterances="13">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Pawn no. 332-154-9867.</context>
+      <utterance>That's me. Fletcher T. Reid.</utterance>
+   <speaker>DEPUTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You made bail. Some woman.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Audrey?  Greta?!</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Am I too late? Have you been se xu al ly molested yet? I could circle the block.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Greta! Greta!! . . . . Look at you, you well preserved, underpaid, overworked, underappreciated thing you. G iv e me a hug! You came and got me out!! Hug me!!</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>totally wierded</utterance>
+   <speaker>OUT)</speaker>
+      <mode> OUT)</mode>
+      <context>Allan so--</context>
+      <utterance>Yes, well, I heard you went all noble in front of Mr.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Y ou know what?! I love you. I loveyouloveyouloveyou. I wa nt to hug you. Come here..,</utterance>
+   <speaker>GRETA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Reid, what has gotten intc to you?!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just the truth, Greta. Fifteen years of being stuck in a lie is nowhere near as powerful as one day of being stuck in the truth.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>checks his</utterance>
+   <speaker>WATCH)</speaker>
+      <mode> WATCH)</mode>
+      <context></context>
+      <utterance>Oh, my God!! I have to go! Thanks again, Greta!</utterance>
+   <speaker>WATCH)</speaker>
+      <mode>(as he runs off he calls back to HER)</mode>
+      <context>Greta smiles, then catches herself, and quickly regains her "composure".</context>
+      <utterance>By the way, the truth is that I need you and I couldn't file a paperclip without you!</utterance>
+</dialogue>
+
+<dialogue id="143" n_utterances="2">
+   <speaker>EXT.STREETS/INT. BMW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher's driving like a madman...</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>We HEAR a RECORDED VOICE:</context>
+      <utterance>Answeransweransweranswer...</utterance>
+</dialogue>
+
+<dialogue id="144" n_utterances="2">
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The subscriber you called is either unavailable or outside the calling area.</utterance>
+   <speaker>FLE TCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit!!</utterance>
+</dialogue>
+
+<dialogue id="145" n_utterances="3">
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A little going away present. I was gonna get you a bowl of clam chowder but they only had Manhattan.</utterance>
+   <speaker>A UDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say thank you, Max.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context>Max takes off the hat his dad gave him and replaces it with the Boston hat.</context>
+      <utterance>Thanks. .</utterance>
+</dialogue>
+
+<dialogue id="146" n_utterances="10">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>(checks his</context>
+      <utterance>Shelton, Jerry Shelton. What time's that flight leave? 7:50. Thank you.</utterance>
+   <speaker>WATCH)</speaker>
+      <mode></mode>
+      <context>Fletcher spots the FLASHING LIGHTS.</context>
+      <utterance>Oh, shit! Shit!! Shit!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shiiiiit!!! He pulls over -- so quick he jumps the curb.</utterance>
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context>Fletcher obeys.</context>
+      <utterance>Would you step out of the car, please?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>The cop's just getting off his walkie talkie.</context>
+      <utterance>Listen; I know I'm driving a little crazy but i have an emergency to attend to...</utterance>
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm impounding this vehicle.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>W h y ? What for? For changing lanes?</utterance>
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just ran your tags through the computer. You've got. seventeen unpaid parking tickets.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No ! I paid them! This morning! That's the truth! I swear!!</utterance>
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not according to the computer.</utterance>
+</dialogue>
+
+<dialogue id="147" n_utterances="2">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The computer is wrong! It ' hasn't been updated. The computer's a liar!</utterance>
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can straighten it out at the impound yard.</utterance>
+</dialogue>
+
+<dialogue id="148" n_utterances="2">
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right, no! I'm not gonna lose my son because some stupid clerk was too lazy to update the computer.  Now if you want to follow me, . you can follow me and take the car after I get where I'm going. I'm a lawyer and I k now my rights! Understand?!</utterance>
+</dialogue>
+
+<dialogue id="149" n_utterances="2">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>looking .</utterance>
+   <speaker>HEAVENWARD)</speaker>
+      <mode> HEAVENWARD)</mode>
+      <context>He spots a man walking by.</context>
+      <utterance>Noooo!!!</utterance>
+</dialogue>
+
+<dialogue id="150" n_utterances="4">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>The man turns. It's the same BEGGAR Fletcher was rude to outside the courthouse.</context>
+      <utterance>'Scuse me, sir. Do you have any - -</utterance>
+   <speaker>BEGGAR</speaker>
+      <mode></mode>
+      <context>He continues walking.</context>
+      <utterance>Change? Absolutely.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could you spare some?</utterance>
+   <speaker>BEGGAR</speaker>
+      <mode></mode>
+      <context>The beggar continues on.</context>
+      <utterance>Unquestionably.</utterance>
+</dialogue>
+
+<dialogue id="151" n_utterances="4">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tw ent y. .</utterance>
+   <speaker>BEGGAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Minted in Denver. Imagine that.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>A moment as the beggar thinks, then:</context>
+      <utterance>Thirty-four. That's all I have.</utterance>
+   <speaker>BEGGAR</speaker>
+      <mode></mode>
+      <context>He walks off, grinning.</context>
+      <utterance>It's worth twice that to screw you.</utterance>
+</dialogue>
+
+<dialogue id="152" n_utterances="3">
+   <speaker>SECURITY GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa, where do you think you're going?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just need to use the phone to call a cab. I work here.</utterance>
+   <speaker>MR. ALLAN</speaker>
+      <mode>O.S.</mode>
+      <context>Mr. Allan has just exited the elevator.</context>
+      <utterance>Used to work here.</utterance>
+</dialogue>
+
+<dialogue id="153" n_utterances="3">
+   <speaker>MR. ALLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>to security</utterance>
+   <speaker>GUARD)</speaker>
+      <mode> GUARD)</mode>
+      <context>The guard starts toward Fletcher threateningly.</context>
+      <utterance>Son, that man is tresspassing.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold it!  I've got ten years worth of dirt on you and this firm, and I'm in the kind of mood today to get a lot off my chest. You let me use the phone or I start talking!!</utterance>
+</dialogue>
+
+<dialogue id="154" n_utterances="3">
+   <speaker>MR. ALLAN</speaker>
+      <mode></mode>
+      <context>He goes back inside. Fletcher starts to get up when a CAR SCREECHES to a HALT, inches away.</context>
+      <utterance>Still euphoric, Reid?</utterance>
+   <speaker>MR. ALLAN</speaker>
+      <mode> O . S . </mode>
+      <context></context>
+      <utterance>Fletcher!  It's PHILIP.</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context>Fletcher runs up and HUGS the astonished man,</context>
+      <utterance>Seven-thirty... It's Karaoke time!</utterance>
+</dialogue>
+
+<dialogue id="155" n_utterances="6">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're saving my life, Philip.</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context>Isn't that silly?</context>
+      <utterance>You know, it's funny, but for some reason I was beginning to think you didn't like me.</utterance>
+   <speaker>FLETCHER .</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. It's not silly. I don't like you.</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>A moment, then:</context>
+      <utterance>I don't like you. I'm sorry. I find you boring. I hate ch ara des . And you wouldn't know a good time if it sat on your face.  I'm sorry. It was easier than telling you how I really felt. Are you upset?</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. To be honest, I don't like you either. You treat people like obstacles and you cheat at charades. .</utterance>
+</dialogue>
+
+<dialogue id="156" n_utterances="4">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then why are you always trying to socialize with me?</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a client. I figured if I didn't try to be your friend, you'd get a new accountant.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Never!</context>
+      <utterance>Philip, I don't like you as a person, but I'm crazy about you as my accountant. I ' d never hire a new accountant.</utterance>
+   <speaker>PHILIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So we don't have to like each other anymore?</utterance>
+</dialogue>
+
+<dialogue id="157" n_utterances="2">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>At the top,- a WOMAN in a NURSES UNIFORM asks for money...</context>
+      <utterance>Excuse me. . . excuse me. . . Come on folks, let's let the frantic man pass... Sorry... Thank... you... Standing on the right, passing on the left. They can't make this- deal any easier than it is... Come on... coming through...</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Help the poor?...</utterance>
+</dialogue>
+
+<dialogue id="158" n_utterances="3">
+   <speaker>INSPECTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please step through again.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher frantically tosses his keys, cufflinks, his Rolex into a tray. He tries again. It BUZZES again!</context>
+      <utterance>Ahhh!! ! Damn..;</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>A guy in a TURBAN passes over him with a DETECTOR WAND.</context>
+      <utterance>What? I'tii practically naked!</utterance>
+</dialogue>
+
+<dialogue id="159" n_utterances="3">
+   <speaker>FL E TC H ER</speaker>
+      <mode></mode>
+      <context>Fletcher spots a door marked "NOT AN EXIT". Goes for it when a FLIGHT ATTENDANT interrupts.</context>
+      <utterance>N ooo!!!</utterance>
+   <speaker>FLIGHT ATTENDANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I help you?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look out!! ! --</utterance>
+</dialogue>
+
+<dialogue id="160" n_utterances="2">
+   <speaker>NOISY.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then, Fletcher looks ahead and his EYES GO WIDE!</utterance>
+   <speaker>FLETCHER'S POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The RUNWAY is ENDING!.</utterance>
+</dialogue>
+
+<dialogue id="161" n_utterances="7">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>checks under his</utterance>
+   <speaker>SEAT)</speaker>
+      <mode> SEAT)</mode>
+      <context></context>
+      <utterance>It's right here, honey.</utterance>
+   <speaker>M AX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom! Mom!! '</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just a second, Max.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom, it's dad!</utterance>
+   <speaker>AU DREY</speaker>
+      <mode></mode>
+      <context>Audrey turns. Then she sees Fletcher WAVING weakly...</context>
+      <utterance>W hat? What about dad?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fletcher?!</utterance>
+</dialogue>
+
+<dialogue id="162" n_utterances="3">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>mumbles to</utterance>
+   <speaker>HIMSELF)</speaker>
+      <mode> HIMSELF)</mode>
+      <context></context>
+      <utterance>Oh boy, the truth hurts. Yes indeed.</utterance>
+   <speaker>DEPUTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Reid. Someone made bail for you.</utterance>
+</dialogue>
+
+<dialogue id="163" n_utterances="6">
+   <speaker>FLETCHER</speaker>
+      <mode>WEAKLY</mode>
+      <context>He looks up and is surprised to see AUDREY and JERRY waiting for him just outside the door. Max is sitting at the bottom of the stairs, still ANGRY. He sees his dad, then quickly turns away.</context>
+      <utterance>Greta? Is that you?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry I made you miss your flight, not really.  You're obviously a little . upset, not that I blame you... although I'll bet you'll still get the bonus miles. . .</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>What were you doing?</context>
+      <utterance>Fletcher, are you crazy?</utterance>
+   <speaker>FLETC HER</speaker>
+      <mode></mode>
+      <context>Audrey's patience are growing thin...</context>
+      <utterance>That's two questions. A; Yes, but I think the legal term is temporarily insane. And B; I was trying to finally have that talk with you about Boston.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, okay... The whole truth and nothing but the truth,</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode>(with difficulty, SINCERELY)</mode>
+      <context>This comes as a surprise to Audrey. Not just what Fletcher said, but the way he said it.</context>
+      <utterance>I tried to stop the plane because it was taking off with my life... you and Max.</utterance>
+</dialogue>
+
+<dialogue id="164" n_utterances="8">
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>She's definitely moved by Fletcher, but not convinced.</context>
+      <utterance>I know you've met somebody... somebody pretty great... and the truth is I wish you didn't but you did and... All I ' m asking i s . . . Please don't move to Boston. Please don't take Max away.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>It's only a four hour flight.</context>
+      <utterance>You can come visit anytime.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher turns to Jerry.</context>
+      <utterance>I don't want to visit him. That's what I've been doing-- visiting him, dropping by, stopping in. I want to be in his life. I don't want to be some jerk that sees him at Easter. I want to be his father.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know I have no right to ask, but can I talk you out of taki ng that job? I can get you a better job here in L.A. I've got all kinds of connect ions... what do you do again?</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I design security systems.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>You know Pac-Tec?</context>
+      <utterance>How symbolic. Okay great.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The biggest.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One of their systems shorted out and burned down a supermarket. I got them off. Another proud day for justice. If I ask them they'll beat your Boston offer in two s ec on ds . ..</utterance>
+</dialogue>
+
+<dialogue id="165" n_utterances="6">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't put Jerry in the middle.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay.</utterance>
+   <speaker>JERRY</speaker>
+      <mode>(to Fletcher) Boston means this (snaps his FINGERS)</mode>
+      <context>They both look to Audrey.</context>
+      <utterance>to me. All I want is for this lady and Max to be happy. Preferably, with me. Whatever they want, I'll go along with.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Audrey looks over to Max seated at the bottom of the stairs. He's still upset.</context>
+      <utterance>All I want is for Max to be happy.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You better know your jury. You're hot exactly Max's hero today.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher walks over,, tries to be playful, starts WALKING,</context>
+      <utterance>Just let me present my case.</utterance>
+</dialogue>
+
+<dialogue id="166" n_utterances="10">
+   <speaker>FLETCHER/TERMINATOR</speaker>
+      <mode></mode>
+      <context>(no response, a</context>
+      <utterance>I have been sent from the future to destroy you. . . Argghhh!</utterance>
+   <speaker>BEAT)</speaker>
+      <mode></mode>
+      <context>Max nods. Fletcher's at a loss for how to begin. Then:</context>
+      <utterance>You mad at me?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wanted me to stop lying. But lying isn't the problem. .. Why we lie ~ that's the problem. Sometimes we lie to make someone else feel better. But sometimes we lie because the truth gets in our way...  But being an adult means you sacrifice some things for more</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>A moment as Max studies his father, then:</context>
+      <utterance>important things. Much more important things. I was so stupid, Max.  Malfunction in vector one. All this time you've been here and I could see you anytime I felt like it. And I... didn't. Please don't go to Boston. Max, I love you more than anything else in the world and you know it's true. I couldn't say it if it weren't true. Not today.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context>But Fletcher's looking at his watch...</context>
+      <utterance>He's telling the truth, Mom. He's not allowed to lie. I made a wish and anything Dad says has to be the truth.  .. Right?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Max. .. it's 9:22.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Max steps away from Fletcher.</context>
+      <utterance>Max, you made the wish at 9:15. I've been able to lie for the last seven minutes.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So then, you were...</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Max looks at Audrey, who is letting Max decide for himself Max looks at Fletcher and tries to decide.</context>
+      <utterance>No! It wasn't a lie. I just wanted to be honest with you and tell you -- there was no wish to guarantee it anymore. You just have to believe me.</utterance>
+</dialogue>
+
+<dialogue id="167" n_utterances="3">
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context>Audrey looks at Jerry, then back at Max.</context>
+      <utterance>Mommy... do we have to go to Boston?</utterance>
+   <speaker>AUDR EY</speaker>
+      <mode></mode>
+      <context>Fletcher hugs his son -- the kind of hug that says "I'll never let you go."</context>
+      <utterance>No. We don't have to.</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context>Fletcher smiles. . .</context>
+      <utterance>Can we play catch tomorrow?</utterance>
+</dialogue>
+
+<dialogue id="168" n_utterances="6">
+   <speaker>M AX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad! !</utterance>
+   <speaker>FLETCH ER</speaker>
+      <mode></mode>
+      <context>Fletcher picks Max up.</context>
+      <utterance>Ma x i mu m ! !</utterance>
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context>Fletcher and Max do the TRANSFORMER ROUTINE again...</context>
+      <utterance>Transformer!!! .</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>Fletcher starts KISSING MAX on the head over and over. He sees Audrey.</context>
+      <utterance>Malfunction in vector seven. I have lost control of my affection reflex...</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Procreate! Procreate!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode>PLAYFULLY</mode>
+      <context></context>
+      <utterance>Fletcher... You're gonna lose a limb--</utterance>
+</dialogue>
+
+<dialogue id="169" n_utterances="10">
+   <speaker>MAX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, dad, let's play catch!!</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sr. . .</utterance>
+   <speaker>UE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>starts to toss</utterance>
+   <speaker>MAX)</speaker>
+      <mode> MAX)</mode>
+      <context>He puts Max down. Max runs into position. Fletcher stops for a second and turns to Jerry, man to man.</context>
+      <utterance>Here you go, mom.  Oh, you mean with a ball...</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I take back every dirty, dishonest thing I ever said about you, wrote about you, faxed about you, E-mailed about you.</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context>Fletcher tosses the baseball up and down.</context>
+      <utterance>Appreciated.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, you up for a little friendly competition?</utterance>
+   <speaker>JERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, you go play with your son.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context>A slow smile from Jerry. Fletcher winks and tosses the ball to Max.</context>
+      <utterance>I wasn't talking about basesball.</utterance>
+   <speaker>FLETCHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alright, it's time to show you the old Fletcher Reid change up.</utterance>
+</dialogue>
+
+
+</movie>

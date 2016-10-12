@@ -1,0 +1,3713 @@
+<movie id="364" title="Machine Gun Preacher">
+
+<dialogue id="1" n_utterances="4">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gimme a smoke.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't got any.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What, you quit?</utterance>
+   <speaker>SAM</speaker>
+      <mode>LYNN NODS</mode>
+      <context></context>
+      <utterance>Shit, that ain't gonna last.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="3">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey bug...</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see yer sign? Grandma and me made it this mornin.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Lynn enters the trailer, Paige follows.</context>
+      <utterance>Yep, real nice.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>How'ya doin, Mom?</utterance>
+   <speaker>DAISY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welcome home, Sam.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="10">
+   <speaker>LYNN</speaker>
+      <mode>TO PAIGE</mode>
+      <context>There's a quiet anxiety to this homecoming. Everybody on edge, careful.</context>
+      <utterance>You excited, get some juice, help me set the table. Sam and Daisy enter.</utterance>
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Hope you're staying for supper.</utterance>
+   <speaker>DAISY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I didn't know if...</utterance>
+   <speaker>SAM</speaker>
+      <mode>TO LYNN</mode>
+      <context>Lynn hesitating, not sure how to answer... not sure what's going to happen when she does... finally...</context>
+      <utterance>What time you gotta work?</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ain't on tonight.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>DAISY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know we could boil up that corn we got in there...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Friday night you ain't on? Hell is that? He walks toward the fridge.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Paige, get that chair.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That cocksucker Mark better be givin you yer time or I'm gonna go over there and bust in his teeth. Why ain't there no beer?</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="13">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>He turns to her, studies her with cold eyes...</context>
+      <utterance>I ain't dancin no more, Sam.</utterance>
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Quit a couple weeks ago. Got a job over at Freemont.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You tellin me the truth or is this a joke?</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>Weekends if I want em. It's good money.</context>
+      <utterance>Pick up a second shift now and then.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good money? You stupid, woman? You quit strippin to pack fucking mushrooms at Freemont?</utterance>
+   <speaker>DAISY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam's face changing, starting to turn bad. A look we'll come to know.</context>
+      <utterance>Mom, keep yer mouth shut.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're good to me over there, Sam. They got daycare for Paige and I can get medical at the end of the year.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell you what you're gonna do, you're goin back to The Bunny Hop and askin that cocksucker for yer old slot back...</utterance>
+   <speaker>DAISY</speaker>
+      <mode>TO PAIGE</mode>
+      <context></context>
+      <utterance>You ok? Let's ride our bikes outside.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Sam...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you ain't. You gonna get that ass back up there and make yer tips.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It ain't right.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="8">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Daisy scooping up Paige and exiting, screen door slamming behind them and now Sam and Lynn are all alone.</context>
+      <utterance>Fuck you talkin about?</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ain't dancin cause it ain't right in God's eyes. He don't want me doin that no more.</utterance>
+   <speaker>SAM</speaker>
+      <mode>LAUGHING</mode>
+      <context></context>
+      <utterance>You found god now, huh? That what this is?</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He found me, and he's there for you too, baby.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't gimme that bullshit. You a junkie stripper...</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>Lynn reaches for him but he shoves her back violently...</context>
+      <utterance>Not no more. God helped me change while you was away.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam exits.</context>
+      <utterance>Gitcha hands off me!</utterance>
+   <speaker>LYNN</speaker>
+      <mode>TO HERSELF</mode>
+      <context></context>
+      <utterance>You can't keep goin the way you goin, baby...</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="11">
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>They embrace, old friends.</context>
+      <utterance>Crazyhorse! There he is...</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context>How you doin, buddy?</context>
+      <utterance>Figured you'd be rollin out round now.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm doin.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get us a coupla shots and buds.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>SAM SITS</mode>
+      <context></context>
+      <utterance>Don't look too worse for the wear.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm alright.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heard yer old lady ain't at the Bunny Hop no more.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bitch found Jesus.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn! That bearded sonuvagun slipped her the high holy dick while you was in the can, huh? Better him than the milk man, I guess.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Donnie laughs, slaps him on the shoulder...</context>
+      <utterance>Ain't so sure bout that.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>Sam smiles that wicked smile and we go --</context>
+      <utterance>You wanna taste?</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="5">
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>Donnie KNOCKING again and the door cracks an inch... and we see a black man with a SHAVED HEAD on the other side looking out...</context>
+      <utterance>Hey, man, you there?! Open up...</utterance>
+   <speaker>SHAVED HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck are you?</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's me, man, c'mon. Fuckin cold out here.</utterance>
+   <speaker>SHAVED HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know you.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah you do, man. I saw you the other day. I'm Bobby's friend.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="8">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me where the shit is or I'll blow yer nigger brains all over this floor.</utterance>
+   <speaker>SHAVED HEAD</speaker>
+      <mode></mode>
+      <context>Sam KICKS him toward the closet --</context>
+      <utterance>In there...</utterance>
+   <speaker>SAME</speaker>
+      <mode></mode>
+      <context>SHAVED HEAD crawling to a small safe in a closet, spins the combo, opens it and pulls out six ounces of uncut cocaine.</context>
+      <utterance>Hurry the fuck up.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>SHAVED HEAD grabs a stack of hundreds, hands it to Sam and -- CRACKKK! -- he SLAMS the butt of the Mossberg into SHAVED HEAD'S face and he hits the ground on his back -- Sam standing over him -- shoves the barrel of the shotgun into his mouth --</context>
+      <utterance>Cash!</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>But Sam's not moving... just staring down at SHAVED HEAD... and we're watching something here... a terrible intelligence taking over... something bloodless and inhuman coming over Sam in this moment... and he chambers a slug into the shotgun...</context>
+      <utterance>C'mon, let's go!</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context>And this is it. He's going to blow this guys brains all over the floor...</context>
+      <utterance>Fuck are you doin?!</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context>His finger curls around the trigger, eyes becoming lethal...</context>
+      <utterance>Sam...</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context>And he snaps back, looks around, sees Donnie standing there...</context>
+      <utterance>Sam!</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See that nigger's face when I put it in his mouth?</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>Sam juices a needle and spikes Donnie's arm. Donnie feeling the rush... pressing on the gas and howling like a wild man... both of them wired out of their heads... BLASTING down this dark, country road... and then they see...</context>
+      <utterance>Cook that shit up, man! I wanna hit when I'm going a hundred miles an hour in this thing.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="6">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cold enough for ya out there, boy?</utterance>
+   <speaker>DRIFTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where you goin, man?</utterance>
+   <speaker>DRIFTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dunshore.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's up there past Muncy, right?</utterance>
+   <speaker>DRIFTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="7">
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can take you far as McClure.</utterance>
+   <speaker>DRIFTER</speaker>
+      <mode></mode>
+      <context>Sam looking back --</context>
+      <utterance>Take me to Dunshore.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Suddenly -- silver flashing -- A BLADE -- out of nowhere -- pressed into Donnie's neck from the backseat -- the Drifter pulling him tight against the seat rest, pressing it into his throat --</context>
+      <utterance>We ain't goin to Dunshore, boy. Said we can drop you at McClure.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck?!</utterance>
+   <speaker>DRIFTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Keep drivin! Dunshore or I'll cut his fuckin throat.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam reaches his leg over and STOMPS ON THE GAS PEDDLE -- the car LURCHES forward -- accelerating --</context>
+      <utterance>Get that fuckin blade off him...</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam!</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="2">
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He comin or ain't he?</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="3">
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Sam turns to her, and he looks lost here. Like a little boy.</context>
+      <utterance>Honey? You ready?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And she comes into the room, sits on the bed next to him, puts an arm around his shoulder.</context>
+      <utterance>I don't got no good shoes, Lynn.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He don't care what kinda shoes you wearin, baby.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="6">
+   <speaker>PASTOR KRAUSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The point of receiving God's word is life. Life upon life. And to accept the blood of Jesus is life upon life upon life...</utterance>
+   <speaker>CONGREGATION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Praise be to God!</utterance>
+   <speaker>PASTOR KRAUSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He breathes his spirit into darkness and makes something good. He sees our shadow and says, `let there be light!"</utterance>
+   <speaker>CONGREGATION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amen!</utterance>
+   <speaker>PASTOR KRAUSE</speaker>
+      <mode></mode>
+      <context>A few hands shoot up --</context>
+      <utterance>... now proclaim his saving grace! If there are sinners here looking for God raise your hands!</utterance>
+   <speaker>PASTOR KRAUSE</speaker>
+      <mode>CONT'D</mode>
+      <context>Three or four people moving to their feet, making their way up to the altar. Lynn turns to Sam, their eyes meet. He looks hesitant, unsure. She gives him a reserved little smile, nods her head slightly as if saying "you can do this"... And in her look he finds strength, gets up, slowly makes his way to...</context>
+      <utterance>Stand up! Receive Jesus Christ as your light and saviour...</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="5">
+   <speaker>CONTRACTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks for your help, Sam.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You need me to stay on, I can.</utterance>
+   <speaker>CONTRACTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're movin inside next week.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Know my way round some electrical too.</context>
+      <utterance>I can drywall, tile, whatever you got.</utterance>
+   <speaker>CONTRACTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry, Sam, I gotta cut the crew. Just ain't enough work.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She asleep?</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Think so, in our bed... she's funny.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Job's done.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>Sam shakes his head, and they're quiet... both of them sitting here on these steps... the burden of this life catching up to them in this moment.</context>
+      <utterance>I thought that was goin through August?</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="3">
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got somethin in Pitt, but you gotta have some college for that.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a hard worker and I learn real fast.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you got no education, Mr. Childers.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="5">
+   <speaker>MECHANIC</speaker>
+      <mode></mode>
+      <context>Or maybe down to Philly.</context>
+      <utterance>... don't deal bikes. Probably have a better shot if you take it over to Pitt.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I gotta sell it today.</utterance>
+   <speaker>MECHANIC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give you four hundred for it.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's almost two grand on this bike. Them pipes right there is custom. You wont see pipes like that on anything round here.</utterance>
+   <speaker>MECHANIC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like I said, don't deal bikes. I'll give you four-twenty. Cash. Best I can do.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="2">
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's uttered?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like spoke up, made a sound.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="7">
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, keep goin.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And out of the houses the rats came tumblin, black rats, brown rats, brother rats, sister rats, and husband rats followed their little rat wives... Til they came to the ragin water where they drowned and lost their lives."</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They got rid all them rats?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yep.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How come you sold yer Harley?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Off her look...</context>
+      <utterance>Cause it's what I had to do.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>Paige curls into him closer, and we're watching him here... in this moment... holding his daughter... not so sure they're gonna be ok.</context>
+      <utterance>We're gonna be ok, bug, don't you worry.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="3">
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>Sam sits.</context>
+      <utterance>Well, well, well, wondered when I was gonna see you again, ole buddy. How you doin?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm doin.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heard you was followin the Lord now.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="10">
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jackie, gimme a mash and bud...</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>TO SAM</mode>
+      <context>Sam shakes his head.</context>
+      <utterance>You want somethin?</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You know that old Indian didn't die out there that night. Story in the Lehigh Valley News bout it. Somebody picked that poor bastard up after us, took him to the emergency room, you believe that shit?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>WAITRESS slides a shot and beer in front of Donnie...</context>
+      <utterance>God was lookin out for us both, I suppose.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well then, here's to him.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>DRINKS</mode>
+      <context></context>
+      <utterance>Didn't hear you pull up.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got Lynn's car.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She broke down on ya?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sold her.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>Donnie smiling, inviting him back into this world. And we're watching Sam, threshold moment here, considering.</context>
+      <utterance>Ahhh, shit, man. Shoulda come to yer ole buddy first.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="3">
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>Lynn searching his eyes and she knows he's telling the truth.</context>
+      <utterance>Gave blood over in Pitt.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>And she pulls him close, hugging him tight, grateful.</context>
+      <utterance>That's all I got.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>And we hold on Sam, his troubled eyes. Completely out of options. And we see that for this man the inability to provide for his family is crushing.</context>
+      <utterance>Somethin will come through. I promise.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="7">
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Bug, you hear me?! -- Bug?!</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context>And he starts to play a child's word association game with her... something she knows... something they've played before...</context>
+      <utterance>Yeah.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm thinkin of a snail... you hear me, Bug?! Snail.</utterance>
+   <speaker>21</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And we hear her tiny little voice say...</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whale.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good job, Bug, good job! You said whale, I'm thinkin of a pail!</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context>And so this little game goes between father and daughter... Paige listening to his voice... in the midst of this terrible storm... somehow becoming less terrified.</context>
+      <utterance>You said pail, I'm thinkin of a tail.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="9">
+   <speaker>CONTRACTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Billy.</utterance>
+   <speaker>CONTRACTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tried to ring ya but your phones down.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam climbs down, moves to the truck, shakes his hand.</context>
+      <utterance>Yep.</utterance>
+   <speaker>CONTRACTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks like ya made it through pretty good.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're alright.</utterance>
+   <speaker>CONTRACTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn twister touched down eight places between here and Noblesville. Chewed up six hundred homes in Fulton County alone.</utterance>
+   <speaker>CONTRACTOR</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>Got all the work you can handle if you're interested.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam, seizing an opportunity here.</context>
+      <utterance>I'm interested...</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="3">
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>But I'm puttin my own crew together. We go 50/50 on the jobs. You cover any heavy machines I need.</utterance>
+   <speaker>CONTRACTOR</speaker>
+      <mode></mode>
+      <context>Then we'll go half.</context>
+      <utterance>60/40 til you pay me back on the tools.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got a deal.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="7">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>Months later and we're with Lynn and Paige, their eyes shut, as Sam leads them both by the hand...</context>
+      <utterance>What are you doin, Sam Childers?</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wanna peek.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam finally stops them.</context>
+      <utterance>Keep em closed.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>They do and both of their eyes go wide with surprise.</context>
+      <utterance>Ok. Open em up.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are we?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>REVERSE to see a modest two bedroom house at the end of this driveway. Their new home.</context>
+      <utterance>We're home, little girl.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's ours?</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Paige sprints for the house as Lynn hugs Sam, softly starts to cry into his shoulder.</context>
+      <utterance>Sure is. Go check it out.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's beautiful.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="9">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's everything.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You get what's in the trunk?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Lynn looking up, seeing how dirty Sam is from the move...</context>
+      <utterance>Yep.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>Lynn tossing him a kitchen towel. Sam, smiling mischievously...</context>
+      <utterance>Lord, you're filthy, Sam Childers.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who you callin filthy, woman?</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You dirtier than I am.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No I ain't.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes you are. I seen it. C'mon, girl, gimme a little shake...</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="5">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ain't doin that no more.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And he snaps her butt again but she grabs the towel and snaps him back...</context>
+      <utterance>... just a little somethin for yer old man, c'mon...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Owww!</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You gimme a little shake... She snaps him again and he feels the sting...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>She snaps him again but he grabs her and they fall into each other against the counter... laughing... and he kisses her... playful at first and then it becomes more passionate... and just as it starts to lead somewhere we go...</context>
+      <utterance>C'mon, Lynn...</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="2">
+   <speaker>RELLING</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you Pastor Krause, and thank you brothers and sisters for inviting me into this house of the Lord.</utterance>
+   <speaker>RELLING</speaker>
+      <mode>BEAT</mode>
+      <context>And we see Sam in this sea of faces, listening.</context>
+      <utterance>I'm here today to talk to you about your Christian brothers and sisters, families just like yours, a half a world away that desperately need your help...</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="10">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>Paige heads to the kitchen.</context>
+      <utterance>Paige, go get some more beans.</utterance>
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What are you thinking?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Paige comes back in carrying the beans.</context>
+      <utterance>Thinking about Africa.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They have tigers over there?</utterance>
+   <speaker>SAM</speaker>
+      <mode>JOKINGLY</mode>
+      <context></context>
+      <utterance>They eat people!</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about Africa?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just thinkin bout that fella today.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He talked funny.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just from a different place than us, baby, that's all.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was thinkin maybe I'd go over there. Help em out fer a few weeks.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="5">
+   <speaker>DAISY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Africa?</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To see the tigers.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was talkin about puttin box beam roofs on school houses over there.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about finishing that job in Boswell?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll only be gone a few weeks. Be back before you know it.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="4">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sudanese People's Liberation Army. We are freedom fighters.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Name's Sam Childers.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>There is a certain reserved nobility in this man, in the way he carries himself and speaks. An unwavering strength and self-reliance born from a lifetime of war and struggle.</context>
+      <utterance>I am Deng.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="14">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Givin ya problems?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. A bit.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Double-feed?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Deng hesitates, then hands his AK over to Sam who pops the mag out and studies it...</context>
+      <utterance>Lemme have a look...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Yer mag is tight. See here...</utterance>
+   <speaker>SAM</speaker>
+      <mode>INDICATING</mode>
+      <context>Sam pulls out a knife and begins to work on the base plate of the mag as he explains...</context>
+      <utterance>The loads are feedin right to the barrel face. That's yer problem...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>... you need this plate to ramp into the chamber... that way yer brass won't get stuck...</utterance>
+   <speaker>SAM</speaker>
+      <mode>FINISHING</mode>
+      <context>And Sam hands the weapon back.</context>
+      <utterance>... there ya go, should be better...</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No problem.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you military?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Ain't so good with bein told what to do.</context>
+      <utterance>No, not me. I ain't the military type.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>Sam considers the question for a moment... then simply says...</context>
+      <utterance>When did you learn about weapons?</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="5">
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Sam turns to find a British man in his late 20's named DAN standing next to him, thick Cockney accent, smoking a cigarette.</context>
+      <utterance>Hey Childers...</utterance>
+   <speaker>DAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some of us are going into Kampala tomorrow night. Find ourselves a little fun this weekend. You in?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was thinkin bout goin up north.</utterance>
+   <speaker>DAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You crazy? There's a civil war going on up there.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="6">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam offers him a can and he takes it.</context>
+      <utterance>Hey, Deng, you wanna Coke?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got a question for ya.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wanna go into Sudan this weekend. Need someone to show me around. You interested?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The others are going into Kampala.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Deng looks at him, surprised by the request...</context>
+      <utterance>That ain't my speed no more. I wanna see some country.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to see?</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="9">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They always drive this fast?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>An awkward silence as Deng stares out the window. Sam wanting to connect here, but Deng is reticent.</context>
+      <utterance>Traveling is the most dangerous time in Sudan. If the rebels find you on the open road it would be very bad.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got kids, Deng?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I have no children.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where you from?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A little village called Aweil. Many hours from here.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And Deng simply says...</context>
+      <utterance>That's where your family is?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My family was killed by LRA.</utterance>
+   <speaker>DENG</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>Unyama is about two hours from here. We will stop there for lunch.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="2">
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>Deng sweeping his hand, indicating the mass of refugees.</context>
+      <utterance>The Muslim North has tried to kill the Christian South for 30 years. Two million have lost their lives...</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>... these people have been driven from their villages, however these camps are not much better...</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="11">
+   <speaker>31</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Deng turns to Sam...</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, Sam... I'll be five minutes.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Deng leaves and now Sam is completely alone, taking in this mire of humanity all around him. And suddenly there's COMMOTION! -- two aid workers coming into this tent carrying a WOMAN on a stretcher. One of the aid workers looking around -- a white woman -- mid 30's -- her name is AGNETE CLOSSON, Regional Director of Doctors Without Borders. She sees Sam across the tent.</context>
+      <utterance>Course, do what you gotta do.</utterance>
+   <speaker>AGNETE</speaker>
+      <mode></mode>
+      <context>Sam moving to her --</context>
+      <utterance>Excuse me. You. Can you help please?</utterance>
+   <speaker>AGNETE</speaker>
+      <mode>CONT'D</mode>
+      <context>Sam grabbing the woman underneath the shoulders as another aid worker gets her feet...</context>
+      <utterance>We need to transfer her to the bed. Get her shoulders...</utterance>
+   <speaker>AGNETE</speaker>
+      <mode>CONT'D</mode>
+      <context>And they swing the woman over to a cot... but as they do the sheer piece of blood-stained muslin that was covering her face falls away... and we see that she has been mutilated... her lips cut off of her face... ... and now a DOCTOR sweeps into the tent and begins to work on her. Sam and Agnete pushed back, away from the action. Sam still shocked by what he's seen.</context>
+      <utterance>One, two, three...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened to her face?</utterance>
+   <speaker>AGNETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The rebels cut off her lips because she argued. These are Kony's orders.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Agnete, suddenly suspicious, takes an appraising look of Sam.</context>
+      <utterance>Who's Kony?</utterance>
+   <speaker>AGNETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you with?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm with Deng over there.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="4">
+   <speaker>AGNETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What organization are you with?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Working with a Christian group down South. Just up here takin a look around, seein a bit of the country.</utterance>
+   <speaker>AGNETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This isn't a tourist destination, this is a war zone. You stay in this area, you'll be killed.</utterance>
+   <speaker>AGNETE</speaker>
+      <mode>BEAT</mode>
+      <context>And she walks off.</context>
+      <utterance>Thank you for your help.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="4">
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>He pulls a baggy of tobacco from his pocket and begins to roll a cigarette...</context>
+      <utterance>Some say Joseph Kony is a wizard. A shapeshifter. He calls himself a Christian...</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>... but I say he is Satan, who devours his own people.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kony is the leader of the LRA?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>And now Deng turns to Sam...</context>
+      <utterance>He is the one we have been fighting for years. But there is very little we can do. Our weapons are old, and our boots are full of holes. We have been forgotten by the rest of the world.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="5">
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Why are you here?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>S'cuse me?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you looking for in this place?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Deng staring at him, skeptical...</context>
+      <utterance>Ain't lookin for nuthin.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And then you will get your picture and go back to your life and all this will just be a story you tell your friends.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="4">
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They are night commuters. They come from deep in the bush. Their parents send them out because it is safer to sleep here than in their own homes.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>And we continue to watch this great migration of children... now streaming into this town... a few of them finding a dark corner just below us... unrolling their reed mats... huddling up against each other for the long night...</context>
+      <utterance>Because death comes at night in the villages and refugee camps.</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>These are the lucky one so far. The ones the rebels have not found. The invisible children.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="2">
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Where are you going?</utterance>
+   <speaker>DENG</speaker>
+      <mode>CALLING AFTER</mode>
+      <context></context>
+      <utterance>Sam...</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="7">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>The children looking up, surprised to see a white man here...</context>
+      <utterance>Get up... let's go...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>The children getting to their feet... and Sam moves to another cluster of children up the block as Deng catches up to him...</context>
+      <utterance>Come on...</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And Sam starts to move up the block further, wanting to gather up more children, but Deng stops him...</context>
+      <utterance>They ain't sleepin out here. Tell em they're comin inside.  Ya'll get up... let's go...</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>And he looks up the street and we see more children here than we thought... hundreds of young kids huddled on the streets...</context>
+      <utterance>Sam, there are too many...</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context>Sam knows he's right. A moment here as he looks to the children he's gathered, staring up at him...</context>
+      <utterance>... you can't help them all.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can help these here.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="2">
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>Sam looking up to him...</context>
+      <utterance>The LRA attacked a village last night.</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context>Sam sits up, looks around the hotel room and we see that it's empty... the children vanished... only a small, handmade toy on the ground which has been left behind.</context>
+      <utterance>You said you wanted to see.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="8">
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see any tigers over there?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Naw, didn't see no tigers.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But they do have them over in Africa.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So I hear, but not where I was.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure am glad you're home.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me too, bug.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm thinkin of a plane...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And he grabs her and carries her into the bedroom, plops her onto the bed...</context>
+      <utterance>It's late, you better get to bed...</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="4">
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context>Sam giving in, playing their little game as she gets under the covers...</context>
+      <utterance>C'mon, plane... I'm thinkin of a plane...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You said plane, I'm thinkin of a train...</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You said train, I'm thinkin of a brain.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You said brain, I'm thinkin of a...</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="4">
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gotcha!</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ok, you got me.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context>Sam bending over, kissing her forehead...</context>
+      <utterance>You coulda said drain, or mane... like horse's hair.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sweet dreams, bug.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="4">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You comin to bed?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In a bit</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ok?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>She senses more but knows this man well enough not to push... and so she simply turns away.</context>
+      <utterance>Just a long flight.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="6">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>He looks up...</context>
+      <utterance>Baby, whatcha doin?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Makin plans.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>He gathers up a couple of the papers, moves to her.</context>
+      <utterance>You been to bed yet?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>He hands her a sheet of paper -- CU to see it's a crude drawing of building.</context>
+      <utterance>I had a vision last night, Lynn. Crazy as it sounds, God spoke to me...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I'm gonna build a church.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A church?</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="8">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Lynn studying him, trying to judge how serious he is here. And Sam looking back at her, his eyes like we haven't seen them before. Sparkling.</context>
+      <utterance>Right across the street. Not like Faith United or Calvary Fellowship. Place that ain't gonna turn you away if you a drug addict or a prostitute or whatever. Place for sinners, just like me, who wanna hear the word of God.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How we gonna pay for a church, Sam?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We got money in the bank. Business is good. Besides, I own a construction company...</utterance>
+   <speaker>SAM</speaker>
+      <mode>SMILING</mode>
+      <context>She smiles, shaking her head, catching his enthusiasm...</context>
+      <utterance>I'm gonna give us one heck of a good deal on the build.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yer crazy.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>`Lil bit.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>He hands her the other paper -- CU to see it's a another drawing.</context>
+      <utterance>What's that?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the orphanage I wanna build. In Sudan.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="13">
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Sam turns to see a BIKER, late 40's, leather vest, standing with his 12 year old DAUGHTER.</context>
+      <utterance>Sam Childers...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>The Biker extends his hand, they shake.</context>
+      <utterance>That's me.</utterance>
+   <speaker>BIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey bro, Ben Hobbes, knew each other long time ago.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, Ben, how you doin?</utterance>
+   <speaker>DAUGHTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Daddy, I'm gonna go.</utterance>
+   <speaker>BIKER</speaker>
+      <mode></mode>
+      <context>She runs off.</context>
+      <utterance>OK, sweetie...</utterance>
+   <speaker>BIKER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Goddamn, they grow up quick, don't they?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure do.</utterance>
+   <speaker>BIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, nuthin fer nuthin, Sam, but rumor has it you was puttin up a chapel over there in Central City.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right. Gonna minister to anybody who's lookin for The Lord.</utterance>
+   <speaker>BIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's good, man. Maybe you can do somethin bout your old friend, Donnie.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about em?</utterance>
+   <speaker>BIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He ain't doin so good, bro. But hey, good seein ya' man.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="2">
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't do this.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And somehow Donnie finds strength in his words, and in Sam's hand touching his head, and he nods.</context>
+      <utterance>Look at me. God don't make trash, boy. Now he ain't givin up on you, so don't give up on him, you hear me?</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="5">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>Sam hearing this, moving to his feet, toweling off his hands.</context>
+      <utterance>It's five-til and he still ain't here.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You call him?</utterance>
+   <speaker>SAM</speaker>
+      <mode>LYNN NODS</mode>
+      <context>Lynn exits and Daisy steps forward, shuts the door behind her. Just she and Sam here alone now.</context>
+      <utterance>Try him again.</utterance>
+   <speaker>DAISY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You like this dress, Sam?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What, mom?</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="5">
+   <speaker>DAISY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ain't never seen this one. I bought it a long time ago. Been keepin it for a special occasion.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's nice.</utterance>
+   <speaker>DAISY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I never told you this but when I was pregnant with you, now this was way back, probably 1960, when yer daddy and I was still in Grand Rapids, a Pastor prophesied over me. Pulled me right up on stage and laid his hands on my belly and told me I was gonna have a Preacher for a son.  Yer daddy and I were so proud. I remember we went home and neither of us could sleep all night. Just laid there and talked bout you, bout what was comin.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just built a church. I ain't no preacher.</utterance>
+   <speaker>DAISY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes you are. You were born to it. Just took you a little ways to get here.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="7">
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>An awkward beat...</context>
+      <utterance>The guest preacher we had booked today ain't shown up... so I thought I'd say a word or two.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>A beat, considering what to say... and he begins...</context>
+      <utterance>Lotta yous been wonderin what made me wanna build this here church. Seein as I ain't the best seed in the bunch I can understand that.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>Sam holding up a worn bible, and we start to notice something here... a transformation happening in this man as he speaks to these people. His nervousness falling away and a natural charisma taking over...</context>
+      <utterance>Buncha years ago I was runnin from some bad fellas in the woods over there by Cleary. Those old boys was comin after me hard and I reached in my bag lookin for my old shotgun but it was gone. My momma had took it out when I wasn't lookin and put this bible in there instead...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>And we see the congregation hanging on his every word, identifying with this man standing before them. One of their own.</context>
+      <utterance>Well I figured I was done for, so I sat down under an old tree with this useless book and I waited...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>... and then the strangest thing happened. Them boys ran right on past me. Didn't even see me sittin there. Now the way I figure it, things would have turned out pretty different if I had pulled out that shotgun instead of this here Bible. And that's probably the first time I can remember God savin my butt.</utterance>
+   <speaker>SAM</speaker>
+      <mode>BEAT</mode>
+      <context>Some laughter and applause...</context>
+      <utterance>God... and my momma.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>And the congregation responds with a Hallelujah!</context>
+      <utterance>Figure least I could do was build em both this church.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="7">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be back soon as I can.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're gonna miss my play.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Lynn pulling Paige off, kissing Sam on the lips.</context>
+      <utterance>Have momma videotape it for me, k? Now I gotta git.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call us when you can.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam turning to Donnie, and we see he's back to the hulking man he once was.</context>
+      <utterance>I will.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You watch out for em while I'm gone, ya hear?</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>Sam winks, slaps Donnie on the shoulder, as we --</context>
+      <utterance>That's done, buddy.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="3">
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>But he's not listening, moving through the scrub to a small clearing... walking around...</context>
+      <utterance>Sam, wait...</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context>Sam kneeling down, picking up a handful of red dirt, letting it trickle through his fingers...</context>
+      <utterance>It is not safe here.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is it...</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="4">
+   <speaker>ADMINISTRATOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is not a good idea.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think it's a heckuva good idea.</utterance>
+   <speaker>ADMINISTRATOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It would be better further south. Closer to Kampala.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam pointing to the map. The Administrator turning to Deng --</context>
+      <utterance>If I wanted to be closer to Kampala, I'd be closer to Kampala. I wanna be right here...</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="8">
+   <speaker>ADMINISTRATOR</speaker>
+      <mode>ARABIC</mode>
+      <context></context>
+      <utterance>He should not be this far north.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you sayin?</utterance>
+   <speaker>ADMINISTRATOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The villages in this area are very remote, Mr. Childers. There is nothing there.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then it seems to me them people need help the most.</utterance>
+   <speaker>ADMINISTRATOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He will be killed.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>The Administrator turning to him, laying it out simply --</context>
+      <utterance>Talk to me.</utterance>
+   <speaker>ADMINISTRATOR</speaker>
+      <mode></mode>
+      <context>The LRA will kill you here.</context>
+      <utterance>This is in the war zone, Mr. Childers.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think you understand me, so lemme make it real clear to ya. I didn't pick this land -- God did.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="7">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Betty, no reaction. Just the incessant crying of the children in the b.g.</context>
+      <utterance>Good to meet you Betty.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She is knowing that you need someone to run the orphanage.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm lookin for somebody who can keep the place in order. Make sure things is taken care of when I'm away.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She can do this.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Betty hears this, turns to the crying children and softly says --</context>
+      <utterance>She's gonna have to take care of the children too, make sure they're fed, fix em when they're sick. Can she do that?</utterance>
+   <speaker>BETTY</speaker>
+      <mode>ARABIC</mode>
+      <context>-- and instantly their crying stops.</context>
+      <utterance>Quiet now.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell her she's hired.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="2">
+   <speaker>BETTY</speaker>
+      <mode>ARABIC</mode>
+      <context></context>
+      <utterance>You two share a blanket and tomorrow we will find another.</utterance>
+   <speaker>ROSE</speaker>
+      <mode>ARABIC</mode>
+      <context>And we see Sam here too, doing what he can, tucking in a few of the kids, starting to make a connection with these children.</context>
+      <utterance>Shhhh, it's time to shut your eyes...</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="11">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what's funny? In English your name means "darn it."</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is this `darn it?'</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Deng. It means `shucks.' You know, like you stub your toe and you go "ahhhhh, deng!" Get it?</utterance>
+   <speaker>DENG</speaker>
+      <mode>DEAD SERIOUS</mode>
+      <context></context>
+      <utterance>This is not funny. In my language, in Arabic, names are very important. They tell you everything about a man.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Quiet, awkward, just the two of them sitting here quietly for a long beat. Finally...</context>
+      <utterance>I'm sorry, buddy. It was just a joke.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What does Sam mean in Arabic?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>And Deng smiles brightly. Sam realizing he's been played. And Deng starts to LAUGH. A deep, guttural, infectious laugh. Sam joining him, and we sense that at this moment these two have become friends. And gradually their laughter subsides, and it's quiet again.</context>
+      <utterance>Small penis.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I ask you a question?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You believe in God? Deng considering this for a beat, and then...</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was raised to believe there was a God in heaven.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you'll invite him in again one day.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think so.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="6">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many are there?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two squads...</utterance>
+   <speaker>DENG</speaker>
+      <mode>INDICATING</mode>
+      <context>Sam peering around the corner -- sees MUZZLE FLASHES in the blackness -- maybe 15 or 20 rebels moving through the bush like specters -- flanking the compound --</context>
+      <utterance>There -- and there.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are your men?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>Sam looking around, realizing the rest of the SPLA soldiers are scattered throughout the compound firing randomly into the dark.</context>
+      <utterance>I don't know.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam, split-second decision here -- and he starts to sprint across the compound to --</context>
+      <utterance>They're gonna pick us off like this!</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="5">
+   <speaker>BETTY</speaker>
+      <mode>ARABIC</mode>
+      <context></context>
+      <utterance>Stay down! -- stay down! --</utterance>
+   <speaker>ROSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We are protected! -- Sam bursting through the door --</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Betty! Get em to the church right now!</utterance>
+   <speaker>SAM</speaker>
+      <mode>ARABIC</mode>
+      <context></context>
+      <utterance>Quickly.</utterance>
+   <speaker>SAM</speaker>
+      <mode>ENGLISH</mode>
+      <context></context>
+      <utterance>Understand?! -- Betty nodding as Sam rushes out --</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And Sam starts to open up the AK -- laying down a curtain of suppression fire as Deng shouts to his men --</context>
+      <utterance>Get yer men back to the church! That's our best shot! I'll cover you...</utterance>
+   <speaker>DENG</speaker>
+      <mode>ARABIC</mode>
+      <context>-- and they start to fall back to the center of the orphanage --</context>
+      <utterance>To the church! --</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Betty and the other woman do exactly that -- they move the children into a tight group in the center of the room.</context>
+      <utterance>Put em in the middle!</utterance>
+   <speaker>BETTY</speaker>
+      <mode>ARABIC</mode>
+      <context></context>
+      <utterance>Down here! -- in the center! -- all of you! -- stay down!</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="3">
+   <speaker>DENG</speaker>
+      <mode>ARABIC</mode>
+      <context></context>
+      <utterance>Four on the right!</utterance>
+   <speaker>NINETEEN</speaker>
+      <mode>ARABIC</mode>
+      <context></context>
+      <utterance>There are too many!</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam starting to open up with his AK -- Krakakakakakak! -- spent shells showering down around the children huddled in the middle of the room.</context>
+      <utterance>Just keep firin!</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They burned it to the ground. All of it. Ain't nuthin left.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you?</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="4">
+   <speaker>LYNN'S VOICE</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Sam?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>LYNN'S VOICE</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Can you hear me?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can hear you.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>The door opens and we see Deng.</context>
+      <utterance>Come on in...</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Preacher, you need to come see this.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="6">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's goin on?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>And now the women begin to move in unison... singing an ancient Acholi song as one of the older orphan boys beats a small drum in accompaniment...</context>
+      <utterance>The Acholi people were farmers before they were driven from their ancestral homeland. Each year they blessed the soil before a planting.</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D - TRANSLATING</mode>
+      <context>The women continuing their dance... moving in a tight circle and stomping their feet as they sing...</context>
+      <utterance>They are saying that fire brings strength and ashes abundance...</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D - TRANSLATING</mode>
+      <context>And now Betty peels away from the group and approaches Sam, talking to him directly in Arabic...</context>
+      <utterance>... when the land burns, the next year the soil produces more...</utterance>
+   <speaker>BETTY</speaker>
+      <mode>ARABIC</mode>
+      <context></context>
+      <utterance>The children are your fields...</utterance>
+   <speaker>DENG</speaker>
+      <mode>TRANSLATING</mode>
+      <context></context>
+      <utterance>... she says you are a farmer and these children are your crops...</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="2">
+   <speaker>BETTY</speaker>
+      <mode>ARABIC</mode>
+      <context></context>
+      <utterance>... and this ground will grow them tall.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>OFF SAM standing here with his ashen face, staring at these people in front of him -- his African family.</context>
+      <utterance>... and this ground is richer now and they will grow stronger because of it.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is she saying?</utterance>
+   <speaker>BETTY</speaker>
+      <mode></mode>
+      <context>Sam taking Alice's hand in his... very slowly her beautiful eyes open and she sees him... and says something in Arabic...</context>
+      <utterance>She is asking what she did wrong?</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where did they find em?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>Off Sam, hearing this, we...</context>
+      <utterance>Their village was hit out Adjumani.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="4">
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you going?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Adjumani.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam, please wait...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam reaching the SUV and starting to gear up...</context>
+      <utterance>I ain't waitin. You wanna see what waitin gets ya? Take a look in that buildin over there...</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Marco hears this, ditches the RPG and picks up his AK.</context>
+      <utterance>No shot! There are children behind the truck!</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>Marco laying down suppression fire as Sam sprints across the road -- advancing on the transport truck -- firing his AK from the hip -- bullets zinging past him -- he dives behind a berm and finds himself next to Deng. Neither man says a word as they jam fresh mags into their AK's, gunfire erupting all around them.</context>
+      <utterance>Cover me!</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="5">
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you just go home?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is not your war.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Deng shakes his head --</context>
+      <utterance>You leavin?</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>Sam chambers a round, pivots around the berm as --</context>
+      <utterance>Well then, I ain't leavin neither...</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="7">
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Where are you from?</utterance>
+   <speaker>ANTHONY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jabal.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>Anthony nods. William pulls out his photograph.</context>
+      <utterance>Were you with the rebels?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode>CONT'D</mode>
+      <context>Anthony studying the photograph...</context>
+      <utterance>Did you know my brother? He was called Christopher.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>He has a funny left eye. It looks the other way sometimes. Do you remember him?</utterance>
+   <speaker>ANTHONY</speaker>
+      <mode></mode>
+      <context>William folding up the photograph, getting up, moving to another little boy a few feet away... kneeling next to him... and so he continues...</context>
+      <utterance>No.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am William. Were you with the rebels?</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="3">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mornin, buddy. William, no response. Just staring up at him.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>William, nothing.</context>
+      <utterance>Ain't you gonna say nuthin?</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>And Sam walks across the compound followed by William a few paces behind... and he reaches Deng, Betty, Nineteen, and a few of the other volunteers waiting by the truck...</context>
+      <utterance>Ok then.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="7">
+   <speaker>DENG</speaker>
+      <mode>MEANING WILLIAM</mode>
+      <context></context>
+      <utterance>Looks like you've got yourself a bodyguard.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam tosses his bag into the back, says goodbye to everyone...</context>
+      <utterance>Guess I do.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Take care of things while I'm gone, ok?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>They shake hands and Sam gets into the truck... and we see William already here, sitting in the backseat.</context>
+      <utterance>I will, Preacher.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't come with me, buddy.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>But William isn't moving...</context>
+      <utterance>Get out of there.</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D - ARABIC</mode>
+      <context>... and finally Deng reaches in and grabs him... tries to pull him out but he fights back... yelling as Deng drags him out of the truck...</context>
+      <utterance>Come on! -- out! --</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="7">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We started daycare last month. Monday thru Friday from 8 to 2... Sundays after first worship for a few hours if anybody needs it. How you doin, Sue?</utterance>
+   <speaker>VOLUNTEER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good. Hey Pastor.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Lynn pulling the door closed and they continue... moving down a set of stairs to the basement where we see children and parents... some of them playing ping-pong and air hockey... others in a corner rehearsing for a Christmas play...</context>
+      <utterance>Sue.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Been thinkin we need to put up a playground. Swings. Some things the kids can climb on.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can't build anymore. Not for awhile.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You said Sundays has been full.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Turn outs been good, but that don't mean people is givin money.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="4">
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Economy is in trouble, construction business is slow. Times is tight.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be good for them kids, Lynn.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They got the playground over in Cairnbrook. And they can play at the school on weekends if they want Sam turning to her --</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Lynn catching up to him now, realizing his head is still back in Africa.</context>
+      <utterance>Not talking bout here. Talkin about the orphange.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="7">
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'cha workin on, buddy?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Trouble with the push rods I think. She's runnin kinda rough.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>Donnie moving next to him, working on the bike...</context>
+      <utterance>Shoulda kept that mild in there `stead a buildin up a hot rod. Let's see whatcha got here...</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>... never had these problems when we was runnin solid lifters, huh?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Used to fix them old shovelheads on the side of the road with a buckknife and a wire hanger.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>Sam smiling...</context>
+      <utterance>Remember that year we went to the Freakers Ball?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think that old `78 broke down five times on that trip.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="8">
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>Sam and Donnie share a laugh.</context>
+      <utterance>Sounds about right. Shoot, we had more fun tryin to get there than when we finally did.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Can I talk to you about somethin?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yep.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm glad I'm walkin with the Lord and all, but sometimes I ain't sure I'm gonna be able to do what he wants me to do.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Lord don't ask for nuthin you can't deliver, buddy. And yer one tough ole boy.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>And we see in Donnie's eyes just how troubled he is.</context>
+      <utterance>Sometimes I ain't so sure how tough I am.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And they both take a knee, bowing their heads as Sam continues...</context>
+      <utterance>Why don't we pray together then...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>And we leave these two men, their heads bowed in quiet supplication, next to this Harley, praying for strength.</context>
+      <utterance>Our gracious Heavenly Father, bless us with the strength to carry on in your name. And grant us, in our darkest hours, the understandin that you are always by our side.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="11">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Still got a ways to go, but we're gettin there. You should come on by one of these Sundays, bring the family.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's nice of you, but we're at Calvary now. Bit more our speed over there I think. Sam, getting down to business...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Reverand Carlton gives a mean sermon, puts me to shame. Anyway Bill, I'm here cause I wanna talk to you about what we're doin over there in Africa.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Helluva thing helpin out those kids, Sam.</context>
+      <utterance>Course I know about what you're doin.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you, but I'm gonna be straight with ya. We're hurtin for money... If we had a little bit more support from people like yourself sure would help things run a lot smoother over there. Bill feeling the rub, shaking his head...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam, look, everybody is feelin the pinch around here.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hear that, but you gotta understand that them kids over there got nuthin. I mean nuthin, Bill, and I'm not asking for much.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much you lookin for?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Five thousand dollars.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus Christ, Sam! Five thousand dollars?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That keeps them doors open for another six months.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="6">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Sam shifting, not giving up, coming at him another way...</context>
+      <utterance>People are losin their jobs left and right round here. Tough to be askin for five thousand dollars for a buncha African children half-way around the world.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Bill staring at him, saying nothing, on the spot. Sam hoping that somehow he's reached this man. And finally Bill stands up...</context>
+      <utterance>You're right. We got problems right here. But with that kinda money we could feed them kids, house them kids.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Sam feeling this victory, flashing a smile, shaking Bill's hand.</context>
+      <utterance>Alright, tell you what, lemme see what I can do.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ok.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you and the family come over to the house next Sunday. We're havin a little barbeque, ok?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds good.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="8">
+   <speaker>72</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Smiling, a joke she loves...</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm Lynn, this here is Sam, our daughter Paige.</utterance>
+   <speaker>SHANNON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good to meet you.</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Everybody turning to see the car dealer coming through the crowd, smiling, a little drunk. AD-LIBBED introductions and then...</context>
+      <utterance>There he is!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Bill ushering them deeper into the house... quick intros to a few guests as they pass... Sam, Lynn, and Paige taking it all in... starting to sense the dimensions of this massive house... the waiters in their pressed jackets offering them food... the extravagance... like nothing they've ever seen... ... Bill pulling Sam off from the crowd so it's just the two of them... taking an envelope from his jacket and handing it to him...</context>
+      <utterance>Glad ya'll could make it. Get on in here and meet some people...</utterance>
+   <speaker>BILL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>This is a little somethin for the kids, ok? What we were talking about.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you, Bill.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget it. Now c'mon, can I get ya a mojito or somethin?</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="7">
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context>Shannon appearing in the doorway in the b.g., calling after...</context>
+      <utterance>Why we leavin so soon?</utterance>
+   <speaker>SHANNON</speaker>
+      <mode></mode>
+      <context>Lynn turning to respond, but Sam keeps her moving forward, down the driveway, past the line of parked BMW's and Mercedes to their truck at the curb...</context>
+      <utterance>Everything alright?...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get in the car.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>As they load into the truck...</context>
+      <utterance>What's wrong?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sonuvabitch is cryin pour-mouth to me and he's livin in the damn Taj Mahal...</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I asked him for five-thousand dollars to feed a buncha motherless babies and you know what he gave me?  Hundred and fifty bucks. That's it. Handed it to me like it was gold bouillon! Sonuvabitch spent more than that on salsa for his party.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="3">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doin?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And he starts pulling out weapons... shotguns and assault rifles... stuffing them into an oversize gun bag...</context>
+      <utterance>I've had it with these people and all their bullshit about wantin to help...</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam Childers...</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="3">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And for the first time in years this woman is scared. He lets go of her wrist and continues to fill the bag -- and we go --</context>
+      <utterance>Stay outta my way.</utterance>
+   <speaker>SHOP OWNER</speaker>
+      <mode></mode>
+      <context>REVERSE to see Lynn's car parked at the curb, Sam pointing to it...</context>
+      <utterance>... I'm sorry, twenty-five hundred is the best I can do for them gun.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>The Shop Owner considering, as we go...</context>
+      <utterance>Throw in the car for five.</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="4">
+   <speaker>GARANG.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam turns to Deng --</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's this guy?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's our leader.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Deng nods as we go...</context>
+      <utterance>John Garang?</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="7">
+   <speaker>GARANG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They call you Preacher. Is this what I should call you?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam is fine.</utterance>
+   <speaker>GARANG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hear what you have done for the SPLA and I am grateful.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can thank God for his blessins.</utterance>
+   <speaker>GARANG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, we can. How many children do you look after, Sam?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And they continue through the camp. A few of the children running up to Garang, touching the cuff of his shirt, then sprinting away...</context>
+      <utterance>Couple hundred with us here. Feed another thousand a day from nearby villages. Anyone who shows up hungry gets a meal.</utterance>
+   <speaker>GARANG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What you are doing is noble, but too dangerous. I must advise you to stop risking your life in our struggle.</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="10">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Until someone starts fightin for these children, I'm the one that's gonna do it.</utterance>
+   <speaker>GARANG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are stubborn, aren't you?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Garang smiling, an instant affinity for this man.</context>
+      <utterance>As a mule.</utterance>
+   <speaker>GARANG</speaker>
+      <mode></mode>
+      <context>And another child runs up to Garang, touching him, and then sprints away giggling...</context>
+      <utterance>You and I come from very different worlds, but we are not so dissimilar.</utterance>
+   <speaker>GARANG</speaker>
+      <mode>CONT'D</mode>
+      <context>More children running up... Garang touching their heads...</context>
+      <utterance>I founded the SPLA in order to fight for the future of Sudan because nobody else would. We fight for freedom from the government in Khartoum, for the right to vote, and for the right to worship any god one may choose.</utterance>
+   <speaker>GARANG</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>But most important to me is our struggle for the children. Their laughter has been lost to this country for far too long.</utterance>
+   <speaker>GARANG</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>There are Peace Talks scheduled for the end of August in Naivashu. I'd like you to come as my guest.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Talkin bout peace in a room somewhere is a waste of time. You gotta go out and make it.</utterance>
+   <speaker>GARANG</speaker>
+      <mode></mode>
+      <context>Sam turning to him, coming to an understanding here. Realizing that both of them are warriors in the same fight.</context>
+      <utterance>You are correct, but we must fight them at every level. Part of my battle is waged in those rooms. We must talk of peace, but keep our rifles ready for war.</utterance>
+   <speaker>GARANG</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Maybe together you and I can make Sudan free once again.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="2">
+   <speaker>GARANG</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>There is a cost for freedom, Sam. A price for the future of these people. Some pay with their lives, others pay in different ways.</utterance>
+   <speaker>GARANG</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>My only hope is that your cost is not too great.</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="11">
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You say prayers or somethin?</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Already did.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ok then, sweet dreams.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ain't you gonna read me a book?</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ahh, Paige, you know I don't read so good.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then let's play a game.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ok.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm thinkin of a dog.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about it?</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never mind, Donnie.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ok.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="3">
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad usually kisses me on the forehead before he leaves. You can do that.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>And Donnie does just that, bends down and kisses Paige on the head...</context>
+      <utterance>Sure I can.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context>And now we see Lynn in the hallway having just witnessed this through the cracked door, keenly feeling Sam absence in this moment.</context>
+      <utterance>Sweet dreams.</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="6">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Keep em closed! A little bit more!</utterance>
+   <speaker>BETTY</speaker>
+      <mode>ARABIC</mode>
+      <context></context>
+      <utterance>Keep your eyes closed.</utterance>
+   <speaker>ROSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Michael! Cover your eyes! No peeking!</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>The children inching forward, following his voice, until...</context>
+      <utterance>... keep comin'...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Ok, stop! Open your eyes!</utterance>
+   <speaker>BETTY</speaker>
+      <mode>ARABIC</mode>
+      <context>And we see a hundred little eyes popping open, staring at something off screen, confused for a split second at what they're looking at. REVERSE to see a PLAYGROUND: two or three battered swingsets, a few see-saws, and a jungle gym soldered out of metal pipe. And the kids SPRINTING for it, climbing all over the jungle gym like ants... hitting the swing-sets... and then we hear it... something we realize we haven't heard in this place before... the sound of laughter... children losing themselves in play. Innocence flooding back.</context>
+      <utterance>Open your eyes!</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="7">
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>Sam, no reaction, just keeps swinging the children...</context>
+      <utterance>Some of the child soldiers say there is a bounty on your life. That Kony is offering money for your nose and ears.</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I'd like to assign a few more men to you during the day.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Deng clearly worried for his friend, but doesn't press the issue. And now Sam notices William off from the group, sitting on the ground by himself, not playing.</context>
+      <utterance>He ain't the first old-boy who wanted to see my head hanging on his wall. Keep yer soldiers where they're needed. I can take care of myself.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>He said anything yet?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All we know is that his family was killed and that he and his brother were taken into the LRA.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's the brother?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody knows.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="6">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey buddy, you don't wanna play with the other kids? William, no response.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>William, no reaction whatsoever. Something dawning on Sam in this moment...</context>
+      <utterance>You know sometimes it helps to tell somebody what you got locked up inside, know what I mean?</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>William just stares back at him and Sam realizes he doesn't speak English. And they both just sit here for a moment, silent, staring at the children playing on the playground. And then Sam, feeling the need to unburden himself, begins to talk...</context>
+      <utterance>You have no idea what I'm sayin, do you?</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>William watching him quietly.</context>
+      <utterance>I done a lotta things I ain't proud of. Hurt a lotta people. Truth is, helpin you kids is about the only good thing I ever done in this life.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>But I'm scared. Scared one day I'll close my eyes to all this and make it somebody else's problem.</utterance>
+   <speaker>SAM</speaker>
+      <mode>BEAT</mode>
+      <context>And he stops and it's silent between them again. William just sitting there quietly. And Sam looks up to the sky... feeling his life washing over him... his burden... this fear.</context>
+      <utterance>Just like everybody else in this world.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Deng checking a handheld GPS unit --</context>
+      <utterance>I don't see nuthin.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is it.</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>... and we see what he sees -- CHILDREN hiding behind a bush.</context>
+      <utterance>Hold on...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I got em.</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="11">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's he sayin?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A.J. is dead.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit.</utterance>
+   <speaker>SAM</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>Tell him to stay where he is. Don't move.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't move!</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ask him if he saw the shooter.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>Nineteen responds.</context>
+      <utterance>Did you see him?!</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context>SNIPER POV -- and we see A.J.'s lifeless body lying by the children... and the SUV... and then part of Sam's head peering from behind the truck --</context>
+      <utterance>He did not see.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got `em?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. He's on the ridge... just below that outcropping.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Deng opening the rear door and reaching inside the truck... pulling out a long barrel HUNTING RIFLE as...</context>
+      <utterance>Can you reach the Browning?</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="2">
+   <speaker>CRACKKK! -- THE SNIPER DROPS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Killed instantly.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think you got him!</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="2">
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context>Sam joins Deng, sees the chains.</context>
+      <utterance>Sam.</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context>Sam realizing that these children were used as bait -- for him.</context>
+      <utterance>LRA wanted us here.</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="3">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everybody ok?</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yeah, everybody's just fine. I was just callin to say `hey' is all.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How're the girls?</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="10">
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're good. Paige cooked us all dinner the other night. Chocolate-chip pancakes.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By herself, huh?</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>And now we see Donnie's DOPE WORKS sitting on the table in front of him. He's using again.</context>
+      <utterance>Yep. I helped her with the stove is all. She did everything else. Pretty good too.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>How's it goin over there?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goin fine.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, maybe I'll come with you one of these trips. I'd like to get outta here for a spell. See what it's like.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And it's silent between them... both of these men lost in their own worries for a moment... and then...</context>
+      <utterance>Sounds good.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ask you a question?</utterance>
+   <speaker>SAM'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>DONNIE'S VOICE</speaker>
+      <mode></mode>
+      <context>And we're watching Sam, this question hitting him like a freight train. Unable to answer.</context>
+      <utterance>You think God will forgive us for the things we've done?</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="9">
+   <speaker>AGNETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the camps. The children. They say there is a white preacher who hunts the LRA. This place does not need more killing, Mr. Childers.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm just tryin to help these people. Same as you.</utterance>
+   <speaker>AGNETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>War upon war does not fix what is broken here. The history of this country is filled with righteous killers. That is how it always begins, with men thinking they are killing for the right reasons.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got a 200 kids who are gonna sleep safe tonight and wake up tomorrow mornin to a bowl of hot food. Right or not, that's all the reason I need.</utterance>
+   <speaker>AGNETE</speaker>
+      <mode></mode>
+      <context>Sam turning to her, face-to-face, starting to get pissed...</context>
+      <utterance>And what about the rumors I have heard about you supplying weapons to the SPLA?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You fight the evil in this place your way, I'll fight it mine.</utterance>
+   <speaker>AGNETE</speaker>
+      <mode></mode>
+      <context>Sam, finished with this conversation, slams the lift-gate closed on the truck and starts to climb in...</context>
+      <utterance>Do not delude yourself, Mr. Childers. You're a mercenary, not a humanitarian.</utterance>
+   <speaker>AGNETE</speaker>
+      <mode>CONT'D</mode>
+      <context>Sam looking at her and there's a warning in what she says next... about violence corrupting men... consuming them...</context>
+      <utterance>They say you are doing good. That you have special powers. That you are protected by angels and cannot be killed by bullets.</utterance>
+   <speaker>AGNETE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>They said the same thing about Kony in the beginning.</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="3">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's goin on?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An LRA convoy has moved north over the border. They're heading for Ed Duim.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's where they sell em on the black market, ain't it?</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="2">
+   <speaker>NINETEEN</speaker>
+      <mode></mode>
+      <context>Sam and Deng moving to the back of the Transport Truck...</context>
+      <utterance>Clear!</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Marco hustling up with a spotlight -- Sam switching it on as Deng rips the canvas back and we see --</context>
+      <utterance>Bring me a flashlight.</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="7">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'd he say?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>The implication of this hitting Sam, his mind reeling, turning to Nineteen...</context>
+      <utterance>The truck is too damaged to move.  We don't have room for them all, Preacher.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bring our truck up here and shine them lights on us.</utterance>
+   <speaker>SAM</speaker>
+      <mode>TO DENG</mode>
+      <context></context>
+      <utterance>Pull everyone of them kids outta there.</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>Deng and Marco helping the children out... one-by-one... untying them...</context>
+      <utterance>Bring the children out...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Put em right here... real easy...</utterance>
+   <speaker>DENG</speaker>
+      <mode>ARABIC</mode>
+      <context></context>
+      <utterance>Put them together here... gently...</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="8">
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What are you doing?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And Sam moves to the first child in the group -- a little girl -- reaching out to her but she pulls back.</context>
+      <utterance>We're takin the ones that ain't gonna make it through the night. Come back for the others later.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Tell her I'm not gonna hurt her.</utterance>
+   <speaker>DENG</speaker>
+      <mode>ARABIC</mode>
+      <context>And slowly the little girl steps forward... and Sam gently unbuttons her shirt and begins to examine her little body... turning her around in the harsh light of the SUV's headlamps... and he finds five infected gashes on her back... whip wounds... already turning gangrene... and he gently pushes her toward Deng...</context>
+      <utterance>It's ok... he will not hurt you...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And Sam continues with the group... assessing each child's health... tenderly running his hands over their broken, starved bodies... somehow calculating which ones are worse off and pulling them out of line... ... and he reaches the last child and we see that the SUV is now PACKED with children... huddled into every available corner... 10 children in total. There's no more room.</context>
+      <utterance>Put her in the truck.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>Deng hesitating, knows the reaction he's going to get...</context>
+      <utterance>Tell em we're comin back.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Tell em!</utterance>
+   <speaker>DENG</speaker>
+      <mode>ARABIC</mode>
+      <context>The children become hysterical, crying, running at Sam and grabbing for him, begging to be taken.</context>
+      <utterance>We will be back for you!</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="4">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>(to the children, holding up</context>
+      <utterance>Let's go!</utterance>
+   <speaker>TWO FINGERS)</speaker>
+      <mode></mode>
+      <context>Sam, Deng, and the others loading into the SUV... some of them climbing onto the roof... the only available space... the remaining children clamoring around the truck as it begins to pull away...</context>
+      <utterance>Two hours... I'll be back in two hours...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>Deng yelling this to the children as they drive off...</context>
+      <utterance>Tell em to hide. Don't come out til they see my face...</utterance>
+   <speaker>DENG</speaker>
+      <mode>ARABIC</mode>
+      <context>... the faint cries of the children slowly fading as they speed into the darkness.</context>
+      <utterance>Hide until we return!</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="2">
+   <speaker>CUSTOMS OFFICER</speaker>
+      <mode></mode>
+      <context>And he looks up, studies Sam --</context>
+      <utterance>Sudan?</utterance>
+   <speaker>CUSTOMS OFFICER</speaker>
+      <mode>CONT'D</mode>
+      <context>And we see Sam has no answer for him. This question beginning to plague him like a festering sore.</context>
+      <utterance>What are you doing over there?</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="3">
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>He looking up as Donnie gets out of his car, smiling.</context>
+      <utterance>Sam!</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>Donnie is strung out, but Sam is too deep in his own shit to see it.</context>
+      <utterance>Sorry I'm late. Sixteen was all jammed up...</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Welcome home, buddy.</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="9">
+   <speaker>BANK MANAGER</speaker>
+      <mode></mode>
+      <context>REVERSE to see Sam sitting in a chair across from him, a manila folder filled with his business papers sitting on his lap.</context>
+      <utterance>I understand what you're saying, but there's just not a lot we can do, until we pay down some of what you owe my hands are tied.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's just an application for a short term loan.</utterance>
+   <speaker>BANK MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam, we already took out a second on your home.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's only 90 days.</utterance>
+   <speaker>BANK MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're completely leveraged.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam opens a manilla folder and pulls out a photo of a truck for sale.</context>
+      <utterance>I only got one truck over there, John. I need the money to buy a second vehicle.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's important. Now, there's one in Kampala I can probably get for twenty- one...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>An employee approaches the bank manager with something to sign, looks down at the photos. The Bank Manager becoming uncomfortable.</context>
+      <utterance>I want you to look at this. See that? Twelve year old boy had both his arms cut off by LRA...</utterance>
+   <speaker>BANK MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam... It's not necessary.</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="8">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look at this John, when we found this little girl her breasts had been hacked off... Bank Manager not looking at the photograph...</utterance>
+   <speaker>BANK MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam, this isn't necessary...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Bank Manager glancing at the photograph then looking away...</context>
+      <utterance>Look at her. Look at this girl.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Now I ain't in here askin fer money fer a hot tub or vacation or somethin like that. I'm askin for an extra vehicle so I can save some children. You understand that?</utterance>
+   <speaker>BANK MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I do, but...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But nuthin. I need you to open yer little book there and do whatever you need to do to get me that loan...</utterance>
+   <speaker>BANK MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sam, You need to calm down...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And he slams the desk with his open hand, taking us to...</context>
+      <utterance>Don't tell me to calm down! Look at those pictures! -- Look at em, John --</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Open yer eyes!... Wake up!...</utterance>
+   <speaker>SAM</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>You call yerselves children of God, but you ain't. Ya'll just sheep followin him deaf, dumb, and blind...</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="6">
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mary Strauss and them is havin dinner at The Chimney.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's her date?</utterance>
+   <speaker>PAIGE'S FRIEND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tony Wilks.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought Tony Wilkes was goin with Patty Hobbes' daughter.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context>And now we see Sam off from the group, absently watching the TV in an adjoining room... and a NEWS REPORT begins... a PICTURE OF JOHN GARANG flashing on the screen... Sam moving closer to the set so he can hear --</context>
+      <utterance>They broke up last month.</utterance>
+   <speaker>TV NEWSCASTER</speaker>
+      <mode></mode>
+      <context>Sam going completely still...</context>
+      <utterance>... Sudanese opposition leader John Garang has been killed in a helicopter crash according to a statement released by the Sudanese Government in Khartoum today.</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="11">
+   <speaker>TV NEWSCASTER</speaker>
+      <mode>CONT'D</mode>
+      <context>Sam frozen, shocked... just staring at the TV as the newscast switches to another story...</context>
+      <utterance>Six of Garang's associates and seven others also died in the crash which is being blamed on bad weather.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode>O.S.</mode>
+      <context>Sam looking up to find everybody staring at him.</context>
+      <utterance>Dad? -- Dad?</utterance>
+   <speaker>PAIGE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What do you think about us gettin a limo for next weekend? Wouldn't be too expensive since there'd be six of us. Sam lost here for a moment...</utterance>
+   <speaker>PAIGE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Hel-lo? Earth to Dad? What do you think?</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honey, you ok?</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heck, why don't I just drive ya'll?</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We ain't crammin in the back of your Caprice.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ya'll could fit in there easy.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We got dresses, Donnie! We'll get all wrinkled! Plus it smells in there.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can get some freshener, Paige, that ain't no problem.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad, what you think? Can we get a limo?</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="6">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad. Please. Patty and them is gettin one.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ain't rentin no limo to Pittsburgh.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We could probably get us a deal through one of Tom Hickey's boys. Between the six of them it wouldn't cost too much.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody's spendin money on no friggin limousine.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context>Sam snapping, FLASHING WITH RAGE --</context>
+      <utterance>But dad...</utterance>
+</dialogue>
+
+<dialogue id="128" n_utterances="5">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're just talkin bout it, honey...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too much talk in this house. I got mouths to feed and you're talkin bout pissing money away on a limo.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's my formal, dad.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Tears welling up in Paige's eyes, anger, hurt, wanting to lash out at him somehow. And what she says next she's felt her whole life...</context>
+      <utterance>I don't give a shit what it is! You ain't gettin no limo, end of story.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You love them black babies more than you love me.</utterance>
+</dialogue>
+
+<dialogue id="129" n_utterances="4">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>Donnie instinctively grabbing his arm, protective...</context>
+      <utterance>Sam...</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>And Sam spins -- gets in his face -- eyes dark and threatening --</context>
+      <utterance>Hey...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell you think you're doin, boy?</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honey...</utterance>
+</dialogue>
+
+<dialogue id="130" n_utterances="5">
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it easy, buddy.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam and Donnie toe-to-toe and the threat of serious violence here. Tension like a hair trigger.</context>
+      <utterance>Don't tell me to take it easy in my own fuckin house...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>That ain't your wife and this ain't your family. You nuthin but a stray fuckin dog round here, boy.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't mean that...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Donnie standing here, hurt... looking to Lynn to make sure she's alright and she nods for him to go... and he turns and walks out. Paige bursting into tears and running out of the room.</context>
+      <utterance>Hell I don't. Now you get the fuck outta here fore I put yer head through that wall.</utterance>
+</dialogue>
+
+<dialogue id="131" n_utterances="7">
+   <speaker>BIKER</speaker>
+      <mode></mode>
+      <context>Sam nods.</context>
+      <utterance>Yep, you him. I seen your face in the papers few years ago. Call you the Machinegun Preacher, right?</utterance>
+   <speaker>BIKER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Told you this is the guy.</utterance>
+   <speaker>BIKER</speaker>
+      <mode>TO SAM</mode>
+      <context></context>
+      <utterance>Hot damn, I knew it! Papers was talkin bout how you was like some kinda African Rambo or somethin, right?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't mind, I'd like to just sit here right now.</utterance>
+   <speaker>BIKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You still helpin them niggers over there? Sam bristling...</utterance>
+   <speaker>BIKER</speaker>
+      <mode>CONT'D</mode>
+      <context>The Biker smiles a nasty, malicious smile. His buddies moving next to him now... and we see a quiet storm brewing in Sam...</context>
+      <utterance>The way I figure it, the reason you so interested in helpin them porch monkeys is cause you probably throwin it in them nigger bitches, ain't ya?</utterance>
+   <speaker>BIKER</speaker>
+      <mode>CONT'D</mode>
+      <context>Sam staring at the Biker with a look we've come to know -- and -- CRACKKKK! -- Sam HEAD-BUTTS the Biker's face and a sudden, violent brawl breaks out -- Bikers swinging cue sticks -- Sam wading into the crew -- swinging wild -- taking the Biker down and stomping on his face -- bloody -- murderous -- and then --</context>
+      <utterance>Am I right? You a nigger fucker, boy? A moment here --</utterance>
+</dialogue>
+
+<dialogue id="132" n_utterances="4">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>BEAT. Sam says nothing.</context>
+      <utterance>You're gonna sit there and you're gonna lemme talk.</utterance>
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I've always believed in you. I trusted you, trusted the Lord, and did what I could so you could follow your dream.</utterance>
+   <speaker>LYNN</speaker>
+      <mode>BEAT</mode>
+      <context>She looks to him and we see she has tears in her eyes...</context>
+      <utterance>But I ain't willin to lose you to what you're doin over there. Ain't gonna just stand by and watch you get swallowed up by it.</utterance>
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I know you're all them kids got, but you're all we got too. Paige needs her father. I need my husband.</utterance>
+</dialogue>
+
+<dialogue id="133" n_utterances="2">
+   <speaker>DONNIE</speaker>
+      <mode>QUIETLY</mode>
+      <context>Donnie hesitating... doesn't hang-up... and we can feel how badly he needs to talk to somebody...</context>
+      <utterance>Hey buddy, it's Donnie. Shoot, I was hopin' you was there...</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Other day I was thinkin bout when you and me was kids.</utterance>
+</dialogue>
+
+<dialogue id="134" n_utterances="2">
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context>Donnie smiling to himself, a fleeting memory, and then something dark coming over him. And now we see another man here in this shitty dope house, cooking up a spoon of black tar, juicing a needle. Donnie watching him like a hawk...</context>
+      <utterance>That summer we'd go down to the quarry over in Montrose, remember that? We hooked up them ropes and spent all day swimmin and jumpin off them walls...</utterance>
+   <speaker>DONNIE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I wish you was there to pray with me, buddy.</utterance>
+</dialogue>
+
+<dialogue id="135" n_utterances="3">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Most of you want me to stand up here and make some sense outta this. That's why you come here today. You want me to tell you that God has his plan for all of us, and when he wants to call us back home he's gonna do it.</utterance>
+   <speaker>SAM</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>That's what you wanna hear...</utterance>
+   <speaker>SAM</speaker>
+      <mode>QUIETLY</mode>
+      <context></context>
+      <utterance>That's what you wanna hear...</utterance>
+</dialogue>
+
+<dialogue id="136" n_utterances="2">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>S'cuse me, what are you doing?</utterance>
+   <speaker>MOVER</speaker>
+      <mode></mode>
+      <context>And she makes her way into...</context>
+      <utterance>Loadin up...</utterance>
+</dialogue>
+
+<dialogue id="137" n_utterances="7">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>And now she sees Sam going through a cabinet in the back.</context>
+      <utterance>Hey, s'cuse me...</utterance>
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context>Sam slamming the cabinet closed, moving past her without saying a word. Lynn grabbing his arm, stopping him.</context>
+      <utterance>Sam, what's goin on? What are these men doin here?...</utterance>
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Where are they taking our stuff?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ain't ours no more. Best go through and make sure they ain't takin nuthin that belongs in the house.</utterance>
+   <speaker>104</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He walks off...</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>And she sees two men start to dismantle the "Childers Construction Company" sign that she painted herself years ago --</context>
+      <utterance>Sam...</utterance>
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Hey! -- Don't touch that! --</utterance>
+</dialogue>
+
+<dialogue id="138" n_utterances="6">
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honey, I know you're hurtin. I know you're angry, but we need to talk about this...</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam grabs papers from the counter and hands them to Lynn. She quickly pages through them, can't believe what she's reading.</context>
+      <utterance>It's all done, so save yer breath... where's the keys to the safe?</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sold the business for $27,000?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need a new truck for the orphanage.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A new truck? You sold our business for a new truck? Sam finds the Keys.</utterance>
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>That was our future, Sam. Paige's future. Lynn follows Sam into the office.</utterance>
+</dialogue>
+
+<dialogue id="139" n_utterances="13">
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Everything we have has gone to those children, Sam. There's a point when there ain't no more to give.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the combination? What's the fucking combination.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>Sam starts to spin the combination but hesitates...</context>
+      <utterance>Paige's birthday.</utterance>
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You don't know it, do you? You don't even remember your own daughter's birthday.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are the numbers?</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>She moves past him, spinning the combination and cranking open the vault. Sam grabbing a couple stacks of cash.</context>
+      <utterance>You fight for everyone but us.</utterance>
+   <speaker>LYNN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You take that and we lose the house. The church. All of it.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can make it up with the ministry.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>And he looks to her...</context>
+      <utterance>What ministry?! They see what you've become, Sam. They see how far gone you are. You need to get quiet with The Lord.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck the Lord.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't say that. Don't turn yer back on him.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... He turned his back on me! -- on Donnie! -- on every one of them kids over there.</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The good you're doin is destroyin this family.</utterance>
+</dialogue>
+
+<dialogue id="140" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>Sam standing here, weighing something in his mind. A choice he must make here... and finally he moves past her...</context>
+      <utterance>What good have I ever done?</utterance>
+   <speaker>LYNN</speaker>
+      <mode></mode>
+      <context>But he's gone.</context>
+      <utterance>Please don't leave...</utterance>
+</dialogue>
+
+<dialogue id="141" n_utterances="2">
+   <speaker>AGNETE</speaker>
+      <mode></mode>
+      <context>Agnete and the LRA LEADER meet in the middle of the bridge --</context>
+      <utterance>It's ok -- we are a relief convoy --</utterance>
+   <speaker>AGNETE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>We have only medical supplies -- non-</utterance>
+</dialogue>
+
+<dialogue id="142" n_utterances="2">
+   <speaker>AGNETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We are only a relief convoy --</utterance>
+   <speaker>LRA LEADER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut your mouth!</utterance>
+</dialogue>
+
+<dialogue id="143" n_utterances="3">
+   <speaker>WILLIAM</speaker>
+      <mode>ARABIC</mode>
+      <context>William pulls out the photograph of his brother, holds it up...</context>
+      <utterance>I want to ask you something...</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>This is my brother. His name is Christopher. He was stolen by the rebels.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode>BEAT</mode>
+      <context>The Rebel looks at the photograph but says nothing, just shakes his head... and he looks off, his thousand yard stare inscrutable... And William simply folds the photograph back up and slips it into his pocket... but he doesn't leave... he sits here a moment longer... quietly... thinking... and then...</context>
+      <utterance>Do you know if he is alive?</utterance>
+</dialogue>
+
+<dialogue id="144" n_utterances="2">
+   <speaker>WILLIAM</speaker>
+      <mode>CONT'D</mode>
+      <context>The Rebel hears this and turns to him... and nods his head...</context>
+      <utterance>Were you taken when you were young like me?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode>CONT'D</mode>
+      <context>And we see something happening in this hardened rebel... his eyes filling with a distant memory... a sadness... and slowly he nods his head again. And we stay here with these two lost souls sitting next to each other... silent... connected by a shared history and anguish.</context>
+      <utterance>Do you remember your parents?</utterance>
+</dialogue>
+
+<dialogue id="145" n_utterances="7">
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you hear that, Preacher?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There is no more laughter. The children do not play here anymore. They are scared once again.</utterance>
+   <speaker>DENG</speaker>
+      <mode>BEAT</mode>
+      <context>Sam, no response.</context>
+      <utterance>But now they are scared of you.</utterance>
+   <speaker>DENG</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>The men do not trust you any longer to lead them into battle. They say you have a wish to die.</utterance>
+   <speaker>DENG</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>I am worried about my friend. I want to help him.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And Sam turns away. After a beat Deng walks off, leaving him alone once again.</context>
+      <utterance>I don't need your help.</utterance>
+</dialogue>
+
+<dialogue id="146" n_utterances="5">
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>Sam looking to William... this small boy sitting above him... telling his story...</context>
+      <utterance>I remember my parents when I sleep. I see them in my dreams sometimes.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode>CONT'D</mode>
+      <context>And William pauses in his story... lost in this memory... his face becoming a mask of pain... but no tears... there are no more tears in this young man left to be shed... and so he continues...</context>
+      <utterance>My father was big like you. They shot him. We were so scared. Then the rebels gave me a club and told me if I didn't kill my mother they would shoot my brother and me.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I refused, but my mother told me to swing hard... that I must make her proud...</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode>BEAT</mode>
+      <context>And now William looks down at Sam... staring at this man on the ground... and he reaches out and gently touches Sam's head... a moment of tenderness for both of them... an act of love.... these two broken souls finding each another here... and William says...</context>
+      <utterance>And so I did. I made her proud.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>If we allow ourselves to become full of hate then they've won. We must not let them take our hearts. This is the most important thing.</utterance>
+</dialogue>
+
+<dialogue id="147" n_utterances="2">
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bug? You there?</utterance>
+</dialogue>
+
+<dialogue id="148" n_utterances="8">
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, it's me.</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ok?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And there's a long pause... so much to say but no words to say it... each of them holding their phones to their ears and just listening... and finally Sam says...</context>
+      <utterance>I'm ok, Bug.</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>And we see tears well up in Paige's eyes when she hears this... and now we see Lynn coming around the corner, overhearing them as they begin their little game one more time...</context>
+      <utterance>I'm thinkin of a tree...</utterance>
+   <speaker>PAIGE</speaker>
+      <mode></mode>
+      <context>Sam smiling to himself... and we realize this man is coming back to life when he says...</context>
+      <utterance>You said tree... I'm thinkin of a knee.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You said knee, I'm thinkin of bee...</utterance>
+   <speaker>SAM</speaker>
+      <mode>BEAT</mode>
+      <context></context>
+      <utterance>I love you, Bug.</utterance>
+</dialogue>
+
+<dialogue id="149" n_utterances="6">
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me...</utterance>
+   <speaker>SPLA SOLDIER #3</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it true an LRA commander was captured last night? Soldiers nodding their heads "yes."</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Where is he being held?</utterance>
+   <speaker>SPLA SOLDIER #3</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At the army base in Kisoro.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you going there?</utterance>
+</dialogue>
+
+<dialogue id="150" n_utterances="5">
+   <speaker>SPLA SOLDIER #3</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I ride with you?</utterance>
+   <speaker>SPLA SOLDIER #3</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do you want to go to Kisoro?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to ask the commander something.</utterance>
+   <speaker>SPLA SOLDIER #3</speaker>
+      <mode></mode>
+      <context>And the soldiers turn their backs on William and he slinks away.</context>
+      <utterance>No, you cannot ride with us. Wait till tomorrow and go with the women on the bus.</utterance>
+</dialogue>
+
+<dialogue id="151" n_utterances="2">
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>Sam closing his eyes, knows instantly what William has done.</context>
+      <utterance>Some of the soldiers said he was asking about the commander that is being held at Kismoro.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get em on the phone, see if he's shown up at the base yet.</utterance>
+</dialogue>
+
+<dialogue id="152" n_utterances="2">
+   <speaker>VOICE</speaker>
+      <mode>O.S. - ARABIC</mode>
+      <context>The soldier freezes -- everyone turning as an LRA COMMANDER comes through the crowd -- takes the axe from the soldier --</context>
+      <utterance>Stop!</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He ran from us.</utterance>
+</dialogue>
+
+<dialogue id="153" n_utterances="2">
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They have not see the boy.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ok. Get Nineteen and Marco -- we're gonna go look for him.</utterance>
+</dialogue>
+
+<dialogue id="154" n_utterances="2">
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>Sam looking at a topo map on his lap...</context>
+      <utterance>It will be light soon. What do you want to do?</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's go through Maridi, see if they've seen anything.</utterance>
+</dialogue>
+
+<dialogue id="155" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And we see Deng coming out of the bush to his right -- and then Nineteen to his left -- and they charge on the remaining rebels -- Sam providing covering fire -- a curtain of lead cutting through the enemy -- and just like that it's over -- Sam waving behind him --</context>
+      <utterance>Go! -- Go! -- Go! -- Go!</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>-- and suddenly there's just a sick silence -- smoke rising from the shot-to-shit LRA trucks -- bodies strewn in the dirt -- the brand new orphanage truck bombed out and smoking on it's side. And Sam makes his way to the first TRANSPORT TRUCK -- Deng covering him as he rips the canvas back to see --</context>
+      <utterance>Cease fire!!</utterance>
+</dialogue>
+
+<dialogue id="156" n_utterances="5">
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Pull em all out! C'mon, let's go!</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take them out.</utterance>
+   <speaker>118</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Soldiers start to unload the children --</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cut them loose!</utterance>
+   <speaker>DENG</speaker>
+      <mode></mode>
+      <context>Sam moves to the second TRANSPORT TRUCK, rips the canvas back to</context>
+      <utterance>Cut the ropes!</utterance>
+</dialogue>
+
+<dialogue id="157" n_utterances="3">
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>And we've seen this before... Sam going through these children... assessing their health... one by one... separating the worse off from the others... forming two group... turning to Deng and Nineteen and motioning to the smaller group (about 15 children)...</context>
+      <utterance>C'MON, LET'S GO!... get em out of there and line em up! -- C'MON! --</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context>Deng herding the children toward the one good truck...</context>
+      <utterance>Load these here into the truck. Put em three deep if you have to...</utterance>
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Come with me --</utterance>
+</dialogue>
+
+<dialogue id="158" n_utterances="2">
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Get them AK's too.</utterance>
+   <speaker>SAM</speaker>
+      <mode>ARABIC</mode>
+      <context>Marco swinging four or five machine guns onto his shoulder...</context>
+      <utterance>The machine guns.</utterance>
+</dialogue>
+
+<dialogue id="159" n_utterances="4">
+   <speaker>SAM</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I need all you to climb up on that roof and keep yer eyes peeled. That road back might be hot, so be ready.</utterance>
+   <speaker>NINETEEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about you, Preacher?</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Sam turns to see Deng next to him, holding an AK in his hands, a steely resolve in his eyes. Sam nods, emboldened by his support.</context>
+      <utterance>We're staying.</utterance>
+   <speaker>SAM</speaker>
+      <mode></mode>
+      <context>The soldiers load onto the SUV and drive off, leaving Sam and Deng standing here in the middle of these 85 children. Waiting for the war that will surely come.</context>
+      <utterance>Go on. Get outta here.</utterance>
+</dialogue>
+
+
+</movie>

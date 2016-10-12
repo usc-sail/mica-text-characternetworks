@@ -1,0 +1,3109 @@
+<movie id="410" title="Newsies">
+
+<dialogue id="1" n_utterances="2">
+   <speaker>WALT DISNEY PICTURES</speaker>
+      <mode></mode>
+      <context>Burbank, CA 91505</context>
+      <utterance>500 South Buena Vista St.</utterance>
+   <speaker>560-1000</speaker>
+      <mode>818</mode>
+      <context></context>
+      <utterance>Tom Rickman FIRST DRAFT</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="2">
+   <speaker>KLOPPMAN</speaker>
+      <mode></mode>
+      <context>Jack jumps out of his bunk and shakes the BOY below.</context>
+      <utterance>Ink's wet, the presses are rolling, the papers are stacking -- rise and shine, make a dime, no news without the Newsies -- etc.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wake up, Crutchy -- The World is waitin'.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="2">
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How'd you sleep, Jack?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On me back, Mush.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="4">
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You hear that, you hear what he said? I ast how'd he sleep --</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context>He hobbles towards Jack on one crutch.</context>
+      <utterance>Jack, this look like I'm fakin' it?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who says you're fakin' it?</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The streets are fulla fakes these days -- it's hurtin' the rep of genuine articles like myself. I gotta find me a new sellin' spot, where they ain't used to seein' me. Jack smiles; Mush taps Crutchy on the arm... sings.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="3">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Feel like rain?</context>
+      <utterance>What's your leg say, Crutch?</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No rain -- partly cloudy, clearin' towards evenin'.  Who ya sellin' wit, Jack?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jack spots a passing wagon and helps Crutchy on board -- he and Mush jump on for the ride and they all move off --</context>
+      <utterance>Ain't decided yet.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="3">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Les, hurry up, willya? Why do I gotta be saddled with you?</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do I gotta be saddled with you?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on -- They'll run out of papers!</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="4">
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Mornin', Officer.</utterance>
+   <speaker>OFFICER</speaker>
+      <mode>COP</mode>
+      <context></context>
+      <utterance>I'm keepin' my eye on you, Blink.</utterance>
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I'll keep my eye on you, too, sir.</utterance>
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context>Blink and the boys race into an alley --</context>
+      <utterance>Get moving!</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="5">
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context>The wagon passes -- Jack, Mush and Crutchy get out.</context>
+      <utterance>I'm wiped out -- my mother'll murder me -- if I had one.</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jack -- whattaya know, whattaya say. Got a hot tip on a nag in the fourth at Sheepshead -- sure t'ing!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your last sure t'ing's still runnin', Racetrack.</utterance>
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ya hear that? Race says sure t'ing and Jack says -- ya hear what he said, ya hear it, he said --</utterance>
+   <speaker>BOOTS/CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We heard it!</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="8">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stupid question.</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stupid question.</utterance>
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That an echo? Or is the Crip followin' ya again?</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah? How'd you like it if a crip cracked your head?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Better choke it, Blink -- 'fore you need another patch.</utterance>
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, who ya sellin' wit, Jack?</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not wit you!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing personal, Blink, but...</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="2">
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How 'bout savin' me another roll -- okay, sister?</utterance>
+   <speaker>GUTTERSNIPE</speaker>
+      <mode></mode>
+      <context>The Nun smiles and gives them both one.</context>
+      <utterance>Hey! Save some for the rest of us!</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="6">
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too rotten to be the sewer. It must be --</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context>For revenge, Oscar jerks Snipeshooter out of line and propels him to the rear.</context>
+      <utterance>-- the Delancey brothers!</utterance>
+   <speaker>OSCAR</speaker>
+      <mode></mode>
+      <context>Oscar and Morris glare at the crowd, daring anyone to do anything about it. Jack calmly walks Snipe back to his place in line, then faces the Delanceys who try to stare him down. The air is electric. Nearby --</context>
+      <utterance>Inna back, ya ugly little shrimp!</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context>The Newsies shake their heads. Nearby the staring contest continues until --</context>
+      <utterance>Five to one, I say Cowboy skunks 'em -- who's bettin', who's bettin' --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>The brothers glower, look at each other, then back at Jack, who grins at them.</context>
+      <utterance>You shouldn't be callin' people ugly little shrimps. Oscar. Unless you're referrin; to the family resemblance in your brother here.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jack deftly reaches out both hands and flips the derbys off both their heads. The brothers scramble for them and the chase is on.</context>
+      <utterance>That's right. It's an insult. And so's this --</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="2">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Watch it, willya? What do you think you're doing!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Runnin'.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="3">
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context>The Delancey brothers, reluctantly, give up the chase, and back towards the entrance to the World gates.</context>
+      <utterance>Comin' down de chute!</utterance>
+   <speaker>MORRIS</speaker>
+      <mode></mode>
+      <context>The gatekeeper unlocks and swings open the huge gates. Jack hangs on.</context>
+      <utterance>We ain't finished with you yet, Kelly.</utterance>
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context>Newsies yell out Jack's name as he rides the gates 'til the last possible moment, then leaps into the back of a wagon. Jack takes a bow as the boys cheer, moving into line. Les watches Jack, his new hero, as David pulls him along.</context>
+      <utterance>Ride 'em, cowboy!</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="5">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ya miss me, Weasel?</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context>Mister Weisel to you. How many?</context>
+      <utterance>You know my name -- it's Weisel.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>The Newsies love it as Jack deliberately takes a paper, turns and scans. Seeing Les staring at him, Jack winks. Les smiles back, fascinated. Jack turns back to Weasel with a fifty-cent piece.</context>
+      <utterance>Don't rush me -- I'm perusin' the mercandice... Mr. Weasel.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Weasel grabs for the coin -- Jack flips it out of his grasp and onto the counter. The Newsies whoop.</context>
+      <utterance>The usual.</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context>Oscar slams the papers down and Jack gives them a quick flip-count -- eyes closed -- as he moves away. Behind him, Race and the others get their papers.</context>
+      <utterance>Hundred for the wiseguy -- next!</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="2">
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ya got ya papes -- move outta here.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I paid for twenty -- you only gave me nineteen!</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="8">
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context>David's sweating, aware that all eyes are on him.</context>
+      <utterance>You callin' me a liar, kid...?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>The Delanceys start for David when suddenly Jack steps up, slams his hand on David's papers, closes his eyes and does a flip-count. The expert.</context>
+      <utterance>I want that other paper.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Weasel glowers -- but wants to get back to business. He backhands Morris who looks surprised.</context>
+      <utterance>Nineteen, Weasel. An honest mistake -- on account of Oscar can't count to twenty with his shoes on.</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Next!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Race flips him a coin. Jack slaps it on the counter.</context>
+      <utterance>Hold it. Race -- spot me two-bits.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Another fifty for my friend here.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want another fifty -- !</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure you do. Every newsie wants more papes. David, puzzled, grabs the papers and he and Les run after Jack --</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="10">
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>Jack turns, grins at Les.</context>
+      <utterance>Cowboy! They call him Cowboy!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That and a lotta other things -- including Jack Kelly, which is what my mudder called me. What do they call you, kid?</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Les. This is David, he's my brother. He's older.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No kiddin'. How old are you, Les?</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Near ten.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No good. Anybody asks, you're seven.  Younger sells more papes, Les -- and if we're gonna be partners --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold it! Who said anything about partners -- ?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You owe me two bits, right? Okay, so I consider it an investment. We sell together, split 70-30, plus you get the benefit of observin' me -- no charge.</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're gettin' the chance of a lifetime here -- you learn from Jack, you learn from the best.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If he's the best, then why does he need us?</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="6">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>David is incredulous, but Les is pleading. David sighs.</context>
+      <utterance>I don't need you, pal. But I ain't got a cute little brother to front for me. And Les here...  ... With this kid's puss and my God-given talent, we can easy move a thousand papers a week. Whattaya say? Deal?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gotta split fifty-fifty.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>David reluctantly offers his hand. Jack spits in his palm and shakes. Les whoops and they move off, Jack already being the mentor --</context>
+      <utterance>Sixty-forty. Or I forget the whole t'ing.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>You only took twenty papes -- why?</context>
+      <utterance>The name of the game is volume, Dave.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bad headline...?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>They move away from Newsie Square as above them, the GOLDEN DOME OF THE WORLD BUILDING glistens in the morning sun.</context>
+      <utterance>First t'ing you gotta learn -- headlines don't sell papes, newsies sell papes. We're what holds this town together -- without newsies, nobody knows nuttin'!</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="8">
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The news is slow, Chief, the Trolley Strike's all we got --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode>O.S.</mode>
+      <context>The magnifying glass swings to a copy of the New York Journal with a large black headline: "NUDE CORPSE ON RAILS -- NOT CONNECTED TO TROLLEY STRIKE." The CAMERA COMES AROUND to reveal JOSEPH PULITZER, himself, a thundering presence in smoked-glasses and a beard, wielding the magnifying glass like a gavel of judgment.</context>
+      <utterance>It's all Mr. William Randolph Hearst has, too -- see how he covers the strike!</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hearst is killing us in the circulation war -- and you give me headlines that would put a whirling dervish to sleep!</utterance>
+   <speaker>BUNSEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll get a new headline writer, Mr. Pulitzer.</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Steal Hearst's man -- offer him double what Hearst pays.</utterance>
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's how he stole him from us.  Chief, you spend as much as you make fighting Hearst. That's why the paper's losing money --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context>It's the Newsies far below, barely audible to the others.</context>
+      <utterance>I created the World to be the best and I'll spend whatever it takes to --  What is that deafening noise?</utterance>
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just the Newsies, Chief, I'll --</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="3">
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never mind -- where was I?</utterance>
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Creating the World, Chief.</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This paper's losing money because there's too much fat, inefficiency -- not because I'm fighting to make us number one! Well, we're going to cut costs, maximize profits -- and still beat the socks off Hearst --  I want to know how by tonight.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="3">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>David sees TWO LOVERS kissing on the steps of a building -- he tries his luck.</context>
+      <utterance>Some newsies got corners, see -- same spot, same customers. Me, I like to keep moving, enjoy the life of the big city. I spot an opportunity, I sell a pape. That's the advantage of being an independent businessman, instead of workin' for wages.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Without breaking the kiss, the man kicks out at David who jumps away. Shaking his head, Jack whispers something to Les, who rushes over to the Lovers, still kissing.</context>
+      <utterance>Paper, mister?</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>The Lovers spring apart -- the man looks like he's going to throttle Les, but --</context>
+      <utterance>Extry -- 'Runaway Carriage Crushes Cop!'</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="3">
+   <speaker>WOMAN</speaker>
+      <mode>LOVER</mode>
+      <context></context>
+      <utterance>Oh, honey... look at that sweet little lamb... David, watching with Jack, can't believe this. Les comes running back waving a coin --</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>Jack takes the dime; Les's face falls. He flips it back.</context>
+      <utterance>He gimme a dime! He said I should go far away and keep the change!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a natural, kid. You remind me of me -- and I can't say greater than that.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="6">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Extra, 'Trolley strike drags on!'</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nextry, nextry -- 'Ellis Island in flames -- big con-fla-gration!'</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What -- ? Where's that story -- ?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Nextry, 'Thousands flee in panic -- '</context>
+      <utterance>Page nine -- thank you, sir.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Trash fire near immigration building frightens seagulls -- ?'</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Terrified flight from flaming inferno!' Thank you, much obliged --</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="9">
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>He coughs, Camille-like. Makes the sale. Down the sidewalk Jack nods approvingly; David is disgusted.</context>
+      <utterance>Buy me last pape, mista...?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Our father taught us not to lie.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>So we both got an education.</context>
+      <utterance>Mine taught me not to starve.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just make things up -- like those headlines.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Les comes running back, wiping his mouth, with a quarter.</context>
+      <utterance>I don't do nothin' the guys who write this stuff don't do. It ain't lyin' -- it's just improvin' the truth a little.</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The guy gave me a quarter! Quick, gimme some more last papers!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold it -- I smell beer!</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The guy bet me I wouldn't drink some -- that's how I made the quarter!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Les' eyes go wide as he sees -- behind Jack -- a burly Irish cop (MacSWAIN) hurrying up with a cadaverous vul- ture of a man, SNYDER, who's pointing straight at them --</context>
+      <utterance>Hey, no drinkin' on the job -- it's bad for business. What if somebody called a cop or somethin'?</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="3">
+   <speaker>SYNDER</speaker>
+      <mode></mode>
+      <context>Jack spins, sees the man --</context>
+      <utterance>There he is, officer -- do your duty!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>He races off. David, confused, races after him, Les looks very worried as he runs with David --</context>
+      <utterance>Beat it -- the bulls!</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>Snyder and MacSwain in pursuit as Jack leads them into --</context>
+      <utterance>Just for one little sip of beer -- ?</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="4">
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You, Sullivan! Stop, I say! You hear me, Sullivan?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's Sullivan -- ?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mistaken identity -- all micks look alike to these birds!</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>Jack leads them into the doorway of --</context>
+      <utterance>One sip! I didn't even swallow it!</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="2">
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You young miscreant! Wait'll I get you back to the Refuge!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Refuge -- ?</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="3">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jack scoops up Les -- who's loving it -- and carries him across the plank.</context>
+      <utterance>I'm not crossing that! Anyway, I don't think they're chasing us --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No? What're they doin' then?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Snyder and MacSwain huff out onto the roof. David, still uncertain, looks back at them -- the runs across the plank. Jack calmly topples the plank to the street as the pursuers reach it, gasping for breath -- he gives Snyder a little salute, then moves on to a rooftop exit --</context>
+      <utterance>I think they're chasing you!</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="12">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want some answers -- Why was he chasing you? What's the Refuge?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>That guy, Snyder, he's the warden.</context>
+      <utterance>The Refuge is this jail for kids.</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were in jail...? Why?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was starvin'. I stole some food.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right, food. He called you 'Sullivan' --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, food. My name's Kelly, Jack Kelly, like I told you. Think I'm lyin'?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have a way of 'improving the truth.' Why was he chasing you?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I escaped.</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, boy. How?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This big shot gimme a ride out in his carriage.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bet it was the mayor, right?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>David starts to reply when he sees something behind Jack that makes his mouth drop open. At the top of a short flight of stairs, a vision is frowning down at them, speaking in a theatrical Swedish accent.</context>
+      <utterance>Nah. Teddy Roosevelt. Ever heard of him?</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="9">
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is the meaning of this? No one is allowed backstage -- you will leave at once! Out, out, out, out -- She descends the stairs grandly, shooing them away like pigeons. Jack turns to her and grins.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Surprised, she gasps in delight -- throwing her arms around Jack. David can't believe it. Medda's accent quickly disappears.</context>
+      <utterance>You wouldn't kick me out without a kiss goodbye, wouldya, Medda?</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kelly, where've you been, kid? I miss you up in the balcony -- you know I sing all my songs to you.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is David and Les. And this is the greatest star of the vaudeville stage today, Miss Medda Larkson, the Swedish Meadowlark.</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welcome!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Medda also owns the joint.</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context>Don't even think about it.</context>
+      <utterance>Don't ever own a theater, kid.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't. I promise.</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What have we here -- ? Aren't you the cutest little fella that ever was -- yes, you are --</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="4">
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>A Camille-cough. Medda looks at him critically.</context>
+      <utterance>Buy my last pape, lady?</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This kid is good. Speaking as one professional to another, I'd say you got a future.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay if we hang here awhile, Medda? 'Til a little problem outside goes away?</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As long as you like -- now the lark must warble. Hey, you --  -- give my guests whatever they want.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="3">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's late, my folks'll be worried ... What about yours?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>It's the cover of a dime novel with a blue-perfect sky over a perfect yellow desert; a large red sun shines down on a perfect adobe.</context>
+      <utterance>They're out west lookin' for a place for us to live --  -- like this.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's Sante Fe -- out in New Mexico? Soon's Pop finds us the right ranch, they're sendin' for me.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="4">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>The mob is chasing two men towards them, screaming --</context>
+      <utterance>Why don't we divvy up at my place...? You can meet my folks...</utterance>
+   <speaker>MOB</speaker>
+      <mode></mode>
+      <context>A conductor with a bloody head and terrified face runs past them -- but conductor two is caught, tackled, beaten -- David pulls Les away --</context>
+      <utterance>Scabs! Soak the scabs! Etc.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>The boys move away, Jack looking back at the beating.</context>
+      <utterance>Jack -- let's get outta here -- !</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe tomorrow we get a decent headline.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="4">
+   <speaker>ESTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My God...! What happened?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>She quickly takes him from Jack. MAYER, 43, is relieved but angry to see his sons -- his right arm is bandaged.</context>
+      <utterance>He's just sleeping, Momma --</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context>David says nothing; crosses to the table and dumps the day's receipts on it, looks up at his father proudly.</context>
+      <utterance>We've been waiting dinner -- where've you been?</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You made all this selling papers...?</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="4">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jack nods awkwardly, starts to say something when SARAH, 16, enters from another room with an armload of lace piecework. She's beautiful -- Jack becomes instantly tongue-tied.</context>
+      <utterance>Half of it's Jack's -- he's our selling partner. And our friend. This is my parents.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>She smiles -- Jack still can't find his tongue. Mayer, seeing his awkwardness, steps in --</context>
+      <utterance>That's Sarah. My sister.</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context>Add some more water to the soup.</context>
+      <utterance>Esther -- maybe David's partner would like to stay for dinner.</utterance>
+   <speaker>ESTHER</speaker>
+      <mode></mode>
+      <context>Mayer laughs, joined by Sarah and David -- and finally Esther herself as she waters the soup. Jack stands drinking in the family's warmth.</context>
+      <utterance>Mayer...!</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="4">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What I saw today, I gotta say your boys are born Newsies, Mr. Jacobs. With my experience and their hard work -- just a little more, thanks --  -- I figure we can peddle a thousand a week and not break a sweat.</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That many...?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>More when the headline's good.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What makes a headline good?</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="8">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Sarah and David giggle; Esther looks shocked.</context>
+      <utterance>Catchy words -- like, uh, 'corpse' or 'maniac,' or, let's see, 'love nest' or 'nude' --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Scuse the language there, uh, maybe I'm talkin' too much...</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You talk fine, Jack -- Sarah, get that cake your mother's been hiding in the cabinet!</utterance>
+   <speaker>ESTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's for your birthday tomorrow!</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context>David leaps up to fetch silver; Sarah gets a luscious chocolate cake from a cabinet --</context>
+      <utterance>I've had enough birthdays! This is a celebration!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's only the beginning -- the longer I work, the more I'll make --</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context>All activity stops, an awkward silence. Mayer looks at his bandaged hand.</context>
+      <utterance>You work only until I go back to the factory! Then you go back to school, like you promised.</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context>Jack sees how worried the family is. No one seems able to speak, then --</context>
+      <utterance>It will heal... they'll give me back my job... I'll make them...</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="7">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How'd your pop get hurt?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Inside, Esther is singing a lullaby to Les; Mayer calls out to David.</context>
+      <utterance>The factory. An accident.  He's no good to them anymore so they just fired him. He's got no union to protect him.</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context>Jack looks in at the warm family tableau: the lullaby, Sarah reading to Mayer. David, going in, sees his friend's expression.</context>
+      <utterance>David? Time to come in now.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you stay here tonight...?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got my own place... but thanks. Your family's real nice, Dave.  Like mine. David nods, climbs in the window.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See you tomorrow. Carryin' the banner.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jack watches as David rejoins the family inside, the warmth, the casual intimacy. He moves off, singing:</context>
+      <utterance>Carryin' the banner.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="4">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How'd it go at the track, Race?</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context>They smile and continue into --</context>
+      <utterance>That hot tip I told you about? Nobody told the horse.</utterance>
+   <speaker>KLOPPMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You missed your supper, boys.</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then we didn't miss much, did we?</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="3">
+   <speaker>JONATHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Actual income, as well as projected income, against actual operating costs, as well as projected operating costs, produce a reduced marginality of profit which in turn --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seitz! What in blazes is he talking about?</utterance>
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Says you need to make more money, Chief.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="10">
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course I need to make more money! But how do I make more money, you bloodless blot?</utterance>
+   <speaker>JONATHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have several proposals. The first is to increase the paper's price --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then Hearst undersells me and I'm in the poorhouse. Brilliant.</utterance>
+   <speaker>JONATHAN</speaker>
+      <mode></mode>
+      <context>Exasperated, Pulitzer looks to Seitz for a translation.</context>
+      <utterance>Not the customer price -- the price to the distribution apparatus.</utterance>
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context>Bad idea, Chief.</context>
+      <utterance>You mean the Newsies...? Charge the Newsies more for their papers?</utterance>
+   <speaker>JONATHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very well. My next proposal -- salary cuts, particularly those at the very top --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait. What do the Newsies pay now -- fifty cents per hundred papers? If you raised it to sixty cents --</utterance>
+   <speaker>JONATHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A mere tenth of a cent per paper --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- then that, multiplied by forty thousand papers a day, seven days a week -- well, it would pay some of the bills around here.</utterance>
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chief, if you do this, every Newsie we got will head straight for Hearst.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="3">
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not necessarily. As newspapermen, Hearst and I would cut each other's throats to get the best of the other. But as businessmen -- and gentlemen -- we often agree on ways to keep down certain operating costs. If I know Willie Hearst, he's going to wish he thought of this himself.</utterance>
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about the other papers -- ?</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context>Seitz sighs and reaches for the phone.</context>
+      <utterance>If we do it, they'll all do it. It's only a tenth of a cent -- nobody gets hurt! It's good for the Newsies -- an incentive, make 'em work harder, sell more papers! Now get me Hearst on that contraption.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="3">
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They jacked up the price! Ten cents a hunnerd -- I can eat two days on ten cents!</utterance>
+   <speaker>SKITTERY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This'll bust me -- I'm barely makin' a livin' now --</utterance>
+   <speaker>BOOTSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be back sleepin' on the streets --</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="11">
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context>Jack sees Weasel behind his window, grinning.</context>
+      <utterance>It don't make no sense! All the money Pulitzer makes, why would he gouge us?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>He plops fifty cents on the counter. Weasel's grin gets weaselier as he slides it back.</context>
+      <utterance>Awright, pipe down! Don't you see it's a gag? Just Weasel bein' a weasel. Joke's over, Wease. Gimme a hunnerd.</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hunnerd'll cost ya sixty, Cowboy.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ain't payin' no sixty --</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then move outta the way --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You bet -- I move right over to the Journal.</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the same at the Journal -- we checked -- it's the same everywhere!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why the jack-up, Weasel?</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context>He whacks the bell with his cudgel; the Delanceys stir threateningly.</context>
+      <utterance>Why not? It's a nice day. Why don't you ast Mr. Pulitzer?</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you ain't buyin' papes, clear out! World employees only on this sida the gates.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>He leads the angry Newsies out of the courtyard into --</context>
+      <utterance>It stinks here anyway -- let's go!</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="11">
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They can't do that to us --</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They can do what they want -- it's their stinkin' paper --</utterance>
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ain't we got no rights -- ?</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure -- we got the right to take it in the t'roat!</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a rigged deck -- why waste time kiddin' ourselves? They set the price, we gotta pay it --</utterance>
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We got no choice! So let's get our lousy papes while they still got some --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody's goin' anywhere -- they ain't gonna get away with this!</utterance>
+   <speaker>EVERYBODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What can we do --</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>They back off, become quiet -- every eye on Jack as he thinks. And thinks again. And again. Finally --</context>
+      <utterance>Stop crowding him! Let him think!</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jack...? Ya still thinkin'... ? Jack looks at him, then the others: his jaw set.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One thing for sure. If we don't sell papes, then nobody sells papes. Nobody comes through those gates 'til they put the price back where it was.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="10">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean like a strike...?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, a strike -- good idea, Dave.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I didn't mean -- we can't strike, we're not a union --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jack's moving across the square, everyone following, cheering, a momentum building. David moves with him --</context>
+      <utterance>We go on strike, we're a union, right? Keep it comin', Dave --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's not enough of us -- maybe if we got every Newsie in New York --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>This is great, Dave, keep talkin' --</context>
+      <utterance>Yeah, we organize -- we get all the New York Newsies to join us!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's no joke! You saw what happened to those trolley workers --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Another great idea! Any Newsie don't join with us, we soak 'im -- just like the trolley workers!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>The gang is cheering every word; Jack stops at the base of the Greeley statue, holds up his hands for quiet.</context>
+      <utterance>Nooo! Stop and think, willya? You can't just rush everybody into this!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dave's right again! We gotta think this through! Old man Pulitzer and Hearst and all them other rich geezers, they run this city. Do we really think a buncha streetrats like us would have a chance against people like them?</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="6">
+   <speaker>JACK</speaker>
+      <mode>CONT'D</mode>
+      <context>The Newsies are silent, faltering, suddenly uncertain. Then a small figure steps forward and raises his fist:</context>
+      <utterance>The choice has gotta be yours -- are we gonna just take what they give us? Or do we strike?</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Strike! The boys explode -- a beat begins to build --</utterance>
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context>Jack looks desperately at David: what do I say now?</context>
+      <utterance>Keep talkin', Jack -- tell us what to do --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh... uh... Pulitzer and Hearst have to respect our rights --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pulitzer and Hearst have to respect the workin' boys of New York!  Keep it comin' -- what else.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh... they can't treat us like we don't exist...</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="5">
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's to stop someone else from sellin' our papes?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We talk to 'em.</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some of 'em don't hear so good.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then we soak 'em.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No!</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="7">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We gotta get word out to all the Newsies in New York! I gotta have some... whattaya call 'em --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ambassadors.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right! You guys gotta be embastards and tell 'em we're on strike!</utterance>
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll take Harlem!</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got mid-town! CRUTCHY The Bronx! MUSH I'll get da Bowery!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Suddenly they all look like they've got something else to do.</context>
+      <utterance>Bumlet, Specs, Skittery take Queens; Pie Eater and Snotty, the East side -- Snipeshooter, go with 'em; okay, who wants Brooklyn? Spot Conlon's territory?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatsamatter? Scared of Brooklyn?</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="9">
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We ain't scared of Brooklyn. But Spot Conlon makes us a little nervous.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>David looks up; Jack grins, challenging him. David comes right back at him.</context>
+      <utterance>Well, he don't make me nervous. You and me, Boots, we take Brooklyn. Dave can keep us company. Okay, Dave?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. Right after you take our demands to Pulitzer.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me?  To Pulitzer?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jack looks at the huge doors of the World Building, steeling himself. He starts for them, then has a thought -- beckons to Les, who runs to join him, thrilled.</context>
+      <utterance>You're the leader.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Shouting encouragement, the Newsies clear a path as Jack and Les march up to the big doors. Jack pounds on them and there's a hush as everyone waits, watching -- including a handsome, well-dressed man in his thirties, BRYAN DENTON. The huge doors swing open like the mouth of a whale and Jack and Les disappear inside. The Newsies cheer. Denton moves next to David.</context>
+      <utterance>Maybe the kid'll soften him up a little.</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're going in to present our demands to Pulitzer.</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What demands?</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="6">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Denton looks around, a little amazed. He takes out a notebook.</context>
+      <utterance>The Newsies' demands. We're on strike.</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm Denton, New York Sun. What's your name?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David...</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David. As in David and Goliath?  You really think old man Pulitzer's going to listen to your demands?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>At that instant, the big doors swing open and Jack and Les are spat out like two seeds.</context>
+      <utterance>He has to.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>The doors slam shut; Denton scribbles, intrigued.</context>
+      <utterance>So's your ol' lady! Tell Pulitzer he needs an appointment with me!</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="2">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- So this snooty mug is sayin', 'You cawn't see Mr. Pulitzer, no one sees Mr. Pulitzer' -- real hoity-toity, you know the type --</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Real hoity-toity --</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="9">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- So I says, 'I ain't in the habit of transactin' business with no office boy -- tell him Jack Kelly is here to see him now.'</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's when they threw us out.</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doesn't it scare you going up against the most powerful man in New York?</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Keep me informed -- I want to know everything that happens.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are we really an important story...?</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's important? A year ago I covered the war in Cuba -- charging up San Juan Hill with Colonel Teddy Roosevelt. A very important story. Now it doesn't seem so important -- except Teddy's our governor and probably on his way to the White House. Is the Newsies' strike important? It all depends on you.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My name really gonna be in the papers?</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any objections?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Denton smiles and shrugs. David suspects Jack's thinking of Snyder.</context>
+      <utterance>Not as long as you get it right -- Kelly, Jack Kelly. And, Denton? No pictures.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="4">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've never been to Brooklyn -- have you guys?</utterance>
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spent a month there one night.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jack and Boots look at each other and laugh; they keep laughing as they walk along --</context>
+      <utterance>This Spot Conlon... is he really as bad as they say...?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>We KEEP WIDENING as the figures get smaller and Jack and Boots keep laughing and David keeps asking about Spot...</context>
+      <utterance>I say something funny? Come on, tell me -- he bad or not? What's the joke? Tell me, willya?</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="5">
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context>Jack meets his challenging grin with one of his own.</context>
+      <utterance>If it ain't Jack be nimble, Jack be quick.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Spot and Jack exchange "heh-hehs." David's getting more nervous.</context>
+      <utterance>You're movin' up in the world, Spot -- got a ocean view and everything.</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So I'm hearin' things from little birdies in Harlem and Queens and all over. They're chirpin' in my ear: 'Jackie-boy's Newsies are playin' like they're goin' on strike -- '</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're not playing -- we are on strike -- it's -- Spot's eyes click like switchblades in David's direction -- so do his henchmen's.</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's this, Jackie boy? Some kind of walkin' mouth?</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="6">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a mouth with a brain -- and if you got half-a-one you'll listen. Tell 'im, Davey. David looks at Jack wide-eyed: "Me?" Scared to death, he starts -- as Spot's henchmen begin circling him like jackals.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh... we started the strike but... we can't do it alone, so... we've been talkin' to Newsies all over the city...</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context>David looks nervously at the circling henchmen.</context>
+      <utterance>So they told me. And what did they tell you?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Spot signals the henchmen to stop circling; waits for more, lapping it up.</context>
+      <utterance>That... they're all waiting to see what Spot Conlon does. That you're the key...  That Spot Conlon is the most respected and... famous... newsie in New York... and probably everywhere else...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He trails off. Spot nods, turns to Jack.</context>
+      <utterance>And... if Spot Conlon joins the strike, they'll join and we'll be unstoppable so you gotta join and ... well... you gotta...</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're right. Brains.  But I got brains, too -- and more than half-a-one. How do I know you punks won't run the first time some goon comes atcha with a club? How do I know you're in it to win?</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="4">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Cause I'm tellin' you.</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context>He turns and walks away. David and Boots exhale in relief -- but Jack suddenly grabs a rope hanging from the wharf and swings in front of Spot.</context>
+      <utterance>Not good enough, Jackie-boy. You gotta show me.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Murder's in the air: David and Boots are paralyzed; the henchmen are ready to explode. Spot's eyes are locked on Jack's for an excruciating moment -- then Spot grins.</context>
+      <utterance>Maybe you lost your guts, Spotty- boy --  -- or maybe you traded 'em to some chicken for that beak of yours.  Maybe you gotta show me you ain't afraid to join the strike.</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nice try, pal. But that's just what I'm talkin' about.  Show me this strike ain't just some kids do-or-dare, then we'll talk.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="9">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Some Newsies gather around, concerned.</context>
+      <utterance>He was concerned about us bein' serious -- you imagine that?</utterance>
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Without Spot and the others, there ain't enough of us...</utterance>
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe we're movin' too soon, maybe we ain't ready --</utterance>
+   <speaker>SKITTERY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Definitely should put this off a coupla days, definitely --</utterance>
+   <speaker>PIE EATER</speaker>
+      <mode></mode>
+      <context>He's swinging a picket sign.</context>
+      <utterance>Hey, Jack -- you ready? I'm ready!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At least somebody's got the right idea.</utterance>
+   <speaker>PIE EATER</speaker>
+      <mode></mode>
+      <context>He tears the sign off the stick and swings it like a bat.</context>
+      <utterance>Who else is ready for stick-ball?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who we kiddin' here. Spot was right. Just a game to these guys...</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context>He's waving the bedsheet with the scowling devil-mask of "Joe P" painted on it. Jack smiles as Crutchy parades with the banner, the other Newsies begin to notice. Across the square, Denton lounges with his notebook, studying the Newsies as if he, too, were concerned about how serious they are. David watches Crutchy parading with the bedsheet; other Newsies put aside their marbles, hoops, etc., and watch. Sensing a moment, David moves among them, beginning to sing:</context>
+      <utterance>Hey, Jack -- get a loada this!</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="3">
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think they're just going to go away, Chief.</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context>Pulitzer turns his godlike gaze on Weasel, who seems to shrink slightly. Pulitzer studies him a moment.</context>
+      <utterance>Just give me the means, Mr. Pulitzer. I'll take care of them for you.</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give him whatever 'means' he requires, I want this nuisance over and done with. He looks back down at the square, where Crutchy's crude portrait of him, lying crumpled on the pavement, stares back at him.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="5">
+   <speaker>TENPIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cowboy! Ya miss the joint?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whattayasay, Tenpin. You got a new guy, Crutchy --</utterance>
+   <speaker>TENPIN</speaker>
+      <mode></mode>
+      <context>Jack takes a railroad spike from his belt and begins prying at the bars, talking conversationally up to David who's terrified someone's going to hear them.</context>
+      <utterance>The gimp? I'll get him for ya.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's Tenpin -- s'posed to get out last Christmas but Snyder keeps tackin' more time on his sentence --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be quiet -- they'll hear you --!</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="8">
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context>David pleads for silence. Jack pries at the bars.</context>
+      <utterance>Hey, whattaya hangin' around here for? That Dave up there? Hiya, Dave!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go get your hat, Crutch -- kiss Snyder good-bye.</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah... hey, shoulda seen me in court today -- old Judge Movealong Monahan hisself! Took him two minutes to move me along to Snyder for 'my own good.'</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Crutchy stops Jack's hand prying at the bars.</context>
+      <utterance>Later, Crutchy -- get your stuff.</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen, Jack... truth is, I ain't walkin' so good. Oscar and Morris kinda worked me over a little...</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They hurt you...? Don't worry, we'll carry you --</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want nobody carryin' me -- never! Jack looks up: Crutchy's eyes flash with pride. Then he smiles, softens.</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It ain't so bad here. Get three squares, sorta, and there's some swell fellas...  They still talk about how Jack rode outta here on that coach!</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="4">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Teddy Roosevelt's. Right?</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You already heard the story.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Crutchy hears something and quickly shushes them: Jack disappears from the window; Crutchy slumps into a bunk and pretends to sleep -- just as Snyder comes into the room. Utter silence -- -- except for Snyder's FOOTSTEPS as he walks slowly down the aisle between the bunks. He stops at the window, his back to it. Crutchy sneaks open his eyes to see -- -- Jack, behind Snyder, swinging past the window, arms stretched in a balletic arabesque -- -- Crutchy struggles not to laugh; Tenpin and some others see what's going on. They all fight laughter as -- -- Jack swings back and forth behind Snyder, striking difference poses as he passes the window: the breast stroke, running on air, a bird with flapping wings... -- From the roof, David looks down in disbelief: then smiles -- nothing Jack does would surprise him any more. -- Snyder glares suspiciously at the boys, sensing something is going on. Behind him, Jack floats past as an angel -- Snyder wheels around, looks -- -- but the window is empty. Puzzled, he walks out of the room. The instant he's gone, the boys explode in stifled laughter. We MOVE IN ON Crutchy as he laughs until the tears come...</context>
+      <utterance>You mean it's true --?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Crutchy won't last in there... I seen stronger guys than him not make it.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="10">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you really escape in Teddy Roosevelt's coach?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not in it. On it.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was he doing at the Refuge?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Runnin' for governor. Showin' his concern, like all pols during elections.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Teddy's not like other politicians. He's the biggest hero in the country.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyway, he's there. I see his fancy coach waitin' for 'im, so I sneaks on top of it. Teddy gets in and he's wavin' goodbye, and all the guys are wavin' goodbye, and Snyder's wavin' -- 'Good-byeeee, Colonel Roosevelt!' So just as we're goin' out the gate, I stands up and --  'Good-byeee, Warden Snyder!' It was in the papes and everything.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's governor now. I don't understand how he could see that place and not do anything --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He only seen what Snyder wanted him to -- good food, everything the city pays for that Snyder usually steals.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll bet if he just knew -- I mean, he's a hero --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Last year he was a hero. This year he's a politician.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="2">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Some of the scabs decide fast -- they throw down their papers and run to the Newsies where they're welcomed with cheers and handshakes -- but then --</context>
+      <utterance>Join us! Join us! etc.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>A WAGON is ROARING out of the gates full-speed -- barrel- ling towards the line of Newsies -- -- the Newsies scatter -- the line breaks as the WAGON ROARS through, and right behind it is -- -- the army of Thugs, charging through the gates with clubs and chains waving --</context>
+      <utterance>Look out -- !</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="3">
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you stop this -- ?</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context>Something seems to sting him in the neck -- he slaps at it as if at a mosquito. Then other Thugs begin slapping -- all over the square, Thugs are slapping and looking around in puzzlement -- then -- -- the BELL CLANGS as it's hit by a good-sized stone. Jack looks up as David points excitedly to the roofs where -- -- It's Brooklyn to the rescue: Spot Conlon's gang is pelting the Thugs with volleys from their slingshots -- and Spot himself is swinging through the air on a chain hoist into the square. He grins as Jack runs up --</context>
+      <utterance>Strike's over, boys.</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context>The Thugs retreat from the merciless slingshots -- Jack rallies his Newsies and leads a screaming charge as the Thugs hurry behind the gates, closing them. Jack and Spot spit in their palms, shake hands as --</context>
+      <utterance>So, ya showed me! Now I'll show you what Brooklyn can do --!</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="2">
+   <speaker>NOW IS THE TIME TO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jack leaps on a loose horse, pulls David up ALL and they lead an impromptu SEIZE THE DAY victory parade.</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The police fade away; SEND OUT THE CALL AND Spectators who have watched it all begin to ALL applaud. Many throw SEIZE THE DAY coins, bills, or show other signs of support... BUMLETS</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="8">
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lookit this -- just lookit this, willya -- ?</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's me pitch'a? Where's me pitch'a? BOOTS All them words -- are they all about us -- ?</utterance>
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lookit Jack -- he looks like a general or sumpin'! SPOT Where's me name? Where's it say me name?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen! Listen up, everybody -- !  'Like a small but rising storm, the infant newsboys' union continues to gather force -- ' Loud cheers.</utterance>
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context>Denton smiles; Jack is in the center, trying to keep cool.</context>
+      <utterance>Hey, ya write sweet, Denton -- real sweet.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Their leader is a child of the New York streets with a red bandana and a golden tongue, Jack Kelly -- '</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's it say that...?</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop t'inkin' about yaself and let 'im read!</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="5">
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context>He looks pointedly at a group of reporters leaving the restaurant, shame-facedly averting their eyes.</context>
+      <utterance>You're kids. They think you'll get tired, or bored, or maybe just too hungry. And with my colleagues on the other dailies not allowed to cover you --</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- They can just ignore you until you go away.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We ain't goin' away. We'll never go away.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what we gotta show 'em -- we gotta do somethin' they can't ignore, somethin' big --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>His eloquence is spellbinding; the Newsies are silent, looking at him with new respect. Then, from somewhere, there is a smattering of APPLAUSE. They look to see -- -- At the door, the group of reporters applauding -- guilty applause maybe, but still applause. One of them takes a dollar and puts it in the box marked NEWSIES STRIKE FUND -- another follows suit, then another, and another... Jack and the Newsies watch -- then Jack begins to applaud the reporters. The Newsies join in, clapping, whistling, as the reporters hurry out, feeling a little better about themselves.</context>
+      <utterance>We'll do it up big, all right -- We'll show 'em we ain't tired, or bored, and the hungrier we get, the more we fight --  We'll have a rally -- every Newsie in New York -- and we're gonna send a message: there's a lot of us and we ain't goin' away -- we'll keep fightin' until doomsday if it means gettin' what's ours!</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="5">
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context>Snyder looks at the picture: instant recognition.</context>
+      <utterance>That's Jack -- ! Hey, he looks just like hisself!</utterance>
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know this boy...?</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Him? Nah.</utterance>
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have a famous friend, this 'Jack.'... Do you know where he lives...?</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context>He hobbles out quickly. Snyder looks at him, eyes narrowing.</context>
+      <utterance>I never seen the guy, honest.  This brain of mine, always makin' mistakes. Got a mind of its own.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="2">
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Darlings, I love you -- I wish you luck on your rally, I am behind you one hundred percent. But I'm not running a union hall here -- this is a theater, a temple of art. And well-known money pit.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We got money, Medda. Some, anyway.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="9">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll take a collection at the door. We'll pay whatever you ask.</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not the money. I depend on the papers. They write good things about me, the customers flock here like sheep. They give me the pan, I'm the one who gets sheared.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're afraid of them, too...</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Medda's gotta look out for herself same as anybody. We'll find another place.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can they make a whole city afraid? We're the ones putting our necks on the line -- all we need is for somebody to have the guts to stand up and show them we're not alone!</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They have the power to destroy people...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They can't destroy you if you fight them -- only if you let them own you!</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context>She looks back out at the stage; Jack pulls David away. Then --</context>
+      <utterance>You are so young...</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context>Jack looks at her, smiles. He tries to put his money in her hand: she refuses it.</context>
+      <utterance>Got to be on Monday night. I'm dark on Monday nights.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="2">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it, Medda. Please...?  Thanks.</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context>She winks at David and moves off to the stage. Stricken to the core, David watches her begin to sing.</context>
+      <utterance>Don't thank me. Thank Mr. Wisenheimer Guilt-maker of 1899 there.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="8">
+   <speaker>KLOPPMAN</speaker>
+      <mode></mode>
+      <context>The figure turns -- Snyder smiles his smarmy smile.</context>
+      <utterance>Can I help you?</utterance>
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context>The boys look up, alert. Kloppman dislikes Snyder on sight.</context>
+      <utterance>Do you have a 'Jack Kelly' registered here? I wish to see him.</utterance>
+   <speaker>KLOPPMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Jack Kelly...?' Any of you boys know a 'Jack Kelly'?</utterance>
+   <speaker>SNIPESHOOTER</speaker>
+      <mode></mode>
+      <context>Prob'ly not the same guy.</context>
+      <utterance>Unusual name for these parts. SKITTERY I knew a Jack somebody once.</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context>Behind Snyder, they see Jack bouncing in the front door. Racetrack tries to signal him --</context>
+      <utterance>You mean Jack Kelly -- ?</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context>Jack sees Snyder -- but instead of running back out the door, he can't resist mocking him behind his back. The Newsies snicker; Kloppman is dying.</context>
+      <utterance>-- He was here but he put an egg in his shoe and beat it.</utterance>
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have reason to believe he's an escaped prisoner. Possibly dangerous.</utterance>
+   <speaker>KLOPPMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, dear me... dangerous? My files are in the rear -- this way, please.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="3">
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you sleep there? Why didn't you wake us up?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Didn't wanna disturb nobody... anyway, it's like the Waldorf out here... great view, cool air -- She glances back in the apartment.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>She pops back inside. He shrugs, climbs onto --</context>
+      <utterance>Go up on the roof.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="10">
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all getting so big. The family's very worried about the boys. And you, too.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your mom and pop are worried about me...?</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>She unfolds the bundle to reveal a breakfast of bread and milk. He digs in hungrily.</context>
+      <utterance>The whole family...</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>I've never been out of the city.</context>
+      <utterance>David says you're moving away when the strike's over. To Santa Fe.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd like it out there -- they got this big yellow desert and the air's real blue, see, from the sky, and the sun, it's bigger out there.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the same sun as here.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. No, it ain't...  Not that I been there or nothin'.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guess your parents wrote you about it. Bet you can't wait to see them again.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure... big family reunion. Soon's I get the dough for train fare.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David said you spent all your money to rent the theater.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="5">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds like you and Dave don't do nothin' but talk about me.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We do not.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not that I blame you -- me bein' such an interestin' guy and all --</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>They're smiling, their faces close; for an instant, a kiss seems inevitable. But suddenly a gust of wind catches the leaflet and sails it off the rooftop. Jack lunges for it -- knocking over the milk, squashing the bread with his elbow. He looks up at her sheepishly.</context>
+      <utterance>Are you...?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Sarah giggles. The leaflet gyrates in the wind as we</context>
+      <utterance>What'd I tell ya -- interestin', right?</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="2">
+   <speaker>MAYOR</speaker>
+      <mode></mode>
+      <context>Chief?</context>
+      <utterance>Of course the city is very concerned that this, uh, event doesn't get out of hand, but...</utterance>
+   <speaker>CHIEF</speaker>
+      <mode></mode>
+      <context>Pulitzer looks as if he knows something they don't.</context>
+      <utterance>We can't just charge in and break it up, Mr. Pulitzer -- we got no legal cause.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="9">
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would the fact that this rally is organized by an escaped criminal be cause enough, Mayor?</utterance>
+   <speaker>MAYOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An escaped criminal...?</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context>Snyder slinks out of a corner, humble in such august company.</context>
+      <utterance>A fugitive from one of your prisons, Mayor -- a convicted thief who's been at large for some time under the alias of 'Jack Kelly.' His real name is...?</utterance>
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sullivan, Your Honor -- Francis Sullivan. I would have caught him before now but --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context>The Mayor nods ruefully; not one of his best appoint- ments.</context>
+      <utterance>You know Warden Snyder, don't you, Mayor? I believe you appointed him.</utterance>
+   <speaker>MAYOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If this boy is a fugitive, then the chief can quietly arrest him and --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not quietly -- I want an example made. I want this rabble he's roused to see what happens to those who dare to -- well, they should see justice in action.</utterance>
+   <speaker>MAYOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Arrest him at the rally? But...</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By the way, Mayor, I'm having a few friends for cards that night -- newspaper friends, Willie Hearst, Gordon Bennett. Perhaps you'll join us -- we can talk about the coming election.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="2">
+   <speaker>MAYOR</speaker>
+      <mode></mode>
+      <context>Pulitzer dismisses them and they start out, Snyder oozing backwards, the Mayor now all business with Chief Devery.</context>
+      <utterance>I'd be honored... thank you.</utterance>
+   <speaker>MAYOR</speaker>
+      <mode></mode>
+      <context>As they go, Pulitzer picks up his magnifying glass and examines the leaflet. We CUT AWAY as he stares through the glass so he seems to be looking at --</context>
+      <utterance>Chief, when you arrest this Kelly, you'd better go in force -- in case some of his misguided friends should start any trouble.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="4">
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context>Swarms of excited Newsies engulf Boots as he pretends to hawk the imaginary headline. They cascade toward the entrance where Jack and David shake hands, slap backs as they flow past. Kloppman goes past, then Denton. Sarah and Les are nearby.</context>
+      <utterance>Extry, extry -- Newsies take Noo Yawk!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>You're the guest of honor!</context>
+      <utterance>Hey, Denton -- sit down front!</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm working press tonight.  The only working press. As usual.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As long as you keep writing about us, they're gonna know we exist.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="2">
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context>GAMMON, a portly fop in muttonchops, shakes the Mayor's hand.</context>
+      <utterance>You know the boys, Mayor -- Mr. Bennett of The Tribune, Mr. Taylor of The Times, of course you know Mr. Hearst -- and this is a new member of our little group, Mr. Gammon, who just came back from Europe...</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context>They all light cigars as Pulitzer begins to deal.</context>
+      <utterance>Mr. Gammon owns The New York Sun.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="2">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Carryin' the banner!</utterance>
+   <speaker>AUDIENCE</speaker>
+      <mode></mode>
+      <context>The noise threatens to blow the roof off the theater as we see --</context>
+      <utterance>Carryin' the banner!</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="7">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We come a long way but we ain't there yet -- and maybe it's only gonna get tougher from now on! That means we get tougher too --  -- it also means we get smarter! That's why we're gonna listen to my pal David and stop soakin' the scabs --</utterance>
+   <speaker>SEVERAL IN CROWD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! They asked for it -- etc.</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatta we s'pose to do -- kiss 'em?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I personally wouldn't go that far, Race.</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any scab I see, I soak 'em -- period!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's just what they want you to do -- so they can say we're just thugs --</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context>A large faction roars in agreement; arguments break out as --</context>
+      <utterance>I don't care what they say -- some of us ain't made to just take it! I say anybody hurts us, we hurts them worst! Who's with me?</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="4">
+   <speaker>BACK TO SCENE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Loud voices, fists starting to fly, chaos --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right -- start fightin' each other! Prove what the big shots say is true -- we're street rats with no brains and no respect for nothin' -- includin' ourselves!  Here's how it is: we don't stick together, we're nothin'. We don't trust each other, we're nothin'. We don't act together, we're nothin' -- and we might as well go back to the streets where we belong. What's it gonna be?  Whattaya say, Spot?</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context>He looks out at the crowd; the expectant faces, waiting, afraid it's all going to fall apart. Then back at Jack.</context>
+      <utterance>I say --</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context>Spits in his palm and they shake. A huge roar goes up and the boys thrust their hands up in triumph -- but the applause isn't for them but for the curtain rising behind them revealing the dazzling vision of Medda, who walks smiling downstage and begins --</context>
+      <utterance>I say... what you say... I say!</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="7">
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context>They roar; Racetrack's on his feet --</context>
+      <utterance>Hiya, Newsies -- what's new?</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Medda, anytime you're off to the races, remember -- I got all the winners!</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're all winners here tonight, Racetrack. Just being with you makes me feel kinda extra extra.</utterance>
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm dead, I'm in Heaven -- somebody gimme a harp!</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you never know what life will bring. Over the years, I've developed quite an outlook --</utterance>
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oooo, lookout for that outlook!</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And all kinds of people are always asking my advice, well, for instance --</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="6">
+   <speaker>AGAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Medda moves through the crowd:</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You boys sing as sweet as songbirds.</utterance>
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lookit me, I'm a bird, I'm flyin', I'm flyin' --</utterance>
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a beautiful, Medda, I tellya, I never heard such beautiful!</utterance>
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My prettiest one, Medda -- it's like your eyes.</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context>Boots beams happily as she moves to --</context>
+      <utterance>Thank you, Boots. Would you keep it for me? For luck?</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="2">
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Medda, whattayasay -- you and me, Saratoga. We catch the races, maybe a nightclub --  I'm dreamin', huh? It's some other guy -- right?</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context>She turns to a little boy and sings --</context>
+      <utterance>I'm afraid so, Race...</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="2">
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context>Snyder nearly swallows the whistle --</context>
+      <utterance>Aren't you Warden Snyder?</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context>Snyder blinks at him, glances at his watch, then lowers his police whistle, smiling modestly.</context>
+      <utterance>I'm Denton of The Sun. I've heard about your work with young people. I wonder if you'd agree to an interview?</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="4">
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context>He turns to see Weasel and the Delanceys grinning at him, clubs in their hands. They start toward him and suddenly disappear -- straight down the trap door that's suddenly opened beneath their feet. Jack sees Spot at a lever in the wings --</context>
+      <utterance>Show's over, Cowboy.</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context>Race and Boots jerk the ropes of the fire curtain and Jack leaps for it as it starts to rise --</context>
+      <utterance>Curtain goin' up, Jack -- !</utterance>
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context>Cops leap for Jack's legs as he rises above them heading up into the flies. He hangs on, thrusts one fist into the air and shouts --</context>
+      <utterance>Try to reach the skylight -- !</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>In the theater, the battered Newsies cheer, heartened. Cops are trying to herd them out -- -- David cheers, pulls for Jack as he watches him rise -- Officer MacSwain has David by the arm -- suddenly --</context>
+      <utterance>Carryin' the banner!</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="5">
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context>David twists away as MacSwain backs stumblingly down the stairs as Medda descends on him in full fury.</context>
+      <utterance>Unhand that boy this instant!  I said hands off the kid, you red- faced baboon! Get out of my theater -- out, out, out, out, out!</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context>Confused and intimidated, the Irish cop looks at her -- then ducks his head shamefacedly and moves away.</context>
+      <utterance>If you're tired of beating up children, maybe you'd like to try a lady next.</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Run, David, hurry --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They got Jack --</utterance>
+   <speaker>MEDDA</speaker>
+      <mode></mode>
+      <context>David looks at her, very moved, then goes. She turns back to her theater -- the sounds of the melee sweep over her. She watches, tears welling in her eyes...</context>
+      <utterance>You can't help him if you're in jail, too! You were right, David -- you've got to keep fighting them -- always.  Now go. Please.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="10">
+   <speaker>BAILIFF</speaker>
+      <mode></mode>
+      <context>Weasel is in the gallery as JUDGE MOVEALONG MONAHAN, hungover, winding a pocket watch, takes the bench and glances down at a group of battered Newsies, including Spot, Race, and Boots.</context>
+      <utterance>Awrise, awrise, court is now in session, Judge E.A. Monahan presiding.</utterance>
+   <speaker>MONAHAN</speaker>
+      <mode></mode>
+      <context>David sees Denton come in, a neat bandage on his head.</context>
+      <utterance>Any of you represented by counsel? No? Good. That'll move things along considerably.</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Judge Movealong, ya honor, I object.</utterance>
+   <speaker>MONAHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On what grounds?</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context>The Newsies congratulate Spot. Monahan gavels.</context>
+      <utterance>On the grounds of Brooklyn, ya honor!</utterance>
+   <speaker>MONAHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I fine you each five dollars or two weeks confinement in --</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Five bucks! We ain't got five cents!</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll pay the fines. All of them.</utterance>
+   <speaker>JUDGE</speaker>
+      <mode></mode>
+      <context>The Newsies mob Denton boisterously.</context>
+      <utterance>Pay the clerk. Next.</utterance>
+   <speaker>ALL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, I owe ya, you're a right guy, Denton, etc.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="7">
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Meet me at the restaurant, all of you. We have to talk.</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context>They laugh and clap his shoulders as he looks uncomfort- able. Suddenly David gasps, seeing Jack led out in shackles, his face bruised and swollen. Everybody stares, horrified.</context>
+      <utterance>Talk and eat, right? On you, huh, pal?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hiya, fellas! Hey, Denton -- guess we made all the papes this time, huh? How'd my picture look?</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context>Jack is stunned, David bewildered, as Denton turns abruptly and leaves the courtroom. The Bailiff shoves Jack in front of the bench. Snyder slips in from a side door.</context>
+      <utterance>None of the papers covered the rally. Not even The Sun.</utterance>
+   <speaker>BAILIFF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Case of Jack Kelly, inciting to riot, assault, resisting arrest.</utterance>
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Judge Monahan, I'll speak for this young man --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You two know each other? Ain't that nice.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="10">
+   <speaker>MONAHAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just move it along, Warden Snyder.</utterance>
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context>David, the Newsies, are stunned as Snyder continues.</context>
+      <utterance>This boy's real name is Francis Sullivan; mother deceased; father a convict in the state penitentiary --</utterance>
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He is currently an escapee from the House of Refuge, where his original sentence of three months for theft was extended six months for disruptive behavior --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Like demandin' you give us the food you steal from us --</utterance>
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Followed by an additional six months for an attempted escape --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Last time wasn't no attempt, remember, Snyder? Me and Teddy Roosevelt wavin' bye-bye --</utterance>
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Therefore, I ask that he be returned to the House of Refuge --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- For my own good, right, Movealong? -- and for what Snyder kicks back to ya --</utterance>
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- And that the court order his incarceration until the age of twenty-one --</utterance>
+   <speaker>MONAHAN</speaker>
+      <mode></mode>
+      <context>The Newsies shout angrily as Jack is led away, struggling. Weasel slips out the door, smiling.</context>
+      <utterance>So ordered. Next.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="9">
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He won't be there long -- the jail ain't built that Jack can't bust outta.</utterance>
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're buildin' some mighty good jails these days...</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So where's Denton?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He said he'd be here.  We can't let this stop us. We gotta keep the strike going, just like Jack was here.</utterance>
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but Jack ain't here.</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We know that, genius -- if he was here, he'd be tellin' us what to do when he ain't here.</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You bummers is givin' me a headache.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Spot sighs: he hates having to explain the obvious.</context>
+      <utterance>Where you goin'? We need you.</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nachally Spot Conlon is needed wherever -- which right now is Brooklyn. Some of my boys is worried, I must give ear to their concerns --</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="4">
+   <speaker>SPOT</speaker>
+      <mode>CONT'D</mode>
+      <context>As he starts out, he passes Denton, coming in. Denton hardly notices him as he moves up to the table and is greeted (AD LIB) by the boys. He seems grim, bitter.</context>
+      <utterance>-- and reassure them.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why didn't The Sun print the story?</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because it never happened.</utterance>
+   <speaker>DAVID/ALL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never happened; whattaya mean? Etc.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="6">
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context>They exchange puzzled looks. David sees Denton's expression.</context>
+      <utterance>If it's not in the papers, then it never happened. The owners decreed that it not be in the papers, therefore...  I just came to tell you fellows goodbye.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Denton forces a breezy tone.</context>
+      <utterance>Denton, what's happened -- you get fired or somethin'?</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context>He moves off; David, stunned, hurries after him.</context>
+      <utterance>Reassigned -- back to my old job as The Sun's ace war correspondent. The owner thinks I should be covering only the 'really important' stories. So wish me luck, boys. At least half what I wish you.  They don't always fire you, David.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Didn't they!</context>
+      <utterance>They bought you off... didn't they?</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context>He looks at David; hurt, betrayed, angry; wishes there was more he could say. He hands him something from his coat.</context>
+      <utterance>They could've blackballed me from every paper in the country. I'm a newspaperman, I have to have a paper to write for.</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context>He hands it to David and goes. David returns to the others, angrily crumpling the story and hurling it onto the table. The boys look puzzled; Les, still eating the sausage, picks up the story and looks at it curiously.</context>
+      <utterance>This is the story I wrote about the rally. I want you to read it at least.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="2">
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where they takin' him...?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>David runs after the carriage, leaping onto its back. He flashes the high-sign to the boys as the carriage moves off into the night.</context>
+      <utterance>One way to find out. Meet me back at the square!</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="2">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Seitz shows him into an elegant library. Snyder tries to follow but Seitz stops him, closing the doors. Inside, Jack looks around to see the imposing figure of Pulitzer staring at him, framed by luxurious furnishings. For a moment, the two just stare at each other. Then --</context>
+      <utterance>Very impressive. So where do they keep the trains in this station?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry to see you ain't doin' so good, Joe.</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="9">
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Know what I was doing when I was your age? I was in a war. The Civil War.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I heard of it. You win?</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>People think wars are about right and wrong. They're not. They're about power. You know what power is?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Pulitzer ignores the impudence, continues quietly.</context>
+      <utterance>Heard of that, too. I don't just sell ya papes, Joe. Sometimes I read 'em.</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Power means that I could see to it that you serve your full sentence at the Refuge. Or I could pull strings and have you free tomorrow. It means I could give you my pocket change -- and you'd have more money than you'd likely ever earn.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You bribin' me, Joe? Thanks for the compliment, but I ain't got the power to stop the strike --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I disagree. You're the spirit of the strike, without you, they'd fall apart in a few days.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ring for my coach, willya? It's past my bedtime --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut your mouth and listen !  You're going to do exactly as I say --</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="7">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- or what? You'll send me back to the Refuge? I'll bust out again --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- and be a fugitive who's pursued and caught and returned. I'm offering you a choice -- is that what you choose?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told ya... I can't call off the strike.</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not asking you to. All I ask is that you return to your old job -- as Newsie for the The World.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And be a scab? Forget it --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context>Jack is silent, troubled. Pulitzer pushes a buzzer.</context>
+      <utterance>For a few days. Then the strike ends -- and it will end, boy, make no mistake -- and you can go wherever you want to buy a ticket. Free and clear, with money in your pocket... and no one chasing you.</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You go back to the Refuge. Think it over in your cell. Let me know in the morning.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="9">
+   <speaker>SNYDER</speaker>
+      <mode></mode>
+      <context>The driver whips the horse forward but is jerked off his seat as the carriage separates. The horse runs off. Amidst the confusion, David and Jack tear through the gates way ahead of Snyder.</context>
+      <utterance>After him!</utterance>
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry. He's got no place to go.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why're you stoppin' -- we've got to run!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>They could put you in jail --</context>
+      <utterance>You shouldn't'a done this, David.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's worth it -- let's go --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You go to jail, what happens to your family? You don't know nothin' about jail! Thanks for what you done, but you gotta get outta here --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't understand --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jack pushes David down the street.</context>
+      <utterance>I don't either -- I don't understand nothin' no more!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just go!</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="4">
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Snitched it offa Snyder's plate when I was servin' him -- the biggest one!  Snyder was eatin' good tonight -- the stuff we don't never get? Patatas... olives...  ... liver and bacon. Sauerkraut...  Guess what I done to his sauerkraut.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what's it git'cha?</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anudder three months, prob'ly. But you can't let 'em beat'cha, right, Jack?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Crutchy, concerned, hears something and closes the panel.</context>
+      <utterance>We was beat when we was born.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="9">
+   <speaker>NEWSIES</speaker>
+      <mode></mode>
+      <context>David moves among them, looking like a leader now.</context>
+      <utterance>Stop The World -- don't scab, stop The World -- don't scab, etc.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>The gates open, the wagons start out, followed by nervous scabs flanked by cops and goons. The chant builds as the scabs parade by, then suddenly --</context>
+      <utterance>Nobody sells a pape today -- we're hurtin' them and they know it! Remember -- no soakin', no hittin' -- etc.</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context>David and the others look in disbelief -- walking with the scabs is Jack, wearing a tight new suit, flanked by Weasel and other goons. As Jack moves past, staring straight ahead, the chant dies...</context>
+      <utterance>Look... I'm seein' t'ings... tell me I'm seeing t'ings -- !</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's he doin' with the scabs...?</utterance>
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It ain't happenin'... it can't be happenin'...</utterance>
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Jack -- it's me, Mush, lookit me -- look, willya?</utterance>
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where'd he get them clothes -- ?</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Pulitzer picked 'em out hisself. A special gift to a special new employee. Only not so new, huh, cowboy?</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context>Spot tries to bust through the goons but they hurl him back. David, confused, angry, runs alongside Jack, shouting across the smirking Weasel as they march along --</context>
+      <utterance>He sold us out! Ya dirty scab, I'll murder ya -- !</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="4">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>David lunges for him and Weasel grabs him, hissing.</context>
+      <utterance>This is why you wouldn't escape last night -- why'd you do it? Talk to me, you liar! What else did he give you to sell us out -- money? What else? Look at me!  You lie about everything -- headlines, your family --  -- because nobody counts but you -- nobody or nothing! Look at me.</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context>David twists away, tries to rally the Newsies.</context>
+      <utterance>I'm gonna be lookin' for you, wiseguy --  -- or maybe you'd like a nice new suit of your own.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Some chant halfheartedly, confused, demoralized. A few toss down their picket signs in disgust. David moves among them, desperately trying to keep the chant going. The scabs move on, passing Les, who gives Jack a stricken look as he moves away.</context>
+      <utterance>Keep after them -- we don't need him!  Stop The World -- don't scab! Etc.</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>He's gotta be.</context>
+      <utterance>He's just foolin' 'em... so he can spy on them or something...  That's it. He's spyin' on 'em.</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="7">
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context>He gets his coat; Sarah, looking for something, finds a stained paper package under a sewing basket.</context>
+      <utterance>Ready or not, it can handle a broom.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is this?</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>He grabs the package and unwraps it -- revealing a half- eaten knockwurst -- throwing the wrapping on the floor. Irritably Sarah starts to throw it away when she sees it has writing on it.</context>
+      <utterance>Hey -- I'm saving that!</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be too hard on your friend. Maybe he had his reasons for doing what he did.</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you. He's spyin' on 'em.</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context>Mayer smiles and goes. Sarah moves to David with the stained papers.</context>
+      <utterance>There. You see?</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>David refuses to listen; he angrily steps out on the fire escape and stares off into the city. Sarah keeps reading to herself. What she reads disturbs her.</context>
+      <utterance>It's Denton's story. 'The Dark Truth: Why Our City Really Fears the Newsie Strike, by Bryan Denton. Last night I saw naked force exercised against mere boys, the Newsies, who earn at best a few pennies a day. I wondered why so much, against so little -- '</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="3">
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context>Jack ignores him, moves off with his papers. The Delanceys pass by; Morris grinning at him, bouncing a club in his hand.</context>
+      <utterance>Sleep well, cowboy...?</utterance>
+   <speaker>OSCAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come wit' us, cowboy -- we're gonna fix your pal Davey today -- fix 'im so's he can't walk no more.</utterance>
+   <speaker>MORRIS</speaker>
+      <mode></mode>
+      <context>He backhands Morris in the chops and they move on. Jack starts after them, alarmed -- then he sees Weasel.</context>
+      <utterance>Shuddup!</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="6">
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Les, come on -- you're supposed to be helping me today.</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd rather be soakin' scabs. He stops to kibbitz a game of marbles in an alley. Sarah walks on -- suddenly a man steps in front of her.</utterance>
+   <speaker>OSCAR</speaker>
+      <mode></mode>
+      <context>She tries to step around him but Morris is there. He "accidentally" knocks her lacework into the gutter. Les sees it -- and races towards the Delanceys --</context>
+      <utterance>'Scuse me, sweetface.</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>He flails at Morris -- who effortlessly shoves him flat on his bottom and turns, grinning, to Sarah.</context>
+      <utterance>Get away from my sister!</utterance>
+   <speaker>MORRIS</speaker>
+      <mode></mode>
+      <context>Where's little Davey...?</context>
+      <utterance>Where's ya brudder, tootsie?</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>On "ape," she socks him square in the grin -- he recoils, licking a bloody lip. Behind him, she sees David rounding the corner --</context>
+      <utterance>You... stupid... ape!</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="9">
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>Oscar grabs Sarah from behind and lifts her up, taunting.</context>
+      <utterance>David! Run -- get away!</utterance>
+   <speaker>OSCAR</speaker>
+      <mode></mode>
+      <context>David, furious, runs down the sidewalk towards them. Morris slips on some brass knuckles in anticipation. Sarah struggles, screaming --</context>
+      <utterance>Yeah, run, Davey! We got the best parta ya family right here!</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>Oscar hangs on to Sarah, enjoying himself -- suddenly, from behind, two hands grab the rim of his derby and jerk it down to the bridge of his nose. Blinded, he releases Sarah and staggers around, trying to pry the hat off his eyes. Les looks up to see --</context>
+      <utterance>David, no -- don't -- !</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>Jack flashes him a grin as he works on Morris's bread basket. Just as Oscar frees himself from the derby, David leaps on him like a fury. Punches fly and the Delanceys beat a quick retreat down the sidewalk, yelling back --</context>
+      <utterance>Jack!</utterance>
+   <speaker>MORRIS</speaker>
+      <mode></mode>
+      <context>But they're the ones running. David, catching his breath, looks at Jack, beginning to understand.</context>
+      <utterance>Ya better run, cowboy -- we're tellin' Weasel! You'll be back in the Refuge by supper time! OSCAR Yeah, run, ya lousy coward -- run!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Couldn't stay away, huh.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guess I can't be somethin' I ain't.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A scab...?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jack shrugs, smiles. David looks at him worriedly.</context>
+      <utterance>Nah. Smart.</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="8">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Without you, the strike's falling apart...</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Les clambers out with a pair of Mayer's cast-off high- button shoes.</context>
+      <utterance>I got no choice. I stay here, they lock me up 'til I'm twenty- one.</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>Mayer with a bundle of clothes; Esther with food come to the window. She gives it to Jack.</context>
+      <utterance>Jack, for the trip -- a pair of cowboy boots! Sorta.</utterance>
+   <speaker>ESTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who knows what's to eat where you're going?</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context>Wish we had money to give you...</context>
+      <utterance>A few things of mine and David's.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who needs it...? I go down to the train yards, hop me a freight, go in the best style -- free...</utterance>
+   <speaker>MAYER</speaker>
+      <mode></mode>
+      <context>They embrace him and move away. An awkward moment -- Jack picks up the bundle to go and --</context>
+      <utterance>I don't know what's waiting for you in Santa Fe, but you'll always have family here.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not going to run away. They'll just come after you. You have to fight them.</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="9">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They got it all wrapped up, Sarah and nothin' I can do is gonna make one bit of difference.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>She removes the stained pages from her shawl.</context>
+      <utterance>You're wrong. You touched people you don't even know about.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Denton's story.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Denton looked out for hisself just like I gotta do -- so save it.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just listen! 'The men who run this city are terrified of the Newsies strike -- because other child laborers in the factories and sweatshops are hearing the message of the Newsies leader --'</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's you! He's writin' about you!</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'In the voice of Jack Kelly, these children hear strength and pride. Most of all, they hear hope...' Jack listens questioningly.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Can these words really be about him...? As we GO TO --</context>
+      <utterance>Keep reading.</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>' -- And that is what terrifies the powers-that-be, for they know our city thrives on the shame of child labor. Therefore, Jack Kelly's voice must be stopped, whatever the cost...  Damn good writing, isn't it?</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="11">
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They think if the Newsies can do it, why can't they? All they need is a leader.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The minute I show my face, I'm back in the Refuge.</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd have help this time. I've been investigating the Refuge -- I know somebody who's going to be very interested in Snyder's little racket.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened to the ace war correspondent?</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This war'll do for now.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>They look expectantly as he stares off, deep in thought.</context>
+      <utterance>Whatever happens, it's Jack's decision. He's the one in danger.</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jack...? You thinkin'...?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah... I'm thinkin' of Newsie Square full of kids...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Another rally, right under Pulitzer's nose, and not just the Newsies --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Every workin' kid from every sweatshop in New York. We gotta get the word out -- let's go get the Newsies --  They still think I'm a scab...</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll tell 'em you was a spy!</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="8">
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How're you gonna reach all these people? No paper in New York will print anything about the strike.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're Newsies, ain't we? So we make our own paper.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be quiet and let me think.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>What else?</context>
+      <utterance>Whattaya need to start a paper? Writers, right? So we got Denton.</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Advertisements!  Cartoons?</utterance>
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context>The others look discouraged; Jack's thinking again.</context>
+      <utterance>A printing press. And no paper or printer is going to defy Pulitzer.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Les races off on his mission; the others look question- ingly at Jack.</context>
+      <utterance>Les. Go set me straight with the Newsies, okay? Tell 'em to meet us later at the World Building.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So happens I know a guy with a printing press.</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="3">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>They can barely hear over the DIN of the PRESSES.</context>
+      <utterance>They're right above us -- and if Weasel catches us, it won't be just me they'll throw in the slammer --</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What -- ?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>The others shush him hastily; MUSIC BEGINS as they go into --</context>
+      <utterance>I said shhhh! -- or we all go to jail!</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="6">
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context>Jack laughs -- the tension breaks. Hugs and backslaps as they climb onto the wagon.</context>
+      <utterance>You thinkin' you'd like to take a shot at my schnozz -- right?  Five to one says you can't break it.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The cops are looking for Jack -- we gotta protect him --</utterance>
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any bull comes after jack, they gotta go through all of us.</utterance>
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's with the bundle, Jack -- ya leavin'?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sante Fe bound, Boots -- but not without givin' Pulitzer one last kiss goodbye --</utterance>
+   <speaker>KLOPPMAN</speaker>
+      <mode></mode>
+      <context>He points frantically at Weasel crossing the square towards them. They duck quickly -- and he weaves past whistling tunelessly, drunk. As Kloppman eases the wagon away, everybody looks back, shouts --</context>
+      <utterance>Boys -- !</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="2">
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you'd feel that way, Governor Roosevelt.</utterance>
+   <speaker>TEDDY ROOSEVELT</speaker>
+      <mode>MAN</mode>
+      <context>The Rough Rider snaps out a silk hat and a silverheaded walking stick. Teddy snatches them as if they were armor.</context>
+      <utterance>Dis-graceful, Denty! Those poor boys -- and I did nothing!  Until now!</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="7">
+   <speaker>MAYOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're all yelling at me -- me! -- factory owners, bankers, businessmen -- the whole city's at a standstill and they're blaming it on me -- !</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kelly's down there. He should be back in jail.</utterance>
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Those kids got out a pretty good paper, Chief.</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too good! Those illiterate guttersnipes couldn't have done this on their own. Somebody's behind this, trying to pull a fast one...</utterance>
+   <speaker>JONATHAN</speaker>
+      <mode></mode>
+      <context>Pulitzer glowers in suspicion at the telephone.</context>
+      <utterance>Mr. Hearst on the line, sir. Wants to know if you've read the Newsies' paper?</utterance>
+   <speaker>MAYOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not taking the heat for this -- you've got to talk to them -- settle it --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell Hearst I'm busy!  I'll settle it all right -- once and for all.</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="2">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>The Newsies love it. Seitz stiffles a smile at Jack's bravado -- a smile of admiration.</context>
+      <utterance>Like I said, I don't transact business with no office boys. We talk to old Joe hisself or we don't talk. Period.</utterance>
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context>Jack beckons David to follow as they enter the huge doors and --</context>
+      <utterance>Then I guess you talk.</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="6">
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going to listen to me, boy --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd like to, Joe --  -- but I can't hear ya.</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context>You're going back to jail.</context>
+      <utterance>We had a deal -- you broke it.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe. But you can't put every kid in that square in jail. They ain't goin' away, Joe.</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Neither am I. I can wait them out. It won't be me that's hurt.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sure about that? He nods at David who produces a paper, reads:</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="8">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Since the strike, the World's circulation has dropped 70 per cent; advertising has been cut in half -- '  Every day you lose thousands of dollars -- just so you can beat us out of a lousy tenth of a cent per paper. Why?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It ain't about money, Dave -- if Joe gives in, that would mean nothin's like us got power. He can't let that happen -- no matter what it costs him. Right, Joe?</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context>He slams the window shut; CROWD NOISE abruptly DROPS --</context>
+      <utterance>I'm about to show you what power really is...</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have the police outside waiting to arrest you --</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You lousy double-crossing -- !</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context>He's crossing to a buzzer on his desk; Jack, thinking fast, snatches up a copy of the Newsies News.</context>
+      <utterance>-- then I'll deal with that rabble in the street.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ya got me, Joe -- but tell me one thing, willya? How'd ya like our paper -- nice printin', ain't it? Right off the presses of one of New York's greatest newspapers -- That stops him. He looks at Jack, frowning.</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All the papers have an agreement... we print nothing about the newsies. Whose press did you use?  It was Hearst, wasn't it...!</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="6">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>David quickly stops him, seeing the gleam in Pulitzer's eyes.</context>
+      <utterance>Hearst? Nah, it was yo --</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context>Jack and David exchange glances, seeing an opening --</context>
+      <utterance>I knew it. Whoever helped you print this lying rag is trying to break the strike, get the jump on the rest of us. Well, you're going to expose this backstabber to the other owners -- in exchange, I'll call off the police.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not enough, Joe -- you gotta deal with our demands. Otherwise, our lips are sealed.</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, all right -- just say the traitor's name. It's Hearst, isn't it? Say it! Say the name of the scoundrel whose press you used so I can make him the disgrace of the newspaper world! Say his name, damn you! He thunders over them, eyes blazing in triumph. The boys say nothing, just smile up at him knowingly until at last the horrible truth begins to dawn and --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Pulitzer walks with stiff dignity to the window; from below, the FAINT CHANTING floats seems deafening to his ears.</context>
+      <utterance>We just wanna say, 'Thanks, Joe.'  And Hearst and them other owners? Maybe they don't have to know. Depends.</utterance>
+   <speaker>PULITZER</speaker>
+      <mode></mode>
+      <context>David digs out their demands and prepares to read.</context>
+      <utterance>Perhaps we can resolve our... small differences.</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="6">
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>Weasel, surprised, sees Jack behind him.</context>
+      <utterance>Jack -- ! Jack -- !</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know how he got in here, Mr. Seitz -- but I'll take care of him, with pleasure. Just say the word!</utterance>
+   <speaker>SEITZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With pleasure. You're fired.</utterance>
+   <speaker>WEASEL</speaker>
+      <mode></mode>
+      <context>A tomato hits him in the face; he turns to see Les wiping tomato juice off his hands.</context>
+      <utterance>Come again...?</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>Triumphant, Jack hoists Les over his shoulders:</context>
+      <utterance>He said, you're fired.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The strike's over -- we beat 'em!</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="2">
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context>Jack watches, amazed, uncomprehending, as the cops move Snyder to the paddy wagon. As the rear doors are opened, several boys pile out -- former inmates of the Refuge, including Tenpin. As Snyder is loaded in, the last boy is coming out, crutch first --</context>
+      <utterance>We brought the Warden over to say goodbye. Goodbye, Warden.</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Remember what I told ya -- first t'ing ya do in jail, you make friends with the rats, share what you got in common --  Hiya, Jack! My leg tells me the strike's over!</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="3">
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ya orta seen it, Jack -- he came chargin' into the Refuge wavin' his walkin' stick like a sword and he's leadin' this army of lawyers and cops and Snyder's hidin' in the patata bin --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're you talkin' about -- who come chargin' in?</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context>He points O.S. -- Jack turns to see --</context>
+      <utterance>Who? Your pal! Him!</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="2">
+   <speaker>DENTON</speaker>
+      <mode></mode>
+      <context>Jack looks at the coach, torn. Boots holds the bundle of belongings he gave him earlier. Suddenly Jack decides, snaps his fingers, Boots tosses him the bundle.</context>
+      <utterance>Governor Roosevelt's very grateful that this problem was brought to his attention. He'd like to offer you a lift, anywhere you like. This time, you ride inside.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Denton moves off toward the coach. David, Sarah, Les look stunned, dismayed -- Jack avoids their eyes. Behind them, the BELL RINGS, the circulation window opens for business -- a crowd of Newsies races to line up. The gang looks at them hungrily, eager to return the work. They look at Jack.</context>
+      <utterance>Think he could drop me at the train yards?</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="10">
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You really goin' this time...?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's now or never, Racetrack.</utterance>
+   <speaker>RACETRACK</speaker>
+      <mode></mode>
+      <context>He shakes; the others crowd around. David looks on, left out for the moment; Sarah and Les beside him.</context>
+      <utterance>Won't be the same without ya. Give ya even odds on that.</utterance>
+   <speaker>KID BLINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See ya in the funny papes, cowboy --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, Blink, keep ya eye peeled.</utterance>
+   <speaker>MUSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ya hear what he said -- Blink says... ya hear it?</utterance>
+   <speaker>BOOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We heard it.  My best shooters. Never know when ya need good shooters.</utterance>
+   <speaker>SPOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it easy, Jackie- boy. Ya ever get in a spot --  -- think of me.</utterance>
+   <speaker>CRUTCHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't wanna alarm ya, Jack, but what I hear, out West ain't like New York at all -- it's fulla bulls, for one t'ing -- not cops, neither, but big ugly animals with horns and --</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Crutchy hobbles off to the dock. Jack looks off at the waiting coach, then holds out his hand to Les, who runs up and clings to him.</context>
+      <utterance>I'll miss ya, Crutch.</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="4">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ain't no good at writin' and stuff but... I'll be thinkin' of ya...</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't have to run away anymore, Jack. You have a choice now.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He stands, looking at them.</context>
+      <utterance>We won today, but the fight's not over. You're needed, Jack. We need you. Here.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Suddenly, the emotions are too much for him -- he turns, runs across the square, not looking back, racing towards the coach. Les starts after him -- David catches him, holds him, as he and Sarah watch -- -- Jack climbing into the coach, greeted by Teddy. The door closes, the coach trots away. "SANTA FE" is underscored. As the coach moves off, the Newsies move up, waving their caps goodbye. David and Sarah watch, feeling a great loss; Les is crushed. The Newsies move into the court- yard, trying to keep their spirits up as:</context>
+      <utterance>Maybe that's what scares me...</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="2">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call it, Les!</utterance>
+   <speaker>LES</speaker>
+      <mode></mode>
+      <context>The papers slide down the chute; Jack moves to the front of the line grinning -- seeing Sarah smiling at him from the gates. Jack sings out, the song soars, continuing as the Newsies are back on the job -- getting their papers, fanning out across the courtyard, into the city beyond. It is indeed a fine life as closing credits roll until we --</context>
+      <utterance>Comin' down the chute!</utterance>
+</dialogue>
+
+
+</movie>

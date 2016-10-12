@@ -1,0 +1,2961 @@
+<movie id="102" title="Braveheart">
+
+<dialogue id="1" n_utterances="2">
+   <speaker>VOICE OVER</speaker>
+      <mode></mode>
+      <context>Another noble rides in from the opposite side. Two more appear down the road, converging on the barn.</context>
+      <utterance>Historians from England will say I am a liar. But history is written by those who have hung heroes.</utterance>
+   <speaker>VOICE OVER</speaker>
+      <mode></mode>
+      <context>The nobles eye each other cautiously, but the truce holds. They enter the barn, with their pages...</context>
+      <utterance>The King of Scotland had died without a son, and the king of England, a cruel pagan known as Edward the Longshanks, claimed the throne for himself. Scotland’s nobles fought him, and fought each other, over the crown. So Longshanks invited them to talks of truce. No weapons, one page only.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="5">
+   <speaker>VOICE OVER</speaker>
+      <mode></mode>
+      <context>We FAVOR JOHN WALLACE, the nineteen-year-old sitting easily on his horse, beside his father...</context>
+      <utterance>Among the farmers of that shire was Malcolm Wallace, a commoner, with his own lands and two sons: John...</utterance>
+   <speaker>VOICE OVER</speaker>
+      <mode></mode>
+      <context>WILLIAM, a skinny eight-year-old riding bareback, catches up to his father and older brother.</context>
+      <utterance>...and William.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Told ya to stay.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I finished my chores. Where we goin'?</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>They ride on, over the lush hills.</context>
+      <utterance>MacAndrews'. He was supposed to visit when the truce was over.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="2">
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>He means William. He and his elder son spur their horses.</context>
+      <utterance>Stay here.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>Malcolm finds a pitchfork, John the woodpile axe...</context>
+      <utterance>MacAndrews!... MacAndrews!?</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="6">
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>A SHUFFLE; John spins; William has entered the back door.</context>
+      <utterance>MacAndrews.</utterance>
+   <speaker>JOHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>William! Get out of here!</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>Before his father and brother can think of anything to say, William, with a boy's curiosity, touches the spurred foot of the hanged noblemen we first saw riding in. It's too solid; he takes a real look at the face, and suddenly --</context>
+      <utterance>Why would MacAndrews make so many scarecrows?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>He turns to run, but knocks back into the feet of the hanged man behind him! In blind panic he darts in another direction, and runs into another corpse, and another; the hanged men begin to swing, making it harder for William's father and older brother to fight their way to him.</context>
+      <utterance>R -- real!!!... Ahhhhhgggg!...</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>Then, worst of all, William sees the pages, boys like himself, hanged in a row behind their masters! Finally his father and brother reach William and hug him tight. There in the barn, among the swinging bodies of the hanged nobles, Malcolm Wallace grips his sons.</context>
+      <utterance>William! William!</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Murderin' English bastards.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="6">
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wallace is right! We fight 'em!</utterance>
+   <speaker>MACCLANNOUGH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every nobleman who had any will to fight was at that meeting.</utterance>
+   <speaker>MALCOLM WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So it's up to us! We show them we won't lie down to be their slaves!</utterance>
+   <speaker>MACCLANNOUGH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can't beat an army, not with the fifty farmers we can raise!</utterance>
+   <speaker>MALCOLM WALLACE</speaker>
+      <mode></mode>
+      <context>Young Wallace has snuck down and is eavesdropping from the stairs. He sees his father drip his finger into a jug of whiskey and use the wet finger to draw on the tabletop.</context>
+      <utterance>We don't have to beat 'em, just fight 'em. To show 'em we're not dogs, but men.</utterance>
+   <speaker>MALCOLM WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They have a camp here. We attack them at sunset tomorrow. Give us all night to run home.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="3">
+   <speaker>MALCOLM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>William, you're staying here.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>These words from his youngest son make Malcolm pause, and kneel, to look into William's eyes.</context>
+      <utterance>I can fight.</utterance>
+   <speaker>MALCOLM</speaker>
+      <mode></mode>
+      <context>Malcolm and John mount their horses and ride away, leaving William looking forlorn. They wave; he waves back.</context>
+      <utterance>Aye. But it's our wits that make us men. I love ya, boy. You stay.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="8">
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're coming!</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three, maybe more!</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Armed?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're English soldiers, ain't they?</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With your father and brother gone, they'll kill us and burn the farm!</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>Hamish leans forward for a look, but William pulls him back.</context>
+      <utterance>It's up to us, Hamish!</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>They wait; heavy FOOTSTEPS. Then from around the edge of the grove three enormous, ugly hogs appear. The boys hurling rotten eggs. The eggs slap the snouts of the pigs, who scatter as the boys charge, howling. We PULL BACK... as the sun goes down on their play.</context>
+      <utterance>Not yet! Here he comes, be ready!</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="4">
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wanna stay with me tonight?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wanna have supper waitin'.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll get those English pigs tomorrow.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aye, we'll get 'em.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="10">
+   <speaker>PRIEST</speaker>
+      <mode></mode>
+      <context>With the final Amen, the neighbors drift from the graveside, pulling their Children along, to give William a last moment of private grief before the grave diggers cover the bodies. The boy stands alone over the open graves, his heart so shattered that he can scarcely cry; a single tear makes its way down his face. And the tiny girl feels for William in a way that the adults cannot. From the ground she pulls a Scottish thistle, moves to the softly weeping William and places the beautiful wild blossom in his hand. William looks up and their young eyes meet; her sad blue eyes hold William's as the grave diggers cover the bodies. Then a lone, mounted figure appears at the crest of the hill above them. Tall, thin and angular, in black clerical garb, he looks like the grim reaper. The girl hurries back to her mother's side; everyone watches in silence as the figure rides down to them. He is ARGYLE WALLACE. He looks like a human buzzard, his face craggy, permanently furious.</context>
+      <utterance>...Restare in pacem eternis, Amen.</utterance>
+   <speaker>PRIEST</speaker>
+      <mode></mode>
+      <context>Argyle glowers at the man, dismounts, and glares at William. William stares up at this frightening figure. They are interrupted by the ominous sound of approaching horses; a dozen mounted English soldiers, armed with lances, are approaching. Argyle rattles to the priest...</context>
+      <utterance>You must be the relative of the deceased... William, this is your Uncle Argyle.</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context>The soldiers ride right in among the mourners and stare down from their saddles, haughty, menacing, their LEADER brusque.</context>
+      <utterance>You were wise to hurry.</utterance>
+   <speaker>LEADER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Someone dead from this household?</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We just had a funeral, isn't that what it means in England as well?</utterance>
+   <speaker>LEADER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What it means in England -- and in Scotland too -- is that rebels have forfeited their lands. We were ambushed last night. But the Scots dragged their dead away.</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My brother and nephew perished two days ago, when their hay cart turned over.</utterance>
+   <speaker>LEADER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then we'll just have a peek at the wounds.  Dig 'em up!</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context>Outmaneuvered, the leader reins his horse away. Several of the farmers spit on the ground. Argyle glares at them.</context>
+      <utterance>They've been sanctified and buried in the holy rites of God's church, and any hand that disturbs them now takes on eternal damnation. So please -- do it.</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Funeral's over. Go home.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="7">
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context>Argyle sits down and begins to dine with the boy.</context>
+      <utterance>Not that spoon, that one's for soup. Dip away from you. And don't slurp.</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll sleep here tonight. You'll come home with me. We'll let the house, and the lands too; plenty of willing neighbors.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to leave.</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context>Argyle pushes his food away; he has no appetite now.</context>
+      <utterance>Didn't want your father to die either, did ya? But it happened.</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did the priest say anything about the Resurrection? Or was it all about Judgment?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was in Latin, sir.</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Non loquis Latinum? You don't speak Latin? We have to fix that, won't we?  Did he give the poetic benediction? The Lord bless thee and keep thee? Patris Benefactum et --  ...It was Malcolm's favorite.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="5">
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are they doing?</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context>The farmers file by the graveside, crossing themselves, each whispering his own private prayer. Argyle whispers, half to William, and half to himself...</context>
+      <utterance>Saying goodbye in their own way -- in outlawed tartans, with outlawed pipes, playing outlawed tunes.</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context>William takes the sword from his uncle, and tries to lift it. Slowly, Argyle takes the sword back.</context>
+      <utterance>Your Daddy and I, we saw our own father buried like this, dead from fighting the English.</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context>He taps William on the temple with the tip of his finger.</context>
+      <utterance>First learn to use this.</utterance>
+   <speaker>ARGYLE</speaker>
+      <mode></mode>
+      <context>With an expert's easy fluidity, he lifts the huge sword. It glistens in the torchlight. The music plays, the notes hanging in the air, swirling in the Scottish breeze as if rising towards the stars...</context>
+      <utterance>Then I will teach you to use this.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="5">
+   <speaker>VOICE OVER</speaker>
+      <mode></mode>
+      <context>LONGSHANKS, King of England, stands in the jeweled light of the ancient Abbey. Known as Longshanks because of the spindly legs that make him almost seven feet tall, he has a hawk's nose and a snake's eyes, punctuating a face of distinct cruelty. Historians of his day considered him and the line of Plantagenets from which he came to be devil worshipers.</context>
+      <utterance>Twelve years later, Longshanks supervised the wedding of his eldest son, also named Edward, who would succeed him to the throne.</utterance>
+   <speaker>VOICE OVER</speaker>
+      <mode></mode>
+      <context>GENEVIEVE, a nineteen-year-old virgin of stupendous beauty moves down the aisle, the light in her face outshining her blindingly white wedding gown. As she reaches the altar her hands tremble, but she maintains her poise and control. She looks toward EDWARD, Prince of Wales. Pampered young men surround him as his retinue. He takes her hand coldly and goes through the ceremony under his father's stare.</context>
+      <utterance>As bride for his son, Longshanks had chosen a relative of his rival, the king of France.</utterance>
+   <speaker>VOICE OVER</speaker>
+      <mode></mode>
+      <context>The ceremony concluding, attendants lift back the bride's veil. Her wedding day, the ultimate moment -- and Prince Edward ignores her, to turn back to his friends. But prompted by one of the sour lords, he leans over and pecks his new Princess on the cheek. For an instant, we see in her eyes that her heart is dying. But she keeps her poise.</context>
+      <utterance>It was widely whispered that for the Princess to conceive, Longshanks would have to do the honors himself. That may have been what he had in mind all along.</utterance>
+   <speaker>VOICE OVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Having seen to his obligations to provide for a successor, Longshanks set about his fondest business -- to crush Scotland, and turn his power against France...</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context>We are in the --</context>
+      <utterance>Scotland! Scot-land!</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="9">
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context>He punches the map, then sees the Princess enter softly.</context>
+      <utterance>The French will grovel to anyone with strength! But how will they credit our strength when we cannot rule the whole of our own island?!</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is my son?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>Longshanks' eyes expand in fury; it is frightening to see.</context>
+      <utterance>Your pardon, M'lord, he asked me to come in his stead.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I sent for him -- and the little coward send you?!</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shall I leave, M'lord?</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context>He spins back toward his generals. Ignored, the princess settles silently onto the cushions of the window seat.</context>
+      <utterance>If he wants his queen to rule, then you stay and learn how! I will deal with him.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context>One OLD ADVISOR speaks up hesitantly.</context>
+      <utterance>Nobles are the key to the Scottish door. Grant their nobles land here in England. Give our own nobles estates in the north. Make them too greedy to oppose us.</utterance>
+   <speaker>OLD ADVISOR</speaker>
+      <mode></mode>
+      <context>Longshanks glares at him, but takes the point. The wheels grind in his brain; his dark eyes falling on the Princess, he is inspired.</context>
+      <utterance>Sire... Our nobles will be reluctant to relocate. New lands mean new taxes, and they are taxed already for our war in France.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps it's time to reinstitute an old custom. Grant them prima noctes, "First night." When any common girl inhabiting their lands is married, our lords shall have sexual rights to her on the night of her wedding. That should fetch just the kind of lords we want in Scotland.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="17">
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?!</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You directed me to report to you the moment the king's conference was ended.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So I did! And what was so important about it?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>But Edward and his friend are fencing again, the clanging of their blunted swords so loud that she can't hear herself.</context>
+      <utterance>Scotland. He intends --</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>Edward loses his weapon again, and whirls on her.</context>
+      <utterance>He intends to grant --</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up, would you! How can I concentrate?!</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...His majesty was quite keen that you should understand --</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>For an instant, anger flares into her eyes. She glances at Edward, and at the young man with him, then lowers her eyes and starts to back out. But Edward has noticed.</context>
+      <utterance>All so very boring! He wants me to learn to fight too, so let me do it!</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>She stops, but does not raise her eyes.</context>
+      <utterance>Stop there.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>He lifts his hand and draws his friend Phillip to his side. Still the Princess does not lift her eyes.</context>
+      <utterance>Do you disapprove of Phillip?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, M'lord.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>She lifts her eyes. But she could not brace herself enough for what she sees: Edward nuzzling Phillip, the prince's bare chest to his muscular friend's bare back, both men glistening with sweat and sexual excitement. The Princess's eyes quiver... but she does not look away.</context>
+      <utterance>Look at me. I said LOOK AT ME!</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now, my flower, do you understand?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I had thought that... I was loathsome to you. Perhaps I am. If I may be excused, M'lord.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>She starts to leave, as quietly as she came. But her husband calls after her.</context>
+      <utterance>You may.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>She closes the door softly, on her husband and his lover.</context>
+      <utterance>Don't worry, m'Lady, it is my royal responsibility to breed. And I assure you, when the time comes, I shall... manage.</utterance>
+   <speaker>VOICE OVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now in Edinburgh were gathered the council of Scottish nobles...</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="8">
+   <speaker>VOICE OVER</speaker>
+      <mode></mode>
+      <context>Robert strides to his seat in the center of the table, and the others settle in respectfully. MORNAY, another young warrior, gives him a bow, as does CRAIG, a grizzled noble.</context>
+      <utterance>Among these was Robert, the 17th Earl of Bruce, a leading contender for the crown of Scotland.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Young Robert, we are honored --</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My father hears that Longshanks has granted prima noctes.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Clearly meant to draw more of his supporters here.</utterance>
+   <speaker>MORNAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Balliol clan has endorsed the right, licking Longshanks' boots so he will support their claim to the throne. If we make a show of opposition, the commoners will favor us.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is too soon to step out alone. My father believes we must lull Longshanks into confidence, by neither supporting his decree nor opposing it.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A wise plan. And how is your father? We have missed him at the council.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He strained his leg so that it pains him to ride. But he sends his greetings -- and says that I speak for all the Bruces. And for Scotland.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="36">
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey boy! You hunt this bird? William's eyes fix themselves on the soldier.</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context>His buddies, enjoying their role as intimidators, grab the bird and begin to search it for evidence.</context>
+      <utterance>It's against the law for Scots to own bows. You shot this bird?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>They don't believe that -- but they can't find any puncture wound on the bird. William reaches his hand out for the return of the bird. The soldiers drop it onto the ground. Slowly, William picks it up, and heads into the clearing. The farmers watch him come. Among those noticing William's arrival, but pretending not to, is MARION MacCLANNOUGH, grown now into a stunning young woman; her long auburn hair reminds us of those years long ago; she wears it the same way, straight and full down her back. Her dress is plain, like the grass that surrounds a wildflower. She's the most beautiful girl in the village, maybe in all of Scotland, and the soldiers who hassled William notice her too. William reaches the food table and contributes his goose to the feast. FARM WOMEN eye him; he nodes to one.</context>
+      <utterance>I hit it in the head. With a rock.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miz MacDougal. You look well.</utterance>
+   <speaker>FARM WOMAN</speaker>
+      <mode></mode>
+      <context>The daughter mentioned is missing teeth. William nods to her. It's impossible for him to giver her a smile as bright as her hopes, and she lowers her head in disappointment. But then raises her face in surprise as William takes her hand and gives her a respectful bow. He moves away from the table, passing through the crowd like a stranger. Then he glances toward the knot of girls. He sees Marion. She sees him, then looks away. Do they remember each other? He moves toward her; she is shy, her eyes downcast, but then she raises them and looks at him. They move closer and closer together. Just as they are about to reach each other, a huge round stone THUMPS to the earth at Williams' feet. He looks up to see one of Marion's suitors -- the broad, muscled young man who has just tossed the stone in William's way. Now everybody's looking to see how William will handle the challenge. He tries to move around, but the guy cuts him off. Then William thinks he recognizes the big red-head.</context>
+      <utterance>...William? It's William Wallace, back home! -- Have you met my daughter?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>It is his old friend, but Hamish won't admit it, or be put off from the challenge. He points to the huge stone.</context>
+      <utterance>Hamish?</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Test of manhood.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You win.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call it a test of soldiery, then. The English won't let us train with weapons, so we train with stones.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>He taps his temple. Hamish stretches out his hand, as if to show William something in his palm.</context>
+      <utterance>The test of a soldier is not in his arm. It's here.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context>With a sudden movement, he slams his fist into William's jaw, dropping him. A few men move to interfere, but Campbell, MacClannough, and the other farmers who are the true leaders here, stop their neighbors from interrupting. Hamish stands over William, waiting for him to get up.</context>
+      <utterance>No. It's here.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>William stands and hoists the huge stone, eighteen inches in diameter. Straining with the effort, he lugs the stone to the line scratched in the rocky field. Beyond the line are the muddy dents from previous tosses. William takes a run and heaves the stone. It flies past the other marks in the field; people are impressed. William looks at Hamish.</context>
+      <utterance>A contest, then.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I still say this is no test. A catapult can throw a stone farther than a man can.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context>Hamish walks out, lifts the stone, and lugs it back to the line. He takes a run and heaves with a great groan! The stone flies, passing William's mark by a couple of feet. People laugh and whistle. William nods, impressed.</context>
+      <utterance>That depends on the man.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you do it when it matters? As it matters in battle? Could you crush a man with that throw?</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context>William walks to the dent made by Hamish's throw.</context>
+      <utterance>I could crush you like a roach.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>Hamish scowls at William, at everybody watching. He lifts the stone and carries it back to the line. William stands calmly. Hamish backs up for his run. William yawns.</context>
+      <utterance>Then do it. Come, do it.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll move</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>Hamish backs up a few more feet, for a longer run.</context>
+      <utterance>I will not.</utterance>
+   <speaker>FARMER STEWART</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not fair!</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>William seems completely unafraid. He leans down, picks up a small smooth stone and tosses it up in the air casually. Stung by this show of calm, Hamish takes furious run, and heaves! The stone flies through the air, just misses William's head, and buries itself halfway into the earth behind him. William never flinches. The people cheer.</context>
+      <utterance>He's tired, he should get a longer run.</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>Hamish is miffed; it's like William won.</context>
+      <utterance>Brave show!</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I threw longer than last time!</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An ox is strong, but not clever.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An ox is stupid enough to just stand in one place.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>William turns, walks double the distance Hamish threw, and turns and hurls the rock he holds! It whistles through the air, hits Hamish in the forehead, and drops him like a shot.</context>
+      <utterance>That's not the point.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>Everybody cheers and laughs! They surround William.</context>
+      <utterance>That is.</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>William takes a tankard of ale from a farmer, walks over and tosses the cold liquid into Hamish's face; he wakes, and, his eyes uncrossing, accepts William's hand, pulling him up.</context>
+      <utterance>A fine display, young Wallace!</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good to see you again.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context>Grinning, they embrace. MUSIC plays, the dancing begins. William walks to the knot of young ladies... but passes Marion, and moves to the girl with the missing teeth.</context>
+      <utterance>I should'a remembered the eggs.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>She's thrilled to accept; they begin to dance.</context>
+      <utterance>Would you honor me with a dance?</utterance>
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've taken over your father's farm?  They say he died long ago. Fighting the English.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>The musicians interrupt their playing; a group of heavily armed horsemen, with banners and flying colors, ride up, reining their horses into the middle of the celebration. In the middle of the group is an English NOBLEMAN; he is gray, in his fifties, and stops in front of the BRIDE and groom.</context>
+      <utterance>He died in an accident, with my brother. Their cart turned over.</utterance>
+   <speaker>NOBLEMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have come to claim the right of prima noctes. As the lord of these lands, I will bless this marriage by taking the bride into my bed on the first night of her union. Stewart, father of the BRIDE, lunges forward.</utterance>
+   <speaker>STEWART</speaker>
+      <mode></mode>
+      <context>The horsemen point their lances at the unarmed Scots -- who see that the English soldiers from the village have moved to the edge of the gathering, as if to dare any resistance.</context>
+      <utterance>No, by God!</utterance>
+   <speaker>NOBLEMAN</speaker>
+      <mode></mode>
+      <context>Even unarmed, Stewart is about to attack -- but the bride intervenes. She grabs her father and whispers to him. She moves to her husband and does the same. Holding back tears, she allows herself to be pulled up behind one of the horsemen. Marion MacClannough is looking on, sobered by her friend's courage and sickened by her fate -- and Marion is even more unsettled as she notices that one of the soldiers, a particularly nasty looking brute with a scarred face, is leering at her. William Wallace sees this too. The noble and his escorts ride away, and as they do it begins to rain. The celebration destroyed, the Scots gather the food and disperse to their homes. But Wallace remains, standing in the downpour, keeping his thoughts to himself.</context>
+      <utterance>It is my noble right.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="5">
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>Mrs. MacClannough shoulders up beside her husband, and Marion appears behind her scowling parents.</context>
+      <utterance>Good evening, sir. May I speak with your daughter?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Marion... Would you like to go for a ride on this fine evening?</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The boy's insane!</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's good Scottish weather, Madam, the rain is fallin' straight down.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>Marion has grabbed a cloak off the back of the door; she runs out to hop up behind William, and they gallop away.</context>
+      <utterance>She absolutely may not, she'll -- Marion!</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="6">
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your father doesn't like me, does he?</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not you. He dislikes that you're a Wallace. He just says... the Wallaces don't seem to live for very long.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you for accepting.</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you for inviting.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll invite you again, but your mother thinks I'm crazy.</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context>He lingers; he wants to say something, or maybe he just doesn't want the moment to end. Finally he spurs the horse.</context>
+      <utterance>You are. And I'll come again.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="2">
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>He walks her closer to the door. They turn and look at each other again. She waits for him to kiss her...</context>
+      <utterance>Marion, come in!</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>She still hesitates; he isn't going to kiss her. She starts in, but he grabs her hand. And into it he puts something he has taken from his pocket; it is wrapped in flannel. He hops on his horse, glances at her, and gallops away. She stands in the open doorway; she looks down at what he left her. She unwraps the flannel; it is a dried thistle, the one she gave him years before.</context>
+      <utterance>Marion, come in!</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="8">
+   <speaker>MACCLANNOUGH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Young Wallace --</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir, I know it was strange of me to invite Marion to ride last night. I assure you, I --</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>MacClannough's daughter is another matter. We come to fetch you to a meeting.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What kind of meeting?</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>William goes back to repairing his roof.</context>
+      <utterance>The secret kind.</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your father was a fighter. And a patriot.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>Campbell shakes his head and reins his horse away, with Hamish. MacClannough lingers.</context>
+      <utterance>I know who my father was. I came back home to raise crops. And, God willing, a family. If I can live in peace, I will.</utterance>
+   <speaker>MACCLANNOUGH</speaker>
+      <mode></mode>
+      <context>MacClannough rides away. William sits down on the roof, and looks out at the graves of his father and brother.</context>
+      <utterance>If you can keep your intention to stay out of the troubles, you may court my daughter. If you break your intention, I'll kill you.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="13">
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've been here before?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some nights. I have dreams. Mostly dreams I don't want. I started riding at night to fill up my mind so that when I did sleep I'd dream only of the ride and the adventure.</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did it work?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>He looks at her. They kiss suddenly, so long and hard that they tumble into the heather, rolling, devouring each other. Through their passion...</context>
+      <utterance>No. You don't choose your dreams. Your dreams choose you.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want... to marry you!</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I... accept your proposal!</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not just saying it!</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nor I!</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I won't give you up to any nobleman.</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You scare me.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to scare you. I want to be yours, and you mine. Every night like this one.</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This night is too beautiful to have again.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>They kiss again...</context>
+      <utterance>I will be with you, like this. Forever.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="5">
+   <speaker>PRIEST</speaker>
+      <mode></mode>
+      <context>From within his shirt, William withdraws a strip of cloth woven in his family tartan. He and Marion each lift a hand to the priest, and he binds their wrists with the cloth.</context>
+      <utterance>You have come to pledge, each to the other, before Almighty God.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>From her dress she takes a handmade handkerchief, embroidered with a thistle to look like the one she first gave him those years ago.</context>
+      <utterance>I will love you my whole life. You and no other.</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context>The Priest waits for them to go on, but neither can; they're too taken with emotion, looking at each other. The Priest intones holy phrases...</context>
+      <utterance>And I you. You and no other. Forever.</utterance>
+   <speaker>PRIEST</speaker>
+      <mode></mode>
+      <context>The lovers kiss. As they break their embrace, a figure carrying something dark and spiky appears at the broken door of the church, and William spins as if to attack, but the Priest catches his arm; they see the man carries bagpipes.</context>
+      <utterance>Agus bhayd lauch... The Lord bless and keep thy love, now and forever.</utterance>
+   <speaker>PRIEST</speaker>
+      <mode></mode>
+      <context>The piper begins to play, and the tune from his primitive chanter is wispy, ethereal, beautiful. The lovers look into each other's eyes, as the single melody of the pipes merges into a swell of music, UNDERSCORING MONTAGE William and Marion ride the path to the top of the precipice, where, in the shelter of the grove, they spend their honeymoon. The MUSIC CONTINUES as, still sweaty from their love-making, he returns her to her house just before dawn. She waves from her window, as William rides away, as we</context>
+      <utterance>I trust him -- or I'd'a killed him me'self. A weddin' needs pipes.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="6">
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've missed you.</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shush. It's only been a day.  And it's seemed like forever.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tonight then.</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context>Playfully he pokes his finger under the collar of her dress, pulling up the strip of checked cloth he gave her at their wedding, which she now wears hidden around her neck.</context>
+      <utterance>My parents are growing suspicious! I can't keep meeting you every night!</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then when?</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context>Tucking in the cloth strip, she hurries away, smiling.</context>
+      <utterance>...Tonight!</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="13">
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you going... lass?</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context>A second drunken SOLDIER pipes up.</context>
+      <utterance>Let go.</utterance>
+   <speaker>SOLDIER #2</speaker>
+      <mode></mode>
+      <context>The scarred soldier pulls Marion into his big arms; she shoves him away with surprising strength, and he staggers back, to the laughter of his friends. Then he snatches her again and kisses her hard on the lips. She breaks free and SLAPS him fiercely, hard enough to draw blood from his mouth. Tasting the trickle, he slings her down against sacks of grain, and the soldiers are all over her, pinning her down, ripping her clothes, a full scale public gang rape. As the townspeople try to move in the three soldiers waiting their turn at Marion pull their knives, keep them townspeople back.</context>
+      <utterance>Why don't you marry my friend here? Then I'll take the first night!</utterance>
+   <speaker>SOLDIER #1</speaker>
+      <mode></mode>
+      <context>He slams his mouth down against hers for a long, awful time, comes up clawing at her dress to rip it from her body... and is hit in the face by a rock thrown at great speed! It takes a moment for the other soldiers to realize what just happened, and in that instant William is on them. He wrenches one soldier's arm in a direction it was never meant to go, breaking the elbow, separating the shoulder, and slinging the howling soldier into his comrades. Two of the soldiers leap at William, swinging their short swords; William ducks, knocking their ale cask into their knees; William lifts the whole table where they were sitting and slams it into the faces of two more attackers.</context>
+      <utterance>Bitch, who do you think you are?</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context>She shouts to warn him that the scarred soldier, now bloodyfaced, has recovered from the rock and is behind William with a knife. William sidesteps the first thrust, snatches a leg from the shattered table and crushes the man's skull.</context>
+      <utterance>William!</utterance>
+   <speaker>MARKET WOMEN</speaker>
+      <mode></mode>
+      <context>But there's no time for celebration. There's blood and ale everywhere, and the fallen soldiers are yelling...</context>
+      <utterance>Wallace Wallace! William Wallace!</utterance>
+   <speaker>FALLEN SOLDIER</speaker>
+      <mode></mode>
+      <context>MORE SOLDIERS hear the call and come running, reinforcements converging from all over the village.</context>
+      <utterance>Rebels! Help!</utterance>
+   <speaker>VILLAGE FOLKS</speaker>
+      <mode></mode>
+      <context>Will sees the horse that pulled the flower cart and throws Marion up onto its back. He slaps the horse's rump and it plunges with Marion into the twisting village lanes. William darts off through the crowd, as the MAGISTRATE and more of his soldiers arrive -- dozens of them! William pauses out in the central street of the village, just long enough to be sure they've spotted him, and darts into a side lane in the opposite direction Marion went; William weaves through the narrow streets of the medieval town, knocking over baskets, jumping carts. As the soldiers stumble after him, the Magistrate looks down at his mangled soldiers. The one with the ruptured arm is lying in agony.</context>
+      <utterance>Run, William! Run!</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened?</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...girl.</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What girl?!</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...on horse.</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context>The shout rings through the village; Marion hears it, and when she sees more soldiers at the far end of the lane she's trying to take out of town, she urges the horse into an even narrower back alley. She sees a clear route to freedom... But the flock of pigeons pecking on the scraps thrown there behind the shops rise into the horse's face with a sudden thrashing of wings, and the horse shies against a wall. Marion controls him, but a flap of her ripped dress has caught on a crude nail, and as the frightened horse lunges forward again, she is pulled off its bare back, her dress catching and ripping at the same time, dropping her hard.</context>
+      <utterance>The girl on the horse! Stop her!</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="5">
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One Scot buggers six of us? Hell to pay when that gets round.</utterance>
+   <speaker>CORPORAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Burn the village.</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context>He studies Marion, her mouth now stuffed with burlap. He notices the strip of cloth around her neck, and touches the weave curiously.</context>
+      <utterance>But he is free. You never catch 'em in the Highlands.</utterance>
+   <speaker>CORPORAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Clans weave that cloth in their own patterns.</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So why is this strip concealed?  He fought for you, eh?</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="2">
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context>He looks down at Marion, her mouth bound, her eyes defiant. He jerks out his dagger and slices Marion's throat! Her eyes spring open like a doe's; then she sags, dead. The townspeople are speechless; even some of the soldiers are shocked. The Magistrate turns calmly to his men.</context>
+      <utterance>An assault on the king's soldiers is the same as assaulting the king!</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now. Let this scrapper come to me.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="2">
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context>The see Wallace gallop into sight; but he stops, then heads down a side street. The Magistrate and his men don't like this; where did he go? Which way will he come from? And then they hear the horses, and see the other Scots, at the head of the main street. The soldiers unleash a volley of arrows at them. They are loading to fire again when Wallace runs in -- on foot! -- and cuts down two soldiers! The other Scots charge! The startled soldiers break and run in every direction. The Magistrate, abandoned, runs too. Wallace pursues. Not far along a twisting lane, the bulky Magistrate falters. He turns to fight, and Wallace slashes away his sword.</context>
+      <utterance>Don't look surprised! We knew he'd bring friends!</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! I beg you... mercy!</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="7">
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>They obey, then take a glowing poker from the fire and run it through Campbell's shoulder, where the arrow went. There is a terrible SIZZLE, and Campbell reacts to the pain.</context>
+      <utterance>Pour it straight into the wound. I know it seems a waste of good whiskey, but indulge me.</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>Campbell looks down at his left hand. His thumb is missing!</context>
+      <utterance>Ah. Now that'll clear your sinuses, lads.</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>Wallace is sitting alone nearby, staring at nothing. Hamish moves over and puts a hand on his shoulder. Wallace looks at his friend, and looks away; killing the Magistrate did not bring Marion back. SHOUTS of alarm: ARMED MEN are coming! The farmers scramble for their weapons, ready to fight; even Campbell jumps up; but what they see coming out of the darkness are twenty more farmers, with hayhooks, knives, axes, anything they could find for weapons. Their leader is MacGREGOR.</context>
+      <utterance>Well bloody Hell, look at this! Now it's nothing but a fly swatter.</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>MacGregor leads his men into the circle of rebels.</context>
+      <utterance>MacGregor -- from the next valley!</utterance>
+   <speaker>MACGREGOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We heard about what was happenin'. And we don't want ya thinkin' ya can have your fun without us.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go home. Some of us are in this, I can't help that now. But you can help yourselves. Go home.</utterance>
+   <speaker>MACGREGOR</speaker>
+      <mode></mode>
+      <context>They all look at Wallace.</context>
+      <utterance>We'll have no homes left when the English garrison at the castle comes through to burn us out.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="9">
+   <speaker>LORD BOTTOMS</speaker>
+      <mode></mode>
+      <context>Tell him that I will hang five rebels for every good Englishman killed! FORM FOR MARCH! The troops begin to scramble into the courtyard. At the same time, the messenger gallops to the gate and nods for the keepers to open it. They pull up the chains and the heavy gate rises. The messenger spurs his horse to gallop through -- and is hit in the chest with an axe! The Scots, hidden just outside the gate, come pouring through, led by Wallace! Arrows pick soldiers from their perches, Scots drop over the wall; the surprise is so complete that it's over almost without a fight. Lord Bottoms looks around in confusion...</context>
+      <utterance>Gather the horses! Align the infantry!  Ride to the Lord Governor in Stirling.</utterance>
+   <speaker>LORD BOTTOMS</speaker>
+      <mode></mode>
+      <context>Scots drag Lord Bottoms off his horse; an arrow in a flexed bow jabs right up to his eye, the archer ready to drive the shaft through Bottom's eye socket and into his brain; but Wallace's hand closes on the archer's fingers -- and Bottoms sees that the archer at the other end of the arrow shaft is none other than the Highland farmgirl he forced into his bed on her wedding night. Beside her is her husband, holding a scythe, red with English blood.</context>
+      <utterance>Stop them... Don't let... Align...</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On your way somewhere, M'lord?</utterance>
+   <speaker>LORD BOTTOMS</speaker>
+      <mode></mode>
+      <context>The point of Wallace's sword jumps beneath the Lord's chin.</context>
+      <utterance>Murdering bloody bandit!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>The green eyes of the defiled highland bride flash fire. William takes his hand from her bow and looks at her, grief for Marion in his eyes; for the sake of that she does not release the string.</context>
+      <utterance>My name is William Wallace. I am no bandit who hides his face... Find this man a horse.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Hamish extends the reins of the Lord's thoroughbred.</context>
+      <utterance>Give him a horse.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>He nods to a bony nag hitched next to a glue pot.</context>
+      <utterance>Not this horse. That one.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>As the Scots cheer, Wallace throws Lord Bottoms onto the nag's back and slaps the horse's rear. IT shambles away, followed by the English survivors, as the Scots chant...</context>
+      <utterance>Today we will spare you, and every man who has yielded. Go back to England. Tell them Scotland's daughters and her sons are yours no more. Tell them Scotland is free.</utterance>
+   <speaker>SCOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wal-lace, Wal-lace, Wal-lace!...</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="8">
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Scottish rebels have routed Lord Bottoms!</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>Longshanks slaps his son, knocking him down among the colored balls and wickets. Everyone gasps, stunned.</context>
+      <utterance>I hear. This Wallace is a bandit, nothing more.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context>Longshanks jerks him to his feet.</context>
+      <utterance>You weak little coward! Stand up!</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I go to France to press our rights there! I leave you to handle this little rebellion, do you understand?</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context>The king leaves. The friends of the humiliated Prince hurry to him and lift him; as the Princess moves to him too...</context>
+      <utterance>And turn yourself into a man.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>He slaps her! Her personal guards, Frenchmen in distinctive uniforms, jump from their seats at the edge of the garden, but the Princess raises a hand to show she needs no assistance, and curtseys to Edward, who shouts --</context>
+      <utterance>Get away from me!</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>As Edward marches off with his entourage, NICOLETTE, a beautiful raven-haired Handmaiden, rushes to the Princess, who is wobbly, hurt more than she let show. Nicolette whispers to her in French, with subtitles...</context>
+      <utterance>Convene my military council!</utterance>
+   <speaker>NICOLETTE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They say this Wallace killed thirty men to avenge the death of his woman. I hope your husband goes to Scotland. Then you'll be a widow.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="6">
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wanted to please you.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context>But he is numb as she nuzzles him again. She sags back, and he still stares away, lost in thought. Realizing her hurt, he explains...</context>
+      <utterance>You did.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context>She looks at him blankly.</context>
+      <utterance>In Lanark village, the king's soldiers killed a girl. Her lover fought his way through the soldiers and killed the magistrate.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He rebelled. He rebelled. He acted. He fought! Was it rage? Pride? Love? Whatever it was, he has more of it than I.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You might have lied.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm too arrogant to lie.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="8">
+   <speaker>ROBERT THE BRUCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Father. A rebellion has begun.</utterance>
+   <speaker>THE LEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Under whom?</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A commoner named William Wallace.</utterance>
+   <speaker>THE LEPER</speaker>
+      <mode></mode>
+      <context>The old man thinks, and points a half finger at his son.</context>
+      <utterance>A commoner? So no one leads Scotland?</utterance>
+   <speaker>THE LEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You will embrace this rebellion. Support it, from our lands in the north. I will gain English favor by condemning it and ordering it opposed from our lands in the south. Whichever way the tide runs, we will rise.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This Wallace. He doesn't even have a knighthood. But he fights with passion, and he is clever. He inspires men.</utterance>
+   <speaker>THE LEPER</speaker>
+      <mode></mode>
+      <context>Young Bruce rises heavily, and moves to the door.</context>
+      <utterance>You admire him. Uncompromising men are easy to admire. He has courage. So does a dog. But you must understand this: Edward Longshanks is the most ruthless king ever to sit on the throne of England, and none of us, and nothing of Scotland, will survive unless we are as ruthless, more ruthless, than he.</utterance>
+   <speaker>THE LEPER</speaker>
+      <mode></mode>
+      <context>With a last long look at his father, Robert leaves.</context>
+      <utterance>Press your case to the nobles. They will choose who rules Scotland.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="2">
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll wait... back there.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Hamish puts a hand on his friend's shoulder, then quietly leads the horses away. William starts to dig...</context>
+      <utterance>Hamish, I... thank...</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="23">
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're ya doin'?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thinking.</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does it hurt?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>At a loss, Wallace looks up at the sky. HE SEES: the trees stretching into the night like spikes to skewer the stars.</context>
+      <utterance>What do we do when Longshanks sends his whole northern army against us? They have heavy cavalry. Armored horses, that shake the very ground. They'll ride right over us.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We make spears. A hundred spears. Fourteen feet long.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fourteen? --</utterance>
+   <speaker>SENTRY</speaker>
+      <mode>O.S.</mode>
+      <context>They look to see a half dozen new volunteers being led in, blindfolded. When the guides remove the blindfolds, the new recruits see Wallace and rush to him, bowing.</context>
+      <utterance>Volunteers coming in!</utterance>
+   <speaker>RECRUIT</speaker>
+      <mode>FAUDRON</mode>
+      <context></context>
+      <utterance>William Wallace? We have come to fight and die for you!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stand up, man, I'm not the Pope.</utterance>
+   <speaker>FAUDRON</speaker>
+      <mode></mode>
+      <context>As he reaches into his cloak, both Hamish and Campbell instantly draw their swords and put the points to his neck.</context>
+      <utterance>I am Faudron! My sword is yours! And I brought you this tarta --</utterance>
+   <speaker>SENTRY</speaker>
+      <mode></mode>
+      <context>Carefully, Faudron pulls out a beautiful tartan scarf, and replaces Wallace's tattered old one.</context>
+      <utterance>We checked them for arms.</utterance>
+   <speaker>FAUDRON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's your family tartan! My wife wove it with her own hands.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>A loud voice interrupts...</context>
+      <utterance>Thank her for me.</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context>They all look at a slender, handsome young man, STEPHEN, who is talking to himself -- or more accurately, seems to listen to some unheard voice, then answer it...</context>
+      <utterance>Him? That can't be William Wallace! I'm prettier than this man!</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, Father, I'll ask him!  If I risk my neck for you, will I get a chance to kill Englishmen?</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is your Poppa a ghost -- or do you converse with God Almighty?</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In order to find his equal, and Irishman is forced to talk to God.  Yes, Father!...  The Almighty says don't change the subject, just answer the fookin' question.</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>Stephen whips a dagger from his sleeve and puts it at Campbell's throat.</context>
+      <utterance>Insane Irish --</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context>Wallace jerks his sword to the Irishman's throat, and grins.</context>
+      <utterance>Smart enough to get a dagger past your guards, old man.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Stephen grins, and happily tucks away the dagger.</context>
+      <utterance>That's my friend, Irishman. And the answer's yes. You fight for me, you kill the English.</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excellent! Stephen is my name. I'm the most wanted man on the Emerald Isle. Except I'm not on the Emerald Isle of course, more's the pity.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A common thief.</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context>Wallace shakes his head and moves back to the fire, as the sentries take the newcomers to find their own spaces.</context>
+      <utterance>A patriot!</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="4">
+   <speaker>SCOUT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Scotsmen, Sire! Headed west!</utterance>
+   <speaker>DOLECROFT</speaker>
+      <mode></mode>
+      <context>The English force charges off. Hamish and his men changed direction but the English spot them crossing a hilltop and ride after them. The Scots run for their lives; the English horses gallop. The Scots run down one slope, up another; the English follow, find their horses stumbling, and see...</context>
+      <utterance>They've blundered at last! After them!</utterance>
+   <speaker>SCOUT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're in a bog!</utterance>
+   <speaker>DOLECROFT</speaker>
+      <mode></mode>
+      <context>But as they move toward the firm ground, fifty Scots appear on the crest of the hill. Hamish leads them, smiling. Dolecroft wheels and looks to his rear; Wallace appears there, with fifty more, and more Scots appear to the left and right of the English, who are surrounded in the bog. Too late, Dolecroft realizes his blunder. Wallace lifts his broadsword, screams, and leads the charge...</context>
+      <utterance>Here, it's firm this way --</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="2">
+   <speaker>PICKERING</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Another ambush! My God! ...What about our infiltrator?</utterance>
+   <speaker>ASSISTANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He has already joined them, M'lord.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="9">
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Joy explodes on his face, and he runs to her, but stops before he touches her, as if she might evaporate.</context>
+      <utterance>Marion! Is... is it you?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm dreaming.</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, you are. And you must wake.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to wake. I want to stay with you.</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I with you. But you must wake.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need you so much! I love you!</utterance>
+   <speaker>MARION</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wake up, William. Wake up!</utterance>
+   <speaker>HAMISH'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wake up, William!...</utterance>
+   <speaker>MARION/HAMISH</speaker>
+      <mode></mode>
+      <context>William clutches at Marion, but his arms can't enclose her.</context>
+      <utterance>Wake up!...</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="14">
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context>Wallace jumps up, hearing the DISTANT BARKING that alarmed Hamish. Stephen, the new Irish recruit, races up.</context>
+      <utterance>William! Hounds!</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We must run in different directions!</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We don't split up!</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They used hounds on us in Ireland, it's the only way!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Shoving groups of men in different directions, Wallace then takes off. His group is about a dozen; they race through the woods, dodging trees, running aimlessly. They stop and listen. The BARKS are getting closer.</context>
+      <utterance>He's right, Hamish! Campbell! Divide them and run!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Again they divide, and race in different directions. But no matter how they run and dodge, the BARKS grow nearer. We INTERCUT with the approaching of the dogs -- a large PACK OF HOUNDS, with keepers like on a fox hunt, and behind the dogs, Lord Pickering, with his soldiers, prepared for a long chase, cloaked against the wet darkness, carrying torches. Wallace and others pause, hear the dogs, and run again, in a new direction. The hounds are relentless. Wallace's group is down to Hamish, Stephen, and Faudron.</context>
+      <utterance>Split again!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No matter how we go, they follow. They have our scent. My scent.</utterance>
+   <speaker>FAUDRON</speaker>
+      <mode></mode>
+      <context>Faster now, faster. The barks are getting very close. Wallace and his friends are starting to panic. The blood beats in their ears, their breath scalds their lungs. And we MOVE IN on Wallace's eyes. He stops, gasping.</context>
+      <utterance>Run! You must not be caught!</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can't stop!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They've tricked us.</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the crazy man saying, Lord?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The dogs have a scent. My scent. Someone must have given it to them.</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who would do such a thing?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Wallace pulls out his dagger...</context>
+      <utterance>Exactly.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="5">
+   <speaker>HANDLER</speaker>
+      <mode></mode>
+      <context>The soldiers grip their weapons, ready to take their prisoners. They burst into the little clearing; the dogs find a body, stabbed, his throat cut; the dogs plunge their snouts into the gore, yipping wildly. The handlers must fight furiously to tear the dogs from the body. Lord Pickering approaches the body and looks down. It is Faudron, mangled now but clearly identifiable -- with the scarf he gave William, in place of William's own, tucked into his shirt.</context>
+      <utterance>Be ready! We have them!</utterance>
+   <speaker>LORD PICKERING</speaker>
+      <mode></mode>
+      <context>As Pickering rants, his men look at the darkness all around.</context>
+      <utterance>Damnation! Damnation!</utterance>
+   <speaker>LORD PICKERING</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>After him! Get them going again!</utterance>
+   <speaker>HANDLER</speaker>
+      <mode></mode>
+      <context>And just as the realization hits Pickering that he can't pursue Wallace any further, a cloaked figure mixed in among his men leans in from behind him to whisper...</context>
+      <utterance>Their noses are drowned in new blood, they'll follow nothing now!</utterance>
+   <speaker>STEPHEN OF IRELAND</speaker>
+      <mode></mode>
+      <context>Pickering's eyes go wide, then roll back as Stephen's dagger slides expertly through his back ribs and into his heart. As Pickering falls and his men realize what has happened, Stephen has already run back into the trees. Pickering's men freeze at this sudden turn of events. Even the dogs whimper, picking up the rising fear of the men around them. Then from the darkness all around them comes a chorus of demonic, bloodcurdling yells --</context>
+      <utterance>The Almighty says for you to give His regards to the Devil.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="17">
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought I was dead when ya pulled that dagger!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No English lord would trust an Irishman!</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context>They laugh again; then Wallace's laughter leaks away, and he stares into the trees, where he saw Marion in his dream.</context>
+      <utterance>Let's kill him anyway.</utterance>
+   <speaker>VILLAGER</speaker>
+      <mode></mode>
+      <context>The same tale is exchanged by two farmers AT A CROSSROADS...</context>
+      <utterance>...and William Wallace killed fifty men! Fifty, if it was one!</utterance>
+   <speaker>FARMER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A hundred men! With his own sword! He cut a through the English like -- The tale is repeated IN A TAVERN...</utterance>
+   <speaker>DRINKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- Moses through the Red Sea! Hacked off two hundred heads!</utterance>
+   <speaker>DRINKER #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two hundred?!</utterance>
+   <speaker>DRINKER</speaker>
+      <mode></mode>
+      <context>And the rumors are discussed even INSIDE THE PALACE GROUNDS IN LONDON, where the Prince and his friends are trying on elaborate attire presented them by fawning tailors, and the Princess, ignored by her husband, strolls and chats with her Handmaiden, Nicolette (in subtitled French).</context>
+      <utterance>Saw it with my own eyes.</utterance>
+   <speaker>NICOLETTE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When the king returns he will bury them in those new clothes. Scotland is in chaos. Your husband is secretly sending an army north.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you know this?</utterance>
+   <speaker>NICOLETTE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Last night I slept with a member of the War Council.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He shouldn't be telling secrets in bed.</utterance>
+   <speaker>NICOLETTE</speaker>
+      <mode></mode>
+      <context>The Princess blushes, whacks her with her fan, and smiles.</context>
+      <utterance>Ah, Oui! Englishmen don't know what a tongue is for.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This Scottish rebel... Wallace? He fights to avenge a woman?</utterance>
+   <speaker>NICOLETTE</speaker>
+      <mode></mode>
+      <context>The Princess is pained at such cruelty; Nicolette warms to share the juicy gossip...</context>
+      <utterance>A magistrate wished to capture him, and found he had a secret lover, so he cut the girl's throat to tempt Wallace to fight -- and fight he did.</utterance>
+   <speaker>NICOLETTE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Knowing his passion for his lost love, they next plotted to take him by desecrating the graves of his father and brother and setting an ambush at the grave of his wife. He fought his way through the trap and carried her body to a secret place! Now that is romance, Oui?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...I wouldn't know.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="3">
+   <speaker>RUNNER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The English are advancing an army toward Stirling!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do the nobles rally?</utterance>
+   <speaker>RUNNER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Robert the Bruce and most of the others will not commit to war! But word has spread and Highlanders are coming down on their own, by the hundreds -- by the thousands!</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="3">
+   <speaker>LOCHLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It sounds like twenty thousand!</utterance>
+   <speaker>MORNAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The scouts say it is ten.</utterance>
+   <speaker>LOCHLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And we have but two!</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="27">
+   <speaker>YOUNG SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So many!</utterance>
+   <speaker>SCOTTISH VETERAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The nobles will negotiate. If they deal, they send us home. If not, we charge. When we are all dead and they can call themselves brave, they withdraw.</utterance>
+   <speaker>YOUNG SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't come to fight so they could own more lands that I could work for them!</utterance>
+   <speaker>VETERAN</speaker>
+      <mode></mode>
+      <context>He lowers his pike and starts to desert. At first one-by-one and then in clumps, more highlanders follow. THE NOBLES see the desertion.</context>
+      <utterance>Nor did I. Not against these odds!</utterance>
+   <speaker>LOCHLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop! Men! Do not flee! Not now! Wait until we have negotiated!</utterance>
+   <speaker>MORNAY</speaker>
+      <mode></mode>
+      <context>Then, riding into the mob of men, comes Wallace, followed by his friends. He's striking, charismatic, his powerful arms bare, his chest covered not in armor but a commoner's leather shirt, and unlike the heavy knights on their armored horses, Wallace rides a swift horse, like he was born on it. The entire Scottish army watches in fascination as Wallace and his men ride through them, toward the command hill. The soldiers whisper among themselves...</context>
+      <utterance>They won't stop -- and who could blame them?</utterance>
+   <speaker>YOUNG SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>William Wallace?</utterance>
+   <speaker>VETERAN</speaker>
+      <mode></mode>
+      <context>The common soldiers, already having broken ranks, cluster up the hill to see the confrontation. As Wallace and his captains reach the nobles, Stephen laughs.</context>
+      <utterance>Couldn't be.</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Almighty says this must be a fashionable fight, it's drawn the finest people.</utterance>
+   <speaker>LOCHLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is thy salute?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For presenting yourselves on this battlefield, I give you thanks.</utterance>
+   <speaker>LOCHLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is our army. To join it, you give homage.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Wallace reins his horse around to face the mob of sullen men, now frightened, ready to desert. We play this picture, Wallace sitting his horse, looking down in awe at this thing that has grown beyond anyone's imagination. He glances at his friends: Campbell, Hamish, Stephen. They've got no suggestions, they're just as awed as he is.</context>
+      <utterance>I give homage to Scotland. And if this is your army, why does it go?</utterance>
+   <speaker>SCOTTISH VETERAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We didn't come to fight for them!</utterance>
+   <speaker>SHOUTS FROM MOB</speaker>
+      <mode></mode>
+      <context>Wallace raises his hand, and the army falls silent.</context>
+      <utterance>Home! The English are too many!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sons of Scotland!... I am William Wallace!</utterance>
+   <speaker>SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>William Wallace is seven feet tall!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Many laugh -- all get the point.</context>
+      <utterance>Yes, I have heard! He kills men by the hundreds! And if he were here, he would consume the English with fireballs from his eyes, and bolts of lightning from his ass!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am William Wallace. And my enemies do not go away. I saw our good nobles hanged. My wife... I am William Wallace. And I see a whole army of my countrymen, here in defiance of tyranny. You have come to fight as free men. And free men you are! What will you do with freedom? Will you fight?</utterance>
+   <speaker>VETERAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two thousand, against ten? We will run -- and live!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Down on the plain, English emissaries in all their regal finery gallop over the bridge, under a banner of truce.</context>
+      <utterance>Yes. Fight and you may die. Run and you will live, at least awhile. And dying in your bed many years from now, would you be willing to trade all the days from this day to that, for one chance to come back here as young men, and tell our enemies that they make take our lives, but they will never take our freedom?</utterance>
+   <speaker>VETERAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look! The English comes to barter with our nobles for castles and titles. And our nobles will not be in the front of the battle!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>He dismounts, and draws his sword.</context>
+      <utterance>No! They will not!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Slowly, the chant begins, and builds...</context>
+      <utterance>And I will.</utterance>
+   <speaker>SCOTS</speaker>
+      <mode></mode>
+      <context>BAGPIPERS play, pulling the mob back into companies. But through the lifting mists they see the overwhelming enemy army. Hamish, Campbell and Stephen move up beside William.</context>
+      <utterance>Wal-lace! Wal-lace! WAL-LACE!</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine speech. Now what do we do?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Campbell, Hamish and Stephen ride off. Mornay reins his horse over, lifts the reins of Wallace's horse, and extends them to him: an invitation to join the pre-battle talks. Wallace mounts up and rides out with the Scottish nobles to meet the English contingent.</context>
+      <utterance>Bring out our spearmen and set them in the field.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="12">
+   <speaker>CHELTHAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mornay. Lochlan. Inverness.</utterance>
+   <speaker>MORNAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cheltham. This is William Wallace</utterance>
+   <speaker>CHELTHAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here are the King's terms. Lead this army off the field, and he will give you each estates in Yorkshire, including hereditary title, from which you will pay him an annual --</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have an offer for you.</utterance>
+   <speaker>CHELTHAM</speaker>
+      <mode></mode>
+      <context>Wallace pulls his broadsword and snaps it at Cheltham, whose eyes flash in disbelief at the bad manners.</context>
+      <utterance>...From which you will pay the King an annual duty...</utterance>
+   <speaker>LOCHLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You disrespect a banner of truce?!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Cheltham barks at the Scottish nobles...</context>
+      <utterance>From his king? Absolutely. Here are Scotland's terms. Lower your flags and march straight to England, stopping at every Scottish home you pass to beg forgiveness for a hundred years of theft, rape, and murder. Do that, and your men shall live. Do it not, and every one of you will die today.</utterance>
+   <speaker>CHELTHAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are outmatched! You haven't even any cavalry! In two centuries no army has won without it!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>The outraged Englishman gallops back to his lines.</context>
+      <utterance>I'm not finished. Before we let you leave, your commander must cross that bridge, stand before this army, put his head between his legs, and kiss his own ass.</utterance>
+   <speaker>MORNAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd say that was rather less cordial that he was used to.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>They return to the Scottish lines. Wallace dismounts where his men are breaking out new 14-foot spears. Hamish, eyebrows raised, looks expectantly at Wallace; Wallace nods.</context>
+      <utterance>Be ready, and do exactly as I say.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wish I could see the noble lord's face when he tells him.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="5">
+   <speaker>WITH WALLACE AND THE SCOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Things look terrible. Stephen turns to William.</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Lord tell me He can get me out of this mess. But He's pretty sure you're fooked.</utterance>
+   <speaker>TALMADGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amateurs! They do not even contest us! Send across the infantry.</utterance>
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>M'lord, the bridge is so narrow --</utterance>
+   <speaker>TALMADGE</speaker>
+      <mode></mode>
+      <context>Our cavalry will ride them down like grass. Get the infantry across so they can finish the slaughter! The English leaders shout orders and keep their men moving across the bridge. Talmadge gestures for the attack flag.</context>
+      <utterance>The Scots just stand in their formations!</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="3">
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>TALMADGE is even more enraged -- and his judgment is gone.</context>
+      <utterance>Here I am, English coward! Come get me!!</utterance>
+   <speaker>TALMADGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Press the men across!</utterance>
+   <speaker>CHELTHAM</speaker>
+      <mode></mode>
+      <context>Talmadge himself gallops forward.</context>
+      <utterance>But M'lord!</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="6">
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>The English infantry keeps moving across the little bridge. The Scottish nobles watch from their positions on horseback. They have a few dozen mounted riders, none heavily armored.</context>
+      <utterance>Tell Mornay to ride to the flank and cross upstream. Wait! Tell him to be sure the English see him ride away! Hamish hurries off with the message.</utterance>
+   <speaker>LOCHLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If he waits much longer -- Hamish hurries up.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ride around and ford behind them!</utterance>
+   <speaker>MORNAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We should not divide our forces!</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wallace says do it! And he says for you to let the English see you!</utterance>
+   <speaker>MORNAY</speaker>
+      <mode></mode>
+      <context>Mornay leads his riders away.</context>
+      <utterance>They shall think we run away.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="3">
+   <speaker>TALMADGE</speaker>
+      <mode></mode>
+      <context>He drives half his army across the river.</context>
+      <utterance>See! Every Scot with a horse is fleeing! Hurry! Hurry!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>lifts his sword.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>He charges down the hill...</context>
+      <utterance>For Scotland!</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="5">
+   <speaker>TALMADGE</speaker>
+      <mode></mode>
+      <context>The English leaders try to herd more of their footsoldiers onto the bridge, which only hams them up. Meanwhile, on the other side of the bridge, Wallace and his charging men slam into the English infantry with wild fury. The English fall back on each other, further blocking the bridge.</context>
+      <utterance>Press reinforcements across!</utterance>
+   <speaker>UP ON THE HILLTOP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The nobles look back with grudging admiration.</utterance>
+   <speaker>MORNAY</speaker>
+      <mode></mode>
+      <context>With rising desire to join the bandwagon, the nobles spur... DOWN ON THE PLAIN, Wallace and the attacking men drive the English back, killing as they go. The Scots reach the bridge itself. The waters below it run red with blood. Talmadge has begun to panic.</context>
+      <utterance>He's taking the bloody bridge! The English can't get across! He's evened the odds at one stroke!</utterance>
+   <speaker>TALMADGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Use the archers!</utterance>
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're too close, we'll shoot out own men!</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="2">
+   <speaker>ELDER</speaker>
+      <mode></mode>
+      <context>William rises and faces the Great Hall, crowded with hundreds of new admirers, as well as his old friends in their new clothes and armor. The crowd chants --</context>
+      <utterance>I knight thee Sir William Wallace.</utterance>
+   <speaker>CROWD</speaker>
+      <mode></mode>
+      <context>Wallace lifts his eyes, taking it all in. At the rear of the hall is a balcony, backed by a magnificent sunlit stained glass window, and in the center of its rainbow corona he sees a familiar form: Marion, so real to him in this moment of triumph that he can see her, glowing like an angel, in a gown worthy of the occasion. But the illusion won't last; in the blink of an eye she is gone, and Wallace hears the chant, and fingers the cloth she gave him.</context>
+      <utterance>Wal-lace, Wal-lace!!</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="19">
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does anyone know his politics?</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context>A court STEWARDS steps in and formally announces...</context>
+      <utterance>No. But his weight with the commoners could unbalance everything. The Balliols will kiss his ass, so we must.</utterance>
+   <speaker>STEWARD</speaker>
+      <mode></mode>
+      <context>The nobles on each side of the table try to outdo each other in their acclamation as Wallace strides in, flanked by Hamish, Campbell, and Stephen, splendid in their tartans. Old Craig rises.</context>
+      <utterance>Lords of Scotland: Sir William Wallace!</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context>The nobles rise; court attendants hurry to Wallace and drape a golden chain of office around his neck. Wallace takes the three smaller chains they bring and drapes them around the necks of his friends, as once again the nobles applaud. Almost before the applause dies, a member of the BALLIOL clan, who has kept an open seat beside him, speaks up...</context>
+      <utterance>Sir William. In the name of God, we declare and appoint thee High Protector of Scotland! And thy captains as aides decamp!</utterance>
+   <speaker>BALLIOL</speaker>
+      <mode></mode>
+      <context>But Wallace's gaze has locked onto Robert the Bruce, who stares back, the two young lions instantly recognizing the leadership power of each other.</context>
+      <utterance>Sir William!! Inasmuch as you and your captains hail from a region long known to support the Balliol clan, may we invite you to join us?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are Robert the Bruce.</utterance>
+   <speaker>ROBERT THE BRUCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>The Balliols shrivel. The nobles on the Bruce side can barely keep from grinning. Suddenly the men on the other end of the table change their attack.</context>
+      <utterance>My father fought in support of yours.</utterance>
+   <speaker>BALLIOL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With this new success, the result of all of Scotland's efforts, now is the time to declare a king!</utterance>
+   <speaker>MORNAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then you are prepared to recognize our legitimate succession!</utterance>
+   <speaker>BALLIOL</speaker>
+      <mode></mode>
+      <context>Wallace glances again at the Bruce, who suddenly feels ashamed of the bickering.</context>
+      <utterance>You're the ones who won't support the true claim! I demand consideration of these documents!</utterance>
+   <speaker>MORNAY</speaker>
+      <mode></mode>
+      <context>Suddenly Wallace turns his back and walks toward the door.</context>
+      <utterance>Those were lies when they were written! Our documents prove absolutely that --</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir William! Where are you going?</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>He turns again and strides toward the door.</context>
+      <utterance>We have beaten the English! But they'll come back, because you won't stand together. There is one clan in this country -- Scotsmen. One class -- free. One price -- courage.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But... what will you do?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will invade England. And defeat the English on their own ground.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context>Wallace slings out his broadsword and moves down the length of the table, bashing the succession documents into the laps of the nobles.</context>
+      <utterance>Invade?! That's impossible, it --</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>He brandishes the broadsword.</context>
+      <utterance>LISTEN TO ME! Longshanks understands this! This!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Wallace bangs through the door. Suppressing smiles, his friends file out behind him.</context>
+      <utterance>There is a difference between us. You think the people of this country exist to provide you with position. I think your position exists to provide the people with freedom. And I go to make sure they have it.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="6">
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait! ...I respect what you said. But remember, these men have lands, castles. Much to risk.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And the common man who bleeds on the battlefield, does he risk less?</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. But from top to bottom this country has no sense of itself. Its nobles share allegiance with England and its clans war with each other. If you make enemies on both sides of the border, you'll end up dead.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Wallace walks; Robert catches up and speaks to him in an urgent half whisper, so that no one else can hear.</context>
+      <utterance>We all end up dead. It's only a question of how. And why.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm no coward! I want what you want! But we need the nobles.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobles? What does that mean -- to be noble? Your title gives you claim to the throne of our country. But men don't follow titles, they follow courage! Your arm speaks louder than your tongue. Our people know you. Noble and common, they respect you. If you would lead them toward freedom, they would follow you. And so would</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="6">
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Message from your cousin, the Prince. He says London has no more troops to send.</utterance>
+   <speaker>GOVERNOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every town in Northern England is begging for help! Where will Wallace strike first?</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context>They hear shouts as a rider arrives and dismounts. They look out to see a panicked RIDER, who shouts up...</context>
+      <utterance>I should think these smaller settlements along the border...</utterance>
+   <speaker>RIDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He advances!</utterance>
+   <speaker>GOVERNOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To what town?</utterance>
+   <speaker>RIDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He comes here!</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="2">
+   <speaker>GOVERNOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We will not allow a bandit to panic the greatest city in Northern England! Close off the escapes! Let no one leave!</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context>The Governor turns to his captain with a look worthy of his uncle, Longshanks the King.</context>
+      <utterance>The city has emptied already, Sire. Only the Scottish civilians remain.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="4">
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Back! Wait for it to burn!</utterance>
+   <speaker>INSIDE THE CITY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Captain hurries into the tower room.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They've breached the wall!</utterance>
+   <speaker>GOVERNOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then do as I ordered.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="15">
+   <speaker>PHILLIP</speaker>
+      <mode></mode>
+      <context>Edward shows Phillip the dagger he has concealed in his belt behind his back.</context>
+      <utterance>It is not your fault! Stand up to him.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>Longshanks bangs the door open and stalks in angrily. First he glares at Phillip with obvious loathing, then turns his piercing stare to his own son.</context>
+      <utterance>I will stand up to him, and more.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What news of the north?</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing new, Majesty. We have sent riders to speed any word.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>While I am in France fighting to expand your future kingdom I learn that Stirling castle is lost, our entire northern army wiped out! And you have done nothing?!</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>A messenger enters and hands the prince a message. Edward reads it and nearly loses his balance.</context>
+      <utterance>I have ordered conscriptions...</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wallace has sacked York!</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context>How dare you bring a panicky lie. The messenger has also brought a basket. He approaches the central table with great dread and places the basket on it, uncovering its contents. Prince Edward is closest; he looks in, then staggers back, stunned. Longshanks moves to the sack coldly, looks in, and withdraws the severed head of his nephew, York's (former) Governor.</context>
+      <utterance>Impossible.</utterance>
+   <speaker>PHILLIP</speaker>
+      <mode></mode>
+      <context>The king drops the head back into the sack, unmoved.</context>
+      <utterance>Sire! Thy own nephew! What beast could do such a thing?!</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If he can sack York, he can invade lower England.</utterance>
+   <speaker>PHILLIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We would stop him!</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Edward, who is this shitpoker who speaks to me as if I needed his advice?</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>Longshanks nods as if impressed. He moves to Phillip and examines the gold chain of office that the young man wears. Then Longshanks grabs him and throws him out the window, the same one Edward and Phillip were looking out, six stories above the courtyard. We hear Phillip's SCREAM as he falls. Edward rushes toward the window in horror. He looks out at the result, turns back toward his father in shock and hatred, and only then remembers the dagger and goes for it. He stabs at Longshanks; the old king smiles at the attack, parrying, letting his arms be cut.</context>
+      <utterance>I have declared Phillip my High Counselor.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context>Then Longshanks unleashes his own hateful fury; he grapples with Edward, knocking the dagger away and hurling him to the floor; then Longshanks kicks his son, again and again. He exhausts his fury on him. Edward is a bloody mess; Longshanks coughs up a bit of blood. He ignores it and his son's wreckage, and goes back to the discussion, as if this fight was normal business.</context>
+      <utterance>You fight back at last!</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context>Longshanks calculates.</context>
+      <utterance>We must sue for a truce, and buy him off. But who will go to him? Not I. If I came under the sword of this murderer, I would end up like my nephew. And not you, the sight of my faggot son would only encourage an enemy to take over this country. So whom do I send?</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="22">
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Servants pull back the sides of the tent door, and a tall, slender, shapely female figure appears there. There in the shadows, she looks just like Marion! William is not the only one who notices the resemblance; he glances at Hamish and Campbell and sees them haunted by it too. Is this another dream? He pales, as she steps into the morning sun. She moves toward him, her face lowered. It is Marion! She reaches him, lifts her face... and he sees the Princess! William is relieved -- and yet as he sees the Princess more closely he is still shaken by the resemblance in the way she carries herself, her shape, the fall of her hair. The Princess is struck with Wallace, too -- tall, powerful, and commanding. Wallace dismounts, and moves to face her. Their eyes hang on each other. She sees something that she has not seen in the face of a man in her whole life. She surprises him by bending at the knee, in a half-submissive yet proud curtsey.</context>
+      <utterance>Longshanks! I have come.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am the Princess of Wales.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>She nods; somehow she is already ashamed.</context>
+      <utterance>Wife of Edward, the king's son?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I come as the king's servant, and with his authority.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's battle I want, not talk.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>She leads him under the pavilion, a purple canopy shading rich carpets laid on the bare ground. Watching the gorgeous walk, Stephen lies back on his saddle and twitches his leg like a horny dog. Hamish backhands him; Campbell, Hamish and Stephen quickly dismount and follow the procession, shouldering their way in beside the Princess's French guards, so they can watch Wallace's back. The rest of the Scots surround the tent, ready for ambush. Nicolette is among the royal attendants there; seeing Wallace, she shoots a glance at the Princess that says Ooo-La-La! The servants have brought a throne for the Princess, a lower chair for Wallace. She sits; he refuses the chair. She studies him, taking in his anger and his pride.</context>
+      <utterance>But now that I am here, will you speak with a woman?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I understand that you have recently been given the rank of knight.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have been given nothing. God makes men what they are.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did God make you the sacker of peaceful cities? The executioner of the king's nephew, my husband's own cousin?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>York was the staging point for every invasion of my country. And that royal cousin hanged a hundred Scots, even women and children, from the city walls.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>But knowing Longshanks' family, she glances at a richly dressed Advisor, a CRONY of the king, who averts his eyes.</context>
+      <utterance>That is not possible.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>The Crony mumbles to her in LATIN, WITH SUBTITLES...</context>
+      <utterance>Longshanks did far worse, the last time he took a Scottish city.</utterance>
+   <speaker>CRONY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He is a murdering bandit, he lies.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>They are startled at Wallace's fluency in Latin.</context>
+      <utterance>I am no bandit. And I do not lie.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>She stares for a long moment at Wallace's eyes.</context>
+      <utterance>Or in French if you prefer that: Certainmous et ver! Ask your king to his face, and see if his eyes can convince you of the truth.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hamilton, leave us.</utterance>
+   <speaker>CRONY</speaker>
+      <mode>HAMILTON</mode>
+      <context></context>
+      <utterance>M'lady --</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>He reluctantly obeys. Seeing that she wants the exchange to be private, Wallace turns and nods for his men to leave. Stephen, who has been admiring the lady's beauty non-stop, leans in and whispers to William...</context>
+      <utterance>Leave us now.</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context>Stephen moves off with Hamish and Campbell. Wallace and the princess are left alone.</context>
+      <utterance>Her husband's more of a queen than she is. Did you know that?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let us talk plainly. You invade England. But you cannot complete the conquest, so far from your shelter and supply. The King proposes that you withdraw your attack. In return he grants you title, estates, and this chest with a thousand pounds of gold, which I am to pay to you personally.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A Lordship. And gold. That I should become Judas.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Peace is made is such ways.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="4">
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I understand you have suffered. I know... about your woman.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>The Princess is stunned; Wallace is dead still.</context>
+      <utterance>She was my wife. We married in secret because I would not share her with an English lord. They killed her to get to me. And she was pregnant.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>The Princess rises slowly from her chair, moves in front of him, and lowers herself to her knees. The Crony and her other attendants, seeing this from a distance, are shocked.</context>
+      <utterance>I've never told anyone. I don't know why I tell you -- except because you look... much like her. And someday you will be a queen, and you must open your eyes!  Tell your king that William Wallace will not be ruled. Nor will any Scot, while I live.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>She lifts her face. Their eyes hold a moment too long.</context>
+      <utterance>Sir. I leave this money, as a gift. Not from the king, but from myself. And not to you, but to the orphans of your country.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="15">
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My son's loyal wife returns, unkilled by the heathen. So he accepted our bribe.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. He did not.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then why does he stay? My scouts say he has not advanced.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He waits. For you. He says he will attack no more towns -- if you are man enough to come fight him.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You spoke with this Wallace in private. What kind of man is he?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...A mindless barbarian. Not a king like you, M'lord.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Scottish nobles have sent him no support. His army starves. Our stall has worked, he must withdraw. You may return to your embroidery.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>She barely curtseys, and starts out.</context>
+      <utterance>Humbly, M'lord.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>He already knows she didn't; Hamilton is standing near him.</context>
+      <utterance>You brought back the money, of course?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I have it to ease the suffering of the children of this war.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is what happens when you must send a woman. And a fool.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forgive me, Sire. I thought that generosity might demonstrate your greatness to those you mean to rule.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context>From a box at his feet the king withdraws a crossbow and throws it onto the table. Most of those there are shocked.</context>
+      <utterance>My greatness is better demonstrated with this.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The weapon has been outlawed by the Pope himself!</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context>Longshanks smiles. No one notices that the Princess is deadly pale.</context>
+      <utterance>So the Scots will have none of them, will they? My armorers have already made a thousand.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="18">
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That is why the Pope outlawed the weapon! It makes war too terrible.</utterance>
+   <speaker>MORNAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many does Longshanks have?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A thousand.  You have made me Guardian of Scotland. So I tell you this is what we face.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We must sue for peace.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Peace?!</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We cannot defeat this --</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With cavalry -- not heavy, like the English, but light, fast horsemen, like you nobles employ -- we could outmaneuver their bowmen!</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is suicide.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context>The Bruce sees Wallace about to explode, and tries to intervene -- but Wallace's anger is too great.</context>
+      <utterance>Sir William --</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>The nobles grip their weapons; Wallace, Hamish and Stephen are ready to finish this quarrel right here. Robert the Bruce, backed by Mornay, steps between the two sides.</context>
+      <utterance>We won at Stirling and still you quibbled! We won at York and you would not support us! Then I said nothing! Now I say you are cowards!</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context>The nobles stalk away, and Robert draws Wallace away, to the target Wallace shot, so they are alone.</context>
+      <utterance>Please, Sir William! Speak with me alone! I beg you!</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context>The question strikes deep.</context>
+      <utterance>You have achieved more than anyone dreamed. But fighting these odds looks like rage, not courage. Peace offers its rewards! Has war become a habit you cannot break?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>War finds me willing. I know it won't bring back all I have lost. But it can bring what none of us have ever had -- a country of our own. For that we need a king. We need you.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am trying.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then tell me what a king is! Is he a man who believes only what others believe? Is he one who calculates the numbers for and against him but never weighs the strength in your own heart? There is strength in you. I see it. I know it.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I must... consult with my father.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Robert the Bruce walks off the field, heading the way the other nobles went. Wallace rejoins Hamish and Stephen. They look to him; what do we do now?</context>
+      <utterance>And I will consult with mine.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Remember when the English turned their hounds on us? Maybe we should introduce them to our dogs.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="3">
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This... cannot be the way.</utterance>
+   <speaker>THE LEPER</speaker>
+      <mode></mode>
+      <context>Heartsick, the father reaches across the table, then stays his arm, unwilling to touch his son with his leprous hand.</context>
+      <utterance>You have said yourself that the nobles will not support Wallace, so how does it help us to join the side that is slaughtered?</utterance>
+   <speaker>THE LEPER</speaker>
+      <mode></mode>
+      <context>Young Robert holds his father with his eyes, and does not look away.</context>
+      <utterance>My son. Look at me. I cannot be king. You, and you alone, can rule Scotland. What I tell you, you must do -- for yourself, and for your country.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="4">
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Bruce is not coming, William.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>He'd better, the odds look long. And it's nasty ground; one side of the field is ankle deep in water, and the English are covering it with a layer of burning oil, releasing thick smoke to hide their movements.</context>
+      <utterance>Mornay has come. So will the Bruce.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stephen ready?</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context>The Priest from their home village is moving through the Scottish ranks, dispensing absolution. He reaches the two friends, who accept the Host, say their own last prayers, and give each other a look of goodbye. Hamish rides off to join the schiltrons.</context>
+      <utterance>Aye.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="7">
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So that's where Longshanks got his soldiers. Irishmen, willing to kill Scottish cousins for the English.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Their families are starving, they'll feed them however they can. If you don't want to fight them --</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context>Loyal to the end. Wallace signals to Hamish and Campbell, among the schiltrons. The formations, bristling with spears, move forward. Hamish looks back at Wallace; both men know the spearmen are the bait here. Wallace and Stephen see the English heavy cavalry advancing.</context>
+      <utterance>No. I'll stand with you.</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context>Wallace is scanning the battlefield. He sees the English cavalry charge, but before they reach the bristling spears, they pull up, and crossbowmen, moving up behind the knights.</context>
+      <utterance>They can't be that stupid to attack the schiltrons again.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>The crossbowmen fire a volley, too hurriedly. We see the hailstorm of bolts slash through the air in unison -- you can actually see them coming. The bows fall short of the front ranks of the schiltrons.</context>
+      <utterance>It's only a faint to shield the crossbows!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Stephen signals, and up the slope behind them come handlers with ten war dogs. Huge mastiffs, they wear steel collars, with razor sharp protrusions. Their handlers hold them at the end of long catch poles. The crossbowmen are distracted from their reloading by the appearance of the mastiffs; now, as the Scottish handlers run toward the English ranks and unleash the dogs, fear races through the English line. The dogs tear into them. It is chaos; the bowmen can't flee, and as the dogs mix among them, the bowmen fire frantically, mostly hitting each other. The dogs' collars slash legs; their jaws crush bones; even when their back legs are hacked off, the frenzied dogs keep killing. Wallace signals to Mornay with the Scottish cavalry. Mornay does nothing. The crossbowmen, though taking great punishment, are beginning to overwhelm the dogs by sheer numbers, and are regrouping.</context>
+      <utterance>Now! Give 'em the dogs!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Mornay tugs his reins and leads his cavalry away.</context>
+      <utterance>Now! Charge! Charge them!</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="4">
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mornay?</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For double his lands in Scotland, and matching estates in England.</utterance>
+   <speaker>WALLACE, WITH STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They see the Scottish army abandoned.</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context>Wallace glances to the other hilltop; still no sign of Bruce. He looks on in agony as the crossbowmen unleash another volley. The Scottish spearmen, bunched in a tight group, are helpless. The bolts fall, cutting through their helmets and breastplates like paper. Wallace has no cavalry -- and his men are being slaughtered! He spurs his horse, and Stephen and the infantrymen race behind him. The English heavy cavalry surge to meet them, but Wallace weaves through them, dodging with his horse, slashing with the broadsword, cutting down on knight, another, another... The Scottish infantry claws in, dragging down the horses, hacking the knights as they run by. The English bowmen are about to fire again, but they see the Scottish charge bearing down on them and adjust their aim; the bolts cut into the infantrymen; one bolt tears off the armor of Wallace's left shoulder. He wobbles on his horse, regains his balance, and keeps up the charge.</context>
+      <utterance>Betrayed!</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="2">
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My God, and still they come!</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context>The General signals and the English reinforcements surge into the battle.</context>
+      <utterance>Use the reinforcements! But take Wallace alive!</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="4">
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>And Wallace sees that Hamish is holding his father, fallen in battle. Wallace has no time to react; he cuts down and English swordsman moving in to hack Hamish's back. Wallace lifts Campbell across the saddle, and shouts at Hamish...</context>
+      <utterance>Hamish! Ham --</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Hamish obeys, jumping onto the horse and galloping back toward the rear. Wallace fights with new vengeance, swinging the double-edged broadsword with deadly accuracy. Rallied by Wallace's presence, the Scots surge back. Then Wallace sees the English reinforcement cavalry coming.</context>
+      <utterance>Get him away!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>The Scots pull up spears and hastily form another schiltron. The spears bristle out, ready... the English horsemen thunder in. But before the spears impale the horses, another flight of crossbow bolts cuts down half the Scots still fighting. Hamish reaches the rear of the battle and lowers the limp body of his father to the Scottish monks who are attending to the wounded and giving absolution to the dying... Still Wallace fights back, meeting the English charge. The Scots hold their own. An English knight tries to ride over William; he knocks the lance aside, and tough the horse slams into him, William also unseats the rider. The rider rolls to his feet. William struggles up to meet him -- and comes face to face with Robert the Bruce. The shock and recognition stun Wallace; in that moment, looking at Robert the Bruce's guilt-ridden face, he understands everything: the betrayal, the hopelessness of Scotland. As he stands there frozen, a bolt punches into the muscle of his neck, and Wallace doesn't react to it. Bruce is horrified at the sight of Wallace this way. He batters at Wallace's sword, as if its use would give him absolution.</context>
+      <utterance>A charge! Form up! Form up!</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context>But Wallace can only stagger back. Bruce's voice grows ragged as he screams.</context>
+      <utterance>Fight me! Fight me!</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="7">
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>But as they tilt old Campbell onto the ground, he grabs at something that starts to fall from the wound in his stomach.</context>
+      <utterance>Son... I want to die on the ground.</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whew. That'll clear your sinuses. Goodbye, boys.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. You're going to live.</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>Hamish is too grief-stricken to speak.</context>
+      <utterance>I don't think I can do without one of those... whatever it is...</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Old Campbell rallies one more time for this.</context>
+      <utterance>You... were like my father...</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>The last three words to Hamish, telling him he's a hero too.</context>
+      <utterance>...And glad to die, like him... So you could be the men you are. All of ya.</utterance>
+   <speaker>CAMPBELL</speaker>
+      <mode></mode>
+      <context>Hamish is weeping. When he looks up again, his father has died. We PULL BACK from them in tableaux, with the army, the people of Scotland, the whole gray world in defeat.</context>
+      <utterance>I'm a happy man.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="5">
+   <speaker>ADVISOR</speaker>
+      <mode></mode>
+      <context>Longshanks savors the victory -- and gloats to his son.</context>
+      <utterance>Their nobles have sworn allegiance, M'lord. Every last one.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now we kill two birds at one stroke. We recruit from Scotland for our armies in France.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Scots will fight for us?</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What choice do they have? Now they must serve us or starve.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But if we have not caught Wallace --</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="7">
+   <speaker>LEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am the one who is rotting. But I think your face looks graver than mine.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was so brave. With courage alone he nearly won.</utterance>
+   <speaker>LEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So more men were slaughtered uselessly!</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He broke because of me. I saw it. He lost all will to fight.</utterance>
+   <speaker>LEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We must have alliance with England to prevail here. You achieved that! You saved your family, increased your lands! In time you will have all the power in Scotland!... Yet you grieve.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In my heart I had begun to hope that he would never break.</utterance>
+   <speaker>LEPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All men lose heart. All betray. It is exactly why we must make the choices we make.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="2">
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context>Craig hands him the bloody nightshirt Mornay was wearing.</context>
+      <utterance>Is it true about Mornay?</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context>He can't hide his admiration. From below, he still hears the people CHANTING...</context>
+      <utterance>And he rode through the window? My God.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="13">
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His legend grows! It will be worse than before!</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>Longshanks glowers at his son; the Princess arrives.</context>
+      <utterance>You let Wallace escape your whole army. You cannot blame me for this.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good day to you, M'Lords.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mock us with a smile?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am cheerful with a plan to soothe your miseries. All of England shudders with the news of renewed rebellion.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wallace's followers.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>Edward snickers in derision -- but his wife is steel.</context>
+      <utterance>Wallace himself. If you wish to pretend a ghost rallies new volunteers in every Scottish town, I leave you to your hauntings. If you wish to take him, I know a way.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have faced him. Have you?</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let her speak.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He will fight you forever. But what does he fight for? Freedom first, and peace. So grant them.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The little cow is insane --</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Grant, as you do everything else, with treachery. Offer him a truce to discuss terms, and send me to my castle at Locharmbie as your emissary. He trusts me. Pick thirty of your finest assassins for me to take along. And I will set the meeting, and the ambush.</utterance>
+   <speaker>LONGSHANKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see, my delicate son? I have picked you a Queen.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="3">
+   <speaker>CHIEF ASSASSIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We came in small groups, so the rebels would not suspect.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you have reached Wallace's men?</utterance>
+   <speaker>CHIEF ASSASSIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We tell the villagers, and the traitors pass it on. All that's left is for you to say where.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="3">
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks for the food and drink. And for bringing 'em yourselves.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context>Stephen pulls a jug of whiskey from his pocket. He swigs, hands it to Hamish for a chug, then to Wallace, who declines, but smiles for the first time in many weeks.</context>
+      <utterance>We're here to stay. We don't care to live, if we can't fight beside ya.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context>Wallace frowns; a barn?</context>
+      <utterance>There is... one thing, William. Longshanks is offering a truce. He has dispatched his daughter-in-law as his emissary, and she has sent word that she wishes to meet you -- in a barn.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="2">
+   <speaker>INSIDE THE BARN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>are the assassins, killing knives ready.</utterance>
+   <speaker>CHIEF ASSASSIN</speaker>
+      <mode></mode>
+      <context>They position themselves at every entrance.</context>
+      <utterance>It's William Wallace, sure! And... he's given up his sword! Be ready!</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="15">
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A meeting in a barn. It had to be a trap. And only you would know I would be aware of it.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It does me good to see you.</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context>She wants to say something -- but instead she says something else.</context>
+      <utterance>I am much diminished since we met.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There will be a new shipment of supplies coming north next month. Food and weapons. They will trav --</utterance>
+   <speaker>WILLIAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Stop. I didn't come here for that.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then why did you come?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why did you?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>He turns his face away. Gently, she pulls it back.</context>
+      <utterance>Because of the way you're looking at me now. The same way... as when we met.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>He twists back toward the window.</context>
+      <utterance>I know. You looked at me... and saw her.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>Surprised, he looks at her now.</context>
+      <utterance>You must forgive me what I feel. No man has ever looked at me as you did.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have... you have a husband.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>Slowly, it starts to dawn on him what she's asking, and an unexpected smile plays at his lips. Her smile lights too.</context>
+      <utterance>I have taken vows. More than one. I've vowed faithfulness to my husband, and sworn to give him a son. And I cannot keep both promises.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You understand. Consider, before you laugh and say no. You will never own a throne, though you deserve one. But just as the sun will rise tomorrow, some man will rule England. And what if his veins ran not with the blood of Longshanks, but with that of a true king?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I cannot love you for the sake of revenge.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>Slowly, he reaches to the candle flame, and pinches it out.</context>
+      <utterance>No. But can you love me for the sake of all you loved and lost? Or simply love me... because I love you?</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="2">
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>He reaches her, throws the window open, and sees a clear path down the wall to safety. He stops and looks at her, and touches her face in gratitude. She has to ask...</context>
+      <utterance>No one! Hurry!</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>Pausing to look straight into her eyes, he kisses her -- her, not Marion -- and climbs out. She watches him go.</context>
+      <utterance>When we... did you think of her?</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="5">
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rest, William.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I rest.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context>Stephen offers the jug; Wallace declines.</context>
+      <utterance>Your rest is making me exhausted.</utterance>
+   <speaker>STEPHEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come, it'll help you sleep.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Pulling a tattered tartan around himself, he lies down.</context>
+      <utterance>Aye. But it won't let me dream.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="9">
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May he rest in peace... You have already sealed the coffin?</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was a modest man.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context>Craig sits next to Robert, and keeps his voice low.</context>
+      <utterance>It will not be long before Longshanks too is encased in stone, and his crowns divided for others to wear.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context>Robert only stares at his father's stone coffin.</context>
+      <utterance>Our nobles are frightened and confused... Wallace has the commoners stirred up again, from the Highland clans to the lowland villages. In another six months Christ and the Apostles could not govern this country.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context>He shows Robert a parchment bearing the noblest names in Scotland. The Bruce barely glances at it.</context>
+      <utterance>Longshanks knows his son will scarcely be able to rule England, much less half of France. He needs Scotland settled, and he trusts you, after Falkirk. If you pay him homage, he will recognize you as king of Scotland. Our nobles have agreed to this as well.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I pay homage to another's throne, then how am I a king?</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Homage is nothing. It is the crown that matters!</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The crown is that of Scotland. And Scotland is William Wallace.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context>Robert turns from his father's coffin, to look at Craig.</context>
+      <utterance>That is another matter. There is a price to all this, required both by Longshanks and our nobles. Pay it, and you will be our king. And we will have peace.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="7">
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir William. We come to seek a meeting.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've all sworn to Longshanks.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An oath to a liar is no oath at all. An oath to a patriot is a vow indeed. Every man of us is ready to swear loyalty to you.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So let the council swear publicly.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context>Wallace glances at Hamish and Stephen, who can barely hide their contempt. Wallace looks at the nobles.</context>
+      <utterance>We cannot. Some scarcely believe you are alive. Other think you'll pay them Mornay's wages. We bid you to Edinburgh. Meet us at the city gates, two days from now, at sunset. Pledge us your pardon and we will unite behind you. Scotland will be one.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will meet you, but only one way -- if Robert the Bruce is there, and puts his hand on my Bible, and swears his loyalty to Scotland.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He has already agreed to come.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="8">
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know it's a trap.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Probably. But we can't win alone. We know that. This is the only way.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to be a martyr.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nor I! I want to live! I want a home and children and peace. I've asked god for those things. But He's brought me this sword. And if He wills that I must lay it down to have what He wants for my country, then I'll do that too.</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's just a dream, William!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've lived a dream together. A dream of freedom!</utterance>
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your dreams aren't about freedom! They're about Marion! You have to be a hero, because you think she sees you! Is that it?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My dreams of Marion are gone. I killed them myself. If I knew I could live with her on the other side of death, I'd welcome it.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="2">
+   <speaker>HAMISH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Keep these. We're going too.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Wallace hugs them, first Stephen, then Hamish. Tears roll down Hamish's cheeks. With one last look at his friends, Wallace rides away.</context>
+      <utterance>No. One of us is enough.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="4">
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He won't come.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context>They hear the approach of a single horse. The Bruce looks out to see Wallace arriving.</context>
+      <utterance>He will. I know he will.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here. And unarmed. My God, he has a brave heart.</utterance>
+   <speaker>OUTSIDE THE HOUSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wallace dismounts and enters.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="2">
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context>The Captain looks at Bruce the way the High Priest must have looked at Judas, and leaves.</context>
+      <utterance>He is not to be harmed. I have your king's absolute promise that he will be imprisoned only!</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context>Robert the Bruce spots something on the floor that must have fallen from Wallace's clothes as they grabbed him; Bruce lifts the white handkerchief, and sees the familiar thistle embroidered on it.</context>
+      <utterance>Now we will have peace.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="6">
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it true? Wallace is captured?</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Simply because he eluded your trap, do you think he is more than a man? My father is dying. Perhaps you should think of our coronation.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When will his trial be?</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>With a faint smile, he shuts his bedroom door in her face.</context>
+      <utterance>Wallace's? For treason there is no trial. Tomorrow he will be charged, then executed.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Longshanks promised!</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are surprised he would lie? Balliol was murdered in a church yesterday. You are Longshanks' new designate. You will be king.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="7">
+   <speaker>ROYAL MAGISTRATE</speaker>
+      <mode></mode>
+      <context>We PUSH IN on the iron mask that binds his face. We can only see his eyes -- but they are bright.</context>
+      <utterance>William Wallace! You stand in taint of high treason.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Treason. Against whom?</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Against thy king, thou vile fool! Hast thou anything to say?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never, in my whole life, did I swear allegiance to your king --</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It matters not, he is thy king!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- while many who serve him have taken and broken his oath many times. I cannot commit treason, if I have never been his subject!</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Confess, and you may receive a quick death. Deny, and you must be purified by pain. Do you confess? ...DO YOU</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="2">
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I do not confess.</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then on the morrow, thou shalt receive they purification... And in the end, I promise you'll beg for the axe.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="17">
+   <speaker>JAILER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Highness!</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will see the prisoner.</utterance>
+   <speaker>JAILER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've orders from the king --</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>The jailer obeys. The Princess can barely contain her shock at the sight of Wallace; the jailers snatch him upright.</context>
+      <utterance>The king will be dead in a month! And his son is a weakling! Who do you think will rule this kingdom? Now OPEN THIS DOOR!</utterance>
+   <speaker>JAILER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On your feet, you filth!</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>There is no way out of this hell! Leave me with him! Reluctantly the jailers shuffle out of the cell, but they can still see her back and hear her. Looking at Wallace's eyes through the mask, she can't quite hold back her tears -- dangerous tears, that threaten to say too much. Wallace tries to distract her.</context>
+      <utterance>Stop! Leave me!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>M'lady... what kindness of you to visit a stranger.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir, I... come to beg you to confess all, and swear allegiance to the king, that he might show you mercy.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will he show mercy to my country? Will he take back his soldiers, and let us rule ourselves?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mercy... is to die quickly. Perhaps even live in the Tower. In time, who knows what can happen, if you can only live.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>She wants to plead, she wants to scream. She can't stop the tears. And the jailers are watching.</context>
+      <utterance>If I swear to him, then everything I am is dead already.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>She almost goes too far now, pulling closer to him -- but she doesn't care. She whispers, pleading...</context>
+      <utterance>Your people are lucky to have a princess so kind that she can grieve at the death of a stranger.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You will die! It will be awful!</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>She pulls out a hidden vial, and whispers...</context>
+      <utterance>Every man dies. Not every man really lives.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Drink this! It will dull your pain.</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It will numb my wits, and I must have them all. If I'm senseless, or if I wail, then Longshanks will have broken me.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>On the verge of hysteria, she presses the vial to the air hole at his mouth and pours in the drug. The jailers, seeing suspicious movement, shift inside the cell; she backs up, her eyes wide, full of love and goodbye. From inside the mask, he watches her go. When the door CLANGS shut, he spits the purple drug out through the mouth hole.</context>
+      <utterance>I can't bear the thought of your torture. Take it!</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="7">
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have come to beg for the life of William Wallace.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You fancy him.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>Longshanks shakes his head.</context>
+      <utterance>I respect him. At worst he was a worthy enemy. Show mercy... Oh thou great king... and win the respect of your own people.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>The king can't speak. But hatred still glows in his eyes. The princess looks at her husband.</context>
+      <utterance>Even now, you are incapable of mercy?</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nor you. To you that word is as unfamiliar as love.</utterance>
+   <speaker>EDWARD</speaker>
+      <mode></mode>
+      <context>She leans down and grabs the dying king by the hair. The guards flanking the door start forward but the Princess's eyes flare at them with more fire than even Longshanks once showed -- and the guards back off. She leans down and hisses to Longshanks, so softly that even Edward can't hear...</context>
+      <utterance>Before he lost his powers of speech, he told me his one comfort was that he would live to know Wallace was dead.</utterance>
+   <speaker>PRINCESS</speaker>
+      <mode></mode>
+      <context>She lets go of the old king. He sags like an empty sack back onto his satin pillows. Without even a look at her husband she strides out of the room, with the rattling breath of the dying king rasping the air like a saw.</context>
+      <utterance>You see? Death comes to us all. And it comes to William Wallace. But before death comes to you, know this: your blood dies with you. A child who is not of your line grows in my belly. Your son will not sit long on the throne. I swear it.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="9">
+   <speaker>CROWD</speaker>
+      <mode></mode>
+      <context>In the SCORE, AMAZING GRACE, wailed on bagpipes, carries through all that happens now... Ties hand and foot, Wallace is strangling. The Magistrate watches coldly; even when the executioner gives him a look that says they're about to go too far, he prolongs the moment; then the Magistrate nods and the executioner cuts the rope. Wallace slams to the platform; the Magistrate leans to him.</context>
+      <utterance>That's it! Stretch him!</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context>With great effort, Wallace rises to his knees. The Magistrate assumes a formal posture and offers the cloak. Wallace struggles all the way to his feet.</context>
+      <utterance>Pleasant, yes? Rise to your knees, kiss the royal emblem on my cloak, and you will feel no more.</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context>The executioners slam Wallace onto his back on the table, spread his arms and legs, and tie each to a crank. Goaded by the crowd, they pull the ropes taut. They crowd grows quiet enough to hear the groaning of Wallace's limbs. Hamish and Stephen feel it in their own bodies.</context>
+      <utterance>Very well then. Rack him.</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context>Wallace shakes his head. The executioners cut off his clothes, take hot irons from a fire box. The crowd grows silent; we see them, not Wallace, as the irons are touched to his body, but we hear the burning of flesh. Then the Magistrate signals; Wallace wants to say something.</context>
+      <utterance>Wonderful, isn't it, that a man remains conscious through such pain. Enough?</utterance>
+   <speaker>WALLACE</speaker>
+      <mode></mode>
+      <context>Everyone hears; Hamish smiles, even through his tears. Rebuffed, the Magistrate nods to the executioners, who lift the terrible instruments of dissection. We are spared seeing the cutting: we are ON WALLACE'S FACE as the disembowelment begins. The Magistrate leans in beside him.</context>
+      <utterance>That... will... clear your sinuses.</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context>The crowd can't hear the magistrate but they know the procedure, and they goad Wallace, chanting...</context>
+      <utterance>It can all end. Right now! Bliss. Peace. Just say it. Cry out. "Mercy!" Yes?... Yes?</utterance>
+   <speaker>CROWD</speaker>
+      <mode></mode>
+      <context>Wallace's eyes roll to the magistrate, who signals QUIET!</context>
+      <utterance>Mer-cy! Mer-cy! Mer-cy!</utterance>
+   <speaker>MAGISTRATE</speaker>
+      <mode></mode>
+      <context>SILENCE. Hamish and Stephen weep, whisper, pray...</context>
+      <utterance>The prisoner wishes to say a word!</utterance>
+   <speaker>HAMISH AND STEPHEN</speaker>
+      <mode></mode>
+      <context>Wallace's eyes flutter, and clear. He fights through the pain, struggles for one last deep breath, and screams...</context>
+      <utterance>Mercy, William... Say Mercy...</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="2">
+   <speaker>THE CROWD, WALLACE'S POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He sees Hamish, eyes brimming, face glowing...</utterance>
+   <speaker>SLOW MOTION - THE AXE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>begins to drop.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="7">
+   <speaker>ENGLISH COMMANDER</speaker>
+      <mode></mode>
+      <context>UP ON THE HILL, Robert the Bruce sits on his horse, and waits. He looks down at the English generals, at their banners, their army. He looks down the ranks at his own. He sees Hamish. Stephen. Old MacClannough is there, his eyes watery, his weapon sharp. The Scottish bride Lord Bottoms took is there, among the ragtag archers, her husband beside her. Robert knows none of them -- yet he knows them all. Old Craig, among the other Scottish nobles mounted beside the Bruce, grows impatient.</context>
+      <utterance>I hope you washed your ass this mornin -- it's never been kissed by a king before.</utterance>
+   <speaker>CRAIG</speaker>
+      <mode></mode>
+      <context>But Robert holds something -- uncurling his fist, he looks at the thistle handkerchief that belonged to Wallace. The nobles start to rein their horses toward the English.</context>
+      <utterance>Come, let's get it over with.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context>Robert the Bruce tucks the handkerchief safely behind his breastplate, and turns to the Highlanders who line the hilltop with him. He takes a long breath, and shouts --</context>
+      <utterance>Stop.</utterance>
+   <speaker>ROBERT THE BRUCE</speaker>
+      <mode></mode>
+      <context>Bruce's broadsword slides from its scabbard. A cry rises from Highlanders, as from a tomb, rising --</context>
+      <utterance>You have bled with Wallace! Now bleed with me!</utterance>
+   <speaker>SCOTS</speaker>
+      <mode></mode>
+      <context>The chant builds to a frenzy; it shakes the earth. The Scottish nobles can scarcely believe it; the English are shocked even more. Robert the Bruce, king of Scotland, spurs his horse into full gallop toward the English, and the Highlanders hurl their bodies down the hill, ready to run through hell itself. In SLOW MOTION we see their faces... And OVER THIS, we hear the voice of William Wallace...</context>
+      <utterance>Wal-lace! Wal-lace! Wal-lace!</utterance>
+   <speaker>WALLACE'S VOICE</speaker>
+      <mode></mode>
+      <context>On Wallace's army behind Robert the Bruce, charging down the hill to victory and glory, we slow to FREEZE FRAME and hear their chant, huge, echoing...</context>
+      <utterance>In the year of our Lord 1314, patriots of Scotland, starving and outnumbered, charged the fields of Bannockburn. They fought like warrior poets. They fought like Scotsmen. And won their freedom. Forever.</utterance>
+   <speaker>SCOTS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wal-lace! Wal-lace! Wal-lace!</utterance>
+</dialogue>
+
+
+</movie>

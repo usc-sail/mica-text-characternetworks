@@ -1,0 +1,4799 @@
+<movie id="318" title="Jaws 2">
+
+<dialogue id="1" n_utterances="8">
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where the hell were you?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Late.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can see that. Don't you know this is a big deal?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Couldn't help it. Hendricks over there...  ...still has the keys to the jeep in his pocket, and I couldn't find the spares.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Terrific. Act as if you've been here all along.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How'm I supposed to do that?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look bored.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>wave from Hendricks, a politely bland young town cop in his idea of civilian finery. Hendricks is fussing with the banner on an attractive young lady in a bathing suit...</context>
+      <utterance>Holiday Inn joins the Amity Shores development condominium complex in a welcome expression renewed interest in Amity Island as the hub of the Northeast Recreational Vacation Wonderland. We're happy once again to be in the center of things, where the action is... We've had our share of hard times and long winters and the past few years have not been easy. But today, the sun is rising on a new Amity, a new island filled with promise.  Len Peterson's Amity Shores Development is an exciting addition to our island. The Holiday Inn we stand in is likewise a new friend who we welcome as family. Amity means 'friendship' and our community extends its friendship to all who seek her shores in peace and harmony.  Brody settles into polite attentiveness, acknowledging a</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="2">
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>Tina (the girl in the bathing suit) escapes Hendricks' attentions, and teeters on high heels towards the ribbon, while Phil Fogarty, the local photographer, snaps away.</context>
+      <utterance>...And now, Tina Wilcox, this year's Miss Amity, will cut the ribbon that officially opens this luxurious new hotel...</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tina was selected from more than 20 of this island's lovely young ladies in the Miss Amity competition held every spring, and she'll represent Amity Island in the Miss Massachusetts Competition in Worcester next month. When she cuts this ribbon, she will be opening our island to growth, to development, to planned expansion with full employment for our thriving community.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="5">
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think she's such hot stuff.</utterance>
+   <speaker>POLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When are we going out? You and me?</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not tonight.</utterance>
+   <speaker>POLO</speaker>
+      <mode></mode>
+      <context>Lucy nods, Polo shrugs, and turns to Jane, a girl nearby.</context>
+      <utterance>You going with Patrick?</utterance>
+   <speaker>POLO</speaker>
+      <mode></mode>
+      <context>She nods happily, they whisper together, while we:</context>
+      <utterance>Listen, Jane -- you want to dance as soon as we get out of these monkey suits?</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="5">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom, Michael won't talk to me.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shouldn't he be at home?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Silvera couldn't come.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>Applause from the crowd, Len takes a bow.</context>
+      <utterance>This money tree, you may have noticed, is made entirely of twenty-dollar bills, donated by Len Peterson, the builder of Amity Shores Condominiums, as a gesture of goodwill towards the community. $500 as a special gift to the Amity township scholarship fund...</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go ahead, Tina.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="13">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do I have to talk to those two?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My boss and your boss. Sure.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, hello. It went well, I thought.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very impressive ceremony. Good speech.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>He beckons over their heads to Larry Vaughn, Jr., a young man uncomfortable in his correct tie and blazer. They exchange perfunctory greetings.</context>
+      <utterance>Thank you, thank you. You know my son, don't you?</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context>He puts his arm around her, a little too familiarly for Brody's liking.</context>
+      <utterance>The speech was right on the money.  Be a love and make sure the bar's open, will you?</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fantastic lady. Don't know what I'd do without her.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me neither.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Y'know, Brody -- for the first time in years it's worth putting money into this town.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All of us thank you, okay?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>And she hands Sean off to Brody, leaving him with an over- active 10 year old, while she's gone.</context>
+      <utterance>Watch Sean for a minute?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I go swimming?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Sean nods and runs off, happy to have a mission.</context>
+      <utterance>No. Find your brother, okay?</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="17">
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How old is your cousin?</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seventeen. She's a senior.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not crazy about blind dates.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're okay, if they got little white canes and tin cups.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's awful.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell.  Did your mom put all this together?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, it's her job.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is she responsible for the punch?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good. It's terrible.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My cousin will be here tomorrow.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great. Sean finds them, and bursts into their group.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Michael, Michael, Dad said to find you.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, you did that.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>He tugs at Mike's sleeve; Mike allows himself to be dragged off.</context>
+      <utterance>Come on, Mikey, come on...</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Andy and Brooke are left standing together, Tim moves in.</context>
+      <utterance>Okay, okay. Got to go.</utterance>
+   <speaker>TIM</speaker>
+      <mode></mode>
+      <context>On her shrug, as she turns to Andy:</context>
+      <utterance>Want to dance?  Okay. Later?</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="14">
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get a dance yet?</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me neither.</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who'd you ask?</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tina Wilcox.</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're crazy. She's Ed's girl friend.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doesn't hurt to ask. Sometimes the most beautiful girls are the loneliest.</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a crock of shit.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context>Bob Burnside, a tall pal of Larry Vaughn Jr.'s, turns up by their side.</context>
+      <utterance>I know.</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Same tired old faces. You see Vaughn?</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The mayor?</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context>He exits, on the prowl.</context>
+      <utterance>Larry Vaughn Junior?  If you see him, tell him I got a six- pack, a blanket, and the Brebner twins.</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No class.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>None at all.  I wonder what the Brebner twins are doing tomorrow night.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="13">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you take a little time out from your busy schedule to dance with the old man?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>And sure enough, they are -- the band has turned to a Fifties slow-dance standard: "I Wish You Love." Peterson approaches.</context>
+      <utterance>Because they're playing our song.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I have this dance?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>They slowly fox trot out onto the terrace. Both of them nodding greetings to townspeople and kids -- everyone knows the chief.</context>
+      <utterance>Sorry, I'm all booked up...  Come, m'dear.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Remember 1959, the Jersey shore?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And how. I thought you wouldn't respect me.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>The music and the summer moon are working their magic.</context>
+      <utterance>I did, I did.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen -- what are you doing later?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fooling around?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He dips with her; they look up and notice Sean, sound asleep on a bench.</context>
+      <utterance>Right.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's get the kid home.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He crosses to the sleepy Sean and hoists him with a grunt.</context>
+      <utterance>Home it is.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="11">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mmmm.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>They start to move a little, then turn face to face. Outside their door, the sounds of little feet; Sean padding downstairs.</context>
+      <utterance>MMMmmmorning...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sean's awake.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Door's locked.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Their bodies move under the blankets. There's a crash from the kitchen. They stop for a beat. As they resume, little feet return.</context>
+      <utterance>Good.</utterance>
+   <speaker>SEAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The milk fell out of the 'frigerator.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Put a towel down. And shh -- daddy's sleeping.</utterance>
+   <speaker>SEAN'S VOICE</speaker>
+      <mode></mode>
+      <context>His feet paddle off. Brody and Ellen start to slide together, passion resumes.</context>
+      <utterance>Okay.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>Bigger feet go downstairs; Michael's up. The Brodys kiss, trying to ignore the sounds of spirited discussion between brothers over who's responsible for spilled milk. Then the sound of a car pulling into the driveway, and a horn beep.</context>
+      <utterance>C'mere...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Silvera?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>They try to kiss again, there's a door slam downstairs, and talk between the boys and Mrs. Silvera. The Brodys look at each other and break up laughing at the morning, and themselves.</context>
+      <utterance>Mrs. Silvera.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="2">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Need a ride?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As far as the office.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="13">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some people.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's daddy doing?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Writing a ticket. Brody is out of the car, his pad in his hand.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey! That's my boss!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Peterson, in shirt-sleeves and a tie, hustles out of the office</context>
+      <utterance>Better yet.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too late, it's written.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heck of a way to treat a taxpayer.  Don't you have any pull with the chief, here?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do I have to?</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context>Ellen kisses Brody, and starts in for her day's work.</context>
+      <utterance>Better get a sales kit together for after lunch. I'm taking some prospects out.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See you later.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't we fix it up to get this made into a green zone or something?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Peterson shrugs and goes inside his office. Brody's attention is drawn by some noise by the dock.</context>
+      <utterance>Len, pay the two dollars.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="5">
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>As Red complies, Hendricks spots his boss.</context>
+      <utterance>Tie it off on your left. Your other left!</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good morning!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aren't you off-duty?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Till noon. This is on my own time.  Hi, Shorty.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>There's a hoot from a passing boat horn. Sean waves happily.</context>
+      <utterance>I'm not short. I'm eleven.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="10">
+   <speaker>SKIPPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo! Chief!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>SKIPPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got a gold-plater drifting in the main channel. Big cruiser.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whereabouts?</utterance>
+   <speaker>SKIPPER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Off the Point. No running lights, just a diver's flag.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Want me to run out there?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On your own time?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Happy to do it.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Hendricks nods, and starts the engine importantly.</context>
+      <utterance>Then check it out. I'll be in the office.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>While Red grumbles, Brody and Sean are walking up to the street. Michael and some teen-agers are headed down to the dock.</context>
+      <utterance>Cast off your bow line. And your stern line. Spring line...</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="5">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where to?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No place special. Just hanging out.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Mike nods.</context>
+      <utterance>Sailing?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He gets into his jeep, leaving Sean with the teen-agers.</context>
+      <utterance>Watch your kid brother, huh?</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context>The others ad lib appropriate greetings/good-byes, as Brody drives off in his jeep.</context>
+      <utterance>Bye, Mr. Brody.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="21">
+   <speaker>POLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyone want to sail to the lighthouse?</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Machs nix to me.</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyone got a spare mooring line? Mine's shot.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got one...</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I go too?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Tina's in her boat, "Tina's Joy," a neat sloop. Mike is going over his "Green Machine," a sleek catamaran.</context>
+      <utterance>I said, 'No.'</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not going out right away, are you?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Waiting for Andy.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want you to meet my cousin.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will, I will.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>Before Sean can protest further, Mike spots his crew: Andy Nicholas, a round-faced, frizzy-haired pal, wearing a bathing suit, and carrying some scuba gear from an early-morning diving class. Marge and Denise, two other divers, are with him, with their gear. They ad-lib "good-byes."</context>
+      <utterance>I want to go out with you. You need a crew, don't you?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't need you. Andy's here.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You always go with Andy.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How was dive class?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Same as always -- glub-glub, bubble- bubble, stroke-stroke. There sure is some weird shit on the bottom of the ocean.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shells and lobsters and stuff?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mostly old garbage. Today we found a '48 Hudson.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do I have to play with the little kids?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Sean mopes away while Andy and Mike get their boat ready for sea.</context>
+      <utterance>Yeah. Go on, beat it.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="4">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's that? Quick -- I'm in love.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hope that's the cousin.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Over here. I want you to meet somebody.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>As the four teen-agers come together in a tight quartet, the music rocks up and we:</context>
+      <utterance>Lucky. Lucky, lucky, lucky.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="5">
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How fast does this go?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With the right wind, 15-20 knots.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>He sheets in, heeling the boat over in the stiff breeze.</context>
+      <utterance>Real fast.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context>Jackie screams in excitement; for a city girl, this is more fun than a roller coaster.</context>
+      <utterance>Far out!</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="9">
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Coming up!</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context>It's immediately a race between the red boat -- "Sizzler," and Mike's "Green Machine." The Kids ad-lib -- "Faster," "Lookout," "Gybe, gybe."</context>
+      <utterance>Gangway, Turkies!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're carrying weight.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll take your supercargo.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that me?</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's you.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>Donny and Denise's boat cuts in, stealing the Sizzler's air.</context>
+      <utterance>I've never been supercargo.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, get out of our air!</utterance>
+   <speaker>DONNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Want a passenger?</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="5">
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rich or poor, it's nice to have money.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Figure they split?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>A sudden eruption in the water nearby startles them -- it's Andrews, surfacing, holding up the underwater flash camera.</context>
+      <utterance>Happens every season -- someone takes off. Once we had a schooner for a month while the owners went fox hunting.</utterance>
+   <speaker>ANDREWS</speaker>
+      <mode></mode>
+      <context>Crosby pops up next to him, shows empty hands.</context>
+      <utterance>This is all there is.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>The divers head for their boat, Hendricks fires up his engine, and we:</context>
+      <utterance>If that's it, that's it.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="30">
+   <speaker>INDIGNANT MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't watch the news, I can't watch a ball game, I can't watch movies -- all I hear is that rotten kid with his rotten radio... "Breaker, Breaker..."</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll do what I can, but you're talking about a federal jurisdiction...</utterance>
+   <speaker>INDIGNANT MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So call the FBI!</utterance>
+   <speaker>POLLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Black, two sugars.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks. What else is out there?</utterance>
+   <speaker>POLLY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One petty theft, one domestic disturbance, and an exhibitionist.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll take the exhibitionist, you handle the others.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context>Brody is caught in the open.</context>
+      <utterance>Chief Brody? I want you to do something about my first husband.</utterance>
+   <speaker>WHITE-HAIRED MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Martin, you have got to demand that Grace Kinney keep her shades down.</utterance>
+   <speaker>2ND MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about enforcing the "No Parking" ordinance on Beach Road?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In a minute, in a minute -- talk to Mrs. Prendergast, please...</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Albert keeps coming around when I'm with gentlemen friends and he throws mud on their cars...</utterance>
+   <speaker>2ND MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every time there's an out- of-state car in my driveway, I lose another mailbox. Those little iron sailboats cost thirty-two dollars each!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Talk to me about Mrs. Kinney.</utterance>
+   <speaker>WHITE-HAIRED MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Her bedroom window faces my oldest boy's bedroom, and she's teasing him, dancing around in a towel, or less...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Hendricks has entered, carrying the camera brought up from the bottom by the divers.</context>
+      <utterance>Dancing?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chief...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>They go into Brody's inner office; the uproar continues behind the door, but it's calm in here.</context>
+      <utterance>Hendricks. I want to go over your reports and your Form 908.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I never heard of a 908.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just made it up. It means, "Get me out of there."  What the hell's that?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Diver's camera. Tom Andrews brought it up from under that abandoned cruiser.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Abandoned? It's a little early in the season for that.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rich people. Home port is Newport, Rhode Island.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I had a $100,000 boat, I sure as hell wouldn't leave it anchored alone in the channel.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>Hendricks puts the camera in an informal "Lost &amp; Found" box sitting in the office. Brody makes the mistake of opening the door, revealing the White-Haired Man.</context>
+      <utterance>If you had a $100,000 boat there'd be an investigation.</utterance>
+   <speaker>WHITE-HAIRED MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Grace Kinney is driving my boy to distraction.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hendricks, get a description of that dance.</utterance>
+   <speaker>LARGE MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chief Brody? I want to talk to you about my daughter... she's 15, but mature for her age...</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chief, I've been telling Mrs. Prendergast that it's no good just talking about Albert, she's got to do something...</utterance>
+   <speaker>2ND MAN</speaker>
+      <mode></mode>
+      <context>As Brody turns to deal with the mess, we:</context>
+      <utterance>Look -- the township is responsible for protecting life and property, and my property is unprotected...</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="6">
+   <speaker>TERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you ever see a dolphin?</utterance>
+   <speaker>DIANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. They like to play. We may see some today.</utterance>
+   <speaker>TERRY</speaker>
+      <mode></mode>
+      <context>She fumbles with her skis.</context>
+      <utterance>Great!</utterance>
+   <speaker>TERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoops, almost lost one. Can't play with the dolphins without skis...</utterance>
+   <speaker>DIANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ready?</utterance>
+   <speaker>TERRY</speaker>
+      <mode></mode>
+      <context>Diane goes to the controls, and puts the engine into gear, starting forward. Terry waves "okay," Diane opens up the throttle, the boat surges forward, pulling Terry upright. A wake boils out from under her skis.</context>
+      <utterance>Hang on, hang on... Okay, go.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="5">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take a break for a minute, okay?</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context>Tina stands, and looks out to the sea, where the boat is towing Terry on the water.</context>
+      <utterance>Huh?</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eddie, can we do that?  Can we go skiing? We can use my Uncle's boat. Eddie?</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Next week.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Ed grunts non-comittally. Tina takes a beer from the cooler, and goes up on the dune to watch Terry and Diane. She waves to them, and to someone down the beach.</context>
+      <utterance>With you, everything's next week. I want to go skiing soon. Tomorrow?</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="2">
+   <speaker>CLOSE ON TERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>rushing through the water, waving, stunting.</utterance>
+   <speaker>TERRY</speaker>
+      <mode></mode>
+      <context>She waves at Diane, who leans over the controls, to coax more speed out of the old engine.</context>
+      <utterance>Faster! Faster!</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="2">
+   <speaker>TERRY</speaker>
+      <mode></mode>
+      <context>The fin slides low in the water, heading towards her. She puts the rope around her waist, leaving both hands free.</context>
+      <utterance>Porpoise! Look! A dolphin!</utterance>
+   <speaker>UNDERWATER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Closing in on the wake, crossing it.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="3">
+   <speaker>DIANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Terry! You okay?</utterance>
+   <speaker>TERRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Help! Help!</utterance>
+   <speaker>DIANE</speaker>
+      <mode></mode>
+      <context>She still doesn't realize the gravity of the situation -- she hasn't seen the fin.</context>
+      <utterance>Okay, okay, coming...</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="2">
+   <speaker>DIANE</speaker>
+      <mode></mode>
+      <context>Then the Shark appears, blood on its mouth, lunging up and butting the stern, jarring the engine loose. Fuel spills from a ruptured line.</context>
+      <utterance>Terry!</utterance>
+   <speaker>DIANE</speaker>
+      <mode></mode>
+      <context>She throws things at the Shark, which slides back under the water.</context>
+      <utterance>Help! God, help!</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="2">
+   <speaker>DIANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A last flash before the gasoline explodes.</utterance>
+   <speaker>DIANE</speaker>
+      <mode></mode>
+      <context>A sheet of fire, she's in the middle, screaming, aflame, the Shark forgotten. She falls into the water as the ruined boat overturns and there's an oily explosion.</context>
+      <utterance>No-o-o-o-o-o...!</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="5">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There should be bodies. Witnesses say two people; one in the boat, one skiing.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>I told you -- nothing here.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Try dragging.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>For how long? Current's moving everything around, and it's getting dark.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stay on it. I don't care how long it takes.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="2">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We heard this noise, like a 'boomp' out there, and when we looked, there was just this cloud of smoke.</utterance>
+   <speaker>GRACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was the explosion. One minute they were having a wonderful time, the next, bang!</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="4">
+   <speaker>GRACE</speaker>
+      <mode></mode>
+      <context>Brody stares out at the quiet sea -- what's lurking under that calm surface?</context>
+      <utterance>I don't know what could've done that.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Brody's still looking past them, towards the ocean.</context>
+      <utterance>Can we go now?</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chief Brody -- can we go? Please?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>As he gazes at the ocean, we hear the sound of a distant siren, and</context>
+      <utterance>Oh, yeah. Sure.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="8">
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much longer?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Until we find something.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't care about the overtime, I'm hungry. And cold. And most of all, bored.</utterance>
+   <speaker>INSERT - THE WINCH CABLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It goes taut with a sudden strain.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>Red moves to the winch, watching warily as it slows to a near stall with the weight.</context>
+      <utterance>I think we got something.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About damn time.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>There's a strain on the cable -- it's pulling the stern of the boat down as it struggles with the weight.</context>
+      <utterance>What the hell is it?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here it comes...</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="7">
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh shit. Drop it.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Power line.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>He hits the release on the winch, and the cable whines as it spins out and settles back on the bottom. Red jiggles the line, trying to free it up.</context>
+      <utterance>Oh, great.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It comes here from Cable Junction.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Untangle it and let's go -- We don't need a blackout on the island.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now you're talking. Let's get out of here before we do find something.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="19">
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have to smoke so early in the morning?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's good with coffee.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So's a donut.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want Fruit Loops!</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eat Cheerios.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You eat Cheerios. I want Fruit Loops.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eat Cheerios.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're you guys doing today?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know about him -- I'm going down to the dock, maybe go sailing.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every day?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What else is there to do?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could work out at the beach, make a few bucks for school.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do I have to?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll have to make up your own mind about that.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's my day book?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Ellen passes them on the way to the den to look for it.</context>
+      <utterance>In the den.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>Mrs. Silvera enters from the service porch.</context>
+      <utterance>He doesn't have to work all the time, it's his vacation.</utterance>
+   <speaker>MRS. SILVERA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good morning -- everyone up early today?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He follows Ellen into the den.</context>
+      <utterance>There's a lot going on.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="5">
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you take a half day and clean this junk up?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because, I'm in the middle of a boating accident, I got only four regular cops and one secretary, and a Chief Deputy who is constantly fiddling with the police boat. He's another one.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One what?  Ah-ha!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boat nut. What is it about this place that makes everyone a freak for boating?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>She heads out the door for the office. Mike approaches.</context>
+      <utterance>It's an island.  Got to run.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="7">
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about tennis? Riding? Fixing up old cars? Bartending?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bartending? I'm 17.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, not bartending. Why on the water every day?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, humor the old man -- just be careful.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be careful. I'll see y'later.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="8">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't go out if it's rough or anything, huh? We've had a lot of trouble.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>The back door slams behind him.</context>
+      <utterance>Okay, okay.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I go with you today?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Sean nods, resigning himself to the inevitable.</context>
+      <utterance>You stay with Mrs. Silvera, Tootsie. Okay?</utterance>
+   <speaker>MRS. SILVERA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can come with me to the market.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Mrs. Silvera nods, and pours Sean a glass of milk. Brody sighs, and heads out the door. Sean calls after him.</context>
+      <utterance>I'll be at the office.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bye, Daddy. I'm going to be careful, all day.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="9">
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where're we going?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, out a ways. Maybe the lighthouse.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The lighthouse?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No big thing, we'll see who's out there, maybe picnic.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We got some stuff at the store. Ed and Tina are going to be there.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, sure, they would be.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the lighthouse?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's an island, near here, with a lighthouse. We sometimes hang out there, you know...</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>She opens her big floppy bag, revealing the top half of a jug of Mountain Red. Brooke slides over to her.</context>
+      <utterance>Great. I got some wine.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="4">
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The lighthouse is a make-out spot.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now I really want to see it.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context>She indicates Andy, who pretends great indifference.</context>
+      <utterance>You going to fool around with Mike?  Well, I'm not doing anything with him.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>Andy does about a triple take before he regains his cool. Mike concentrates on his sailing, Jackie grins an impish, vixen grin, Brooke shrugs.</context>
+      <utterance>Well, maybe I will, then.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="4">
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on back up here!</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope.</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give me back my hat!</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Double nope!</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="9">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why'd they decide to move?</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too hot in the lighthouse?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too hot for those two? I can't believe it.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is there something I don't know about?</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you, remember?</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>There's a little round of giggling.</context>
+      <utterance>Oh, yeah. So why aren't they doing it now?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe by now they are.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're moving pretty fast.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's cute...</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="2">
+   <speaker>CLOSEUP - TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>reacting.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yech!</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="5">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>His arms indicate big.</context>
+      <utterance>As soon as I heard about it, I called you. This thing is big!</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>After we've looked, we'll talk.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>He moves forward to clear the crowd. Some kids are poking the massive hulk with sticks. A tourist couple is snapping away with a Polaroid SX-70. The whole mess stinks, too.</context>
+      <utterance>This is it.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>The crowd edges back, giving way to Brody and Elkins.</context>
+      <utterance>Move back, please... back off... open it up a little...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See? What'd I tell you?</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="44">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look at that!</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context>She produces a tape measure and gives one end to Brody.</context>
+      <utterance>First things first.</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context>Elkins is measuring the length of the creature. She calls off numbers to Hendricks, who is officiously writing it all down, repeating numbers as he hears them.</context>
+      <utterance>From the tip of the snout, please.</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Length, 22 feet, 8 inches.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, let's check the bite radius.</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The what?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bite radius. You know, the size of the mouth?</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The whale's mouth?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Shark's mouth.</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context>Brody pitches his voice low, so that the crowd won't listen.</context>
+      <utterance>What shark?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The shark that did this. It was a shark, wasn't it?</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We don't know that, do we?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But that's what we're here to find out, right?</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't tell me my job, and I won't tell you about yours, okay?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't hear you if you're going to whisper.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>He turns to join the kids as they slip through the crowd to return to their blanket, ad-libbing good-byes.</context>
+      <utterance>Can we go now?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You stay here a minute.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, c'mon.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You heard me.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll be over by the lighthouse.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>They hang around, waiting for him. Elkins has reclaimed Brody's attention.</context>
+      <utterance>I'll be right there. Wait up.</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could be a shark. But maybe not.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, I know a little bit about sharks.</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He fumbles for the correct Latin.</context>
+      <utterance>I know that this was probably a Great White Shark. Car-cadon... Caradan...</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Carcharadon Carcharias.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's it.</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, so that's it.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is there one in these waters?</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What makes you think there might be?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because this big fish has been bitten by some other big fish...</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is a mammal, not a fish.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus, don't quibble with me. I want to know if a Great White Shark did this.</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Probably.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's it? Probably? Look, sharks are attracted by blood, and thrashing around...</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And sound.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sound?</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sound. Like sonar, or radar. They home in on irregular sounds, unusual sounds, any rhythmic low-frequency vibration.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So there's one around here.</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not necessarily. These wounds could've been inflicted 30 miles out to sea, or more. None of them are immediately fatal. Currents could've carried the body 10 miles further.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We got a helluva tide this month.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could you just keep that crowd back, please?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pop...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You stay right here. You're going in with me.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="19">
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We came out in my boat.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy can sail in it.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got a date!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She'll understand.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She won't.</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context>The Kids have moved a little closer to hear what's going on between father and son.</context>
+      <utterance>Lower jaw displaced and lacerated by predator attempt to seize the tongue. Additional large tissue loss in the dorsal and sub- dorsal areas, as well as the caudal. Oriamal bite radius 37 inches, allowing for salt-water erosion and subsequent small predator and scavenger tissue attacks...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Elkins crosses to Brody.</context>
+      <utterance>I don't want to discuss it.</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's either a Great White, or another killer whale.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't you tell?</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not when it's like this. This animal has been ashore for 10, 12 hours, and drifting for a day, at least. Every little nibbler in the sea's taken a bite.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look -- can Great White Sharks communicate? Send out signals, or something? You know, take revenge, sense an enemy...</utterance>
+   <speaker>ELKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be ridiculous -- Sharks don't take things personally.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Brody turns on him. This at least, is something he can do something about.</context>
+      <utterance>Dad, please...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No more sailing. You come back with me, and that's it.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why me?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I say so.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll tie up at the town dock, don't worry, man.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See you later, Mikey...</utterance>
+   <speaker>ED AND TINA</speaker>
+      <mode></mode>
+      <context>(ad lib)</context>
+      <utterance>Later, bye...</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="4">
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm showing summer rentals. We got a helluva season going.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have got to talk, and we have got to talk alone.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're alone.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Vaughn stares at him, then unlocks the door to his private office -- "Mayor" -- and leads Brody in.</context>
+      <utterance>Larry, I don't know how to say this, but I think we got a shark problem. A real one.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="22">
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you serious?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course. Look -- I've got some missing persons, fatalities, evidence of a large predator...</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No one has seen a shark -- no fin, no bites, nothing. Be realistic.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got a feeling. I have to act on it -- you can understand that, can't you?</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course I can, but can't it wait? These things cost money, and this town doesn't have much money.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have to do something.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have done something -- hell, we damn near went broke putting up a shark watch tower on the beach -- it's the only one in 2000 miles, y'know.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know, I know...</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I stood by while you told the people from Ramada and Marriott that if they put up a hotel they'd need $800,000 worth of steel net around their beaches! In New England? We all lost on that one.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's still a good idea.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Martin, when we build up our tax base a little, you can have everything you want; right now, the town's broke.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Those water skiers...</context>
+      <utterance>Please, Larry -- there's good reason.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A tragedy. But that was a boating accident; no bites, no sharks, nothing but a boating accident.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two of them are still missing!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's always deaths in these waters that never turn up. Are they all shark victims?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Brody's overstated his case, and he realizes it.</context>
+      <utterance>Maybe they are!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bullshit.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bullshit? I'll give you bullshit -- there's a dead whale out there with bites all over it!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What am I, an ass? When you called me, I called Elkins, and her bosses. Nothing she saw is proof of anything.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Someone has to do something.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>The two men study each other for a long moment. Then,</context>
+      <utterance>Don't push it this time. If you do, it won't turn out the way you want, I guarantee you that.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>He holds the door for Brody, who walks out as Vaughn lags behind, locking up his sanctum.</context>
+      <utterance>I've got to get back to work.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="5">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>No response. He takes off his shoes and socks, and rolls up his trouser legs. A silly sight. He wades into the water after it.</context>
+      <utterance>Come on, give a guy a break.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>It eludes him, and he flounders after it. A big wave breaks across his crotch.</context>
+      <utterance>Come on. Here boy. Come to Poppa...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He's almost there, it's just beyond his reach, he's got it, he's lost it, he has it again, it's slippery...</context>
+      <utterance>Hoo! Cold!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Then, he's got it ---</context>
+      <utterance>Come here. Come on, Sweetheart. You bastard. A little closer... Here y'go...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gotcha!</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="21">
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chief?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In here.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I missed you at the funeral home. Santos said you were here.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't miss much. Christ, what a mess.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Positive I.D.?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The woman passenger on the boat that blew up.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>There's an awkward pause. Brody sees the box with the divers' stuff sitting where it was left earlier.</context>
+      <utterance>Oh.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about that camera?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What camera?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Hendricks' guilty look confirms he didn't.</context>
+      <utterance>That one -- from the wreck. You brought it up, did you look inside it?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, what the hell -- might be something worth seeing. Take it somewhere and see if there's film in it...</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If there is, develop it!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>The Deputy rummages in the locker, happy to be on the trail.</context>
+      <utterance>You got it.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know just where to go.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not the drugstore!</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course not, They're closed. Phil Fogarty's place. He'll do it for me.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The drugstore's closed? What the hell time is it?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nine-thirty, ten maybe.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>And he runs for the door, the speed-loaders with the Cyanide bullets safely in his pocket.</context>
+      <utterance>Shit -- I'm late for dinner... Close up, okay?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yeah -- I'm expecting a long distance call, very important. Give them my home phone.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>Brody pats his pockets to make sure the speed-loaders are safe inside, then exits. As Hendricks watches him go,</context>
+      <utterance>Right.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="6">
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you. I'll tell him.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For me?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sort of -- Matthew Hooper is aboard the research vessel Aurora, presently in the Antarctic Ocean, and won't be in radio range until half-past next spring.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He starts upstairs, casually concealing the towel-wrapped package of gun and ammunition.</context>
+      <utterance>Damn.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is Hooper coming to dinner?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He goes upstairs, Ellen waits a few beats, then follows him.</context>
+      <utterance>Not till next year.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="3">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, hi -- How was dinner?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, perfect -- a 75 per cent family affair. Where were you?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>They both know what that means -- the morgue. Brody goes into the bathroom and starts scrubbing his hands compulsively.</context>
+      <utterance>Santos' place.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="23">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oww!</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Careful. What's wrong?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing, huh?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what I said. Is there any of that hand cleaner stuff?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Use the little brush there. Why were you at Santos'?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Found one of the missing victims from that boat deal.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Want to talk about it?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>Mike comes up the stairs, and is starting into his room when Brody spots him; Sean is just behind him.</context>
+      <utterance>Terrific.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Michael.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Mike shrugs and crosses to his father; Sean whizzes past on into his room.</context>
+      <utterance>You want to come here a minute?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi Dad.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hiya yourself.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>He expects something: this is a formal audience with the Head of The House.</context>
+      <utterance>What is it?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got something for you to do tomorrow.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I kind of had plans...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sailing?  Forget it. You're beached. Grounded. No more boats.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, come on...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No backtalk! I spoke to Upton, at the beach, and he's got a job for you there. You can work until school starts.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All summer?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>We see Sean's door opening as he peeps into the hall to see what the fuss is about.</context>
+      <utterance>He wanted a job, he's got one. I want to see that boat out of the water by tomorrow night.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="2">
+   <speaker>MIKE</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Dad, please...</utterance>
+   <speaker>BRODY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Tomorrow night. Out of the water.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="8">
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>The music lowers its volume. Brody turns to go into the bedroom, to take his shoes off, to go to bed...</context>
+      <utterance>Not so loud!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know what you're going to say.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the city, it happened all the time -- some Kid o.d.'s on a rooftop, top, a drunk gets cut in pieces under the Brooklyn local, old people die alone in shitty apartments and three weeks later someone calls the cops because of the smell and the flies. Call the cops. What are we, immune?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was bad, wasn't it.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The goddamn smell is always the same.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you going to be able to sleep?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Ellen gets up, and quietly closes the door. The upstairs hallway is empty, the doors closed. The Brody household compartmented and closed for the night.</context>
+      <utterance>Yeah. I think so.  Mike! Keep it down, for chrissake!</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="18">
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context>He scoops up a handful of the fine powder. Ellen directs the attention of the photographers.</context>
+      <utterance>This is the town beach; the development naturally has its own private access, but I wanted you to see the concession area. Look at that sand -- like sugar!</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>During the summer, the sun sets right there...  Over the water. Beautiful.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>Ellen nods, preoccupied. Vaughn strolls away, headed in the direction of the cabanas. Mary Nichols, a local Selectwoman, emerges from behind the counter of one of the concessions.</context>
+      <utterance>I'll say hello for you.</utterance>
+   <speaker>NICHOLS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello -- selling some more of the good life?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A piece here, a piece there, it all adds up.</utterance>
+   <speaker>NICHOLS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your husband's been here all morning. What's he doing?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>Michael Brody, dressed in township workman's coveralls, is repainting some flaking woodwork. Sean is happily mixing paint. Vaughn joins them.</context>
+      <utterance>His job.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your dad got you working?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>He continues his chore, without enthusiasm.</context>
+      <utterance>Yeah.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm helping.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know where your dad is?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>He points at the tower.</context>
+      <utterance>Up there.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>He crosses briskly to where Peterson is finishing.</context>
+      <utterance>Oh, for Christ's sake.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And if you have any questions about recreational possibilities, Ellen Brody here will be happy to answer them.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Len, can I see you a minute? Peterson excuses himself and joins the Mayor.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think we got a couple of live ones.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Brody's riding his tower.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, shit.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="4">
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is fun! Can we go faster?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context>Bob does, Larry trims the main, and the hull lifts.</context>
+      <utterance>Trim.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>She snuggles in Larry's arms. He waves to someone.</context>
+      <utterance>Yay!</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context>Jackie waves without seeing.</context>
+      <utterance>That's my dad!</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="11">
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wave to my son.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How the hell do we get him down from there?</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>Mrs. Bryant approaches them, tugging her daughter.</context>
+      <utterance>Maybe nobody will notice. Let's get them back in the bus.</utterance>
+   <speaker>MRS. BRYANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Renee wants to know what that man is doing way up there?</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's, ah, watching. A lookout.</utterance>
+   <speaker>MRS. BRYANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For what?</utterance>
+   <speaker>RENEE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a shark tower. I saw one in Florida. He's looking for sharks.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's an observation platform. That's our Chief of Police. He's just checking it.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Normally, it's used for, ah, bird watching. Nature observation. Weather measurements, that sort of thing.  Ellen, we're running late!</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>At the mention of lunch, the prospects, all hungry, begin flocking back into the van. Peterson herds them along.</context>
+      <utterance>Okay. Folks, if we could get back on, we'll show you the country club, and stop for lunch...</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The country club has an 18-hole course, putting greens, and twelve tennis courts...</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="5">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get out of the water! Tell everyone to get out! Now! Out of the water!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, my God...</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell is he doing?</utterance>
+   <speaker>NICHOLS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, no!</utterance>
+   <speaker>ELLEN, MIKE, AND SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looking up, startled at Brody's sudden panic.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="3">
+   <speaker>A SWIMMER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on?</utterance>
+   <speaker>ANOTHER SWIMMER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fish! Anyone got a net?</utterance>
+   <speaker>3RD SWIMMER</speaker>
+      <mode></mode>
+      <context>Laughter defuses the tension in the water; bathers move around, some getting closer to see the fish, others leaving the water to join friends and families on the sand.</context>
+      <utterance>Someone get me a rod and reel!</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="5">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Curious crowd murmurs as they watch this lunacy. Brody realizes he's fired his weapon, that spent shells litter the sand at his feet.</context>
+      <utterance>Sorry. I'm sorry. False alarm...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Ellen joins him.</context>
+      <utterance>Okay, it's all over, go on, it's over. No trouble...</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>Brody drops to his knees, fumbling for the cyanide bullets in his gun, trying to put things in order, scrabbling in the sand for the empty shells. The crowd is curious and embarrassed. Some turn away, others drift back to their blankets, talking about what's just happened, others stare rudely. Brody is coming apart.</context>
+      <utterance>It's okay. It's over...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Sean emerges from the crowd, and helps his daddy pick up the bullets, Ellen moves to disperse the rudely curious.</context>
+      <utterance>It's all right, everything's all right...</utterance>
+   <speaker>ELLEN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Let's go, everyone... Mrs. Bryant, Len, please...</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="14">
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Brody's a good man.</utterance>
+   <speaker>KAISER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody says he isn't.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You should've been out there. You should've seen him waving that gun, like a maniac. There were shots fired!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He thought he had a good reason.</utterance>
+   <speaker>MS. NICHOLS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But that's not rational behavior!</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what I'm saying!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many people were there?</utterance>
+   <speaker>MS. NICHOLS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hundred! Literally hundreds. What are they going to say about us?</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Larry, I'm a businessman, trying to make a buck like anybody else.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So? So?</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So it can't be done like that. The man's a menace, plain and simple.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, what am I supposed to do? It's done, it's over. We have to deal with the consequences.</utterance>
+   <speaker>SANSOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what we're here to do.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right. Let's go into my office, where we can have a little privacy.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="5">
+   <speaker>PHIL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know what you did, but that kid stopped. I haven't heard one peep, not one 'breaker breaker' for days. Believe me, it's a pleasure...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You said something about a camera.</utterance>
+   <speaker>PHIL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure, sure -- Jeff Hendricks brought in this camera, see, from underwater, and I didn't know how to get it open, but my brother-in-law, in Montauk, he works at a hi-fi store, and they sell cameras, so he...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you get any pictures?</utterance>
+   <speaker>PHIL</speaker>
+      <mode></mode>
+      <context>He holds out an 8 x 10 proof, Brody snatches it from him.</context>
+      <utterance>Well, yeah, I did, that's the funny thing. You can't tell much from the negatives, I was going to blow 'em up. Here's a test I did...</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="5">
+   <speaker>PHIL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not bad -- that's a real fast lens, probably 1.4. Look at the diffusion, though...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What else you got?</utterance>
+   <speaker>PHIL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's see -- you got a minute?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, Phil, don't jerk me around.</utterance>
+   <speaker>PHIL</speaker>
+      <mode></mode>
+      <context>He gestures, Brody steps to one side of a table with some big enamel pans for washing and developing prints. Phil switches to a red light, and takes some printing paper, putting it under the enlarger.</context>
+      <utterance>Okay, okay -- stand over there...</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="16">
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context>Brody enters, carrying the envelope with the photo.</context>
+      <utterance>Speak of the devil.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank God you guys were all together. I got something for you. Proof!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Martin, this is kind of an official meeting</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perfect. Look at this --- He fumbles with the envelope.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chief -- the Board of Selectmen has a question only you can answer.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is Jeff Hendricks qualified to fill in as an interim Chief of Police in your absence?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Temporarily? Uh... sure... The question's out of left field. Why are they asking?</utterance>
+   <speaker>NICHOLS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So Jeff could handle things? He knows the routine, he has the authority?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. Why?</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It came up during the meeting.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He throws the picture down in front of them. They bend over to study it, pass it around, look at it.</context>
+      <utterance>Look -- I just got this from Phil Fogarty. It was in the camera belonging to the missing divers. It proves I was right, all along.</utterance>
+   <speaker>KAISER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seaweed?</utterance>
+   <speaker>NICHOLS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's underwater, isn't it? That's why it's so dark.</utterance>
+   <speaker>SANSOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know -- what is it?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He snatches up the photo.</context>
+      <utterance>It's a shark! A Great White! Jesus, it's right there!</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="20">
+   <speaker>VAUGHN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>It's nothing I can see.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you all, blind? It's a shark. Look -- teeth, jaw, gills.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that what it is?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're damn right that's what it is.</utterance>
+   <speaker>NICHOLS</speaker>
+      <mode></mode>
+      <context>Sansom and Kaiser agree, ad lib, "That's nothing..."</context>
+      <utterance>I'm sorry, I just don't see it.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Martin, it could be anything.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell does it take to make sense to you numbskulls? Jesus, it's right there in front of you. I know what a goddamn shark looks like, I've been through it, don't you understand? I've seen this sonofabitch before! The Selectmen look at each other in the face of Brody's agitation. Tempers are running high.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What have you seen before? This is nothing. Seaweed. Mud. Something in the lens.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My ass!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be reasonable, please...</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget it, he won't listen.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There is nothing to discuss.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you listen to this man? Will you just listen to him?  You really caused a panic on a public beach, you shoot up the place, God knows who could've been injured -- what if somebody decides to sue us? That could ruin us.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that what it is? Dollars? Money? I'll pay for it. Take it out of my salary.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't make enough.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe I don't make as much money as some bullshit rip-off artists around here, but I don't work the same way.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that supposed to mean?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>There's a long pause.</context>
+      <utterance>It means I don't like all that grab- ass and heavy breathing with my wife, it means I know who's out to screw me here, and it means that I know something none of you know because I've been there -- and I don't want to go through that horror again. Ever!</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Martin, could you wait here for a few minutes while we make up our minds about something?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>The Selectmen file into Vaughn's office, leaving Brody alone in the room. The last one in the door very carefully makes sure it's tightly shut. Brody sits alone at the table.</context>
+      <utterance>Go ahead, whatever it's worth.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="8">
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't mention his personal attack on me.</utterance>
+   <speaker>NICHOLS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've never seen him like this.</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And Hendricks is qualified, you heard that from his own mouth.</utterance>
+   <speaker>KAISER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We made a motion and it was already seconded.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>All the hands go up.</context>
+      <utterance>Very well then. It is moved and seconded that Martin Brody be relieved of his duties as Chief of Police, his contract with the township be terminated, and that Jeff Hendricks be appointed Acting Chief in the interim. Those in favor?</utterance>
+   <speaker>PETERSON</speaker>
+      <mode></mode>
+      <context>Vaughn's hand goes up, the sole dissent. They stare at him.</context>
+      <utterance>Anyone opposed, or is it unanimous?</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context>He goes to the door, and opens it.</context>
+      <utterance>I'm sorry, but I respect his convictions. The motion is carried.</utterance>
+   <speaker>VAUGHN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Martin? Could you come in please?</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="23">
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi. I closed a sale today, without Len. That's $1200 commission, if the papers go through.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's great.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sean's asleep.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He takes a long look at her.</context>
+      <utterance>That's great too. Gorgeous.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He goes to join her, bumping into some furniture in the dimly lit room. Ellen has a beer and sandwich half-finished on her desk; Brody takes a healthy swallow from the beer.</context>
+      <utterance>You look about 22 years old sitting there. Like you were doing homework...</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's wrong?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He tosses the photo sloppily on the desk.</context>
+      <utterance>Ooohh, nothing. I just got fired, that's all.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'd I say?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That you were fired.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then that's what I meant. Fired. Canned. Out on my fanny. The Selectmen just made Hendricks the new Chief of Police. Just like that.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because of today? The beach?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No sweat. A blessing in disguise. Back to the city, you can go to Bloomingdale's without waiting six hours for the ferryboat... we're surrounded by water here, you realize that? Me, surrounded by water... Ridiculous.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop that! We're not going any place. You love it here. Tell me what the hell happened!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Showed them the photo, showed them the goddamn Shark, big as life. They didn't see it. Not like me. Not like the poor son-of-a-bitch who snapped this li'l picture... He's out there, somewhere... I shot off my gun, shot off my big mouth, so they fired me...</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honey, this is nothing... I don't know what it is. What did they...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Everybody wants the job. No one wants the authority. Except Hendricks. Fine. He can go out there in that precious boat, and when he looks whitey in his big mouth he can just call me. Call me in New York... tell him to kiss my ass...</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They have no right to treat you like that. You've given them everything. For four years, you've protected this town, the people on this island...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fired me!  I'm not a hysterical man. I'm responsible. I know what I saw...</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know you did...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Brody's slipping under; the beers and the day have finally overcome him. He slumps in Ellen's arms.</context>
+      <utterance>I try. Goddamnit, I tried... Now, I'm tired... I can't keep fighting it... I'm too tired... I'm... I'm...</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>She eases him onto the couch, tucking a comforter over his inert shape.</context>
+      <utterance>You're drunk is what you are...</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it easy... Easy...</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="3">
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>Sean finds the photo, and stares at it idly.</context>
+      <utterance>Shhhh. Go back upstairs. Daddy's sleeping.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's this?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>She takes him by his sleepy hand and leads him out of the room, leaving Brody tucked in on the couch, dead to the world.</context>
+      <utterance>Nothing, sweetheart. Seaweed.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="23">
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what I want -- a gaff rig.</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gaff rigged? Why not a staysail schooner? Go anywhere. Look at this -- the Mayan, an Alden schooner.</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Mike -- I saw your dad over at the town hall.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did he really freak out at the beach?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>No one does. There's a bustle at the door, and some couples enter from the movies: Patrick and Lucy, Ed and Tina, Polo and Jackie. There are a lot of ad-lib greetings;</context>
+      <utterance>Hey, it's all bullshit. Anyone want to play pong for money?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How was the show?</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yech.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was okay.</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd rather go the lighthouse.</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who wouldn't.</utterance>
+   <speaker>POLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyone want to go the lighthouse?</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now? At night?</utterance>
+   <speaker>POLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nah. Tomorrow. Early, spend the day. My folks left two cases of beer in the garage.</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it still there?</utterance>
+   <speaker>POLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope. Got it in my boat.</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All-right.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>There's a general ad-lib agreement to organize a day's sailing picnic.</context>
+      <utterance>Let's go for it.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mike, you going?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why shouldn't I?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context>Laughter from the gang.</context>
+      <utterance>I thought you might still be painting the restrooms at the beach.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context>They break up into pairs and trios, some going for the soda fountain, others hanging out by the magazines.</context>
+      <utterance>Anyone want a coke or anything?</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="12">
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd like to go out to the lighthouse with you.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure I can.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It'll be fun, come on!</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you and Brooke could come over to the town beach...</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No way. Everybody's going sailing. If you don't want to take me, just say so.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not it. My dad told me not to go.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You do everything your parents tell you?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>They ad lib agreement.</context>
+      <utterance>Good. I'll be on the dock at eight.  Eight o'clock, everybody!</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>Brooke takes Mike aside, as Jackie goes to the jukebox. Larry is right there with a quarter, standing next to her as they select a tune.</context>
+      <utterance>I really want to to be there.  Who's bringing the wine? And who's got a quarter for the box?</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She just likes to tease. I think she really likes you.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Some rock music starts, and we:</context>
+      <utterance>Great.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="10">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going out.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going sailing.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take me.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to go with you!</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Quiet! Shhh!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Michael...</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Sean does, and happily tiptoes with exaggerated stealth to Mike; the two of them start downstairs.</context>
+      <utterance>Okay, okay. Close your door.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="11">
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're you going to do today?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Turn in the car. Clean my desk, explain things to our sons, then maybe get shit-faced and punch your boss.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll give notice.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>She pours the coffee, they drink it for a moment.</context>
+      <utterance>Don't rush into it -- we may need the income.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Ellen and Brody sip their coffee quietly for a few moments. Mrs. Silvera arrives, carrying groceries.</context>
+      <utterance>Mike left early. Couldn't wait to make out. Must be a morning man.</utterance>
+   <speaker>MRS. SILVERA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Morning. Anything special today?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sean's not up yet. You know what he likes, just some Fruit Loops and milk. No candy.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The sink upstairs is busted. Try some Drano, or a plunger, maybe. Or call your brother, the plumber, what's his name...</utterance>
+   <speaker>MRS. SILVERA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frankie. He's my cousin.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Brody and Ellen are at the door.</context>
+      <utterance>Frankie. Okay. Ask him if he needs an apprentice.</utterance>
+   <speaker>MRS. SILVERA</speaker>
+      <mode></mode>
+      <context>They leave.</context>
+      <utterance>Have a nice day.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="41">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you're beached, why are we doing this? For practice?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Sean knocks something over, Mike snaps at him.</context>
+      <utterance>Then why are we futzing around the dock? We can make a few bucks working at the beach.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look -- if you're going to get in the way, you can just go home.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not in the way. Andy, am I in the way?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Marge joins them, scooping Sean up.</context>
+      <utterance>You're always in the way.</utterance>
+   <speaker>MARGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This guy giving you any trouble?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Put me down!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Put him down in the water.</utterance>
+   <speaker>MARGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to go out in my boat?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you take him?</utterance>
+   <speaker>MARGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Marge and Sean go over to her Lightening. Brooke and Jackie come down the dock, dressed for sailing.</context>
+      <utterance>You've just made someone very happy.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mike! Are you going out?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you were grounded.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can go out if I want to.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can?</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You going to the lighthouse?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I could give you a dozen good reasons.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, okay, don't say I didn't remind you.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>Mike looks: Andy, Jackie, Brooke, himself... Timmy moves in, sensing the chance of a lifetime.</context>
+      <utterance>Is there room on your boat for all of us?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Timmy makes his move.</context>
+      <utterance>Well, we're pretty crowded, and I don't know when we're leaving...</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got room.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great.  That's okay -- I'll go with Timmy.</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You will?</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context>And she walks towards his boat, looking back for him to follow. He's dumbstruck by his sudden good fortune.</context>
+      <utterance>Sure.</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context>He runs to join her, untying mooring lines like crazy; they're together again at last for the first time. Andy is left shuffling with Mike and Jackie.</context>
+      <utterance>Fan-tas-tic!</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>And she plops down in Mike's boat, ready to be taken. Anywhere.</context>
+      <utterance>I'm ready.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, you guys.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Jackie flashes him one of her pouty little smiles. Why break one heart when you can break two? Or more?</context>
+      <utterance>Well, I don't know...</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>Mike is glaring. The message is clear, if unspoken.</context>
+      <utterance>Please come with us?</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For me...?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Andy joins them. Mike casts off, while Andy helps, and Jackie sits there, looking cute.</context>
+      <utterance>What the hell. For you...</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you said she was going with us?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's just go sailing, okay?</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Want to talk about it?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context>Bob gets the message and shuts up. The Sizzler fills its sails, and points out of the harbor.</context>
+      <utterance>Want to swim home?</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="8">
+   <speaker>ANDREWS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey! Nicholas! You're supposed to be in class!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Today I'm staying topside. You dive for me!</utterance>
+   <speaker>ANDREWS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going for lobster.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great! Find one for me.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Andrews dismisses them with a good-natured wave.</context>
+      <utterance>With butter, if they got any...</utterance>
+   <speaker>ANDREWS</speaker>
+      <mode></mode>
+      <context>He turns to his class.</context>
+      <utterance>So long, turkies.</utterance>
+   <speaker>ANDREWS</speaker>
+      <mode></mode>
+      <context>The class dutifully lines up and starts going in, while in the b.g. the Kids sailboats head out to sea. Andrews' two partners, Crosby and Sparky, get ready to follow the class over.</context>
+      <utterance>Sparky will take you down today. If everyone's got a buddy, we'll drop.</utterance>
+   <speaker>CROSBY</speaker>
+      <mode></mode>
+      <context>He goes over, Andrews following. Sparky is with the class, signaling "Down;" they submerge like clumsy seals.</context>
+      <utterance>Let's get some dinner.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="17">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to tack, or just leave her pointed up like this?</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just like this.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about sailing?</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The tide's running. It'll take us to the light.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Ed is lashing the rudder as they continue to drift with the current.</context>
+      <utterance>It'll take us to Budapest if you're not careful.</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context>He fumbles in a cooler chest, produces a bottle of wine.</context>
+      <utterance>First things first.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about the others?</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They'll be there when we get there. Might even have a fire started.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're we going to do in the mean time?</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context>He pours the wine into the two paper cups.</context>
+      <utterance>I dunno. We'll think of something.</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But first, a little juice...</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And second?</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mmmmmm.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute. Promise me something.</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anything. Anything.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That you'll put down a blanket. I've got black and blue marks all over my butt, and my Mom's getting uptight about them.</utterance>
+   <speaker>ED</speaker>
+      <mode></mode>
+      <context>And he fumbles for a blanket in a locker, thumping and banging gear around as he rummages for it. Tina sips wine contentedly, satisfied to wait.</context>
+      <utterance>You got it.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="2">
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Faster! Faster!</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context>She ducks under the boom, handling the jib sheets with easy familiarity. They come about and scoot off on a new tack.</context>
+      <utterance>Coming about...</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="3">
+   <speaker>MARGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Coming up.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Slowpoke! Slowpoke! Marge is faster!</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm getting new sails, then watch out. Just a question of modifying the rigging!</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="4">
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wheee! Faster!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How fast is enough?</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to go faster!</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>He trims his sheets, the cat heels more, one hull flying, Andy and Jackie clinging to the trampoline.</context>
+      <utterance>Hang on...</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="4">
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You coming up on him?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context>They gybe sharply, running up behind the green cat.</context>
+      <utterance>You bet. Hang on...</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Coming up! Give way!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like hell! We're on the starboard tack!</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="3">
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>Mike and Larry silently fight for clean air, racing. Water splashes over them.</context>
+      <utterance>Don't let him pass. Faster!</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My hair's getting wet!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So's mine.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="6">
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When do we get to the lighthouse?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Soon, dark eyes, soon.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Andy reveals a knowledgeable side to his character.</context>
+      <utterance>The tide's turning.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Jackie snuggles against Mike.</context>
+      <utterance>We're going to be fighting the current.  Wind's backing around a few points, too.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't wait to get there.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>He goes forward to trim the jib, leaving the lovebirds snuggling astern. They pull away from us, and we:</context>
+      <utterance>But of course.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="2">
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey -- it's not your job any more. I'm going to be late for work.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He gets out, and pushes through the crowd, Ellen following.</context>
+      <utterance>Just one minute...</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="15">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell happened?</utterance>
+   <speaker>SPARKY</speaker>
+      <mode></mode>
+      <context>He is near collapse himself.</context>
+      <utterance>Embolism. Air bubbles in his blood. Came up too damn fast. Held his goddamn breath!</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Easy...</utterance>
+   <speaker>CROSBY</speaker>
+      <mode></mode>
+      <context>An Ambulance Attendant is putting a blanket around Sparky.</context>
+      <utterance>He panicked! Something scared him!</utterance>
+   <speaker>ATTENDANT</speaker>
+      <mode></mode>
+      <context>The other attendant holds something out to Brody. Brody examines it; a scuba mouthpiece, bitten in two, useless.</context>
+      <utterance>It's okay. We're taking care of him.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How'd this happen?</utterance>
+   <speaker>SPARKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bite reflex, like a spasm.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right after, the Kids went out?</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What Kids? Who went out?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All of them. Mike, Junior Vaughn, Brookie Peters, Pat, Lucy -- all that whole gang.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mike? Our Mike?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yep. Looked like they were headed to the lighthouse.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long ago?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>Brody is gone, pushing through the crowd.</context>
+      <utterance>About an hour, maybe two.  Let's see -- I came on about eight...</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="19">
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What're you doing?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Going out.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>Brody keeps working, making ready for sea.</context>
+      <utterance>Uh, Chief -- look. You're not Chief any more.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't let you take her out.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Ellen is climbing aboard, taking off her heels.</context>
+      <utterance>You can't stop me.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Brody, look -- if he can't go, then you can't go. Neither of you can go.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mike's out there.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>Brody starts the engines with a roar, and slams it into reverse. The boat starts out of the slip, then lunges to a halt, shuddering on its still-fastened bow mooring line.</context>
+      <utterance>But I signed for the boat. You're not authorized any more.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Untie that rope.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please. It's my job.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>And she moves purposefully towards the boat cleat.</context>
+      <utterance>I'll do it.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>Brody is shifting gears, the boat is crabbing sideways as he puts the helm hard over. It bumps the dock, hard.</context>
+      <utterance>Mrs. Brody, please...</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're too close. Back off.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Hendricks goes to the bow, jumps aboard and frees the bow line. The boat slips into reverse, the water boiling as Brody guns it away from the dock.</context>
+      <utterance>Goddamnit, Hendricks, untie the rope there.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context>He takes the wheel, eases off on the rudder, and comes about, pointing the launch out to sea.</context>
+      <utterance>Let me. Please.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hurry, please.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell, they can't fire both of us -- someone's got to be in charge, right? Which way are we going?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Find the Kids. The lighthouse -- you said something about the lighthouse. Get us there.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="11">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amity Launch to Harbor Patrol, over.</utterance>
+   <speaker>HARBOR PATROL</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Harbor Patrol. Is that you, Brody?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Affirmative. Can you get your chopper airborne?</utterance>
+   <speaker>PATROL VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>10-4, in a few minutes. He's down checking a buoy in the Bay Channel.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get him the hell over to Amity Point, the old lighthouse. Right now.</utterance>
+   <speaker>PATROL VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What for?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a bunch of Kids day-sailing that way. Turn them back to port.</utterance>
+   <speaker>PATROL VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's it?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's it. Just do it, all right?</utterance>
+   <speaker>PATROL VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>10-4, soon as I can raise him.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If they're not at the light, look for them. I don't want them out there. Get them back to port!</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="3">
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hungry?</utterance>
+   <speaker>DENISE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Starving. Let's go eat now.</utterance>
+   <speaker>DONNIE</speaker>
+      <mode></mode>
+      <context>She nods agreement, their boats veer off from the rest and head towards the lighthouse.</context>
+      <utterance>We're going in to eat!</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="15">
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey! Brody! Want to race?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How about a side bet to make it interesting?</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's fun! Let's race for something!</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Name it.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Loser sails home alone.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're betting what you already got.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't care.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love it.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure you do -- you win either way.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm supposed to.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a bet. Once around the marker buoy?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Larry is confident -- he's got the air, but Mike suddenly gybes without warning, snapping onto a new fast tack, downwind. Larry and Bob are caught by surprise, and lose precious moments as they fumble with their sails.</context>
+      <utterance>That's the pin -- the buoy.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Turkeys! Eat wind!</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>He pounds with glee on the canvas trampoline as their boat moves ahead, a drumming sound.</context>
+      <utterance>Yee-hah!</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="11">
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context>Brooke and Timmy sail by him, laughing; Polo with them.</context>
+      <utterance>Hey! Wait for the H.M.S. Invincible!</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't -- we're watching a race!</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Since when? Who's racing?</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Larry and Mike!</utterance>
+   <speaker>PATRICK AND LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pat and Lucy are trimming sail, moving faster.</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mike and Larry are racing! Loser goes home alone!</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If we beat them, they can both go home stag! Single-O! Alone! Jackie can come back in this boat!</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about me?</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh. Well. Maybe you could give Polo a hand going in...</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your ass I will. Besides, the wind's turning with the tide. Sailing back is going to be a bitch.</utterance>
+   <speaker>QUICK CUTS - SAILBOAT RACING MONTAGE</speaker>
+      <mode></mode>
+      <context>-- Catamarans heeled over, racers hanging over the water, dangerously suspended in trapeze harnesses. -- Skippers' faces, concentrating on boat handling.</context>
+      <utterance>-- Ropes and sails rattling through blocks. -- Sails snapping taut, filling with wind.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="9">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your dad must be really pissed.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We better go back in.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not going to be easy.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's wrong?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're fighting wind and current. I though we'd be out longer, catch the incoming tide.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Putz -- that won't be for hours.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was counting on hours.</utterance>
+   <speaker>CHOPPER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Return -- to -- port.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>He waves acknowledgement, and puts about. The others take their cue from him, and set a rough course back, but without much success.</context>
+      <utterance>We're trying, we're trying.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="2">
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heading back?</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Might as well.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="8">
+   <speaker>POLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're turning around.</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Coming about, then.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are we going back?</utterance>
+   <speaker>MARGE</speaker>
+      <mode></mode>
+      <context>She puts about, the three of them start back towards the lighthouse, not making much headway. Doug's inflatable is the slowest, and he is now, by virtue of his position, at the head of the line beating back towards the island.</context>
+      <utterance>Going to try. Lighthouse, everybody...</utterance>
+   <speaker>DOUG'S BOAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The others in the b.g.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Make way for the Carrier Enterprise!</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>looking down in dismay.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context>He rigs a little foot pump, and begins thumping away, trying to breath air back into the raft.</context>
+      <utterance>Make that the Titanic.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="2">
+   <speaker>PILOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Patrol One to Base. Looks like they're turning back.</utterance>
+   <speaker>CONTROL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, Patrol. Go back to work. You've wasted enough time.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="14">
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Michael?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Hendricks maneuvers closer, slowing the engine, reversing in time to bring them alongside with a gentle bump. Ellen watches apprehensively as Brody drops into the little boat.</context>
+      <utterance>It's not his boat.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be careful...</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anything?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Brody moves around on the deck of the Sandpiper, until he discovers Tina, cowering in shock; a sudden revealing of a terrorized victim.</context>
+      <utterance>Nope...  Hold on...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tina!</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>N-o-o-o-o-o-o...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay, it's okay. What's the matter? Tina? Honey? Hey --</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! It's still there!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it? What's there?</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's still there!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Hendricks has gotten a blanket, and he steps over, putting it over the shivering girl's shoulders. Ellen comforts the girl.</context>
+      <utterance>I need a hand here...</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tina, baby... what is it?</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sh... Sh... Shark...</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="8">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He moves abruptly, stepping up onto the police launch, snapping on the radio, leaving Hendricks, Ellen and Tina on the sailboat moored alongside.</context>
+      <utterance>I knew it. I goddamn well told them.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amity Launch to Harbor Patrol.</utterance>
+   <speaker>PATROL COMMANDER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>This is Cape Patrol -- what is it, Brody? I heard you weren't chief anymore.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Skip that. What about those kids out sailing?</utterance>
+   <speaker>COMMANDER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>It's all okay -- Colby got to them. They were turning back when he left 'em.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He left them?</utterance>
+   <speaker>COMMANDER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Sure. He's got work to do in Bay Channel.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>His eyes wild, Brody looks over at the Sandpiper, then scans the nearby waters with sudden tension.</context>
+      <utterance>Get him the hell back there! We got possible fatalities! Brody out...</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="14">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going out there.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey -- you can't do that.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it? What's the matter?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Brody starts the launch's motor, throwing clear the mooring line that ties the two boats together.</context>
+      <utterance>Mike's out there.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get her in. Get them both in.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Martin, please!</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chief, be sensible...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are they?</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About 10 degrees off your starboard bow, take a heading leeward of Sand Island, and lay her north by northeast...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Hendricks complies.</context>
+      <utterance>Never mind that shit. Just point.</utterance>
+   <speaker>HENDRICKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See where Cable Junction is? Look to the left. The lighthouse. That's it.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>And he kicks the engine into gear, moving the launch away and out toward the sea.</context>
+      <utterance>Got it.</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context>He guns the engine as soon as he's clear. Hendricks gives his jacket to a suddenly chilled Ellen, and hails the cabin cruiser, already changing course to pick them up, sounding its horn. Ellen stares after the receding boat.</context>
+      <utterance>Come back! Martin!</utterance>
+   <speaker>ELLEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My purse is on that boat.</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="10">
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context>Despite his pumping, the bulging patch bursts with a loud bang.</context>
+      <utterance>England expects every man to do his duty... You may fire when ready, Gridley... Damn the torpedoes, full speed ahead...</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, shit.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Someone pop your balloon?</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No problem, no problem.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Want a lifesaver?</utterance>
+   <speaker>MARGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How about a skyhook?</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context>A fin rises partially, almost invisible to most of the kids, but Mike notices it, believing it to be a porpoise.</context>
+      <utterance>You sail your boat, I'll sail mine.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Fetterman -- You got company.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context>Before anyone can react, the shape rises behind Doug, striking his raft a terrible blow.</context>
+      <utterance>Company? The place is a mess...</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoops.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="6">
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>He sails to where Doug is being carried along by the current. The inflatable is a mess -- shredded rubber and dead engine; the Shark didn't like it.</context>
+      <utterance>Doug's down!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Doug carefully -- oh, so carefully -- strokes over to where Mike and Andy can pull him abroad. Some of the others sail closer to get a look.</context>
+      <utterance>Doug! This way!</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was that about?</utterance>
+   <speaker>MARGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You okay?</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was that?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So much for the rubber duck.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="5">
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A shark ate my boat.</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm telling you, a goddamn shark ate my goddamn boat!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>There's nervous laughter from all around as they examine the remains of Doug's inflatable. Some of those jagged rents could be made by teeth...</context>
+      <utterance>If he liked your boat, I got some sneakers he'll love.</utterance>
+   <speaker>KIDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Jeez -- what did that?... A porpoise, maybe...Nah, killer whale... I think he snagged it... I hate to pop his balloon...</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="6">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>He reaches towards a drifting line, and pulls Timmy's Doughdish towards them, tying it off as it comes close.</context>
+      <utterance>Raft up! Raft 'em up!</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tie off to your strongest point.</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context>Polo has Mike and Timmy aboard his boat. Timmy is looking up from examining Mike's dazed body.</context>
+      <utterance>Anyone need an extra line?</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mike's bleeding!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you sail?</utterance>
+   <speaker>POLO</speaker>
+      <mode></mode>
+      <context>He starts to make sail back towards the lighthouse, on a severe, but manageable tack. Polo, Timmy, and the injured Mike sail towards safety, leaving the others behind. Tackle the job at hand, concentrating on survival. Jackie is strangely quiet; things are out of control...</context>
+      <utterance>Yeah! We'll take him in!</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="9">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amity Launch to Patrol Air Unit One. Harbor Air, where are you?</utterance>
+   <speaker>CHOPPER PILOT</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>This is Air One. That you, Brody?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's me. Any fix on those Kids?</utterance>
+   <speaker>PILOT</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Negative. I'm still down.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For Christ's sake, get going! I'm all alone out here!</utterance>
+   <speaker>PILOT</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Brody, I got to switch frequencies, call my boss. We'll meet you over by Francis Shoal. Harbor Air out...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Static. No answer. Brody realizes something</context>
+      <utterance>Where the hell is Francis Shoal?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm all alone out here.</utterance>
+   <speaker>RUNBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Amity Police Boat, under full power, surging through the heavy swell, Brody very much alone at the helm.</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="2">
+   <speaker>CLOSE ON BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>staring, perplexed. Which way?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He puts the wheel over, slewing the boat around. To the left -- the wrong way.</context>
+      <utterance>Shit.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="24">
+   <speaker>MARGE</speaker>
+      <mode></mode>
+      <context>Larry, Bob, Patrick, and Lucy (the practiced sailors) ad lib equal dissatisfaction.</context>
+      <utterance>Damn!</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's wrong?</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tide doesn't turn for three hours.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Low tide at Cable Junction is 7:46 p.m.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'd you do? Memorize the tide tables?</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't help it, it sticks in my mind.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context>No one does.</context>
+      <utterance>Anyone want to play charades?</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As long as we're drifting, might as well go with the flow.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not funny.</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three knot current?</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At least. And an offshore wind.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's after Cable Junction?</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Atlantic. Then Ireland.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>Silence from the group.</context>
+      <utterance>Can't we stop?</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're probably looking for us.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about the fish?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe it's gone.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context>They consider this.</context>
+      <utterance>They tend to follow moving things. Maybe it's following Polo and Timmy.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So all we have to do is land at Cable Junction and wait.</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>First we got to get there.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How're we going to do that floating on this garbage...?</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context>The Kids scramble to rig whatever canvas is available.</context>
+      <utterance>Anyone got another set of sails?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that big thing still out there?</utterance>
+   <speaker>MARGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shhhh.</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="3">
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey!</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context>The Kids react with enthusiasm to the arrival of the rescue chopper.</context>
+      <utterance>Over here!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>But they ignore him. The copter is descending.</context>
+      <utterance>Don't everyone jump around!</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="6">
+   <speaker>PILOT</speaker>
+      <mode></mode>
+      <context>The Kids ad-lib in the affirmative.</context>
+      <utterance>Everyone okay? Any injuries?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you put us on Cable Junction?</utterance>
+   <speaker>PILOT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got no room for passengers.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>The Pilot nods. Larry heaves a line to him, the Pilot catches it and makes it fast to a convenient tie-off on the undercarriage.</context>
+      <utterance>How about a tow? Can you rig that?</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As soon as you get us on the island, you got to call in. My dad's the mayor...</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>The other Kids all chime in, adding their ad-lib shouts describing what happened, calling for help, etc. It's all a noisy jumble, the Pilot ignores it, trying to do his job.</context>
+      <utterance>There's a shark...</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="2">
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have to take us off! You have to! Why don't you take us!</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's an observation spotter, he doesn't have the room...</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="2">
+   <speaker>PILOT</speaker>
+      <mode></mode>
+      <context>He climbs into his bubble, shuts the door, gives the Kids a "thumbs up," and starts the engine.</context>
+      <utterance>Listen. I'm going to give you an assist to get you on Cable Junction. Then I'll call in, and get the Coast Guard to send a cutter. Hang on to something.</utterance>
+   <speaker>QUICK CUTS - RAFT AND CHOPPER</speaker>
+      <mode></mode>
+      <context>A line tied off to one of the ringbolts on an overturned hull; it pulls taut out of the water.</context>
+      <utterance>Engine turning over.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="2">
+   <speaker>THE RAFT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kids screaming.</utterance>
+   <speaker>QUICK CUTS</speaker>
+      <mode></mode>
+      <context>-- Pilot's hands jerked on the delicate controls. -- Med. shot, copter shaking. -- Closeup engine and gas tanks, rotor head spinning. -- Med. closeup Pilot in buffeting cockpit.</context>
+      <utterance>-- Rotor blade spinning wildly.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="2">
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look out!</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No-o-o-o! The Shark reappears, and batters at the raft.</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="2">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>He and Marge topple into the water.</context>
+      <utterance>Help!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Sean is bobbing in his life-vest, Marge strokes to be near him.</context>
+      <utterance>Don't struggle!</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="3">
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sean! Sean!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't move!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy! Please help! Help!</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="13">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>Static, no answer. He tries a couple of times, checking the knobs and dials to make sure the unit's working.</context>
+      <utterance>Harbor Air, this is Brody. Air One, come in.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Harbor Air, do you read? Over?</utterance>
+   <speaker>PATROL VOICE</speaker>
+      <mode></mode>
+      <context>The familiar voice is tinged with annoyance. He's had a long shift, and nothing's going right.</context>
+      <utterance>Brody? This is Patrol Base.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where the hell is Air One?</utterance>
+   <speaker>PATROL VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what I'd like to know. Lost transmission at Cable Junction.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did he raise the Kids?</utterance>
+   <speaker>PATROL VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Last transmission said ten juveniles.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah? Then what?</utterance>
+   <speaker>PATROL VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then nothing. If you see him, tell him to switch to an operational frequency, or give me a status report yourself.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you say Cable Junction?</utterance>
+   <speaker>PATROL VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what he said.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When?</utterance>
+   <speaker>PATROL VOICE</speaker>
+      <mode></mode>
+      <context>Brody revs up, and powers out, headed for Cable Junction.</context>
+      <utterance>1530 hours. Might still be there. Base out.</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="15">
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sean! Catch the rope!</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context>The others shoot fearful glances at the waters.</context>
+      <utterance>The rope! The rope!</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's got to help or it won't work.</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context>Sean is ignoring the efforts to rescue him, paralyzed by fear, he shivers alone. Jackie is near catatonia herself, Brooke and Doug trying to soothe her.</context>
+      <utterance>Sean, baby, please...</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It killed her. It ate her.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shh. Shhh...</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay, it's okay...</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>The kid looks up dully.</context>
+      <utterance>Sean! Listen! Listen to me, Sean.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goddamn it, Sean, you listen to me or I will kick your ass, do you hear me?</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen to Andy, Sean.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Sean nods. The other Kids are encouraged. The rope is thrown -- it misses.</context>
+      <utterance>We're throwing a rope and you better catch it, hear?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Bob climbs to a vantage point, watching.</context>
+      <utterance>Keep an eye out for that fish.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Throw it.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Another miss. In his haste to help, Larry overreaches to fish the trailing rope out of the water, and falls headlong into the sea. Shrieks of fright from the others.</context>
+      <utterance>Sean! Catch it!</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context>He scrambles out, hardly wet, that's how fast he's moving. Finally -- Patrick takes the crucial throw, and the rope practically knocks Sean off his perch, but he clutches and holds it. As Andy carefully calls instructions, Sean secures the rope and the others carefully, carefully begin to pull him in.</context>
+      <utterance>Larry!</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="3">
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cable Junction's ahead!</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can we make it?</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="8">
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context>She's not. Shaking, silent, eyes glazed.</context>
+      <utterance>You okay?</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dear Jesus, Holy Mary, Mother of God, help us, please...</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Keep her warm.  Jackie? Baby?</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context>Andy joins him, and they try to make a sweep or a rudder out of whatever wreckage they can use.</context>
+      <utterance>Can someone help me rig a jury rudder? We might steer this...</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By 7:46, when the tide turns around, we'll be twenty miles out. More, with this wind.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't stop thinking!</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God, please help us, Merciful Father, in Christ's name, we beg you, help us, please, Dear God, save us, help us, please, God, help...</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="19">
+   <speaker>POLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Over here! Yo!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>The launch slows clumsily. Timmy gets a line around a cleat, and pulls them fast.</context>
+      <utterance>I'm coming alongside!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mike? Is that you?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pop. I'm sorry.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay. What happened?</utterance>
+   <speaker>POLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A shark hit us out there.</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context>Brody goes for his radio, to report in, to call for help.</context>
+      <utterance>Mike got knocked over.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I passed out, but I'm okay.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>The three boys look at each other.</context>
+      <utterance>At least you're safe. What about the others?</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus, don't freeze on me. What about the others?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sean's still out there.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He stops in his tracks, radio forgotten. heartsick. Mike goes on,</context>
+      <utterance>What?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He wanted to come. It was okay, wasn't it? It was okay before...</utterance>
+   <speaker>POLO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The others are ratted together. Drifting.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which way?</utterance>
+   <speaker>TIMMY</speaker>
+      <mode></mode>
+      <context>Brody jerks the mooring line holding them together, freeing it. He starts for his controls, obsessed.</context>
+      <utterance>With the current. Towards Cable Junction.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad, I'm sorry...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He indicates the lighthouse, then guns his engine.</context>
+      <utterance>Stay here. Don't go anywhere. Just stay here.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He roars off, headed towards Cable Junction.</context>
+      <utterance>Stay at the lighthouse!</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="19">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bring her to port a little. That's it -- steady.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think we're changing course a little.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can we land on it?</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If we can get to it.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're going to die.</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all right, we're okay.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>More to port.</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all the way over.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are we going to go on the island?</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You bet, kiddo.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell, we're steering for it.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The wind drift is lateral.</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that mean?</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context>His hands illustrate the predicament.</context>
+      <utterance>Sideways -- For every yard we go this way, we also slide sideways this way...</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But we had it! We were headed right for it!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit. Shit, shit, shit!</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context>The others are silent. It's true.</context>
+      <utterance>We're going to miss it!</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="4">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't!</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop paddling!</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But the island!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>They freeze, as the raft grinds against something.</context>
+      <utterance>The Shark.</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="12">
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're hung up on something.</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe the bottom.</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's that thing. It's going to kill us now... We're going to die!</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up! Just shut Up!</utterance>
+   <speaker>BROOKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leave her alone!</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lighten up, man...</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's bad enough without her freaking out.</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's hysterical, goddamn it!</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context>The group dissolves in bitter exchanges. No one is rational. Lucy is the first to notice something...</context>
+      <utterance>Don't yell at her!</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context>The group subsides, only Jackie is left, keening to herself. There's a distant sound of a boat's engine. Bob spots it first, and waves. The others follow his pointing finger.</context>
+      <utterance>Wait a minute! Listen! Listen!</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Over there! Coming this way!</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="7">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Easy, easy -- you'll swamp us!</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context>Brody fumbles with the throttle, manages to hold his boat steady between the raft and Cable Junction island.</context>
+      <utterance>Back down!</utterance>
+   <speaker>LARRY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're hung up here. Snagged.</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context>Brody finds a coil of line, makes one end fast, then throws it to the Kids on the raft. They catch it, and tie it off to a cleat.</context>
+      <utterance>Can you get us a line?</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We got it!</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go ahead, slow.</utterance>
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context>Brody throttles forward, the police boat shudders under the strain as the line goes taut.</context>
+      <utterance>Be careful.</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="2">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Too late. The cleat rips out, Brody's boat leaps forward.</context>
+      <utterance>Whoa!</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come around again!</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="2">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hang on, hang on -- we got it. You're on!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>Brody starts to pull the raft again, when:</context>
+      <utterance>Dad! Help!</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="5">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hang on!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad! Dad!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He climbs over the rail, onto the slippery wet rocks, trying to get to where he can help. The Shark patrols the gap, waiting.</context>
+      <utterance>I'm okay, baby, I'm here. It's okay...</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you get a line to me?</utterance>
+   <speaker>ABOARD THE RAFT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>the Kids find some line. Andy coils, and throws.</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="2">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>They do, but now the winch cable is snagged under the surface. It comes taut, but doesn't budge. Brody watches, helpless for the moment.</context>
+      <utterance>Get the cable in! Pull!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Son of a bitch is stuck!</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="2">
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's killing us!</utterance>
+   <speaker>JACKIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to die! Mommy!</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="3">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get on the rocks!</utterance>
+   <speaker>DOUG</speaker>
+      <mode></mode>
+      <context>Andy is pulling himself towards the boat, scrambling up on the exposed wooden hull.</context>
+      <utterance>Swim for it!</utterance>
+   <speaker>PATRICK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lucy! Look out!</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="2">
+   <speaker>LUCY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm bleeding! Larry and Patrick help her towards the rocks.</utterance>
+   <speaker>BOB</speaker>
+      <mode></mode>
+      <context>He's clinging to a piece of broken boat; the Shark lunges at him.</context>
+      <utterance>Help!</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="3">
+   <speaker>SEAN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Dad! Help! Daddy!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He looks around desperately, sees Andy safe on the launch.</context>
+      <utterance>I'm coming!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy! Use the lights! The lights!</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="2">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He looks around him wildly, searching for a weapon, finding a steel boathook. He screams at the unfeeling Shark...</context>
+      <utterance>You bastard!</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>The huge gray hulk obligingly turns towards this new irritation. Brody bangs on the raft, yelling, creating a commotion.</context>
+      <utterance>Come here, you son-of-a-bitch!</utterance>
+</dialogue>
+
+<dialogue id="128" n_utterances="2">
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Possessed, yelling at the top of his lungs.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come and get me! Come and get me!</utterance>
+</dialogue>
+
+<dialogue id="129" n_utterances="2">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They made me go with them.</utterance>
+   <speaker>BRODY</speaker>
+      <mode></mode>
+      <context>He kisses the damp forehead.</context>
+      <utterance>Sure they did...</utterance>
+</dialogue>
+
+
+</movie>

@@ -1,0 +1,4524 @@
+<movie id="33" title="An Education">
+
+<dialogue id="1" n_utterances="2">
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny. Again.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Isn't it because Mr Rochester's blind?</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="8">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got an English essay to do by tomorrow morning.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to hear anything through the ceiling this afternoon, apart from the sound of sweat dripping onto textbooks.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cello?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No cello.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought we agreed that cello was my interest or hobby?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's already your interest or hobby. When they ask you "What's your interest or hobby?" at your Oxford interview, you can say, "Cello". That wouldn't be a lie. You don't need to practise a hobby. A hobby is a hobby.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or interest.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't need to be good at it. You just have to be interested in it.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="6">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I stop going to the youth orchestra, then?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. The orchestra shows you're a joiner-inner. Universities like joiner-inners.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah. Yes. But. I've already joined in. So now I can stop.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, if you stop, that shows the opposite, doesn't it? That shows you're a rebel. They don't want that at Oxford.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. They don't want people who think for themselves.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Course they don't.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="5">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd better, I'm afraid. Just to show my father you're un jeune homme serieux, not a teddy boy.</utterance>
+   <speaker>GRAHAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, God.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jenny moves as quickly as she can towards the street.</context>
+      <utterance>It'll be all right. I won't wait. It's going to bucket down in a minute. I'll see you at the weekend.</utterance>
+   <speaker>GRAHAM</speaker>
+      <mode></mode>
+      <context>The two silly boys from before arrive to blow more kisses.</context>
+      <utterance>Oh, yes. Bye.</utterance>
+   <speaker>SMALLER BOY 1</speaker>
+      <mode></mode>
+      <context>Graham blushes. Jenny swipes the chief offender over the head with her sheet music.</context>
+      <utterance>Goodbye, darling! See you at the weekend! I will miss you with all of my heart!</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="2">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny ignores him.</context>
+      <utterance>Hello.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen. If you've got any sense, you wouldn't take a lift from a strange man.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="6">
+   <speaker>5.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny smiles thinly.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am, however, a music lover, and I'm worried about your cello. So what I propose is, you put it in the car and walk alongside me.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do I know you won't just drive off with the cello?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He winds down the other window and waves on the cars that have stopped behind him.</context>
+      <utterance>Ah. Good point.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He pulls out a wallet, takes out three ten-pound notes, hands them to her.</context>
+      <utterance>How much does a new cello cost? Twenty pounds? Thirty? I don't know. Let's say thirty.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny laughs and waves the money away.</context>
+      <utterance>There. Security.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="4">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>She says nothing.</context>
+      <utterance>I'm David, by the way.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you are...?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny.  I've never seen a car like this before. C'est tres chic.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny nods, but doesn't know how to respond.</context>
+      <utterance>It's a Bristol. Not many of `em made.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="10">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did the concert go?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was a rehearsal. The concert's next Thursday.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you playing?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Elgar.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny looks at him and smiles. She hadn't expected him to be able to make Elgar jokes.</context>
+      <utterance>Ah, Elgar. I often think it's a shame he spent so much time in Worcester, don't you? Worcester's too near Birmingham. And you can hear that in the music. There's a horrible Brummy accent in there, if you listen hard enough.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyway, I'm not sure Elgar and Jews mix very well.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not a Jew!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I am. I wasn't...accusing you.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>David stops the car.</context>
+      <utterance>Oh.  Can I sit in the car with my cello?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jump in.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="3">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny makes a face.</context>
+      <utterance>Where to, madam?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I only live round the corner.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What a shame. We'll just make it last as long as we can.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="9">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Smoke?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>David lights one for himself.</context>
+      <utterance>I'd better not. I'm a bit close to home.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose cellists must go to a lot of concerts.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We don't go to any concerts. We don't believe in them.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, they're real.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So people say.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't we believe in them?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose...What would he say?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your father, this is?</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="7">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, yes. He'd say there's no point to them. They're just for fun. Apart from school concerts, of course, which are no fun at all, so we go to those. The proper ones don't help you get on.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which of course is what is so wonderful about them. Anyway, you'll go one day.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I will. I know. Sometimes it seems as though that's what all this slog is for. If I get to University, I'm going to read what I want and think about what I want and listen to what I want. And I'm going to look at paintings and go to French films and talk to people who know lots about lots.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good for you. Which University?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oxford. If I'm lucky. Did you go anywhere?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny smiles.</context>
+      <utterance>I studied at what I believe they call the University of Life. And I didn't get a very good degree there.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She gets out of the car with the cello. David stares after her for a moment, then drives off.</context>
+      <utterance>This is me. Thank you.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="10">
+   <speaker>GRAHAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's fine, thanks. She sends her best, by the way.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny looks embarrassed. She knows what's coming.</context>
+      <utterance>Where are you applying, Graham?</utterance>
+   <speaker>GRAHAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure yet.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, when will you be sure? You can't let the grass grow under your feet, you know. Otherwise you'll be at the back of the queue.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Her father shoots her a look - is she being cheeky?</context>
+      <utterance>I suppose so. I suppose the growing grass would knock you off balance, and then you'd fall over, and by the time you picked yourself up, there'd be a queue.</utterance>
+   <speaker>GRAHAM</speaker>
+      <mode></mode>
+      <context>Jenny winces. Jack looks at him as if he's just said he'll take all his clothes off.</context>
+      <utterance>I might take a year off.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What for?</utterance>
+   <speaker>GRAHAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. Maybe do some travelling, that sort of thing.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Close-up of Jenny - she knows what's coming, and can't bear it. Beat.</context>
+      <utterance>Travelling? What are you, a teddy boy?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny sighs.</context>
+      <utterance>You know she's going to Oxford, don't you? Oxford. English. If we can get her Latin up to scratch.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="2">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny looks at him curiously. Graham steels himself to speak.</context>
+      <utterance>So she's studying English at Oxford while you're a wandering Jew...</utterance>
+   <speaker>GRAHAM</speaker>
+      <mode></mode>
+      <context>Jenny winces again. Her father stares at Graham. Graham blushes.</context>
+      <utterance>Mr Mellor...I'm not a teddy boy. I'm an homme serieux. Jeune. An homme jeune serieux homme.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="6">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're for me!</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are they from? Jenny opens the card that's attached to them.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gosh. Him.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's `him'?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just...A chap I met.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A chap who sends flowers? So he's a man-chap?</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="12">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jack stares at the flowers in disbelief. The bunch of flowers has created in Jack the kind of panic and fear more typically associated with a biochemical attack.</context>
+      <utterance>Yes, he is, really.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on here?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jack,I'm afraid Jenny has been sent some flowers by a chap.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Why?</context>
+      <utterance>A chap? What kind of chap? Who?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's wishing me luck for tonight.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you sure that's all he's wishing? And where does he get the money from?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He earns it, I expect.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean, he earns it? Why isn't he at school? What does he do?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can we just go? Otherwise the bunch of good-luck flowers will actually be responsible for me actually missing the concert. Which would be ironic, n'est ce pas?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well I don't like it.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Objection noted. Jenny?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Noted.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="5">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The whole point about him is that he doesn't feel.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We still don't have to like him.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Camus doesn't want you to like him. What he's trying to say is that feeling is bourgeois. Being engagee is bourgeois. His mother dies and he doesn't feel anything. He kills this Arab and he doesn't feel anything.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't feel anything if my mother died. Does that make me an existentialist?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. That just makes you a cow.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="9">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She breaks off. Parked outside a tobacconists on the other side of the road is the red Bristol. She looks towards the shop, and David emerges with a copy of the Times and a packet of cigars. Jenny crosses the road to talk to him while the others watch.</context>
+      <utterance>Well I'm going to be French. I'm going to Paris and I'm going to smoke and listen to Jacques Brel and wear black. And I won't speak. Ever. C'est plus chic, comme...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello. Thank you.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did it go?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, fine. I think. I mean, I didn't mess my bit up, anyway. And no-one got thrown out of the orchestra afterwards.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Always the mark of a cultural triumph. Listen. I'm glad I ran into you. What are you doing on Friday?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Going to school.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I meant the evening.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Yes. Of course. Nothing.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="9">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny doesn't know what to say. She looks at David, and his eagerness to please seems to convince her.</context>
+      <utterance>Because I'm going to listen to some Schubert in St John's, Smith Square. My friends Danny and Helen will be going too, so it wouldn't be...I'll tell you what. I'll come and pick you up, and if your mother and father disapprove, then you can have the tickets and go with one of them. How does that sound?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you. And I'd like you to take me. I'd like to go with someone who knows when to clap.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny smiles.</context>
+      <utterance>I usually watch Danny. He knows that sort of thing.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seven? And we'll probably go for a spot of supper afterwards, if you...But if you, if that's not...Well, we can always put you in a taxi.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Supper.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you want.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The trouble is, we'll already have eaten.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well. I mean, if you'd like supper, then, perhaps on Friday you could...not eat?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jenny smiles, and rejoins her friends on the other side of the road. Tina and Hattie are standing there almost with their mouths open, amazed. She doesn't say anything and starts to walk on.</context>
+      <utterance>Oh. Yes. Of course.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="12">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Jenny smiles enigmatically. Tina grabs Jenny mock-urgently.</context>
+      <utterance>I'm sorry. I just had the strangest dream. I dreamed you crossed the road and spoke to a handsome man with the most beautiful car I've ever seen. And then you came back and you didn't mention it.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>`Oo wazzee?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just a man who's been trying to pick me up. We're going to a concert on Friday night. And then we're having a spot of supper.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A spot of supper?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've heard of supper?</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've heard of it. But we've never eaten it.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Neither of you is interested in the concert part, I notice.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Of course not.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God! I've only just realised! That's what's going to happen to you, isn't it? Look at her! Men are going to pick her up in the street and take her out to supper!</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God, you're right, Tina. I hadn't thought of that. Look at her.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be so daft.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're trying to attract the attention of boys.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="5">
+   <speaker>16.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And she's fighting off men. Anyway. You're going to have to tell us more than that.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because no man's ever going to ask us out to supper. Not until we're ladies, anyway. You're going to have to tell us everything. Otherwise it's not fair.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There won't be anything to tell.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, make something up, then.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="8">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't allow it!</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine. He's quite happy for you to take me.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right. I will.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is it?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>St John's Smith Square.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's that?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Marjorie comes into the room.</context>
+      <utterance>I don't know. I'm sure we could find out.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="14">
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context>Jack looks at her as if she'd just given directions to the nearest opium den.</context>
+      <utterance>It's in Westminster. Just around the corner from the Abbey.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How d'you know that?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I had a life before we were married, you know.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He soon put a stop to that.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There we are.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are we?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Near Westminster Abbey. I'm not going all the way over there.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The trouble is, that's where St John's Smith Square is.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I've just said. That's where I'm not going. There must be something on locally. Where's the paper?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jack, she wants to see someone who can play. She doesn't want to see Sheila Kirkland scratching away. I'll take her.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>The doorbell rings.</context>
+      <utterance>And how are you going to get over there? RAF helicopter?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's him. Now what?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, bloody hell.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jack!</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="7">
+   <speaker>18.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny starts towards the door, and then turns.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She goes to the door.</context>
+      <utterance>Oh, and by the way...David's a Jew. A wandering Jew. So watch yourself.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny comes back in with David, who is dressed stylishly in his early-60s young executive leisurewear - sports jacket, slacks, cashmere sweater. He looks out of place - he is brighter and brasher than his surroundings, the most colourful thing in the room, and he seems intimidatingly exotic. David has obviously heard Jack's last line.</context>
+      <utterance>What's she talking about? I've never said anything like that in my life! Anyway, it's just an expression! I'm not against the Jews!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He offers his hand.</context>
+      <utterance>I'm glad to hear it. Hello. David Goldman.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't mean I'm not against you... Actually, I did mean that, because I'm not, but...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>David's hand is still extended - in his confusion and embarrassment, Jack hasn't yet taken it. He does so now, and shakes it for way too long.</context>
+      <utterance>Dad!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. What I'm saying is that you're not the sort of, of person I'd be against, if I were the sort of person who was against...people. You're not an old...Oh, dear. I'm Jack, and this is Marjorie.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="12">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>General confusion, until David chuckles naughtily. Marjorie giggles, and then offers her hand.</context>
+      <utterance>You didn't tell me you had a sister, Jenny.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a lucky man, Jack.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>They all sit down.</context>
+      <utterance>I suppose I am, yes.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Marjorie smiles.</context>
+      <utterance>So. Gosh.  This is lovely.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, David. Can I get you a drink?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny looks at her father, and takes a calculated gamble.</context>
+      <utterance>I'd love one, Jack, but we're running a little late. If Jenny's ready, perhaps we'll shoot off.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah. Well. Dad's got something to tell you.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no, nothing...It was more of a question, really. How would you get to St John's Smith Square from here? For future reference?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, it's a pretty straight run, really. Up to Hammersmith, take the A4 through Kensington and you're there.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Simple as that.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Simple as that.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="11">
+   <speaker>20.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jack smiles broadly.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So shall I book some tickets for something?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Beat.</context>
+      <utterance>No.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny winces.</context>
+      <utterance>Back by ten, please, David. She's usually in bed by then.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny studies him carefully. Suddenly his friends Danny and Helen have become `Aunt Helen'.</context>
+      <utterance>I was hoping Jenny would come with me afterwards to have a bite of supper with my aunt Helen.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, well, I suppose...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How about if I promise to have her in by eleven thirty?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it's Friday night. And if you're going out to the West End...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>They exchange warm handshakes. He turns to Marjorie. Marjorie extends her hand. David takes it, but kisses it suavely,leaving her a little flustered.</context>
+      <utterance>Thanks, Jack. I appreciate it. See you again.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have a nice time.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jenny and David leave.</context>
+      <utterance>Bye.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="4">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that smell? Has he got perfume on?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's called after-shave, Jack. And it makes a change from carbolic soap.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Marjorie rolls her eyes.</context>
+      <utterance>At least there's no confusion, if you smell of carbolic soap.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody's ever going to get confused about you, dear.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="4">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello hello. Are we late?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was hoping we'd miss the beginning, and then it wouldn't be worth going in, and we could go off dancing or something.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>Jenny and David laugh politely.</context>
+      <utterance>Helen is one of the more reluctant members of tonight's audience.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny, these are my friends Helen and Danny.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="8">
+   <speaker>DAVID</speaker>
+      <mode>CONT'D</mode>
+      <context>They walk into the hall.</context>
+      <utterance>Shall we?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>She nods at the coat she's carrying. Jenny looks thrilled at the prospect of spending a couple of minutes with Helen. Danny hands Helen his coat, without saying anything. The girls walk over to another reception table a few yards away, behind which is a cloakroom. A lady is exchanging overcoats for tickets. Almost involuntarily, Jenny touches the sleeve of Helen's velvety jacket. She stops herself. Helen notices.</context>
+      <utterance>Look. We can leave our coats over there. I want to get rid of this.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm so sorry.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's OK. It's nice, isn't it?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's beautiful. Where did it come from?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Helen looks at Jenny's outfit, her frumpy `smart' dress, apparently wanting to return the compliment.</context>
+      <utterance>Oh, South Ken somewhere.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is...Well, it's good for this sort of concert, isn't it?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="10">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>She takes a ticket from the cloakroom lady.</context>
+      <utterance>We should go shopping together one day, if you want.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>They stare at each other. Helen is bewildered, Jenny embarrassed.</context>
+      <utterance>That would be nice. But South Ken... C'est beaucoup trop cher pour moi.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just said....It was too expensive for me.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No you didn't. You said something completely different.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just...Well, I said it in French.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Jenny feels humiliated; she is yet to realise what we can see - that Helen is simply very dim.</context>
+      <utterance>In French? Why?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jenny looks away. Helen stares at her. The performance bell rings, and they make their way back to the men. To Jenny's surprise and pleasure, Helen links arms with her as they walk.</context>
+      <utterance>I don't know.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyway. It's too expensive for me, too. We don't have to worry about that. If you want something in South Ken, get David to take you shopping.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why on earth would he want to take me shopping?</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="5">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I booked a table at Juliette's. Will that kill the mood, do you think?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>The others laugh.</context>
+      <utterance>Oh, I do hope so.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I always think I'm going to my own funeral when I listen to classical music.  That was classical, wasn't it?</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>Helen looks pleased.</context>
+      <utterance>Yes. Very classical. As classical as you can get.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny smiles in delight. She's never met people like this.</context>
+      <utterance>Juliette's it is, then. Heaven forbid that we should end the evening reflecting on our own mortality.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="10">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny shakes her head. Her eyes are wide - she's clearly awe-struck. David offers her a cigarette - a Gitane - which she takes. He lights it for her while she's listening.</context>
+      <utterance>Have you never heard "Chante Francoise Sagan"?</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, it's wonderful.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've only got....Well, I think it's just called `Juliette Greco'. The one with the eyes on the sleeve. I saved up and got my French conversation teacher to bring it back after Christmas.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've got a French conversation teacher?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that why you suddenly speak French for no reason?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's marvellous.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you should see her in Paris, not here. David will take you.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd love to. You'd fit right in.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Better than here, really.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="10">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>They sip their drinks pensively, possibly to allow time for the double-entendre to disappear into the smoke.</context>
+      <utterance>It's wonderful to find a young person who wants to know things. There's so much I want you to see.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you still all right to come and have a look at that Pembroke Villas place with me on Friday, Danny?</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. No. Can't do it. There's a Burne-Jones coming up at Christie's on Friday. And I want it.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're thinking of buying a Burne- Jones? A real one?</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just have a feeling that the pre-Raphaelites are going to take off.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love the pre-Raphaelites.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Danny looks at her. There's clearly more to this schoolgirl than he thought.</context>
+      <utterance>Yes, of course. Rossetti and Burne-Jones, anyway. Not Holman Hunt, so much. He's so garish.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Absolutely! Why don't we all go to the auction? Wouldn't that be fun?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An auction. Gosh. How exciting.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="7">
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Next Friday morning. David will pick you up.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Friday.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're busy?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She doesn't want to explain why.</context>
+      <utterance>Well. Yes.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>Helen looks at him aghast. Why has he started speaking French?</context>
+      <utterance>Tant pis.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny hesitates.</context>
+      <utterance>Are you sure you're busy?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I'm sure I could....re- arrange. That would be lovely.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="4">
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, hello, love. Did you have a nice time?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't get this casserole dish clean. We had hot-pot tonight, and it's all burnt round...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's twenty-five to twelve. We finish tea at seven.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="5">
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know what the time is. How was your evening?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was...It was the best night of my life.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context>Jenny looks at her. She doesn't seem to have heard what Jenny has just said.</context>
+      <utterance>And he took you home in his car? Right to the door?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodnight, Mum.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I'm glad you enjoyed the concert.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="3">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Laughter.</context>
+      <utterance>I'm not interested in Schubert. I want to know what else was on the programme.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There was nothing like that. He was the perfect gentleman. He just said he wanted to take me places and show me things.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>More laughter. The English teacher, MISS STUBBS, young and fresh-faced and lively-looking, enters, and picks up on the excitement of Jenny's coterie.</context>
+      <utterance>Things plural? Oh my Gawd!</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="9">
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>The students start to sit down at desks in a more conventional arrangement.</context>
+      <utterance>I knew that in the end `Jane Eyre' would work its magic upon you. I'm presuming that's what you're so animated about.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>`Jane Eyre' and Jenny's new boyfriend.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's not my "new boyfriend". God.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's true. He's more a man- friend, isn't he? He's got a sports-car, Miss Stubbs.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah. A Mr Rochester figure.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Laughter. Jenny pulls a face at her.</context>
+      <utterance>I think he must be as blind as Mr Rochester.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>She starts to hand out essays.</context>
+      <utterance>Is there no end to your thirst for literary understanding, Jenny? As you may have noticed, I'm attempting to turn the subject away from Jenny's lurid love-life and towards the matter in hand.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>Miss Stubbs slaps an essay down on Jenny's desk. We can see that it's marked `A+'.</context>
+      <utterance>And it's quite clear on this evidence that most of you know much too much about the former, and almost nothing about the latter. Reluctantly I must concede that Jenny is evidently an expert on both matters. Excellent as always, Jenny.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="5">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>David is distracted. He's driving slowly, apparently looking for an address.</context>
+      <utterance>How do you know Danny?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you know. We kept bumping into each other, and we became pals, and we've ended up doing a bit of work together, when it suits us.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What kind of work?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He stops the car.</context>
+      <utterance>Property. A bit of art dealing. Some buying and selling. This and that...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He gets out of the car, and Jenny watches him as he crosses the road.</context>
+      <utterance>I'll be two seconds.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="7">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry about that.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you know those, those ...Negro people?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're clients.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Clients?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He starts the car and drives off.</context>
+      <utterance>Jenny darling, even schwarzers have to live somewhere. And it's not as if they can rent off their own kind, is it?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure I quite understand what you do.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny's POV of the black family in one window, and the little old lady disappearing from another.</context>
+      <utterance>You don't need to. It's too boring. All you need to know is that I work in property so that I can take you to nice places.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="7">
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>Jenny is in awe of rich London in all its finery. The auctioneer clears his throat.</context>
+      <utterance>You nearly missed it.</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Jenny glances at Danny. He makes no move at this price. Neither does anyone else. He's poised and listening hard.</context>
+      <utterance>We turn to lot 41, The Tree of Forgiveness, by Sir Edward Burne- Jones. This is a rare opportunity to purchase a key work of the Pre- Raphaelite movement. Who will start me off at five hundred guineas?</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>A middle-aged lady, the epitome of the middle-aged contemporary Sloane, twin-set, pearls and a lot of face powder, raises her hand.</context>
+      <utterance>Two hundred?</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>A man raises his hand.</context>
+      <utterance>Thank you, madam. Three hundred?</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>The middle -aged Sloane nods.</context>
+      <utterance>Do I hear three-fifty?</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Danny continues to sit there. Jenny is confused. The middle- aged lady bids four-fifty. David, sitting next to Danny, whispers something to him. Danny nods.</context>
+      <utterance>Over to you sir. Four hundred guineas? Thank you. Four hundred and fifty...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny looks at him.</context>
+      <utterance>Your turn.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="11">
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No further bids?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny raises her hand high, just as she'd do at school.</context>
+      <utterance>Quick!</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>People look round and smile when they see who has come in. Jenny blushes, but stares fixedly ahead.</context>
+      <utterance>Five hundred guineas from the very eager new bidder.</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Jenny looks at David, who nods.</context>
+      <utterance>Five hundred and fifty, madam? Thank you.</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Jenny gestures more economically.</context>
+      <utterance>Six hundred guineas.</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Jenny is almost insouciant this time.</context>
+      <utterance>Six-fifty? Thank you, madam. Seven hundred...</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>The middle-aged lady shakes her head and purses her lips. when asked if she wants to bid 700.</context>
+      <utterance>Seven hundred?</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>He brings down the gavel, and a murmur goes around the room. Jenny is excited and giggly. David pats her on the back.</context>
+      <utterance>Sold for six hundred and fifty guineas. Thank you.</utterance>
+   <speaker>AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Jenny looks at Danny.</context>
+      <utterance>Your name, please?</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know who you are.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny Mellor.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="4">
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know who you are, too. Tell him.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny Mellor.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you. Couldn't have bought it without you.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny beams. She's thrilled.</context>
+      <utterance>Well done. A nerveless performance.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="6">
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A couple of years ago you could pick these up for fifty quid, you know. Nobody was interested.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Suddenly Jenny sees a cello in the corner of the room - a good one.</context>
+      <utterance>Really? Fifty pounds? I don't believe you.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not a Lockey-Hill!</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There aren't many people who come in here and say that.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Certainly not me.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's beautiful. Do you play?</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="13">
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I used to. I vowed to myself that one day I'd own one of these. And now I own one and never touch it. It's vulgar to put it on show, really.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give it to Jenny.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That would be even more vulgar.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Play for us, Jenny.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gosh, no. One day. When I'm good enough for it.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's good enough now.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Danny stands up and stretches.</context>
+      <utterance>Oh, David. You've never heard me.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I shall come to hear you in St John's Smith Square. Or in Oxford, when you get there.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We should all go and spend a weekend in Oxford. Straw boaters, punting, cream teas, antiquarian bookshops. Bit of business, if we can find it. What about next weekend?</utterance>
+   <speaker>DAVID/HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes!</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>They all look at her.</context>
+      <utterance>A weekend away? I wouldn't be allowed to do that.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll find a way. I'll talk to them.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="12">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jack and Marjorie.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About what?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny hoots with derision.</context>
+      <utterance>Oxford.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going to ask my father if I can go away with you for the weekend? He'd have you arrested.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll see.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll bet you you can't do it.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much?</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be careful, Jenny. You don't know who you're dealing with.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Half-a-crown.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>They shake hands. Jenny suddenly notice the clock on Danny's mantelpiece.</context>
+      <utterance>You're on.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>There is a silence. Danny and David make momentary eye contact - they are clearly contemplating the erotic possibilities of Jenny's last sentence. Helen notices.</context>
+      <utterance>Mon dieu! You must take me back to school. And I've got to change back into my uniform.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Jenny looks at them all, mystified.</context>
+      <utterance>Oh, behave yourselves.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="3">
+   <speaker>MRS WILSON</speaker>
+      <mode></mode>
+      <context>Jenny puffs out her cheeks. She's not last.</context>
+      <utterance>Test results for the Virgil translation. We will start from the bottom...Patricia.</utterance>
+   <speaker>MRS WILSON</speaker>
+      <mode>CONT'D</mode>
+      <context>Jenny winces.</context>
+      <utterance>Absent. Margaret. 48%. Jenny...</utterance>
+   <speaker>MRS WILSON</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>52%. That would just about scrape a pass in the exam proper. Not good enough for Oxford candidates.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="3">
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context>Jack enters, back from work. He's wearing a suit and carrying a battered briefcase. He looks at them, and then notices the essay on the table.</context>
+      <utterance>I'll talk to him.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's her Latin, isn't it?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context>He picks up the paper.</context>
+      <utterance>The test didn't...Well, it didn't go as well as we'd hoped.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="11">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Because this is hopeless.</context>
+      <utterance>And you still say I shouldn't go down there and have it out with whatsername? The Latin teacher?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How are you going to "have it out" with her? What are you going to do? Shout at her until she decides I'm much cleverer than she thinks?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everyone's doing their best, Jack.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if their best isn't good enough, though, eh? What do we do then?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Not even you, Dad.</context>
+      <utterance>We don't go to Oxford. Any of us.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps it's all a waste of time and money anyway.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't mean that.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, what's she going to do with an English degree? And if she's going to spend three years playing that bloody cello and talking in French to beatniks, then I'm throwing good money after bad. I suppose she might meet a nice lawyer. But she could do that at a dinner dance tomorrow.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, yes. That's the whole point of an Oxford education. It's the expensive alternative to a dinner dance.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about private tuition?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is anyone listening to me? How much is that going to cost me?</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="8">
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Five shillings an hour. Maybe a little more for A-level.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Five bob! But... we could spend five bob on this and five bob on that, and before we know it that's our savings down the drain.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And what else are we spending five bob on? What else are we spending sixpence on?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, nothing.  It's all free. That vase was free.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was, actually. It was a present from Auntie Vi.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>He stands up.</context>
+      <utterance>That chair was free. The sofa. We don't have to pay for anything. And even if we did, we don't have to work for it. That's the beauty of life, Jenny. Everything's free. Grows on trees. Wonderful, isn't it?  We've got a lovely Oxford tree in the garden, lucky for you, so that's Oxford taken care of. And a whole orchard of school trees, so that's all free. I'm sure there are some private tuition trees out there. I'll go and have a look.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jack...</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no, won't take me a minute. I think I saw some at the back there, right next to the pocket money tree. I'll just nip out and check, see that they're doing all right.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="8">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could always go to secretarial college with Hattie.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, thanks.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charming!</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Hattie and Tina follow Jenny's eyes, and they see Graham coming towards them pushing his bike, red-faced, trousers tucked into socks.</context>
+      <utterance>Oh, no.</utterance>
+   <speaker>GRAHAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Graham. Hello.</utterance>
+   <speaker>GRAHAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't seen you for ages....It all went wrong, didn't it? The tea-party, I mean. Was it because of the year off?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no. It's just...I've got so much to do if I'm going to get the grades I need.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="2">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Hattie and Tina try to suppress giggles. Graham turns an even brighter shade of red. Hattie and Tina enter the coffee bar. Jenny feels sorry for him, is on the verge of inviting him to join them...And changes her mind.</context>
+      <utterance>Yes. She's got no time for boys.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She follows the girls inside.</context>
+      <utterance>Bye, Graham.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="4">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Hello. David does the most brilliant Bluebottle, Jenny. Actually, he can do all the Goons.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think I'm very good at Eccles.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, no, you've got him...</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="12">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But what's he doing here?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wasn't going to disturb you. I knew you'd have your nose to the grindstone.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You came to see Mum and Dad?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny spies an open bottle of wine on the coffee-table.</context>
+      <utterance>Is that so hard to imagine?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you're drinking? But it's not Christmas!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hark at her! Makes us sound as though we've signed the pledge. You don't know everything about us, you know. We had a life before you came along.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, that's true. I'm only going on what I've seen over the last sixteen years.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm trying to think what you missed. Nothing much comes to mind.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They can't stand to see me enjoying myself.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyway. Would you excuse me? I've got a huge pile of Latin translation to do.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny looks at David, who stares back at her straight- faced.</context>
+      <utterance>You didn't tell me David went to Oxford.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I didn't.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="14">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For all the good it did me.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you read?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, English. Just like every other semi-employed layabout in London.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>English! Which college?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Merton.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Isn't that funny?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Extraordinary.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was just telling Jack that I'm going back next weekend. I go and see my old professor every now and again.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what you need, Jenny. Someone on the inside track. It's not always what you know, is it, David?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too true. And Clive would love Jenny. Have you ever come across Clive Lewis?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad has never come across anyone.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just thought he might know some of the books.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad has never read any books.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's he written?</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="11">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He wrote a children's book called `The Lion, The Witch and The Wardrobe' that did very well, I believe.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>CS Lewis? That's the Clive you're talking about?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Everyone murmurs their comprehension.</context>
+      <utterance>Well, to us he was just the old codger who taught Medieval literature. But I came to know him very well. We just...got along, do you know what I mean?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny used to love those books.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gosh. That dates me. He was writing them when I was there.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>There is a pause. Jack and Marjorie look at the floor. Somehow, David has manoeuvred a situation where, effectively, he is the one being asked.</context>
+      <utterance>I'd love to meet him.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. I'm being slow on the uptake. Would Jenny like to come with me at the weekend?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I don't know about this weekend. But one day, yes, thank you.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How often do you see him?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>But next time, eh?</context>
+      <utterance>Oh, once every couple of years.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>So that won't be much use.</context>
+      <utterance>Hopefully I'll be there by then.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="9">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I suppose...Would she have to stay the night?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jack chuckles knowingly.</context>
+      <utterance>Well, I wouldn't want to drive back after one of those Oxford dinners.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Clive will get her a room in college. That's easy enough.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds like too good an opportunity to pass up.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please, Daddy. It would be so helpful to know something about the place.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would it be a bother to you, David?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jack, Marjorie and Jenny all beam.</context>
+      <utterance>I'd be delighted.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was scandalous.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He kisses her on the cheek and disappears into the night.</context>
+      <utterance>I told you. You owe me half-a- crown.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="2">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can they only be nearly ready?</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't be surprised if three of them come out, you know. That's the only explanation. They're making themselves a friend. LADIES! Let's go. Please.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="4">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Jenny emerges from her reverie.</context>
+      <utterance>There. You'll do. You can keep it. I can only wear so many every day.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really? Thank you.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about tonight? Will you be needing a nightie? Or not?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jenny suddenly understands what Helen means.</context>
+      <utterance>A nightie?</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="12">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will we be sharing bedrooms?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not sleeping with him?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I'm...No.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good for you.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really? Do you think so?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're only sixteen. And you don't want to get into the family way, do you?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I'd make sure that didn't happen. I'm going to do it when I'm seventeen. On my seventeenth birthday, hopefully.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Jenny pauses.</context>
+      <utterance>With David?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well...Golly. I suppose it will be with David, won't it?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When's your birthday?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>April.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Jenny stares at herself in the mirror again.</context>
+      <utterance>Oh, he'll be around in April. If that's what you want. Anyway. I'll find you a nightie.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="4">
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Imagine spending three years here.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>She shudders, as if someone has walked over her grave.</context>
+      <utterance>I know.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can we stop?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe later. There are a couple of things we have to do.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="3">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, it's always like this. There are millions of places I've never seen because I've been stuck in here.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You never get out?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Jenny looks out of the window. This is self-evidently true.</context>
+      <utterance>There's never anywhere to go in the places they stop.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="8">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So. Now.Is he Clive, do you think? Or CS?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm confused now. I thought you'd made him up?</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>David walks over to the nearest table and writes in the book.</context>
+      <utterance>No, we...Never mind.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He stands up, hands the book to Jenny.</context>
+      <utterance>There.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"To dear Jenny. With the pleasure of meeting you. Come and see me again soon. Clive."</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Laughter. He takes a long drink from his pint of bitter. A group of students enter, all carrying musical instruments. They stand at the bar, waiting to be served. Jenny stares at them with longing - she wants to be one of them. Helen, meanwhile, stares at them as if they were aliens.</context>
+      <utterance>Dirty old man.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Helen's right. The girls in the group are all bespectacled and frumpy. The others laugh.</context>
+      <utterance>Why are university girls so strange-looking?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's true. And they can't all have started off that way, can they? Most girls aren't ugly, but most girl students are. So there must be something about those places that, you know, makes you fat, or spotty, or short-sighted.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="13">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Helen looks pleased.</context>
+      <utterance>Well, if you look at it that way...I mean, that's proper scientific analysis. And you can't argue with science.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm still not quite clear on what you want to do when you get here.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to read English.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Books?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to read English books?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Yes. Reading English is just another way of saying...</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't worry, Jenny. You're wasting your breath.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyway, tomorrow we'll try to get more of a feel for the place.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>David catches Jenny's eye. This isn't what he meant by "getting a feel for the place."</context>
+      <utterance>Absolutely. This would be a good place to do a little business.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All those little old ladies wandering around...I'll bet this place is rife with stats.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please explain what stats are. You're always going on about them.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right. Think of a number. Now think about the most boring lesson you've ever had at school.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="6">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've got exactly the same curtains at home.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny was about to get into bed, but his tone makes her pause at the edge of the bed.</context>
+      <utterance>Let's not talk about curtains. You look beautiful. You really are a princess.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's something you should know, David. I'm...Well, I'm a virgin. And I want to stay that way until I'm seventeen.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think that's good. I think that's right. And for your seventeenth birthday I'm going to take you to Paris or Rome or Florence and make you feel like the most beautiful princess in the kingdom of love. But we can still be romantic, can't we?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, yes. Of course we can. If it doesn't mean...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Minnie....</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="12">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that me?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. You're my Minnie Mouse, and I'm your bubbalub.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. If that's what..</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Minnie.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, David?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bubbalub...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry. Yes, bubbalub?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>His eyes stray to her breasts. Jenny stares at him.</context>
+      <utterance>Would you mind if I had a look at what might one day be mine? Just a peek?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just want to see them?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny, flustered and nervous, looks at her nightgown - she doesn't know what to do.</context>
+      <utterance>I just want to see them.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>She does so. He stares.</context>
+      <utterance>Let it fall from your shoulders.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He sits up, and lovingly lifts the straps back up. He smiles at her. Relieved, she smiles back.</context>
+      <utterance>Thank you.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="7">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Jenny turns around.</context>
+      <utterance>Jenny...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aren't you coming?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We don't go in.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>Jenny is mystified.</context>
+      <utterance>Helen will look after you. Go and find a nice cup of tea somewhere.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>David ignores her.</context>
+      <utterance>I don't need looking after, thank you very much. David, I want to see...</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not going to tell you a second time. Now. Run along.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="2">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They won't be long. Either way.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Either way"?</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="2">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>In the distance, David is waving at them urgently.</context>
+      <utterance>Sometimes they find something, sometimes they don't.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Jenny stares at Helen. She's beginning to realise who she is dealing with.</context>
+      <utterance>And when they do find something, we usually have to leave quite quickly. They can be a bit naughty, sometimes. Anyway. It's nice to have company. I'm usually outside on my own.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="5">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Jenny doesn't respond.</context>
+      <utterance>Coo-ee. Jenny.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>Still no response.</context>
+      <utterance>Sorry about being a little brisk back there, Jenny. We have our way of doing things. Silly, really.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, come on, Jenny. Let's not spoil things.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me? I'm spoiling things?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny shakes her head bitterly. They continue driving in silence.</context>
+      <utterance>I think there must be some kind of misunderstanding.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="7">
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who wants to come up for a drink?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jenny gets out of the car and starts up the road. David gets out and starts to chase after her.</context>
+      <utterance>No thanks. You go. I'll find my own way home.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He catches up with her in the street.</context>
+      <utterance>Jenny!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny snorts derisively.</context>
+      <utterance>It was an old map. A Speed. It was cooped up in that miserable little cottage, and she didn't even know what it was. What a waste! It shouldn't spend its life on a wall in wherever the hell we are. It should be with us. We know how to look after it properly. We liberated it.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Liberated! That's one word for it.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, don't be bourgeois, Jenny. You're better than that. I know you have fun with us. I can see it. You drink everything I put in front of you down in one, every last drop, and then you slam your glass down on the bar and ask for more, and it's wonderful. We're not clever like you, so we have to be clever in other ways, because if we weren't, there would be no fun.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="3">
+   <speaker>56.</speaker>
+      <mode></mode>
+      <context>Jenny nods reluctantly.</context>
+      <utterance>We have to be clever with maps, and..and.. You want to know what stats are? Stats are old ladies who are scared of coloured people. So I move the coloureds in and the old ladies move out and I buy their flats cheap. That's what I do. So now you know.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny looks at him, startled. Trees again?</context>
+      <utterance>And if you don't like it, then I will understand, and you can go back to Twickenham and listen to the Home Service and do your Latin homework. But these weekends, and the restaurants and the concerts..They don't grow on trees.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He turns to face her and holds out his hand. On Jenny: is she in or out? Jenny takes his hand. David pulls her towards him, holds her around the waist and begins to dance with her. Further up the pavement, Helen and Danny watch, laughing.</context>
+      <utterance>Do you understand? Of course you do. This is who we are, Jenny.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="4">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose you have homework to do.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gosh. Yes. Loads.  Thank you. I had a nice time.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really? In spite of the, the incident? With the map?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As you said in the car, it was a misunderstanding.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="10">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Exactly. A muddle.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have no idea how boring everything was before I met you.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hope that there's something more than excitement to our relationship.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excitement's a lot, when you're at school and you live in Twickenham.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what I'm trying to say. I want you to like me for who I am, not just what I can do for you.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But that is who you are. I've never met anyone like you. Action is character, our English teacher says.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What does that mean?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think it means that if we never did anything, we wouldn't be anybody. And I never did anything before I met you. And sometimes I think no-one's ever done anything in this stupid country, apart from you.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a good place to end the weekend. I'll give you a tinkle.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>They look at each other. David is clearly smitten. He moves towards her. He wants to kiss her, but he doesn't want to frighten her - in the end, Jenny makes it easy for him and moves towards him. They kiss gently and tenderly. Flustered, Jenny breaks it off, gets out of the car and goes inside while David watches.</context>
+      <utterance>Thank you.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="12">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here she is! The wanderer returns!</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you have a nice time?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lovely, thank you.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny unzips her bag and pulls out her copy of the book. She hands it to her father.</context>
+      <utterance>Was he nice to you?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jack examines the inscription.</context>
+      <utterance>Look inside.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>He hands it to her. She examines it reverently.</context>
+      <utterance>Well I never. Look at this, Marjorie.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Clive"...Lucky girl. What was he like?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was just...normal. Kind.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And did he show you round?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, he was busy. David did, though.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you think?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Beautiful.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="12">
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did it make you want to work harder?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never a dull moment with David, is there? If it's not concerts, it's famous authors. Bit different from that lad you brought home for tea, isn't he?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David's a lot older than Graham.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Graham could live to be two hundred, and he still wouldn't be swanning around with famous authors. Hasn't got it in him.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He might become a famous author, for all you know.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Being one isn't the same as knowing one, is it? Anyone can be one. But if you move in those circles...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it says something about you, doesn't it? It says you're going places. It says you're well connected. He's an impressive young man, that David. I like him more and more.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, they say opposites attract, don't they? I wouldn't have thought he was your sort.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He wasn't. And now he is.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that how you feel, Jenny?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She leaves the room. Marjorie watches her go thoughtfully.</context>
+      <utterance>I feel....I Feel I should do my homework.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="10">
+   <speaker>GYM TEACHER</speaker>
+      <mode></mode>
+      <context>They put on enough of a spurt to satisfy her, and then immediately stop when the teacher is no longer watching. Seeing an attractive bench, they sit down. From somewhere under a skirt, Jenny produces a packet of exotic-looking cigarettes and offers them around.</context>
+      <utterance>Ladies, please. Christmas is coming.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell are those?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Hattie and Tina make snooty faces. Jenny takes a cigarette. The others follow suit. Jenny lights them, and they all grimace. The contrast between the sophisticated cigarettes, and the unsophisticated smokers and context is pronounced.</context>
+      <utterance>Russian Sobranies.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where did they come from?</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Who knows, with Jenny?</context>
+      <utterance>She might have bought them from the Savoy, or Claridges, or the opera, or some fancy nightclub.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Paris. You can't buy them here.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You never bought them yourself?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I never.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up, you stuck-up cow.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I'll bring you some back, if you want.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="14">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're joking.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Non.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's taking you to Paris?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oui.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This term?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Peut-etre.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Isn't it your birthday next Tuesday?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>The two friends shriek and jump up and down.</context>
+      <utterance>Might be.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, my God! Your birthday!</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Ouch.</context>
+      <utterance>I wouldn't like to be you. All those dinners you've had off him.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have such a Victorian attitude to sex, you two.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, sorry, Dr Kinsey. We're not all as experienced as you. I mean, you've done it... I make it never! Can that be right?</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But your parents are just going to let you swan off like that?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They don't know yet. David's got a plan, he says. He usually has something up his sleeve.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="6">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've noticed that. What did he tell them when you had your weekend in Oxford?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, it was.... David went to Oxford. Merton. English. And he offered to show me round.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you have a good-looking boyfriend with pots of money, brains and a nice car.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Tina makes a bitter face.</context>
+      <utterance>Apparently I do.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Laughter. Jenny glances off into the distance, and spots a portly middle-aged woman heading in their direction.</context>
+      <utterance>And they tell us there's a God.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>They stand up, grind their Sobranies into the mud, kick them under the bench, and set off at a brisk trot. The Sobranie stubs come to rest near a pile of dog poo.</context>
+      <utterance>Sod. Miss Davies.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="4">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is David taking you somewhere special tonight?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not that I know of.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've asked Graham round for tea and birthday cake.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Graham?</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="12">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do we want him round for?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I happened to be talking to his mother about something, and...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you happen to be talking to her about?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought it would be nice.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if David turns up?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context>Jenny shrugs.</context>
+      <utterance>Are we expecting David to turn up?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It might not be a bad thing if he did.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, if you think about it, there's more than one way of skinning a cat.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And who's the skinned cat, in this enchanting image? Me?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, of course...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have an education to pursue.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="6">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny closes her eyes, makes her wish, blows out her candles. Her father and mother both look at her, apparently attempting to read her mind. Jack gets up to turn the lights on. We can see that by Jenny's side are two unopened, carefully-wrapped presents, both exactly the same size - clearly books.</context>
+      <utterance>Blow them out, then, before the whole place burns down.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context>In truth, the cake is a rather sorry and unappetising specimen. There isn't enough icing on the top. She cuts a couple of slices which immediately collapse.</context>
+      <utterance>Who'd like a piece?</utterance>
+   <speaker>GRAHAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never mind. I'll have one of those.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Without any real enthusiasm, Jenny opens the first one of the two, from her mum and dad. It's a Latin dictionary.</context>
+      <utterance>Come on. Presents.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Thank you. I needed a new one.</utterance>
+   <speaker>GRAHAM</speaker>
+      <mode></mode>
+      <context>The doorbell rings. Jenny perks up. Jack goes to answer it, and immediately the house is energised: it's David.</context>
+      <utterance>Oh dear.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="2">
+   <speaker>JACK</speaker>
+      <mode>O.S.</mode>
+      <context>David enters. You can hardly see him for all the parcels and flowers he's carrying.</context>
+      <utterance>Good grief. You won't believe this, Jenny. Did you leave anything in the shop?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a special day.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="13">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's a special girl.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I know it.  Hello, young man.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is Graham.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>They shake hands. Graham suddenly looks five years younger.</context>
+      <utterance>Graham, a pleasure. I'm David.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Graham looks pained. Marjorie notices.</context>
+      <utterance>Makes your dictionary look a bit feeble, eh Graham?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And ours too, come to that.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, we're not the ones trying to impress her.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Clearly.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David, what can I get you to drink?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>What have you got there, Graham?</context>
+      <utterance>What's everybody else having?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've given him a glass of pop.</utterance>
+   <speaker>GRAHAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd better be going I have a stack of homework to do. Graham says his goodbyes. He tries to catch Jenny's eye, but she looks away. Marjorie shows him to the door.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Well. You can put the pop away now. What is there for the grown-ups?</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="12">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A glass of something warming?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Hearty laughter from the two men.</context>
+      <utterance>You know me so well.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Marjorie comes back into the room.</context>
+      <utterance>Can I open anything yet?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait for me.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Before you start on that little lot , I have a surprise. Next weekend, we're all going to Chez Georges to celebrate Jenny's birthday.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lovely.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny giggles her delight. Jack's smile is a little more forced.</context>
+      <utterance>Chez Georges is in the Boulevard St Germain. In Paris.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How d'you mean, Paris?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know the one, Dad.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But..We haven't got any French money. And I'm not sure...I just don't think it would agree with me.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They don't like us, the French, you know. John Sutton at work went once. They were very rude to him. I'm not sure I'd like that.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="10">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to spoil anyone's fun, but...It's not for me, Europe. We'll go another time.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've just said you don't like Europe. What's going to change? It'll have to be Europe, won't it? Because it isn't going to be you.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can take her.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To France? And leave me here on my own?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jack looks cornered. He needs to find a way out.</context>
+      <utterance>Oh, for God's sake.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jack looks at him.</context>
+      <utterance>Listen, I'm really sorry to have caused all this to-do. I just thought it might be nice. But I'll go with Aunt Helen and Uncle Daniel. They can have your tickets.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aunt Helen? The one who went to the concert with you?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, that's the one.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, there we are.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are we?</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="5">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aunt Helen! Don't you see? If Aunt Helen's going to be there...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't want to put a spoke in anyone's wheels. But if you look at it from my angle...A bachelor, taking my daughter off to Paris...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, impossible. I hadn't thought it through properly. I do apologise, Jack. Would you prefer it if Helen took Jenny on her own? I don't mind. I've been to Paris before.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>He smiles broadly. He's off the hook. Jenny catches David's eye and smiles.</context>
+      <utterance>Oh, I couldn't possibly ask...No, no. If Aunt Helen's going...</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="2">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are some things you must buy for us, and some things you only have to buy for us if you're a proper, true friend.  Chanel perfume, Chanel perfume.  Chanel lipstick, Chanel lipstick. What have I forgotten?</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context>A very small girl, twelve or thirteen, comes in to the classroom and approaches Jenny.</context>
+      <utterance>Those funny cigarettes you were smoking. Sobranies. Ten packets each.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="3">
+   <speaker>SMALL GIRL</speaker>
+      <mode></mode>
+      <context>Tina, Hattie and Jenny stare at her.</context>
+      <utterance>Are you the girl going to Paris?</utterance>
+   <speaker>SMALL GIRL</speaker>
+      <mode></mode>
+      <context>Miss Stubbs comes into the classroom carrying books and essays. She sees the small girl and shoos her out. She then approaches Jenny and whispers discreetly into her ear.</context>
+      <utterance>Well are you or aren't you? Because I'd like some perfume.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>Jenny looks at her, startled and a little sick.</context>
+      <utterance>Jenny, the headmistress would like a word at the end of the lesson. I'm afraid that the legend of Mr Rochester may have travelled further than you intended.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="4">
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context>Jenny enters, looking young and frightened.</context>
+      <utterance>Come.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context>Jenny tries to look back at her with all the courage she can muster.</context>
+      <utterance>Ah. Miss Mellor.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context>Jenny looks at her feet.</context>
+      <utterance>We're all very excited about your forthcoming trip to Paris. Our excitement, indeed, knows no bounds. Some of us can talk of little else.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An older man, I understand. A word of warning, Miss Mellor.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="3">
+   <speaker>70.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There may well have been the odd sixth-form girl who has lost an important part of herself - perhaps the best part - while under our supervision. These things happen, regrettably. If, however, we are made aware of this loss, then of course the young lady in question would have to continue her studies elsewhere, if she still has any use for `A'-levels. Is that clear?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I go now?</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context>Jenny turns round and walks out without saying another word.</context>
+      <utterance>Please.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="5">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's no bed.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah. I pushed the boat out and got us a suite.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A suite!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, if work stops us getting to Paris until tomorrow, then work can buy us a nice hotel room. Anyway, it's a special occasion, isn't it?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I would have thought that tonight of all nights we only need a bedroom.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="9">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Rather absurdly, he half-disappears over the side of the bed, reaching for something on the floor. He comes back with a banana. Jenny stares at him.</context>
+      <utterance>Hold on a second. I've got something.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What on earth is that for?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny shrieks with horror.</context>
+      <utterance>I thought....I thought we might want to practice.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With a banana?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought we'd get the messy bit over with first.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David, I don't want to lose my virginity to a piece of fruit.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>David attempts to kiss her again. Jenny wriggles clear.</context>
+      <utterance>I'm sorry.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's wait until we get to Paris. I think the moment might have gone.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny doesn't deny it.</context>
+      <utterance>I'm sorry, Minnie. I'm such a fool.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="7">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And David..... if tomorrow night does happen, it will never happen again, so...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why won't it ever happen again?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because the first time can only happen once.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>David looks chastened.</context>
+      <utterance>So, please...No Minnies. No baby- talk. I'm not old enough for baby- talk. Treat me like a grown-up.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know. Let's go and sit in our sitting-room.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny looks at him with what might, from one angle, be construed as fondness.</context>
+      <utterance>Hooray! I'll order some champagne.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="3">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny turns round, smiles, shakes her head.</context>
+      <utterance>Do you still feel like a schoolgirl?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And it wasn't too uncomfortable?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>David looks at her. She isn't being cruel. She just doesn't know any different. She returns to her people-watching. He smokes ruminatively.</context>
+      <utterance>Not after the...first bit. It's funny, though, isn't it? All that poetry, and all those songs and films, about something that lasts no time at all?</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="10">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can you go back to double French when you've had a weekend with an older man in a posh hotel in Paris? You wouldn't catch me coming anywhere near this dump.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It wasn't all glamour. We spent half the weekend at Heathrow in a hotel suite .</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context>They smoke their Sobranies ruminatively.</context>
+      <utterance>A suite? Oh my God. Your life.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going to miss it. All the swanning around in posh hotels.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why will I need to miss it?</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Jenny doesn't say anything.</context>
+      <utterance>When you go to Oxford. Unless you're planning on being with David forever.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not, are you?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God, no.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Jenny shrugs. Clearly she will, and clearly she hasn't thought about it before.</context>
+      <utterance>So? Won't you miss it?</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll miss it.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="9">
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny, could I have a word?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Miss Stubbs waits until the room empties.</context>
+      <utterance>Of course. I'll catch you up.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can do anything you want, Jenny. You know that. You're clever and you're pretty... But sometimes those things fight. I'm worried that at the moment clever Jenny and pretty Jenny are fighting.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I couldn't bear it if clever Jenny lost. It's because of people like you that I plough through illiterate essays by Sandra Lovell about her pony. And there aren't many of you, I can tell you. One every few years. Is your boyfriend interested in clever Jenny?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think so.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Interested enough to let her do what she wants?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He couldn't stop me.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He might not have to stop you. That's what I'm trying to tell you.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="11">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure what you're trying to tell me.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>Jenny looks at her.</context>
+      <utterance>I'm telling you to go to Oxford. No matter what. Or you'll break my heart.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where did you go?</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where did you go? Which university?</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Girton. Cambridge.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What does that mean? `Oh'?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're clever. And you're pretty. So presumably, Clever Miss Stubbs won. And here you are, reading all those pony essays. I don't know. These last few months, I've been to Paris, and to jazz clubs, and I've eaten in wonderful restaurants, and seen wonderful films, heard beautiful music...</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>Jenny stares at her angrily.</context>
+      <utterance>I'm sure you have. But I was filled up with beautiful things, books and music and conversation, in exactly the same way at Cambridge. And I didn't have to pay the same sort of price. Are you taking precautions, Jenny?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's nothing to do with that.</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="5">
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Isn't it?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe our lives are always going to end up with pony essays. Or housework. And yes, maybe we'll go up to Oxford. But if we're all going to die the moment we graduate, maybe it's what we do before that counts.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry you think I'm dead.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think you're dead. But...</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>She turns her back on Jenny.</context>
+      <utterance>You'd better get to your next class.</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="5">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And we know the person who owns this?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Perec Rachman. He's a....</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>Danny and David laugh.</context>
+      <utterance>A bastard.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a business acquaintance, and we need to talk to him.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I gathered that much. But why do we have to crawl around the West End looking for his car? Why don't you just make an appointment, if you want to see him?</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="2">
+   <speaker>78.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The men snigger.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? Ring his office? Talk to his secretary? That isn't how it works with him, dear.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="9">
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>We see a nasty-looking man in his late 30s/early 40s. He is wearing a white sharksin suit and smoking a big cigar. He's standing by the roulette table, talking to an even nastier- looking man in a dark suit. They find a table at the back and sit down. A waitress comes over to their table.</context>
+      <utterance>There he is.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A bottle of champagne, please.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>He looks at Jenny and David expectantly.</context>
+      <utterance>Oh-ho. Champagne, eh?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be bashful.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Everyone ignores her.</context>
+      <utterance>No. Be Sneezy.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, then. If you won't tell them I will. Jenny got two As and a B in her mock-A levels.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fantastic.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Congratulations.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="4">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Rachman is now standing on his own. Danny nudges David, and they go over to talk to him just as the champagne arrives. The waiter pops the bottle of champagne and pours two glasses. The girls smile and clink glasses.</context>
+      <utterance>The B was in Latin. But it's much better than it was, isn't it, Minnie?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About what?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Jenny stares at her, trying to think of a response.</context>
+      <utterance>Someone told me that in fifty years no-one will speak Latin, probably. Not even Latin people. So you shouldn't mind too much about your B.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="5">
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>They both chuckle. There is a silence for a moment.</context>
+      <utterance>Well, I'm not sure you'd want him to marry your sister. I'm not even sure you'd want to talk to him in a night-club, come to that.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You do know what you're doing, old chap? With Jenny?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the one, Danny.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've heard that before.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can see she's different. She's got everything. You've got Helen, and....</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="3">
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you've got Helen with brains.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>They make their way back to their table.</context>
+      <utterance>I don't want to see her hurt.</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="6">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you...Have you bought any more paintings recently?</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>A good `un, I think.</context>
+      <utterance>Have I? Let's think? Oh, I picked up a little Piper the other day.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm still trying to work out what makes good things good. It's hard, isn't it?</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>Jenny smiles at him with gratitude. There is a sudden closeness between them. David is watching them carefully. They return to their table.</context>
+      <utterance>The thing is, Jenny, you know, without necessarily being able to explain why. You've got taste. That's not even half the battle. That's the whole war.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny, we should go. It's late.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Yes.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="2">
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alas. One day, school will be over forever, and we can talk about art all night.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He guides Jenny firmly out of the club.</context>
+      <utterance>You're all right in a taxi, aren't you?</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="9">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He runs to the back of the car, opens the boot and starts rummaging through it. It seems to be full of everything but the thing he's looking for.</context>
+      <utterance>Wait there.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>He slams the boot shut and comes back empty-handed.</context>
+      <utterance>What are you doing?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny stares at him for a moment, then laughs.</context>
+      <utterance>Will you marry me?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What were you looking for?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought I had a ring. It wouldn't have been the right one. But it would have done for tonight.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, David.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm serious.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're very sweet.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think?</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="3">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you say `A penny for your thoughts?' in French?</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A franc is too much, isn't it?</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Suddenly the door bursts open and the Latin teacher comes in.</context>
+      <utterance>For her thoughts, yes. You'd be overpaying by about ninety-nine centimes.</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="5">
+   <speaker>MAN ON THE RADIO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They do need some looking after, but nothing that will require too much work. Just leave them in your potting shed for a couple of weeks, and they'll look after themselves.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, aye. The potting shed. Who does he think I am? Prince Rainier of Monaco?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jack and Marjorie turn around and stare at this strange apparition wearing too much make-up and a school uniform.</context>
+      <utterance>What if I got married instead of going to college?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Married?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Married.</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="14">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It would depend who it was, surely?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would it? That's interesting.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Course it would. I wouldn't want you married off just for the sake of it.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Has somebody asked you?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Marjorie rolls her eyes.</context>
+      <utterance>Who?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you tell him?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing yet.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. A man I just met walking his dog.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Bloody hell. Pardon my French.</context>
+      <utterance>David's asked you to marry him?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context>She looks at her daughter knowingly. Jack merely looks confused.</context>
+      <utterance>Do you have any choice? Or is it too late.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course she's got a choice. But it's an interesting one, isn't it?</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="8">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is where you're supposed to say, "But what about Oxford?"</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well. Looked at it one way, you wouldn't really need to go now, would you? He's a man going places. And say what you like, but they know how to take care of their money, don't they? He'll see you're looked after.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't need to go. Would you like to expand on that?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny laughs bitterly. She can't believe it.</context>
+      <utterance>You know what I mean.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All that Latin! All those essays! What was the point? Why didn't you just send me out prowling round nightclubs? It would have been less trouble. And I might have had more fun.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We don't know about nightclubs. We knew about education. Anyway, it all turned out for the best.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny stares at them and walks out.</context>
+      <utterance>He wouldn't have wanted you if you were thick, would he?</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="9">
+   <speaker>GIRL 1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May not an ass know when the cart draws the horse? Sings whoop jug I love thee.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>Girl 1 looks at her blankly.</context>
+      <utterance>Yes, when it says `Sings', it means he sings those words.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never mind. Lear...</utterance>
+   <speaker>ANN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does any here know me. This is not Lear. Does Lear walk thus?</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Jenny starts to giggle.</context>
+      <utterance>No.</utterance>
+   <speaker>ANN</speaker>
+      <mode></mode>
+      <context>Tina shakes her head.</context>
+      <utterance>Speak thus?</utterance>
+   <speaker>ANN</speaker>
+      <mode></mode>
+      <context>Tina doesn't need to say anything - she just looks at Jenny, makes a pair of spectacles with her fingers and squints. Jenny's giggling fit increases in intensity.</context>
+      <utterance>Where are his eyes?</utterance>
+   <speaker>ANN</speaker>
+      <mode></mode>
+      <context>Jenny's arm shoots up, as if to answer the question.</context>
+      <utterance>Either his notion weakens, or his discernings are lethargied. Ha! Waking? Tis not so. Who is it that can tell me who I am?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Miss Stubbs looks at Jenny more in sorrow than in anger - Jenny's behaviour now is something new in their relationship. Jenny stares back at her defiantly. Suddenly Miss Stubbs notices something glinting on her hand: an engagement ring.</context>
+      <utterance>Ooh. Miss. Me. I can.</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="10">
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>She is, as she promised she would be, heartbroken.</context>
+      <utterance>Oh, Jenny.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>Hattie, who is sitting behind Jenny, notices the ring, too, for the first time.</context>
+      <utterance>Take it off.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God. Is that really what I think it is? I'M GOING TO BE A</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know there's a school rule about jewelry.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Half the girls in this room are wearing jewelry.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. But none of it is going to ruin their lives.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have a difference of opinion on that. Miss Stubbs stares at her. Jenny can only just steel herself to stare back.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>Jenny doesn't move.</context>
+      <utterance>Let's see who's right. Come with me.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>Jenny gets to her feet. Teacher and pupil leave the room, while the rest of the class watches.</context>
+      <utterance>Please don't make me drag you out like a child.</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="9">
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How far advanced are these ridiculous plans? Have you set a date? Have you decided on a church?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>The headmistress stares at her, dumbfounded.</context>
+      <utterance>We won't be getting married in a church. David's Jewish.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jewish? He's a Jew? You're aware, I take it, that the Jews killed our Lord?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>The headmistress snorts scornfully</context>
+      <utterance>And you're aware, I suppose, that our Lord was Jewish?</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context>Jenny smiles to herself.</context>
+      <utterance>I suppose he told you that. We're all very sorry about what happened in the War. But there's no excuse for that sort of malicious and untruthful propaganda.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyway, I can now see that you are even more in need of responsible advice than I realised. Is it true that you don't intend to sit for your exams? And therefore you won't be applying for University?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, that's right.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think you're doing?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody has been able to explain to me the point of University.</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="8">
+   <speaker>89.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Therefore I don't see the point of the exams, either.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody does anything worth doing without a degree.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And nobody does anything worth doing with one, either. No woman, anyway.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context>Jenny doesn't say anything. The headmistress takes her silence as an admission of defeat.</context>
+      <utterance>So what I do isn't worth doing. Or what Miss Stubbs does, or Mrs Wilson, or any of us here.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context>Jenny can't contain herself any longer.</context>
+      <utterance>Because none of us would be here without our degrees, you realise that, don't you? And yes, of course studying is hard, and boring, and...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boring!</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Studying is hard and boring. Teaching is hard and boring. So you're telling me to be bored, and then bored, and then finally bored again, this time for the rest of my life. This whole stupid country is bored. There's no life in it, or colour in it, or fun in it. It's probably just as well that the Russians are going to drop a nuclear bomb on us any day now. So my choice is either to do something hard and boring, OR to marry my... my Jew, and go to Paris and Rome and listen to jazz and read and eat good food in nice restaurants and have fun. It's not enough to educate us any more, Mrs Walters. You've got to tell us why you're doing it.</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="3">
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context>She grinds to a halt. She has never had to answer this question before.</context>
+      <utterance>Because without formal qualifications...</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context>Jenny stands up.</context>
+      <utterance>It doesn't have to be teaching, you know. There's the Civil Service.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She leaves the office.</context>
+      <utterance>I don't wish to be impertinent, Mrs Walters. But it is an argument worth rehearsing. You never know. Someone else might want to know what the point of it all is, one day.</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="4">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny doesn't answer.</context>
+      <utterance>How d'you mean, left?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about your exams?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sitting them.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are we going to tell people?</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="7">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, telling people. I'd forgotten that what we tell people is more important than anything.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Marjorie knows what he's going to say, and doesn't want him to.</context>
+      <utterance>All that...</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jack!</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. No need for Jack. She should hear it. All that money! Do you know how much it's cost me for you to go through school and take no exams?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jack gapes at her. He's floundering.</context>
+      <utterance>I'm sure David will pay you back. Send him a bill. As you said, he wouldn't have wanted me if I was dim, so he should fork out. Just tell me why there's a point in sitting my exams, and there's no point in me going to University.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what your trouble is, don't you? You're too clever by half.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In which case I should have left school years ago, shouldn't I? Ask them for the money back. If I'm too clever by half, you overpaid by a third.</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="7">
+   <speaker>92.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Danny isn't so pleased.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>There is much chinking of glasses.</context>
+      <utterance>Congratulations.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Jenny smiles.</context>
+      <utterance>I thought you'd see sense about university.</utterance>
+   <speaker>HELEN</speaker>
+      <mode>CONT'D</mode>
+      <context>Laughter from David and Jenny.</context>
+      <utterance>You'll stay pretty now.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Am I still allowed to read?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>More laughter.</context>
+      <utterance>English? Books?</utterance>
+   <speaker>HELEN</speaker>
+      <mode>CONT'D</mode>
+      <context>Helen is bemused by their mirth. Danny watches David thoughtfully.</context>
+      <utterance>You won't be laughing when she goes all speccy and spotty, David.</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="3">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Danny didn't seem very pleased about our engagement.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought that, too! I was wondering whether he might be a bit jealous.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jealous?</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="7">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't put my...my stamp on it yet. Haven't had time. It needs a woman's touch, really. And if you don't like it, we can move. Just say the word.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is the flat again?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context>Jenny sighs and rolls her eyes. She picks up the hand- knitted tea-cosy and puts it on her head.</context>
+      <utterance>You have to put the cosy on straight away.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>David laughs.</context>
+      <utterance>Like that?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. On the tea-pot.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She puts the tea-cosy on the tea-pot.</context>
+      <utterance>Ah.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just down from Russell Square. Two minutes' walk from the underground.</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="11">
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context>Jenny gives her a look.</context>
+      <utterance>Jenny! We could walk to... We could walk to the British Museum!</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context>She leaves the room.</context>
+      <utterance>I'll leave you to it. Don't let it stew.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And this is where you're living?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've stayed there for the last couple of nights.  On and off.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've stayed there two nights "on and off"?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that tea ready? One sugar, please.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. You must think I'm very odd.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She hands him his tea.</context>
+      <utterance>No, but.... You seem to float around. I never know where you are.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A wandering Jew. If I tell you something, will you promise not to laugh?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It depends on how funny it is.</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="7">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I live at home.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We all live at home.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I mean...I live at home...in the same way that you live at home.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>David nods, shamefacedly.</context>
+      <utterance>But I live with my mother and fa... You don't mean it.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your mother and father?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He looks quite upset. We warm to him. Jenny leans over and takes his hand.</context>
+      <utterance>Just my mother. My father's dead. I've been meaning to tell you, Minnie, and it would have been much better than all those silly lies. But...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Close on Jenny. She can't imagine, really.</context>
+      <utterance>Anyway. You can see how much I need you. And you won't regret this, I promise. We'll have so much fun. And just think. When we get married, you won't have to wait in the car while I do my business.. You'll be waiting at home, looking at the Burne-Jones on the wall. Home, Minnie. Our home. Can you imagine?</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="9">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you do this one? "Show from any TWO scenes in `Pride and Prejudice' how far it is true that Jane Austen's methods are `essentially dramatic'".</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three scenes.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She shows the paper to Hattie. Hattie slumps onto the formica table and groans.</context>
+      <utterance>It says two here. Look.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context>Tina rubs Hattie's head sympathetically.</context>
+      <utterance>Two. Two. Two. I can't believe it.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Jenny shrugs.</context>
+      <utterance>It was an unfair question. You're hopeless at maths. What do you do all day, anyway, Lady Muck?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been looking at flats. I've been to look at dresses. I've been reading a lot, too.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Where did we go wrong?</context>
+      <utterance>Reading, trying on dresses...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's this afternoon?</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Jenny is lapping it all up. She might even be envious.</context>
+      <utterance>French. The translation paper.</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="8">
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry. He'll find a nice place in no time. He sees plenty of them.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Something about this depresses Jenny. Marjorie notices.</context>
+      <utterance>I'm not sure he sees plenty of nice places. Would you like a radiogram for a wedding present? We love ours.</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context>Now they are both thoughtful. As if on cue, Jack comes into the sitting room, pulling at his tie, looking apprehensive. He appears to be wearing Brylcreem. He looks like a little boy who has been made to put on his Sunday best.</context>
+      <utterance>You won't be bored, you know. He's not boring.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What sort of things can you have for starters? I mean, how will I know what are starters and what aren't? I'm all right if it's soup or fruit juice. But if it's anything more than that...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>The doorbell rings. Jack stiffens. Jenny goes to answer the door.</context>
+      <utterance>We've been through this, Dad. It'll be quite clearly marked on the menu.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>David enters the room. He is relaxed, happy. He has worn a tie, possibly because he knew that Jack would wear a tie. Jack and Marjorie stand, and they exchange greetings.</context>
+      <utterance>Why don't you three go out? I'll be happy here with a tin of...</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everybody ready? I think you'll like this place, Jack. Their wine list is as good as anything I've seen in London.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Someone told me that.</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="4">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>David, probably. Who else would it have been?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was hoping you'd take us in this.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>He opens the back door for his future in-laws.</context>
+      <utterance>Oh, you won't want to go in anything else after tonight. Mind you, it drinks petrol. I'm afraid we'll have to stop on the way in to town.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>They get in, he closes the door, runs round to open the front passenger door for Jenny.</context>
+      <utterance>Madame. Monsieur.</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="4">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everyone happy?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I feel like Eamonn Andrews.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that a good thing?</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course. Eamonn Andrews is the poshest person that Jack can imagine being.</utterance>
+</dialogue>
+
+<dialogue id="128" n_utterances="7">
+   <speaker>ATTENDANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can I help you, sir?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>David looks around and spots a phone box just outside the garage. He leans in through the open car window.</context>
+      <utterance>You might as well fill her up.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm just going to make a quick call. I'll be two ticks.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny watches David as he dials the number. He notices her, waves, puts the money in the slot.</context>
+      <utterance>Do you think we should offer him some petrol money? Or would he feel insulted?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>David starts to talk, and turns away, as if he's frightened that someone in the car can lip-read.</context>
+      <utterance>He'd feel insulted, probably. He said tonight was his treat. That must include the petrol, for God's sakes?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Nobody pays him any attention. They lapse into silence. Jack starts to fiddle with the features in the car - a table springs down from the seat in front of him, much to his alarm.</context>
+      <utterance>What do you think?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God almighty. What have I done?</utterance>
+</dialogue>
+
+<dialogue id="129" n_utterances="9">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>It's too late. We see Jenny's stricken face, gleaming in someone else's headlights.</context>
+      <utterance>Jenny!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny, I...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take us home.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny laughs, mirthlessly, then starts to weep.</context>
+      <utterance>There's been a...Jenny's had a bit of a shock.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's happened?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's another one of David's little muddles and misunderstandings.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny, it's not...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to hear another word from anybody. Take me home. NOW.</utterance>
+</dialogue>
+
+<dialogue id="130" n_utterances="8">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny gets out of the car too.</context>
+      <utterance>You can sort this out, can't you, David?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course I can. She's just got the wrong end of the stick about something.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jenny and David watch Jack and Marjorie go into the house. The moment the door is closed, Jenny walks towards David. She's holding a bunch of letters that she took out of the glove compartment. She starts to throw them at him, one by one.</context>
+      <utterance>Go inside, Dad.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>When she has thrown the last one, she flies at David - she slaps him, punches him, scratches him. David tries to grab her hands, but she's too wild.</context>
+      <utterance>Mr and Mrs David Goldman, Mr and Mrs David Goldman, Mr and Mrs David Goldman, Mr and Mrs David Goldman..</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just let me...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're MARRIED!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Finally he manages to subdue her. She leans against the car, distraught.</context>
+      <utterance>Legally, yes, but...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When were you going to tell me?</utterance>
+</dialogue>
+
+<dialogue id="131" n_utterances="8">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Soon. It just - it never seemed the right time. You seemed so happy, and I was happy, and...It would have spoiled everything. What can I do, Minnie? What can I do? How can...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Oh, Jenny. I'm just too busy to find somewhere to live...I live with my mummy." You were living with your wife! All this time!</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>David gestures vaguely.</context>
+      <utterance>What's your address?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Byron Avenue.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Byron Avenue! It's no wonder we kept bumping into each other, then, is it? What number?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's no point..</utterance>
+</dialogue>
+
+<dialogue id="132" n_utterances="3">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny picks one of the envelopes up off the ground and looks at it.</context>
+      <utterance>Seventeen.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good grief. It's the truth.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please. You have to understand. I was with you just about all the spare time I had.</utterance>
+</dialogue>
+
+<dialogue id="133" n_utterances="8">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spare time? Spare time? I can't tell you how grateful I am.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be like this.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have nothing. I left school. I didn't take my exams. Where's it all gone, now? I gave my life away.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>We can see Jack and Marjorie peering through the lace curtains anxiously.</context>
+      <utterance>Jenny, I can get a divorce. Everything will turn out for the best. You'll see.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>David stands on the pavement, looking towards the house. He looks away; he can't make eye contact with Jenny's parents.</context>
+      <utterance>Go and tell them. Go and tell them, then go and tell your wife. I want to see you. I want to stand there and watch.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're not going to listen to me now. Let me come round tomorrow. When everyone's calmed down a bit.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please don't leave me to tell them on my own. Please. You owe me that much. You owe them that much.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two minutes. And then I'll come out and drag you in.</utterance>
+</dialogue>
+
+<dialogue id="134" n_utterances="3">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She stands, pale and young-looking again, opposite her parents. Suddenly they are all three lit up by headlights. Shot from their POV of the Bristol roaring off up the street.</context>
+      <utterance>He's helping himself to some Dutch courage before facing you. Stolen Dutch courage, from the look of it. He has something to tell you.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>We close slowly in on Jenny's face. But of course he'd drive off!</context>
+      <utterance>He just drove off.</utterance>
+</dialogue>
+
+<dialogue id="135" n_utterances="9">
+   <speaker>WIFE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Hello.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>The woman stares at her.</context>
+      <utterance>Hello. I'm sorry. I think I must have the wrong house.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She dries up and looks at the woman helplessly.</context>
+      <utterance>Yes. I wanted number...It's my cello lesson. Silly. I...</utterance>
+   <speaker>WIFE</speaker>
+      <mode></mode>
+      <context>Jenny blushes. Beat. She turns and tries to walk back up the driveway, but the woman won't let her go.</context>
+      <utterance>Oh, no. Don't tell me. Good God. You're a child.</utterance>
+   <speaker>WIFE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. No. You stay here. If you're old enough to sleep with him, you're old enough to look at me.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>But she doesn't move, either.</context>
+      <utterance>I can't.</utterance>
+   <speaker>WIFE</speaker>
+      <mode></mode>
+      <context>Jenny shakes her head.</context>
+      <utterance>You didn't know about any of this. Presumably.</utterance>
+   <speaker>WIFE</speaker>
+      <mode></mode>
+      <context>Jenny nods.</context>
+      <utterance>No. They never do. Did he ask you to marry him?</utterance>
+   <speaker>WIFE</speaker>
+      <mode></mode>
+      <context>Jenny shakes her head.</context>
+      <utterance>Yes. Of course he did. You're not in the family way, are you? Because that's happened before.</utterance>
+</dialogue>
+
+<dialogue id="136" n_utterances="6">
+   <speaker>WIFE</speaker>
+      <mode></mode>
+      <context>She nods at the children.</context>
+      <utterance>Thank God for that. At least you can escape intact.  Relatively speaking. Not all of them have done.</utterance>
+   <speaker>WIFE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's why he never goes through with anything. He does love them.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's beautiful.</utterance>
+   <speaker>WIFE</speaker>
+      <mode></mode>
+      <context>Jenny does the maths. It's all she can do to stop herself from reeling backwards - she's visibly shaken.</context>
+      <utterance>Thank you. He.  He's four months old.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Four months!</utterance>
+   <speaker>WIFE</speaker>
+      <mode></mode>
+      <context>She pushes past Jenny and leaves her standing bereft on the path.</context>
+      <utterance>Yes. Babies often are that sort of age. Perhaps you can remember a night four months ago when he seemed a little distracted. Anyway. If you'll excuse us.</utterance>
+</dialogue>
+
+<dialogue id="137" n_utterances="3">
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you see her?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>There wasn't any need.</context>
+      <utterance>I saw her. I didn't talk to her.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>He starts for the door.</context>
+      <utterance>Well we've got to have this out. If you won't do it, I will.</utterance>
+</dialogue>
+
+<dialogue id="138" n_utterances="9">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sit down.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I beg your pardon? I'm still your father, Jenny.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you're my father again, are you? What were you when you encouraged me to throw my life away? I'm a silly schoolgirl. Was, anyway. Silly schoolgirls are always being seduced by glamorous older men. But what about you two?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>He gives up hopelessly. Marjorie says nothing.</context>
+      <utterance>We didn't...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Jack looks at her.</context>
+      <utterance>And now I've got nothing. I'm...I'm broken.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That doesn't mean....what I think it means, does it? It can't.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>Jenny looks at him in disbelief.</context>
+      <utterance>Just tell me that you didn't...you haven't, you know...You didn't....</utterance>
+   <speaker>MARJORIE</speaker>
+      <mode></mode>
+      <context>Now I know.</context>
+      <utterance>I wondered how stupid you were.</utterance>
+</dialogue>
+
+<dialogue id="139" n_utterances="4">
+   <speaker>JACK</speaker>
+      <mode>O.S.</mode>
+      <context>She continue to put her David-life away into bags. She ignores him.</context>
+      <utterance>Jenny.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>No answer. He puts the tea on the floor, and sits down next to it.</context>
+      <utterance>There's a cup of tea for you here.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context>He waits for an answer - nothing.</context>
+      <utterance>I know I made a mess of everything.</utterance>
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All my life I've been scared, and I didn't want you to be scared. That's why I wanted you to go to Oxford. So that if someone asked you out to a nice restaurant, you wouldn't panic about what was a starter and what was a main course. And then David came along, and he had money, and he knew famous writers, and he knew how to get to classical music concerts. But he wasn't who he said he was. He wasn't who you said he was, either.</utterance>
+</dialogue>
+
+<dialogue id="140" n_utterances="2">
+   <speaker>JACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The other day, your mother and I were listening to a programme about CS Lewis on the radio, and they said he moved to Cambridge in 1954. And I said to Marjorie, Well, they've got that wrong, because how would our Jenny get her book signed, if he wasn't in Oxford?</utterance>
+   <speaker>JACK</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Jenny, I'm sorry.</utterance>
+</dialogue>
+
+<dialogue id="141" n_utterances="4">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't really understand what difference it makes. When I found out that...</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context>Helen shrugs.</context>
+      <utterance>Helen! Not now.</utterance>
+   <speaker>DANNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I tried to tell him. I'm not speaking to him now, if that's any consolation.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a funny world you people live in. You both watched me... carrying on with a married man, but you don't think it's worth saying anything.</utterance>
+</dialogue>
+
+<dialogue id="142" n_utterances="8">
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context>Jenny doesn't say anything. She has clearly decided to swallow anything she has to.</context>
+      <utterance>So. Your Jewish friend turned out to be married already, I understand. How unfortunate.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyway. How do you think we can help?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd like to repeat my last year at school. Start all over again.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got the impression the last time we spoke that you didn't see the point of school. Or of me, or of any of us here.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know. I was stupid.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what is the point?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know that I need to go to university.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And what happens if some other chap wants to marry you during your studies next year?</utterance>
+</dialogue>
+
+<dialogue id="143" n_utterances="6">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some other chap? There won't be any other chaps. Not for a long, long time, anyway.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid I think you're the sort of young lady who attracts chaps whether she wants to or not. No,I think the offer of a place at this school would be wasted on you. You showed how little you valued us only weeks ago. And I must confess that it gives me a sort of grim satisfaction to return the sentiment now.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it really so grim, your satisfaction?</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It gives me no pleasure to see our schoolgirls throw their lives away. Although, of course, you're not one of our schoolgirls any more. Through your own volition.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose you think I'm a ruined woman.</utterance>
+   <speaker>HEADMISTRESS</speaker>
+      <mode></mode>
+      <context>Beat. Jenny stands up and leaves without saying a word. The headmistress is pleased with her final line.</context>
+      <utterance>Oh, you're not a woman.</utterance>
+</dialogue>
+
+<dialogue id="144" n_utterances="9">
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Jenny smiles wanly, and briefly.</context>
+      <utterance>I'm sure my uncle knows someone who could kill him. If that would help.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We should have stopped you.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you want to?</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course we didn't. Why would we stop you? Restaurants, hotels, foreign cities, no exams...</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>They look at her. This is new information.</context>
+      <utterance>Yes. Who'd have thought there'd be a down side to all that? I could tell you all about the imagery in Jane Eyre. But I couldn't see that a man who stole maps from old ladies might be a liar.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, if you'd told us that we might have tried to stop you.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are a lot of things I didn't tell you. I was dreaming.</utterance>
+   <speaker>TINA</speaker>
+      <mode></mode>
+      <context>Beat.</context>
+      <utterance>That's the thing about our lives, isn't it? It's so easy to fall asleep, when there's nothing to keep you awake.</utterance>
+   <speaker>HATTIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you getting on with the work all right on your own?</utterance>
+</dialogue>
+
+<dialogue id="145" n_utterances="2">
+   <speaker>113.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jenny thinks.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. No, I'm not.</utterance>
+</dialogue>
+
+<dialogue id="146" n_utterances="6">
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Miss Stubbs makes a face.</context>
+      <utterance>This is lovely.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Miss Stubbs laughs.</context>
+      <utterance>But it is. Really. I'd love to live somewhere like this.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, it's not hard. Go to Oxford and become a teacher and this is what you end up with.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But all these books and pictures....</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Penguin paperbacks. Posters and postcards.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, but...That's all you need, isn't it?</utterance>
+</dialogue>
+
+<dialogue id="147" n_utterances="9">
+   <speaker>114.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just a place to...I'm sorry I said those silly things. I didn't understand.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>A poster catches Jenny's eye.</context>
+      <utterance>Let's forget all about it.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>Miss Stubbs laughs.</context>
+      <utterance>A Burne-Jones.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context>Jenny pauses.</context>
+      <utterance>You make it sound as though it's an original. Do you like him?</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I do. Still.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Still? Gosh, you sound very old and wise.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I feel old. But really not very wise. Miss Stubbs, I'm....I need your help.</utterance>
+   <speaker>MISS STUBBS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was so hoping that's what you were going to say.</utterance>
+</dialogue>
+
+<dialogue id="148" n_utterances="5">
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny says nothing.</context>
+      <utterance>Jenny.</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context>Jenny looks at him disbelievingly.</context>
+      <utterance>Jenny. Minnie. I wanted to tell you that I am going to ask my wife for a divorce.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>David looks at her. This isn't going to be as easy as he thought.</context>
+      <utterance>Don't you understand what you've done?</utterance>
+   <speaker>DAVID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can see my behaviour must have been... confusing. But we've never sat down and had a proper chat about it all. About the whys and wherefores. They can wait. The important thing is that you're still my Minnie Mouse, and I love you, and you had fun. You know you had fun.</utterance>
+   <speaker>JENNY</speaker>
+      <mode></mode>
+      <context>She looks at him and shakes her head, as if awaking from a dream. A young man stops behind her on his bike, dismounts, leans his bike against the wall next to hers, waits for her to finish. She turns her back on David, and the young man offers her his arm. They walk away together, and David stares longingly after them.</context>
+      <utterance>Yes. I had fun. But I had fun with the wrong person, at all the wrong times. And I can't ever get those times back, now. Look, David. I'm in Oxford. Every day I wake up and pinch myself. And when I think how close I came...</utterance>
+</dialogue>
+
+
+</movie>

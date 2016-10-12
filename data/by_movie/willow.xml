@@ -1,0 +1,3206 @@
+<movie id="601" title="Willow">
+
+<dialogue id="1" n_utterances="19">
+   <speaker>DRUID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it a girl?</utterance>
+   <speaker>ETHNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is a girl.</utterance>
+   <speaker>DRUID</speaker>
+      <mode></mode>
+      <context>Ethna peels back the swaddling. On the baby's arm is a small marking.</context>
+      <utterance>Show me its arm.</utterance>
+   <speaker>DRUID</speaker>
+      <mode></mode>
+      <context>With great urgency the druid hurries up the dungeon stairs. Ethna gently places the baby on the mother's breast. The mother comforst the baby lovingly until it stops crying. Then she reaches out and clasps the midwife's wrist.</context>
+      <utterance>It's true then. I must tell Queen Bavmorda.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>Ethna nervously looks out at the guards, then shakes her head at the mother.</context>
+      <utterance>Ethna, please. Help me. They're going to kill my baby.</utterance>
+   <speaker>ETHNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They'll kill you.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>Ethna hesitates. Then decides. She quickly wraps to- gether some rags and gives them to the mother.</context>
+      <utterance>Please save my baby.</utterance>
+   <speaker>ETHNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pretend this is the child.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>The mother kisses her baby and hands it to Ethna, who hides the baby inside the basket of rags. Ethna car- ries the basket past the guards and up the stairs. The mother lies back and sighs with relief. Then she hears clinking bootsteps and her eyes widen with fear. QUEEN BAVMORDA sweeps down the dungeon stairs, her black robes flowing behind her. The druid hurries alongside.</context>
+      <utterance>Thank you, Ethna. Thank you.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>You're certain this is the one?</context>
+      <utterance>We will start the ritual at dusk.</utterance>
+   <speaker>DRUID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It bears the markings.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>The guards fearfully move aside as Bavmorda enters the cell.</context>
+      <utterance>I must see for myself! Just as the omen foretold!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So. You were the one.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. But nothing you can do will stop the prophecy.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Bavmorda grabs the rags away from the mother and anxi- ously tears them apart.</context>
+      <utterance>This child will have no power over me....</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>One of the guards looks up the stairs.</context>
+      <utterance>Where's the baby!</utterance>
+   <speaker>GUARD</speaker>
+      <mode></mode>
+      <context>Bavmorda flies into a rage.</context>
+      <utterance>The midwife!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Two guards draw swords and charge upstairs. Bavmorda grabs the third guard and nods toward the mother.</context>
+      <utterance>Find that baby! Use the dogs! Sorsha!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Bavmorda storms away with the druid. WE SEE the shadow of the guard move over the terrified mother. War drums begin to beat out an alarm.</context>
+      <utterance>Kill her.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="2">
+   <speaker>DEATH DOG</speaker>
+      <mode></mode>
+      <context>The dogs lunge from the woods and splash across the river. The midwife claws her way up a steep bank, lur- ing the dogs. As they attack her:</context>
+      <utterance>Bordak!</utterance>
+   <speaker>MIDWIFE</speaker>
+      <mode></mode>
+      <context>She grabs a stick and tries to defend herself, thrash- ing at the snarling dogs. From the baby's view, as it floats down the river, WE SEE the dogs kill the midwife beyond the distant trees.</context>
+      <utterance>I don't have her! No! No!</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="3">
+   <speaker>RANON</speaker>
+      <mode></mode>
+      <context>Willow beams with joy as his son and daughter race to- ward him. They grab his sleeves and tug him away from his plow.</context>
+      <utterance>Dada! We found something in the river!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't run off and play with you now. I've got work to do.</utterance>
+   <speaker>RANON/MIMS</speaker>
+      <mode></mode>
+      <context>Willow drops his sack of seeds. The ugly hog glares at him like a guilty conscience. The children squeal with excitement as their father runs toward the river with them.</context>
+      <utterance>But Dada, you gotta see it! Hurry!</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="10">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Back! Don't go near it. We don't know where it's been. It could be diseased.</utterance>
+   <speaker>MIMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a baby!</utterance>
+   <speaker>RANON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not a Nelwyn baby.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, it's too big to be a Nelwyn baby. It looks like a daikini...</utterance>
+   <speaker>MIMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ooh, it's so cute...</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow drags Mims away. Then the baby starts crying.</context>
+      <utterance>Mims! Get back here! It might bite you.</utterance>
+   <speaker>RANON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't we keep it, Dada?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Absolutely not.</utterance>
+   <speaker>BURGLEKUTT</speaker>
+      <mode></mode>
+      <context>Willow, in a sudden panic, sees BURGLEKUTT in the dis- tance. He splashes into the river, grabs the raft, plunks it on the bank and tries to hush the crying baby.</context>
+      <utterance>Ufgood! Willow Ufgood!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shhh, shhh! It's the Prefect -- that's all I need. Mims, Ranon, keep this thing hidden...</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="7">
+   <speaker>KIAYA</speaker>
+      <mode></mode>
+      <context>Willow's wife KIAYA chases Burglekutt across the field, her beautiful long hair flowing behind her. Willow quickly gets behind his plow like he's been there all day.</context>
+      <utterance>Mr. Burglekutt! He hasn't done anything wrong!</utterance>
+   <speaker>BURGLEKUTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ufgood! What do you think you're doing! I tell the planting seeds in this village.</utterance>
+   <speaker>KIAYA</speaker>
+      <mode></mode>
+      <context>Burglekutt furiously scoops a handful of seeds out of Willow's sack and shakes them under Willow's nose.</context>
+      <utterance>I told him we didn't steal it, Wil- low.</utterance>
+   <speaker>BURGLEKUTT</speaker>
+      <mode></mode>
+      <context>With pride, Willow puts his arm around his wife.</context>
+      <utterance>You haven't paid your debts. Where did you get these seeds?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Suddenly the children laugh in the distance.</context>
+      <utterance>In the forest. My family's been gathering them since last fall. There's no law against that, Bur- glekutt.</utterance>
+   <speaker>KIAYA</speaker>
+      <mode></mode>
+      <context>In alarm she runs off before Willow can stop her. Bur- glekutt sweeps the horizon with his walking stick.</context>
+      <utterance>Willow! You left the children alone by the river??</utterance>
+   <speaker>BURGLEKUTT</speaker>
+      <mode></mode>
+      <context>He raises the seeds high above his head, then smashes them down at Willow's boots. He waddles away toward two of his MEN who wait by the road. Then: Kiaya SHRIEKS from the river. Burglekutt stops in his tracks and shakes his head as if to say "the whole family's crazy." Off he trudges. Willow watches and waits. Then runs as fast as he can to the river.</context>
+      <utterance>Too late, Ufgood. You'll never get your planting done before the rains start. You're gonna lose this land.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="2">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>They all fall in love as he speaks. The children fol- low Kiaya up on the bank, walking right past Willow.</context>
+      <utterance>Absolutely, under no condition, is anyone in this family going to fall in love with that baby.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Ignored, Willow huffs after them across his unplowed field.</context>
+      <utterance>Kiaya! We can't keep that baby. Mims, Ranon. Hey! I will not be ignored!</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="7">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is bad. If we're caught with that little daikini it'll be the end of us. Careful, Ranon, I need that for the festival.  Kiaya, what are we going to do?</utterance>
+   <speaker>KIAYA</speaker>
+      <mode></mode>
+      <context>The baby squeals with joy as Kiaya lifts her into the bath.</context>
+      <utterance>We're gonna give this baby a bath.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He shudders at the thought.</context>
+      <utterance>Burglekutt's right. There's not enough time to finish plowing. We'll lose everything and I'll end up working in the mines.</utterance>
+   <speaker>KIAYA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Willow, do you think we should take her to the Village Council?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no! They'll think it's a bad omen. There'll be a flood or a drought or a plague and everybody'll blame me for it!</utterance>
+   <speaker>RANON</speaker>
+      <mode></mode>
+      <context>Willow leans forward. On the baby's shoulder is a small branded scar in a circular design. It only adds to Willow's fears.</context>
+      <utterance>Look. What's that?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The baby kicks and splashes and giggles in the bath.</context>
+      <utterance>I don't know. This is trouble. I'll talk to the High Aldwin about it tomorrow at the Festival.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="21">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Meegosh applauds as Mims and Ranon trot out lugging a tiny baby pig in a crate. As Willow takes the pig out it bites his hand and gets away. Willow tackles and squashes it. The crowd laughs and half of them leave, and Meegosh covers his face. Mims and Ranon rapidly wave a bright blanket. Willow cleverly whips the pig under his legs and behind his back and suddenly it's gone! Impresse, the crowd gasps. Then the pig squeals and dashes through Willow's legs and leaps off the stage.</context>
+      <utterance>And now! For our final amazing bit of magic, I will make an entire pig completely disappear!</utterance>
+   <speaker>CROWD</speaker>
+      <mode></mode>
+      <context>Burglekutt and the Council shake their heads as Willow, embarassed, picks up his things. Meegosh trots up with the pig under his arm.</context>
+      <utterance>Aaww! Booo! Sssss!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Meegosh, I'm in trouble.</utterance>
+   <speaker>MEEGOSH</speaker>
+      <mode></mode>
+      <context>But as they walk past the Village Council, and Bur- glekutt sneers down at Willow, Meegosh catches on.</context>
+      <utterance>Hey, it wasn't that bad. You need a better pig, that's all.</utterance>
+   <speaker>MEEGOSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now Burglekutt's got you in the squeeze. Soon you'll be down in the mines like me.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mining. I hate closed-in spaces. That's the last thing I'd ever do.  I gotta get my crop planted.</utterance>
+   <speaker>MEEGOSH</speaker>
+      <mode></mode>
+      <context>The Village Council members stand up respectfully as the wise old HIGH ALDWIN hobbles through the adoring crowd. Mims and Ranon rush up to Willow with several other children who are eating candy.</context>
+      <utterance>You know I'll help you as much as I can, Willow.</utterance>
+   <speaker>MIMS</speaker>
+      <mode></mode>
+      <context>Can we, can we? Please?</context>
+      <utterance>Dada, can we get treacle candy?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Meegosh, can you watch the chil- dren? I gotta talk to the High Aldwin.</utterance>
+   <speaker>MEEGOSH</speaker>
+      <mode></mode>
+      <context>But Willow has already wandered into the crowd, leaving Meegosh with a dozen sugar-charged children and a pig. Willow desperately pushes past people and finally reaches the High Aldwin.</context>
+      <utterance>The High Aldwin?? Why?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir! I have to talk to you.</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not today, Willow.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Burglekutt stares angrily from his platform. Slightly annoyed, the High Aldwin stops and places his hand on Willow's shoulder.</context>
+      <utterance>It's a matter of great importance to me!</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context>Suddenly a walking stick is pointed at Willow's nose.</context>
+      <utterance>Intuition, Willow -- remember? I know you're eager to be my appren- tice, Willow. But today is the spring festival.</utterance>
+   <speaker>BURGLEKUTT</speaker>
+      <mode></mode>
+      <context>His belly shakes as he howls with laughter, encouraging his councilmen to join in. Willow shrinks away, em- barassed. Then a terrified SHRIEK shatters the festivity. Music stops and people grab their children and run for their lives. A DEATH DOG rips a trail of destruction through the village. Meegosh holds onto Ranon and Mims. But when Mims sees Willow she runs right out into the open. Willow charges twoard her, tackling her and rolling away from the beast's claws.</context>
+      <utterance>Apprentice? To the High Aldwin!! Willow Ufgood???</utterance>
+   <speaker>DEATH DOG</speaker>
+      <mode></mode>
+      <context>A loud war cry distracts the dog. VOHNKAR, the toughest warrior in the village, leads a charging army of miners and farmers wielding shovels and picks. Wil- low and Meegosh grab sticks. The Nelwyns battle the Death Dog. At last, Vohnkar drives a spear through its chest and it dies hideously.</context>
+      <utterance>Bordak! Bordak!</utterance>
+   <speaker>MEEGOSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was it looking for?</utterance>
+   <speaker>A VILLAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It said "bordak"! What does it mean?</utterance>
+   <speaker>COUNCILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Baby! It means baby! It was look- ing for somebody's baby! Mothers grab their children, people look around the wrecked village in terror. There's a haunting silence.</utterance>
+   <speaker>MIMS</speaker>
+      <mode></mode>
+      <context>Suddenly alarmed, Willow races towrd his distant farm, his children hurrying behind.</context>
+      <utterance>Mommy?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kiaya! Kiaya!</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="27">
+   <speaker>BURGLEKUTT</speaker>
+      <mode></mode>
+      <context>This only adds to the frenzy.</context>
+      <utterance>An evil beast from the outer world has invaded our peaceful village, looking for a baby!</utterance>
+   <speaker>A VILLAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a sign! An omen!</utterance>
+   <speaker>ANOTHER VILLAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Our crops will die!</utterance>
+   <speaker>BURGLEKUTT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Silence! One beast we can kill. But there may be more! And they won't give up their search till they've found what they're looking for!</utterance>
+   <speaker>MEEGOSH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whose baby is it!</utterance>
+   <speaker>OTHER VILLAGERS</speaker>
+      <mode></mode>
+      <context>Amid the chaos the High Aldwin slowly stands up. As if he senses something, he looks over the crowd toward the back. At the back door, holding the baby, Willow tries to push his way through the jostling crowd. The High Aldwin raises his hand. It flashes magically. He points as he speaks:</context>
+      <utterance>Who's to blame for this!</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context>The crowd stands apart as Willow walks the length of the room. Kiaya and the children follow part way and then stand aside next to Meegosh. Burglekutt simmers as Willow approaches the platform.</context>
+      <utterance>Willow Ufgood! Come before me!</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Earlier today you tried to tell me something, Willow.</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A daikini child...  ...of some importance, I feel...</utterance>
+   <speaker>BURGLEKUTT</speaker>
+      <mode></mode>
+      <context>The crowd rumbles, many agree.</context>
+      <utterance>That's what the beasts want! Give it back!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They'll kill her! We can't let this baby die!</utterance>
+   <speaker>BURGLEKUTT</speaker>
+      <mode></mode>
+      <context>Burglekutt whips up the shouting crowd. The High Aldwin raises his hands, feeling the air above him. Almost in a trance:</context>
+      <utterance>What do we care!</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...importance...yes...this child is special...</utterance>
+   <speaker>COUNCILMAN</speaker>
+      <mode></mode>
+      <context>Instantly, the High Aldwin drops his arms and opens his eyes.</context>
+      <utterance>What should we do?</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context>The room goes silent.</context>
+      <utterance>This child must be taken beyond the boundaries of our village. All the way to the daikini crossroads.</utterance>
+   <speaker>A VILLAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who will do that?</utterance>
+   <speaker>SEVERAL VILLAGERS</speaker>
+      <mode></mode>
+      <context>Vohnkar the warrior elbows his way to the front and pounds his chest once with his fist.</context>
+      <utterance>Vohnkar! Vohnkar!</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context>Brave Vohnkar swallows and shifts his weight doubtful- ly.</context>
+      <utterance>The outer world is dangerous and corrupt, Vohnkar. And this baby is hunted by blood-hungry beasts. Are you willing to sacrifice your life?</utterance>
+   <speaker>VOHNKAR</speaker>
+      <mode></mode>
+      <context>The crowd rumbles and shouts, and Vohnkar mops his brow and scuttles away from the platform.</context>
+      <utterance>If I go, who'll defend you if other beasts attack?</utterance>
+   <speaker>BURGLEKUTT</speaker>
+      <mode></mode>
+      <context>All eyes turn to Willow. Kiaya gasps and Meegosh holds her back.</context>
+      <utterance>He's right! It seems only fair that the man to take this baby to the crossroads...  ...be the very man who plucked it...  ...out of the river!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't do it! I haven't put my crop in!</utterance>
+   <speaker>A COUNCILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You caused this trouble. You found the baby...you get rid of it!</utterance>
+   <speaker>BURGLEKUTT</speaker>
+      <mode></mode>
+      <context>The crowd cheers wildly. The High Aldwin steps forward to the edge of the platform. With a flourish he waves his arms.</context>
+      <utterance>I nominate Willow Ufgood!</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context>Something rattles as he shakes his cupped hands. The crowd jumps away. The High Aldwin scatters small bones across the floor below him. He leans down and studies the bones. Willow looks at Kiaya, who is worried and afraid. The High Aldwin speaks softly to him:</context>
+      <utterance>I will consult the bones!</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context>Willow hesitates. He looks at the baby.</context>
+      <utterance>The bones tell me nothing.  But I must make a decision. Is there love in your heart for this child?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The High Aldwin bolts straight up, broadcasting:</context>
+      <utterance>Yes.</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context>The people shout and cheer and applaud and begin to leave. Kiaya and Meegosh and the children push their way toward Willow, who stands there staring at the baby.</context>
+      <utterance>The bones have spoken! Willow? The security of this village depends on you!</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="8">
+   <speaker>MIMS</speaker>
+      <mode></mode>
+      <context>Willow sets the baby down. He goes around an opne wall an sits on his daughter's bed, straightening her blank- ets and toys.</context>
+      <utterance>Dada?</utterance>
+   <speaker>MIMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Watch out for brownies, Dada.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He smiles and kisses her. Then crosses over to Ranon's bed.</context>
+      <utterance>I will, Mims. Goodnight.</utterance>
+   <speaker>RANON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dada, what's a daikini?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Daikinis are giant people who live far far away.</utterance>
+   <speaker>RANON</speaker>
+      <mode></mode>
+      <context>Willow shrugs. Ranon sits up in bed.</context>
+      <utterance>Are you scared?</utterance>
+   <speaker>RANON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I could be you rguard! I could carry your spear!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What a great son you are, Ranon. I wish I could take you with me. Now go to sleep... Ranon slides down under his blankets. Willow kisses him, looks at him a moment, then quietly withdraws to- ward the fire.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="11">
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now, you know where you're going?  Down there, through those trees, follow the river. You'll know the crossroads by a big daikini struc- ture. Willow, this is serious business. Don't waste any time, the outer world is no place for a Nelwyn. Give the baby to the first daikini you see, then hurry home as fast as you can.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I'm not strong enough to be your apprentice, how can I do this?</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're strong enough. But you're going to need courage, Willow.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want courage. I don't want to be a warrior. All I've ever wanted was to do magic, real magic, like you!</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context>The High Aldwin picks up a rock. With intense concen- tration he squeezes it in his outstretched hand. Then throws it in the air. It changes into a bird and flies away.</context>
+      <utterance>Real magic, Willow, is simply the art of controlling the reality of others. You lack faith in your- self. You must learn to trust your intuition.</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go in the direction the bird is flying.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, if I could do that I'd--I'd turn Burglekutt into a toad!</utterance>
+   <speaker>HIGH ALDWIN</speaker>
+      <mode></mode>
+      <context>The High Aldwin touches Willow's shoulder and turns away. The children are playing tag among the stones. Willow hugs them. Kiaya places the baby in the papoose.</context>
+      <utterance>Waste magic on revenge? You have much to learn, Willow...</utterance>
+   <speaker>KIAYA</speaker>
+      <mode></mode>
+      <context>Kiaya, whose head is covered with a kerchief, places a braided necklace on her own hair around Willow's neck.</context>
+      <utterance>Willow, we've never been apart. I miss you already. Take this. It will bring you luck.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He kisses her. The adjusts the papoose and heads off down the hill. The others wave goodbye sadly.</context>
+      <utterance>You cut your hair, Kiaya?</utterance>
+   <speaker>KIAYA</speaker>
+      <mode></mode>
+      <context>Kiaya rushes down the hill and passionately throws her arms around Willow, tears in her eyes. At last they break apart, and Willow begins the journey.</context>
+      <utterance>Willow!!</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="3">
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've patrolled the hills. This is where they killed the nursemaid.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>One of the Death Dogs is chewing on the Lieutenant's stirrup.</context>
+      <utterance>She must have done something with the child. Widen the search!</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context>The dog panics and gnashes at the Lieutenant's arm, ripping away a piece of armor with its teeth. Horses rear. The Lieutenant draws his sword lightning-fast. He slices and kills the Death Dog. The baby begins to cry but the death-howl of the beast drowns her out as it does hurtling off the bridge into the river below. The soldiers gallop off into the woods. Willow falls back against the riverbank, shrinking away from the murdered Death Dog which lies bloody and twisted in the water. The terrified baby cries in his arms.</context>
+      <utterance>Get away from there!</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="17">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Not sure where it came from. he backs away from the fire, under the rag-filled cage. Suddenly a hand reaches down and yanks Willow up off the ground! Wil- low screams. The baby cries. And WE SEE the haggard unwashed unshaven face of MADMARTIGAN pressing against the bars of the cage.</context>
+      <utterance>I really hate this.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Madmartigan shakes Willow like a rag-doll until Willow nods his head yes. Then drops him. Instantly Willow races around that fire, picking up everything he owns.</context>
+      <utterance>Hey, Peck...get me some water...or you'll diiiiie...!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow grabs the baby and makes a beeline for the bushes.</context>
+      <utterance>I will--I'll getcha water--getcha lotsa water--anything you say--!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He dives headfirst into the weeds. Madmartigan rattles his cage.</context>
+      <utterance>Peck!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow peeks at him and shakes his head.</context>
+      <utterance>You're a weasely little Peck! Gimme some water!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>They stare at each other across the fire. Then, Mad- martigan puts on a very phony smile.</context>
+      <utterance>I'm not coming near you!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please? I'm dyin' of thirst in here.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan drops the smile and spits at the fire.</context>
+      <utterance>Good. How long will it take?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't make me angry, Peck.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You be careful. I'm a powerful sorcerer. I could turn you into a toad just like that.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow throws a rock at him. It bounces off the cage. Madmartigan sags down into a heap of rags again. EXT. CROSSROADs - NIGHT The wind howls through the distant trees as darkness falls. Willow rocks the baby and eats some bread. Madmartigan watches him hungrily, sighing, forlorn, his eyes asking for pit. Willow glances at him. Finally, he can't take any more and he puts down the baby and pous some goat's milk in a cup. He reaches up on tip-toes and offers the milk to Madmartigan.</context>
+      <utterance>Miserable Pecks.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Madmartigan snatches the cup and guzzles the milk, retching horribly at the taste. Then he tosses the cup back.</context>
+      <utterance>That's more like it.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do any other daikinis ever come by here?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan grabs the bars and raises himself up.</context>
+      <utterance>I have to give this baby to some- body.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He makes little kissing noises to the baby, trying to be sweet. However, his teeth are filthy.</context>
+      <utterance>I'm somebody. Lemme out and I'll take care of your baby.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow retreats to the fire. Madmartigan whacks the cage with the back of his hand.</context>
+      <utterance>No. Somebdoy put you in there for a reason. I'll wait for somebody else.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="21">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey! Somebody's coming!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Excited, Willow tosses more wood on the fire, picks up the baby and waits.</context>
+      <utterance>Peck! Quick! Douse the fire!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Torches appear up the road. A horse-drawn wagon clatters full-speed toward the fire. WE HEAR load drunken voices, far from friendly. Willow quickly dives into the bushes. Four boorish PICTS, with tatooed faces and arms, halt at the crossroads, yelling and waving their torches. Madmartigan is hidden under his rags. For fun the Picts set fire to the skeleton cage. Then head for the other.</context>
+      <utterance>No, you fool! Put it out I say! Out!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He rises up in the torchlight. The Picts taunt him.</context>
+      <utterance>No!!</utterance>
+   <speaker>PICT</speaker>
+      <mode></mode>
+      <context>They jab their torches at Madmartigan.</context>
+      <utterance>Whose fire!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! Help! Stop!</utterance>
+   <speaker>PICT</speaker>
+      <mode></mode>
+      <context>Madmartigan points way up the road. The Picts ride away. As they go, they swing his cage and st fire to the floor of it. Madmartigan frantically geats the flames. His sleeves ignite. Willow scrambles out of the bushes and scoops up hand- fuls of dirt, which he chucks at Madmartigan.</context>
+      <utterance>Where are they? Where did they go?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks for your help, Peck.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you okay?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>They eat babies!</context>
+      <utterance>As if you care. I saved your life, Peck. Those guys woulda killed us!  You wanna give your baby to them??</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan literally licks his wounds, dragging his parched tongue along the length of his forearm. Willow begins to walk away.</context>
+      <utterance>I don't know.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow stops and turns around.</context>
+      <utterance>The world's gone insane. Good men locked in cages, criminals running free. It doesn't pay to be honest, Peck.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan slinks down like a cat and slowly extends his derty hand through the bars.</context>
+      <utterance>Don't call me a Peck. My name is Willow.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow stares warily at the hand. Madmartigan smiles. Willow quickly shakes his hand and jumps away. Madmar- tigan laughs in a harmless, friendly way.</context>
+      <utterance>Hello, Willow. I'm Madmartigan.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You a woodcutter?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Farmer.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>A rat lumbers out of the darkness and sniffs toward the baby in the porta-crib. Madmartigan suddenly points. Willow screams and chases the rat away. Madmartigan shakes his head as solemnly as an undertaker.</context>
+      <utterance>Farmer! I knew it! You're a vic- tim, Willow. Yep, you and me: victims of a rotten, corrupt, cor- rupt, rotten world.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>After a moment, Willow takes out his dagger. He stands on his toes under a cage, reaches up, and hacks at the chain lock. Madmartigan's eyes widen over-eagerly. he rubs his hands together and licks his lips.</context>
+      <utterance>Listen, Willow my friend. I'm really a good man. Give me my freedom, and I'll look after that baby for you. Trust me.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow suddenly steps away.</context>
+      <utterance>That's it--good--good--like that, yes, good, good, the chain--that's it, come on--come on--!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan goes berserk. His arms flail and the whole cage shakes and swings and he bangs his head on the roof.</context>
+      <utterance>Nooo, I don't think I should.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow scrambles back to the fire and scoops up the baby and rocks her in his arms.</context>
+      <utterance>Peck!! Stupid Peck! I'll kill ya! Let me out!</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="12">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow turns his back on him and tends to the baby.</context>
+      <utterance>Morning, Willow.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow looks over. madmartigan pats his arms in pain.</context>
+      <utterance>Sorry I yelled at you. I've been in this cage toooo long. Can't think straight anymore. Owww...!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You all right?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He holds up his arms in agony. Willow fishes some gooey jelly out of his sack and smears a gob of it on a leaf. He hands it up to Madmartigan.</context>
+      <utterance>These burns. My arms. Ouch...</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan wipes the goo all over his arms.</context>
+      <utterance>See if this helps.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He holds out a ratlle and shakes it. Willow accepts it.</context>
+      <utterance>Aaaaaahhhh. Better. Here, I made something for the baby.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan sticks his finger in his mouth and pries it open as wide as possible.</context>
+      <utterance>What's inside?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>I'm strving. I got no used for it. Noise in the distance. up the road Willow sees a MESSENGER charging on horseback. He gallops right past, whipping his horse, almost knocking Willow off the road. Then another MESSENGER follows with the same urgency. Willow grabs the baby and steps out to stop him.</context>
+      <utterance>A tooth.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The messenger screams a Willow who jumps aside as he thunders by. The two horsemen disappear up the road.</context>
+      <utterance>Stop! Wait!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Smells like a battle.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you a warrior?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Madmartigan slices the air with an imaginary sword. Willow shakes his head and goes back to the baby.</context>
+      <utterance>The greatest swordsman that ever lived.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="22">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that? I hear something!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You hear trouble.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The horizon rumbles. Madmartigan cups his ear. Cyni- cally:</context>
+      <utterance>What is it?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Two CAVALRY OFFICERS gallop into view, raising a plume of dust. Then an enormous ARMY appears: cavalry, foot soldiers, assault wagons: shields, swords, spears, raised banners. The two officers shout orders over the thunderous clamor of hoofbeats, marching boots and clanking armor. Charging back and forth, they shepherd the army through the crossroads. Willow holds the baby. Fighting dust and noise he tries to get the officer's attention.</context>
+      <utterance>A hundred horses...five or six wagons... and about six thousand fools.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir? Sir!</utterance>
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context>An officer's horse nearly kicks Willow, who scurries out of the way. Huddling with the baby, he notices AIRK THAUGHBAER, a large, muscular, bearded officer, clearly in charge. On horseback, Airk breaks file and rides up to the other officers.</context>
+      <utterance>Out of the way!</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context>Shouting orders, the officers split up, charging to the front and rear of the army. Airk watches the army pass. Willow desperately scrambles up to him.</context>
+      <utterance>Push 'em harder! No rest at mid- day! We need to make ten more leagues by dark!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Huge Airk looks down from his huge horse. Little Wil- low holds up the baby.</context>
+      <utterance>Sir! Sir! I have this baby. We found her in our village. Will you take her...?</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're going into battle, little one. Find a woman to take care of it.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Airk snaps hes head around and his eyes flash.</context>
+      <utterance>He thought you were a woman, Airk!</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Madmartigan! What did you do this time?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Airk's horse prances menacingly around Madmartigan's cage.</context>
+      <utterance>Nothing you wouldn't have done it my place!</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I always knew you'd end up in a crow's cage.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Airk laughs sourly and rocks the cage.</context>
+      <utterance>Least I'm not down there herding sheep!</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context>He swings that cage and starts to ride away.</context>
+      <utterance>You're lucky somebody got to you first, Madmartigan! I'd've killed you myself after that stunt at Land's End!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Airk! Come on, Airk. Lemme outa here.</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, remember? You don't need my help, Madmartigan. Little rabbit trap like this? Come on! I could open it for you, but I wouldn't wanna insult you!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Airk quickly drops the banter and glares at Madmartigan seri- ously.</context>
+      <utterance>Gimme a sword, Airk. I'll win your war for you.</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context>Airk spurs his horse and smashes the cage as he charges off.</context>
+      <utterance>You're nothing but trouble, Madmar- tigan. And I got plenty of that. Stay in your coffin and rot!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be around long after you're dead, Airk! You slime! When I get outa here I'll cut your head off and stick it on a pig-pole!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan snarls down at Willow as the army continues to march by. But then he quickly gets cute again.</context>
+      <utterance>Friend of yours?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, little baby...</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="18">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatcha thinkin' about, Willow?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan squeezes his face between the bars of his cage.</context>
+      <utterance>I hate this.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody's gonna take your baby. Know why? Nobody cares...  Except me.  You wanna go back to your farm. You wanna go back to your family. I could take care of that baby. I'll look after her like she was me own.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan kneels and straightens up and points up his finger astutely.</context>
+      <utterance>You don't know anything about ba- bies.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He clsps his hands together outside the bars, plead- ing:</context>
+      <utterance>Ahhh! But I know a lot of women who do. Why, if I had somebody in my life--a little daughter for instance--I'd have a reason to live...</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow looks at the baby in the porta-crib. Then looks up the empty road. Then looks hard at Madmartigan.</context>
+      <utterance>Willow. You can't let me die here. Not when I wanna help you.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You gotta promise to feed her.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fresh goat's milk.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow draws his dagger and begins to hack at the chain.</context>
+      <utterance>Absolutely!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And give her a bath everyday, and don't let her get cold. And keep her diaper changed.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow hacks and pries at the chain until it breaks open. The bottom of the cage falls out, dumping Mad- martigan into a heap of rags and dust.</context>
+      <utterance>Of course! I promise!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Kneeling on the ground, he plays with the baby. Willow quickly hitches the papoose to Madmartigan's back and hands him supplies.</context>
+      <utterance>Come to Daddy, little darlin'.  I think she likes me!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here are her diaper rags. And this is her milk bladder. And when she cries--she's either hungry or she's tired--rock her on your left shoulder. She likes that.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow takes the baby and kisses her.</context>
+      <utterance>Don't worry, Willow. She's in good hands. You haven't made a mistake.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He puts her in the papoose.</context>
+      <utterance>Bye.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please take good care of her. Madmartigan stands up. He towers above Willow. He pats Willow on the head.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Madmartigan smiles, turns, and marches off down the road. Willow sighs with relief, his task accomplished. He watches Madmartigan and the baby disappear over a hill.</context>
+      <utterance>You've done a great job. Now you go back to your family and get your crop in.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="2">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The baby cries! Willow spins around. Flying towrd him is an incredible VULTURE with enormous winds. In its claws it carries the baby, papoose and all. It swoops straight at Willow, buzzing him, and Willow hits the dirt. He looks up. To add to the wonder: riding the vulutre is an ELF.</context>
+      <utterance>Look, it's Willow Ufgood! He's come home! Welcome back, Willow! He deserves a medal: he's quite mystical. For honor, for bravery, for his intuitive powers...  ...let's make him Apprentice Aldwin. Better still: High Aldwin! Make way! It's Willow Uf- good, High Aldwin of---</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The vulture zooms off into the tall majestic trees of the forest, with the baby crying. Shouting and waving madly, Willow gallops after it.</context>
+      <utterance>Come back here, you! That's my baby!!</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="2">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He hurries back to the fork and takes the safer route--</context>
+      <utterance>Oh no, it's a trap!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>--and gets swallowed by a deadly pit.</context>
+      <utterance>Oh noooooo!!</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="5">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He speaks a haughty, nasal accent resembling French:</context>
+      <utterance>Where am I? Where's the baby? FRANJEAN, the Elfin king, struts forward arrogantly.</utterance>
+   <speaker>FRANJEAN</speaker>
+      <mode></mode>
+      <context>Willow struggles against the ropes that bind him.</context>
+      <utterance>I am Franjean, king of the world.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Outraged, Franjean smacks Willow's nose with the back of his hand.</context>
+      <utterance>That baby's my responsibility!</utterance>
+   <speaker>FRANJEAN</speaker>
+      <mode></mode>
+      <context>As he leaves, Franjean nods to an intense-looking ARCH- ER elf heavily armed with arrows and a spear. The archer dips his spear in a bowl of purple liquid. He pricks Willow's arm.</context>
+      <utterance>I don't care. We paid for her. Go back to sleep, monsieur...</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeow!  Madmartigan...I never should've trusted you...</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="9">
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context>Too groggy to argue, Willow sticks out his tongue. TEEMO the brownie crushes a brittle leaf and tosses the dust into Willow's mouth. Smacking his lips, Willow comes around. He sees, down between his legs, another brownie named ROOL cutting the ropes.</context>
+      <utterance>Tongue.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Quiet, you fool!</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We are emissaries of her majesty, Queen Cherlindrea, of the land of Coshairm.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Queen Cherlindrea?</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She requests the presence of your- self and the young princess.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who??</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're the guardian, aren't you?</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context>Willow rolls onto his knees, stands up and bumps his head on the ceiling. The fuzzy-headed brownies creak open the door and becon Willow to follow. He squeezes through.</context>
+      <utterance>Quit yakking, Teemo. We gotta get outa here!</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="6">
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Elves! They're always tormenting babies. They make them cry and take their tears.</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Somebody has to do it.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why??</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context>The baby shrieks.</context>
+      <utterance>How else they gonna make dew drops?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm getting her out of there!</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context>Teemo ridiculously pushes Willow away from the door. With a macho swagger he adjusts his dagger belt, and he and Rool open the door.</context>
+      <utterance>No! You let us handle this. Come along, Rool!</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="3">
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Watch this. Right between the eyes.</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context>Artfully Teemo poises the dagger above his head. With all his might he throws. His dagger flip-flops through the air and lands at the elves' feet, plink-plunk.</context>
+      <utterance>He never misses.</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context>Suddenly the entire wall implodes. The elves scream and panic as Willow comes crashing in like King Kong. He grabs the crying baby and tucks her under his arm.</context>
+      <utterance>Ooops. Was that right? That wasn't right.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="10">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't go out there with the baby!</utterance>
+   <speaker>ROOL/TEEMO</speaker>
+      <mode></mode>
+      <context>The elf army pours out of the forest. Willow holds his breath and ventures out onto the topmost branches of the tree. Arrows zing around him as he wobbles like a drunken tightrope walker toward the middle. The brown- ies wait for him.</context>
+      <utterance>Elves!!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ohhh, I hate this.</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take your time. Don't worry about the elves. They won't come out here.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because of the trolls.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The brownies console Willow with unworried laughter.</context>
+      <utterance>Trolls?</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context>An ugly TROLL snarls up behind Willow. They all scream and race for the other side. Another TROLL pops up to meet them. The trolls slink along like possums. The brownies dive through a hole in the hollow tree trunk. The elves, meanwhile, flint-start a fire at their end of the tree. One troll claws at the brownies inside the trunk while the other chases Willow across gangling branches. Then the baby falls out of the papoose! She tumbles and catches on a low branch and Willow races the troll and grabs her just before she plummets into the gorge. One troll catches Rool but can't then get his claw out of the trunk. The brownies finally excape. The tree burns and breaks, dangling over the gorge by its roots. A troll howls as he falls to his death. The other scrambles up the tree and grabs Willow's foot. Willow's boot slips off and down goes the second troll. Flames lick at Willow as he at last hauls himself to safety, just as the roots snap and the blazing tree goes crashing down in the gorge.</context>
+      <utterance>Relax. They only come out at night.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is not going well.</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context>Willow bundles the baby and follows the brownies into the forest. Hobbling slightly on his bootless foot.</context>
+      <utterance>Hurry! Queen Cherlindrea will know what to do.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="36">
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context>Wonder-struck, Willow walks into a clearing where colorful night-flowers bloom. He lowers himself onto an enormous toadstool, testing it with his hand. Other BROWNIES stand watching, like courtiers. The tiny fairies fly up to Willow's face and giggle: they look like five-year-old girls, full of mischief and fun. Suddenly a strange LIGHT begins to throb behind the trees, peircing the forest with helter-skelter beams. Willow throws up his arms as the bright light stings his eyes.</context>
+      <utterance>Come on. This is a privilege. No- body ever gets called before Her Majesty.</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context>CHERLINDREA, the Fairy Queen, materializes out of frag- ments of moving light, diaphanous, sylph-like, beauti- ful.</context>
+      <utterance>Stand up! It's the queen!</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Willow Ufgood.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes...?</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context>Willow says nothing, still batling the bright light.</context>
+      <utterance>I hope you are comfortable here, inside my kingdom...</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Talk! Say something!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't see anything--she's too bright!</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context>The light diminishes, enabling Willow to see the queen. She is a beautiful vision, with flowing hair and lumi- nous eyes. Her magical presence both stuns and impresses Willow. She turns to the brownies.</context>
+      <utterance>I'm sorry...</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context>All the courtier brownies snap to attention and go into action, bustling about, going to work, some even trip- ping over one another. They bring Willow a drink in a delicate cup-shaped leaf, and he takes a sip. The queen dissolves and reappears near Willow. She le- ans down and opens the baby's swaddling and looks at the mark on the baby's arm.</context>
+      <utterance>Broke-heart of nightingale for our honored guest.</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context>The tiny fairies and the brownies stop work and sigh with respect and amazement. Cherlindrea seems to levi- tate the baby out of Willow's arms, floating her magi- cally onto a special cradle of stram and sticks. The brownies and fairies crowd around, with great rever- ence.</context>
+      <utterance>It is Elora Danan! The prophecy has come true.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean, you know who this baby belongs to?</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context>Willow starts to get up.</context>
+      <utterance>She belongs to all of us. She is the future queen and ruler of all kingdoms on earth.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The queen fragments and reappears right in front of Willow.</context>
+      <utterance>What a relief. Now I can go home.</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Willow. Your journey has just begun. It has been foretold that this child shall bring about the downfall of Queen Bavmorda, whose evil powers have darkened our world. Upon you depends this princess's life.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The Fairy Queen flashes and vanishes. Willow lowers himself back down again. She reappears behind him.</context>
+      <utterance>Me?</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are the guardian, Willow. You must take her to Tir Asleen.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow can't keep track of her. She keeps changing her shape. The brownies and fairies snicker at Willow's confusion.</context>
+      <utterance>What is Tir Asleen?</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context>She is gone again. Willow looks everywhere, frusturated by these riddles and mysteries.</context>
+      <utterance>It is a distant castle, where a great king and queen will look after Elora Danan and keep her safe until she is old enough to rule.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>She reappears again.</context>
+      <utterance>Where is Tir Asleen? How far is it?</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The way has been lost in time. But there is one person, a druid sor- ceress, who might guide you there. She was exiled by Queen Bavmorda many years ago. Her name is Fin Raziel.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>I'm nobody.</context>
+      <utterance>You need a warrior for this job.</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are very important, Willow.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>From down at his feet, Rool and Teemo stare up, insult- ed.</context>
+      <utterance>No I'm not. Have you really looked at me?  I'm short! Even for a Nelwyn!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why can't you do it? You have mag- ical powers.</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context>Cherlindrea drops three small objects in Willow's hand.</context>
+      <utterance>My prsence cannot extend beyond this forest. But I can give you these...</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context>Willow looks at them for quite a while.</context>
+      <utterance>They will protect you. Use them wisely.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They look like acorns.</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context>Willow looks closely at the acorns, then up at the queen.</context>
+      <utterance>Anything you hurl them at will turn to stone.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The forest light grows brighter. The queen looms over Willow and he again has to shield himself from the brightness.</context>
+      <utterance>They're magic? Are you serious?</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am very serious, Willow. There is no time to lose. Now she intensifies her light so that Willow backs away, completely covering his face.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The queen swirls around him like a solar wind, blowing the forest trees, scaring even the brownies. And then all of a sudden: silence. And total darkness. ALL WE SEE, in dim moonlight, is Willow's face, peeking out from between his fingers.</context>
+      <utterance>But I've got a family to think about! They need me!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The queen's voice echoes the forest.</context>
+      <utterance>Hello...?</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context>Very gradually and beautifully the firey fairies begin to flicker, restoring light to the forest. More light genlty brightens, bathing the woods, and the Fairy Queen reappears. She is holding Elora Danan in her arms. The brownies creep out from behind the trees. All eyes are upon Willow.</context>
+      <utterance>Bavmord'a powers are growing like an evil plague. Soon she will con- trol the lives of you children, your wife, your village...everyone.</utterance>
+   <speaker>CHERLINDREA</speaker>
+      <mode></mode>
+      <context>Willow takes the baby and looks at her for a moment. He struggles with his conscience. The fairies and brownies wait in anticipation. At last Willow looks up at them, resolved and determined.</context>
+      <utterance>The choice is yours.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The fairy kingdom sends up a great cheer and applause. Fairies giggle playfully around Willow's face, and brownies hug his ankles.</context>
+      <utterance>I'll do it. Yes, I will, I'll do it!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I only have one shoe.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="7">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He digs a magic acorn out of his pocket and tosses it high in the air. The brownies gasp.</context>
+      <utterance>Wait till I tell my children. Stuff like this never happens in my village.</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, careful there!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do these work I wonder? I got- ta save one to show the High Aldwin.</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context>Rool points through the trees. Willow hurries down the hill to the tree-line. In the valley below, 200 NOCK- MAAR SOLDIERS and CALVALRYMEN battle a hundred ragtag REBEL TROOPS. From this sage position high on the hillside, Willow watches in disgust. Weapons clash and men fall to their deaths.</context>
+      <utterance>Look! Death below!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>They hear a CLANK behind them. Willow slowly turns around. There is movement in the trees. The hillside woods are full of Nockmaar HORSEMEN moving right up next to him. In the valley, the oupowered rebels are being forced up the hill toward them. Willow is suddenly standing under several large horses and black-armored minions. He is frozen in fear.</context>
+      <utterance>Daikinis...</utterance>
+   <speaker>HORSEMEN</speaker>
+      <mode></mode>
+      <context>Swords flash and the horseman charge! The brownies jump and run for their lives. Willow stumbles and spins as horse after horse thunders past him, nearly trampling him and the baby to death. The Nockmaar reinforcements descend upon the remaining rebels and crush them. Willow falls and quickly digs the baby out of the papoose. She is shrieking in ter- ror. He holds her tight and runs along the tree-line, following the brownies, while the bloody battle rages below.</context>
+      <utterance>Hyaaaaahh!!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's get out of here. Shhh, don't cry, Elora. Things can't get any worse than this...</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="3">
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not going in there.</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me neither!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Suddenly there's a CRASH up above and two PICTS burst through a balcony and land in the mud, fighting vi- ciously. Rool and Teemo duck inside Willow's pockets. Willow steps around the Picts, dashes through the stable and up the stairs.</context>
+      <utterance>Don't worry--I'm a sorcerer. What could possibly happen?</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="7">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Everyone looks up. Mopping a table is an ugly BARMAID as big as a wrestler.</context>
+      <utterance>Could you spare some milk for this poor hungry baby?</utterance>
+   <speaker>BARMAID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get outa here, Peck!</utterance>
+   <speaker>PATRONS</speaker>
+      <mode></mode>
+      <context>They hurl stuff at him and threaten him with their weapons. Willow runs along the wall and takes cover under some stairs. He pulls open his pocket and peers down inside.</context>
+      <utterance>A Peck! Get him out! Beat it, Peck!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Instantly his pocket whips shut and trembles. Willow cautiously looks out under the stairs. He sees a pail of milk very near some ROUGHNECKS. Willow puts his little finger in the baby's mouth, silencing her. He creeps out. And bravely reaches for the milk.</context>
+      <utterance>I could use your help, boys.</utterance>
+   <speaker>TEEMO'S VOICE</speaker>
+      <mode></mode>
+      <context>Willow slaps his pocket. Then stretches his arm out very, very slowly. And gets the pail and zips back under the stairs.</context>
+      <utterance>Willow?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He soaks a rag with milk and feeds the baby. Catching his breath, he backs up and leans agains a woodplank wall.</context>
+      <utterance>This is not fun.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The plank gives way and Willow falls through the wall.</context>
+      <utterance>Woah!</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="17">
+   <speaker>WENCH</speaker>
+      <mode></mode>
+      <context>Very frightened, she looks out the window. The other woman, who wears a kerchief over her hair, packs thick powder and make-up paint on her face.</context>
+      <utterance>Hurry! Hurry!</utterance>
+   <speaker>THE OTHER WOMAN</speaker>
+      <mode></mode>
+      <context>It's Madmartigan! Willow pops up like a jack-in-the- box.</context>
+      <utterance>How do I look?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You!!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow strides toward Madmartigan, holding the baby like a machine gun.</context>
+      <utterance>Where the hell did you come from?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The brownies peek out.</context>
+      <utterance>I trusted you...</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's he?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>The bedroom door explodes open. In storms a big, mean, half-drunk raging lug named LLUG.</context>
+      <utterance>You're crawling with rodents.</utterance>
+   <speaker>LLUG</speaker>
+      <mode></mode>
+      <context>Madmartigan wraps a muffler around his throat. The wench innocently curtsies.</context>
+      <utterance>Where is he!!</utterance>
+   <speaker>WENCH</speaker>
+      <mode></mode>
+      <context>Llug knocks his wife out of the way and glares susi- ciously at Madmartigan, who bats his heavily made-up eyelashes. He speaks in a high feminine voice.</context>
+      <utterance>There's nobody here except me and my, um, cousin.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Llug sniffs at Madmartigan then fixes his gaze on Madmartigan's flat chest. He goes to squeeze him there, but Madmartigan ducks out of the way and snatches the baby from Willow.</context>
+      <utterance>How do you do.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey! Give me that baby!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These Pecks make terrible nurse- maids.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow angrily jumps up and down, swiping at the baby.</context>
+      <utterance>Nursemaid?!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>With a swing of the hip, Madmartigan butts Willow aside and maternally puts the baby against his chest. Llug houd-dogs him around the room, finally cornering him and staaring lecherously into his eyes.</context>
+      <utterance>They get too excited.</utterance>
+   <speaker>LLUG</speaker>
+      <mode></mode>
+      <context>Madmartigan protects himself by holding the baby up in front of his face. Then he smells the baby. He winces and groans.</context>
+      <utterance>Wanna breeeeeeed?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Time to change her diaper.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Madmartigan throws open the door and dashes out. But he doesn't get very far. Several NOCKMAAR SOLDIERS push him back in. Then they grab madmartigan and Wil- low, and Llug and his wife, and haul them all outside.</context>
+      <utterance>Time to leave.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="16">
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You! Are you the mother of that child?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Sorsha strides over to Madmartigan, her sword drawn.</context>
+      <utterance>No.  I mean yes.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Madmartigan looks at Willow then back at Sorsha.</context>
+      <utterance>Let me see it.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me see it.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan looks at Willow then back at Sorsha.</context>
+      <utterance>No! You can't!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because she's sick.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because she's sick.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Sorsha stabs her sword into the floor like a spike. She grabs for the baby. Instinctively, Madmartigan el- bows her away, whacking her hard and knocking her off- balance against a nearby bench. The soldiers tense up, pointing their swords and spears. Sorsha regains her balance. She rips off her black helmet. Long wild red hair tumbles over her shoulders. She is a young woman, and Madmartigan's eyes pop open. He does his best to keep up his femal facade.</context>
+      <utterance>Give it to me!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gawd...you're...beautiful...</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Sorsha comes right up to Madmartigan, squinting into his eyes. The she rips away his kerchief and muffler.</context>
+      <utterance>You're not a woman.</utterance>
+   <speaker>LLUG</speaker>
+      <mode></mode>
+      <context>All hell breaks loose. Llug charges for Madmartigan's throat. Madmartigna tucks the baby under his arm and dashes right out the window. Llug bulldozes Sorsha and her Lieutenant, and the tavern patrons take advantage of the chaos and stampede for the stairs. Willow dives out the window after Madmartigan.</context>
+      <utterance>Not a woman??!!</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>She grabs her sword and waves it at her soldiers who clatter toward the stairs, flinging people out of their way.</context>
+      <utterance>After them!!</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="35">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>In the back, the brownies boucne all over the place amid wooden kegs and other objects. When they finally get their balane they look back in alarm. Chasing them are two Nockmaar HORSEMEN plus a DEATH DOG and a war chariot. Willow ducks low and peeks out, protectively hugging the baby. The wagon bounces and flies along, but the minions are quickly gaining. Rool and Teemo spring into action. They struggle with all their might and manage to kck small wooden kegs off the back of the wagon. The kegs bounce onto the road, and the minions lose some ground trying to avoid them. But soon the horse- men flank the wagon. One leaps off his galloping horse and climbs on board. The other draws an arrow and gets ready to fire. Madmartigan is about to be shot between the eyes. He quickly rolls into the back. The archer firse! and hits the other minion in the chest. Madmartigna snaps a wooden stake off the wagon side and smashes the wounded minion off the wagon: he crashes onto the road. Willow harnesses the papoose to his chest and grabs the reins. At the same time the minion archer leaps aboard. He and Madmartigan fight in the back.</context>
+      <utterance>We could've been killed, Madmarti- gan!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Then there's a terrible howl right beside Willow. The Death Dog is leaping alongside the wagon, gnashing and trying to board. Willow yanks the reins and swerves the wagon into the dog, which yelps furiously. In the back, Madmartigan and the minion are thrown by the swerving jolt.</context>
+      <utterance>Heeyah! Heeyah!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Up ahead Willow sees an exposed tree root in the road. The wagon is headed straight for it! The wheel hits the root hard and Willow is dumped onto the wagon floor and very nearly goes overboard. In the back, Madmartigan and the minion keep fighting as the wagon clatter along out of control. The Death Dog catches up again and this time spring aboard.</context>
+      <utterance>Oh no!</utterance>
+   <speaker>DEATH</speaker>
+      <mode></mode>
+      <context>The dog snaps at the baby. Willow scurries under the wagon seat. The dog stands up on its hind feet.</context>
+      <utterance>Bordak!!</utterance>
+   <speaker>DEATH</speaker>
+      <mode></mode>
+      <context>It gets ready to attack. But WHACK! an overhanging tree branch hits it and Willow looks up from under the seat and sees the mangled dog twitching and dangling from the tree, rapidly disappearing in the distance. In the back, meanwhile, the minion draws a knife. Mad- martigan ducks out of his way, hanging onto a post at the edge of the tailgate. The minion comes after him. Suddenly the wagon wheel wobbles and the rim flies off. The jolt throws the minion off balance. Madmartigan kicks him. The minion hurtles off the taligate but holds on, dragged by the wagon. Rool and Teemo grab hold of a rope securing a large wooden keg. Together they yank it. Untying the keg and sending it tumbling off the back. The minion looks up in horror as the heavy keg crushes him. But the danger is far from over. The wagon rocks along with one wheel half-destroyed. Willow whips the reins and looks over his shoulder. Steam-rolling toward them is the war chariot! The Nockmaar CHARIOT DRIVER stands up and stuffs the reins in his mouth. He rasise his arm and begins to twirl a deadly weapon, a kind of bolo-blade, over his head. Madmartigan defends himself with a wooden wagon-post. The chariot driver hurls the whistling blade: CHONK! It lodges in the post. Madmartigan tugs. So does the chariot driver. Back and forth, the wagons smashing up each other. At last Madmartigan lets go of the post and the chariot driver is sent tumbling through the airl, over a cliff to his death.</context>
+      <utterance>Bordak!!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow tries to stop the horse. But the wheel col- lapses and he is thrown off into a ditch. The brownies dive overboard. Madmartigan jumps off and delibrerately sends the wagon up the road. He scrambles down into the ditch and lies flat beside Willow. Suddenly, hoofbeats thunder and Sorsha and the rest of her troops gallop past. Lying flat, Madmartigna raises his head and sees Sorsha's long flowing red hair.</context>
+      <utterance>Woah...woah...!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>As soon as the troops are gone, Willow jumps up.</context>
+      <utterance>That girl is a vision.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's the baby??</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you had her!</utterance>
+   <speaker>ROOL/TEEMO</speaker>
+      <mode></mode>
+      <context>The brownies are waving and gesturing madly, pointing at a heap of boards and rubble that broke off the wagon. Willow and Madmartigan race over and start dig- ging, flinging debris aside.</context>
+      <utterance>Willow!!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now Willow, I know you're gonna blame me for this but it wasn't my fault...!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow sees the battered, lifeless papoose. He grabs it and rips it open. Madmartigan kneels in the dirt remorsefully.</context>
+      <utterance>Elora Danan!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When I left the crossroads, I got ambushed by an elf!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Madmartigan! You saved her life!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow holds up the baby. She giggles and smiles. Madmartigan switches gears, boasting:</context>
+      <utterance>I did?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow bundles the baby and looks up the road.</context>
+      <utterance>I mean, of course I saved her life. She's almost my daughter, isn't she?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>They hurry off into the darkening woods.</context>
+      <utterance>Let's get out of here before they come back.</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context>Madmartigan dumps a big log on the fire, spraying the brownies with sparks.</context>
+      <utterance>Northeast is that way. We've come west and south. I think.</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Watch it! You're gonna set us on fire.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Madmartigan terrorizes them with a flaming stick. Then he squats beside Willow and the baby.</context>
+      <utterance>Not a bad idea.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you're on your way to Tir Asleen, huh? I hate to tell you this, Willow, but Tir Asleen dosn't exist.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes it does. The Fairy Queen told me.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He shakes his head sceptically, stretches out and puts his feet up on a log.</context>
+      <utterance>The Fairy Queen? And the baby here's a princess? And these two rodents are your guides?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He laughs sarcastically. Willow sets down the baby. He takes off Kiaya's necklace and fingers it sadly.</context>
+      <utterance>Yeah well...in the morning I think I'll be on my way.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Madmartigan, I need your help.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow stares at him angrily.</context>
+      <utterance>My help? A great magician like you? You don't need any help.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He jumps and starts pacing around the fire. Rool and Teemo dive for cover.</context>
+      <utterance>But you're a great swordsman!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not a warrior, Madmartigan! A warrior wouldn't lie there and do nothing! He kicks Madmartigan's boot and knocks his feet off the log.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He picks up a rock and pitches it wildly at the fire, sending up a shower of sparks. Madmartigan eyes him with concern.</context>
+      <utterance>We're in trouble! You've seen the big army that's after us! You're a fake! You're a bum! You're a-- you're a coward!!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow lets it all pour out. He begins to cry.</context>
+      <utterance>What's with you, Peck?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow sits on the ground, exhausted. Madmartigan picks up the baby and sits with her in his lap.</context>
+      <utterance>I miss my wife! I miss my chil- dren! My boy Ranon! He's growing up so fast, he even helps me on the farm now! And little Mims! If you ever saw her sweet little face you'd melt Madmartigan, you'd melt !  Or maybe you wouldn't. You don't know anything about love. You don't know anything about any- thing...</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was in love once, Willow. She had a hold on my heart. I could barely function.  I was a great swordsman! I was knighted! I could have been king!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Madmartigan gently rocks the baby and stares at the fire. Willow watches him curiously.</context>
+      <utterance>Yeah me. King! But she betrayed me. She robbed me of my dream.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll never fall in love again...</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="10">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>They've been camped all night near the shore of a LAKE. Willow finds Madmartigan and the baby bathing happily in the water.</context>
+      <utterance>Madmartigan! Madmartigan!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>The baby squeals with delight as Madmartigan twirls her around. He lifts her yp and carries her to Willow on the shore. The brownies crawl thorugh the bushes. Rool points out at the lake.</context>
+      <utterance>Relax, Willow. We're having fun.</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context>In the middle of the lake is an island with a single tree.</context>
+      <utterance>That's it! The sorceress lives there!</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you sure?</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context>Teemo scratches his head and squints out at the island.</context>
+      <utterance>Yes! Raziel! She lives out on that island! Madmartigan lets out a sarcastic, sceptical laugh.</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That tree dosn't look like gold to me.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Madmartigan rubs his chin with sudden interest.</context>
+      <utterance>Gold!!</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Its branches are supposed to be made of gold, solid gold.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan is suddenly pacing and thinking.</context>
+      <utterance>How are we going to get out there?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Madmartigan runs along the shore toward a small village in the distance.</context>
+      <utterance>We'll find a way, Willow. Look over there--that looks like a village--maybe they've got a boat. Come on, what are you waiting for?</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="15">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow hoists the baby into the papoose and helps Mad- martigan.</context>
+      <utterance>Give me a hand here, Peck!</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context>They turn around. A golden-haired BOY is standing waist-deep in th elake. Madmartigan is instantly wary of him.</context>
+      <utterance>What are you doing?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>But the boy looks innocent and harmless, and Willow ap- proaches him.</context>
+      <utterance>It's nothing to do with you.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We need to get out to that island.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context>Madmartigan scoffs at this nonsense, grunting and push- ing the boat into the water.</context>
+      <utterance>The island is cursed.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've traveled a long way. We're looking for Fin Raziel.</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The sorceress.</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's there. But you can't go there. The island is cursed.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah? Who cursed it?</utterance>
+   <speaker>BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Queen Bavmorda. Her powers govern the elements.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Madmartigan climbs into the boat and grabs an oar, eager to go. Willow looks down at the brownies for help.</context>
+      <utterance>Ahh, he's trying to protect the gold. Come on, Willow. Jump in.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What would the Fairy Queen say?</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's not here.</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Obviously.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow marches to the boat. Calmly accepting their choice, the golden-haired boy dives into the lake and disappears. Willow and the brownies board the boat, and Madmartigan poles them away from the shore.</context>
+      <utterance>Without Raziel we'll never find Tir Asleen.  We'd better go.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="16">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan greedily reaches up to touch a branch.</context>
+      <utterance>Raziel? Hello? Fin Raziel?</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>A littel animal scurries down the tree and hisses vi- ciously at Madmartigan, chattering its teeth.</context>
+      <utterance>Get away! Get away!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>RAZIEL scampers over to Willow. Her voice screeches like a parrot. She looks like an otter with a bush tail.</context>
+      <utterance>You'll die! You'll die!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you! Who are you!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>She springs right onto Willow's chest.</context>
+      <utterance>I'm Willow Ufgood. I'm here to find Fin Raziel.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow looks down at the browines questioninghly.</context>
+      <utterance>That's me! Raziel! Raziel!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This can't be right. This isn't a sorceress. This is some kind of animal.</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Queen Bavmorda transformed her.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Still sceptical, Willow shows Raziel the baby's mark. Raziel shoots up onto a branch and frantically flicks her tail.</context>
+      <utterance>We need your help. To take this baby to Tir Asleen. She's a prin- cess.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Madmartigan snaps a branch off the tree. A flock of birds suddenly screech and fly away. His eyes bulge.</context>
+      <utterance>Elora Danan!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He strips away the bark, revealing a vein of gold.</context>
+      <utterance>Rool! Teemo! You were right! This whole tree is made of gold!!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>The wind begins to blow and the sky darkens. Raziel zips over to Willow and whispers intensely.</context>
+      <utterance>Fools! You should never have come to this place! We're all going to die!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>The wind howls. they hurry down to the boat.</context>
+      <utterance>We've got to get off this island right now. Hurry! The boat! It's our only chance!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan is greedily breaking branches off the tree.</context>
+      <utterance>Madmartigan!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Waves lash at the boat as they jump aboard. Madmarti- gan loads up with branches. As they push off, he scrambles down the rocks. Just in time he jumps into the boat as the storm swirls it out into the frothy lake.</context>
+      <utterance>Wait! Gold! Gold!</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="6">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan hangs onto his gold, but pices of it drop and topple overboard.</context>
+      <utterance>Help, Madmartigan! The oar!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Suddenly a hand appears on the stern. The water boy climbs in.</context>
+      <utterance>My gold!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kill him!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Madmartigna hesitates but then smashes the boy back into the lake. The boy surfaces like a dolphin. His shape begins to change, becoming fish-like, diving and vanishing. Then: he attacks the boat! He is now a ferocious shark-like monster. He chomps the boat and the gold branches slide into the water. Madmartigan bashes the monster with the oar, then grabs an anchor. The mon- ster attacks again and Madmartigan jabs its gill with the anchor. The monster sinks into the lake. They all sigh with relief. Madmartigan shrugs proudly. Suddenly the an- chor line unravels, tangling Madmartigan's legs in fishing nets and yanking him overboard. Underwater, Madmartigan swirls behind the monster. He pulls himself along the anchor line and finally cuts himself free with his dagger. He surfaces and madly swims toward the pitching boat. Willow reaches out to him. The monster surfaces and circles the boat. Then it attacks Madmartigan.</context>
+      <utterance>Kill him!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow digs out a magic acorn. But he drops it! He fumbles in the leaking boat and finally finds it. The monster opens its jaws and goes to devour Madmartigan. Willow throws the acorn. The monster miraculously turns to stone. Madmartigan grabs the boat and watches in amazement as the monster sinks. Willow hauls him into the boat.</context>
+      <utterance>No!! Help!! Willow!!!</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="14">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He pulls himself up and follows Willow. Suddenly they all stop. Sorsha and her men come out of the woods.</context>
+      <utterance>Willow...you...you got...magic...! Wait...we could team up...!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>The brownies scurry into a hole. Raziel makes a dash for it but a soldier skewers her tail with his spear, dangling her in front of Sorsha.</context>
+      <utterance>Flee! Flee!</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Sorsha gestures, and the soldier takes Raziel away. The lieutenant wrestles the baby away from Willow. He gives her to Sorsha.</context>
+      <utterance>Raziel. Did you think my mother would allow you to escape?</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Willow panics.</context>
+      <utterance>This is what we're looking for. It bears the markings.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He swaggers forward. Sorsha turns and looks at him.</context>
+      <utterance>Don't worry, Willow. If there's one thing I'm good at, it's charm- ing a woman...</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Sorsha looks up and down at his naked body.</context>
+      <utterance>So. Couldn't live without me, huh?</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Madmartigan looks down and adjusts his loincloth.</context>
+      <utterance>Lose your skirt? How embarassing.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>A pause as he smiles at her.</context>
+      <utterance>Still got what counts.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>She raises her fist and zap: Madmartigan is instantly surrounded by spears and swords.</context>
+      <utterance>Not for long.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Madmartigan and Willow are roughly taken away. Sorsha and her troops mount horses and ride off. Rool and Teemo crawl lup from under a rock.</context>
+      <utterance>We'll join the column. Bring them with us.</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We gotta follow them.</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context>Rool walks off and Teemo grabs him, yanks him back.</context>
+      <utterance>Us?? We'll never catch them. Any- way, we're all done, Teemo. Let's go home.</utterance>
+   <speaker>TEEMO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get back here, Rool!</utterance>
+   <speaker>ROOL</speaker>
+      <mode></mode>
+      <context>Rool throws a punch, and the brownies somersault into the bushes fighting each other.</context>
+      <utterance>Ouch! Let go of me!</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="29">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow loses strength, falls and is dragged. Madmarti- gan picks him up and carries him on his shoulders. Sorsha sees this.</context>
+      <utterance>I can't go on...</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Willow, why don't you use your mag- ic to get us out of here?</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's no magician.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Raziel peers sternly at Willow, who is eye-level with her cage.</context>
+      <utterance>He turned that monster into stone!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you give that acorn its power?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Madmartigan shakes his head at her.</context>
+      <utterance>A magician makes magic. Any fool can use it.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then you get us out of here.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will! But I need help!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll help you...!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You must learn magic.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's all I ever wanted!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Sorsha rides up from the rear of the caravan, carrying the baby, who is crying. Madmartigan, with Willow still on his shoulders, straightens up and flirts with her.</context>
+      <utterance>Then I will teach you.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nice horse...nice hair...real nice hair...I'd say you've got the most beautiful hair I've ever-- She flashes her eyes at him.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>She nods toward her Lieutenant, who snarls viciously.</context>
+      <utterance>Wolff wants to boil you in oil.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>She turns away. The baby squirms and cries.</context>
+      <utterance>Don't tempt me.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you rest the baby on your shoulder, she'll stop crying.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Sorsha rides along. She shifts the baby to her other shoulder, and she instantly stops crying. Sorsha throws a look at Willow. Madmartigan takes a long deep breath.</context>
+      <utterance>Shut up.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mmmm, I love the smell of a woman.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Madmartigan pounds his chest and taunts her:</context>
+      <utterance>My step-father's going to tear you apart.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>CRACK! Sorsha whips her horse and gallops ahead.</context>
+      <utterance>I'm torn apart already. I mean it! Under all that armor is a beautiful--</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is that girl, anyway?</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Madmartigan snaps his finger and discourages himself.</context>
+      <utterance>Sorsha, Queen Bavmorda's daughter.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Raziel leaps against the bars of her cage, chatters her teeth and whispers to Willow.</context>
+      <utterance>Forget that one, Madmartigan.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Willow. To learn magic, first you must make your own philosopher's stone!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do I need for that?</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow pulls a strand of his hair out in front of his eyes and frowns at it. Madmartigan, meanwhile, can't take his eyes off Sorsha.</context>
+      <utterance>We must start with feathers, dung, and a lock of your hair.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now that's a woman...!</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="16">
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>She twists her head through the bars. Madmartigan squints up at her.</context>
+      <utterance>Keep working at it. Forget all you know, or think you know. A magician's power depends on disord- er of the mind.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow hears the baby crying in a distant tent.</context>
+      <utterance>You got that one covered.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hope she's all right. How much more do I have to do of this?</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Till it's in a powder. The energy exits within you...</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know, and the magician's goal is to find his true self. But what's this got to do with it?</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Madmartigan clasps his forhead.</context>
+      <utterance>As below, so above. You hold the univers, Willow, in your hand.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm beginning to think you two deserve to be locked up.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan cynically gazes at the sky, gesturing wide- ly.</context>
+      <utterance>The universe is a living creature, like you and me, Madmartigan.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're a tiny version of all that?</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Madmartigan rolls his eyes. Willow jumps to his feet and shows Raziel the substance.</context>
+      <utterance>As above, so below.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm all finished. Now what?</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow looks around. Heavily armed Nockmaar minions rip chunks of meat around a campfire.</context>
+      <utterance>Burn it to a fine ash.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How am I gonna do that?</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Suddenly bootsteps clomp toward them. Willow quickly folds the powder inside some cloth and hides it in his pocket. The Lieutenant marches up and scrutinizes them suspiciously. He abruptly snatches Willow up, hacks the chain and drags him off.</context>
+      <utterance>Patience. Concentrate. You will find a way.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan sturggles against his chains. Angry and worried:</context>
+      <utterance>What's going on?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hurt him and you'll answer to me!</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="16">
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Sorsha dumps the baby in Willow's arms and then backs away.</context>
+      <utterance>This baby won't do what I say. You seem to know what to do. Here! Make it shut up.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She needs to be changed.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Willow politely shrugs.</context>
+      <utterance>I changed her already!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Sorsha crosses her arms in a hugg and watches as Willow changes the baby. Soon the baby stops crying. Re- lieved yet still anxious, Sorsha paces to a mirror. Willow rocks the baby gently, absently looking at the fire. Then his eyes focus on the fire.</context>
+      <utterance>She needs to be changed again.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is that horrible friend of yours?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Madmartigan.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is he?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Sorsha fiddles with her long red hair. Willow creeps toward the fire.</context>
+      <utterance>I don't know much about him.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>She turns and looks right at Willow. He looks back. She asks the question again by holding out strands of her hair.</context>
+      <utterance>He's very bold. Do you really think my hair is beautiful?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He suddenly strides over to Sorsha.</context>
+      <utterance>Uh, yes. It's very nice hair.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's hungry.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know she's hungry. I tried to feed her but she wouldn't eat a thing. I'm not a wet nurse.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He hands Sorsha the baby, then goes to the fire where there's a stone crock of milk. He carefully takes his cloth pouch out of his pocket and unfolds it. At the other side of the tent Sorsha awkwardly paces with the baby.</context>
+      <utterance>Here. Hold her.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>During this, Willow ignites his powdery substance. It flares slightly then burns to an ash. He gathers it up, then returns to Sorsha with the milk.</context>
+      <utterance>I tried everything. A spoon. I poured milk into her mouth, she just spat it out. I don't know what to do, I'm not a mother.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow finds a strip of cloth, dips it in the milk, and feeds Elora Danan in Sorsha's arms. He looks up at Sorsha and smiles.</context>
+      <utterance>Sometimes she likes it heated.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Sorsha looks down at the baby.</context>
+      <utterance>She's a good baby.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="12">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>When the soldiers leave, he digs out the pouch and proudly shows it to Raziel.</context>
+      <utterance>I did it! I got the ashes!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Chained behind the wagon, Madmartigan reaches forward and pokes Willow with his finger?</context>
+      <utterance>Good! The first step is complete.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did she ask about me?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow deliberately plays innocent.</context>
+      <utterance>Come on, Peck, don't give me a hard time. You were in her ten all night. Did she say anything?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She said lots of thing.s</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow grins. At last:</context>
+      <utterance>Willow!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She asked about you, Madmartigan.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Suddenly Sorsha gallops by on horseback, holding the baby. She flings a wad of clothes at Madmartigan.</context>
+      <utterance>Well what did she say?</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>She rides off. Madmartigan looks down at the clothes. The looks at Willow.</context>
+      <utterance>Here. You're going to need these where we're going.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's in love.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're crazy. I think you're in love.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="19">
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We don't have much time left! Go on! Go on!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I must concetrate my imagination...to creat a new...reality!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the magician's weapon?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Raziel flips around in spasms of impatience.</context>
+      <utterance>The limitless power of...</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your will! Your will! What else could it be?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>What am I learning?</context>
+      <utterance>I can't remember all these things.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The art of transformation!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But what am I gonna transform??</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow and Madmartigan stare at Raziel.</context>
+      <utterance>Me!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Sorsha rides up to the wagon.</context>
+      <utterance>What are you gonna become, Raziel? Queen of the rodents?</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>She dismounts. With care, keeping the baby bundled, she hands the baby to Willow. Madmartigan watches and listens.</context>
+      <utterance>The baby's cold. Take her.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You remind me of your father, Sor- sha.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My father was a weakling.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was a great king.  Not like your step-father, not like your mother. He ruled Tir Asleen with kindness, and a generous heart.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My mother calls that weakness.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Sorsha turns and glares at Madmartigan.</context>
+      <utterance>What do you call it?</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I do what I'm told.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>She looks at him a moment, then abruptly mounts her horse and rides ahead.</context>
+      <utterance>Too bad you're not more like your father.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="5">
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be careful.</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>Kael viciously hits Sorsha, knocking her off her horse. Madmartgian and Willow watch angrily. Kail gallops to- ward camp with the baby under his ar. Sorsha shakes away the pain and, humiliated, mounts her horse.</context>
+      <utterance>Don't tell me what to do.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Raziel dashes around her cage.</context>
+      <utterance>We gotta get the baby out of here.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Looking off into the camp, angry and resolute, Willow takes out the ingredients for the stone.</context>
+      <utterance>Tonight! Complete the philosopher's stone! I must be turned back!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll do it, Raziel...</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="8">
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>As Willow works, Madmartigan binds together scrap sticks of wood, making a long pole. He gingerly hooks Raziel's cage with this, lifting it from the spike.</context>
+      <utterance>Let it settle. Carefully, slowly. Concentration and will. Now pour the water off.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oooh, this smells terrible.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Madmartigan angles the pole and the cage slide toard him. He grabs it with both hands and rips it apart. Raziel right away scurries down the cell bars, jumps into the jail and bits Willow's hand.</context>
+      <utterance>That's the life spark. Exxence of magic and sorcery!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ouch!!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>They look out nervously at patrolling Nockmaar sol- diers. Willow sucks the back of his hand.</context>
+      <utterance>Shhhhh!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'd you bit me for!!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow drips his blood into the concoction then stirs it with a twig. It begins to glow from within.</context>
+      <utterance>We need blood. To nourish the stone. charge the stone with ener- gy.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow's eyes widen with anticipation.</context>
+      <utterance>The components of the stone are fusing...</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="11">
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Again: what is the magician's weapon?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His will.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow presses the philopher's stone against the chainlock. He sheepishly looks over his hsoulder at Raziel.</context>
+      <utterance>Now use it.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just wanted to test it first.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow goes to Raziel and concentrates with physical and mental intensity.</context>
+      <utterance>No! Change me back into a sor- ceress, Willow.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>It starts to work. Raziel curls into a ball of fur. The fur changes to feathers. She begins to squawk strangely. She emerges as a raven-sized bird.</context>
+      <utterance>Avaggdu, supriom, luwatha...</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He sags with exhaustion and massages his blistered hands. Then: CLINK! The lock falls open. They all look over, and Madmartigan picks it up off the ground.</context>
+      <utterance>What did I do?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Wilow clutches Madmartigan's arm. He holds up the stone.</context>
+      <utterance>Not bad, Peck. I'm impressed. You busted the lock.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>With coldness in his eyes, madmartigan stares across the camp at Sorsha's tent.</context>
+      <utterance>Madmartigan. Let's go. Let's get Eloran Danan.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>They sneak away.</context>
+      <utterance>Let's get Elora Danan.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Raziel flaps her wings and flies up into the dark sky.</context>
+      <utterance>Wait! What about me!</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="2">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Madmartigan slits the back of the tent open and slips inside. Raziel flutters down and lands on Willow's shoulder.</context>
+      <utterance>You're a magician, Willow. But I'm a thief. Wait here. I'll get the baby.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow shrugs apologetically.</context>
+      <utterance>I'm supposed to be a beautiful wo= man.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="19">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan stares over at Sorsha. Lured by her beau- ty, he slowly walks toward her bed.</context>
+      <utterance>Come on, Madmartigan...!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan looks down at her. Morning rushlight il- luminates her youthful face, and her long red hair is spread across her pillow. Out of her armor, in soft nightclothes, she looks like a goddess. Upon her breast is a golden necklet, inlaid with ornate jewels. Quietly:</context>
+      <utterance>What are you doing? Get out of there...!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He kisses her lips. Her eyes open.</context>
+      <utterance>I love you.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Holding the baby, Madmartigan does not move a muscle. Sorsha holds a knife at his crotch.</context>
+      <utterance>One move, and you really will be a woman.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a fool. Now put her back.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Sorsha presses the knife.</context>
+      <utterance>I'm not going to let this baby die.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Willow watches as Madmartigna carefully backs away from Sorsha.</context>
+      <utterance>Don't make me kill you.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Sitting up, Sorsha waves her knife. Madmartigan places the baby in the straw crib.</context>
+      <utterance>I believe you would...</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why did you say that?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say what?</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Madmartigan walks back to Sorsha' bed. Willow crawls into the tent, behind Madmartigan's back.</context>
+      <utterance>I love you.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because it's true.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Sorsha defensively kneels on her bed as Madmartigan walks toward her. He shows no fear of her knife, com- pelled instead by honest passion. For once, he isn't conning anybody. His feelings are genuine.</context>
+      <utterance>I don't believe you.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>The knife trembles in Sorsha's hand.</context>
+      <utterance>I wish it weren't true. I swore I'd never let this happen. I hate you. I hate your beauty, I hate your innocence, I hate the feelings you've awakened in me.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He kneels onto her bed. Her hand falls, her knife falls to the floor, her chest heaves with fear and emo- tion.</context>
+      <utterance>I'm in love with you, Sorsha. I don't want to be, but a power has enchanted me and I stand helpless against it. It's torture. Battle- field or prison cell was never half as cruel.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He stops. He looks into her eyes. Willow dashes out of the tent with the baby.</context>
+      <utterance>I want you and I can't have you so I want you all the more. If this were another time and another place I'd--</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Madmartigan takes Sorsha in his arms and kisses her. Her trembling body surrenders to him. Until: They hear a SCREAM outside the tent. It all happens quickly. Kael rips open the canvas and catches them in their embrace. In one hand he holds the baby. In the other hand: Willow.</context>
+      <utterance>You'd what?</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>Sorsha sees the baby, sees the empty crib, and smashes Madmartigan hard across the face.</context>
+      <utterance>What's going on here!!</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Kael hurls Willow across the tent and tosses the baby in the straw. Growling horribly he lunges at Madmarti- gan. Madmartigan rolls away and sees Sorsha's sword nearby. Grabs it. As Kael draws his sword, Madmarti- gan artfully slices away the center pole, and the en- tie tent collapses.</context>
+      <utterance>Deceiver!!</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="6">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He slips on the ice and catches himself. Nearby a shield skids off along the snow.</context>
+      <utterance>Whoops!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Kael howls and thrashes inside the collapsed tent. Then he gashes it open with his huge black sword. He sees Willow and the baby get on the large shield.</context>
+      <utterance>Willow! Jump on the shiled!</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>Madmartigan runs toward the shield. Archers draw their bows. Madmartigan turns and sees Sorsha beside Kael.</context>
+      <utterance>Bowmen! Horses! After them!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>As arrows rain down around him, Madmartigan leaps onto the shield behind Wuillow. Sorsha watches them as they slide away down the mountain, Raziel flapping and shrieking overhead.</context>
+      <utterance>Sorsha! I didn't betray you. I love you!</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>Kael waves his sward and a crack squad of Nockmaar HORSEMEN gallop down the mountain after the sled- shield.</context>
+      <utterance>Kill them!!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow shuts his eyes. the shield speeds toward the wall. At the last moment Madmartigan steers them into a small opening, little more than a crack. Raziel, nearly smashing into the wall herself, soars up into the sky and loses them.</context>
+      <utterance>Nooo!!!</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="4">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Madmartigan drags Willow and the baby out of the snow. Willow's body is limp, he's unconscious. Then a VIL- LAGER points up at the mountain.</context>
+      <utterance>Willow! Willow! Are you all right?</utterance>
+   <speaker>VILLAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>King Kael!</utterance>
+   <speaker>ANOTHER VILLAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nockmaar troops!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>In the distance Kael and his squad of about 15 horsemen charge toward the village. The villagers flee into their huts and houses. Madmartigan scoops up Willow and the baby. Some villagers usher them around a corner and into a house just as Kael's army invades the town.</context>
+      <utterance>Help us.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="5">
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context>Madmartigan knocks Airk's hand away.</context>
+      <utterance>Madmartigan. Settled down with a family huh?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You left me to die, friend.</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You managed alright.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Among the refugees is a handful of war-battered WARRI- ORS. One of them, an OFFICER looks out through the ceiling beams.</context>
+      <utterance>Is this what's left of your army?</utterance>
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context>They hear hoofbeats outside. Airk gives Madmartigan a flask of whiskey. He squirts whiskey into Willow's mouth and Willow coughs and shudders awake.</context>
+      <utterance>Keep that baby quiet.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="2">
+   <speaker>OFFICER</speaker>
+      <mode></mode>
+      <context>Madmartigam shakes his head.</context>
+      <utterance>Kill her.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Airk looks at Madmartigan curiously. Madmartigan watches Sorsha. She is right there, inches away. Inaudibly, be says her name. At last she goes back upstairs.</context>
+      <utterance>You'll draw the others.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="15">
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's you they're after, Madmarti- gan. What did you do this time?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Living in the house is a scrawny, shifty-eyed man named CUTH. He watches and listens.</context>
+      <utterance>They're not after me. They want the baby.</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context>Willow steps forward, both protective and proud.</context>
+      <utterance>Who is this baby?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>They all know of her. They all sigh with respeck and awe, and they bow.</context>
+      <utterance>The princess, Elora Danan.</utterance>
+   <speaker>PEOPLE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The prophecy has come true.</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context>Raziel screeches from a ceiling beam.</context>
+      <utterance>Give her to us. We'll protect her.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow looks up at Raziel hopefully.</context>
+      <utterance>Not safe! Not safe!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Airk looks up at Raziel. Then down at Willow. He clasps Madmartigan's arm.</context>
+      <utterance>We're taking her to Tir Asleen. She'll be safe there from Bavmorda's powers.</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tir Asleen is a myth. It doesn't exist.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Airk impatiently waves the bird away and shoves Madmar- tigan in the chest.</context>
+      <utterance>It does! It does! I will show you!</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You gonna be a hero, Madmartigan? I've lost half my men fighting Kael, and Bavmorda, and the Nock- maar army. Now you and this Peck, and that magpie up in the rafters, are gonna take 'em on alone?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Airk angrily stabs his finger at the floor.</context>
+      <utterance>Then come with us.</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context>Airk crosses his arms and turns his back, looking out at the burning houses and the suffering families.</context>
+      <utterance>The war is here! In towns and vil- lages like this!</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're chasing a dream.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Airk glares at him furiously. Then he kicks open the door and storms out into the street. Madmartigan and Willow hurry after him.</context>
+      <utterance>Just get me some horses.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="2">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Sadly and cynically, Airk laughs.</context>
+      <utterance>Once again, Airk, we say goodbye.</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context>They shake hands ruggedly. Madmartigan nods at Willow and they head off. Airk watches them go, clearly am- bivalent about staying behind. They ride up the snowy slope, Raziel circling above. WE SEE Cuth. He scratches his filthy beard. He sneaks off through the village, in the direction of the Nock- maar army.</context>
+      <utterance>One day one of us willl stand on the other's grave.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="4">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Madmartigan! I can't stand being in closed-in places.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Want me to carry Elora?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow wears the papoose on his back. Madmartigan looks in at the baby's face.</context>
+      <utterance>I'm used to her. How's she doing?</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow and Madmartigan laugh, which breaks the tension. Then a geiser of steam hisses near them and a bat screeches somewhere and the tension's back. They keep going.</context>
+      <utterance>She's doing a lot better than we are, Peck.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="13">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Willow...this may be a bad time to ask this question but...what if Raziel's wrong?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She can't be wrong. She's a very very very powerful sorceress.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's a bird, Willow.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's my fault, not hers. I've got to keep practicing. I'm still in the learning stage but magic, Madmartigan, requires concentration and--</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Watch it!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan lunges and grabs Willow just as he is about to fall into the lava pit. He hauls him to safety. They gasp with relief. Then they head deeper into the cave. They stop. They hear something. Something strange. Then, something moves on the wall.</context>
+      <utterance>Ahhh!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The cave walls come to life. Down them crawl ugly ROCK PUFFERS, pillow-sized wall crabs that screech horribly like bats. Madmartigan fights them off with his sword. The Rock Puffers bloat themselves up, tripling their size. Madmartigan stabs one and it hisses away like an untied balloon. Suddenly, distant hoofbeats thunder and echo. Madmar- tigan flashes his sword and turns around, ready to de- fend Willow and the baby against the army.</context>
+      <utterance>I hate this.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow listens as the hoofbeats get louder and louder. At last he turns and runs deeper into the cave. Mad- martigan waits. The Nockmaar soldiers, now increased to eighty, come charging down the cave. Kael rides in the lead along- side the turncoat Cuth. As they gallop along the ledge, Cuth makes the mistake of crowding Kael, who an- grily elbos him, horse and all, into the boiling pit. The army tramples over the Rock Puffers, which explode underfoot. Madmartigan braces himself as they stampede toward him. But suddenly the horseman all screech thir horses to a halt. The horses rear and back away. Madmartigan stands there, wondering. Then suddenly a shadow looms behind him. He turns. The EBORSISK roars and the cave shakes and thunders. It's an enormous two-headed monster that doesn't like visitors.</context>
+      <utterance>Go, Willow! Run! Run!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>He looks around frantically. Willow is nowhere to be seen. Then the baby cries out. Madmartigan sees them, cowering behind a rock. He runs toward them. The Eborsisk exhales flames over his head.</context>
+      <utterance>Willow! Willow!</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>Soldiers obey Kael and go after Madmartigan. He fights them, hacking down a few, while a few others are in- cinerated by the Eborsisk. Sorsha's horse rears as she watches Madmartigan battle for his life. Archers shoot arrows, which pierce the Eborsisk and make it even an- grier. Willow digs one of his magic acorns out of his pocket. A head of the Eborsisk gnashes at Madmartigan. Madmar- tigan looks to Willow for help.</context>
+      <utterance>Go after them!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow winds up and throws with all his might. The Eborsisk blasts a flame, which startles Willow, wreck- ing his aim. Madmartigan's eyes pop open and he ducks as the acorn whistles by his ear. The acorn bounces off a rock and flies back, trickles along the ground and hits a Nockmaar soldier, who is already dead. The soldier's body turns to stone.</context>
+      <utterance>Hurry, Willow! Throw it!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>One of the Eborsisk's heads lunges toward the baby. Raziel dives like a rocket and attacks the monster's eye as Willow whisks the baby away. Then Madmartigan leaps up on the Eborsisk. He climbs up over its flaming head and drives his sword down through its skull. The Eborsisk howls horribly and its wounded head falls. Madmartigan topples down its back and leaps onto a horse, knocking its rider off and, all in one swashbuckling move, scooping Willow and the baby up onto the back of the horse and galloping away.</context>
+      <utterance>Look out!</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>But as his horsement charge forward, the Eborsisk falls to its knees, half-dead. The surviving head blasts the soldiers with fire. They rear back on their horses and continue to battle the monster with arrows and spears.</context>
+      <utterance>After them!!</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="3">
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tir Asleen.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>They approach the twelve pillars.</context>
+      <utterance>There's nobody here.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Suddenly they hear hoofbeats and a warcry.</context>
+      <utterance>The Knights of the Pacalcade. The king's bravest warriors.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="6">
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow stares at the twelve knights.</context>
+      <utterance>Turn them back, Willow!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How??</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>The castle door is rusted and old. madmartigan heaves against it. Outside he can see the army storming to- ward him. Willow digs out his philosopher's stone. He squints and strains, concentrating his energy.</context>
+      <utterance>Use the philosopher's stone! Hur- ry! Invocation! Release them!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He continues to chant and to concentrate. One of the knights comes to life.</context>
+      <utterance>Beings within, beings without! Danu danu walkail funfawtha!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did it! Madmartigan! Come here! Look! You gotta see this! I did it!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Madmartigan heaves the door shut just as the army charges up, and he locks it with a huge bolt.</context>
+      <utterance>More! More!</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="5">
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>He sends his men in all directions. They leap off their horses and hack down trees from the nearby woods.</context>
+      <utterance>Assault! Scale the walls!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Each knight shakes himself into action. Madmartigan follows them in an armory.</context>
+      <utterance>Tuatha tuatha danu!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>I'm a magician!</context>
+      <utterance>Raziel! I transformed them all!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow's on a roll. He rubs his hands together.</context>
+      <utterance>You didn't transform them, Willow, you released them. That was noth- ing. Now change me.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He drops to his knees and stretches his philosopher's stone apart like an accordian.</context>
+      <utterance>I feel like I could do anything!</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="3">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Raziel begins to change. From a bird, she expands, stretches, and turns into a GOAT.</context>
+      <utterance>Capture the enery...limitless power of the will...avvdachh doth indicht rredd baerkinhaekin!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Raziel tilts her goat head.</context>
+      <utterance>Raziel? Is that you? Oh-oh. What happened?</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Suddenly flaming arrows rain down over the castle wall. Willow scoops up the baby and he and Raziel run for cover.</context>
+      <utterance>I hate this.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="9">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorsha.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Madmartigan. He props himself up on his elbows and smiles.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>She reaches down and pulls Madmartigan to his feet.</context>
+      <utterance>Whose side are you on?</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>They look into each other's eyes. They go to embrace.</context>
+      <utterance>Yours.</utterance>
+   <speaker>MINION</speaker>
+      <mode></mode>
+      <context>Out of nowhere a Nockmaar minion attacks them, his sword flashing over his head. Sorhsa hardly moves. She simply dusts him off the wall with her sword. She turns back to Madmartigan.</context>
+      <utterance>Arrrggghhh!</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Their armor clanks as they throw their arms around each other and kiss, high up on the castle wall.</context>
+      <utterance>I love you.</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>He sees Sorsha and Madmartigan coming down the wall, fighting Nockmaar troops. Kael holds up his great hand. In it he holds the baby.</context>
+      <utterance>Sorsha!!</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>Kael waves his men after Sorsha and Madmartigan.</context>
+      <utterance>Bordak!</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>He laughs viciously then gallops toward the castle door. As he reaches it he abruptly stops.</context>
+      <utterance>Kill them both!</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="4">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Out for a little ride in the coun- try, Airk?</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context>Then they drop the bravado and clasp hands.</context>
+      <utterance>Thought you might get lonely, Mad- martigan!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you, friend.</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context>They charge into the cave. The clamor of their hoofbeats echoes and then fades to silence. The valley is littered with fallen soldiers. Then, Raziel trots out of the castle. She clip-clops across the valley and follows the others to the cave.</context>
+      <utterance>Let's go.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="3">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Sorsha rides up to his side.</context>
+      <utterance>Sorsha! Any way in there?</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>The Tir Asleen warriors, dwarfed by the huge black wall, look at one another with doubt and worry.</context>
+      <utterance>No. The fortress is protected on all sides.</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context>The army dismounts and begins to unpack supplies. It is late in the day and shadows lengthen toward evening.</context>
+      <utterance>Make camp! We'll assault at dawn.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="8">
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Carved in the floor is a MAGICIAN's CIRCLE, and in the very middle of this is a sacrificial altar made of shining copper. Bavmorda stands over the altar, wear- ing black robes. Behind her stand two decrepit DRUIDS. Kael bows.</context>
+      <utterance>Kael!</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>The baby squirms and cries. Seething with hate, Bav- morda reaches out her arms, then shrinks back.</context>
+      <utterance>Queen Bavmorda. I have the child.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>She hears noise outside the castle.</context>
+      <utterance>We must start the ritual!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is that?</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>Bavmorda closes her eyes, holds out her hands and feels the vibrations and energy around her. Psychically:</context>
+      <utterance>An army of rebels and traitors.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is Sorsha?</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>Bavmorda opens her eyes furiously. to her druids:</context>
+      <utterance>She has turned against you.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>The druids take the baby from Kael. Bavmorda storms out the door.</context>
+      <utterance>Purify the altar! Arrange the im- plements! I'll deal with Sorsha!</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="2">
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Sorsha looks up, and her mother seems to laugh right at her. Madmartigan steps forward. Seeing him in the ar- mor of the King, Bavmorda stops laughing, taken aback.</context>
+      <utterance>This is not an army!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Raziel suddenly butts Willow into a tent.</context>
+      <utterance>Willow! Get out of here! Quick! Hide!</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="11">
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Quick! Protect yourself!</context>
+      <utterance>Get down! The ritual chant!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow takes out his philosopher's stone and begins to chant.</context>
+      <utterance>Just do it!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Bavmorda stabs her finger down at him.</context>
+      <utterance>We've come for Elora Danan! Turn her over to us!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>She waves her hand, casting a horrible spell over the army. Madmartigan's body begins to change its shape. His armor breaks apart. He grows hideous.</context>
+      <utterance>You dare to challenge me? You are not warriors. You're pigs!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>The rebel soldiers panic and run. Slowly, horribly, they all expand and contort, ripping out of their armor and clothers, casting down their weapons and shields.</context>
+      <utterance>You're all pigs!</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mother! No!!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Bavmorda points at Sorsha, and Sorsha, too, begins to change. The mountainside becomes a sea of writhing flesh. Every one of the Tir Asleen army is transformed into a pig. INT. QUEEN'S TOWER - DUSK Bavmorda throws open the door. Her druids are binding the baby in a leather thong.</context>
+      <utterance>You made your decision!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>A druid lights on of THIRTEEN ENORMOUS CANDLES. Bav- morda glares up at the roof. In the middle of it is a large circular hole showing the starlit sky.</context>
+      <utterance>Begin the ritual. Now! Light the first candle.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Lightning flashes faintly and thunder rumbles in the distance. Bavmorda smiles with satisfaction. A druid places teh baby on the altar. The other druid hits a loud gong, once. Bavmorda enters the Magician's Circle. Her face contorts as she recites:</context>
+      <utterance>Come, thunder. Come lightning. Touch this altar with your pwer. Come into my tower...</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Magically she produces a razor-sharp knife. Lightning flashes again, getting closer.</context>
+      <utterance>Dark runes, dark powers! Blend and bind, bind and blend, Universal night! And the might of Nockmaar!</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="8">
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've come all this way and now Elora Dana's going to die!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! I can still defeat Bavmorda!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Raziel sternly stamps the ground with her hoof.</context>
+      <utterance>She's too powerful, Raziel</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow grabs a sword and draws a hexagram around Ra- ziel. He steps outside of it, holds up his philosopher's stone and begins his magic.</context>
+      <utterance>A true magician, Willow, never surrenders. She is a sorceress--I am a sorceress! Transform me now and I will destroy her! Hexagram!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Raziel begins to change. Willow wrestles with his own powers of concentration and will, now and then losing strength.</context>
+      <utterance>Banish all disturbing forces from this place. Fire, water, above and below. Balance. Balance. Bal- ance.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>He chants and strains. Raziel momentarily changes into a partly-formed grotesque creature. Then into a deer. Then she becomes human. At last she becomes herself, a once-beautiful and now elderly woman. Willow covers her unclothed body with a simple smock.</context>
+      <utterance>Don't give up! Willow!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>She looks down at her old hands. Then her eyes focus with purpose.</context>
+      <utterance>Raziel!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow opens the tent. Some pigs shuttle in, and Ra- ziel begins to change them back into warriors.</context>
+      <utterance>We've got a lot of work to do, Wil- low. Bring in our brave men.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="11">
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uphill with our rough weapons, we'll never make it!</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Elora Danan will die!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By dawn, upon thirteen tolls of the runic drum!</utterance>
+   <speaker>WARRIOR</speaker>
+      <mode></mode>
+      <context>The other warriors agree.</context>
+      <utterance>Bavmorda is too powerful. We need more forces. I say we retreat!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bavmorda cannot transform you. I've protected this camp with a spell.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Raziel shakes her head.</context>
+      <utterance>Can you use your magic to get our men into the fortress, Raziel?</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>The warriors grumble and protest. In a corner, Rool and Teemo poke their heads in under the canvas. Curi- ously they look at Willow, who sits in silence and deep though, scratching the ground with his fingernail. The warriors rumble.</context>
+      <utterance>Bavmorda has shielded it with a spell of her own.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow jumps to his feet. They all turn to him.</context>
+      <utterance>Wait!!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have an idea. Back in my village we catch a lot of hedgehogs.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Willow, this is war, not agricul- ture!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The all gather around Willow to listen.</context>
+      <utterance>I know, I know! But this is a way to get into that castle...</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="11">
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's too much work.</utterance>
+   <speaker>WARRIOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It can't be done.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Willow looks hopefully at Madmartigan.</context>
+      <utterance>Kael will never fall for it.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, Willow.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan turns away and scratches his beard.</context>
+      <utterance>Madmartigan, you promised me you'd take care of Elora Danan like your own daughter. She is all that matters. Are you going to abandon her?</utterance>
+   <speaker>AIRK</speaker>
+      <mode></mode>
+      <context>Frustrated and torn, Madmartigan brushes Airk away. The men rally with Airk. Mdmartigan goes over to Sor- sha.</context>
+      <utterance>Come on, Madmartigan. you gonna listen to a Peck? You and I are warriors. You know this plan will never work.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll probably die here, Sorsha.</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>The gong rings four time. Raziel turns to Airk and his men.</context>
+      <utterance>I have no family.</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>The men shake their heads.</context>
+      <utterance>If we do not fight, and the baby dies, all hope for the future is lost. I shall face the danger alone if I have to.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan, still torn by indecision, raises his arm and silences the protest.</context>
+      <utterance>Me, too.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Time is running out. We must now decide who's going to leave and who is going to stay...</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="6">
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Time is running out.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Nockmaar soldiers peer down and laugh. Willow and Ra- ziel trek closer to the castle wall. Willow cups his mouth.</context>
+      <utterance>Surrender!!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>The Nockmaar soldiers roar with laughter.</context>
+      <utterance>We are all-powerful magicians! Give us the baby or we will destroy you!!</utterance>
+   <speaker>KAEL</speaker>
+      <mode></mode>
+      <context>The great drawbridge falls across the moat. Willow clutches a spear and trembles nervously.</context>
+      <utterance>Kill them!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Patience, Willow.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Hoofbeats. EIGHT HORSEMEN ride out of the castle with swords high. Willow lifts his spear with two hands. Turns. And smashes the spear on the ground, striking a loud war drum! Suddenly Madmartigan leaps out of the ground on horse- back! And the entire mountainside comes to life. Tents and shields fly away and out of pits and trenches the Tir Asleen army charges with one loud warcry! The eight Nockmaar horsemen are quickly cut down. The rebels storm across the drawbridge into the castle. Airk Thaughbaer scoops Willow up on his horse, and Sor- sha scoops Raziel up on hers.</context>
+      <utterance>Courage, Willow.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="6">
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Willow and Raziel stay back on the stairs. Sorsha climbs to the door. Courageously, she opens it.</context>
+      <utterance>I will face my mother alone.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Sorsha recoils in horror. Bavmorda looks barely human: she has transformed into a grotesque witch. She waves her gnarled hand and her druids attack Sorsha. Sorsha kills them. The baby lies under a deathlike spell on the copper altar.</context>
+      <utterance>Sorsha!!</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Bavmorda's voice is a demonic growl!</context>
+      <utterance>I won't let you kill her!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Lightning explodes overhead. Sorsha lunges for the baby. But Bavmorda stops her with a powerful energy force.</context>
+      <utterance>You are a weakling. Like you fa- ther! Can you not see that I am about to become all-powerful!</utterance>
+   <speaker>SORSHA</speaker>
+      <mode></mode>
+      <context>Pulsating light lifts Sorsha, levitates her across the room, and drives her toward a wall of spikes. Just as she is about to be implaes, another force stops her. Bavmorda can sense the source of it:</context>
+      <utterance>No!!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>The door flies open. The twelve burning candles all blow out. There stands Raziel. Sorsha falls to the floor, unconscious. Raziel raises her arms magnifi- cently. The sorceresses face each other.</context>
+      <utterance>Raziel...!!</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="5">
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The baby will be queen. It has been foretold, Bavmorda.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My ritual will kill the prophecy! Now the child dies with it, its en- ergy exiled into oblivion!  You see? I hold the power of the universe!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not until your ritual is complete!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>She points at the sky. As if oberying her, lightning flashes and thunder cracks.</context>
+      <utterance>And who will stop me? The elements are slaves to my command!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Raziel waves her arms and light suddenly swirls around the room. Bavmorda counters, and chairs come to life, turning into beasts. Objects fly about. The tower be- comes a storm of chaos and witchcraft.</context>
+      <utterance>There is no one who can match your sorcery. Except me!</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="10">
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Airk falls down the stairs. Madmartigan finishes off the swordsmen, then runs to him, grabs his bleeding body.</context>
+      <utterance>Airk!!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Airk! Airk!</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Madmartigan...you're a brave warrior...a true friend...a good man...</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>An incredible smile lights up Airk's face as he dies. Madmartigan stands. Picks up his sword. And goes up the stairs after Kael.</context>
+      <utterance>We're gonna win this war, Airk.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Bavmorda hurls a final spell at Raziel, crippling her, throwing her into a corner. Bavmorda laughs and goes to the altar. The baby is gone. Willow races toward the door with the baby. The door suddenly slams shut. Bavmorda's voice roars out:</context>
+      <utterance>As above, so below! Universe of evil, Raziel! It conquers even you!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Willow stops. He turns around. Bavmorda towers over him, grotesque, monstrous, poised to destroy Willow with her magic.</context>
+      <utterance>Stop! Bring back that child!!!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Bavmorda laughs. Willopw slowly walks toward her. he digs into his pocket. Takes out the last magic acorn.</context>
+      <utterance>I'm Willow Ufgood. I'm a magician.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Willow throws the acorn at Bavmorda. Her hand shoots out and catches it. the acron begins to turn her to stone, petrifying her hand, her wrist, her arm. Willow backs away, feeling successful. But with intense con- centration of her evil will, Bavmorda fights off the acron's spell. It reverses: her arm, wrist and hand turn back to flesh. She crushes the acorn in her fingers and lets the dust fall to the floor.</context>
+      <utterance>I'm a great magician.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Willow stands there helplessly. Thunder cracks and lightning flashes through the open ceiling above the altar.</context>
+      <utterance>Is that the extent of your power?</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="11">
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Place it on the altar.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. You can't have her.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Willow straightens up, boldly, courageously.</context>
+      <utterance>By ritual, by sorcery, I well draw the lightning and send this child into the destructive realm.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And with my magic I'll send her into the...into the... He gropes for a word. Bavmorda laughs at him.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're no magician.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Bavmorda instantly stops laughing. her eyes flash.</context>
+      <utterance>Into the good.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Willow suddenly starts chanting, loudly and desperate- ly. Raziel opens her eyes and watches. The chenting confuses Bavmorda. Then, Willow cleverly whips the baby under his legs and behind his back and suddenly she's gone!</context>
+      <utterance>Even I don't have the power to do that. You're a fraud.</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>Bavmorda flies into a rage. She lunges across the copper altar. Thunder and lightning!</context>
+      <utterance>Impossible! Bordak! Bordak!</utterance>
+   <speaker>BAVMORDA</speaker>
+      <mode></mode>
+      <context>A bright fork of lightning, conjured by her own evil, shoots in through the ceiling and strikes her. She howls in pain. Her body contorts then bursts into flame and burns into a shriveling pillar of ash. Madmartigan breaks open the door and stomrs in. He scoops up Sorsha, reviving her with a kiss. And as if Bavmorda's death has ended evil and oppres- sion, Raziel stands up with renewed strength.</context>
+      <utterance>Aaaaahhhh!!!</utterance>
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow bends down under a nearby chair and picks up the sleeping baby.</context>
+      <utterance>Willow...Willow...how...how did you do that?</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Elora Danan's eyes open. And sunlight floods into the tower.</context>
+      <utterance>It was just the old disappearing pig trick.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="4">
+   <speaker>RAZIEL</speaker>
+      <mode></mode>
+      <context>Willow accepts the book. Everyone applauds. Willow smiles gratefully and humbly. He glances down and no- tices Rool and Teemo, who have been civilized to a de- gree with page boy uniforms, fuzzy haircuts, and nifty little swords. Madmartigan and Sorsha come forward, with Elora Danan.</context>
+      <utterance>Willow Ufgood. Take this Book of Sorcery. You are on your way to becoming a great magician.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Madmartigan smiles with thanks.</context>
+      <utterance>Your dream has come true, madmarti- gan.</utterance>
+   <speaker>MADMARTIGAN</speaker>
+      <mode></mode>
+      <context>Willow has one last look at the baby. She smiles and giggles at him. He happily gives her a kiss.</context>
+      <utterance>Goodbye, Peck.</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>Suddenly Willow flies up in the air. Madmartigan lifts him onto the pony's back. Willow and Madmartigan shake hands warmly. And Willow rides across the valley of flowers, everybody waving goodbye to him.</context>
+      <utterance>Farewell, Elora Danan.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="2">
+   <speaker>KIAYA</speaker>
+      <mode></mode>
+      <context>Willow stands up in his stirrups. He sees Kiaya fight- ing her way through the crowd to reach him.</context>
+      <utterance>Willow!!</utterance>
+   <speaker>WILLOW</speaker>
+      <mode></mode>
+      <context>He jumps off his pony and runs to her. They collide, kiss and embrace. Then Ranon and Mims jump on their father and hug him. Family and friends smother their homecoming hero with love!</context>
+      <utterance>Kiaya!!</utterance>
+</dialogue>
+
+
+</movie>

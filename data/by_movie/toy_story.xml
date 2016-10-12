@@ -1,0 +1,3757 @@
+<movie id="570" title="Toy Story">
+
+<dialogue id="1" n_utterances="13">
+   <speaker>ANDY</speaker>
+      <mode>AS POTATO HEAD</mode>
+      <context>A GROUP OF TOYS have been crowded together in front of the "BANK" box. Andy's hand lowers a CERAMIC PIGGY BANK in front of Mr. Potato Head and shakes out a pile of coins to the floor. Mr. Potato Head kisses the coins.</context>
+      <utterance>Alright everyone, this is a stick- up! Don't anybody move! Now empty that safe!</utterance>
+   <speaker>ANDY</speaker>
+      <mode>AS POTATO HEAD</mode>
+      <context>A porcelain figurine of the shepherdess, BO PEEP, is brought into the scene.</context>
+      <utterance>Ooh! Money. Money. Money.</utterance>
+   <speaker>ANDY</speaker>
+      <mode>AS BO PEEP</mode>
+      <context></context>
+      <utterance>Stop it! Stop it, you mean old potato!</utterance>
+   <speaker>ANDY</speaker>
+      <mode>AS POTATO HEAD</mode>
+      <context>The companion porcelain sheep are placed in the center of a Hot Wheels track loop.</context>
+      <utterance>Quiet Bo Peep, or your sheep get run over!</utterance>
+   <speaker>ANDY</speaker>
+      <mode>AS SHEEP</mode>
+      <context></context>
+      <utterance>Heeeeelp! BAAAAA! Heeeelp us!</utterance>
+   <speaker>ANDY</speaker>
+      <mode>AS BO PEEP</mode>
+      <context>WOODY, a pull-string doll cowboy, enters into the scene opposite the inanimate spud. Andy's hand pulls on the ring in the center of Woody's back.</context>
+      <utterance>Oh, no! Not my sheep! Somebody do something!</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context></context>
+      <utterance>Reach for the sky.</utterance>
+   <speaker>ANDY</speaker>
+      <mode>AS POTATO HEAD</mode>
+      <context></context>
+      <utterance>Oh, no! Sheriff Woody!!</utterance>
+   <speaker>ANDY</speaker>
+      <mode>AS WOODY</mode>
+      <context>Andy's hand pulls out one of Mr. Potato Head's eyes.</context>
+      <utterance>I'm here to stop you, One-Eyed Bart.</utterance>
+   <speaker>ANDY</speaker>
+      <mode>AS POTATO HEAD</mode>
+      <context></context>
+      <utterance>Doooooh! How'd you know it was me!</utterance>
+   <speaker>ANDY</speaker>
+      <mode>AS WOODY</mode>
+      <context></context>
+      <utterance>Are you gonna come quietly?</utterance>
+   <speaker>ANDY</speaker>
+      <mode>AS POTATO HEAD</mode>
+      <context>Andy places a TOY DOG, with a SLINKY for a mid-section, in front of Mr. Potato Head and stretches him out.</context>
+      <utterance>You can't touch me Sheriff! I brought my attack dog with a built- in force field!</utterance>
+   <speaker>ANDY</speaker>
+      <mode>AS WOODY</mode>
+      <context>Andy reveals a PLASTIC TYRANNOSAURUS REX, who stomps on the Slinky Dog.</context>
+      <utterance>Well I brought my DINOSAUR, who eats force field dogs!!</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="4">
+   <speaker>ANDY</speaker>
+      <mode>AS WOODY</mode>
+      <context>Andy picks up Mr. Potato Head and places him in a baby crib in the room. A cardboard sign is taped to the bars with the word "JAIL" written in crayon.</context>
+      <utterance>You're goin' to jail, Bart.</utterance>
+   <speaker>ANDY</speaker>
+      <mode>AS WOODY</mode>
+      <context>Andy's 1-year-old sister, MOLLY, crawls over and picks up Mr. Potato Head. She sucks on him for a beat then proceeds to pound the toy repeatedly against the rail of her crib, forcing some of his parts loose. Andy, wearing a cowboy hat himself, picks up Woody off the floor.</context>
+      <utterance>Say good-bye to the wife and tatertots.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You saved the day again, Woody.</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context></context>
+      <utterance>You're my favorite deputy.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="3">
+   <speaker>ANDY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Wow! Cool!</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Whadda ya think?</utterance>
+   <speaker>ANDY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Oh, this looks GREAT, Mom!</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="6">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can we leave this up 'til we move?</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, sure, we can leave it up.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah!</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now go get Molly. Your friends are going to be here any minute.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Andy picks up Woody from the couch and runs upstairs.</context>
+      <utterance>Okay.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's party time, Woody!</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="3">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>He deposits Woody on the bed and pulls his string one last time.</context>
+      <utterance>Howdy, Little Lady!</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context></context>
+      <utterance>Somebody's poisoned the waterhole.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Andy exits.</context>
+      <utterance>C'mon, Molly. Oh, you're getting heavy!  See ya later, Woody.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="24">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody thinks.</context>
+      <utterance>Pull my string! The birthday party's today?!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>HAMM, the piggy bank, flips one last penny into his coin slot. Potato Head walks up to him. All his facial pieces are in the wrong slots.</context>
+      <utterance>Ages three and up. It's on my box. Ages three and up! I'm not supposed to be babysitting Princess Drool.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Hamm! Look! I'm Picasso!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>Hamm walks away.</context>
+      <utterance>I don't get it.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>Potato Head walks past, revealing a hockey puck figurine. Woody sits on the edge of the bed observing all the activity. He turns to a plastic green army man, SARGENT, standing on the night stand.</context>
+      <utterance>You uncultured swine!  What are you looking at, ya hockey puck?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, hey Sarge, have you seen Slinky?</utterance>
+   <speaker>SARGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir! No Sir!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody hops off the bed.</context>
+      <utterance>Okay, thank you. At ease.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Slinky?</utterance>
+   <speaker>SLINKY</speaker>
+      <mode>O.S.</mode>
+      <context>A toy Slinky dog, SLINKY, appears from under the bed pushing out a checker board set. He begins to place the checkers on the board.</context>
+      <utterance>Right here, Woody!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm red this time.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Slink --</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh...well alright, you can be red if you want.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not now, Slink. I've got some bad news.</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bad news?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody covers up Slinky's mouth, aware that the other toys in the room are watching. He leans in close to Slinky.</context>
+      <utterance>Sh-h-h-h-h!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just gather everyone up for a staff meeting and be happy!!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context>Slinky shuffles off.</context>
+      <utterance>Got it.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Slinky perks up his gait and LAUGHS HARD. Woody proceeds in the other direction. He passes a toy ROBOT and SNAKE partially hidden under the bedspread.</context>
+      <utterance>Be HAPPY!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Robot and Snake come out from under the bed and reluctantly follow Woody. Woody walks past an Etch-A-Sketch, ETCH, going the other direction.</context>
+      <utterance>Staff meeting, everybody.  Snake, Robot -- podium duty.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Both Etch and Woody whip around like gunfighters. Before Woody can fully extend his arm out, the Etch-A-Sketch etches a gun on its screen.</context>
+      <utterance>Hey Etch! Draw!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Slinky passes a group of toys on the floor.</context>
+      <utterance>Oh!! You got me again, Etch! You've been working on that draw. Fastest knobs in the west.</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context>Robot and Snake begin constructing a podium made out of Legos and a Tinker Toy tub while Woody searches the floor.</context>
+      <utterance>Got a staff meeting, you guys, come on, let's go!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>who moved my doodle pad way over here? Woody spots the doodle pad on the floor by the desk and walks over to it. As he reaches down to pick it up... REX, the plastic dinosaur, jumps out to scare Woody.</context>
+      <utterance>Now where is that -- ? Aw, hey,</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="14">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Rex suddenly turns timid.</context>
+      <utterance>Oh, how ya doin', Rex?</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Were you scared? Tell me honestly.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody heads back to the podium. Rex follows.</context>
+      <utterance>I was close to being scared that time.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>A crook suddenly grabs Woody's neck and jerks him towards BO PEEP, the porcelain figurine.</context>
+      <utterance>I'm going for fearsome here, but I just don't feel it. I think I'm just coming off as annoying.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aach! -- Oh, hi, Bo.</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wanted to thank you, Woody, for saving my flock.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, hey - it was nothing.</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whadda ya say I get someone else to watch the sheep tonight?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Bo saunters back towards her lamp stand, passing a stack of ABC blocks.</context>
+      <utterance>Heh, heh...oh yeah, uh, I...</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context>All the rest of the toys in the room are filing past Slinky.</context>
+      <utterance>Remember, I'm just a couple of blocks away. Woody is left lovestruck.</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context>Woody remains lovestruck in the middle of the room.</context>
+      <utterance>Come on, come on! Smaller toys up front.</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context>Woody snaps out of his trance and rushes over to the podium. The toys crowd together as Woody steps up to the podium. MIKE, a toy tape recorder, waddles up next to Woody and indicates his microphone.</context>
+      <utterance>Hey, Woody! C'mon!</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ahem!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, thanks, Mike.  Okay --</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="22">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Mike waddles back a step to stop the feedback.</context>
+      <utterance>Oh, whoa, step back --</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The toys all MOAN.</context>
+      <utterance>Hello? Check? Better? Great. Everybody hear me? Up on the shelf, can you hear me? Great! Okay, first item today...oh, yeah. Has everyone picked a moving buddy?</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Moving buddy?! You can't be serious!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well I didn't know we were supposed to have one already.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>The toys LAUGH and SNICKER.</context>
+      <utterance>Do we have to hold hands?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The words "You're welcome" scroll across Mr. Spell's display screen as he speaks.</context>
+      <utterance>Oh, yeah, you guys think this is a big joke. We've only got one week left before the move. I don't want any toys left behind. A moving buddy -- if you don't have one, get one!  Alright, next...uh...oh, yes. Tuesday night's "Plastic Corrosion Awareness" meeting was, I think, a big success and we want to thank Mr. Spell for putting that on for us. Thank you, Mr. Spell.</utterance>
+   <speaker>MR. SPELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're welcome.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ok, uh...oh yes. One minor note here...  Andy's birthday party's been moved to today.  Next we have -- The toys all PANIC.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?! Whadda ya mean, the party's today?! His birthday's not 'til next week!!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on down there? Is Mom losing her marbles?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, obviously she wanted to have the party before the move. I'm not worried. You shouldn't be worried.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course Woody ain't worried! He's been Andy's favorite since kindergarten!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context>While Slinky speaks, Potato Head takes off his mouth and mimes kissing his own butt.</context>
+      <utterance>Hey, hey! Come on, Potato Head! If Woody says it's all right, then, well, darnit, it's good enough for me. Woody has never steered us wrong before.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>C'mon, guys! Every Christmas and birthday we go through this.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But what if Andy gets another dinosaur? A mean one? I just don't think I can take that kind of rejection.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody steps down from the podium and walks towards the crowd.</context>
+      <utterance>Hey, listen, no one's getting replaced. This is Andy we're talking about.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Everyone is now looking down, sheepish.</context>
+      <utterance>It doesn't matter how much we're played with. What matters is that we're here for Andy when he needs us. That's what we're made for. Right?</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>Birthday guests at three o'clock!</context>
+      <utterance>Pardon me. I hate to break up the staff meeting, but THEY'RE HERE!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Too late. The toys PANIC and stampede over Woody towards the bedroom window, leaving him alone on the floor.</context>
+      <utterance>Stay calm, everyone!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The toys all crowd around the bedroom window, trying to get a peek outside.</context>
+      <utterance>Uh, meeting adjourned.</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, boy. Will ya take a look at all those presents?!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>Unable to see over the crowd, Potato Head pulls his eyes out of his head and holds them up over the other toys.</context>
+      <utterance>I can't see a thing!</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="15">
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yessir, we're next month's garage sale fodder for sure.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any dinosaur-shaped ones?</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>The presents keep coming.</context>
+      <utterance>Ah, for crying out loud, they're all in boxes, you idiot!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're getting bigger.</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context>At first, the kid's present appears to be a little box, but then the kid turns -- the present is four feet long. The toys SCREAM.</context>
+      <utterance>Wait! There's a nice little one over there!</utterance>
+   <speaker>MR. SPELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spell the word "trashcan."</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>Down on the floor, Woody smacks his hand to his forehead in surrender.</context>
+      <utterance>We're doomed!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The toys turn inside and look down at Woody.</context>
+      <utterance>Alright! Alright!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I send out the troops, will you all calm down?</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes! Yes! We promise!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, save your batteries!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>Woody jumps up onto Andy's bed and turns to the Sargent on the nightstand.</context>
+      <utterance>Eh, very good, Woody. That's using the old noodle.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sargent. Establish a recon post downstairs. Code red. You know what to do.</utterance>
+   <speaker>SARGENT</speaker>
+      <mode></mode>
+      <context>The green army man hops down to the floor where a "BUCKET O' SOLDIERS" sits.</context>
+      <utterance>Yes SIR!</utterance>
+   <speaker>SARGENT</speaker>
+      <mode></mode>
+      <context>THE GREEN ARMY MEN file out of the bucket and march in formation across the bedroom floor.</context>
+      <utterance>Alright men, you heard him. Code Red! Repeat: We are at Code Red! Recon plan Charlie. Execute! Let's move move move!!</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="2">
+   <speaker>MRS. DAVIS</speaker>
+      <mode>O.S.</mode>
+      <context>The door opens and Mrs. Davis' foot comes down hard on top of a soldier.</context>
+      <utterance>Okay, who's hungry? Here come the chips. I've got Cool Ranch and Barbeque --</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context>With a sweep of her foot, she brushes the army men out of her path and continues on to the living room.</context>
+      <utterance>Owww! What in the world -- ? Oh, I thought I told him to pick these up.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="2">
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>What's taking them so long?!</context>
+      <utterance>Shouldn't they be there by now?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, these guys are professionals. They're the best. C'mon, they're not lying down on the job.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="2">
+   <speaker>WOUNDED SOLDIER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go on without me. Just go!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context>The Sargent motions to the remaining men above. They lower themselves via jump rope, riding the baby monitor. Once downstairs, they hustle the baby monitor towards the houseplant. Suddenly...</context>
+      <utterance>A good soldier never leaves a man behind.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="10">
+   <speaker>SARGENT</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Come in, Mother Bird, this is Alpha Bravo.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is it! This is it! Quiet, quiet, quiet!</utterance>
+   <speaker>SARGENT</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Come in, Mother Bird. Alright...Andy's opening the first present now.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Potato Head...Mrs. Potato Head...Mrs. Potato Head...  Hey, I can dream, can't I?</utterance>
+   <speaker>SARGENT</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>The bow's coming off...he's ripping the wrapping paper...it's a...it's...it's a lunchbox! We've got a lunchbox, here!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A lunchbox?!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A lunchbox...?!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For lunch. Heh heh heh...</utterance>
+   <speaker>SARGENT</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Ok, second present...it appears to be...okay, it's bed sheets.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who invited THAT kid?!</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="6">
+   <speaker>SARGENT</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Okay, we're on the last present now...</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Last present!</utterance>
+   <speaker>SARGENT</speaker>
+      <mode>O.S.</mode>
+      <context>The toys CHEER WITH RELIEF.</context>
+      <utterance>It's a big one...It's a...it's a boardgame! Repeat! Battleship -- Battleship, the boardgame!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>Hamm gives Potato Head a congratulatory pat on the back, sending his facial features flying.</context>
+      <utterance>Yeah, alright!!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, watch it!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry there, old Spudhead.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="2">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So did I tell ya? Huh? Nothing to worry about.</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew you were right all along, Woody. Never doubted you for a second.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="2">
+   <speaker>SARGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait -- turn that thing back on!</utterance>
+   <speaker>SARGENT</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Mom has pulled a surprise present from the closet. Andy's opening it...</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="8">
+   <speaker>SARGENT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's really excited about this one. It's a huge package. Oh -- get out -- one of the kids is in the way, I can't see...</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>Rex grabs a leg of the nightstand and shakes it, making the monitor drop to the floor. The impact causes the batteries to roll out.</context>
+      <utterance>It's a WHAT?! WHAT IS IT?!!!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, no!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, ya big lizard! Now we'll never know what it is!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>Everyone rushes to the fallen monitor. Potato Head tries to correctly insert the batteries.</context>
+      <utterance>Way to go, Rex.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no! Turn 'em around, turn 'em around!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eh, he's puttin' 'em in backwards!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody jumps down off the bed and shoves both Hamm and Potato Head aside.</context>
+      <utterance>Plus is positive, minus is negative! Oh, let me!</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="11">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There.</utterance>
+   <speaker>SARGENT</speaker>
+      <mode>O.S.</mode>
+      <context>Resume your positions NOW!</context>
+      <utterance>Juvenile intrusion! Repeat!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The toys PANIC and scatter about the room.</context>
+      <utterance>Andy's coming, everybody! Back to your places. Hurry!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>Did you see my ear?</context>
+      <utterance>Where's my ear? Who's seen my ear?</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>Frantic, Rex slams into a trashcan and falls over. Everyone scurries to their places as the KIDS' FOOTSTEPS grow louder. Woody falls limp in his spot on the bed just as... Andy's bedroom door flies open and a flood of children's feet rush in.</context>
+      <utterance>Outta my way! Here I come, here I come --</utterance>
+   <speaker>FRIEND #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, look! His lasers light up.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Woody is flung off Andy's pillow and slides, unnoticed, down the gap between the bed and the back wall.</context>
+      <utterance>Take that, Zurg!</utterance>
+   <speaker>FRIEND #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Quick! Make a space! This is where the spaceship lands.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- and you press his back and he does a karate-chop action!</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Come on down, guys. It's time for games! We've got prizes!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>The kids all run out as fast as they entered, SLAMMING THE DOOR behind them.</context>
+      <utterance>Oh, yeah!</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="10">
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you see it?</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the heck is up there?</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>Woody crawls out from under the bed. The toys are shocked to discover him there.</context>
+      <utterance>Woody? Who's up there with you?</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody, what are you doing under the bed?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh-h-h-h...nothing! Uh, nothing. I'm sure Andy was just a little excited, that's all. Too much cake and ice cream, I suppose. It's just a mistake.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, that MISTAKE is sitting in your spot, Woody.</utterance>
+   <speaker>REX</speaker>
+      <mode>GASP!</mode>
+      <context></context>
+      <utterance>Have you been replaced?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The toys give each other a look of doubt.</context>
+      <utterance>Hey! What did I tell you earlier? No one is getting replaced.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody climbs slowly up the side of the bed, peeking over the edge. His eyes widen at the sight of...</context>
+      <utterance>Now let's all be polite, and give whatever it is up there a nice, big "Andy's Room" welcome.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="9">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Nothing. He pushes the button again.</context>
+      <utterance>Buzz Lightyear to Star Command. Come in, Star Command.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Just then, Buzz catches sight of his ripped packaging. The box is designed to look like a spaceship.</context>
+      <utterance>Star Command - come in. Do you read me?  Why don't they answer?!!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode>GASP</mode>
+      <context>He runs up to the box and investigates the damage.</context>
+      <utterance>My ship!!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz flips open a plastic compartment on his arm -- his wrist communicator.</context>
+      <utterance>Blast! This'll take weeks to repair!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz springs up and down on the squishy surface of the bed.</context>
+      <utterance>Buzz Lightyear Mission Log. Stardate 4072: My ship has run off course en route to sector 12. I've crash landed on a strange planet. The impact must have awoken me from hyper-sleep.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>He taps the sticker of controls on his wrist communicator.</context>
+      <utterance>Terrain seems a bit unstable...</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No read-out yet if the air is breathable... and there seems to be no sign of intelligent life anywhere --</utterance>
+   <speaker>ANGLE: BUZZ'S POV THROUGH HIS HELMET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody's face suddenly pops into view.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello-o-o...</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="21">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>While Woody is speaking, Buzz notices the sheriff's badge on Woody's vest.</context>
+      <utterance>Aaaaaaah! Whoa, hey, whoa, did I frighten you? Didn't mean to. Sorry. Howdy! My name is Woody and this is Andy's room. That's all I wanted to say, and also, there has been a bit of a mix-up. This is my spot, see, the bed here --</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz begins walking around the bed, surveying the situation. Woody tries to keep up.</context>
+      <utterance>Local law enforcement! It's about time you got here. I'm Buzz Lightyear, Space Ranger, Universe Protection Unit. My ship has crash landed here by mistake.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, it is a mistake, because, you see, the bed, here, is my spot.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need to repair my turbo boosters. Do you people still use fossil fuels, or have you discovered crystalic fusion?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, let's see, we've got double A's --</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz shoves Woody down on the bed and re-activates his wrist laser.</context>
+      <utterance>Watch yourself!!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>The other toys are peeking over the edge of the bed.</context>
+      <utterance>Halt! Who goes there?!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't shoot! It's okay! Friends!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know these life forms?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. They're Andy's toys.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz walks over to the toys.</context>
+      <utterance>Alright, everyone. You're clear to come up.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Rex steps forward and eagerly shakes Buzz's hand.</context>
+      <utterance>I am Buzz Lightyear. I come in peace.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I'm so glad you're not a dinosaur!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why, thank you...  Now thank you all for your kind welcome.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say! What's that button do?</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz presses a button on his chest.</context>
+      <utterance>I'll show you.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode>SAMPLED VOICE</mode>
+      <context>The toys all GASP IN AWE.</context>
+      <utterance>Buzz Lightyear to the rescue!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Woody's got something like that. His is a pullstring, only it --</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Only it sounds like a car ran over it.</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>Singapore? Hong Kong?</context>
+      <utterance>Oh yeah, but not like this one. This is a quality sound system. Probably all copper wiring, huh? So, uh, where are you from?</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>As Buzz speaks, Woody glances down at the box in which Buzz arrived.</context>
+      <utterance>Well...no, actually I'm stationed up in the Gamma Quadrant of Sector 4. As a member of the elite Universe Protection Unit of the Space Ranger Corps, I protect the galaxy from the threat of invasion from the Evil Emperor Zurg, sworn enemy of the Galactic Alliance.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="31">
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, really? I'm from Playskool.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>Woody walks over to Bo Peep.</context>
+      <utterance>And I'm from Mattel. Well, I'm not actually from Mattel, I'm actually from a smaller company that was purchased in a leveraged buy-out. Well, I don't really understand the financials, but...</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd think they've never seen a new toy before.</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context>Slinky presses the button on Buzz's arm, activating his laser light. Buzz quickly pulls his arm away.</context>
+      <utterance>Well sure, look at him. He's got more gadgets on him then a Swiss army knife.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, ah, ah, please be careful! You don't want to be in the way when my laser goes off.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, a laser! How come you don't have a laser, Woody?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not a laser! It's a little lightbulb that blinks!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's with him?</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Laser-envy.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, that's enough. Look, we're all very impressed with Andy's new toy --</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Toy?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>T-O-Y. Toy.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, I think the word you're searching for is Space Ranger.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The word I'm searching for I can't say because there's pre-school toys present.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gettin' kind of tense, aren't you?</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, uh, Mr. Lightyear? Now I'm curious. What does a Space Ranger actually do?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's not a Space Ranger! He doesn't fight evil or shoot lasers or fly --</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Again the toys GASP IN AWE.</context>
+      <utterance>Excuse me. Buzz calmly hits a button and wings pop out.</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, impressive wingspan. Very good!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, what?!...What?! These are plastic. He can't fly!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They are a terillium-carbonic alloy and I CAN fly.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, you can't.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I can.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't! Can't! Can't!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I tell you, I could fly around this room with my eyes closed!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay then, Mr. Lightbeer! Prove it.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>The crowd of toys make room for Buzz as he heads towards the edge of the bed and climbs up the bedpost. He poses like a high diver, shuts his eyes...</context>
+      <utterance>All right, then, I will.  Stand back everyone!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz plummets straight down, hits a big rubber ball and bounces right back up. He then lands on a Hotwheels car, which races him down the track, through the loop, and off a ramp. Buzz soars upward into a plane mobile hanging from the ceiling. Buzz becomes wedged between the plane's wheels. The impact turns on the PLANE'S MOTOR making it (and Buzz) spin around and around. All the other toys watch from the bed, mesmerized. Finally the centrifugal force causes Buzz to separate from the plane, sailing him across the room toward the bed. Buzz makes a perfect landing right in front of Woody and then opens his eyes.</context>
+      <utterance>To infinity and beyond!! ...and leaps off the bed.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>The crowd of toys rush Buzz, CHEERING AND CLAPPING WITH</context>
+      <utterance>Can.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="8">
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa! Oh, wow! You flew magnificently!</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I found my moving buddy!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Thank you.</context>
+      <utterance>Why, thank you. Thank you all.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That wasn't flying! That was falling with style!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>Woody stands alone at the other end of the bed, fuming. Slinky, caught up in the euphoria, approaches Woody.</context>
+      <utterance>Man, the dolls must really go for you!  Can you teach me that?</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heh, heh, heh! Golly bob howdy --</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>I'm still Andy's favorite toy.</context>
+      <utterance>Oh, shut up! In a couple of days, everything will be just the way it was. They'll see... they'll see.</utterance>
+   <speaker>MONTAGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>SONG: STRANGE THINGS plays over montage.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="28">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>He takes a couple DEEP BREATHS of fresh air, then discovers that his hat is missing.</context>
+      <utterance>Finally!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The rubber shark pops up wearing Woody's cowboy hat.</context>
+      <utterance>Hey! Who's got my hat?</utterance>
+   <speaker>SHARK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, I'm Woody. Howdy, howdy, howdy!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody leaps out of the toy box.</context>
+      <utterance>Ah-hah! Ah-hah-hah!  Give me that!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode>O.S.</mode>
+      <context>Woody looks up to see Buzz chatting with Rex and Slinky.</context>
+      <utterance>Say there, Lizard and Stretchy Dog. Let me show you something. It looks as though I've been accepted into your culture.</utterance>
+   <speaker>SLINKY &amp; REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With permanent ink, too!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody looks at HIS foot -- "Andy" is written on it also but in a much more childish scrawl, and is largely faded.</context>
+      <utterance>Well, I must get back to repairing my ship. Buzz walks away.</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode>O.S.</mode>
+      <context>Hearing Bo, Woody puts his foot back down and quickly straightens up.</context>
+      <utterance>Don't let it get to you, Woody.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, let what? I don't -- Uh, what do you mean? Who?</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know Andy's excited about Buzz, but you know, he'll always have a special place for you.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. Like the attic. Heh, heh...</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody angrily marches across the room. Across the room, Buzz's cardboard ship is still up on the ABC blocks. Buzz lies down on a skateboard and slides under the ship like a mechanic. Snake and Robot stand by waiting for instructions. Buzz's hand reaches out from under the ship.</context>
+      <utterance>Alright! That's it!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Robot turns towards Snake who stands in readiness by a tape dispenser.</context>
+      <utterance>Unidirectional bonding strip.</utterance>
+   <speaker>ROBOT</speaker>
+      <mode></mode>
+      <context>Snake rips off a piece of tape with his mouth. Woody approaches the skateboard, grabs hold of Buzz's foot and rolls him out from under the ship.</context>
+      <utterance>Mr. Lightyear wants more tape!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen, Lightsnack, you stay away from Andy. He's mine, and no one is taking him away from me.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz rolls himself back under. Woody rolls him out again.</context>
+      <utterance>What are you talking about?  Where's that bonding strip?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And another thing. Stop with this spaceman thing. It's getting on my nerves.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you saying you want to lodge a complaint with Star Command?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Buzz stands up, face to face with Woody.</context>
+      <utterance>Oh okay, so you want to do it the hard way, huh?</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't even think about it, cowboy!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody pushes Buzz in the chest, accidentally activating a button that makes the spaceman's helmet open. Buzz grabs his neck, GASPING FOR AIR. He drops to his knees and begins to writhe on the ground, holding his breath. Woody is unsure how to react. Suddenly, Buzz SNIFFS the air.</context>
+      <utterance>Oh, yeah, tough guy?!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz rises and points an accusing finger at Woody.</context>
+      <utterance>The air isn't toxic.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz closes his helmet.</context>
+      <utterance>How dare you open a spaceman's helmet on an uncharted planet! My eyeballs could've been sucked from their sockets!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You actually think you're THE "Buzz Lightyear?" Oh, all this time I thought it was an act!  Hey, guys! Look! It's the REAL Buzz Lightyear!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're mocking me, aren't you?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, no, no, no...  Buzz, look! An alien!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody kneels over with LAUGHTER.</context>
+      <utterance>Where? Buzz falls for the trick and turns around.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="11">
+   <speaker>SID</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Yessss! Ah, ha, ha, ha...</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Slinky hides under the bed.</context>
+      <utterance>Uh-oh.</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's Sid!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought he was at summer camp!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>The toys rush over to the window.</context>
+      <utterance>They must have kicked him out early this year.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, no! Not Sid!</utterance>
+   <speaker>SID</speaker>
+      <mode>O.S.</mode>
+      <context>From out the window, SID PHILLIPS, a hyperactive ten-year- old, and his dog, SCUD, can be roughly made out jumping around in their backyard. A tiny figure stands isolated in the center of the yard. Sid pummels the figure with rocks while Scud strains at his leash, barking wildly.</context>
+      <utterance>...Incoming!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is it this time?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't tell. Hey, where's Lenny?</utterance>
+   <speaker>LENNY</speaker>
+      <mode>O.S.</mode>
+      <context>Woody turns to see, LENNY, a pair of wind-up binoculars, approaching him from the other end of the desk. Woody picks Lenny up and looks through him to survey the scene.</context>
+      <utterance>Right here, Woody.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, no. I can't bear to watch one of these again!</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="7">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, no...it's a Combat Carl.</utterance>
+   <speaker>SID</speaker>
+      <mode>O.S.</mode>
+      <context>Buzz breaks through the crowd.</context>
+      <utterance>Just stay where you are, Corporal! Don't move, Carl. You'll blow up. I know you're tired! I know your leg is cramping, but you can't move. Do you hear me?</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Just us TOYS.</context>
+      <utterance>Nothing that concerns you spacemen.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz grabs Lenny from Woody and looks through him.</context>
+      <utterance>I'd better take a look anyway.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why is that soldier strapped to an explosive device?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's why. Sid.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="2">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure is a hairy fellah.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Again, Woody readjusts Buzz's view.</context>
+      <utterance>No! No, that's Scud, you idiot!</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="10">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>THAT is Sid!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean that happy child?</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That ain't no happy child.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He tortures toys -- just for fun.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz steps up onto the window ledge. The toys GASP IN SHOCK.</context>
+      <utterance>Well, then we've got to do something!</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing?!! Get down from there!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going to go teach that boy a lesson.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody presses Buzz's laser button. It emits a WIMPY ELECTRONIC BEEP. Buzz quickly pulls his arm away.</context>
+      <utterance>Yeah, sure. You go ahead. Melt him with your scary laser.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>While Woody and Buzz banter, Lenny witnesses Sid lighting the fuse of the M80.</context>
+      <utterance>Be careful with that, it's extremely dangerous.</utterance>
+   <speaker>LENNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's lighting it! He's lighting it!</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="3">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I could have stopped him.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Sid CACKLES and dances around the crater.</context>
+      <utterance>Buzz, I would love to see you try.  'Course I'd love to see you as a crater.</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The sooner we move the better.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="10">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To infinity and beyond!</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, all this packing makes me hungry. What would you say to dinner at, uh, oh, Pizza Planet?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Andy throws the two toys on his desk with Buzz landing right on top of Woody.</context>
+      <utterance>Pizza Planet?! Oh, cool!</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context>The minute the door is closed Woody comes alive and shoves Buzz off of him.</context>
+      <utterance>Go wash your hands and I'll get Molly ready.</utterance>
+   <speaker>ANDY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Can I bring some toys?</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>You can bring ONE toy...</utterance>
+   <speaker>ANDY</speaker>
+      <mode>O.S.</mode>
+      <context>Woody perks up with concern.</context>
+      <utterance>Just one?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>He glances over his shoulder at Buzz, who is walking away towards the opposite end of the desk. Woody picks up a Magic 8 Ball left beside him on the desk. With his back to Buzz, Woody quietly shakes the 8 ball.</context>
+      <utterance>One toy?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>He tips the 8 ball over. The triangular oracle floats up to the surface. Its prediction reads: DON'T COUNT ON IT.</context>
+      <utterance>Will Andy pick me?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody throws down the 8 ball in disgust. It rolls across the desk and falls behind it with a LOUD THUD. Woody suddenly becomes interested in the back of the desk and peers down it.</context>
+      <utterance>Don't count on it?!! Doh-h-h-h!</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="7">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>We've got trouble!</context>
+      <utterance>Buzz!! Oh, Buzz, Buzz Lightyear!! Buzz Lightyear, thank goodness!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Trouble?!  Where?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Down there. Just down there. A helpless toy...it's...it's trapped, Buzz!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz runs over and looks down the back of the desk.</context>
+      <utterance>Then we've no time to lose!!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody picks up the remote for the RC Car and switches it on. RC's eyes (headlights) open sleepily.</context>
+      <utterance>I don't see anything!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody hits the "FORWARD" button on the remote and steers the RC Car straight for Buzz.</context>
+      <utterance>Oh, he's there. Just, just keep looking.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz turns to see RC headed straight for him. He dives out of the way as the RC Car SMASHES into the base of...</context>
+      <utterance>What kind of a toy -- ?</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="11">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody looks out the window. No sign of Buzz. All the other toys rush over to the sill.</context>
+      <utterance>Buzz!!!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context>Woody backs away from the COMMOTION, unnoticed.</context>
+      <utterance>I don't see him in the driveway! I think he bounced into Sid's yard.</utterance>
+   <speaker>REX</speaker>
+      <mode>GASP</mode>
+      <context></context>
+      <utterance>Buzz!</utterance>
+   <speaker>RC CAR</speaker>
+      <mode></mode>
+      <context>Rex looks over at RC. The remote control car is bouncing up and down excitedly.</context>
+      <utterance>Whirrr!! Whirrrr-whirrrr!!!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>The toys turn from the window to RC.</context>
+      <utterance>Hey everyone! RC's trying to say something!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it, boy?</utterance>
+   <speaker>RC CAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whirrr!!! Whirrr! Whirrrrrr!!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's sayin' that this was no accident.</utterance>
+   <speaker>TOYS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Huh?</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean Humpty Dumpty was pushed...  ...by Woody.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="24">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute. You -- you don't think I meant to knock Buzz out the window, do you Potato Head?</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's Mr. Potato Head to you, you back-stabbin' murderer!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now, it was an accident! Guys, c'mon now, you...you gotta believe me</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We believe you, Woody. Right, Rex?</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>The Sargent pops out of the army bucket next to Woody.</context>
+      <utterance>Oh, I don't like confrontations.</utterance>
+   <speaker>SARGENT</speaker>
+      <mode></mode>
+      <context>Potato Head starts closing in on Woody.</context>
+      <utterance>Where is your honor, dirtbag?! You are an absolute disgrace! You don't deserve to -- Woody seals the lid back on the bucket.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>Potato Head has driven Woody back to the very edge of the desk -- trapped.</context>
+      <utterance>Couldn't handle Buzz cuttin' in on your playtime, could ya Woody? Didn't want to face the fact that Buzz just might be Andy's new favorite toy, so you got rid of him. Well, what if Andy starts playin' with me more, Woody, huh? You gonna knock me outta the window, too?</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>Suddenly, the lid pops off the bucket of army men.</context>
+      <utterance>I don't think we should give him the chance.</utterance>
+   <speaker>SARGENT</speaker>
+      <mode></mode>
+      <context>The army men yell CHARGE and pounce on Woody, while all the rest of the toys close in.</context>
+      <utterance>There he is, men! Frag him!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's string him up by his pull- string!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got dibs on his hat!</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you boys stop it?!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tackle him!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no, no, no! Wait! Wait I can explain everything --</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Andy, c'mon!</utterance>
+   <speaker>ANDY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Okay, Mom, be right down. I've got to get Buzz.</utterance>
+   <speaker>SARGENT</speaker>
+      <mode></mode>
+      <context>The toys all drop Woody and rush back to their places. Andy enters the room and heads straight for the desk where Woody is lying. Andy overlooks Woody and begins searching around the room.</context>
+      <utterance>Retreat!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom! Do you know where Buzz is?</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode>O.S.</mode>
+      <context>Woody painfully watches as Andy searches in vain for Buzz.</context>
+      <utterance>No, I haven't seen him.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode>O.S.</mode>
+      <context>Woody looks across the room. Potato Head and Etch-A-Sketch peek out of a packing box. Etch-A-Sketch scribbles a hangman's noose while Potato Head points an accusing finger in Woody's direction. Woody GULPS.</context>
+      <utterance>Psssst!</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Andy! I'm heading out the door.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But Mom, I can't find him!</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Well, honey, just grab some other toy! Now c'mon!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>He grabs Woody and walks out of the room.</context>
+      <utterance>Okay...</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="2">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I couldn't find my Buzz. I know I left him right there.</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context>You'll find him.</context>
+      <utterance>Honey, I'm sure he's around.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="3">
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's too short! We need more monkeys!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>Rex throws the barrel down and runs back to the ledge.</context>
+      <utterance>There aren't any more! That's the whole barrel.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Buzz! The monkeys aren't working! We're formulating another plan! Stay calm!  Oh, where could he be?</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="12">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I help pump the gas?</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context>Both Mrs. Davis and Andy exit the van while baby Molly sleeps up front in her car seat.</context>
+      <utterance>Sure! I'll even let you drive.</utterance>
+   <speaker>ANDY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Yeah?!</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Yeah -- when you're sixteen.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Suddenly, Buzz appears over the edge of the sun roof.</context>
+      <utterance>Oh, great. How am I gonna convince those guys it was an accident?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Buzz jumps down on the back seat to face Woody. He is furious.</context>
+      <utterance>Buzz!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>No response from Buzz. Just an angry stare.</context>
+      <utterance>Buzz! You're alive! This is great! Oh, I'm saved! I'm saved! Andy'll find you here, he'll take us back to the room, and then you can tell everyone that this was all just a big mistake. Huh?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right? Buddy?</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just want you to know that even though you tried to terminate me, revenge is not an idea we promote on my planet.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Oh, that's good.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But we're not on my planet, are we?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Buzz lunges for Woody. The two toys fly off the seat and out the open side door of the van.</context>
+      <utterance>No.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="9">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Buzz lands a punch that sends Woody's head spinning around. Woody lunges with all his might. He smacks Buzz in the face, making it SQUEAK with every blow. Buzz closes his helmet on Woody's hand.</context>
+      <utterance>Ok! Come on! You want a piece of me?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody pounds on Buzz's chest with his free hand, activating BUZZ'S SAMPLED VOICE buttons.</context>
+      <utterance>Owwwww!!!</utterance>
+   <speaker>SFX: CAR DOOR SLAM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The toys stop fighting. Before they can react...</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Next stop...</utterance>
+   <speaker>ANDY</speaker>
+      <mode>O.S.</mode>
+      <context>The van drives off.</context>
+      <utterance>Pizza Planet! Yeah!!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode>GASP</mode>
+      <context>Woody starts to run in the direction of the van but it drives out of sight, leaving Buzz and Woody stranded.</context>
+      <utterance>Andy?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Meanwhile, Buzz checks the surroundings. He flips open his wrist communicator.</context>
+      <utterance>Doesn't he realize that I'm not there?  I'm LOST! Oh, I'm a lost toy!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody whips around, his expression changing from panic to seething anger. He charges at Buzz.</context>
+      <utterance>Buzz Lightyear Mission Log. The local Sheriff and I seem to be at a huge refueling station of some sort --</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You!</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="13">
+   <speaker>A GIGANTIC TIRE</speaker>
+      <mode></mode>
+      <context>Petrified, Woody inches away from the tire, moving back under the truck until he bumps into Buzz.</context>
+      <utterance>stops just millimeters from Woody's nose.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>According to my nava-computer, the --</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up! Just shut up, you idiot!!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sheriff, this is no time to panic.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the perfect time to panic! I'm lost, Andy is gone, they're going to move from their house in two days and it's all your fault!!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My fault?! If you hadn't pushed me out of the window in the first place --</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, yeah? Well, if YOU hadn't shown up in your stupid little cardboard spaceship and taken away everything that was important to me --</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't talk to me about importance. Because of YOU the security of this entire universe is in jeopardy.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody explodes.</context>
+      <utterance>Right now, poised at the edge of the galaxy, Emperor Zurg has been secretly building a weapon with the destructive capacity to annihilate an entire planet. I alone have information that reveals this weapon's only weakness.  And you, my friend, are responsible for delaying my rendez-vous with Star Command.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Beat.</context>
+      <utterance>YOU ARE A TOY!!! You aren't the real Buzz Lightyear, you're an action figure!! You are a child's plaything!!!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz walks off.</context>
+      <utterance>You are a sad strange little man and you have my pity. Farewell.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody walks away in the opposite direction.</context>
+      <utterance>Oh, yeah? Well, good riddance, ya looney!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rendez-vous with Star Command.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="4">
+   <speaker>PIZZA DELIVERER</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Hey, Gas Dude!</utterance>
+   <speaker>ATTENDANT</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>You talkin' to me?</utterance>
+   <speaker>PIZZA DELIVERER</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Yeah, man, can you help me? Do you know where Cutting Blvd. is?</utterance>
+   <speaker>ATTENDANT</speaker>
+      <mode>O.S.</mode>
+      <context>Woody looks in the direction of the bell. His face lights up at the sight of...</context>
+      <utterance>Just a moment...</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="4">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody takes a step forward and then stops.</context>
+      <utterance>Pizza Planet...Andy!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody runs back under the tanker truck. Buzz is at the far end of the truck, walking away from Woody.</context>
+      <utterance>Oh, no! I can't show my face in that room without Buzz.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Buzz! Buzz, come back!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody looks back at the delivery truck in desperation and then eyes...</context>
+      <utterance>Go away.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="2">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Buzz stops walking away and looks back at Woody.</context>
+      <utterance>No, Buzz, you've gotta come back. I found a spaceship!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a spaceship, Buzz!</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="11">
+   <speaker>PIZZA DELIVERER</speaker>
+      <mode>O.S.</mode>
+      <context>Woody and Buzz eye the parked delivery truck from within the safety of a nearby oilcan display.</context>
+      <utterance>C'mon, man, hurry up. Um, like the pizza's are getting cold here.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now you're sure this spacefreighter will return to its port of origin once it jettisons its food supply?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh-huh. And when we get there, we'll be able to find a way to transport you...home.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz makes a beeline for the passenger side door of the pizza truck. Woody chases after him.</context>
+      <utterance>Well, then let's climb abroad.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no, no, wait, Buzz, Buzz, let's get in the back. No one will see us there.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>In a flash, Buzz has scaled the front tire, grabbed the rear view mirror, and swung himself up and into the cab.</context>
+      <utterance>Negative. There are no restraining harnesses in the cargo area. We'll be much safer in the cockpit.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but, Buzz! Buzz!</utterance>
+   <speaker>PIZZA DELIVERER</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Ok, so that's two lefts, and then a right, huh?</utterance>
+   <speaker>ATTENDANT</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>PIZZA DELIVERER</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Okay, thanks for the directions.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Buzz!</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="2">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The driver shifts into gear and hits the gas, propelling Woody to the back of the truck. The pizza deliverer drives like a maniac, taking sharp turns and hills at high speeds. Woody is helplessly thrown around the truck. With every blow, Woody YELPS in pain. The truck climbs a steep hill. Woody looks up just in time to see...</context>
+      <utterance>It'll be safer in the cockpit than the cargo bay. What an idiot!</utterance>
+   <speaker>A LARGE TOOL BOX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>barreling towards him.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="7">
+   <speaker>ROBOT GUARDS</speaker>
+      <mode></mode>
+      <context>VARIOUS ANNOUNCEMENTS blare out from speakers:</context>
+      <utterance>You are clear to enter. Welcome to Pizza Planet.</utterance>
+   <speaker>MALE VOICE OVER SPEAKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Next shuttle lift-off scheduled for T-minus 30 minutes and counting...</utterance>
+   <speaker>FEMALE VOICE OVER SPEAKER</speaker>
+      <mode></mode>
+      <context>Excited, Buzz pries open the window between the cab and truck bed.</context>
+      <utterance>The white zone is for eating pizza only. The white zone is for...</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody is gone. Just the toolbox and strewn trash.</context>
+      <utterance>Sheriff!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>The toolbox falls on its side revealing Woody. He peels off the back of the truck and falls into a pile of trash.</context>
+      <utterance>Sheriff?</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody rises from the trash with a "MEGA-GULP" cup on his head.</context>
+      <utterance>There you are. Now the entrance is heavily guarded. We need a way to get inside.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great idea, Woody! I like your thinking!</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="2">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ow! Watch where you're going!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>They sneak in between two long rows of video games and throw off their disguises. They then take a good look at...</context>
+      <utterance>Sorry.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="12">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody is busy looking at all the children in the arcade, but none of the kids look familiar to him. Just then he HEARS...</context>
+      <utterance>What a space port. Good work, Woody.</utterance>
+   <speaker>ANDY</speaker>
+      <mode>O.S.</mode>
+      <context>Woody turns around and through the video games he spots...</context>
+      <utterance>Mom, can I play Black Hole? Please, please, please?!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>standing with Mom and Molly in her stroller.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy!</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's Black Hole?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>The family begins to walk away.</context>
+      <utterance>Oh, it's so cool...</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz is about to head off in the opposite direction when Woody grabs him and quickly pulls him down the video corridor.</context>
+      <utterance>Now we need to find a ship that's headed for Sector 12 --</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute! No Buzz! This way! There's a special ship. I just saw it!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean it has hyperdrive?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The toys manage to get ahead of Andy. Woody peeks around the corner of one of the video games and waits for Mom and Andy to approach.</context>
+      <utterance>Hyper-active hyperdrive, and astro...uh, turf.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>C'mon, c'mon, that's it...</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is it? I don't see the -- Buzz stops short at the sight of...</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="5">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Spaceship.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Buzz heads for the crane game, but Woody does not notice, his eyes locked on the approaching stroller.</context>
+      <utterance>Alright Buzz, get ready...</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody turns and realizes Buzz is gone. He looks across the way just in time to see Buzz leap into the crane game through the "PRIZE" slot.</context>
+      <utterance>Okay, Buzz, when I say "go," we're gonna jump in the basket --</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody turns back in the direction of the stroller. It has already gone past.</context>
+      <utterance>Buzz!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody runs towards the crane game, but is forced to hold back for a moment as some SCREAMING children pass by.</context>
+      <utterance>Dooh! No! This cannot be happening to me!!</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="5">
+   <speaker>ALIEN #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A stranger!</utterance>
+   <speaker>ALIEN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>From the outside!</utterance>
+   <speaker>ALIENS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oo-o-o-o-o-o...</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Greetings! I am Buzz Lightyear! I come in peace!</utterance>
+   <speaker>ALIENS</speaker>
+      <mode></mode>
+      <context>The squeeze toys rush Buzz like JABBERING excited children.</context>
+      <utterance>Tell us! What is it like outside?</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="12">
+   <speaker>BUZZ</speaker>
+      <mode>O.S.</mode>
+      <context>Woody peeks over the partition to witness Buzz surround by the cute alien toys.</context>
+      <utterance>This is an intergalactic emergency! I need to commandeer your vessel to Sector 12!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>All the aliens point upward.</context>
+      <utterance>Who's in charge here?</utterance>
+   <speaker>ALIENS</speaker>
+      <mode></mode>
+      <context>Woody and Buzz look up.</context>
+      <utterance>The cla-a-a-a-a-a-a-a-w!!</utterance>
+   <speaker>ANGLE: CRANE GAME CLAW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It dangles directly above the toys.</utterance>
+   <speaker>ALIEN #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The claw is our master.</utterance>
+   <speaker>ALIEN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The claw chooses who will go and who will stay.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is ludicrous.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody leaps off the partition and tackles Buzz, pushing the two of them deep into the pile of aliens.</context>
+      <utterance>Oh, no! Sid!!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Sid approaches the crane game and fishes quarters out of his pants pocket.</context>
+      <utterance>Get down!!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's gotten into you, Sheriff? I was --</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>YOU are the one that decided to climb into this --</utterance>
+   <speaker>ALIEN #4</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sh-h-h-h-h-h. The claw. It moves.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="4">
+   <speaker>ALIEN #3</speaker>
+      <mode></mode>
+      <context>Positioned with his back to Sid, the alien is lifted up by the claw.</context>
+      <utterance>I have been chosen!!</utterance>
+   <speaker>ALIEN #3</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Farewell, my friends! I go on to a better place.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>With the alien gone, Buzz's upper torso becomes exposed, forcing the space ranger to freeze. Sid suddenly spots Buzz.</context>
+      <utterance>Gotcha!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Woody, still hidden, frantically looks around for some way to escape. Behind him, through the aliens, he eyes...</context>
+      <utterance>A Buzz Lightyear! No way!</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="10">
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>The claw begins to lift Buzz up.</context>
+      <utterance>Yes!</utterance>
+   <speaker>WOODY</speaker>
+      <mode>GASP</mode>
+      <context>Woody grabs hold of Buzz's feet. Woody and the claw begin to have a tug-of-war with Buzz. Woody pulls down hard, forcing Buzz to sink into the pile of aliens, out of Sid's view.</context>
+      <utterance>Buzz, NO!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Still tugging against the crane, Woody is almost out the door with Buzz. Just then, the aliens at the bottom of the pile pull Buzz and Woody back inside.</context>
+      <utterance>Wha -- ? Hey!!</utterance>
+   <speaker>ALIEN #4</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He has been chosen.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey! What are you doing?</utterance>
+   <speaker>ALIEN #5</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He must go.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop it, you -- ! Stop it, you zealots!</utterance>
+   <speaker>ALIENS</speaker>
+      <mode></mode>
+      <context>Woody and Buzz are pushed up to the surface and into the air, dangling lifelessly in front of Sid.</context>
+      <utterance>He must go! Do not fight the claw! Do not anger the claw! He has been chosen.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Woody and Buzz are dropped into the prize door slot and snatched up by Sid.</context>
+      <utterance>Alright! Double prizes!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's go home and...play. Ha-ha-ha.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="3">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sheriff! I can see your dwelling from here! You're almost home.</utterance>
+   <speaker>ALIEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nirvana is coming! The mystic portal awaits!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you be quiet?!!  You guys don't get it, do you? Once we go into Sid's house, we won't be coming out.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="2">
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>The dog begrudgingly obeys.</context>
+      <utterance>Whoa, Scud! Hey, boy. Sit! Good boy!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid's hand reaches into the backpack.</context>
+      <utterance>Hey, I got somethin' for ya, boy.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="16">
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>In one quick motion, Scud flips the alien up, catches it in his mouth, and rabidly shakes it back and forth. Buzz and Woody react in horror.</context>
+      <utterance>Ready, set, NOW.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Woody and Buzz glance up to see HANNAH, Sid's frail little sister, carrying her Janie Doll.</context>
+      <utterance>Hannah! Hey, Hannah!!!</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did I get my package in the mail?</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I dunno.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whaddaya mean, you don't know?</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh no, Hannah!</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>He grabs the doll.</context>
+      <utterance>Look! Janie!</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey!!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's sick!</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No she's NOT --</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll have to perform one of my...operations!</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context>Sid bolts upstairs with Hannah in pursuit.</context>
+      <utterance>NO-O-O... Don't touch her! NO!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not Sid's room...not there...</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="8">
+   <speaker>HANNAH</speaker>
+      <mode>O.S.</mode>
+      <context>Sid carelessly tosses the backpack on the bed and walks over to a makeshift workbench.</context>
+      <utterance>Sid! Sid!...</utterance>
+   <speaker>HANNAH</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Sid, give her back! Give her back now! I'm telling!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid grabs a painter's mask from his toolchest and dons it like a surgeon's mask.</context>
+      <utterance>Patient is...  ...pre-e-epped.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid grabs a toy pterodactyl from a nearby crate full of junk.</context>
+      <utterance>No one's ever attempted a double bypass brain transplant before.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now for the tricky part -- pliers!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Sid struggles for a moment with his "patient" then stops.</context>
+      <utterance>I don't believe that man's ever been to medical school.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>He opens the door. Hannah is standing there, looking worried.</context>
+      <utterance>Doctor, you've done it!  Hannah?</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>He hands her Janie -- her head has been replaced with a pterodactyl's. Hannah SCREAMS at the sight of the monstrosity and bolts down the hallway.</context>
+      <utterance>Janie's all better now.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="5">
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid throws the doll to the ground and runs after Hannah, slamming the door behind him. Woody and Buzz peer out of the backpack at their new surroundings. Heavy metal posters, discarded toy remains and power tools adorn the messy room. They are in Hell...toy Hell.</context>
+      <utterance>She's lying! Whatever she says it's not true!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody leaps from the bed to the doorknob and struggles to open it. No good. Woody drops to the floor.</context>
+      <utterance>We are gonna die.  I'm outta here!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Locked! There's gotta be another way out of here.</utterance>
+   <speaker>SFX: ROLLING SOUND</speaker>
+      <mode></mode>
+      <context>A small yo-yo rolls out from behind a box and falls on its side. Spooked, Woody grabs a pencil from the floor and brandishes it like a weapon. Just then a shadow passes by Woody. He turns quickly but sees nothing.</context>
+      <utterance>Woody is startled by the noise.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody hurriedly trades his pencil for a larger flashlight. He hears a NOISE from under Sid's bed. Woody turns on the flashlight and shines the beam in the direction of the noise, illuminating...</context>
+      <utterance>Uh...Buzz? Was that you?</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="2">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Buzz and Woody look on as the mutants have a tug of war as they grab all the Janie and pterodactyl parts, dragging them off into the shadows.</context>
+      <utterance>B-B-B-Buzz!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody retreats back into the backpack.</context>
+      <utterance>They're cannibals!</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="3">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz adjusts his laser light. It emits a short BLIP.</context>
+      <utterance>May day! May day! Come in, Star Command! Send reinforcements!...  Star Command, do you copy? No response.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've set my laser from stun to kill.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, great, great. Yeah, and if anyone attacks us we can blink 'em to death.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="14">
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>Rex points the flashlight beam at the shaking bushes. The annoyed MEOW of a cat is heard.</context>
+      <utterance>Hey, you guys! I think I've found him. Buzz! Is that you?!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whiskers! Will you get out of here?! You're interfering with the search and rescue.</utterance>
+   <speaker>SFX: APPROACHING CAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rex turns off the flashlight.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>The Davis' family van pulls into the driveway. Andy and Mrs. Davis get out.</context>
+      <utterance>Look! They're home! The toys duck behind the sill.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom, have you seen Woody?</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where was the last place you left him?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right here in the van.</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I'm sure he's there. You're just not looking hard enough.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>The toys all look at one another.</context>
+      <utterance>He's not here, Mom. Woody's gone.</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode>GASP</mode>
+      <context></context>
+      <utterance>Woody's gone?!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>Hamm, Potato Head and Rex walk away from the window.</context>
+      <utterance>Well waddah-ya-know, the weasel ran away.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Huh?! Huh?! I told you he was guilty.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>Bo Peep and Slinky are left alone at the window, visibly crestfallen.</context>
+      <utterance>Who would've thought he was capable of such atrocities?!</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, Slink, I hope he's okay.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="7">
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid opens the window shade. Bright sunlight shines down onto Woody.</context>
+      <utterance>I can see your will is strong.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>A bright white hot dot forms on Woody's forehead and begins to smolder.</context>
+      <utterance>Where are your rebel friends now? Heh, heh.</utterance>
+   <speaker>SID'S MOM</speaker>
+      <mode>O.S.</mode>
+      <context>Sid pulls the magnifying glass away.</context>
+      <utterance>Sid!! Your pop-tarts are ready!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid runs out of the room. As soon as he's gone, Woody jumps up SCREAMING, his forehead burning. He runs to a bowl of half-eaten cereal (with milk) on the floor, and dunks his head in. Buzz runs over to Woody, pausing to remove two suction cup darts from his person before pulling Woody out of the bowl. Two colorful Froot-Loops stick to each of Woody's eyes like glasses.</context>
+      <utterance>Alright!!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody looks at his reflection in the back of the cereal spoon and rubs the burn mark on his forehead.</context>
+      <utterance>Are you alright?  I'm proud of you, Sheriff. A lesser man would have talked under such torture.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I sure hope this isn't permanent.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Still no word from Star Command. We're not that far from the spaceport -- Woody's eyes light up.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="3">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody runs for the door. Buzz follows.</context>
+      <utterance>The door! It's open! We're free!!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody, we don't know what's out there!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll tell you what's -- AAAAH!</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="14">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're gonna eat us, Buzz!! Do something! Quick!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz fires his laser at them. The little red beam just flickers against Babyface's head. The mutant toys look confusedly at each other.</context>
+      <utterance>Shield your eyes!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not working. I recharged it before I left. It should be good for hours --</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Grabbing Buzz like a hostage, Woody fends off the mutant toys by pushing a large button on Buzz's back, making Buzz's arm involuntarily "chop" up and down.</context>
+      <utterance>Oh, you idiot! You're a toy! Use your karate chop action!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get away! Hoo-cha! Hoo-cha!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Stop that!</context>
+      <utterance>Hey!! Hey! How are you doing that?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody circles around the mutant toys to the open doorway, continually chopping Buzz's arm.</context>
+      <utterance>Back! Back, you savages! Back!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody, stop it!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody drops Buzz and runs out the door.</context>
+      <utterance>Sorry guys, but dinner's canceled!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>...turns onto the top of the stairwell, down a few steps, and is confronted by...</context>
+      <utterance>There's no place like home. There's no place like home. There's no place like home...</utterance>
+   <speaker>SCUD</speaker>
+      <mode></mode>
+      <context>Woody freezes inches away from the sleeping beast. He slowly backs up the stairs. Suddenly Buzz appears and pulls Woody back against the hallway wall. He covers Woody's mouth with his hand.</context>
+      <utterance>asleep on the landing.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Another stunt like that, cowboy -- you're going to get us killed.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't tell me what to do!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz checks to make sure Scud is still asleep and then darts across the stairwell opening to the other end of the hallway. Once safely across, he motions for Woody to follow. Woody cowardly crawls on all fours across the open area and meets up with Buzz. As he stands...</context>
+      <utterance>Shhh!</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="4">
+   <speaker>ANGLE: SCUD'S EYE</speaker>
+      <mode></mode>
+      <context>Woody vainly attempts to stifle the recoiling pullstring.</context>
+      <utterance>It opens.</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context>GROWLING, Scud starts up the stairs.</context>
+      <utterance>Giddy-up partner!...</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context>Woody and Buzz take off running.</context>
+      <utterance>...We got to get this wagon train a movin'!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Two doors are ajar at the other end of the hallway. Buzz dives behind one while Woody jumps into...</context>
+      <utterance>Split up!</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="3">
+   <speaker>SPACE COMMANDER</speaker>
+      <mode>O.S.; ON TV</mode>
+      <context></context>
+      <utterance>Calling Buzz Lightyear!! Come in Buzz Lightyear!! This is Star Command. Buzz Lightyear! Do you read me?!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz opens up his wrist communicator and is just about to speak into it when he is interrupted.</context>
+      <utterance>Star Command!</utterance>
+   <speaker>KID #1</speaker>
+      <mode>O.S.</mode>
+      <context>Buzz turns around to see...</context>
+      <utterance>Buzz Lightyear responding! Read you loud and clear!</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="2">
+   <speaker>SPACE COMMANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Buzz Lightyear, Planet Earth needs your help!</utterance>
+   <speaker>KID #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On the way!</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="10">
+   <speaker>TV ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Buzz has it all! Locking wrist communicator!</utterance>
+   <speaker>KID #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Calling Buzz Lightyear.</utterance>
+   <speaker>TV ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Karate chop action!</utterance>
+   <speaker>KID #2</speaker>
+      <mode></mode>
+      <context>With every feature demonstrated on the TV, Buzz compares the same feature on himself.</context>
+      <utterance>Wow!</utterance>
+   <speaker>TV ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Pulsating laserlight!</utterance>
+   <speaker>KID #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Total annihilation!</utterance>
+   <speaker>TV ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Multi-phrase voice simulator!</utterance>
+   <speaker>TV BUZZ</speaker>
+      <mode>SAMPLED VOICE</mode>
+      <context>Buzz presses the same button on his uniform.</context>
+      <utterance>It's a secret mission in uncharted space!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode>SAMPLED VOICE</mode>
+      <context></context>
+      <utterance>It's a secret mission in uncharted space!</utterance>
+   <speaker>TV ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>(big "monster truck" voice)</context>
+      <utterance>And best of all...</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="3">
+   <speaker>TV BUZZ</speaker>
+      <mode></mode>
+      <context>On the TV screen, the Buzz Lightyear action figure appears to be launched through the air. The words: NOT A FLYING TOY flash across the bottom of the screen.</context>
+      <utterance>To Infinity and Beyond!</utterance>
+   <speaker>TV ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context>Buzz slowly shakes his head in wide-eyed disbelief.</context>
+      <utterance>Not a flying toy.</utterance>
+   <speaker>TV ANNOUNCER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Get your Buzz Lightyear action figure and save a galaxy near you!</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="3">
+   <speaker>HANNAH</speaker>
+      <mode>O.S.</mode>
+      <context>Hannah walks into the entryway, and not seeing Buzz, steps on him.</context>
+      <utterance>M-o-o-om? Mom, have you seen my Sally doll?</utterance>
+   <speaker>MOM</speaker>
+      <mode>O.S.</mode>
+      <context>Hannah picks up Buzz (and his arm) and smiles.</context>
+      <utterance>What, dear? What was that?</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nevermind.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="3">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Where are you?</context>
+      <utterance>Oo-o-of!  Buzz?! The coast is clear. Buzz?</utterance>
+   <speaker>BUZZ</speaker>
+      <mode>O.S.; SAMPLED VOICE</mode>
+      <context>Woody creeps down the hallway, dragging the Christmas lights with him.</context>
+      <utterance>It's a secret mission in uncharted space! Let's go!!</utterance>
+   <speaker>HANNAH</speaker>
+      <mode>O.S.</mode>
+      <context>Woody peeks into the open doorway of...</context>
+      <utterance>Really? That is so-o-o interesting.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="16">
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you like some tea, Mrs. Nesbit?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Hannah has placed a tiny teapot in Buzz's severed arm and pours imaginary tea with it.</context>
+      <utterance>Buzz!</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context>Woody steps back into the hallway.</context>
+      <utterance>It's so nice you could join us on such late notice.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, no!</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context>Woody thinks for a moment, then takes a few steps further down the hall. He CLEARS HIS THROAT.</context>
+      <utterance>What a lovely hat, Mrs. Nesbit. It goes quite well with your head.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Hannah stops pouring tea and looks up.</context>
+      <utterance>Hannah! Oh, Hannah!</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context>As soon as Hannah exits the room Buzz keels over face-down onto the table. Hannah passes Woody, hidden in the Christmas lights, and walks downstairs.</context>
+      <utterance>Mom?  Please excuse me, ladies. I'll be right back.</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context>Woody bolts into Hannah's room.</context>
+      <utterance>What is it, Mom? Mom, where are you?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Buzz lifts his head up and wails in drunken despair.</context>
+      <utterance>Buzz! Hey, Buzz! Are you okay?</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody picks up Buzz's severed arm.</context>
+      <utterance>Gone! It's all go-o-one! All of it's gone. Bye-bye! Whoo-hoo! See ya!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened to you?</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody removes the teapot from the severed arm and sets it on the table.</context>
+      <utterance>One minute you're defending the whole galaxy...  ...and suddenly you find yourself suckin' down Darjeeling with Marie Antoinette and her little sisters. The headless dolls turn and wave.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think you've had enough tea for today.  Let's get you out of here, Buzz.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>(hysterical laughter)</context>
+      <utterance>Don't you get it?! You see the hat? I am Mrs. Nesbit!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody presses Buzz's helmet open, slaps him across the face with his own detached arm, and then politely closes the helmet. Buzz sobers up and calmly takes his severed arm from Woody. Buzz walks out of the room while Woody follows.</context>
+      <utterance>Snap out of it, Buzz!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. You're right.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="4">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz reaches the center of the hallway and drops to his knees.</context>
+      <utterance>...I'm just a little depressed, that's all. I can get through this.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I'm a sham!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sh-h-h-h-h!! Quiet, Buzz.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody stops short. He looks down the hallway in the direction of Sid's room.</context>
+      <utterance>Look at me! I can't even fly out of a window!</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="4">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But -- the hat looked good. Tell me the hat looked good! The apron is a bit much, it's not my color...</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody grabs the coil of Christmas lights and drags Buzz towards Sid's room.</context>
+      <utterance>Out the window...Buzz, you're a genius!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, this way!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Years of Academy training...wasted!!</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="8">
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss. G-6.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ohhh! You sunk it!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heh-heh.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you peeking?</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>Potato Head reaches for his ear.</context>
+      <utterance>Oh, quit your whining and pay up.</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no, not the ear. Gimme the nose. C'mon!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>He is about to hand his nose over to Hamm when...</context>
+      <utterance>How 'bout three out of five?</utterance>
+   <speaker>WOODY</speaker>
+      <mode>O.S.</mode>
+      <context>Both toys look across the way.</context>
+      <utterance>Hey guys! Guys! Hey!</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="7">
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Son of a building block, it's Woody!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's in the psycho's bedroom!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everyone, it's Woody!</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody?!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're kidding?</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody?!</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="16">
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, look!</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boy, am I glad to see you guys!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew you'd come back, Woody!</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing over there?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody tosses one end of the Christmas lights over. Slinky catches them.</context>
+      <utterance>It's a long story, Bo. I'll explain later. Here, catch this!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got it, Woody!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He got it, Woody!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good going, Slink! Now, just, just tie it on to something!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>Potato Head grabs the string of lights away from Slinky.</context>
+      <utterance>Wait! Wait! I got a better idea! How about we DON'T?!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey?!!</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Potato Head!?</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you all take stupid pills this morning?! Have you forgotten what he did to Buzz? And now you want to let him back over here?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no, no! You got it all wrong, Potato Head. Buzz is fine! Buzz is right here. He's with me!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are a liar!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm not!  Buzz, come over here and you just tell the nice toys that you're not dead.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="4">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Buzz's severed arm comes flying into view and lands by Woody's feet.</context>
+      <utterance>Buzz! Will you get up here and give me a hand?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ha ha. That's very funny, Buzz.  This is serious!!</utterance>
+   <speaker>REX</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Hey, Woody!? Where'd ya go?</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>He's lyin'. Buzz ain't there.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="20">
+   <speaker>WOODY</speaker>
+      <mode>AS BUZZ</mode>
+      <context></context>
+      <utterance>Hi ya, fellas. To infinity and beyond!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey look! It's Buzz!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, hey Buzz. Let's show the guys our new secret best-friends hand shake. Gimme five, man!</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Something's screwy here.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody makes Buzz's arm grab his neck and pull him forward.</context>
+      <utterance>So, you see? We're friends now, guys. Aren't we, Buzz?  You bet. Gimme a hug.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ha, ha, oh, I love you, too.</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See? It is Buzz. Now give back the lights, Potato Head.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait just a minute. What are you trying to pull?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody innocently shrugs and throws both his hands up... ...exposing the severed arm. The toys all SCREAM in horror. Rex clasps his hands to his mouth and turns away to BARF. Realizing his mistake, Woody tries to hide the arm, but it's too late.</context>
+      <utterance>Nothing.</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, that is disgusting.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Murderer!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! No, no, no, no!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You murdering dog!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, it's not what you think, I swear!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>Potato Head drops the lights.</context>
+      <utterance>Save it for the jury. I hope Sid pulls your voice-box out, ya creep!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! No! Don't leave! Don't leave! You've gotta help us, please! You don't know what it's like over here!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on. Let's get out of here.</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>All the toys leave the window except Slinky.</context>
+      <utterance>Go back to your lives, citizens. Show's over.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Unable to look Woody in the eye, Slinky closes the blinds.</context>
+      <utterance>Come back! Slink! Slink, please! Please! Listen to me!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No! No! Come back! SLI-I-I-INKYYY!!</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="3">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Babyface turns from the fray and charges at Woody with his erector-set pinchers. Woody cowers, shielding himself from Buzz's arm. Babyface clamps onto the arm and has a tug-o-war with Woody.</context>
+      <utterance>Go away, you disgusting freaks!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody loses his grip on the arm and sails across the room, crashing into the wall. By now there is no sight of Buzz within the swarming mass of mutant toys. Woody attacks the mob with a vengeance.</context>
+      <utterance>Alright back! Back, you cannibals!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>He furiously throws the mutant toys aside, digging his way to...</context>
+      <utterance>He is still alive, and you're not gonna get him, you monsters!</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="12">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody shakes Buzz's arm to confirm what he's seeing is real when he looks to the mutants.</context>
+      <utterance>Hey?! Hey, they fixed you!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Immediately, the mutant toys retreat back into the dark corners of the room.</context>
+      <utterance>Uh...sorry. I...I thought that you were gonna...  ...you know, eat my friend.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey! No, no, wait! Hey! What's wrong?</utterance>
+   <speaker>SID'S MOM</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Sid!</utterance>
+   <speaker>SID</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Not now, Mom, I'm BUSY!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>FOOTSTEPS approach the bedroom. Woody tries to pick up the still depressed Buzz, but he just goes limp.</context>
+      <utterance>Sid!!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Buzz! C'mon, get up! Buzz, you're...</utterance>
+   <speaker>WOODY</speaker>
+      <mode>GRUNT</mode>
+      <context>Woody begins dragging Buzz towards the bed, but their progress is too slow. He shakes Buzz hard.</context>
+      <utterance>...get up...</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody leaves Buzz sitting alone in the middle of the floor and hides underneath a nearby milkcrate just as... Sid enters carrying a big box.</context>
+      <utterance>Fine. Let Sid trash you. But don't blame me.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid runs over to his workbench and rips open the box.</context>
+      <utterance>It came! It finally came!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>He pulls out a rocket with "THE BIG ONE" written on it.</context>
+      <utterance>The big one.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>No Woody.</context>
+      <utterance>"Extremely dangerous. Keep out of reach of children." COOL...  What am I gonna blow? Man...hey, where's that wimpy cowboy doll? Sid spots the milkcrate and picks it up.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="6">
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>He places Buzz and the milkcrate on the workbench and throws a toolbox on top of the crate. The impact of the toolbox dislodges Woody from his hiding place. Woody quickly ducks under a magazine on the floor of the crate "jail." Woody watches helplessly as Sid fishes out a roll of electrical tape from the toolbox and, with an IRREVERENT CHUCKLE, tapes Buzz to the rocket.</context>
+      <utterance>Yes! I've always wanted to put a spaceman into orbit. Ha-ha.</utterance>
+   <speaker>SFX: THUNDERCLAP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A flash of lightning interrupts the moment.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid crosses to the window to see a huge rainstorm commence. Sullenly, he smacks his head against the window.</context>
+      <utterance>Oh, no...</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Woody heaves a SIGH of relief. Suddenly Sid's face brightens. He turns his focus from the rain to the Buzzrocket.</context>
+      <utterance>Aw, man...!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sid Phillips reporting. Launch of the shuttle has been delayed due to adverse weather conditions at the launch site. Tomorrow's forecast... Sid smacks Buzz down on the desk, winds his alarm clock, and places it next to Buzz.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sunny. Ha-ha-ha. Sweet dreams.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="5">
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I looked everywhere, honey, but all I could find was your hat.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But what if we leave them behind?</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context>Andy's eyes shut. Mom turns out the light and quietly exits the room. A moving box on the floor, with the words "Andy's Toys!" scrawled on it, begins to shake from side to side.</context>
+      <utterance>Oh, don't worry, honey, I'm sure we'll find Woody and Buzz before we leave tomorrow.</utterance>
+   <speaker>REX</speaker>
+      <mode>O.S.</mode>
+      <context>Rex pops out of the top of the box, COUGHING a packing styrofoam peanut out of his mouth. Potato Head appears beside him.</context>
+      <utterance>Aaaah! I need air!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aa-a-a-a-ah!</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="4">
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you quit moving around?!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. It's just that I get so nervous before I travel.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>Potato Head drops back down into the box.</context>
+      <utterance>How did I get stuck with YOU as a moving buddy?</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everyone else was picked.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="16">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody picks up a stray washer from the desktop and flings it at Buzz, striking his helmet. Buzz lifts his head and turns lifelessly to look at Woody.</context>
+      <utterance>Ps-s-s-s-t! Psst! Hey, Buzz! No reaction from Buzz.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Buzz just looks away from Woody and bows his head.</context>
+      <utterance>Hey! Get over here and see if you can get this tool box off me.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, come on, Buzz. I...Buzz, I can't do this without you. I need your help.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't help. I can't help anyone.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why, sure you can, Buzz. You can get me out of here and then I'll get that rocket off you, and we'll make a break for Andy's house.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy's house. Sid's house. What's the difference.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>You must not be thinking clearly.</context>
+      <utterance>Oh, Buzz, you've had a big fall.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Woody, for the first time I am thinking clearly.  You were right all along. I'm not a Space Ranger. I'm just a toy. A stupid little insignificant toy.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa, hey -- wait a minute. Being a toy is a lot better than being a Space Ranger.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, right.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, it is. Look, over in that house is a kid who thinks you are the greatest, and it's not because you're a Space Ranger, pal, it's because you're a TOY! You are HIS toy.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But why would Andy want me?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody pauses and looks at himself.</context>
+      <utterance>Why would Andy want you?! Look at you! You're a Buzz Lightyear. Any other toy would give up his moving parts just to be you. You've got wings, you glow in the dark, you talk, your helmet does that -- that whoosh thing -- you are a COOL toy.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody pulls his own pull-string.</context>
+      <utterance>As a matter of fact you're too cool. I mean -- I mean what chance does a toy like me have against a Buzz Lightyear action figure? All I can do is...</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context>Woody bows his head.</context>
+      <utterance>There's a snake in my boots!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody slumps dejectedly against the crate, his back to Buzz. Buzz lifts up his foot.</context>
+      <utterance>Why would Andy ever want to play with me, when he's got you?  I'm the one that should be strapped to that rocket.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="4">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Buzz!! What are you doing? I thought you were --</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Now let's get you out of this thing.</context>
+      <utterance>Come on, Sheriff. There's a kid over in that house who needs us.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Both Buzz and Woody push the milkcrate and together, they finally get it to move but it's slow progress.</context>
+      <utterance>Yes Sir!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, Buzz! We can do it!</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="7">
+   <speaker>A MOVING TRUCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>can be seen pulling up in front of Andy's house.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody! It's the moving van.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Buzz braces himself between the tool chest and the wall. Using his legs, Buzz pushes with all his might. The toolbox begins to move. Woody notices that with every shove Buzz gives to the tool chest, the milkcrate begins to edge out over the lip of the desk.</context>
+      <utterance>We've got to get out of here...NOW.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Finally the gap is wide enough for Woody to jump through. Woody drops down to the floor below.</context>
+      <utterance>C'mon, Buzz.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Buzz doesn't hear Woody and continues to shove the toolbox (and milkcrate) farther out.</context>
+      <utterance>Alright. Buzz! Hey! I'm out!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...almost</utterance>
+   <speaker>BUZZ</speaker>
+      <mode>GRUNT</mode>
+      <context></context>
+      <utterance>...there</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="3">
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid does not wake. Buzz heaves a SIGH OF RELIEF, then peers over the edge of the workbench.</context>
+      <utterance>I wanna ride the pony...</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody lifts himself out from under the rubble.</context>
+      <utterance>Woody! Woody?! Are you alright?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm fine...I'm okay...</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="7">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody slams the door shut just in time. Scud BARKS AND SCRATCHES at the door.</context>
+      <utterance>Aaah! Back! Back! Down! Down!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody looks across the room.</context>
+      <utterance>Okay, what do I do? Come on Woody, think!</utterance>
+   <speaker>THE MUTANT TOYS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>have appeared all around the room.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The mutant toys all scatter and hide.</context>
+      <utterance>Guys!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody then notices Babyface timidly peeking out of the shadows from under the bed.</context>
+      <utterance>No, no, no! Wait! Wait! Listen! Please! There's a good toy down there and he's -- he's going to be blown to bits in a few minutes all because of me. I've gotta save him!  -- But I need your help. No response.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Babyface crawls out and bangs in code on the side of Sid's metal bedpost. The mutant toys emerge from the shadows, and gather around Woody. He kneels down into a huddle with them.</context>
+      <utterance>Please. He's my friend. He's the only one I've got.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.  Okay. I think I know what to do. We're going to have to break a few rules, but if it works, it'll help everybody.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="2">
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>He drops the junk down beside an inanimate Buzz.</context>
+      <utterance>Houston to Mission Control. Come in, Control.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Heh-heh.</context>
+      <utterance>Launch pad is being constructed!</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="3">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>LEGS, the toy fishing rod with fashion doll legs, steps forward from the crowd.</context>
+      <utterance>All right, listen up. I need Pump Boy here -- Ducky here. Legs?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The mutants all give an affirmative nod.</context>
+      <utterance>You're with Ducky.  RollerBob and I don't move till we get the signal. Clear?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Legs and DUCKY, a duck head Pez dispenser with baby doll torso and plunger base, rush over to a heating grate and pull the face plate off the wall. They disappear into the heating duct.</context>
+      <utterance>Okay, let's move! The toys all break.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="3">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Hand-in-the-box throws open the door and The Frog is let loose. The Frog zips through Scud's legs and down the hallway. Scud chases after it and follows it down the stairs.</context>
+      <utterance>Go!!</utterance>
+   <speaker>SFX: DOORBELL</speaker>
+      <mode>O.S.</mode>
+      <context>Woody helps the rest of the mutant toys onto the skateboard.</context>
+      <utterance>I'll get it!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Using his front arms, Rollerbob propels the skateboard and crew out into the hallway.</context>
+      <utterance>Alright, let's go.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="3">
+   <speaker>SFX: DOORBELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hannah walks to the front door...</utterance>
+   <speaker>HANNAH</speaker>
+      <mode></mode>
+      <context>...and opens it.</context>
+      <utterance>I'm coming! I'm coming!</utterance>
+   <speaker>EXT./INT. FRONT DOORWAY - CONTINUOUS</speaker>
+      <mode></mode>
+      <context>Hannah doesn't notice Ducky stuck to the porch floor by his plunger.</context>
+      <utterance>Nobody's there.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="26">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The mutants all push back causing the RollerBob to do a wheelie. They smash through the doggie door...</context>
+      <utterance>Lean back!</utterance>
+   <speaker>SID</speaker>
+      <mode>O.S.; AS ASTRONAUT</mode>
+      <context>Ducky, Legs, and the Frog shoot out into the yard from a drain pipe. They exchange a thumbs-up with Woody.</context>
+      <utterance>Uh, Mission Control...is the launchpad construction complete? --  Uh, Roger, rocket is now secured to guide wire. We are currently obtaining the...ignition sticks. Countdown will commence momentarily. Stand by --</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The mutants disperse to their designated places in the yard.</context>
+      <utterance>Let's go!</utterance>
+   <speaker>SID</speaker>
+      <mode>O.S.</mode>
+      <context>Woody runs towards Buzz, who spots Woody approaching.</context>
+      <utterance>Hey, Mom?! Where are the matches? Oh, oh, wait, here they are. Nevermind...</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody stops a few feet away from Buzz.</context>
+      <utterance>Woody?! Great! Help me out of this thing!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shhhhhhh!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody deliberately falls down limp on the grass.</context>
+      <utterance>It's ok. Everything's under control.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody?! What are you doing?! Sid emerges from the tool shed. Buzz freezes.</utterance>
+   <speaker>SID</speaker>
+      <mode>AS ASTRONAUT</mode>
+      <context>Sid picks up Woody, examines him for a beat and then smiles.</context>
+      <utterance>Houston, all systems are go. Requesting permission to launch --  Hey! How'd you get out here?</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>He sticks a match prominently in Woody's holster and tosses him onto the grill of an open barbecue.</context>
+      <utterance>Oh, well, you and I can have a cookout later. Ha-ha-ha...</utterance>
+   <speaker>SID</speaker>
+      <mode>AS ASTRONAUT</mode>
+      <context>During Sid's countdown, all the mutants scurry into their final positions. Sid lights a match.</context>
+      <utterance>Houston, do we have permission to launch? --  Uh, Roger, permission granted. You are confirmed at T minus 10 seconds...</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid grins menacingly as the match moves towards the fuse.</context>
+      <utterance>...and counting. Ten! Nine! Eight! Seven! Six! Five! Four! Three! Two!... One!...</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context></context>
+      <utterance>Reach for the sky!!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid pulls back from lighting the fuse. He turns to look at Woody still lying lifelessly atop the barbecue except for the sound emitting from his voice box.</context>
+      <utterance>Huh?</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context></context>
+      <utterance>This town ain't big enough for the two of us!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid walks over to Woody and picks him up.</context>
+      <utterance>What?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context></context>
+      <utterance>Somebody's poisoned the water hole...</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>He raises Woody up, about to throw him away --</context>
+      <utterance>It's busted.</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context>Sid stops short and looks at Woody again.</context>
+      <utterance>Who are you callin' busted, Buster?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context>It isn't moving. Sid GULPS.</context>
+      <utterance>That's right. I'm talking to YOU, Sid Phillips. We don't like being blown up, Sid, or smashed, or ripped apart... While Woody's voice box talks, Sid checks the pullstring.</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>W-w-w-we?</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context>The remains of broken toys in the yard, led by the bedroom mutants, begin rising from the ground in "NIGHT OF THE LIVING DEAD" fashion. The toys march forward, forming a circle around Sid. Sid is too frightened to scream or move.</context>
+      <utterance>That's right.  Your toys.</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context>Woody's inanimate head rotates 360 degrees.</context>
+      <utterance>From now on, you must take good care of your toys. Because if you don't, we'll find out, Sid. We toys can see...</utterance>
+   <speaker>WOODY</speaker>
+      <mode>VOICE BOX</mode>
+      <context>For a split second Woody's face comes to life.</context>
+      <utterance>...everything.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Sid drops Woody and bolts inside the house.</context>
+      <utterance>So play nice.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="6">
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Sid eyes Hannah's doll and pats it gently on the head.</context>
+      <utterance>The toys! The toys are alive!</utterance>
+   <speaker>SID</speaker>
+      <mode></mode>
+      <context>Hannah, sensing Sid's fear, suddenly thrusts the doll in Sid's face. He SCREAMS and runs upstairs. Hannah chases after him, taunting.</context>
+      <utterance>N-N-Nice dolly...</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's wrong, Sid?! Don't you want to play with Sally?!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nice work, fellahs. Good job. Comin' out of the ground -- what a touch! That was a stroke of genius.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody turns around and looks at Buzz, who's still affixed to Sid's launchpad. Buzz extends his hand to Woody.</context>
+      <utterance>Woody!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>They shake.</context>
+      <utterance>Thanks.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="2">
+   <speaker>MRS. DAVIS</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Everybody say, "Bye, house."</utterance>
+   <speaker>ANDY</speaker>
+      <mode>O.S.</mode>
+      <context>Buzz and Woody look in the direction of Andy's house.</context>
+      <utterance>Bye, house.</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="2">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody quickly hoists Buzz off the pole he was tied to.</context>
+      <utterance>Woody! The van!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>With the rocket still taped to Buzz, the two toys sprint towards the fence.</context>
+      <utterance>We gotta run! Thanks, guys.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="2">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody jumps down and runs back for Buzz. The van begins pulling out of the driveway. Woody tugs on a loosened slat and breaks Buzz free of the fence. The two toys run out into the street just in time to see the van driving off down the street.</context>
+      <utterance>Just go! I'll catch up!</utterance>
+   <speaker>SFX: TRUCK ENGINE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody and Buzz turn around.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="2">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody gives a mighty leap and catches hold of the strap.</context>
+      <utterance>You can do it, Woody.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody begins climbing up when suddenly Buzz goes pale. Woody looks behind him to see...</context>
+      <utterance>Whew, I made it!</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="3">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Scud tugs on Woody, pulling him down to the end of the strap.</context>
+      <utterance>Aaaaaahh!! Get away, you stupid dog! Down! Down!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold on, Woody!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't do it! Take care of Andy for me!</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="6">
+   <speaker>TOYS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are we there already?</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context>Woody's response is to slide the box aside and begin rummaging through the next box. Slinky, Potato Head, Rex and the other toys GRUMBLE IN CONFUSION as they poke their heads up out of the first box.</context>
+      <utterance>Woody?! How'd you --</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody pulls the RC Car and its remote out of the second box.</context>
+      <utterance>Ah-hah! There you are!!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>Woody runs to the back of the truck and throws the RC Car out onto the street. The other toys SCREAM in horror.</context>
+      <utterance>Hey! What's he doing?</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's at it again!</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="5">
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>All the toys pour out of their boxes and CHARGE on Woody.</context>
+      <utterance>Get him!!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody continues to steer the remote while trying to avoid the angry mob of toys. Buzz jumps on to the RC car and they zoom back towards the moving truck. Scud is right on their heels and is about to chomp down on Buzz -- Rocky picks up Woody and spins him over his head.</context>
+      <utterance>Ah-h!! Ah-h! No, no!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>-- The RC car suddenly swerves from Scud's jaws and starts doing doughnuts (matching Woody's) in the middle of the street.</context>
+      <utterance>No, no, no! Wait!  Whoa-Whoa-Whoa...!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>-- RC resumes his course straight down the street with Scud giving close chase. Hamm leaps off a pile of boxes and onto Woody.</context>
+      <utterance>Whoa-Whoa-Whoa...! Rocky throws Woody to the floor.</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>-- The RC car hops up in the air, tossing Buzz up and off. Buzz manages to land back on RC, but facing backwards.</context>
+      <utterance>Pig pile!!</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="4">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No wait! You don't understand! Buzz is out there! We've gotta help him!!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Toss 'im overboard!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The toys toss him out into the road. As the truck drives off, the toys CHEER.</context>
+      <utterance>No, no, no, wait!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So long Woody!</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="5">
+   <speaker>BUZZ &amp; RC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>come barreling towards him.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>The RC Car sweeps up Woody and keeps driving. Woody finds himself sitting in front of Buzz (still holding the remote).</context>
+      <utterance>Who-o-o-oa! Woody!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, thanks for the ride.</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>The toys are about to slam into the rear tire of the car that had passed over Woody earlier. Woody SCREAMS and gives the steering wheel on the remote a hard left, missing the tire by inches. The RC Car moves up under the car.</context>
+      <utterance>Look out!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now let's catch up to that truck!</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="2">
+   <speaker>LENNY</speaker>
+      <mode></mode>
+      <context>And Buzz is with him!</context>
+      <utterance>Guys! Guys! Woody's riding RC!</utterance>
+   <speaker>TOYS</speaker>
+      <mode></mode>
+      <context>The toys rush to the edge of the open truck. Bo picks up Lenny and looks through him.</context>
+      <utterance>What?!!!</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="13">
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is Buzz! Woody was telling the truth!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What have we done?!</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great. Now I have guilt.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're almost there.</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context>Rocky, the wrestler doll, rushes over to a lever on the side of the back. The sign above it reads "RAMP: UP/DOWN." Rocky pushes down hard on the lever. The ramp begins to lower. Woody &amp; Buzz look up to see the ramp about to come down right on top of them.</context>
+      <utterance>Rocky! The ramp!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>The RC Car pulls back just before the heavy ramp slams into the road. Sparks fly everywhere from the metal scraping the pavement.</context>
+      <utterance>Look out!!</utterance>
+   <speaker>ANGLE: WOODY &amp; SLINKY'S HANDS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They grab hold of one another.</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>All of a sudden, the RC Car begins to slow down pulling Slinky's front end off the ramp.</context>
+      <utterance>That a boy, Slink!!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context>His slinky middle begins to stretch and stretch...</context>
+      <utterance>Woody!!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody! Speed up!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Speed up!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>RC's headlight eyes sag. The car slows even more. As Slinky continues stretching. The RC Car begins to weave side-to-side like a water skier.</context>
+      <utterance>The batteries! They're running out!</utterance>
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa! Whoa! Whoa!</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="3">
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't hold on much longer!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Slinky's hand slips, sending his front shooting back into the moving truck and knocking over all the toys. The RC Car sputters to a stop. Woody and Buzz watch in vain as the family van and moving truck disappear. Buzz tosses the remote to the ground in frustration.</context>
+      <utterance>Slink! Hang on!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great!</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="5">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody! The rocket!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody pulls out the match from his holster that Sid had put there earlier.</context>
+      <utterance>The match!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Woody runs around behind Buzz, strikes the match against RC's back tire, and is about to light the fuse when...</context>
+      <utterance>Yes! Thank you, Sid!</utterance>
+   <speaker>A CAR</speaker>
+      <mode></mode>
+      <context>Woody clenches the burnt match in his hands and falls prostrate to the ground.</context>
+      <utterance>whizzes right over them, blowing out the match.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Unable to watch a cowboy cry, Buzz bows his head, causing his helmet to block the sun from Woody. As Buzz's shadow passes over him, Woody stops whimpering and looks at his hand.</context>
+      <utterance>No-o-o! No-no-no-no! No-o-o!</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="5">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody?! What are you doing?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>The fuse lights.</context>
+      <utterance>Hold still, Buzz!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ha-ha!!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Woody jumps back onto the car then suddenly stops smiling.</context>
+      <utterance>You did it! Next stop. Andy.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Rockets explo --</context>
+      <utterance>Wait a minute...I just lit a rocket.</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="2">
+   <speaker>SLINKY</speaker>
+      <mode></mode>
+      <context>Lenny looks out the back again.</context>
+      <utterance>I shoulda held on longer.</utterance>
+   <speaker>LENNY</speaker>
+      <mode></mode>
+      <context>The toys run to the opening and CHEER.</context>
+      <utterance>Look! Look! It's Woody and Buzz! Comin' up fast!</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="3">
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>Woody is forced to let go of the RC Car. They separate, sending the two toys upward and RC into the back of the truck. RC smashes into Potato Head, sending all of his parts flying.</context>
+      <utterance>Take cover!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ahhh!! This is the part where we blow up!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context>Buzz confidently presses the button on his chest.</context>
+      <utterance>Not today!</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="6">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>Just then Buzz banks under some power lines and soars upward again. Woody takes a peek. They're flying.</context>
+      <utterance>Ah-h-h-h-h!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Buzz!! You're flying!!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This isn't flying. This is falling -- with style!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>They soar gracefully towards the moving truck, but then pass over it.</context>
+      <utterance>Ha ha!! To Infinity and Beyond!!</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, Buzz?! We missed the truck!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're not aiming for the truck!</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="7">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey! Wow!</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? What is it?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woody! Buzz!</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, great, you found them. Where were they?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here! In the car!</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context>Andy hugs both toys.</context>
+      <utterance>See? Now, what did I tell you? Right where you left them.</utterance>
+   <speaker>CLOSE UP - WOODY AND BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They give each other a knowing wink.</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="2">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which one can I open first?</utterance>
+   <speaker>MRS. DAVIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's let Molly open one.</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="3">
+   <speaker>SARGENT</speaker>
+      <mode>O.S.</mode>
+      <context>Buzz sits on the edge of Andy's bed while Hamm rests on the nightstand alongside the monitor. They listen intently.</context>
+      <utterance>Frankincense, this is Myrrh. Come in, Frankincense.</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>Woody and the rest of the toys are MINGLING together like a typical office Christmas party.</context>
+      <utterance>Hey, heads up everybody! It's showtime.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>The toys all stop and run towards the monitor. Woody is about to follow when a crook pulls him backwards to reveal...</context>
+      <utterance>Oh! It's time!</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="13">
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoooooah! Oh! Bo!  There's gotta be a less painful way to get my attention.</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context>She smiles and points her crook upwards to her sheep perched on a shelf dangling mistletoe.</context>
+      <utterance>Merry Christmas, Sheriff.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say, isn't that mistletoe?</utterance>
+   <speaker>BO PEEP</speaker>
+      <mode></mode>
+      <context>Bo drops her crook, dips Woody and KISSES him. The rest of the toys have congregated below the monitor restless with "excitement" not fear.</context>
+      <utterance>Mm-hmmmmm.</utterance>
+   <speaker>REX</speaker>
+      <mode></mode>
+      <context>Slinky LAUGHS with Rex.</context>
+      <utterance>Maybe Andy'll get another dinosaur, like a leaf-eater. That way, I could play the, uh, dominant predator. Ha ha ha!</utterance>
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Quiet everyone, quiet!</utterance>
+   <speaker>SARGENT</speaker>
+      <mode>O.S.</mode>
+      <context>Potato Head.</context>
+      <utterance>Molly's first present i-i-is...Mrs. Potato Head. Repeat. A Mrs.</utterance>
+   <speaker>HAMM</speaker>
+      <mode></mode>
+      <context>All the toys CONGRATULATE Potato Head.</context>
+      <utterance>Way to go, Idaho!</utterance>
+   <speaker>MR. POTATO HEAD</speaker>
+      <mode></mode>
+      <context>Potato Head whips off his moustache piece. Woody climbs up onto the bed and joins Buzz. Lipstick now covers Woody's face.</context>
+      <utterance>Gee, I better shave.</utterance>
+   <speaker>SARGENT</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Come in, Frankincense. Andy is now opening his first present --</utterance>
+   <speaker>SARGENT</speaker>
+      <mode>STATIC</mode>
+      <context></context>
+      <utterance>Buzz bangs on the side of the monitor. Nothing.</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Buzz. Buzz Lightyear. You are not worried, are you?</utterance>
+   <speaker>SARGENT</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>I can't quite make out --</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="3">
+   <speaker>BUZZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me? No, no, no, no...  Are you?</utterance>
+   <speaker>WOODY</speaker>
+      <mode></mode>
+      <context>We TRUCK OUT through the window to the EXT. as we HEAR...</context>
+      <utterance>Now Buzz, what could Andy possibly get that is worse than you?!</utterance>
+   <speaker>ANDY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Oh, what is it? What is it?</utterance>
+</dialogue>
+
+
+</movie>

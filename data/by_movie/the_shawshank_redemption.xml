@@ -1,0 +1,3216 @@
+<movie id="488" title="Shawshank Redemption The">
+
+<dialogue id="1" n_utterances="2">
+   <speaker>WOMAN</speaker>
+      <mode>O.S.</mode>
+      <context>Andy lurches to a stop, listening. The woman cries out in orgasm. The sound slams into Andy's brain like an icepick. He shuts his eyes tightly, wishing the sound would stop. It finally does, dying away like a siren until all that's left is the shallow gasping and panting of post-coitus. We hear languorous laughter, moans of satisfaction.</context>
+      <utterance>Oh god...oh god...oh god...</utterance>
+   <speaker>WOMAN</speaker>
+      <mode>O.S.</mode>
+      <context>Andy just stands and listens, devastated. He doesn't look like much of a killer now; he's just a sad little man on a dirt path in the woods, tears streaming down his face, a loaded gun held loosely at his side. A pathetic figure, really.</context>
+      <utterance>Oh god...that's sooo good...you're the best...the best I ever had...</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="5">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was very bitter. She said she was glad I knew, that she hated all the sneaking around. She said she wanted a divorce in Reno.</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was your response?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told her I would not grant one.</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll see you in Hell before I see you in Reno. Those were the words you used, Mr. Dufresne, according to the testimony of your neighbors.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If they say so. I really don't remember. I was upset.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="8">
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened after you and your wife argued?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She packed a bag and went to stay with Mr. Quentin.</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Glenn Quentin. The golf pro at the Falmouth Hills Country Club. The man you had recently discovered was her lover.  Did you follow her?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I went to a few bars first. Later, I decided to drive to Mr. Quentin's home and confront them. They weren't there...so I parked my car in the turnout...and waited.</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With what intention?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure. I was confused. Drunk. I think mostly I wanted to scare them.</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You had a gun with you?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I did.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="11">
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When they arrived, you went up to the house and murdered them?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I was sobering up. I realized she wasn't worth it. I decided to let her have her quickie divorce.</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Quickie divorce indeed. A .38 caliber divorce, wrapped in a handtowel to muffle the shots, isn't that what you mean? And then you shot her lover!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did not. I got back in the car and drove home to sleep it off. Along the way, I stopped and threw my gun into the Royal River. I feel I've been very clear on this point.</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, you have. Where I get hazy, though, is the part where the cleaning woman shows up the next morning and finds your wife and her lover in bed, riddled with .38 caliber bullets. Does that strike you as a fantastic coincidence, Mr. Dufresne, or is it just me?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. It does.</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, Mr. Dufresne, I don't think the jury heard that.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. It does.</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does what?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Strike me as a fantastic coincidence.</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On that, sir, we are in accord...</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="4">
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You claim you threw your gun into the Royal River before the murders took place. That's rather convenient.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the truth.</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You recall Lt. Mincher's testimony? He and his men dragged that river for three days and nary a gun was found. So no comparison can be made between your gun and the bullets taken from the bloodstained corpses of the victims. That's also rather convenient, isn't it, Mr. Dufresne?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Since I am innocent of this crime, sir, I find it decidedly inconvenient the gun was never found.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="3">
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context>He gestures to Andy sitting quietly with his ATTORNEY.</context>
+      <utterance>Ladies and gentlemen, you've heard all the evidence, you know all the facts. We have the accused at the scene of the crime. We have foot prints. Tire tracks. Bullets scattered on the ground which bear his fingerprints. A broken bourbon bottle, likewise with fingerprints. Most of all, we have a beautiful young woman and her lover lying dead in each other's arms. They had sinned. But was their crime so great as to merit a death sentence?</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context>He picks up a revolver, spins the cylinder before their eyes like a carnival barker spinning a wheel of fortune.</context>
+      <utterance>I suspect Mr. Dufresne's answer to that would be yes. I further suspect he carried out that sentence on the night of September 21st, this year of our Lord, 1946, by pumping four bullets into his wife and another four into Glenn Quentin. And while you think about that, think about this...</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A revolver holds six bullets, not eight. I submit to you this was not a hot-blooded crime of passion! That could at least be understood, if not condoned. No, this was revenge of a much more brutal and cold-blooded nature. Consider! Four bullets per victim! Not six shots fired, but eight! That means he fired the gun empty...and then stopped to reload so he could shoot each of them again! An extra bullet per lover...right in the head.  I'm done talking. You people are all decent, God-fearing Christian folk. You know what to do.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="4">
+   <speaker>MAN #1</speaker>
+      <mode></mode>
+      <context>Red sits, tries not to slouch. The chair is uncomfortable.</context>
+      <utterance>Sit.</utterance>
+   <speaker>MAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We see by your file you've served twenty years of a life sentence.</utterance>
+   <speaker>MAN #3</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You feel you've been rehabilitated?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>The men just stare at him. One stifles a yawn.</context>
+      <utterance>Yes, sir. Absolutely. I've learned my lesson. I can honestly say I'm a changed man. I'm no longer a danger to society. That's the God's honest truth. No doubt about it.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="4">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>He slips somebody a pack of smokes, smooth sleight-of-hand.</context>
+      <utterance>There's a con like me in every prison in America, I guess. I'm the guy who can get it for you. Cigarettes, a bag of reefer if you're partial, a bottle of brandy to celebrate your kid's high school graduation. Damn near anything, within reason.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>TWO SHORT SIREN BLASTS issue from the main tower, drawing everybody's attention to the loading dock. The outer gate swings open...revealing a gray prison bus outside.</context>
+      <utterance>Yes sir, I'm a regular Sears &amp; Roebuck.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>So when Andy Dufresne came to me in 1949 and asked me to smuggle Rita Hayworth into the prison for him, I told him no problem. And it wasn't.</utterance>
+   <speaker>CON</speaker>
+      <mode></mode>
+      <context>Red is joined by HEYWOOD, SKEET, FLOYD, JIGGER, ERNIE, SNOOZE. Most cons crowd to the fence to gawk and jeer, but Red and his group mount the bleachers and settle in comfortably.</context>
+      <utterance>Fresh fish! Fresh fish today!</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="4">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>The bus lurches forward, RUMBLES through the gates. Andy gazes around, swallowed by prison walls.</context>
+      <utterance>Andy came to Shawshank Prison in early 1947 for murdering his wife and the fella she was bangin'.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>On the outside, he'd been vice- president of a large Portland bank. Good work for a man as young as he was, when you consider how conservative banks were back then.</utterance>
+   <speaker>TOWER GUARD</speaker>
+      <mode></mode>
+      <context>GUARDS approach the bus with carbines. The door jerks open. The new fish disembark, chained together single-file, blinking sourly at their surroundings. Andy stumbles against the MAN in front of him, almost drags him down. BYRON HADLEY, captain of the guard, slams his baton into Andy's back. Andy goes to his knees, gasping in pain. JEERS and SHOUTS from the spectators.</context>
+      <utterance>All clear!</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On your feet before I fuck you up so bad you never walk again.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="19">
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There they are, boys. The Human Charm Bracelet.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never seen such a sorry-lookin' heap of maggot shit in my life.</utterance>
+   <speaker>JIGGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Comin' from you, Heywood, you being so pretty and all...</utterance>
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Takin' bets today, Red?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bear Catholic? Pope shit in the woods? Smokes or coin, bettor's choice.</utterance>
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Smokes. Put me down for two.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>High roller. Who's your horse?</utterance>
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That gangly sack of shit, third from the front. He'll be the first.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bullshit. I'll take that action.</utterance>
+   <speaker>ERNIE</speaker>
+      <mode></mode>
+      <context>Other hands go up. Red jots the names.</context>
+      <utterance>Me too.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're out some smokes, son. Take my word.</utterance>
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're so smart, you call it.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I say that chubby fat-ass...let's see...fifth from the front. Put me down for a quarter deck.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>More hands go up. Andy and the others are paraded along, forced by their chains to take tiny baby steps, flinching under the barrage of jeers and shouts. The old-timers are shaking the fence, trying to make the newcomers shit their pants. Some of the new fish shout back, but mostly they look terrified. Especially Andy.</context>
+      <utterance>That's five cigarettes on Fat-Ass. Any takers?</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I must admit I didn't think much of Andy first time I laid eyes on him. He might'a been important on the outside, but in here he was just a little turd in prison grays. Looked like a stiff breeze could blow him over. That was my first impression of the man.</utterance>
+   <speaker>SKEET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What say, Red?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Little fella on the end. Definitely. I stake half a pack. Any takers?</utterance>
+   <speaker>SNOOZE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rich bet.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Red pockets his notepad. A VOICE comes over the P.A. speakers: VOICE (amplified) Return to your cellblocks for evening count.</context>
+      <utterance>C'mon, boys, who's gonna prove me wrong?  Floyd, Skeet, Joe, Heywood. Four brave souls, ten smokes apiece. That's it, gentlemen, this window's closed.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="3">
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>WARDEN SAMUEL NORTON strolls forth, a colorless man in a gray suit and a church pin in his lapel. He looks like he could piss ice water. He appraises the newcomers with flinty eyes.</context>
+      <utterance>Eyes front.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is Mr. Hadley, captain of the guard. I am Mr. Norton, the warden. You are sinners and scum, that's why they sent you to me. Rule number one: no blaspheming. I'll not have the Lord's name taken in vain in my prison. The other rules you'll figure out as you go along. Any questions?</utterance>
+   <speaker>CON</speaker>
+      <mode></mode>
+      <context>Cued by Norton's glance, Hadley steps up to the con and screams right in his face:</context>
+      <utterance>When do we eat?</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="4">
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any other questions?  I believe in two things. Discipline and the Bible. Here, you'll receive both.  Put your faith in the Lord. Your ass belongs to me. Welcome to Shawshank.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>The men shed their clothes. Within seconds, all stand naked.</context>
+      <utterance>Off with them clothes! And I didn't say take all day doing it, did I?</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>Hadley shoves the FIRST CON into a steel cage open at the front. TWO GUARDS open up with a fire hose. The con is slammed against the back of the cage, sputtering and hollering. Seconds later, the water is cut and the con yanked out.</context>
+      <utterance>First man into the shower!</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>The con gets a huge scoop of white delousing powder thrown all over him. Gasping and coughing, blinking powder from his eyes, he gets shoved to a trustee's cage. The TRUSTEE slides a short stack of items through the slot -- prison clothes and a Bible. All the men are processed quickly -- a blast of water, powder, clothes and a Bible...</context>
+      <utterance>Delouse that piece of shit! Next man in!</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="4">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Red watches from his cell, arms slung over the crossbars, cigarette dangling from his fingers.</context>
+      <utterance>The first night's the toughest, no doubt about it. They march you in naked as the day you're born, fresh from a Bible reading, skin burning and half-blind from that delousing shit they throw on you...</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Red listens to the CLANGING below. He watches Andy and a few others being brought up to the 2nd tier.</context>
+      <utterance>...and when they put you in that cell, when those bars slam home, that's when you know it's for real. Old life blown away in the blink of an eye...a long cold season in hell stretching out ahead...nothing left but all the time in the world to think about it.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Andy is led past and given a cell at the end of the tier.</context>
+      <utterance>Most new fish come close to madness the first night. Somebody always breaks down crying. Happens every time. The only question is, who's it gonna be?</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>It's as good a thing to bet on as any, I guess. I had my money on Andy Dufresne...</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="4">
+   <speaker>GUARD</speaker>
+      <mode></mode>
+      <context>The lights bump off in sequence. The guard exits, footsteps echoing away. Darkness now. Silence. CAMERA CRANES UP the tiers toward Red's cell.</context>
+      <utterance>That's lights out! Good night, ladies.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Red looms from the darkness, leans on the bars. Listens. Waits. From somewhere below comes faint, ghastly tittering. VOICES drift through the cellblock, taunting:</context>
+      <utterance>I remember my first night. Seems a long time ago now.</utterance>
+   <speaker>VARIOUS VOICES</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Fishee fishee fisheeee...You're gonna like it here, new fish. A whooole lot...Make you wish your daddies never dicked your mommies...You takin' this down, new fish? Gonna be a quiz later.  Sshhh. Keep it down. The screws'll hear...Fishee fishee fisheeee...</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>The VOICES keep on, sly and creepy in the dark...</context>
+      <utterance>The boys always go fishin' with first-timers...and they don't quit till they reel someone in.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="2">
+   <speaker>HEYWOOD</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Fat-Ass...oh, Faaaat-Ass. Talk to me, boy. I know you're in there. I can hear you breathin'. Now don't you listen to these nitwits, hear?</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode>O.S.</mode>
+      <context>And that's it. Fat-Ass lets out a LOUD WAIL of despair:</context>
+      <utterance>This ain't such a bad place. I'll introduce you around, make you feel right at home. I know some big ol' bull queers who'd love to make your acquaintance...especially that big white mushy butt of yours...</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="5">
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>The lights bump on. GUARDS pour in, led by Hadley himself.</context>
+      <utterance>I had your mother! She wasn't that great!</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the Christ is this happy shit?</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>He took the Lord's name in vain! I'm tellin' the warden!</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>Hadley arrives at Fat-Ass' cell, bellowing through the bars:</context>
+      <utterance>You'll be tellin' him with my baton up your ass!</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's your malfunction you fat fuckin' barrel of monkey-spunk?</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="2">
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>Fat-Ass keeps blubbering and wailing. Total freak-out. Hadley draws his baton, gestures to his men. Open it. A GUARD unlocks the cell. Hadley pulls Fat-Ass out and starts beating him with the baton, brutally raining blows. Fat-Ass falls, tries to crawl. The place goes dead silent. All we hear now is the dull THWACK-THWACK-THWACK of the baton. Fat-ass passes out. Hadley gets in a few more licks and finally stops.</context>
+      <utterance>I ain't gonna count to three! Not even to one! Now shut the fuck up 'fore I sing you a lullabye!</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>The guards wrestle Fat-Ass onto a stretcher and carry him off. FOOTSTEPS echo away. Lights off. Darkness again. Silence.</context>
+      <utterance>Get this tub of shit down to the infirmary.  If I hear so much as a mouse fart in here the rest of the night, by God and Sonny Jesus, you'll all visit the infirmary. Every last motherfucker here.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="17">
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You gonna eat that?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hadn't planned on it.</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context>Andy passes the maggot to Brooks. Brooks examines it, rolling it between his fingertips like a man checking out a fine cigar. Andy is riveted with apprehension.</context>
+      <utterance>You mind?</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context>Andy can't bear to watch. Brooks opens up his sweater and feeds the maggot to a baby crow nestled in an inside pocket. Andy breathes a sigh of relief.</context>
+      <utterance>Mmm. Nice and ripe.</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context>Andy nods, proceeds to eat. Carefully. Heywood approaches.</context>
+      <utterance>Jake says thanks. Fell out of his nest over by the plate shop. I'm lookin' after him till he's old enough to fly.</utterance>
+   <speaker>JIGGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, Christ, here he comes.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context>Heywood plops his tray down, sits. The men start pulling out cigarettes and handing them down.</context>
+      <utterance>Mornin', boys. It's a fine mornin'. You know why it's fine?</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context>An impressive pile forms. Heywood bends down and inhales deeply, smelling the aroma. Rapture.</context>
+      <utterance>That's right, send 'em all down. I wanna see 'em lined up in a row, pretty as a chorus line.</utterance>
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Smell my ass...</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gee, Red. Terrible shame, your horse comin' in last and all. Hell, I sure do love that horse of mine. I believe I owe that boy a big sloppy kiss when I see him.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give him some'a your cigarettes instead, cheap bastard.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say Tyrell, you pull infirmary duty this week? How's that winnin' horse of mine, anyway?</utterance>
+   <speaker>TYRELL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dead.  Hadley busted his head pretty good. Doc already went home for the night. Poor bastard lay there till this morning. By then... He shakes his head, turns back to his food. The silence mounts. Heywood glances around. Men resume eating. Softly:</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was his name?</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? What'd you say?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was wondering if anyone knew his name.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the fuck you care, new fish?  Doesn't matter what his fuckin' name was. He's dead.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="2">
+   <speaker>BOGS</speaker>
+      <mode></mode>
+      <context>Andy tries to step past them. He gets shoved around, nothing serious, just some slap and tickle. Jackals sizing up prey.</context>
+      <utterance>You're some sweet punk. You been broke in yet?</utterance>
+   <speaker>BOGS</speaker>
+      <mode></mode>
+      <context>Andy breaks free, flushed and shaking. He hurries off, leaving the three Sisters laughing.</context>
+      <utterance>Hard to get. I like that.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="45">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Red glances at the hand, ignores it. The game continues.</context>
+      <utterance>Hello. I'm Andy Dufresne.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The wife-killin' banker.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you know that?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I keep my ear to the ground. Why'd you do it?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't, since you ask.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell, you'll fit right in, then.  Everyone's innocent in here, don't you know that? Heywood! What are you in for, boy?</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context>Red gives Andy a look. See?</context>
+      <utterance>Didn't do it! Lawyer fucked me!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What else have you heard?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>People say you're a cold fish. They say you think your shit smells sweeter than ordinary. That true?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Heywood nudges Jigger. Watch this. He winds up and throws the ball hard -- right at Andy's head. Andy sees it coming out of the corner of his eye, whirls and catches it. Beat. He sends the ball right back, zinging it into Heywood's hands. Heywood drops the ball and grimaces, wringing his stung hands.</context>
+      <utterance>Ain't made up my mind yet.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I understand you're a man who knows how to get things.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm known to locate certain things from time to time. They seem to fall into my hands. Maybe it's 'cause I'm Irish.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wonder if you could get me a rock-hammer?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it and why?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You make your customers' motives a part of your business?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you wanted a toothbrush, I wouldn't ask questions. I'd just quote a price. A toothbrush, see, is a non-lethal sort of object.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fair enough. A rock-hammer is about eight or nine inches long. Looks like a miniature pickaxe, with a small sharp pick on one end, and a blunt hammerhead on the other. It's for rocks.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Andy squats, motions Red to join him. Andy grabs a handful of dirt and sifts it through his hands. He finds a pebble and rubs it clean. It has a nice milky glow. He tosses it to Red.</context>
+      <utterance>Rocks.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Quartz?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Quartz, sure. And look. Mica. Shale. Silted granite. There's some graded limestone, from when they cut this place out of the hill.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a rockhound. At least I was, in my old life. I'd like to be again, on a limited scale.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, that or maybe plant your toy in somebody's skull?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have no enemies here.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Red flicks his gaze past Andy. Bogs is watching them.</context>
+      <utterance>No? Just wait.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Word gets around. The Sisters have taken a real shine to you, yes they have. Especially Bogs.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me something. Would it help if I explained to them I'm not homosexual?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Neither are they. You have to be human first. They don't qualify.  Bull queers take by force, that's all they want or understand. I'd grow eyes in the back of my head if I were you.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks for the advice.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That comes free. But you understand my concern.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If there's trouble, I doubt a rock- hammer will do me any good.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then I guess you wanna escape. Tunnel under the wall maybe?  I miss the joke. What's so funny?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll know when you see the rock- hammer.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's this item usually go for?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Seven dollars in any rock and gem shop.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My standard mark-up's twenty percent, but we're talkin' about a special object. Risk goes up, price goes up. Call it ten bucks even.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ten it is.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll see what I can do.  But it's a waste of money.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Folks who run this place love surprise inspections. They turn a blind eye to some things, but not a gadget like that. They'll find it, and you'll lose it. Mention my name, we'll never do business again. Not for a pair of shoelaces or a stick of gum.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I understand. Thank you, Mr...?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Red. The name's Red.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>They shake. Andy strolls off. Red watches him go.</context>
+      <utterance>Red. I'm Andy. Pleasure doing business with you.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I could see why some of the boys took him for snobby. He had a quiet way about him, a walk and a talk that just wasn't normal around here. He strolled. like a man in a park without a care or worry. Like he had on an invisible coat that would shield him from this place.  Yes, I think it would be fair to say I liked Andy from the start.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Leonard slips a small paper-wrapped package out of the laundry bag, hides it under his apron, and keeps sorting... 4l INT -- PRISON LAUNDRY EXCHANGE -- DAY (1947) 41 Red deposits his dirty bundle and moves down the line to where the clean sheets are being handed out.</context>
+      <utterance>When they check you into this hotel, one of the bellhops bends you over and looks up your works, just to make sure you're not carrying anything. But a truly determined man can get an object quite a ways up there.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Leonard catches Red's eye, turns and grabs a specific stack of clean sheets. He hands it across to Red --</context>
+      <utterance>That's how Andy joined our happy little Shawshank family with more than five hundred dollars on his person. Determination.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Brooks nods, never missing a beat. He rolls his cart to Andy's cell, mutters through the bars:</context>
+      <utterance>Dufresne.</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context>Andy's hand snakes through the bars and makes the object disappear. The hand comes back and deposits a small slip of folded paper along with more cigarettes. Brooks turns his cart around and goes back. He pauses, sorting his books long enough for Red to snag the slip of paper. Brooks continues on, scooping the cigarettes off the cart and into his pocket.</context>
+      <utterance>Middle shelf, wrapped in a towel.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="6">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You get this in your eyes, it blinds you.</utterance>
+   <speaker>BOGS</speaker>
+      <mode></mode>
+      <context>Andy backs up, holding them at bay, trying to maneuver through the maze. The Sisters keep coming, tense and guarded, eyes riveted and gauging his every move, trying to outflank him. Andy trips on some old gaint sugglies. That's all it takes. They're on him in an instant, kicking and stomping. Andy gets yanked to his feet. Bogs applies a chokehold from behind. They propel him across the room and slam him against an old four-pocket machine, bending him over it. Rooster jams a rag into Andy's mouth and secures it with a steel pipe, like a horse bit. Andy kicks and struggles, but Rooster and Pete have his arms firmly pinned. Bogs whispers in Andy's ear:</context>
+      <utterance>Honey, hush.</utterance>
+   <speaker>BOGS</speaker>
+      <mode></mode>
+      <context>Andy starts screaming, muffled by the rag. CAMERA PULLS BACK, SLOWLY WIDENING. The big Washex blocks our view. All we see is Andy's screaming face and the men holding him down... ...and CAMERA DRIFTS FROM THE ROOM, leaving the dark place and the dingy act behind...MOVING up empty corridors, past concrete walls and steel pipes...</context>
+      <utterance>That's it, fight. Better that way.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>WE EMERGE into the prison laundry past a guard, WIDENING for a final view of the line. The giant steel "mangler" is slapping down in brutal rhythm. The sound is deafening.</context>
+      <utterance>I wish I could tell you that Andy fought the good fight, and the Sisters let him be. I wish I could tell you that, but prison is no fairy-tale world.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>PRISON MONTAGE: (1947 through 1949)</context>
+      <utterance>He never said who did it...but we all knew.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Things went on like that for a while. Prison life consists of routine, and then more routine.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="3">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>The Sisters kept at him. Sometimes he was able to fight them off... sometimes not.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>The rake connects, snapping off over somebody's skull. They beat the hell out of him.</context>
+      <utterance>He always fought, that's what I remember. He fought because he knew if he didn't fight, it would make it that much easier not to fight the next time.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Half the time it landed him in the infirmary...</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>...the other half, it landed him in solitary. Warden Norton's "grain &amp; drain" vacation. Bread, water, and all the privacy you could want.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>And that's how it went for Andy. That was his routine. I do believe those first two years were the worst for him. And I also believe if things had gone on that way, this place would have got the best of him. But then, in the spring of 1949, the powers-that-be decided that...</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="2">
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context>Red glances around at his friends. Andy also catches his eye.</context>
+      <utterance>...the roof of the license-plate factory needs resurfacing. I need a dozen volunteers for a week's work. We're gonna be taking names in this steel bucket here...</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>It was outdoor detail, and May is one damn fine month to be workin' outdoors.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Wouldn't you know it? Me and some fellas I know were among the names called.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Only cost us a pack of smokes per man. I made my usual twenty percent, of course.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="39">
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...so this shithead lawyer calls long distance from Texas, and he says, Byron Hadley? I say, yeah. He says, sorry to inform you, but your brother just died.</utterance>
+   <speaker>YOUNGBLOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn, Byron. Sorry to hear that.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ain't. He was an asshole. Run off years ago, family ain't heard of him since. Figured him for dead anyway. So this lawyer prick says, your brother died a rich man. Oil wells and shit, close to a million bucks. Jesus, it's frigging incredible how lucky some assholes can get.</utterance>
+   <speaker>TROUT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A million bucks? Jeez-Louise! You get any of that?</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thirty five thousand. That's what he left me.</utterance>
+   <speaker>TROUT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dollars? Holy shit, that's great! Like winnin' a lottery...  ...ain't it?</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dumbshit. What do you figger the government's gonna do to me? Take a big wet bite out of my ass, is what.</utterance>
+   <speaker>TROUT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Hadn't thought of that.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe leave me enough to buy a new car with. Then what happens? You pay tax on the car. Repairs and maintenance. Goddamn kids pesterin' you to take 'em for a ride...</utterance>
+   <speaker>MERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And drive it, if they're old enough.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>The prisoners keep spreading tar, eyes on their work.</context>
+      <utterance>That's right, wanting to drive it, wanting to learn on it, f'Chrissake! Then at the end of the year, if you figured the tax wrong, they make you pay out of your own pocket. Uncle Sam puts his hand in your shirt and squeezes your tit till it's purple. Always get the short end. That's a fact.  Some brother. Shit.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Poor Byron. What terrible fuckin' luck. Imagine inheriting thirty five thousand dollars.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Red glances over -- and is shocked to see Andy standing up, listening to the guards talk.</context>
+      <utterance>Crying shame. Some folks got it awful bad.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Andy tosses his Padd in the bucket and strolls toward Hadley.</context>
+      <utterance>Hey, you nuts? Keep your eyes on your pail!</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy! Come back! Shit!</utterance>
+   <speaker>SNOOZE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's he doing?</utterance>
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gettin' himself killed.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God damn it...</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context>The guards stiffen at Andy's approach. Youngblood's hand goes to his holster. The tower guards CLICK-CLACK their rifle bolts. Hadley turns, stupefied to find Andy there.</context>
+      <utterance>Just keep spreadin' tar...</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Hadley. Do you trust your wife?</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's funny. You're gonna look funnier suckin' my dick with no fuckin' teeth.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What I mean is, do you think she'd go behind your back? Try to hamstring you?</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>Hadley grabs Andy's collar and propels him violently toward the edge of the roof. The cons furiously keep spreading tar.</context>
+      <utterance>That's it! Step aside, Mert. This fucker's havin' hisself an accident.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh God, he's gonna do it, he's gonna throw him off the roof...</utterance>
+   <speaker>SNOOZE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh shit, oh fuck, oh Jesus...</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Hadley abruptly jerks Andy to a stop right at the edge. In fact, Andy's past the edge, beyond his balance, shoetips scraping the roof. The only thing between him and an ugly drop to the concrete is Hadley's grip on the front of his shirt.</context>
+      <utterance>Because if you do trust her, there's no reason in the world you can't keep every cent of that money.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You better start making sense.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you want to keep that money, all of it, just give it to your wife. See, the IRS allows you a one-time- only gift to your spouse. It's good up to sixty thousand dollars.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Naw, that ain't right! Tax free?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>The cons are pausing work, stunned by this business discussion.</context>
+      <utterance>Tax free. IRS can't touch one cent.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're the smart banker what shot his wife. Why should I believe a smart banker like you? So's I can wind up in here with you?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's perfectly legal. Go ask the IRS, they'll say the same thing. Actually, I feel silly telling you all this. I'm sure you would have investigated the matter yourself.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuckin'-A. I don't need no smart wife-killin' banker to show me where the bear shit in the buckwheat.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course not. But you will need somebody to set up the tax-free gift, and that'll cost you. A lawyer, for example...</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ambulance-chaaing, highway-robbing cocksuckers!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...or come to think of it, I suppose I could set it up for you. That would save you some money. I'll write down the forms you need, you can pick them up, and I'll prepare them for your signature... nearly free of charge.  I'd only ask three beers apiece for my co-workers, if that seems fair.</utterance>
+   <speaker>TROUT</speaker>
+      <mode></mode>
+      <context>Hadley freezes him with a look. Andy presses on:</context>
+      <utterance>Co-workers! Get him! That's rich, ain't it? Co-workers...</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>The convicts stand gaping, all pretense of work gone. They look like they've been pole-axed. Hadley shoots them a look.</context>
+      <utterance>I think a nan working outdoors feels more like a man if he can have a bottle of suds. That's only my opinion.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you jimmies starin' at? Back to work, goddamn it!</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="27">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>And that's how it came to pass, that on the second-to-last day of the job, the convict crew that tarred the plate factory roof in the spring of '49...</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>...wound up sitting in a row at ten o'clock in the morning, drinking icy cold Black Label beer courtesy of the hardest screw that ever walked a turn at Shawshank State Prison.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Drink up, boys. While it's cold.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Red knocks back another sip, enjoying the bitter cold on his tongue and the warm sun on face.</context>
+      <utterance>The colossal prick even managed to sound magnanimous.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>He glances over to Andy squatting apart from the others.</context>
+      <utterance>We sat and drank with the sun on our shoulders, and felt like free men. We could'a been tarring the roof of one of our own houses. We were the Lords of all Creation.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>As for Andy, he spent that break hunkered in the shade, a strange little smile on his face, watching us drink his beer.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here's a cold one, Andy.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Heywood drifts back to others, giving them a look.</context>
+      <utterance>No thanks. I gave up drinking.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>You could argue he'd done it to curry favor with the guards. Or maybe make a few friends among us cons. Me, I think he did it just to feel normal again...if only for a short while.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>King me.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chess. Now there's a game of kings. Civilized...strategic...</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...and totally fuckin' inexplicable. Hate that game.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you'll let me teach you someday. I've been thinking of getting a board together.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You come to the right place. I'm the man who can get things.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We might do business on a board. But the pieces, I'd like to carve those myself. One side done in quartz... the opposing side in limestone.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That'd take you years.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Years I've got. What I don't have are the rocks. Pickings here in the exercise yard are pretty slim.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's that rock-hammer workin' out anyway? Scratch your name on your wall yet?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not yet. I suppose I should.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy? I guess we're gettin' to be friends, ain't we?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose we are.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ask a question? Why'd you do it?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Red takes this as a gentle rebuff, keeps playing.</context>
+      <utterance>I'm innocent, remember? Just like everybody else here.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you in for, Red?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Murder. Same as you.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Innocent?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The only guilty man in Shawshank.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="8">
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here's the good part. Bugs come out of the walls to get his ass.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Ray Milland starts SCREAMING. The entire audience SCREAMS with him, high-pitched and hysterical. Andy fidgets.</context>
+      <utterance>I know. I've seen it three times this month already.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can we talk business?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. What do you want?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rita Hayworth. Can you get her?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No problem. Take a few weeks.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Weeks?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Andy nods, embarrassed. He gets up and hurries out. Red grins, turns back to the movie.</context>
+      <utterance>Don't have her stuffed down my pants this very moment, sorry to say. Relax. What are you so nervous about? She's just a woman.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="10">
+   <speaker>BOGS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take a walk.</utterance>
+   <speaker>PROJECTIONIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have to change reels.</utterance>
+   <speaker>BOGS</speaker>
+      <mode></mode>
+      <context>Terrified, the old man darts past and out the door. Pete slams and locks it. Bogs shoves Andy to the center of the room.</context>
+      <utterance>I said fuck off.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Ray Milland starts SCREAMING. The entire audience SCREAMS witt him, high-pitched and hysterical. Andy fidgets.</context>
+      <utterance>I know. I've seen it three times this month already.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can we talk business?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. What do you want?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rita Hayworth. Can you get her?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No problem. Take a few weeks.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Weeks?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Andy nods, embarrassed. He gets up and hurries out. Red grins, turns back to the movie.</context>
+      <utterance>Don't have her stuffed down my pants this very moment, sorry to say. Relax. What are you so nervous about? She's just a woman.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="15">
+   <speaker>BOGS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take a walk.</utterance>
+   <speaker>PROJECTIONIST</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have to change reels.</utterance>
+   <speaker>BOGS</speaker>
+      <mode></mode>
+      <context>Terrified, the old man darts past and out the door. Pete slams and locks it. Bogs shoves Andy to the center of the room.</context>
+      <utterance>I said fuck off.</utterance>
+   <speaker>BOGS</speaker>
+      <mode></mode>
+      <context>Andy sighs, cocks his head at the projector.</context>
+      <utterance>Ain't you gonna scream?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Seemingly resigned, Andy turns around, leans on the rewind bench -- and curls his fingers around a full 1.000 foot reel of 35mm film. Rooster licks his lips, pushes past the others.</context>
+      <utterance>They'd never hear me over that. Let's get this over with.</utterance>
+   <speaker>ROOSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me first.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Andy whips the reel of film around in a vicious arc, smashing it into Rooster's face and bouncing him off the wall.</context>
+      <utterance>Okay.</utterance>
+   <speaker>ROOSTER</speaker>
+      <mode></mode>
+      <context>Andy fights like hell, but is soon overpowered and forced to his knees. Bogs steps to Andy, pulls out an awl with a vicious eight-inch spike, gives him a good long look at it.</context>
+      <utterance>Fuck! Shit! He broke my nose!</utterance>
+   <speaker>BOGS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now I'm gonna open my fly, and you're gonna swallow what I give you to swallow. And when you d mine, you gonna swallow Rooster's. You done broke his nose, so he ought to have somethin' to show for it.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anything you put in my mouth, you're going to lose.</utterance>
+   <speaker>BOGS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't understand. You do that, I'll put all eight inches of this steel ii your ear.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>The Sisters consider this carefully. The film runs out of the projector, flapping on the reel. The screen goes white.</context>
+      <utterance>Okay. But you should know that sudden serious brain injury causes the victim to bite down. Hard.  In fact, I understand the bite-reflex is so strong the victim's jaws have to be pried open with a crowbar.</utterance>
+   <speaker>BOGS</speaker>
+      <mode></mode>
+      <context>Andy gets a bootheel in the face. The Sisters start kicking and beating the living shit out of him with anything they can get their hands on. In the theater, the convicts are CHANTING AND CLAPPING for the movie to come back on.</context>
+      <utterance>You little fuck.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Bogs didn't put anything in Andy's mouth, and neither did his friends. What they did do is beat him within an inch of his life...</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Andy spent a month in traction.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Bogs sits on bare concrete. The steel door slides open.</context>
+      <utterance>Bogs spent a week in the hole.</utterance>
+   <speaker>GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Time's up, Bogs.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="3">
+   <speaker>MERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn, Byron. Look'a that.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>A tiny drop of blood drips off the toe of Hadley's shoe and splashes across Red's upturned cheek. He wipes it off, then looks down at Bogs. Cons and guards are racing to the scene.</context>
+      <utterance>Poor fella must'a tripped.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Two things never happened again after that. The Sisters never laid a finger on Andy again...</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="4">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>...and Bogs never walked again. They transferred him to a minimum security hospital upstate. To my knowledge, he lived out the rest of his days drinking his food through a straw.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm thinkin' Andy could use a nice welcome back when he gets out of the infirmary.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds good to us. Figure we owe him for the beer.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Man likes to play chess. Let's get him some rocks.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="8">
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That ain't quartz. Nor limestone.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you, fuckin' geologist?</utterance>
+   <speaker>SNOOZE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's right, it ain't.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell is it then?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Horse apple.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bullshit.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Cackling, the men go back to work. Heywood stares at the rock. He crumbles it in his hands.</context>
+      <utterance>No, horse shit. Petrified.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Despite a few hitches, the boys came through in fine style...</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>ANGLE SHIFTS to Red as he plops a bag of "laundry" on the floor. Leonard and Bob toss a few more down. Red starts pulling out contraband, giving them their commissions.</context>
+      <utterance>...and by the week Andy was due back, we had enough rocks saved up to keep him busy till Rapture.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Also got a big shipment in that week. Cigarettes, chewing gum, shoelaces, playing cards with naked ladies on 'em, you name it...  ...and, of course, the most important item.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="6">
+   <speaker>ERNIE</speaker>
+      <mode></mode>
+      <context>Word travels fast from cell to cell. Cons scramble to tidy up and hide things. Norton enters, nods to his men. The guards pair off in all directions, making their choices at random.</context>
+      <utterance>Heads up. They're tossin' cells.</utterance>
+   <speaker>GUARD</speaker>
+      <mode></mode>
+      <context>Cells are opened, occupants displaced, items scattered, mattresses overturned. Whatever contraband is found gets tossed out onto the cellblock floor. Mostly harmless stuff. A GUARD pulls a sharpened screwdriver out of a mattress, shoots a nasty look at the CON responsible.</context>
+      <utterance>What kind'a contraband you hiding in there, boy?</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Solitary. A week. Make sure he takes his Bible.</utterance>
+   <speaker>CON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too goddamn dark to read down there.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Add another week for blasphemy. The man is taken away. Norton's gaze goes up.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's try the second tier.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="13">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Norton gives a curt nod. Hadley and Trout start tossing the cell in a thorough search. Norton keeps his eyes on Andy, looking for a wrong glance or nervous blink. He takes the Bible out of Andy's hand.</context>
+      <utterance>Good evening.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm pleased to see you reading this. Any favorite passages?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Watch ye therefore, for ye know not when the master of the house cometh.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Luke. Chapter 13, verse 35. I've always liked that one.  But I prefer: "I am the light of the world. He that followeth me shall not walk in darkness, but shall have the light of life."</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>John. Chapter 8, verse 12.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hear you're good with numbers. How nice. A man should have a skill.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>Andy glances over. Hadley is holding up a rock blanket, a polishing cloth roughly the size of an oven mitt.</context>
+      <utterance>You wanna explain this?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Hadley glances at the rocks lining the window sill, turns to Norton.</context>
+      <utterance>It's called a rock blanket. It's for shaping and polishing rocks. Little hobby of mine.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>Norton nods, strolls to the poster of Rita.</context>
+      <utterance>Looks pretty clean. Some contraband here, nothing to get in a twist over.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context>Norton exits, the guards follow. The cell door is slammed and locked. Norton pauses, turns back.</context>
+      <utterance>I can't say I approve of this...  ...but I suppose exceptions can always be made.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context>He reaches through the bars and returns the Bible to Andy.</context>
+      <utterance>I almost forgot.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context>Norton and his men walk away.</context>
+      <utterance>I'd hate to deprive you of this. Salvation lies within.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Tossin' cells was just an excuse. Truth is, Norton wanted to size Andy up.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="5">
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My wife made that in church group.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's very pretty, sir.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You like working in the laundry?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, sir. Not especially.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps we can find something more befitting a man of your education.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="4">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Brooks Hatlen pokes his head out of the back room.</context>
+      <utterance>Hey, Jake. Where's Brooks?</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy! Thought I heard you out here!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been reassigned to you.</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know, they told me. Ain't that a kick in the ass? Come on in, I'll give you the dime tour.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="17">
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context>Andy pauses. Something about this doesn't make any sense.</context>
+      <utterance>Here she is, the Shawshank Prison Library. Along this side, we got the National Geographics. That side, the Reader's Digest Condensed books. Bottom shelf there, some Louis L'Amours and Erle Stanley Gardners. Every night I pile the cart and make my rounds. I write down the names on this clipboard here. Well, that's it. Easy, peasy, Japanesey. Any questions?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Brooks? How long have you been librarian?</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Since 1912. Yuh, over 37 years.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In all that time, have you ever had an assistant?</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never needed one. Not much to it, is there?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So why now? Why me?</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I dunno. Be nice to have some comp'ny down here for a change.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Dufresne!</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>Hadley exits. Dekins approaches Andy ominously. Andy stands his ground, waiting for whatever comes next. Finally:</context>
+      <utterance>That's him. That's the one.</utterance>
+   <speaker>DEKINS</speaker>
+      <mode></mode>
+      <context>Andy covers his surprise. Glances at Brooks. Brooks smiles.</context>
+      <utterance>I'm Dekins. I been, uh, thinkin' 'bout maybe settin' up some kinda trust fund for my kids' educations.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see. Well. Why don't we have a seat and talk it over?</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context>Andy and Dekins grab a desk standing on end and tilt it to the floor. They find chairs and settle in. Brooks returns with a tablet of paper and a pen, slides them before Andy.</context>
+      <utterance>Pull down one'a them desks there.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you have in mind? A weekly draw on your pay?</utterance>
+   <speaker>DEKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yuh. I figured just stick it in the bank, but Captain Hadley said check with you first.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was right. You don't want your money in a bank.</utterance>
+   <speaker>DEKINS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that gonna earn you? Two and a half, three percent a year? We can do a lot better than that.  So tell me, Mr. Dekins. Where do you want to send your kids? Harvard? Yale?</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="17">
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He didn't say that!</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God is my witness. And Dekins, he just blinks for a second, then laughs his ass off. Afterward, he actually shook Andy's hand.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My ass!</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shook his fuckin' hand. Just about shit myself. All Andy needed was a suit and tie, a jiggly little hula girl on his desk, he would'a been Mister Dufresne, if you please.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Makin' yourself some friends, Andy.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't say "friends." I'm a convicted murderer who provides sound financial planning. That's a wonderful pet to have.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got you out of the laundry, didn't it?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe it can do more than that.  How about expanding the library? Get some new books in there.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How you 'spect to do that, "Mr. Dufresne-if-you-please?"</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>LAUGHTER all around. Andy blinks at them.</context>
+      <utterance>Ask the warden for funds.</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Son, I've had six wardens through here during my tenure, and I have learned one great immutable truth of the universe: ain't one of 'em been born whose asshole don't pucker up tight as a snare drum when you ask for funds.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not a dime. My budget's stretched thin as it is.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see. Perhaps I could write to the State Senate and request funds directly from them.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Far as them Republican boys in Augusta are concerned, there's only three ways to spend the taxpayer's hard-earned when it come to prisons. More walls. More bars. More guards.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Still, I'd like to try, with your permission. I'll send a letter a week. They can't ignore me forever.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They sure can, but you write your letters if it makes you happy. I'll even mail 'em for you, how's that?</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>So Andy started writing a letter a week, just like he said.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>The following April, Andy did tax returns for half the guards at Shawshank.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Year after that, he did them all... including the warden's.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="7">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>The guards on the opposing teams all remembered to bring their W-2's.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Moresby Prison issued you that gun, but you actually had to pay for it?</utterance>
+   <speaker>THE BATTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn right, and the holster too.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See, that's all deductible. You get to write that off.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>ANGLE SHIFTS to reveal Red and Brooks doing filing chores.</context>
+      <utterance>Yes sir, Andy was a regular H&amp;R Block. In fact, he got so busy at tax time, he was allowed a staff.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say Red, could you hand me a stack of those 1040s?</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Got me out of the wood shop a month out of the year, and that was fine by me.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="19">
+   <speaker>JIGGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>C'mon, Brooksie, why don't you just calm the fuck down, okay?</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context>He kicks a table over. Tax files explode through the air.</context>
+      <utterance>Goddamn miserable puke-eatin' sons of whores!</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell's going on?</utterance>
+   <speaker>SNOOZE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You tell me, man. One second he was fine, then out came the knife. I better get the guards.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. We'll handle this. Ain't that right, Brooks? Just settle down and we'll talk about it, okay?</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing left to talk about! It's all talked out! Nothing left now but to cut his fuckin' throat!</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why? What's Heywood done to you?</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context>Andy steps forward, rivets Brooks with a gaze. Softly:</context>
+      <utterance>That's what they want! It's the price I gotta pay!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Brooks, you're not going to hurt Heywood, we all know that. Even Heywood knows it, right Heywood?</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. I know that. Sure.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why? Ask anyone, they'll tell you. Brooks Hatlen is a reasonable man.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, that's right. That's what everybody says.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not fooling anybody, so just put the damn knife down and stop scaring the shit out of people.</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context>Brooks bursts into tears. The storm is over. Heywood staggers free, gasping for air. Andy takes the knife, passes it to Red. Brooks dissolves into Andy's arms with great heaving sobs.</context>
+      <utterance>But it's the only way they'll let me stay.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it easy. You'll be all right.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Him? What about me? Crazy old fool! Goddamn near slit my throat!</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've had worse from shaving. What'd you do to set him off?</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context>Red and Andy exchange a surprised look. Andy wants to understand. Red just motions to let it be for now. He puts his arm around Brooks, who sobs inconsolably. Softly:</context>
+      <utterance>Nothin'! Just came in to say fare-thee-well.  Ain't you heard? His parole came through!</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ain't that bad, old hoss. Won't be long till you're squiring pretty young girls on your arm and telling 'em lies.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="10">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just don't understand what happened in there, that's all.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Old man's crazy as a rat in a tin shithouse, is what.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heywood, enough. Ain't nothing wrong with Brooksie. He's just institutionalized, that's all.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Institutionalized, my ass.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Man's been here fifty years. This place is all he knows. In here, he's an important man, an educated man. A librarian. Out there, he's nothing but a used-up old con with arthritis in both hands. Couldn't even get a library card if he applied. You see what I'm saying?</utterance>
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Red, I do believe you're talking out of your ass.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Believe what you want. These walls are funny. First you hate 'em, then you get used to 'em. After long enough, you get so you depend on 'em. That's "institutionalized."</utterance>
+   <speaker>JIGGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit. I could never get that way.</utterance>
+   <speaker>ERNIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say that when you been inside as long as Brooks has.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goddamn right. They send you here for life, and that's just what they take. Part that counts, anyway.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="2">
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No music in your room after eight p.m. No guests after nine. No cooking except on the hotplate...</utterance>
+   <speaker>BROOKS</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>People even talk faster. And louder.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="5">
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Make sure he double-bags. Last time your man didn't double-bag and the bottom near came out.</utterance>
+   <speaker>MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You double-bag like the lady says, understand?</utterance>
+   <speaker>BROOKS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes sir, double-bag, surely will.</utterance>
+   <speaker>BROOKS</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>It's hard work. I try to keep up, but my hands hurt most of the time. I don't think the store manager likes me very much.</utterance>
+   <speaker>BROOKS</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Sometimes after work I go to the park and feed the birds. I keep thinking Jake might show up and say hello, but he never does. I hope wherever he is, he's doing okay and making new friends.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="2">
+   <speaker>BROOKS</speaker>
+      <mode>V.O.</mode>
+      <context>He takes one last look around. Only one thing left to do. He steps to a wooden chair in the center of the room, pulls out s pocketknife, and glances up at the ceiling beam. He steps up onto the chair. It wobbles queasily. Now facing the beam, he carves a message into the wood: "Brooks Hatlen was here." He smiles with a sort of inner peace.</context>
+      <utterance>I don't like it here. I'm tired of being afraid all the time. I've decided not to stay.</utterance>
+   <speaker>BROOKS</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I doubt they'll kick up any fuss. Not for an old crook like me.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="2">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>A long silence. Andy folds the letter, puts it away. Softly:</context>
+      <utterance>P.S. Tell Heywood I'm sorry I put a knife to his throat. No hard feelings.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He should'a died in here, goddamn it.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="2">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Red steps in with an armload of files. Andy gingerly reaches in, grabs a black feathered wing, and pulls out a dead crow.</context>
+      <utterance>Red!</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that Jake?</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="4">
+   <speaker>GUARD</speaker>
+      <mode></mode>
+      <context>The work stops. Cons head for the pickup truck, where water is dispensed with dipper and pail. Red and the boys look to Andy. Andy nods. Now's the time. The group moves off through the confusion, using it as cover. They head up the slope of a nearby hill and quickly decide on a suitable spot. The guards haven't noticed. Jigger and Floyd start swinging picks into the soft earth, quickly ripping out a hole. Red reaches into his jacket and pulls out a beautiful wooden box, carefully stained and varnished. He shows it around to nods of approval.</context>
+      <utterance>Water break! Five minutes!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's real pretty, Red. Nice work.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shovel man in. Watch the dirt.</utterance>
+   <speaker>124 	CONTINUED 124</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heywood jumps in and starts spading out the hole.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="8">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is all this?</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>Wiley thrusts an envelope at Andy. Andy just stares at it.</context>
+      <utterance>You tell me, fuck-stick! They're addressed to you, every damn one!</utterance>
+   <speaker>WILEY</speaker>
+      <mode></mode>
+      <context>Andy takes the envelope, pulls out a letter, reads:</context>
+      <utterance>Well, take it.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Wiley grins. Hadley glares at him. The grin vanishes.</context>
+      <utterance>Dear Mr. Dufresne. In response to your repeated inquiries, the State Senate has allocated the enclosed funds for your library project... "  This is two hundred dollars.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Andy gazes around at the boxes. The riches of the world lay at his feet. His eyes mist with emotion at the sight.</context>
+      <utterance>In addition, the Library District has generously responded with a charitable donation of used books and sundries. We trust this will fill your needs. We now consider the matter closed. Please stop sending us letters. Yours truly, the State Comptroller's Office.</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context>Hadley exits. Andy touches the boxes like a love-struck man touching a beautiful woman. Wiley grins.</context>
+      <utterance>I want all this cleared out before the warden gets back, I shit you not.</utterance>
+   <speaker>WILEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good for you, Andy.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Only took six years.  From now on, I send two letters a week instead of one.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>CAMERA brings us to Red.</context>
+      <utterance>I have no idea to this day what them two Italian ladies were singin' about. Truth is, I don't want to know. Some things are best left unsaid. I like to think they were singin' about something so beautiful it can't be expressed in words, and makes your heart ache because of it.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I tell you, those voices soared. Higher and farther than anybody in a gray place dares to dream. It was like some beautiful bird flapped into our drab little cage and made these walls dissolve away...and for the briefest of moments -- every last man at Shawshank felt free.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="14">
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Couldn't play somethin' good, huh? Hank Williams?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They broke the door down before I could take requests.</utterance>
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was it worth two weeks in the hole?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Easiest time I ever did.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit. No such thing as easy time in the hole. A week seems like a year.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I had Mr. Mozart to keep me company. Hardly felt the time at all.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, they let you tote that record player down there, huh? I could'a swore they confiscated that stuff.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The music was here...and here. That's the one thing they can't confiscate, not ever. That's the beauty of it. Haven't you ever felt that way about music, Red?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Played a mean harmonica as a younger man. Lost my taste for it. Didn't make much sense on the inside.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here's where it makes most sense. We need it so we don't forget.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That there are things in this world not carved out of gray stone. That there's a small place inside of us they can never lock away, and that place is called hope.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hope is a dangerous thing. Drive a man insane. It's got no place here. Better get used to the idea.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like Brooks did?</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="3">
+   <speaker>MAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You feel you've been rehabilitated?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes sir, without a doubt. I can say I'm a changed man. No danger to society, that's the God's honest truth. Absolutely rehabilitated.</utterance>
+   <speaker>CLOSEUP -- PAROLE FORM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A big rubber stamp slams down: "REJECTED."</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="7">
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Same old, same old. Thirty years. Jesus. When you say it like that...</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Red nods, solemn. They settle in on the bleachers. Andy pulls a small box from his sweater, hands it to Red.</context>
+      <utterance>You wonder where it went. I wonder where ten years went.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Red does. Inside the box, on a thin layer of cotton, is a shiny new harmonica, bright aluminum and circus-red.</context>
+      <utterance>Anniversary gift. Open it.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Had to go through one of your competitors. Hope you don't mind. Wanted it to be a surprise.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's very pretty, Andy. Thank you.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You gonna play something?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not today.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>...and the BLACKNESS disintegrates as a wall tumbles before our eyes, revealing a WORK CREW with picks and sledgehammers, faces obscured outlaw-style with kerchiefs against the dust. Behind them are GUARDS overseeing the work. Andy yanks his kerchief down, grinning in exhilaration. Red and the others follow suit. They step through the hole in the wall, exploring what used to be a sealed-off storage room.</context>
+      <utterance>Andy was as good as his word. He kept writing to the State Senate. Two letters a week instead of one.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>In 1959, the folks up Augusta way finally clued in to the fact they couldn't buy him off with just a 200 dollar check. Appropriations Committee voted an annual payment of 500 dollars, just to shut him up.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="10">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>You'd be amazed how far Andy could stretch it. He made deals with book clubs, charity groups...he bought remaindered books by the pound...</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Treasure Island. Robert Louis...</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Stevenson. Next?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got here an auto repair manual, and a book on soap carving.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Trade skills and hobbies, those go under educational. Stack right behind you.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Count of Monte Crisco...</utterance>
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cristo, you dumbshit.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...by Alexandree Dumb-ass.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Floyd tries to take the book. Heywood yanks it back. I saw it first. Red shoots Andy a look.</context>
+      <utterance>Dumas. You boys'll like that one. It's about a prison break.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe that should go under educational too.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="5">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>That was also the year Warden Norton instituted his famous "Inside-Out" program. You may remember reading about it. It made all the papers and got his picture in LIFE magazine.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context>ANGLE TO Red and the boys listening from behind the fence.</context>
+      <utterance>...a genuine, progressive advance in corrections and rehabilitation. Our inmates, properly supervised, will be put to work outside these walls performing all manner of public service. Cutting pulpwood, repairing bridges and causeways, digging storm drains...</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These men can learn the value of an honest day's labor while providing a valuable service to the community -- and at a bare minimum of expense to Mr. and Mrs. John Q. Taxpayer!</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds like road-gangin', you ask me.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody asked you.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="8">
+   <speaker>WOMAN REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You there! You men! We're gonna take your picture now!</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give us a break, lady.</utterance>
+   <speaker>WOMAN REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you know who I am? I'm from LIFE magazine! I was told I'd get some co-operation out here! You want me to report you to your warden? Is that what you want?</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, ma'am.</utterance>
+   <speaker>WOMAN REPORTER</speaker>
+      <mode></mode>
+      <context>She turns, motioning her photographer up the grade. Heywood glances around at the other men.</context>
+      <utterance>That's more like it! Now I want you all in a row with big bright smiles on your faces! Grab hold of your tools and show 'em to me!</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context>Heywood unzips his pants, reaches inside. The others do likewise. The woman turns back and is greeted by the sight of a dozen men displaying their penises and smiling brightly. Her legs go wobbly and she sits heavily down on the dirt grade.</context>
+      <utterance>You heard the lady.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>C'mon! We're showin' our tools and grinnin' like fools! Take the damn picture!</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>None of the inmates were invited to express their views...</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="11">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Norton strolls into view with NED GRIMES at his heels.</context>
+      <utterance>'Course, Norton failed to mention to the press that "bare minimum of expense" is a fairly loose term. There are a hundred different ways to skim off the top. Men, materials, you name it. And, oh my Lord, how the money rolled in...</utterance>
+   <speaker>NED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This keeps up, you're gonna put me out of business! With this pool of slave labor you got, you can underbid any contractor in town.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ned, we're providing a valuable community service.</utterance>
+   <speaker>NED</speaker>
+      <mode></mode>
+      <context>Norton opens the box. Alongside the pie is an envelope. He runs his thumb across the thick stack of cash it contains. IN THE BACKGROUND, a winch cable SNAPS and whips through the air, damn near severing a man's leg. He goes down, screaming in mud and blood, pinned by a fallen tree stump. Men rush over to help him. Norton barely takes notice.</context>
+      <utterance>That's fine for the papers, but I got a family to feed. The State don't pay my salary. Sam, we go back a long way. I need this new highway contract. I don't get it, I go under. That's a fact.  Now you just have some'a this fine pie my missus baked specially for you, and you think about that.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ned, I wouldn't worry too much over this contract. Seems to me I've already got my boys committed elsewhere. You be sure and thank Maisie for this fine pie.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>TILT UP to Andy at the desk, munching thoughtfully as he totals up figures on an adding machine.</context>
+      <utterance>And behind every shady deal, behind every dollar earned...</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Andy finishes preparing two bank deposits. Norton hovers near the desk, keeping a watchful eye.</context>
+      <utterance>...there was Andy, keeping the books.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Norton pockets the envelopes. Andy crosses to the wall safe and shoves the ledger and sundry files inside. Norton locks the safe, swings his wife's framed sampler back into place. He cocks his thumb at some laundry and two suits in the corner.</context>
+      <utterance>Two deposits, Casco Bank and New England First. Night drop, like always.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get my stuff down t'laundry. Two suits for dry-clean and a bag of whatnot. Tell 'em if they over- starch my shirts again, they're gonna hear about it from me.  How do I look?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very nice.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Big charity to-do up Portland way. Governor's gonna be there.  Want the rest of that? Woman can't bake worth shit.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="20">
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got his fingers in a lot of pies, from what I hear.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What you hear isn't half of it. He's got scams you haven't dreamed of. Kickbacks on his kickbacks. There's a river of dirty money flowing through this place.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Money like that can be a problem. Sooner or later you gotta explain where it came from.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's where I come in. I channel it, funnel it, filter it...stocks, securities, tax free municipals... I send that money out into the big world. And when it comes back...</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's clean as a virgin's whistle?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cleaner. By the time Norton retires, I will have made him a millionaire.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus. They ever catch on, he's gonna wind up wearing a number himself.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you had more faith in me than that.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure you're good, but all that paper leaves a trail. Anybody gets too curious -- FBI, IRS, whatever -- that trail's gonna lead to somebody.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure it will. But not to me, and certainly not to the warden.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who then?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Peter Stevens.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The silent, silent partner. He's the guilty one, your Honor. The man with the bank accounts. That's where the filtering process starts. They trace it back, all they're gonna find is him.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, okay, but who the hell is he?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A phantom. An apparition. Second cousin to Harvey the Rabbit.  I conjured him out of thin air. He doesn't exist...except on paper.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't just make a person up.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure you can, if you know how the system works, and where the cracks are. It's amazing what you can accomplish by mail. Mr. Stevens has a birth certificate, social security card, driver's license. They ever track those accounts, they'll wind up chasing a figment of my imagination.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus. Did I say you were good? You're Rembrandt.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's funny. On the outside, I was an honest man. Straight as an arrow. I had to come to prison to be a crook.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="4">
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does it ever bother you?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't run the scams, Red, I just process the profits. That's a fine line, maybe. But I've also built that library, and used it to help a dozen guys get their high school diplomas. Why do you think the warden lets me do all that?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To keep you happy and doing the laundry. Money instead of sheets.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>TWO SIREN BLASTS draw their attention to the main gate. It swings open, revealing a prison bus waiting outside.</context>
+      <utterance>I work cheap. That's the trade-off.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="4">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Tommy is hauling the cut wood off the conveyor and stacking it, It's a ball-busting job, but the kid's a blur.</context>
+      <utterance>Young punk, Mr. Rock n' Roll, cocky as hell...</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context>The old guys just grin and shake their heads.</context>
+      <utterance>C'mon there, old boys! Movin' like molasses! Makin' me look bad!</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>We liked him immediately.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context>The whole table falls about laughing.</context>
+      <utterance>...so I'm backin' out the door, right? Had the TV like this...  Big ol' thing. Couldn't see shit. Suddenly, here's this voice: Freeze kid! Hands in the air! Well I just stand there holdin' on to that TV, so the voice says: "You hear what I said, boy?" And I say, Yes sir, I sure did! But if I drop this fuckin' thing, you got me on destruction of property too!</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="7">
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You did a stretch in Cashman too?</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. That was an easy ride, let me tell you. Work programs, weekend furloughs. Not like here.</utterance>
+   <speaker>SNOOZE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds like you done time all over New England.</utterance>
+   <speaker>TOMNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Been in and out since I was 13. Name the place, chances are I been there.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps it's time you considered a new profession.  What I mean is, you don't seem to be a very good thief. Maybe you should try something else.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell you know about it, Capone? What are you in for?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>The tension breaks. Everyone laughs.</context>
+      <utterance>Everyone's innocent in here. Don't you know that?</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="3">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Tommy's at the end of the row, phone to his ear. Other side of the glass is BETH, near tears, fussing with a BABY on her lap.</context>
+      <utterance>As it turns out, Tommy had himself a young wife and new baby girl...</utterance>
+   <speaker>BETH</speaker>
+      <mode></mode>
+      <context>PUSH IN on Tommy's face as he listens.</context>
+      <utterance>...said we can stay with them, but Joey's gettin' out of the service next month, and they barely got enough room as it is. Plus they got Poppa workin' double shifts and the baby cries half the night. I just don't know where we're gonna go...</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Maybe it was the thought of them on the streets...or his child growing up not knowing her daddy...</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="13">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Whatever it was, something lit a fire under that boy's ass.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm thinkin' maybe I should try for high school equivalency. Hear you helped some fellas with that.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't waste time on losers, Tommy.</utterance>
+   <speaker>TOMNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ain't no goddamn loser.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Tommy thinks about it, nods.</context>
+      <utterance>That's a good start. If we do this, we do it all the way. One hundred percent. Nothing half-assed.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thing is, see...  ...I don't read all that good.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well. You've come to the right place then.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Andy slaps the book shut, immensely pleased with himself.</context>
+      <utterance>...and the lamplight o'er him streaming throws his shadow on the floor...and my soul from out that shadow that lies floating on the floor, shall be lifted nevermore! "</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So this raven just sits there and won't go away?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't that fella get hisself a 12-gauge and dust the fucker?</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context>Andy shakes his head. Not exactly.</context>
+      <utterance>The cat sh--The cat shh...  The cat shat on the welcome mat?</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>So Andy took Tommy under his wing. Started walking him through his ABCs...</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>After a while, you couldn't pry those books out of hands.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Tommy shoves the book in his back pocket and hurries over.</context>
+      <utterance>Ass in gear, son! You're putting us behind!</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="4">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>...and we keep going past Andy in a SLOW PAN of the cell. Sink. Toilet. Books. Outside the window bars, we hear another TRAIN passing in the night...</context>
+      <utterance>Prison time is slow time. Sometimes it feels like stop-time. So you do what you can to keep going...</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>...STILL PANNING, past a chair, a sweater on a hook...and finally to the place of honor on the wall...</context>
+      <utterance>Some fellas collect stamps. Others build matchstick houses. Andy built a library. Now he needed a new project. Tommy was it. It was the same reason he spent years shaping and polishing those rocks. The same reason he hung his fantasy girlies on the wall...</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>...where the latest poster turns out to be Racquel Welch ins fur bikini. Gorgeous. "One Million Years, B. C. " SLOW PUSH IN,</context>
+      <utterance>In prison, a man'll do most anything to keep his mind occupied.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>By 1966...right about the time Tommy was getting ready to take his exams...it was lovely Racquel.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="18">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well?</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well. It's for shit.  Wasted a whole fuckin' year of my time with this bullshit!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May not be as bad as you think.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's worse! I didn't get a fuckin' thing right! Might as well be in Chinese!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll see how the score comes out.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context>Tommy grabs the test, wads it, slam-dunks it into the trash.</context>
+      <utterance>I'll tell you how the goddamn score comes out...</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context>Tommy is gone. Red and others stare. Andy gets up, pulls the test from the trash, smoothes it out on the desk.</context>
+      <utterance>Two points! Right there! There's your goddamn score!  Goddamn cats crawlin' up trees, 5 times 5 is 25, fuck this place, fuck it!</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I feel bad. I let him down.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's crap, son. He's proud of you. Proud as a hen.  We been friends a long time. I know him as good as anybody.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Smart fella, ain't he?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Smart as they come. Used to be a banker on the outside.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's he in for anyway?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Murder.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The hell you say.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>SMASH! Red turns back. Tommy's Coke has slipped from his hand and shattered on the floor. The kid's gone white as a sheet.</context>
+      <utterance>You wouldn't think, lookin' at him. Caught his wife in bed with some golf pro. Greased 'em both. C'mon, boy, back to work...</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God...</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Bout four years ago, I was in Thomaston on a 2 to 3 stretch. Stole a car. Dumbfuck thing to do.  Few months left to go, I get a new cellmate in. Elmo Blatch. Big twitchy fucker. Crazy eyes. Kind of roomie you pray you don't get, know what I'm sayin'? 6 to 12 for armed burglary. Said he done hundreds of jobs. Hard to believe, high-strung as he was. Cut a loud fart, he'd go three feet in the air. Talked all the time, too, that's the other thing. Never shut up. Places he'd been, jobs he pulled, women he fucked. Even people he killed. People that gave him shit, that's how he put it. One night, like a joke, I say: "Yeah? Who'd you kill?" So he says...</utterance>
+   <speaker>BLATCH</speaker>
+      <mode></mode>
+      <context>He throws his head back and ROARS with laughter.</context>
+      <utterance>...I got me this job one time bussin' tables at a country club. So I could case all the big rich pricks that come in. I pick out this guy, go in one night and do his place. He wakes up and gives me shit. So I killed him. Him and the tasty bitch he was with.  That's the best part! She's fuckin' this prick, see, this golf pro, but she's married to some other guy! Some hotshot banker. He's the one they pinned it on! They got him down-Maine somewhere doin' time for the crime! Ain't that choice?</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="16">
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well. I have to say, that's the most amazing story I ever heard. What amazes me most is you were taken in by it.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir?</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's obvious this fellow Williams is impressed with you. He hears your tale of woe and quite naturally wants to cheer you up. He's young, not terribly bright. Not surprising he didn't know what a state he'd put you in.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think he's telling the truth.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's say for a moment Blatch does exist. You think he'd just fall to his knees and cry, "Yes, I did it! I confess! By all means, please add a life term to my sentence!"</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It wouldn't matter. With Tommy's testimony, I can get a new trial.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's assuming Blatch is even still there. Chances are excellent he'd be released by now. Excellent.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They'd have his last known address. Names of relatives...  Well it's a chance. isn't it? How can you be so obtuse?</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? What did you call me?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Obtuse! Is it deliberate? The country club will have his old time cards! W-2s with his name on them!</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dufresne, if you want to indulge this fantasy, that's your business. Don't make it mine. This meeting's over.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, if it's the squeeze, don't worry. I'd never say what goes on in here. I'd be just as indictable as you for laundering the money!</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you ever mention money to me again, you sorry son of a bitch! Not in this office, not anywhere!  Get in here! Now!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was just trying to rest your mind at ease, that's all.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context>Andy gets dragged away, kicking and screaming:</context>
+      <utterance>Solitary! A month!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the matter with you? It's my chance to get out, don't you see that? It's my life! Don't you understand it's my life?</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="12">
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A month in the hole. Longest damn stretch I ever heard of.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's my fault.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like hell. You didn't pull the trigger, and you didn't convict him.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Red? You saying Andy's innocent? I mean for real innocent?  Sweet Jesus. How long's he been in here?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Since '47. Going on nineteen years.</utterance>
+   <speaker>MAIL CALLER</speaker>
+      <mode></mode>
+      <context>Tommy raises his hand. The envelope gets tossed to him. He stares at it. Red peers over his shoulder.</context>
+      <utterance>Thomas Williams!</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Board of Education.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The son of a bitch mailed it.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks that way. You gonna open it or stick your thumb up your butt?</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context>He gets hemmed in by the older men. Red snatches the letter.</context>
+      <utterance>Thumb up my butt sounds better.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context>Red rips it open, scans the letter. Expressionless.</context>
+      <utterance>C'mon, just throw it away. Will you please? Just throw it away?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, shit.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="11">
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Out here?</utterance>
+   <speaker>MERT</speaker>
+      <mode></mode>
+      <context>Mert swings the gate open, sends Tommy through, turns and heads back inside. Tommy proceeds out across a loading-dock access for the shops and mills. Some vehicles parked. The place is deserted. He stops, sensing a presence.</context>
+      <utterance>That's what the man said.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context>Norton steps into the light.</context>
+      <utterance>Warden?</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tommy, we've got a situation here. I think you can appreciate that.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes sir, I sure can.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context>Norton pulls a pack of cigarettes, offers Tommy a smoke. Tommy takes one. Norton lights both cigarettes, pockets his lighter.</context>
+      <utterance>I tell you, son, this really came along and knocked my wind out. It's got me up nights, that's the truth.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The right decision. Sometimes it's hard to figure out what that is. You understand?  Think hard, Tommy. If I'm gonna move on this, there can't be the least little shred of doubt. I have to know if you what you told Dufresne was the truth.</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes sir. Absolutely.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you be willing to swear before a judge and jury...having placed your hand on the Good Book and taken an oath before Almighty God Himself?</utterance>
+   <speaker>TOMMY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just gimme that chance.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context>Norton drops his cigarette. Crushes it out with the toe of his shoe. Glances up toward the plate shop roof as --</context>
+      <utterance>That's what I thought.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="3">
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Terrible thing. Man that young, less than a year to go, trying to escape. Broke Captain Hadley's heart to shoot him, truly it did.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Norton lunges to his feet, eyes sparkling with rage.</context>
+      <utterance>I'm done. It stops right now. Get H&amp;R Block to declare your income.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing stops! NOTHING!  Or you will do the hardest time there is. No more protection from the guards. I'll pull you out of that one-bunk Hilton and put you in</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="13">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Andy finally glances to Red, seeking a reaction. Silence.</context>
+      <utterance>My wife used to say I'm a hard man to know. Like a closed book. Complained about it all the time.  She was beautiful. I loved her. But I guess I couldn't show it enough.  I killed her, Red.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't pull the trigger. But I drove her away. That's why she died. Because of me, the way I am.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Andy smiles faintly in spite of himself. Red gives his shoulder a squeeze.</context>
+      <utterance>That don't make you a murderer. Bad husband, maybe.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Feel bad about it if you want. But you didn't pull the trigger.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I didn't. Someone else did, and I wound up here. Bad luck, I guess.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bad luck? Jesus.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It floats around. Has to land on somebody. Say a storm comes through. Some folks sit in their living rooms and enjoy the rain. The house next door gets torn out of the ground and smashed flat. It was my turn, that's all. I was in the path of the tornado.  I just had no idea the storm would go on as long as it has.  Think you'll ever get out of here?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. When I got a long white beard and about three marbles left rolling around upstairs.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell you where I'd go. Zihuatanejo.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Zihuatanejo?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Red stares at Andy, laughs.</context>
+      <utterance>Mexico. Little place right on the Pacific. You know what the Mexicans say about the Pacific? They say it has no memory. That's where I'd like to finish out my life, Red. A warm place with no memory. Open a little hotel right on the beach. Buy some worthless old boat and fix it up like new. Take my guests out charter fishing.  You know, a place like that, I'd need a man who can get things.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus, Andy. I couldn't hack it on the outside. Been in here too long. I'm an institutional man now. Like old Brooks Hatlen was.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You underestimate yourself.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="11">
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bullshit. In here I'm the guy who can get it for you. Out there, all you need are Yellow Pages. I wouldn't know where to begin.  Pacific Ocean? Hell. Like to scare me to death, somethin' that big.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not me. I didn't shoot my wife and I didn't shoot her lover, and whatever mistakes I made I've paid for and then some. That hotel and that boat...I don't think it's too much to want. To look at the stars just after sunset. Touch the sand. Wade in the water. Feel free.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goddamn it, Andy, stop! Don't do that to yourself! Talking shitty pipedreams! Mexico's down there, and you're in here, and that's the way it is!</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Red snaps a look. What the hell does that mean? Andy rises and walks away. Red lunges to his feet.</context>
+      <utterance>You're right. It's down there, and I'm in here. I guess it comes down to a simple choice, really. Get busy living or get busy dying.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Red, if you ever get out of here, do me a favor. There's this big hayfield up near Buxton. You know where Buxton is?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lots of hayfields there.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One in particular. Got a long rock wall with a big oak at the north end. Like something out of a Robert Frost poem. It's where I asked my</utterance>
+   <speaker>ANDY</speaker>
+      <mode>MORE</mode>
+      <context></context>
+      <utterance>ANDY  wife to marry me. We'd gone for a picnic. We made love under that tree. I asked and she said yes.  Promise me, Red. If you ever get out, find that spot. In the base of that wall you'll find a rock that has no earthly business in a Maine hayfield. A piece of black volcanic glass. You'll find something buried under it I want you to have.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? What's buried there?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Andy turns and walks away.</context>
+      <utterance>You'll just have to pry up that rock and see.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="12">
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I tell you, the man was talkin' crazy. I'm worried, I truly am.</utterance>
+   <speaker>SKEET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We ought to keep an eye on him.</utterance>
+   <speaker>JIGGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's fine, during the day. But at night he's got that cell all to himself.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh Lord. Andy come down to the loading dock today. Asked me for a length of rope. Six foot long.</utterance>
+   <speaker>SNOOZE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit! You gave it to him?</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure I did. I mean why wouldn't I?</utterance>
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Christ! Remember Brooks Hatlen?</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How the hell was I s'pose to know?</utterance>
+   <speaker>JIGGER</speaker>
+      <mode></mode>
+      <context>They all look to Red.</context>
+      <utterance>Andy'd never do that. Never.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every man's got a breaking point.</utterance>
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where the hell is he?</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Probably still up in the warden's.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="8">
+   <speaker>SKEET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Christ. What do we do?</utterance>
+   <speaker>FLOYD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing we can do. Not tonight.</utterance>
+   <speaker>HEYWOOD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's pull him aside tomorrow, all of us. Have a word with him. Ain't that right, Red?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. Sure. That's right.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lickety-split. I wanna get home.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>We follow Norton to his wife's sampler. He swings it aside, works the combination dial, opens the wall safe. Andy moves up, shoves in the black ledger and files. Norton shuts the safe.</context>
+      <utterance>Just about done, sir.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Andy hands him the envelopes. Norton heads for the door.</context>
+      <utterance>Three deposits tonight.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context>Norton exits. Andy turns to the laundry. He opens the shoebox. Nice pair of dress shoes inside. He sighs, glances down at the old ragged pair of work shoes on his own feet.</context>
+      <utterance>Get my stuff down t'laundry. And shine my shoes. I want 'em lookin' like mirrors.  Nice havin' you back, Andy. Place just wasn't the same without you.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="2">
+   <speaker>GUARD</speaker>
+      <mode>O.S.</mode>
+      <context>Andy gazes directly at Red. A beat of eye contact. Red shakes his head. Don't do it. Andy smiles, eerily calm...and enters his cell. The door closes. KA-THUMP! We hold on Red's face.</context>
+      <utterance>Open number twelve!</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>The lights bump off. He finishes polishing, holds up the piece to admire. A pawn. He sets it down with the others -- and we realize it's the final glance for the board. A full set. He gazes up at Racquel and smiles. Pulls a six foot length of rope from under his pillow. Lets it uncoil to the floor.</context>
+      <utterance>Lights out!</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>A FLASH OF LIGHTNING outside his window sends harsh barred shadows jittering across the cell. A storm breaking.</context>
+      <utterance>I have had some long nights in stir. Alone in the dark with nothing but your thoughts, time can draw out like a blade...</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>That was the longest night of my life...</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="4">
+   <speaker>GUARD</speaker>
+      <mode></mode>
+      <context>The head bull, HAIG, checks his list:</context>
+      <utterance>Man missing on tier two! Cell 12!</utterance>
+   <speaker>HAIG</speaker>
+      <mode></mode>
+      <context>Still no answer. Glaring, Haig stalks down the tier, clipboard in hand. His men fall in behind.</context>
+      <utterance>Dufresne? Get your ass out here, boy! You're holding up the show!  Don't make me come down there now! I'll thump your skull for you!</utterance>
+   <speaker>HAIG</speaker>
+      <mode></mode>
+      <context>They arrive at bars. Their faces go slack. Stunned. Softly:</context>
+      <utterance>Dufresne, dammit, you're putting me behind! You better be sick or dead in there, I shit you not!</utterance>
+   <speaker>HAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my Holy God.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="2">
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want every man on that cellblock questioned! Start with that friend of his!</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>who?</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="13">
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean "he just wasn't here?" Don't say that to me, Haig! Don't say that to me again!</utterance>
+   <speaker>HAIG</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But sir! He wasn't! He isn't!</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can see that, Haig! You think I'm blind? Is that what you're saying? Am I blind, Haig?</utterance>
+   <speaker>HAIG</speaker>
+      <mode></mode>
+      <context>Norton grabs the clipboard and thrusts it at Hadley.</context>
+      <utterance>No sir!</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about you? You blind? Tell me what this is!</utterance>
+   <speaker>HADLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Last night's count.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context>Haig scurries out, gathering men. Norton spins to Red.</context>
+      <utterance>You see Dufresne's name? I sure do! Right there, see? "Dufresne." He was in his cell at lights out! Stands to reason he'd still be here this morning! I want him found! Not tomorrow, not after breakfast! Now!</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well what?</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see you two all the time, you're thick as thieves, you are! He must'a said something!</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Norton spreads his arms evangelist-style, spins slowly around.</context>
+      <utterance>No sir, he didn't!</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context>Red exchanges looks with the guards. Even they're nervous. Norton scoops a handful rocks off the sill. He hurls them at the wall one at a time, shattering them, punctuating his words:</context>
+      <utterance>Lord! It's a miracle! Man up and vanished like a fart in the wind! Nothin' left but some damn rocks on the windowsill and that cupcake on the wall! Let's ask her! Maybe she knows! What say there, Fuzzy- Britches? Feel like talking? Guess not. Why should you be different?</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context>He sends the last rock whizzing right at Racquel. No smash. It takes a moment for this to sink in. All eyes go to her. The rock went through her. There's a small hole in the poster where her navel used to be. You could hear a pin drop. Norton reaches up, sinks his finger into the hole. He keeps pushing...and his entire hand disappears into the wall.</context>
+      <utterance>It's a conspiracy!  That's what this is!  It's one big damn conspiracy!  And everyone's in on it!  Including her!</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>They got this skinny kid named Rory Tremont to go in the hole. He wasn't much in the brains department, but he possessed the one most important qualification for the job...  ...he was willing to go.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Probably thought he'd win a Bronze Star or something.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="8">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>It was his third day on the job.</utterance>
+   <speaker>RORY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Warden? There's a space here between the walls 'bout three feet across! Smells pretty damn bad!</utterance>
+   <speaker>NORTON</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>I don't care what it smells like!</utterance>
+   <speaker>HADLEY</speaker>
+      <mode>O.S.</mode>
+      <context>Looking none too happy about it, Rory squeezes from the tunnel and dangles into the shaft. He gets lowered, shining his light, smothered by darkness. Not having a good time.</context>
+      <utterance>Go on, boy! We got a hold of you!</utterance>
+   <speaker>RORY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hoo-whee! Smell's gettin' worse!</utterance>
+   <speaker>NORTON</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Never mind, I said! Just keep going!</utterance>
+   <speaker>RORY</speaker>
+      <mode></mode>
+      <context>His feet touch the ground -- or what he assumed was the ground. It's not. In fact, it's just what it smells like. He sinks in past his ankles. He slips and sits heavily in it.</context>
+      <utterance>Smells pretty damn bad, Warden! In fact, it smells just like shit.</utterance>
+   <speaker>RORY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh God, that's what it is, it's shit. oh my God it's shit. pull me out 'fore I blow my groceries, oh shit it's shit, oh my Gawwwwwwd!</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>That's it for Red. He starts laughing. Laughing, hell, he's bellowing laughter, laughing so hard he has to hold himself, laughing so hard tears are pouring down his cheeks. The look of rage on Norton's face makes him laugh all the harder.</context>
+      <utterance>And then came the unmistakable sound of Rory Tremont losing his last few meals. The whole cellblock heard it. I mean, it echoed.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I laughed myself right into solitary. Two week stretch.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>He starts laughing all over again, fit to split.</context>
+      <utterance>It's shit, it's shit, oh my God it's shit...</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Andy once talked about doing easy time in the hole. Now I knew what he meant.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>TRACK IN to reveal Andy scraping patiently at the concrete.</context>
+      <utterance>That and a big damn poster.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>He hears FOOTSTEPS approaching. He smoothes the poster down and dives into bed. A GUARD strolls by a moment later, shining his flashlight into the cell.</context>
+      <utterance>Like I said. In prison, a man'll do most anything to keep his mind occupied.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="3">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Again we see: Andy working. Norton pokes his head in.</context>
+      <utterance>I guess after Tommy was killed, Andy decided he'd been here just about long enough.</utterance>
+   <speaker>NORTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lickety-split. I wanna get home.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>Norton crosses to the wall safe and works the dial, his back turned. This time, though, we stay on Andy: He pulls up his sweater, yanks out a large black book and a stack of files, lays them on the desk. He then grabs the real ledger and files, jams them down his pants and smoothes his sweater down. He picks up the bogus stack, crosses to Norton, and shoves everything in.</context>
+      <utterance>Just about done, sir.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="3">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>...a man nobody ever laid eyes on before strolled into the Casco Bank of Portland. Until that moment, he didn't exist -- except on paper.</utterance>
+   <speaker>FEMALE TELLER</speaker>
+      <mode>O.S.</mode>
+      <context>TILT UP to Andy. Smiling in Norton's gray pinstripe suit.</context>
+      <utterance>May I help you?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My name is Peter Stevens. I've come to close out some accounts.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="6">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>He had all the proper I.D. Driver's license, birth certificate, social security card. The signature was a spot-on match.</utterance>
+   <speaker>MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I must say I'm sorry to be losing your business. I hope you'll enjoy living abroad.</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you. I'm sure I will.</utterance>
+   <speaker>TELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here's your cashier's check, sir. Will there be anything else?</utterance>
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context>He hands her a package, stamped and addressed. Gives them a pleasant smile. Turns and strolls from the bank.</context>
+      <utterance>Please. Would you add this to your outgoing mail?</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Mr. Stevens visited nearly a dozen banks in the Portland area that morning. All told, he blew town with better than 370 thousand dollars of Warden Norton's money. Severance pay for nineteen years.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="3">
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context>ANGLE SHIFTS to reveal Captain Hadley. Staring. Waiting.</context>
+      <utterance>Byron Hadley?</utterance>
+   <speaker>D.A.</speaker>
+      <mode></mode>
+      <context>TROOPERS move in, cuffing Hadley's hands behind his back. The D.A. drones on. FLASHBULBS POP. Hadley says nothing. His face scrunches up. He begins to cry.</context>
+      <utterance>You have the right to remain silent. If you give up that right, anything you say will be used against you in court...</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>Hadley sobs all the way to the car. The D.A. snaps a gaze up toward Norton's window, motions his men to follow.</context>
+      <utterance>I wasn't there to see it, but I hear Byron Hadley was sobbing like a little girl when they took him away.</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>A wild burst of laughter. PUSH IN on Red. Feeling melancholy.</context>
+      <utterance>Those of us who knew him best talk about him often. I swear, the stuff he pulled. It always makes us laugh.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Sometimes it makes me sad, though, Andy being gone. I have to remind myself that some birds aren't meant to be caged, that's all. Their feathers are just too bright...</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="3">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>A DISTANT RUMBLE OF THUNDER. Red pauses, gazes off. Storm clouds coming in, backlit by the sun. A light drizzle begins.</context>
+      <utterance>...and when they fly away, the part of you that knows it was a sin to lock them up does rejoice...but still, the place you live is that much more drab and empty that they're gone.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I guess I just miss my friend.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>He senses a presence, looks over his shoulder. There's a Rita Hayworth poster on his wall. He gets out of bed. Rita just keeps smiling, inscrutable. As Red watches, a brilliant round glow builds behind the poster, shining from the tunnel. The poster rips free, charred to ash in the blink of an eye as a shaft of holy white light stabs into the cell. Sunlight. Red staggers back against the glare. A whirlwind kicks up, whipping everything into the air. The hole in the wall is like a giant vacuum cleaner -- papers, book, toiletries, bedding -- if it ain't nailed down, it gets sucked down the hole toward the light. Red fights it, but the suction drags him closer and closer...</context>
+      <utterance>But there are times I curse him for the dreams he left behind...</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>A lone figure stands at water's edge. CAMERA KEEPS MOVING, coming up behind him and TRACKING AROUND to reveal -- Red.</context>
+      <utterance>...dreams where I am lost in a warm place with no memory.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>An ocean so big it strikes me dumb. Waves so quiet they strike me deaf. Sunshine so bright it strikes me blind. It is a place that is blue beyond reason. Bluer than can possibly exist. Bluer than my mind can possibly grasp.</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="6">
+   <speaker>MAN #1</speaker>
+      <mode></mode>
+      <context>Red doesn't answer. Just stares off. Seconds tick by. The parole board exchanges glances. Somebody clears his throat.</context>
+      <utterance>Your file says you've served forty years of a life sentence. You feel you've been rehabilitated?</utterance>
+   <speaker>MAN #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shall I repeat the question?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I heard you. Rehabilitated. Let's see now. You know, come to think of it, I have no idea what that means.</utterance>
+   <speaker>MAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it means you're ready to rejoin society as a--</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know what you think it means. Me, I think it's a made-up word, a poli- tician's word. A word so young fellas like you can wear a suit and tie and have a job. What do you really want to know? Am I sorry for what I did?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>The parole board just stares. Red sits drumming his fingers.</context>
+      <utterance>Not a day goes by I don't feel regret, and not because I'm in here or because you think I should. I look back on myself the way I was...stupid kid who did that terrible crime...wish I could talk sense to him. Tell him how things are. But I can't. That kid's long gone, this old man is all that's left, and I have to live with that.  Rehabilitated? That's a bullshit word, so you just go on ahead and stamp that form there, sonny, and stop wasting my damn time. Truth is, I don't give a shit.</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="3">
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir? Restroom break sir?</utterance>
+   <speaker>MANAGER</speaker>
+      <mode></mode>
+      <context>Red steps to the urinal, stares at himself in the wall mirror.</context>
+      <utterance>You don't need to ask me every time you go take a piss. Just go. Understand? 28l INT -- EMPLOYEE RESTROOM -- DAY 281</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>A strange east Indian guitar-whine begins. The Beatles. George Harrison's "Within You Without You..."</context>
+      <utterance>Thirty years I've been asking permission to piss. I can't squeeze a drop without say-so.</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="2">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>TWO YOUNG WOMEN stroll by in cut-offs and t-shirts.</context>
+      <utterance>Women, too, that's the other thing. I forgot they were half the human race. There's women everywhere, every shape and size. I find myself semi-hard most of the time, cursing myself for a dirty old man.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Not a brassiere to be seen, nipples poking out at the world. Jeezus, pleeze-us. Back in my day, a woman out in public like that would have been arrested and given a sanity hearing.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="6">
+   <speaker>P.O.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You staying out of the bars, Red?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes sir. That I am.</utterance>
+   <speaker>P.O.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How you doing otherwise? Adjusting okay?</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Things got different out here.</utterance>
+   <speaker>P.O.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me about it. Young punks protesting the war. You imagine? Even my own kid. Oughtta bust his fuckin' skull.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guess the world moved on.</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="5">
+   <speaker>287	EXT -- STREET -- DUSK 287</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Red is walking home.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>He pauses at a pawnshop window. An array of handguns.</context>
+      <utterance>There is a harsh truth to face. No way I'm gonna make it on the outside.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>The SHOPKEEPER appears at the glass, locking the door and flipping the sign: CLOSED.</context>
+      <utterance>All I do anymore is think of ways to break my parole.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>He glances up at the ceiling beam. "Brooks Hatlen was here."</context>
+      <utterance>Terrible thing, to live in fear. Brooks Hatlen knew it. Knew it all too well. All I want is to be back where things make sense. Where I won't have to be afraid all the time.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Only one thing stops me. A promise I made to Andy.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="3">
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context>CAMERA brings us to Red, next in line, bag by his feet.</context>
+      <utterance>For the second time in my life, I am guilty of committing a crime.</utterance>
+   <speaker>RED</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Parole violation. I doubt they'll toss up any roadblocks for that. Not for an old crook like me.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>McNary, Texas?</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="2">
+   <speaker>ANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You look like a man who knows how to get things.</utterance>
+   <speaker>RED</speaker>
+      <mode></mode>
+      <context>Red shrugs off his jacket and picks up a sander. Together, they start sanding the hull as we</context>
+      <utterance>I'm known to locate certain things from time to time.</utterance>
+</dialogue>
+
+
+</movie>

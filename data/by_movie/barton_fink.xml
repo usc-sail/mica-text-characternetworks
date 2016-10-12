@@ -1,0 +1,3565 @@
+<movie id="62" title="Barton Fink">
+
+<dialogue id="1" n_utterances="9">
+   <speaker>ACTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm blowin' out of here, blowin' for good. I'm kissin' it all goodbye, these four stinkin' walls, the six flights up, the el that roars by at three A.M. like a castiron wind. Kiss 'em goodbye for me, Maury! I'll miss 'em – like hell I will!</utterance>
+   <speaker>ACTRESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dreaming again!</utterance>
+   <speaker>ACTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not this time, Lil! I'm awake now, awake for the first time in years. Uncle Dave said it: Daylight is a dream if you've lived with your eyes closed. Well my eyes are open now! I see that choir, and I know they're dressed in rags! But we're part of that choir, both of us – yeah, and you, Maury, and Uncle Dave too!</utterance>
+   <speaker>MAURY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The sun's coming up, kid. They'll be hawking the fish down on Fulton Street.</utterance>
+   <speaker>ACTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let 'em hawk. Let 'em sing their hearts out.</utterance>
+   <speaker>MAURY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's it, kid. Take that ruined choir. Make it sing!</utterance>
+   <speaker>ACTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So long, Maury.</utterance>
+   <speaker>MAURY</speaker>
+      <mode></mode>
+      <context>We hear a door open and close, then approaching footsteps. A tall, dark actor in a used tweed suit and carrying a beat-up valise passes in front of Barton: From offscreen stage:</context>
+      <utterance>So long.</utterance>
+   <speaker>MAURY</speaker>
+      <mode></mode>
+      <context>The actor sets the valise down and then stands waiting int he shadows behind Barton. An older man in work clothes – not wardrobe – passes in front of Barton from the other direction, pauses at the edge of the stage and cups his hands to his mouth.</context>
+      <utterance>We'll hear from that kid. And I don't mean a postcard.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="3">
+   <speaker>LILY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's spit on our hands and get to work. It's late, Maury.</utterance>
+   <speaker>MAURY</speaker>
+      <mode></mode>
+      <context>Barton mouths the last line in sync with the offscreen actor:</context>
+      <utterance>Not any more Lil...</utterance>
+   <speaker>MAURY</speaker>
+      <mode></mode>
+      <context>With this the stagehand behind Barton furiously pulls the rope hand-over-hand and we hear thunderous applause and shouts of "Bravo!" As the stagehand finishes bringing the curtain down, somewhat muting the applause, the backstage actor trots out of frame toward the stage. The stagehand pulls on an adjacent rope, bringing the curtain back up and unmuting the applause. Barton Fink seems dazed. He has been joined by two other men, both dressed in tuxedos, both beaming toward the stage.</context>
+      <utterance>...It's early.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="4">
+   <speaker>MAITRE 'D</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your table is ready, Monsieur Fink... several members of your party have already arrived...</utterance>
+   <speaker>REVERSE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pulling Barton</utterance>
+   <speaker>FINK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is Garland Stanford here?</utterance>
+   <speaker>MAITRE 'D</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He called to say he'd be a few minutes late... Ah, here we are...</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="24">
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>Barton nods and looks at the woman.</context>
+      <utterance>Barton, Barton, so glad you could make it. You know Richard St. Claire...</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>Barton looks sullenly at his champagne glass as the fat man fills it.</context>
+      <utterance>...and Poppy Carnahan. We're drinking champagne, dear boy, in honor of the occasion. Have you seen the Herald?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not yet.</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I don't want to embarrass you but Caven could hardly contain himself. But more important, Richard and Poppy here loved the play.</utterance>
+   <speaker>POPPY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Loved it! What power!</utterance>
+   <speaker>RICHARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, it was a corker.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Richard, but I know for a fact the only fish you've ever seen were tacked to a the wall of the yacht club.</utterance>
+   <speaker>RICHARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ouch!</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bravo! Nevertheless, we were all devastated.</utterance>
+   <speaker>POPPY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Weeping! Copius tears! What did the Herald say?</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I happen to have it with me.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please Derek –</utterance>
+   <speaker>POPPY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do read it, do!</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Bare Ruined Choirs: Triumph of the Common Man. The star of the Bare Ruined Choirs was not seen on the stage of the Belasco last night – though the thespians involved all acquitted themselves admirably. The find of the evening was the author of this drama about simple folk – fish mongers, in fact – whose brute struggle for existence cannot quite quell their longing for something higher. The playwright finds nobility in the most squalid corners and poetry in the most callused speech. A tough new voice in the American theater has arrived, and the owner of that voice is named... Barton Fink."</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They'll be wrapping fish in it in the morning so I guess it's not a total waste.</utterance>
+   <speaker>POPPY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cynic!</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well we can enjoy your success, Barton, even if you can't.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't get me wrong – I'm glad it'll do well for you, Derek.</utterance>
+   <speaker>DEREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry about me, dear boy – I want you to celebrate.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, but I can't start listening to the critics, and I can't kid myself about my own work. A writer writes from his gut, and his gut tells him what's good and what's... merely adequate.</utterance>
+   <speaker>POPPY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well I don't pretend to be a critic, but Lord, I have a gut, and it tells me it was simply marvelous.</utterance>
+   <speaker>RICHARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And a charming gut it is.</utterance>
+   <speaker>POPPY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You dog!</utterance>
+   <speaker>RICHARD</speaker>
+      <mode></mode>
+      <context>Barton turns to look for the source of an insistent jingling. We swish pan off him to find a busboy marching through the restaurant displaying a page sign, bell attached, with Barton's name on it.</context>
+      <utterance>Aaa-woooooooo!</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="23">
+   <speaker>PULLING BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As he draws near.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you were going to join us. Jesus, Garland, you left me alone with those people.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context>Barton scowls</context>
+      <utterance>Don't panic, I'll join you in a minute. What's you think of Richard and Poppy?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Garland smiles, then draws Barton close.</context>
+      <utterance>The play was marvelous. She wept, copiously. Millions of dollars and no sense.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have to talk a little business. I've just been on the phone to Los Angeles. Barton, Capitol Pictures wants to put you under contract. They've offered you a thousand dollars a week. I think I can get them to go as high as two.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To do what?</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you do far a living?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure anymore. I guess I try to make a difference.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fair enough. No pressure here, Barton, because I respect you, but let me point out a couple of things. One, here you make a difference to five hundred fifty people a night – if the show sells out. Eighty five million people go to the pictures every week.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To see pap.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, generally, to see pap. However, point number two: A brief tenure in Hollywood could support you through the writing of any number of plays.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, Garland; my place is here right now. I feel I'm on the brink of success-</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context>Barton leans earnestly forward.</context>
+      <utterance>I'd say you're already enjoying some.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He leans back and chuckles ruefully.</context>
+      <utterance>No, Garland, don't you see? Not the kind of success where the critics fawn over you or the producers like Derek make a lot of money. No, a real success – the success we've been dreaming about – the creation of a new, living theater of, about, and for the common man! If I ran off to Hollywood now I'd be making money, going to parties, meeting the big shots, sure, but I'd be cutting myself off from the wellspring of that success, from the common man.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...I guess I'm sprouting off again. But I am certain of this, Garland: I'm capable of more good work. Maybe better work than I did in Choirs. It just doesn't seem to me that Los Angeles is the place to lead the life of mind.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context>Barton glumly lights a cigarette and gazes out across the floor. Garland studies him.</context>
+      <utterance>Okay Barton, you're the artist, I'm just the ten percenter. You decide what you want and I'll make it happen. I'm only asking that your decision be informed by a little realism – if I can use that word and Hollywood in the same breath.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Look, they love you, kid – everybody does. You see Caven's review in the Herald?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, what did it say?</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context>Garland looks at Barton for a reaction, but gets none.</context>
+      <utterance>Take my copy. You're the toast of Broadway and you have the opportunity to redeem that for a little cash – strike that, a lot of cash.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context>Absently:</context>
+      <utterance>...The common man'll still be here when you get back. What the hell, they might even have one or two of 'em out in Hollywood.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Garland smiles gently.</context>
+      <utterance>...That's a rationalization, Garland.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context>We hear a distant rumble. It builds slowly and we cut to:</context>
+      <utterance>Barton, it was a joke.</utterance>
+   <speaker>A GREAT WAVE</speaker>
+      <mode></mode>
+      <context>The roar of the surf slips away as we dissolve to:</context>
+      <utterance>Crushing against the Pacific shore.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="26">
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welcome to the Hotel Earle. May I help you, sir?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>The clerk flips through cards on the desk.</context>
+      <utterance>I'm checking in. Barton Fink.</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>F-I-N-K. Fink, Barton. That must be you, huh?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Must be.</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context>He is turning to a register around for Barton to sign.</context>
+      <utterance>Okay then, everything seems to be in order. Everything seems to be in order.</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Are you a tranz or a rez?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Transient or resident?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know... I mean, I'll be here, uh, indefinitely.</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rez. That'll be twenty-five fifty a week payable in advance. Checkout time is twelve sharp, only you can forget that on account you're a rez. If you need anything, anything at all, you dial zero on your personal in-room telephone and talk to me. My name is Chet.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I'm going to be working here, mostly at night; I'm a writer. Do you have room service?</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context>The clerk is scribbling something on the back of an index card.</context>
+      <utterance>Kitchen closes at eight but I'm the night clerk. I can always ring out for sandwiches.</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context>He pushes a room key across the counter on top of the index card. Barton looks at the card. On it: "CHET!" Barton looks back up at the clerk. They regard each other for a beat.</context>
+      <utterance>...Though we provide privacy for the residential guest, we are also a full service hotel including complimentary shoe shine. My name is Chet.</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Okay</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>The clerk.</context>
+      <utterance>Huh?</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okey-dokey, go ahead.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What –</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context>Barton stares at him.</context>
+      <utterance>Don't you wanna go to your room?!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>The clerk stares back.</context>
+      <utterance>...What number is it?</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context>As Barton stoops to pick up his two small bags:</context>
+      <utterance>...Six-oh-five. I forgot to tell you.</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Those your only bags?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>The clerk leans over the desk to call after him:</context>
+      <utterance>The others are being sent.</utterance>
+   <speaker>CLERK</speaker>
+      <mode></mode>
+      <context>Barton is walking to the elevator.</context>
+      <utterance>I'll keep an eye out for them. I'll keep my eyes peeled, Mr. Fink.</utterance>
+   <speaker>ELEVATOR</speaker>
+      <mode></mode>
+      <context>An aged man with white stubble, wearing a greasy maroon uniform, sits on a stool facing the call panel. He does not acknowledge Barton's presence. After a beat:</context>
+      <utterance>Barton enters and sets down his bags.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>The elevator man gets slowly to his feet. As he pushes the door closed:</context>
+      <utterance>...Six, please.</utterance>
+   <speaker>ELEVATOR MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Next stop: Six.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="6">
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How d'ya like your room!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Who is this?</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chet!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Who?</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context>Barton wearily rubs the bridge of his nose.</context>
+      <utterance>Chet! From downstairs!</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...How d'ya like your room!</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="29">
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>He bear-hugs Barton.</context>
+      <utterance>Is that him?! Barton Fink?! Lemme put my arms around this guy!</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>He separates without waiting for an answer.</context>
+      <utterance>...How the hell are ya? Good trip?</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>Lipnik is lumbering back to his desk.</context>
+      <utterance>My name is Jack Lipnik. I run this dump. You know that – you read the papers.</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lou treating you all right? Got everything you need? What the hell's the matter with your face? What the hell's the matter with his face, Lou?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not as bad as it looks; just a mosquito in my room –</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>To Lou:</context>
+      <utterance>Place okay?</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Where did we put him?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm at the Earle.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never heard of it. Let's move him to the Grand, or the Wilshire, or hell, he can stay at my place.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, but I wanted a place that was less...</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Less Hollywood? Sure, say it, it's not a dirty word. Sat whatever the hell you want. The writer is king here at Capitol Pictures. You don't believe me, take a look at your paycheck at the end of every week – that's what we think of the writer.  ...so what kind of pictures does he like?</utterance>
+   <speaker>LOU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Fink hasn't given a preference, Mr. Lipnik.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's about it, Bart?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To be honest, I don't go to the pictures much, Mr. Lipnik –</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's okay, that's okay, that's okay – that's just fine. You probably just walked in here thinking that was going to be a handicap, thinking we wanted people who knew something about the medium, maybe even thinking there was all kind of technical mumbo- jumbo to learn. You were dead wrong. We're only interested in one thing: Can you tell a story, Bart? Can you make us laugh, can you make us cry, can you make us wanna break out in joyous song? Is that more than one thing? Okay. The point is, I run this dump and I don't know the technical mumbo-jumbo. Why do I run it? I've got horse-sense, goddamnit. Showmanship. And also, and I hope Lou told you this, I bigger and meaner than any other kike in this town. Did you tell him that, Lou? And I don't mean my dick's bigger than yours, it's not a sexual thing – although, you're the writer, you would know more about that. Coffee?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Yes, thank you.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>Lou immediately rises and leaves. Lipnik's tone becomes confidential:</context>
+      <utterance>Lou.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>He rises and starts pacing.</context>
+      <utterance>...He used to have shares in the company. An ownership interest. Got bought out in the twenties – muscled out according to some. Hell, according to me. So we keep him around, he's got a family. Poor schmuck. He's sensitive, don't mention the old days. Oh hell, say whatever you want. Look, barring a preference, Bart, we're gonna put you to work on a wrestling picture. Wallace Beery. I say this because they tell me you know the poetry of the street. That would rule out westerns, pirate pictures, screwball, Bible, Roman...</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>Lou enters with coffee.</context>
+      <utterance>But look, I'm not one of these guys thinks poetic has gotta be fruity. We're together on that, aren't we? I mean I'm from New York myself – well, Minsk if you wanna go way back, which we won't if you don't mind and I ain't askin'. Now people're gonna tell you, wrestling. Wallace Beery, it's a B picture. You tell them, bullshit. We don't make B pictures here at Capitol. Let's put a stop to that rumor right now.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Thanks Lou. Join us. Join us. Talking about the Wallace Beery picture.</utterance>
+   <speaker>LOU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excellent picture.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We got a treatment on it yet?</utterance>
+   <speaker>LOU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, not yet Jack. We just bought the story. Saturday Evening Post.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>After a robust laugh, he beams at Barton.</context>
+      <utterance>Okay, the hell with the story. Wallace Beery is a wrestler. I wanna know his hopes, his dreams. Naturally, he'll have to get mixed up with a bad element. And a romantic interest. You know the drill. Romantic interest, or else a young kid. An orphan. What do you think, Lou? Wally a little too old for a romantic interest? Look at me, a writer in the room and I'm askin' Lou what the goddamn story should be!</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Well Bart, which is it? Orphan? Dame?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>There is a disappointed silence. Lipnik looks at Lou. Lou clears his throat.</context>
+      <utterance>...Both maybe?</utterance>
+   <speaker>LOU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Maybe we should do a treatment.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>Lou is getting to his feet and signaling for Barton to do likewise.</context>
+      <utterance>Ah, hell, let Bart take a crack at it. He'll get into the swing of things or I don't know writers. Let's make it a dame, Bart, keep it simple. We don't gotta tackle the world our first time out. The important thing is we all have that Barton Fink feeling, but since you're Barton Fink I'm assuming you have it in spades. Seriously Bart, I like you. We're off to a good start. Dammit, if all our writers were like you I wouldn't have to get so goddamn involved. I'd like to see something by the end of the week.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Heard about your show, by the way. My man in New York saw it. Tells me it was pretty damn powerful. Pretty damn moving. A little fruity, he said, but I guess you know what you're doing. Thank you for your heart. We need more heart in pictures. We're all expecting great things.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="2">
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>After a beat:</context>
+      <utterance>Hello... Chet? This is Barton Fink in room 605. Yes, there's uh, there's someone in the room next door to mine, 604, and he's uh... He's uh... making a lot of... noise.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He cradles the phone. The laughter continues for a moment or two, then abruptly stops with the muffled sound of the telephone ringing next door. Barton looks at the wall. The muffled sound of a man talking. The sound of the earpiece being pronged. Muffled footsteps next door. The sound of the neighbor's door opening and shutting. Footsteps approaching the hall. A hard, present knock at Barton's door. Barton hesitates for a beat, then rises to go get the door.</context>
+      <utterance>...Thank you.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="59">
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>Hastily:</context>
+      <utterance>Did you... Somebody just complained...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I didn't – I mean, I did call down, not to complain exactly, I was just concerned that you might – not that it's my business, but that you might be in some kind of... distress. You see, I was trying to work, and it's, well, it was difficult –</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>He sticks his hand out.</context>
+      <utterance>Yeah. I'm damn sorry, if I bothered you. The damn walls here, well, I just apologize like hell...</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>Without reaching for the hand.</context>
+      <utterance>...My name's Charlie Meadows. I guess we're neighbors...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Unfazed, Charlie Meadows unpockets a flask.</context>
+      <utterance>Barton Fink.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Neighbor, I'd feel better about the damned inconvenience if you'd let me buy you a drink.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's all right, really, thank you.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>As he enters:</context>
+      <utterance>All right, hell, you trying to work and me carrying on in there. Look, the liquor's good, wuddya say?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... You got a glass? It's the least I can do.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He gets two glasses from the wash basin. Charlie sits down on the edge of the bed and uncorks his flask.</context>
+      <utterance>Okay... a quick one, sure...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, just a nip. I feel like hell, all the carryings-on next door.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's okay, I assure you. It's just that I was trying to work –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What kind of work do you do, Barton, if you don't mind my asking?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I'm a writer, actually.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't say. That's a tough racket. My hat's off to anyone who can make a go of it. Damned interesting work, I'd imagine.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can be. Not easy, but –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>As he hands Charlie a glass:</context>
+      <utterance>Damned difficult, I'd imagine.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And what's your line, Mr. Meadows?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He fills a glass with whiskey and swaps it for the empty glass.</context>
+      <utterance>Hell no! Call me Charlie. Well Barton, you might say I sell peace of mind. Insurance is my game – door-to-door, human contact, still the only way to move merchandise.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...In spite of what you might think from tonight, I'm pretty good at it.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doesn't surprise me at all.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell yes. Because I believe in it. Fire, theft, and casualty are not things that only happen to other people – that's what I tell 'em. Writing doesn't work out, you might want to look into it. Providing for basic human need – a fella could do worse.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, I'll keep it in mind.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What kind of scribbler are you – newspaperman did you say?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm actually writing for the pictures now –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He guffaws.</context>
+      <utterance>Pictures! Jesus!</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He gestures toward his face:</context>
+      <utterance>...I'm sorry, brother, I was just sitting here thinking I was talking to some ambitious youngster, eager to make good. Hell, you've got it made! Writing for pictures! Beating out that competition! And me being patronizing!</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Is the egg showing or what?!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's okay; actually I am just starting out in the movies – though I was pretty well established in New York, some renown there,</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>For the first time Barton smiles.</context>
+      <utterance>Oh, it's an exciting time then. I'm not the best-read mug on the planet, so I guess it's no surprise I didn't recognize your name. Jesus, I feel like a heel.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's okay, Charlie. I'm a playwright. My shows've only played New York. Last one got a hell of a write-up in the Herald. I guess that's why they wanted me here.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell, why not? Everyone wants quality. What kind of venue, that is to say, thematically, uh...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie laughs.</context>
+      <utterance>What do I write about?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Caught me trying to be fancy! Yeah, that's it, Bart.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, that's a good question. Strange as it may seem, Charlie, I guess I write about people like you. The average working stiff. The common man.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well ain't that a kick in the head!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He gazes at Charlie.</context>
+      <utterance>Yeah, I guess it is. But in a way, that's exactly the point. There's a few people in New York – hopefully our numbers are growing – who feel we have an opportunity now to forge something real out of everyday experience, create a theater for the masses that's based on a few simple truths – not on some shopworn abstractions about drama that doesn't hold true today, if they ever did...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...I don't guess this means much to you.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell, I could tell you some stories–</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And that's the point, that we all have stories. The hopes and dreams of the common man are as noble as those of any king. It's the stuff of life – why shouldn't it be the stuff of theater? Goddamnit, why should that be a hard pill to swallow? Don't call it new theater, Charlie; call it real theater. Call it our theater.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can see you feel pretty strongly about it.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I don't mean to get up on my high horse, but why shouldn't we look at ourselves up there? Who cares about the Fifth Earl of Bastrop and Lady Higginbottom and – and – and who killed Nigel Grinch-Gibbons?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can feel my butt getting sore already.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Exactly, Charlie! You understand what I'm saying – a lot more than some of these literary types. Because you're a real man!</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I could tell you some stories –</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure you could! And yet many writers do everything in their power to insulate themselves from the common man – from where they live, from where they trade, from where they fight and love and converse and – and – and... so naturally their work suffers, and regresses into empty formalism and – well, I'm spouting off again, but to put it in your language, the theater becomes as phony as a three dollar bill.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I guess that's tragedy right there.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie laughs.</context>
+      <utterance>Frequently played, seldom remarked.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton smiles with him.</context>
+      <utterance>Whatever that means.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're all right, Charlie. I'm glad you stopped by. I'm sorry if – well I know I sometimes run on.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell no! Jesus, I'm the kind of guy, I'll let you know if I'm bored. I find it all pretty damned interesting. I'm the kind schmoe who's generally interested in the other guy's point of view.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie is getting to his feet and walking to the door.</context>
+      <utterance>Well, we've got something in common then.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well Christ, if there's any way I can contribute, or help, or whatever– Barton chuckles and extends his hand.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure, sure Charlie, you can help by just being yourself.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He pumps Barton's hand, then turns and pauses in the doorway.</context>
+      <utterance>Well, I can tell you some stories –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...And look, I'm sorry as hell about the interruption. Too much revelry late at night, you forget there are other people in the world.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie closes the door and is gone. Barton goes back to his desk and sits. Muffled, we can hear the door of the adjacent room opening and closing. Barton looks at the wall.</context>
+      <utterance>See you, Charlie.</utterance>
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context>From offscreen we hear a sticky, adhesive-giving-way sound.</context>
+      <utterance>The bathing beauty.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He looks around to the opposite – bed – wall.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="18">
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context>The office door opens in the background and a short middle- aged man in a dark suit emerges. To his secretary:</context>
+      <utterance>A gargoyle secretary sits typing a document.</utterance>
+   <speaker>EXECUTIVE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm eating on the lot today – He notices Barton.</utterance>
+   <speaker>EXECUTIVE</speaker>
+      <mode></mode>
+      <context>The secretary looks over from her typing to consult a slip of paper on her desk.</context>
+      <utterance>...Who's he?</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton Fink, Mr. Geisler.</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>More please.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a writer, Mr. Geisler. Ted Okum said I should drop by morning to see you about the –</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ever act?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Huh? No, I'm –</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We need Indians for a Norman Steele western.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a writer. Ted O –</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Think about it, Fink. Writers come and go; we always need Indians.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a writer. Ted Okum said you're producing this Wallace Beery picture I'm working on.</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What!? Ted Okum doesn't know shit. They've assigned me enough pictures for a goddamn year. What Ted Okum doesn't know you could almost squeeze into the Hollywood Bowl.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Geisler gives a hostile stare. Without looking at her, he addresses the secretary:</context>
+      <utterance>Then who should I talk to?</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context>He perches on the edge of the desk, an open hand out toward the secretary, as he glares wordlessly at Barton. After a moment:</context>
+      <utterance>Get me Lou Breeze.</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>She puts the phone in Geisler's hand.</context>
+      <utterance>Is he in for Mr. Geisler?</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context>Without looking he reaches the phone back. The secretary takes it and cradles it.</context>
+      <utterance>Lou? How's Lipnik's ass smell this morning?... Yeah?... Yeah?... Okay, the reason I'm calling, I got a writer here, Fink, all screwy. Says I'm producing that Wallace Beery wrestling picture – what'm I, the goddamn janitor around here?... Yeah, well who'd you get that from?... Yeah, well tell Lipnik he can kiss my dimpled ass... Shit! No, alright... No, no, all right.</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Okay kid, let's chow.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="9">
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry about it. It's just a B picture. I bring it in on budget, they'll book it without even screening it. Life is too short.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But Lipnik said he wanted to look at the script, see something by the end of the week.</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure he did. And he forgot about it before your ass left his sofa.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. I'm just having trouble getting started. It's funny, I'm blocked up. I feel like I need some kind of indication of... what's expected –</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context>Geisler chews on his cottage cheese and stares at Barton.</context>
+      <utterance>Wallace Beery. Wrestling picture. What do you need, a road map?</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Look, you're confused? You need guidance? Talk to another writer.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Geisler rises and throws his napkin onto his plate.</context>
+      <utterance>Who?</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus, throw a rock in here, you'll hit one. And do me a favor, Fink: Throw it hard.</utterance>
+   <speaker>COMMISSARY MEN'S ROOM</speaker>
+      <mode></mode>
+      <context>He stares at the wall in front of him as he pees. After a moment, he cocks his head, listening. We hear a throat clearing, as if by a tenor preparing for a difficult passage. It is followed by the gurgling ruch of vomit. Barton buttons his pants and turns to face the stalls. There is more businesslike throat clearing. Barton stoops.</context>
+      <utterance>Barton stands at a urinal.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="22">
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks back down, then up again.</utterance>
+   <speaker>THE MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Extends a dripping hand.</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>His speech is softly accented, from the South.</context>
+      <utterance>Bill Mayhew. Sorry about the odor.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>They shake, then return to their ablutions. We hold on Barton as we hear Mayhew's faucet being turned off and his foot-steps receding. For some reason, Barton's eyes are widening.</context>
+      <utterance>Barton Fink.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>The dapper little man stops and turns.</context>
+      <utterance>...Jesus. W.P.!</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I beg your pardon?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>W.P. Mayhew? The writer?</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>Barton stands with his back to the sink, facing the little man, his hands dripping onto the floor. There is a short pause. Barton is strangely agitated, his voice halting but urgent.</context>
+      <utterance>Just Bill, please.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Mayhew cocks his head with a politely patient smile. Finally Barton brings out:</context>
+      <utterance>Bill!...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Mayhew leans against a stall.</context>
+      <utterance>...You're the finest novelist of our time.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why thank you, son, how kind. Bein' occupied here in the worship of Mammon, I haven't had the chance yet to see your play – He smiles at Barton's surprise.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>He is taking out a flask and unscrewing its lid.</context>
+      <utterance>...Yes, Mistuh Fink, some of the news reaches us in Hollywood.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir, I'm flattered that you even recognize my name. My God, I had no idea you were in Hollywood.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>He clears his throat, takes a swig from the flask, and waves it at Barton.</context>
+      <utterance>All of us undomesticated writers eventually make their way out here to the Great Salt Lick. Mebbe that's why I allus have such a powerful thrust.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...A little social lubricant, Mistuh Fink?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's still a little early for me.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>He knocks back some more.</context>
+      <utterance>So be it.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Mayhew eyes him appraisingly, and at length clears his throat.</context>
+      <utterance>...Bill, if I'm imposing you should say so, I know you're very busy – I just, uh... I just wonder if I could ask you a favor... That is to say, uh... have you ever written a wrestling picture?</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>Barton looks down at his hands, then pulls a rough brown paper towel from a dispenser. Mayhew sighs:</context>
+      <utterance>...You are drippin', suh.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>He waves his flask.</context>
+      <utterance>...Mistuh Fink, they have not invented a genre of picture that Bill Mayhew has not, at one time or othuh, been invited to essay. I have taken my stabs at the wrastlin' form, as I have stabbed at so many others, and with as little success. I gather that you are a fresh-man here, eager for an upperclassman's council. However, just at the moment...</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>He turns to leave.</context>
+      <utterance>...I have drinkin' to do. Why don't you stop at my bungalow, which is numbah fifteen, later on this afternoon...</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...and we will discuss wrastlin' scenarios and other things lit'rary.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="4">
+   <speaker>REVERSE TRACKING SLOWLY IN</speaker>
+      <mode></mode>
+      <context>The noise abates for a moment. We hear the woman's voice again. Barton hesitates, listening; he thinks, decides, knocks. With this the woman's voice stops, and Mayhew starts wailing again. The door cracks open. The woman looks as if she has been crying.</context>
+      <utterance>On Barton, standing in front of the door.</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Can I help you?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, I... My name is Fink... Uh, Bill asked me to drop by this afternoon. Is he in?</utterance>
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Mayhew is indisposed at the moment– From inside, we hear Mayhew's wail.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="3">
+   <speaker>WOMAN</speaker>
+      <mode></mode>
+      <context>Through the door Mayhew is still wailing piteously.</context>
+      <utterance>Mr. Fink, I'm Audrey Taylor, Mr. Mayhew's personal secretary. I know this all must sound horrid. I really do apologize...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is, uh... Is he okay?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He will be... When he can't write, he drinks.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="9">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am sorry, it's so embarassing.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How about you? Will you be alright?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be fine... Are you a writer, Mr Fink?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes I am. I'm working on a wres – please call me Barton. Audrey reaches out and touches Barton's hand.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll tell Bill you dropped by. I'm sure he'll want to reschedule your appointment.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Audrey smiles at him.</context>
+      <utterance>Perhaps you and I could get together at some point also. –I'm sorry if that sounds abrupt. I just... I don't know anyone here in this town.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps the three of us, Mr. Fink.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please, Barton.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton. You see, Barton, I'm not just Bill's secretary – Bill and I are... I love. We-</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="5">
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...I know this must look... funny.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no – Hurriedly:</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We need each other. We give each other... the things we need –</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>M'HONEY!!... bastard-ass sons of bitches... the water's lappin' up...</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="2">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Flustered, she backs away and closes the door.</context>
+      <utterance>I'm sorry, Mr. Fink. Please don't judge us. Please...</utterance>
+   <speaker>CLOSE ON A SMALL WRAPPED PACKAGE</speaker>
+      <mode></mode>
+      <context>"Hope these will turn the trick, Mr. Fink. – Chet!" The wrapping is torn away and the small box is opened. Two thumbtacks are taken out.</context>
+      <utterance>Hand-printed on the package is the message:</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="20">
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Howdy, neighbor.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charlie. How are you.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus, I hope I'm not interrupting you again. I heard you walking around in here. Figured I'd drop by.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>– for Charle's left ear is plugged with cotton wadding. As he enters:</context>
+      <utterance>Yeah, come in Charlie. Hadn't really gotten started yet – what happened to your ear?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, yeah. An ear infection, chronic thing. Goes away for a while, but it always comes back. Gotta put cotton in it to staunch the flow of pus. Don't worry, it's not contagious.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie gives a dismissive wave.</context>
+      <utterance>Seen a doctor?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, doctors. What's he gonna tell me? Can't trade my head in for a new one.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie perches on the corner of the bed.</context>
+      <utterance>No, I guess you're stuck with the one you've got. Have a seat.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, I'd invite you over to my place, but it's a goddamn mess. You married, Bart?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He takes his flask out.</context>
+      <utterance>I myself have yet to be lassoed.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Got a sweetheart?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No... I guess it's something about my work. I get so worked up over it, I don't know; I don't really have a lot of attention left over, so it would be a little unfair...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton smiles.</context>
+      <utterance>Yeah, the ladies do ask for attention. In my experience, they pretend to give it, but it's generally a smoke- screen for demanding it back – with interest. How about family, Bart? How're you fixed in that department?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My folks live in Brooklyn, with my uncle.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He taps himself on the head, chuckling.</context>
+      <utterance>Mine have passed on. It's just the three of us now...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...What's the expression – me myself and I.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He shrugs.</context>
+      <utterance>Sure, that's tough, but in a sense, we're all alone in this world aren't we Charlie? I'm often surrounded by family and friends, but...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He laughs at his reference to Barton's curly hair, and pulls a dog-eared photograph from his wallet. As he hands it to Barton:</context>
+      <utterance>Mm... You're no stranger to loneliness, then. I guess I got no beef; especially where the dames are concerned. In my line of work I get opportunities galore – always on the wing, you know what I'm saying. I could tell stories to curl your hair – but it looks like you've already heard 'em!</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...That's me in Kansas City, plying my trade.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="28">
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...It was taken by one of my policy holders. They're more than just customers to me, Barton. They really appreciate what I have to offer them. Ya see, her hubby was out of town at the time –</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He looks from Charlie to the Underwood.</context>
+      <utterance>You know, in a way, I envy you Charlie. Your daily routine – you know what's expected. You know the drill. My job is to plumb the depths, so to speak, dredge something up from inside, something honest. There's no road map for that territory...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He looks back at Charlie.</context>
+      <utterance>...and exploring it can be painful. The kind of pain most people don't know anything about.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...This must be boring you.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not at all. It's damned interesting.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He gives a sad chuckle.</context>
+      <utterance>Yeah...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Probably sounds a little grand coming from someone who's writing a wrestling picture for Wallace Beery.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Beery! You got no beef there! He's good. Hell of an actor – though, for my money, you can't beat Jack Oakie. A stitch, Oakie. Funny stuff, funny stuff. But don't get me wrong – Beery, a wrestling picture, that could be a pip. Wrestled some myself back in school. I guess you know the basic moves.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope, never watched any. I'm not that interested in the act itself –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He is getting down on his hands and knees.</context>
+      <utterance>Okay, but hell, you should know what it is. I can show you in about thirty seconds.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...You're a little out of your weight class, but just for purposes of demonstration –</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's all right, really –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He indicated his own right bicep.</context>
+      <utterance>Not a bit of it, compadre! Easiest thing in the world! You just get down on your knees to my left, slap your right hand here...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton hesitates.</context>
+      <utterance>...and your left hand here. He indicated his left bicep.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton complies.</context>
+      <utterance>...You can do it, champ!</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...All right now, when I say "Ready... wrestle!" you try and pin me, and I try and pin you. That's the whole game. Got it?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Yeah, okay.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>With one clean move Charlie flips Barton onto his back, his head and shoulders hitting with a thump. Charlie pins Barton's shoulders with his own upper body. But before the move even seems completed Charlie is standing again, offering his hand down to Barton.</context>
+      <utterance>Ready... wrestle!</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton seems dazed, but not put out.</context>
+      <utterance>Damn, there I go again. We're gonna wake the downstairs neighbors. I didn't hurt ya, did I?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay, it's okay.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton has propped himself up and is painfully massaging the back of his head. This registers on Charlie.</context>
+      <utterance>Well, that's all that wrestling is. Except usually there's more grunting and squirming before the pin. Well, it's your first time. And you're out of your weight class.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He clomps hurriedly away.</context>
+      <utterance>...Jesus, I did hurt you!</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>We hear water running, and Charlie reenters with a wet towel. Barton accepts the towel and presses it to his head.</context>
+      <utterance>...I'm just a big, clumsy lug. I sure do apologize.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton gets to his feet.</context>
+      <utterance>...You sure you're okay?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie looks at him with some concern, then turns and heads for the door.</context>
+      <utterance>I'm fine, Charlie. Really I am. Actually, it's been helpful, but I guess I should get back to work.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He opens the door.</context>
+      <utterance>Well, it wasn't fair of me to do that. I'm pretty well endowed physically.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton crosses to the secretary and sits down, rubbing the back of his head. He rolls up the carriage and looks at the page in the typewriter.</context>
+      <utterance>...Don't feel bad, though. I wouldn't be much of a match for you at mental gymnastics. Gimme a holler if you need anything. The door closes.</utterance>
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The page.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="2">
+   <speaker>THE BATHROOM</speaker>
+      <mode></mode>
+      <context>The sink, which Charlie apparently left running when he wet Barton's towel, is overflowing. Water spills onto the tile floor. Barton hurriedly shuts off the tap, rolls up one sleeve and reaches into the sink. As his hand emerges, holding something, we hear the unclogged sink gulp water.</context>
+      <utterance>Barton enters.</utterance>
+   <speaker>BARTON'S HAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Holding a dripping wad of cotton.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="27">
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I close m'eyes I can almost smell the live oak.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's hamburger grease, Bill.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>His eyes still closed, he waves a limp hand gently in the breeze.</context>
+      <utterance>Well, m'olfactory's turnin' womanish on me – lyin' and deceitful...</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Still, I must say. I haven't felt peace like this since the grand productive days. Don't you find it so, Barton? Ain't writin' peace?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Barton looks nervously at Audrey before continuing.</context>
+      <utterance>Well... actually, no Bill...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...No, I've always found that writing comes from a great inner pain. Maybe it's a pain that comes from a realization that one must do something for one's fellow man – to help somehow to ease his suffering. Maybe it's a personal pain. At any rate, I don't believe good work is possible without it.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>He sighs and reaches for a bottle of Wild Turkey.</context>
+      <utterance>Mmm. Wal, me, I just enjoy maikn' things up. Yessir. Escape... It's when I can't write, can't escape m'self, that I want to tear m'head off and run screamin' down the street with m'balls in a fruitpickers pail. Mm...</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...This'll sometimes help.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That doesn't help anything, Bill.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Mayhew is becoming testy:</context>
+      <utterance>That's true, Bill. I've never found it to help my writing.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>Audrey, anticipating, jumps hastily in. She taps the book on the table.</context>
+      <utterance>Your writing? Son, have you ever heard the story of Soloman's mammy-</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Mayhew looks at her narrowly.</context>
+      <utterance>You should read this, Barton. I think it's Bill's finest, or among his finest anyway.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So now I'm s'posed to roll over like an ol' bitch dog gettin' ger belly scratched.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bill –</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, maybe it's none of my business, but a man with your talent – don't you think your first obligation would be to your gift? Shouldn't you be doing whatever you have to do to work again?</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And what would that be, son?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know exactly. But I do know what you're doing with that drink. You're cutting yourself off from your gift, and from me and Audrey, and from your fellow man, and from everything your art is about.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No son, thisahere moonshine's got nothin' to do with shuttin' folks out. No, I'm usin' it to build somethin'.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm buildin' a levee. Gulp by gulp, brick by brick. Raisin' up a levee to keep that ragin' river of manure from lappin' at m'door.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Mayhew chuckles.</context>
+      <utterance>Maybe you better too, Barton. Before you get buried under his manure.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>M'honey pretends to be impatient with me, Barton, but she'll put up with anything.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not anything, Bill. Don't test me.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Mayhew is getting to his feet.</context>
+      <utterance>You're lucky she puts up with as much as she does.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Am I? Maybe to a schoolboy's eye. People who know about the human heart, though, mebbe they'd say, Bill over here, he gives his honey love, and she pays him back with pity – the basest coin there is.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>He wanders over to a corner of the lot between two palm trees, still clutching his bottle, his back to Barton and Audrey, and urinates into the grass. He is singing – loudly – "Old Black Joe." Audrey walks over to him.</context>
+      <utterance>Stop it, Bill!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Watching her go.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="4">
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>She touches him again, murmuring, and he lashes out at her, knocking her to the ground.</context>
+      <utterance>The truth, m'honey, is a tart that does not bear scrutiny.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Breach my levee at your peril!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He rises.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Coming back to Barton.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="15">
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let him go.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He looks down the road. Mayhew is a small lone figure, weaving in the dust.</context>
+      <utterance>That son of a bitch... Don't get me wrong, he's a fine writer.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll jus' walk on down to the Pacific, and from there I'll... improvise.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>We hear distant bellowing:</context>
+      <utterance>Are you all right?</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>Audrey bursts into tears. Barton puts his arms around her and she leans into him.</context>
+      <utterance>Silent upon a hill in Darien!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Gradually, she collects herself, wiping her tears.</context>
+      <utterance>Audrey, you can't put up with this.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Oh Barton, I feel so... sorry for him!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?! He's a son of a bitch!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, sometimes he just... well, he thinks about Estelle. His wife still lives in Fayettesville. She's... disturbed.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He considers this for a moment, but his anger returns.</context>
+      <utterance>Really?...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Well that doesn't excuse his behavior.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He'll wander back when he's sober and apologize. He always does.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, but that doesn't excuse his –</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton. Empathy requires... understanding.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Audrey gazes at him.</context>
+      <utterance>What. What don't I understand?</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="6">
+   <speaker>BACK TO BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looking down at the page.</utterance>
+   <speaker>CLOSE ON BARTON'S FEET</speaker>
+      <mode></mode>
+      <context>One foot idly swings over to nudge a pair of nicely shined shoes from where they rest, under the secretary, into the legwell. We hear typing start.</context>
+      <utterance>Swinging in the legwell.</utterance>
+   <speaker>THE PAGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A new paragraph being started: "A large man..."</utterance>
+   <speaker>BARTON'S FEET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As he slides them into the shoes.</utterance>
+   <speaker>THE PAGE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"A large man in tights..." The typing stops.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looking quizzically at the page. What's wrong?</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="34">
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie stands smiling in the doorway, holding a pair of nicely shined shoes.</context>
+      <utterance>He rises and answers the door.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hope these are your shoes.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, Charlie.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because that would mean they gave you mine.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>The two stocking-footed men go into the room and Barton reaches under the secretary for Charlie's shoes.</context>
+      <utterance>Yeah, as a matter of fact they did. Come on in.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus, what a day I've had. Ever had one of those days?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Chalrie perches on the edge of the bed.</context>
+      <utterance>Seems like nothing but, lately.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus, what a day. Felt like I couldn't've sold ice water in the Sahara. Jesus. Okay, so you don't want insurance, so okay, that's your loss. But God, people can be rude. Feel like I have to talk to a normal person like just to restore a little of my...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, my pleasure. I could use a little lift myself.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Smiling, he takes out his flask.</context>
+      <utterance>A little lift, yeah...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He takes a glass from the bedstand and, as he pours Barton a shot:</context>
+      <utterance>...Good thing they bottle it, huh pal?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Did I say rude? People can be goddamn cruel. Especially some of their housewives. Okay, so I've got a weight problem. That's my cross to bear. I dunno...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well it's... it's a defense mechanism.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He shakes his head.</context>
+      <utterance>Defense against what? Insurance? Something they need? Something they should be thanking me for offering? A little peace of mind?...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He indicates his ear, still stuffed with cotton.</context>
+      <utterance>...Finally decided to knock off early, take your advice. Went to see a doctor about this.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He gives a rueful chuckle.</context>
+      <utterance>...He told me it was an ear infection. Ten dollars, please. I said, hell, I told YOU my ear was infected. Why don't YOU give ME ten dollars? Well, THAT led to an argument...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Listen to me belly-achin'. As if my problems amounted to a hill of beans. How goes the life of the mind?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it's been better. I can't seem to get going on this thing. That one idea, the one that lets you get started – I still haven't gotten it. Maybe I only had one idea in me – my play. Maybe once that was done, I was done being a writer. Christ, I feel like a fraud, sitting here staring at this paper.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton looks at him curiously.</context>
+      <utterance>Those two love-birds next door drivin' you nuts?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did you know about that?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Know about it? I can practically see how they're doin' it. Brother, I wish I had a piece of that.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He laughs.</context>
+      <utterance>Seems like I hear everything that goes on in this dump. Pipes or somethin'. I'm just glad I don't have to ply MY trade in the wee-wee hours.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Ah, you'll lick this picture business, believe me. You've got a head on your shoulders. What is it they say? Where there's a head, there's a hope?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie laughs.</context>
+      <utterance>Where there's life there's hope.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton smiles.</context>
+      <utterance>That proves you really are a writer!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And there's hope for you too, Charlie. Tomorrow I bet you sell a half-dozen policies.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, brother. But the fact is, I gotta pull up stakes temporarily.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're leaving?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In a few days. Out to your stompin' grounds as a matter of fact – New York City. Things have gotten all balled up at the Head Office.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm truly sorry to hear that, Charlie. I'll miss you.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton rises and walks over to his writing table.</context>
+      <utterance>Well hell, buddy, don't pull a long face! This is still home for me – I keep my room, and I'll be back sooner or later...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton scribbles on a notepad and turns to hand it to Charlie.</context>
+      <utterance>...And – mark my words – by the time I get back you're picture'll be finished. I know it.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie rises and walks over to the stand next to where Barton sits. The two staring men form an odd, motionless tableau – the slight, bespectacled man seated; the big man standing in a hunch with his hands on his thighs; their heads close together.</context>
+      <utterance>New York can be pretty cruel to strangers, Charlie. If you need a home-cooked meal you just look up Morris and Lillian Fink. They live on Fulton Street with my uncle Dave. We hear a tacky, tearing sound. Barton looks toward the door.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="15">
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Christ!</utterance>
+   <speaker>THE TWO MEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frozen, looking.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Your room does that too?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess the heat's sweating off the wallpaper.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He heads for the door and Barton follows.</context>
+      <utterance>What a dump...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...I guess it seems pathetic to a guy like you.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well it's pathetic, isn't it? I mean to a guy from New York.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This kind of heat. It's pathetic.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I guess you pick your poison.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So they say.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't pick up and leave without saying goodbye.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He goes back to the desk, sits, and stares at the typewriter. After a beat he tips back in his chair and looks up at the ceiling. We hear a loud thump.</context>
+      <utterance>Course not, compadre. You'll see me again. Barton closes the door.</utterance>
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context>As we track in the thumping continues – slowly, rhythmically, progressively louder – the effect, it seems, of odd doings upstairs.</context>
+      <utterance>The ceiling – a white, seamless space.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="33">
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton Fink.</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context>The clack of the typewriter resumes as Barton rises.</context>
+      <utterance>Yeah. Fink. Come in.</utterance>
+   <speaker>GEISLER'S OFFICE</speaker>
+      <mode></mode>
+      <context>This office is considerably smaller than Lipnik's, done in grays and black. There are pictures on the wall of Geisler with various celebrities. Geisler sits behind his desk.</context>
+      <utterance>The two men enter.</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wuddya got for me – what the hell happened to your face?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing. It's just a mosquito bite.</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like hell it is; there are no mosquitos in Los Angeles. Mosquitos breed in swamps – this is a desert town. Wuddya got for me?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well I...</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On the Beery picture! Where are we? Wuddya got?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, to tell you the truth, I'm having some trouble getting started–</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Getting STARTED! Christ Jesus! Started?! You mean you don't have ANYthing?!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Geisler leaps to his feet and paces.</context>
+      <utterance>Well not much.</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think this is? HAMLET?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid I don't really understand that genre. maybe that's the prob-</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Understand shit! I though you were gonna consult another writer on this!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I've talked to Bill Mayhew-</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bill Mayhew! Some help! The guy's a souse!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a great writer –</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A souse!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't understand. He's in pain, because he can't write-</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Souse! Souse! He manages to write his name on the back of his paycheck every week!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But... I thought no one cared about this picture.</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context>Some puzzlement shows through Barton's weariness.</context>
+      <utterance>You thought! Where'd you get THAT from? You thought! I don't know what the hell you said to Lipnik, but the sonofabitch LIKES you! You understand that, Fink? He LIKES you! He's taken an interest. NEVER make Lipnik like you. NEVER!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't understand-</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you deaf, he LIKES you! He's taken an interest! What the hell did you say to him?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't say anything-</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well he's taken an interest! That means he'll make your life hell, which I could care less about, but since I drew the short straw to supervise this turkey, he's gonna be all over me too! Fat-assed sonofabitch called me yesterday to ask how it's going – don't worry, I covered for you. Told him you were making progress and we were all very excited. I told him it was great, so now MY ass is on the line. He wants you to tell him all about it tomorrow.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't write anything by tomorrow.</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who said write? Jesus, Jack can't read. You gotta TELL it to him-tell him SOMEthing for Chrissake.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Geisler rubs a temple, studies Barton for a beat, then picks up a telephone.</context>
+      <utterance>Well what do I tell him?</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context>As he waits, Geisler gives Barton a withering stare. It continues throughout the phone conversation.</context>
+      <utterance>Projection...</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context>He slams down the phone.</context>
+      <utterance>... Jerry? Ben Geisler here. Any of the screening rooms free this afternoon?... Good, book it for me. A writer named Fink is gonna come in and you're gonna show him wrestling pictures... I don't give a shit which ones! WRESTLING pictures! Wait a minute- isn't Victor Sjoderberg shooting one now?... Show him some of the dailies on that.</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context>He jots an address on a piece of paper and hands it to Barton.</context>
+      <utterance>...This ought to give you some ideas.</utterance>
+   <speaker>GEISLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Eight-fifteen tomorrow morning at Lipnik's house. Ideas. Broad strokes. Don't cross me, Fink.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="9">
+   <speaker>CLAPPER</speaker>
+      <mode></mode>
+      <context>Clap! The clapper withdraws. The angle is on a corner of the ring, where an old corner man stands behind his charge, a huge man in tights who is a little too flabby to be a real athlete. His hair is plastered against his bullet skull and he has a small mustache.</context>
+      <utterance>DEVIL ON THE CANVAS, twelve baker take one.</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context>The wrestler rises from his stool and heads toward center ring and the camera. He affects a German accent:</context>
+      <utterance>Action.</utterance>
+   <speaker>WRESTLER</speaker>
+      <mode></mode>
+      <context>He passes the camera.</context>
+      <utterance>I will destroy him!</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context>The clapper enters again.</context>
+      <utterance>Cut. Flash frames.</utterance>
+   <speaker>CLAPPER</speaker>
+      <mode></mode>
+      <context>The wrestler moves toward the camera.</context>
+      <utterance>Twelve baker take two. Clap! He exits.</utterance>
+   <speaker>WRESTLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will destroy him!</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context>The clapper enters</context>
+      <utterance>Cut.</utterance>
+   <speaker>CLAPPER</speaker>
+      <mode></mode>
+      <context>Clap!</context>
+      <utterance>Twelve baker take three.</utterance>
+   <speaker>WRESTLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will destroy him!</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="2">
+   <speaker>WRESTLER</speaker>
+      <mode></mode>
+      <context>Another off-microphone, distant voice from the screen:</context>
+      <utterance>I will destroy him!... I will destroy him!... I will destroy him!... I will destroy him!...</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, take five...</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="2">
+   <speaker>BACK TO BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Staring at the screen, dull, wan, and forlorn.</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Action.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="3">
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cut.</utterance>
+   <speaker>CLAPPER</speaker>
+      <mode></mode>
+      <context>Crash.</context>
+      <utterance>Twelve charlie take two.</utterance>
+   <speaker>REFEREE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One... two...</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="21">
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is 12:30.</utterance>
+   <speaker>CLOSE ON THE PHONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is lifted out of the cradle.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>We pull back to frame in Barton as we hear his call ring through. Barton sweats.</context>
+      <utterance>Hello, Chet, it's Barton Fink in 605. Can you try a number for me in Hollywood... Slausen 6-4304.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pick it up... Pick it up. Pick it-</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Audrey, listen, I need help. I know it's late and I shouldn't be calling you like this – believe me I wouldn't have if I could see any other alternative, but I – I'm sorry - listen, how are you – I'm sorry. You doing okay?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Who is this?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Through the phone, in the background, we hear Mayhew's drunken bellowing.</context>
+      <utterance>Barton. I'm sorry, it's Barton Fink.</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context>We hear various objects dropping or being thrown to the floor.</context>
+      <utterance>Sons of bitches! Drown 'em all!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton, I'm afraid it's not a good time-</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Drown all those rascals...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, I just feel like –I know I shouldn't ask, I just need some kind of help, I just, I have a deadline tomorrow-</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said drown 'em all! Who is that? There is more clatter. Audrey's voice is hushed, close to the phone:</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right Barton, I'll see if I can slip away-</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is that?! Gaddamn voices come into the house... sons of bitches...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you could, I'd –</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I can. He gets jealous; he-</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goddamn voices... DROWN 'EM!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need help, Audrey.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll try to slip out. If he quiets down, passes out... I'm afraid he thinks – well, he said you were a buffoon, Barton. He becomes irrational–</utterance>
+   <speaker>MAYHEW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hesh up! Be still now! DROWN 'EM!</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="35">
+   <speaker>THE DOORWAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton opens the door to Audrey.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, Barton.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>They enter the main room, where Audrey perches on the edge of the bed.</context>
+      <utterance>Audrey, thank you for coming. Thank you. I'm sorry to be such a... such a... Thank you.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now that's all right, Barton. Everything'll be all right.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Thank you. How's Bill?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>Barton paces.</context>
+      <utterance>Oh, he's... he drifted off. He'll sleep for a while now. What is it you have to do, exactly?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well I have to come up with – an outline, I'd guess you call it. The story. The whole goddamn story. Soup to nuts. Three acts. The whole goddamn-</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's alright, Barton. You don't have to write actual scenes?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Audrey laughs.</context>
+      <utterance>No, but the whole goddamn – Audrey? Have you ever had to read any of Bill's wrestling scenarios?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I'm afraid I have.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are they like? What are they about?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>She laughs – then stops, realizing that she has laughed. She looks at Barton.</context>
+      <utterance>Well, usually, they're... simply morality tales. There's a good wrestler, and a bad wrestler whom he confronts at the end. In between, the good wrestler has a love interest or a child he has to protect. Bill would usually make the good wrestler a backwoods type, or a convict. And sometimes, instead of a waif, he'd have the wrestler protecting an idiot manchild. The studio always hated that. Oh, some of the scripts were so... spirited!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>She shakes her head.</context>
+      <utterance>...Barton.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Look, it's really just a formula. You don't have to type your soul into it. We'll invent some names and a new setting. I'll help you and it won't take any time at all. I did it for Bill so many times – Barton's pacing comes up short.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Guardedly:</context>
+      <utterance>Did what for Bill?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well... THIS.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wrote his scripts for him?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, the basic ideas were frequently his-</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wrote Bill's scripts! Jesus Christ, you wrote his – what about before that?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Before what?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Audrey is clearly reluctant to travel this path.</context>
+      <utterance>Before Bill came to Hollywood.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, Bill was ALWAYS the author, so to speak-</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean so to speak?! Audrey, how long have you been his... secretary?</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton, I think we should concentrate on OUR little project-</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to know how many of Bill's books you wrote!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to know!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton, honestly, only the last couple-</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hah!</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And my input was mostly... EDITORIAL, really, when he'd been drinking-</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He resumes pacing.</context>
+      <utterance>I'll bet. Jesus – "The grand productive days." What a goddamn phony.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Barton sighs and looks at his watch.</context>
+      <utterance>...W.P. Mayhew. William Goddamn Phony Mayhew. All his guff about escape. Hah! I'LL say he escaped!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He sits down next to Audrey. Audrey's tone is gentle.</context>
+      <utterance>...Well, we don't have much time.</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>She strokes Barton's hair.</context>
+      <utterance>It'll be fine... Don't judge him, Barton. Don't condescend to him...</utterance>
+   <speaker>AUDREY</speaker>
+      <mode></mode>
+      <context>As Barton tentatively responds, we are panning away. We frame up on the door to the bathroom and track in toward the sink. We can hear the creak of bedsprings and Audrey and Barton's breath, becoming labored. The continuing track brings us up to and over the lid of the sink to frame up its drain, a perfect black circle in the porcelain white. We track up to the drain and are enveloped by it as the sound of lovemaking mixes into the groaning of pipes.</context>
+      <utterance>...It's not as simple as you think. I helped Bill most by appreciating him, by understanding him. We all need understanding, Barton. Even you, tonight, it's all you really need... She kisses him.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="3">
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context>The mosquito is feeding on it.</context>
+      <utterance>The alabaster white of Audrey's back.</utterance>
+   <speaker>EXTREME CLOSE ON BARTON'S EYES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looking.</utterance>
+   <speaker>EXTREME CLOSE ON THE MOSQUITO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Swelling with blood.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="2">
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His hand is dripping with blood. Too much blood.</utterance>
+   <speaker>BACK TO BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eyes wide, he looks down at the bed.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="7">
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>We hear rapid and heavy footfalls next door, a door opening and closing, and then a loud banging on Barton's door. Barton's head spins towards the door. He is momentarily frozen. Another knock. Barton leaps to his feet and hurries to the door.</context>
+      <utterance>He screams. He screams again.</utterance>
+   <speaker>THE DOORWAY</speaker>
+      <mode></mode>
+      <context>Charlie stands in the hall in his boxer shorts and a sleeveless tee.</context>
+      <utterance>Over Barton's shoulder as he cracks the door.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton stares dumbly for a moment.</context>
+      <utterance>Are you all right?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Can I come in?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No!... I'm fine. Thank you.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you sure –</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Barton is nodding as he shuts the door in Charlie's face. He walks back into the room.</context>
+      <utterance>No... no...</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="3">
+   <speaker>HALLWAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton peers out the see if the coast is clear.</utterance>
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context>In the deep background, Chet, the night clerk, is stooping in front of a door to pick up a pair of shoes. Next to him is a castored shoe caddy. All of the doorways between us and Chet are empty of shoes.</context>
+      <utterance>The long hallway.</utterance>
+   <speaker>CHET</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Close on him as, mid-stoop, he looks up.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="34">
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton. Are you all right?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No... Can I come in?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't we go to your room-</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie steps out into the hall and shuts the door behind him.</context>
+      <utterance>Charlie, I'm in trouble. You've gotta help me. Once again he is breathing hard.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get a grip on yourself, brother. Whatever the problem is, we'll sort it out.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie leads him towards his room.</context>
+      <utterance>Charlie, I'm in trouble – something horrible's happened – I've gotta call the police...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Will you stay with me till they get here?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He is pushing Barton's door open, but Barton grabs an elbow to stop him.</context>
+      <utterance>Don't worry about it, Barton. We can sort it-</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie looks into his eyes. For a moment the two men stare at each other – Charlie's look inquisitive, Barton's supplicating. Finally, Charlie nods.</context>
+      <utterance>Before you go in – I didn't do this. I don't know how it happened, but I didn't... I want you to know that...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He turns and pushes open the door.</context>
+      <utterance>Okay.</utterance>
+   <speaker>BARTON'S ROOM</speaker>
+      <mode></mode>
+      <context>Barton lingers by the door. Charlie walks into the foreground to look off toward the bed. His eyes widen and he screams. He turns and disappears into the bathroom. We hear vomiting, then the flush of a toilet.</context>
+      <utterance>The two men enter.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>His reaction has not encouraged Barton, who is more and more agitated. Charlie emerges from the bathroom, sweating.</context>
+      <utterance>Jesus... Jesus... Jesus have mercy...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Jesus, Barton, what the hell is this? What're we gonna do?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've gotta call the police – or you could call for me –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold on –</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You gotta believe me –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold on –</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't do this, I did NOT do this–</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold on. Stop. Take a deep breath. Tell me what happened.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie, in spite of himself, is sneaking horrified glances back into the room.</context>
+      <utterance>I don't know! I woke up, she was... God, you gotta believe me!</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I believe you, brother, but this don't look good.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We gotta call the police –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold on. I said hold on, so hold on.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think happened?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know! Maybe it was her... boyfriend. I passed out. I don't know. Won't the police be able to –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop with the police! Wake up, friend! This does not look good! They hang people for this!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I didn't do it – don't you believe me?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton gives him a dumb stare.</context>
+      <utterance>I believe you – I KNOW you. But why should the police?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Charlie shakes his head.</context>
+      <utterance>...Did you... Barton, between you and me, did you have sexual intercourse? Barton stares at Charlie. He swallows.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus... They can tell that...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They GOTTA believe me, Charlie! They gotta have mercy!</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He turns and starts toward the bed.</context>
+      <utterance>You're in pictures, Barton. Even if you got cleared eventually, this would ruin you.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Wait in the bathroom.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="6">
+   <speaker>BLACK</speaker>
+      <mode></mode>
+      <context>We are low on Charlie, who is following through on a slap and backing away, having aroused Barton. Charlie is now wearing pants but is still in his sleeveless tee, which has blood flecks across the belly.</context>
+      <utterance>Slap! Slap!</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton looks groggily up.</context>
+      <utterance>You passed out.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Uh-huh... Where's Audrey?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's dead, Barton! If that was her name.</utterance>
+   <speaker>TRACKING IN ON BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He stares at Charlie.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton looks at his watch.</context>
+      <utterance>Barton, listen to me. You gotta act like nothing's happened. Put this totally out of your head. I know that's hard, but your play from here on out is just to go about business as usual. Give us some time to sort this out...</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="21">
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>As Barton sits:</context>
+      <utterance>Sit! Talk! Relax for a minute, then talk! Drink?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah... rye whiskey?</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>He laughs, then barks at Lou Breeze.</context>
+      <utterance>Boy! You writers! Work hard, play hard! That's what I hear, anyway...</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>Lou exits.</context>
+      <utterance>... Lou.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>He beams expectantly at Barton. Barton licks his parched lips.</context>
+      <utterance>Anyway. Ben Geisler tells me things're going along great. Thinks we've got a real winner in this one. And let me tell you something, I'm counting on it. I've taken an interest. Not to interfere, mind you – hardly seems necessary in your case. A writer – a storyteller – of your stature. Givitta me in bold strokes, Bart. Gimme the broad outlines. I'm sitting in the audience, the lights go down, Capitol logo comes up... you're on!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Lipnik is nodding, already involved in the story.</context>
+      <utterance>Yeah, okay... well... we fade in...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...It's a tenement building. On the Lower East Side...</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great! He's poor, this wrestler! He's had to struggle!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Barton looks back out at the pool, his eyes closed to slits against the sun. He looks back at Lipnik.</context>
+      <utterance>And then... well...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Can I be honest, Mr. Lipnik?</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>Lou has entered with a drink, which he sets next to Barton. Lou sits. Barton looks around, takes the drink, sips at it greedily, but must finally take the plunge.</context>
+      <utterance>CAN you? You damn well better be. Jesus, if I hadn't been honest in my business dealings – well, of course, you can't always be honest, not with the sharks swimming around this town – but if you're a writer, you don't think about those things – if I'd been totally honest, I wouldn't be within a mile of this pool – unless I was cleaning it. But that's no reason for you not to be. Honest, I mean. Not cleaning the pool.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Lipnik stares at him. His smile has disappeared. There is a long beat. Lou Breeze clears his throat. He apparently feels obliged to fill the silence.</context>
+      <utterance>Well... to be honest, I'm never really comfortable discussing a work in progress. I've got it all worked out in my head, but sometimes if you force it out in words – prematurely – the wrong words – well, your meaning changes, and it changes your own mind, and you never get it back – so I'd just as soon not talk about it.</utterance>
+   <speaker>LOU</speaker>
+      <mode></mode>
+      <context>Lipnik has turned to look curiously at Lou.</context>
+      <utterance>...Mr. Fink. Never mind me. Never mind how long I've been in pictures. Mr. Lipnik has been in pictures just about since they were invented. HE practically invented them.</utterance>
+   <speaker>LOU</speaker>
+      <mode></mode>
+      <context>Lou looks at Barton, expectantly. Lipnik continues to stare at Lou. There is a long silence, terribly heavy. Finally, Lipnik explodes – at Lou.</context>
+      <utterance>...Now I think if he's interested in what one of his contract employees is doing while he draws pay, I think that employee ought to tell him, if he wants to stay an employee. Right now the contents of your head are the property of Capitol Pictures, so if I were you I would speak up. And pretty goddamn fast.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>Lou Breeze is stunned.</context>
+      <utterance>You lousy sonofabitch! You're telling this man – this ARTIST – what to do?!</utterance>
+   <speaker>LOU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Lipnik, I –</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>Barton is staring, aghast.</context>
+      <utterance>This man creates for a living! He puts food on your table and on mine! THANK him for it! Thank him, you ungrateful sonofabitch! Thank him or YOU'RE fired!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Lipnik, still staring at Lou, gives no sign of hearing Barton. He rises and points.</context>
+      <utterance>Mr. Lipnik, that's not really necessar-</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get down on your knees, you sonofabitch! Get down on your knees and kiss this man's feet!</utterance>
+   <speaker>LOU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Lipnik, please –</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I – Mr. Lipnik –</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="9">
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>Lou gets stiffly to his feet and stumbles away.</context>
+      <utterance>...Okay, get out of here. You're fired, you understand me? Get out of my sight.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Lipnik, I –</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I apologize, Barton.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No no, Mr. Breeze has actually been a great help –</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't have to cover for him. It's noble of you, but these things happen in business.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Lipnik, I really would feel much better if you could reconsider –</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, forget it, kid. I want you to pull this out of your head. If that sonofabitch wouldn't apologize to you, goddammit, I will. I respect your artistry and your methods, and if you can't fill us in yet, well hell, we should be kissing your feet for your fine efforts. He gets down on his knees in front of Barton.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>Barton stares, horrified, at Lipnik, on the ground at his feet.</context>
+      <utterance>...You know in the old country we were taught, as very young children, that there's no shame in supplicatin' yourself when you respect someone.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...On behalf of Capitol Pictures, the administration, and all a the stockholders, please accept this as a symbol of our apology and respect.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="27">
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton stands back from the door and Charlie picks up his briefcase and enters.</context>
+      <utterance>Barton. Can I come in?</utterance>
+   <speaker>THE ROOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As the two men enter.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus... You're leaving.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton sounds desperate:</context>
+      <utterance>Have to, old timer. Just for a while.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus, Charlie, I...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everything's okay, believe me. I know it's rough mentally, but everything's taken care of.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He starts weeping</context>
+      <utterance>Charlie! I've got no one else here! You're the only person I know in Los Angeles...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie, also disturbed and unhappy, wraps both arms around Barton. Barton sobs unashamedly into his shoulder. Charlie is somber.</context>
+      <utterance>...that I can talk to.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay... It's okay...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>His breath comes in short gasping heaves.</context>
+      <utterance>Charlie, I feel like I'm going crazy – like I'm losing my mind. I don't know what to do... I didn't do it, believe me. I'm sure of that, Charlie. I just...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...I just don't know what... to do–</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You gotta get a grip on, brother. You gotta just carry on – just for a few days, till I get back. Try and stay here, keep your door locked. Don't talk to anyone. We just gotta keep our heads and we'll figure it out.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but Charlie –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He looks at Barton for a beat.</context>
+      <utterance>Dammit, don't argue with me. You asked me to believe you – well I do. Now don't argue with me.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Charlie hands him his parcel.</context>
+      <utterance>...Look, pal – can you do something for me?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton, snuffling, accepts the package.</context>
+      <utterance>...Keep this for me, till I get back.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Still snuffling:</context>
+      <utterance>...It's just personal stuff. I don't wanna drag it with me, but I don't trust 'em downstairs, and I'd like to think it's in good hands.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure, Charlie.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Wallowing in self-pity:</context>
+      <utterance>Funny, huh, when everything that's important to a guy, everything he wants to keep from a lifetime – when he can fit it into a little box like that. I guess... I guess it's kind of pathetic.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's more than I've got.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He thumps his chest.</context>
+      <utterance>Well, keep it for me. Maybe it'll bring you good luck. Yeah, it'll help you finish your script. You'll think about me...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton is tearfully sincere:</context>
+      <utterance>...Make me your wrestler. Then you'll lick that story of yours.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie solemnly thrusts out his hand.</context>
+      <utterance>Thanks, Charlie.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton shakes. As they walk to the door:</context>
+      <utterance>Yeah, well, see you soon, friend. You're gonna be fine.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll be back?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton shuts the door behind Charlie, locks it, and turns around.</context>
+      <utterance>Don't worry about that, compadre. I'll be back.</utterance>
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context>Barton walks across the room and sits carefully at the edge of the bed, avoiding the rust-colored stain. For a long beat, he sits still, but something is building inside. Finally, when we hear the distant ding of the elevator arriving for Charlie, it erupts: Barton sobs, with the unself-conscious grief of an abandoned child.</context>
+      <utterance>The room. The bed. The blood-stained mattress.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="5">
+   <speaker>HIS POV</speaker>
+      <mode></mode>
+      <context>Barton opens it, randomly, to the Book of Daniel. The text is set in ornately Gothic type. "5. And the king, Nebuchadnezzar, answered and said to the Chaldeans, I recall not my dream; if ye will not make known unto me my dream, and its interpretation, ye shall be cut in pieces, and of your tents shall be made a dunghill."</context>
+      <utterance>The Holy Bible – Placed by the Gideons.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Staring at the passage. His mouth hangs open.</utterance>
+   <speaker>THE BIBLE</speaker>
+      <mode></mode>
+      <context>In bold type at the top:</context>
+      <utterance>Barton riffles to the first page.</utterance>
+   <speaker>"THE BOOK OF GENESIS"</speaker>
+      <mode></mode>
+      <context>"Chapter One 1. Fade in on a tenement building on Manhattan's Lower East Side. Faint traffic noise is audible; 2. As is the cry of fishmongers."</context>
+      <utterance>Underneath, in the same ornately Gothic type:</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Squinting at the page through bloodshot eyes. His mouth hangs open.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="2">
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He puts the receiver down on the desk, leans over the typewriter, and examines something he has just written. He picks the phone back up and listens for a beat.</context>
+      <utterance>Hello... Chet... Who?...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... No, don't send them up here. I'll be right down.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="4">
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...You read the Bible, Pete?</utterance>
+   <speaker>PETE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Holy Bible?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>PETE</speaker>
+      <mode></mode>
+      <context>They ride for a beat.</context>
+      <utterance>I think so... Anyway, I've heard about it. Barton nods.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="4">
+   <speaker>POLICEMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fink?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>POLICEMAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Detective Mastrionotti.</utterance>
+   <speaker>POLICEMAN #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Detective Deutsch.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="30">
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>All three sit in ancient maroon swing chairs. Mastrionotti perches on the edge of his chair; Deutsch slumps back in the shadows, studying Barton.</context>
+      <utterance>Uh-huh.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got a couple questions to ask ya.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context>Still hoarse:</context>
+      <utterance>What do you do, Fink?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I write.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yeah? What kind of write?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well as a matter of fact, I write for the pictures.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Big fuckin' deal.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want my partner to kiss your ass?</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would that be good enough for ya?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I – I didn't mean to sound –</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What DID you mean?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I – I've got respect for – for working guys, like you –</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus! Ain't that a load off! You live in 605?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long you been up there, Fink?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A week, eight, nine days –</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is this multiple choice?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nine days – Tuesday –</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context>He is holding a small black-and-white photograph out toward Barton. There is a long beat as Barton studies the picture.</context>
+      <utterance>You know this slob?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Yeah, he... he lives next door to me.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right, Fink, he lives next door to you.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ever talk to him?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Once or twice. His name is Charlie Meadows.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, and I'm Buck Rogers.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His name is Mundt. Karl Mundt.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Also known as Madman Mundt.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a little funny in the head.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did... What did he –</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Funny. As in, he likes to ventilate people with a shotgun and then cut their heads off.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, he's funny that way.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="26">
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Started in Kansas City. Couple of housewives.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Couple of days ago we see the same M.O. out in Los Feliz.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doctor. Ear, nose and throat man,.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All of which he's now missin'.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, some of his throat was there.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Physician, heal thyself.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good luck with no fuckin' head.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyway.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hollywood precinct finds another stiff yesterday. Not too far from here. This one's better looking than the doc.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Female caucasian, thirty years old. Nice tits. No head. You ever see Mundt with anyone meets that description?</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But, you know, with the head still on.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...No. I never saw him with anyone else.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So. You talked to Mundt, what about?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Deutsch indicates Mastrionotti.</context>
+      <utterance>Nothing, really. Said he was in the insurance business.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, and he's Buck Rogers.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No reputable company would hire a guy like that.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well that's what he said.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What else?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Mastrionotti looks at Deutsch. Deutsch looks at Mastrionotti. After a beat, Mastrionotti looks back at Barton.</context>
+      <utterance>He... I'm trying to think... Nothing, really... He... He said he liked Jack Oakie pictures.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ya know, Fink, ordinarily we say anything you might remember could be helpful. But I'll be frank with you: That is not helpful.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ya see how he's not writing it down?</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fink. That's a Jewish name, isn't it?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Mastrionotti gets to his feet, looking around the lobby.</context>
+      <utterance>Yeah.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context>He digs in his pocket.</context>
+      <utterance>Yeah, I didn't think this dump was restricted.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context>He hands Barton a card.</context>
+      <utterance>...Mundt has disappeared. I don't think he'll be back. But...</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...give me a call if you see him. Or if you remember something that isn't totally idiotic.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="23">
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He stops, reaches up, takes a cotton wad out of his ear. We hear various clicks and clacks as the telephone lines switch, and then a distant ring. The phone rings three or four times before it is answered by a groggy voice.</context>
+      <utterance>Hello? Operator! I can't... Oh!</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Hello.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Garland, it's me.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton? What time is it? Are you all right?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I'm fine, Garland – I have to talk to you. I'm calling long distance.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context>Muffled, we hear Garland speaking to someone else.</context>
+      <utterance>Okay.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context>Back into the receiver:</context>
+      <utterance>...It's Barton. Calling long distance.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...What is it Barton? Are you okay?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm fine, garland, but I have to talk with you.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go ahead, son.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's about what I'm writing, Garland. It's really... I think it's really big.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean, Barton?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not big in the sense of large – although it's that too. I mean important. This may be the most IMPORTANT work I've done.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I'm... glad to hear that –</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very important, Garland. I just thought you should know that. Whatever happens.</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...That's fine.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you read the Bible, Garland?</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Barton, is everything okay?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes... Isn't it?</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I'm just asking. You sound a little – Guardedly:</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sound a little what?</utterance>
+   <speaker>GARLAND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you just... sound a little– Bitterly:</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He slams down the phone.</context>
+      <utterance>Thanks, Garland. Thanks for all the encouragement.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="2">
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Nitwit.</utterance>
+   <speaker>THE BATHING BEAUTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Later. We hear typing and the roar of the surf.'</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="2">
+   <speaker>"THE BURLYMAN</speaker>
+      <mode></mode>
+      <context>Barton's right hand enters frame to deposit a small cotton wad on top of the script. Barton's left hand enters to deposit another small cotton wad on top of the script. We hear Barton walk away. We hear bath water run.</context>
+      <utterance>Motion Picture Scenario By Barton Fink"</utterance>
+   <speaker>THE BATHING BEAUTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Still looking out to sea.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="13">
+   <speaker>USO GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Giggling, dancing opposite Barton.</utterance>
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're cute!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Caught up in his dancing, oblivious to the girl. A white uniformed arm reaches in to tap Barton on the shoulder.</utterance>
+   <speaker>SAILOR</speaker>
+      <mode></mode>
+      <context>Barton glares at him.</context>
+      <utterance>'Scuse me, buddy, mind if I cut in?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is MY dance, sailor!</utterance>
+   <speaker>SAILOR</speaker>
+      <mode></mode>
+      <context>For some reason, Barton is angry.</context>
+      <utterance>C'mon buddy, I'm shipping out tomorrow.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a writer! Celebrating the completion of something GOOD! Do you understand that, sailor? I'm a</utterance>
+   <speaker>VOICES</speaker>
+      <mode></mode>
+      <context>Barton turns furiously against the crowd.</context>
+      <utterance>Step aside, four-eyes! Let someone else spin the dame! Give the navy a dance! Hey, Four-F, take a hike!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a writer, you monsters! I CREATE! He points at his head.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>He taps his skull.</context>
+      <utterance>...This is my uniform!</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>WHAPP! An infantry man tags Barton's chin on the button. Bodies surge. The crowd gasps. The band blares nightmarishly on.</context>
+      <utterance>...THIS is how I serve the common man! THIS is where I –</utterance>
+   <speaker>HOTEL HALLWAY</speaker>
+      <mode></mode>
+      <context>After a beat, there is a faint ding at the end of the hall and, as the elevator door opens, we faintly hear:</context>
+      <utterance>Quiet at the cut.</utterance>
+   <speaker>PETE</speaker>
+      <mode></mode>
+      <context>Barton, disheveled, emerges and stumbles wearily down the hall. He stops in front of his door, takes his key out, and enters the room.</context>
+      <utterance>This stop: six.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="22">
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context>He looks up at Barton.</context>
+      <utterance>Mother: What is to become of him. Father: We'll be hearing from that crazy wrestler. And I don't mean a postcard. Fade out. The end.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...I thought you said you were a writer.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I dunno, Duke. I kinda liked it.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Deutsch turns toward Barton and throws a folded newspaper at him.</context>
+      <utterance>Keep your filthy eyes off that.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context>Barton opens the paper. A headline reads: Writer Found Headless in Chavez Ravine. The story has two pictures – a studio publicity portrait of Mayhew, and a photograph of the crime scene: two plainclothes detectives stare down into a gulley as a uniformed cop restrains a pair of leashed dogs.</context>
+      <utterance>You made morning papers, Fink.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Second one of your friends to end up dead.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context>With a jerk of his thumb, Mastrionotti indicates the bloodstained bed.</context>
+      <utterance>You didn't tell us you knew the dame.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sixth floor too high for you, Fink?</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context>Barton crosses the room and sits at the foot of the bed, staring at the newspaper.</context>
+      <utterance>Give you nose bleeds?</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context>Distractedly:</context>
+      <utterance>Just tell me one thing, Fink: Where'd you put their heads?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charlie... Charlie's back...</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No kidding, bright boy – we smelt Mundt all over this. Was he the idea man?</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell us where the heads are, maybe they'll go easy on you.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context>Barton rubs his temples.</context>
+      <utterance>Only fry you once.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could you come back later? It's just... too hot... My head is killing me.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, forget the heads. Where's Mundt, Fink?</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He teach you to do it?</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You two have some sick sex thing?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sex?! He's a MAN! We WRESTLED!</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a sick fuck, Fink.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context>Barton seems oblivious to the two men.</context>
+      <utterance>All right, moron, you're under arrest.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Down the hall we hear the ding of the arriving elevator. Mastrionotti cocks his head with a quizzical look. He rises and walks slowly out into the hall. Deutsch wathces him go.</context>
+      <utterance>Charlie's back. It's hot... He's back.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="5">
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context>Deutsch stands and pushes his suit coat back past the gun on his hip, revealing a pair of handcuffs on his belt. He unhitches the cuffs and slips one around Barton's right wrist and the other around a loop in the wrought iron footboard of the bed.</context>
+      <utterance>...Fred...</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sit tight, Fink.</utterance>
+   <speaker>THE HALLWAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As Deutsch joins Mastrionotti.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why's it so goddamn hot out here?</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context>Deutsch looks where Mastrionotti is looking.</context>
+      <utterance>...Fred...</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="2">
+   <speaker>MASTRIONOTTI AND DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Watching.</utterance>
+   <speaker>PETE</speaker>
+      <mode></mode>
+      <context>As he pitches forward his hands fall away from his head. His head separates from his neck, hits the floor, and rolls away from his body with a dull irregular trundle sound.</context>
+      <utterance>He takes on last step, then collapses.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="2">
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context>More quiet.</context>
+      <utterance>... Show yourself, Mundt!</utterance>
+   <speaker>THE HALLWAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>More smoke.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="4">
+   <speaker>THE HALLWAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>More smoke.</utterance>
+   <speaker>PATCH OF WALL</speaker>
+      <mode></mode>
+      <context>A swath of wallpaper sags away from the top of the wall, exposing glistening lath underneath. With a light airy pop, the lathwork catches on fire.</context>
+      <utterance>Sweating.</utterance>
+   <speaker>MASTRIONOTTI AND DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sweating.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Mundt!</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="2">
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tensed. Behind him, Deutsch gulps.</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a boy, Mundt. Put the policy case down and your mitts in the air.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="2">
+   <speaker>CLOSE ON MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Relax. He murmurs:</utterance>
+   <speaker>MASTRIONOTTI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's complying.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="2">
+   <speaker>PULLING CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He slows to a walk.</utterance>
+   <speaker>BARTON'S ROOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Barton strains at his handcuffs.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="2">
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heil Hitler.</utterance>
+   <speaker>DEUTSCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Screams.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="22">
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He shakes is head and whistles.</context>
+      <utterance>Barton!</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He walks into the room.</context>
+      <utterance>...Brother, is it hot.</utterance>
+   <speaker>BARTON'S ROOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As Charlie wearily enters.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He props the shotgun in a corner and sits facing Barton, who stared at him.</context>
+      <utterance>How you been, buddy?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Don't look at me like that, neighbor. It's just me – Charlie.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Charlie reaches a flask from his pocket.</context>
+      <utterance>I hear it's Mundt. Madman Mundt.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He takes a long draught from his flask, then gives a haunted stare.</context>
+      <utterance>Jesus, people can be cruel...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Charlie is perspiring heavily. The fire rumbles in the hallway.</context>
+      <utterance>...if it's not my build, it's my personality.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He reached up to loosen his tie and pop his collar button.</context>
+      <utterance>...They say I'm a madman, Barton, but I'm not mad at anyone. Honest I'm not. Most guys I just feel sorry for. Yeah. It tears me up inside, to think about what they're going through. How trapped they are. I understand it. I feel for 'em. So I try and help them out...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He stares miserably down at his feet.</context>
+      <utterance>...Jesus. Yeah. I know what it feels like, when things get all balled up at the head office. It puts you through hell, Barton. So I help people out. I just wish someone would do as much for me...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Self-pity:</context>
+      <utterance>...Jesus it's hot. Sometimes it gets so hot, I wanna crawl right out of my skin.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But Charlie – why me? Why –</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>A tacky yellow fluid is dripping from Charlie's left ear and running down his cheek.</context>
+      <utterance>Because you DON'T LISTEN!</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He pulls some cotton from his pocket and plugs his ear.</context>
+      <utterance>...Jesus, I'm dripping again.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>His voice is becoming choked.</context>
+      <utterance>...C'mon Barton, you think you know about pain? You think I made your life hell? Take a look around this dump. You're just a tourist with a typewriter, Barton. I live here. Don't you understand that...</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Finally:</context>
+      <utterance>...And you come into MY home... And you complain that I'M making too... much... noise. He looks up at Barton. There is a long silence.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Wearily:</context>
+      <utterance>...I'm sorry.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He rises to his feet and kneels in front of Barton at the foot of the bed. The two men regard each other. Charlie grabs two bars of the footboard frame, still staring at Barton. His muscles tighten, though nothing moves. His neck fans with effort. All of his muscles tense. His face is a reddening grimace. With a shriek of protest, the metal gives. The bar to which Barton is handcuffed had come loose at the top and Barton slides the cuff off it, free. Charlie gets to his feet.</context>
+      <utterance>Don't be.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He takes his shotgun and walks to the door.</context>
+      <utterance>I'm getting off the merry-go-round.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>A thought stops him at the door and he turns to face Barton. Behind him the hallway blazes.</context>
+      <utterance>...I'll be next door if you need me.</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>He smiles. Barton looks at him dumbly.</context>
+      <utterance>...Oh, I dropped in on your folks. And Uncle Dave?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context>Barton rises, picks up Charlie's parcel, and his script.</context>
+      <utterance>...Good people. By the way, that package I gave you? I lied. It isn't mine. He leaves.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="4">
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Filtered through phone:</context>
+      <utterance>Fink! Morris or Lillian Fink! Eighty- five Fulton Street!</utterance>
+   <speaker>OPERATOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I understand that, sir –</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>Our track has brought Barton into frame in the foreground, unshaven, unkempt, bellowing into the telephone. In a hallway in the background, a secretary gestures for Barton to hurry up.</context>
+      <utterance>Or Uncle Dave!</utterance>
+   <speaker>OPERATOR</speaker>
+      <mode></mode>
+      <context>Barton slams down the phone.</context>
+      <utterance>I understand that, sir, but there's still no answer. Shall I check for trouble on the line?</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="24">
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fink.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Lipnik.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>He turns to face Barton and we see that he is wearing a smartly pressed uniform with a lot of fruit salad on the chest.</context>
+      <utterance>Colonel Lipnik, if you don't mind.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>Barton takes a seat facing Lipnik's desk.</context>
+      <utterance>...Siddown.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...I was commissioned yesterday in the Army Reserve. Henry Morgenthau arranged it. He's a dear friend.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Congratulations.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Actually it hasn't officially gone through yet. Had wardrobe whip this up. You gotta pull teeth to get anything done in this town. I can understand a little red tape in peacetime, but now it's all-out warfare against the Japs. Little yellow bastards. They'd love to see me sit this one out.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes sir, they –</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>He taps distastefully at the script on his desk, which has a slightly charred title page.</context>
+      <utterance>Anyway, I had Lou read your script for me.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...I gotta tell you, Fink. It won't wash.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With all due respect, sir, I think it's the best work I've done.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context>Listlessly:</context>
+      <utterance>Don't gas me, Fink. If you're opinion mattered, then I guess I'd resign and let YOU run the the studio. It doesn't and you won't, and the lunatics are not going to run THIS particular asylum. So let's put a stop to THAT rumor right now.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes sir.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I had to call Beery this morning, let him know we were pushing the picture back. After all I'd told him about quality, about that Barton Fink feeling. How disappointed we were. Wally was heartbroken. The man was devastated. He was – well, I didn't actually call him, Lou did. But that's a fair description, isn't it Lou?</utterance>
+   <speaker>LOU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, Colonel.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell, I could take you through it step by step, explain why your story stinks, but I won't insult your intelligence. Well all right, first of all: This is a wrestling picture; the audience wants to see action, drama, wrestling, and plenty of it. They don't wanna see a guy wrestling with his soul – well, all right, a little bit, for the critics – but you make it the carrot that wags the dog. Too much of it and they head for exits and I don't blame 'em. There's plenty of poetry right inside that ring, Fink. Look at "Hell Ten Feet Square".</utterance>
+   <speaker>LOU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Blood, Sweat, and Canvas".</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look at "Blood, Sweat, and Canvas". These are big movies, Fink. About big men, in tights – both physically and mentally. But especially physically. We don't put Wallace Beery in some fruity movie about suffering – I thought we were together on that.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry if I let you down.</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't let ME down. Or even Lou. We don't live or die by what you scribble, Fink. You let Ben Geisler down. He liked you. Trusted you. And that's why he's gone. Fired. That guy had a heart as big as the outdoors, and you fucked him. He tried to convince me to fire you too, but that would be too easy. No, you're under contract and you're gonna stay that way. Anything you write will be the property of Capitol Pictures. And Capitol Pictures will not produce anything you write. Not until you grow up a little. You ain't no writer, Fink – you're a goddamn write-off.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I tried to show you something beautiful. Something about all of</utterance>
+   <speaker>US –</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This sets Lipnik off:</utterance>
+   <speaker>LIPNIK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You arrogant sonofabitch! You think you're the only writer who can give me that Barton Fink feeling?! I got twenty writers under contract that I can ask for a Finktype thing from. You swell-headed hypocrite! You just don't get it, do you? You think the whole world revolves inside whatever rattles inside that little kike head of yours. Get him outta my sight, Lou. Make sure he stays in town, though; he's still under contract. I want you in town, Fink, and outta my sight. Now get lost. There's a war on.</utterance>
+   <speaker>THE SURF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Crashing against the Pacific shore.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="3">
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He stares, transfixed, at the woman.</utterance>
+   <speaker>THE WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very beautiful, backlit by the sun, approaching.</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Following her with his eyes.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="8">
+   <speaker>BEAUTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said it's a beautiful day...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes... It is...</utterance>
+   <speaker>BEAUTY</speaker>
+      <mode></mode>
+      <context>Barton shrugs and shakes his head.</context>
+      <utterance>What's in the box?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>BEAUTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Isn't it yours?</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>She nods and sits down on the sand several paces away from him, facing the water but looking back over her shoulder at Barton.</context>
+      <utterance>I... I don't know...</utterance>
+   <speaker>BARTON</speaker>
+      <mode></mode>
+      <context>She laughs.</context>
+      <utterance>...You're very beautiful. Are you in pictures?</utterance>
+   <speaker>BEAUTY</speaker>
+      <mode></mode>
+      <context>She turns away to look out at the sea.</context>
+      <utterance>Don't be silly.</utterance>
+</dialogue>
+
+
+</movie>

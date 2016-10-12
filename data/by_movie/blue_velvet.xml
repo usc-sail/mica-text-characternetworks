@@ -1,0 +1,3949 @@
+<movie id="90" title="Blue Velvet">
+
+<dialogue id="1" n_utterances="4">
+   <speaker>CLOSE - MR. BEAUMONT</speaker>
+      <mode></mode>
+      <context>The sky and the neighborhood are reflected in his dark glasses. He moves his false teeth around a little in his mouth, jutting out his chin in the process. He's thinking about who knows what. He looks back down at his lawn.</context>
+      <utterance>watches his watering, then looks up.</utterance>
+   <speaker>CLOSEUP - WATER ON GRASS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The water hits the grass and mats it down.</utterance>
+   <speaker>WIDER - MR. BEAUMONT</speaker>
+      <mode></mode>
+      <context>Water stops coming out of the nozzle and there is a LOUD HISSING NOISE of water under pressure.</context>
+      <utterance>moves the hose over a bush and gets a kink in it.</utterance>
+   <speaker>CLOSEUP - KINK IN HOSE</speaker>
+      <mode></mode>
+      <context>Mr. Beaumont goes around the bush and is undoing the kink when he is suddenly hit with a tremendous seizure.</context>
+      <utterance>Loud HISSING NOISE.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="2">
+   <speaker>GREGG'S MOTHER</speaker>
+      <mode></mode>
+      <context>She then turns to look out.</context>
+      <utterance>Gregg. Billy's waiting for his teddy.</utterance>
+   <speaker>GREGG'S MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>GREGG! Billy's waiting for his teddy, honey.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="2">
+   <speaker>LOUISE</speaker>
+      <mode></mode>
+      <context>As Jeffrey moves quickly toward the telephone.</context>
+      <utterance>Thanks for keeping me waiting so long.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, Louise.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="5">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't you come to the damn airport?</utterance>
+   <speaker>LOUISE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey. I can't. I really can't. I have to go to that class tonight. I can't get out of it. I really can't. I love you, Jeffrey. I'll miss you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alright. I'll call you in a couple of days, you know. I'll let you know how things are.</utterance>
+   <speaker>LOUISE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. I'll be here. You better git-going. I gotta go too sweetie. I hope your father's okay. I love you. I'm sorry, Jeffrey.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love you too, Louise. Damn it. I'll see you. They kiss.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="7">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>They AD LIB hellos.</context>
+      <utterance>Hi Mom. Hi Aunt Barbara.</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's all your things, Jeffrey?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Mrs. Beaumont looks at Jeffrey.</context>
+      <utterance>This is it.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I sent a trunk home yesterday. This is all I have.</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You look good, Jeffrey. Did you have a nice flight?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. How's Dad?</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's alright. We'll tell you on the way home.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="3">
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He had a cerebral hemorrhage and they think there's some sort of clot, or tumor, or something in there. They're doing all sorts of tests. On the surface, he looks pretty good, but there are problems. They think he may have to stay in two weeks now, at least. You can go see him though tomorrow, Jeffrey.</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They tore down the A &amp; P, Jeffrey. Did you see that?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aunt Barbara that was 5 years ago.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="17">
+   <speaker>31. INT. BEAUMONTS' KITCHEN/HALLWAY - DAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Beaumont is calling upstairs to Jeffrey.</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey, breakfast is ready.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode>V.O.</mode>
+      <context>Mrs. Beaumont joins Aunt Barbara at the breakfast table in the kitchen.</context>
+      <utterance>Be right down.</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is marvelous jam. Are you going this morning?</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context>Jeffrey comes down the stairs. Everyone says their "good mornings," and Jeffrey sits down to breakfast.</context>
+      <utterance>I think Jeffrey would like to see his father alone.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What time are visiting hours?</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've made arrangements with Dr. Gynde for 10:30. But Jeffrey, you'll have to walk over; I need the car this morning.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well. Okay.</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey, when you see your father.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah?</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He doesn't know you're out of school. He thinks it's a vacation for you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It would be too much for him. So please let him think as he does, that you're home just to see him.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks a lot, Mom.</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>.Jeffrey!. Nobody wanted you to leave school and go to work in the store. maybe going back to school will be an option one day. I hope so.</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think it's important not to get depressed. Depression is a terrible thing. They say it can bring on illness.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aunt Barbara. I'll try not to get depressed.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="2">
+   <speaker>NURSE CINDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please wait outside while Dr. Gynde prepares him to see you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>She peers into the room. Jeffrey does too.</context>
+      <utterance>Prepares him?</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="11">
+   <speaker>DR. GYNDE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello Jeffrey.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, Doctor Gynde. How is he?</utterance>
+   <speaker>DR. GYNDE</speaker>
+      <mode></mode>
+      <context>Nurse Cindy goes to the bed. She begins to pull the curtains back revealing Mr. Beaumont.</context>
+      <utterance>He's fighting hard. Jeffrey. it's very important that your father doesn't try to move. he's been immobilized. It would be very painful for him. sit close. you do the talking and moving. He knows you're here. He became very emotional. I don't think he likes the idea of you seeing him like this.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi Dad.</utterance>
+   <speaker>MR. BEAUMONT</speaker>
+      <mode></mode>
+      <context>Jeffrey goes to him and puts out his hand to shake his father's hand but remembers his father cannot move. Jeffrey pats him on the shoulder.</context>
+      <utterance>Hey Jeff.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks like they've got you strapped in pretty good.</utterance>
+   <speaker>MR. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>uh uh.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you feeling okay?</utterance>
+   <speaker>MR. BEAUMONT</speaker>
+      <mode></mode>
+      <context>Tears well up in Mr. Beaumont's eyes. Before Jeffrey can stop him he reaches for Jeffrey's hand, then struggling against tremendous pain he manages to form words.</context>
+      <utterance>uh uh.</utterance>
+   <speaker>MR. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good to see you, son.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Jeffrey squeezes his father's hand.</context>
+      <utterance>It's good to see you, Dad.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="2">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello. could you tell me if Detective Williams is still working here?</utterance>
+   <speaker>POLICE OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's up in Room 221. Right up the stairs.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="9">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you Detective Williams?</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My name is Jeffrey Beaumont - I live near you. I believe you know my father, Tom Beaumont - Beaumont's Hardware Store?</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure I do. I understand he's in the hospital. How is he?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's alright, I guess. I hope. They're doing tests, that's why I'm home from school. I was over at the hospital this morning and I was going home and in the field behind our neighborhood. there behind Vista, I found an ear.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You did? A human ear?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. I've got it here in this bag. I thought I should bring it to you.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context>Jeffrey opens the bag and lets Detective Williams look inside.</context>
+      <utterance>Yep, that's right. Let's take a look at it.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That sure looks like a human ear, doesn't it?. Let's run it down to the Coroner's Office and see what they make of it. Then, I want you to show me exactly where you found it.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="4">
+   <speaker>CORONER'S OFFICER</speaker>
+      <mode></mode>
+      <context>The Coroner's Officer turns to Jeffrey.</context>
+      <utterance>The tests will take awhile. Meanwhile, we'll check the morgue records. I don't recall anything coming in minus an ear.</utterance>
+   <speaker>CORONER'S OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now if you'd found a jaw or let's say, a heart, or even an arm, we would assume that there was a corpse, however, a finger or an ear. the person may very well be alive somewhere.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What can you tell about the person from the ear?</utterance>
+   <speaker>CORONER'S OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well. when the tests are done, quite a lot . Sex, blood type, whether or not the ear came off a dead person. Right now, I know what you know. It's a real human ear. The human was, or is, Caucasian. . also. It looks like the ear was cut off with scissors.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="3">
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By the way, Jeffrey, this story isn't going to the press and I'm going to ask you to consider all you've heard strictly confidential. Do not discuss this business with anyone, but me, or other police personnel. Got it?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got it. Thanks for letting me in on as much as you did.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on. I'll drive you home. It's on my way.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="6">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going out for awhile.</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you want the car?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm just gonna walk around.</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alright.</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey. you're not going down by Lincoln, are you?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Aunt Barbara and Mrs. Beaumont continue watching the television.</context>
+      <utterance>No. I'm just going to walk around the neighborhood. Don't worry.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="2">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello. uh. my name is Jeffrey Beaumont. Is Detective Williams in?</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, yes, Jeffrey. Come in. He'll be back any minute now. You're welcome to wait. Is it urgent?</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="3">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just wanted to ask him a few questions, that's all. Maybe I better go.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really, he'll be home soon, would you like a cup of coffee?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alright.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="6">
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was sorry to hear about your father. I know your mother from church. It's such a shame.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I know.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you like a piece of cake?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. No thank you.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a real good chocolate cake. Duncan Hines' devil's food. real good.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. okay.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="13">
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context>Sandy and Mike come into the kitchen. Jeffrey has a big piece of chocolate cake in his mouth.</context>
+      <utterance>Sandy?.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context>They all say "Hi" to one another.</context>
+      <utterance>Jeffery, this is my daughter, Sandy, and. her boyfriend, Mike.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mike's gotta go.  Nice to meet you.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, nice meetin' yuh.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>They leave and go out the front door.</context>
+      <utterance>Yeah. It was nice meeting you too.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He comes over to study.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>The front door opens.</context>
+      <utterance>Yeah.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Pam?</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context>Detective Williams comes into the kitchen surprised to see Jeffrey.</context>
+      <utterance>In the kitchen, John!</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context>He kisses his wife.</context>
+      <utterance>Oh. Hello, Jeffrey. what's up?</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come into the study a minute.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, Mrs. Williams.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context>Jeffrey follows Detective Williams into his study.</context>
+      <utterance>Certainly.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="6">
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context>Detective Williams speaks through the radio while Jeffrey shuts the door.</context>
+      <utterance>Shut the door.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Detective Williams here. yeah. Tell him to go to Sergeant Milton. yeah, copy.  Well, Jeffrey, you found something which is very interesting to us. Very interesting. I know you must be curious to know more.  But. I'm afraid I'm going to have to ask you not only not to tell anyone about your find, but also not to ask more about the case. One day. when it's all sewed up, I'll let you know all the details. Right now, though. I can't.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I understand. I'm just real curious like you said.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was the same way when I was you age. I guess that's what got me into this business.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It must be great.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context>Jeffrey studies Detective Williams' face as they walk back to the living room.</context>
+      <utterance>And it's horrible too.  I'm sorry Jeffrey. That's the way it has to be. Anyway. I'm sure you do understand.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="4">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Williams? Thanks for the cake.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you're welcome. Nice to finally meet you, Jeffrey.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say "goodnight" to Sandy.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context>Jeffrey leaves and they shut the door behind him.</context>
+      <utterance>We will. Good night.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="30">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Jeffrey stops and turns around. Sandy comes up to him.</context>
+      <utterance>Are you the one that found the ear.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, how did you know?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just know, that's all. I remember you from Central.</utterance>
+   <speaker>54. EXT. NEIGHBORHOOD STREET - NIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They slowly walk down the street together.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yeah?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were pretty popular. Didn't you run for some office?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah I did. treasurer. Shouldn't you be studying or something.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Am I bothering you?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. You're not bothering me. You a senior?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How is Central these days?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Terrible. boring.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What else is new?. right?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. What are you doing now?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm home from school. My father's in the hospital.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's too bad.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you know about the ear?. anything?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Didn't my father tell you not to talk about it?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on. you brought it up. Do you know anything?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't really know much but bits and pieces . I hear things. My room is right above my father's office. The ear. there's no corpse in the morgue missing an ear, and it did come off a living person. That's direct from the Coroner's Office. The person is unknown. There are a couple of cases I get mixed up on, but I think there are some people who were brought in for questioning on a murder case that could have something to do with the ear. I heard some of the same names.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know who was brought in for questioning?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There were at least three, maybe four. But a name that keeps coming up is this woman who lives in an apartment building very close to your house and also close to the field where you found the ear. There's also a business man over by the Franklin factory district that was questioned. and a musician. and some others.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Were all these people questioned this afternoon?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. this has been going on for some time . several months. About six months ago some parts of bodies were found down by the river. They were from people who were reported missing. They never found one complete body. only parts.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The ear is from a missing person maybe?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe so.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a strange world isn't it? Do you know what building the woman lives in?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. It's close by. that's what's creepy. They've had her under surveillance for a couple of months, except I don't know what they've found out because my father isn't in charge of her.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess you have to get back home soon?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not really, why?  You want to see the building?. Come on, I'll show you.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="14">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the building. She lives on the Seventh Floor. Don't stop to look long . the police are watching.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are they?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>They begin walking slowly back to Sandy's house.</context>
+      <utterance>I don't know. you're not supposed to see them. They're supposed to see you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did they find out anything when they questioned her?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. like I said, she's not my father's case.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>. Anything?</context>
+      <utterance>Oh yeah. What about those other people?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My father is watching the businessman. The businessman had a partner who disappeared. left his whole business and family, his wife and two kids. They think he's been murdered.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You really do hear a lot, don't you?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I guess so.  What are you going to do now that you're home?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have to help out in my father's hardware store. they're giving me sort of my own hours for a while. which is nice.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Still, it must be kinda rough.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not bad. but it's bad enough. it's a lot worse for my father.  I used to know a kid who lived there and who had the biggest tongue in the world. Jeffrey and Sandy both laugh.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened to him?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. he moved away.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="7">
+   <speaker>57. EXT. WILLIAMS HOME - NIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They arrive back at Sandy's home.</utterance>
+   <speaker>CLOSER ON JEFFREY AND SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>in front of Sandy's home.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've gotta go in.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Sandy just looks at him shyly before she turns to go up the front walk.</context>
+      <utterance>Thanks for the tour. It was nice talking to you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess I'll see you sometime.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess so. Like you said. It's a strange world.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Jeffrey watches as Sandy goes inside her house. He watches her house for a moment and sees her cross the living room. He turns and walks away. Again, the MYSTERIOUS CHORDS OF MUSIC swell up as Jeffrey walks through the night.</context>
+      <utterance>Yeah. Good bye.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="9">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You hungry or thirsty, or both?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd like to talk to you about something.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Sandy pulls her girlfriends away from Jeffrey's car and says something to them. There is some whispering and giggling and then,</context>
+      <utterance>Just a minute. pull over and wait a minute.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>The girls promise. Sandy goes around and gets in the car.</context>
+      <utterance>Please, don't say anything to Mike. promise?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to cause any trouble.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm here, aren't I?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess Mike's got some sort of sports practice in the afternoon.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ooooo, you are smart. Just don't get too smart.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="13">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alright, now tell me. What is it?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are opportunities in life for gaining knowledge and experience. sometimes, in some cases. it's necessary to take a risk. I got to thinking. I'll bet a person could learn a lot by getting into that woman's apartment. you know. sneak in and hide and observe.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You said it was a strange world. and you're the strangest part of it. Are you crazy.she is possibly involved in murder. This gives me the creeps.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Settle down. I have a plan which I think will work. There is very little for you to do, but I do need your help. .Aren't you curious about my plan?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It wouldn't hurt to hear the plan, I guess.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alright. the first thing is to get into her apartment and open a window that I could crawl into later.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now, how are you going to do that?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right out in the car I happen to have some old overalls and a bug spraying rig. I will go to her apartment and be the pest control man. I will spray her apartment. After a few minutes you will knock on her door, drawing her attention away from me and I will then jimmy a window.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What will I say when she comes to the door?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You will be a Jehovah's Witness. I have a few "Awake" magazines for you. You don't have to keep her very long. a few seconds is all I'll need. Whatiya think?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. it sounds like a good daydream, . but actually doing it is too weird. too dangerous.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's just try the first part. If that goes well, we'll see about the rest. No one will suspect us, because no one would believe two people like us would be crazy enough to do something like this.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've got a point there.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="3">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now. we'll walk over so there's no license plates and you give me at least three minutes. I can stall if it's more, but I need time to find a good window .alright?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alright.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's go.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="4">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, I'm going ahead. Wait a minute, what's her name?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh bother. Dorothy Vallens, Seventh Floor. Look on the mailbox for her number, bright boy.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks. Dorothy Vallens. Okay. good luck . three minutes, no sooner.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Jeffrey takes off in the direction of the apartment building.</context>
+      <utterance>Alright. Good luck, yourself.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="7">
+   <speaker>OLD LADY</speaker>
+      <mode></mode>
+      <context>Jeffrey forces a smile at her and after she's gone.</context>
+      <utterance>Well, it's about time you came.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>He keeps climbing. He arrives at the Seventh Floor. and finds Number 710. He knocks and waits. He looks around. the hallway is empty. DOROTHY VALLENS opens the door. She is a very beautiful woman in her late thirties. She has a beautiful full figure, dark eyes, black thick wavy hair. Full red lips. Right now, however, she looks a bit tired and a bit frumpy in an old terrycloth robe.</context>
+      <utterance>That's a good sign.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes? What is it?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pest control. gotta do your apartment.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh God, that stuff stinks.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope. it's new stuff. no smell.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yeah, that's good.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="3">
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>She opens the door. Jeffrey looks. It's not Sandy. A MAN, with a yellow sports coat, is standing there. Jeffrey begins to sweat, because the MAN looked around Dorothy to see him. Dorothy says something to the Man which Jeffrey cannot hear. The next time Jeffrey looks up, the Man is gone. The whole thing looks to be turning out badly when Jeffrey spots a key on the counter. On a long shot, he steals it just as the front door shuts. He wraps things up and gets out.</context>
+      <utterance>What is this. Grand Central Station?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That oughta do it.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="9">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you alright?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>As they go downstairs,</context>
+      <utterance>Yeah. let's get outta here. What happened?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was just about to go to the door, when that man did my job for me. Was it alright?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes and no. Did you recognize him?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I only saw his back. He went down another stairwell at the end of the hall.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't get a good look at him either, but he sure looked at me. I didn't have time to get a window, but I found this key.  Pretty nifty, huh?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, if it opens the door.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You go first.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="15">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So. what's next?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pretty clever. Are you game for more?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I owe you. since I goofed up this one.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't goof it up, but. you still owe me one. I want to sneak in tonight. It's Friday. do you have a date tonight?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I do.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it's Friday night and you're a beautiful girl. I guess you would have a date. that does that.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You really want to do this, don't you?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want you to get involved, really, I mean, I do, but if something went wrong I mean, like you said, they may be involved in murder. They pull up in front of Sandy's house.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll tell Mike I'm sick. There's a game tonight anyway and he'll never miss me. Afterwards he can go out with the guys. Just so the record is kept straight though, I love Mike. What do want me to do?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Try to find out where Dorothy sings.</context>
+      <utterance>First of all, we'll have a nice dinner.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I already know. The "Slow Club." It's on Route 7.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great. I'll pick you up around eight o'clock. Is that good?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but don't pick me up. my father may think it's strange. I'll walk over to your house. I'll be there at eight o'clock.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Sandy gets out of the car and without turning around walks into her house. Jeffrey calls out after her.</context>
+      <utterance>Okay. You better get out before someone sees us.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See ya!</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="10">
+   <speaker>DR. GYNDE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That will take care of you, Frances, for another week. I don't want you to overdo things either. Take it very easy.</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll see to it, Bill.</utterance>
+   <speaker>DR. GYNDE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good.</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I feel fine.</utterance>
+   <speaker>DR. GYNDE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not the point. You're under a great deal of stress. don't overdo it. don't be foolish. Jeffrey enters the room - to say goodnight.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>What's going on?</context>
+      <utterance>Doctor Gynde. my whole family's sick.</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context>Jeffrey points to his head and makes a circular "crazy" gesture. They all laugh, except Aunt Barbara.</context>
+      <utterance>I'm not sick.</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context>They laugh again.</context>
+      <utterance>We'll see who stays in my will.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I use the car tonight?</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context>They say their goodnights.</context>
+      <utterance>Of course, Jeffrey.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="5">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the plan.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>First of all, we're going to the Slow Club to see Dorothy Vallens. We'll watch her for awhile. I'd like to hear her sing anyway, and then also we'll know she is there and not in her apartment.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Brilliant.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then we'll drive back to her apartment and I will plant myself there.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is not my usual Friday night!</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="13">
+   <speaker>SLEAZY MAITRE D'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good evening. two?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. Could we get a small table in the back?</utterance>
+   <speaker>SLEZY MAITRE D'</speaker>
+      <mode></mode>
+      <context>They follow him and are seated.</context>
+      <utterance>Surely, come this way.</utterance>
+   <speaker>MAITRE D'</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I get you something to drink?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd like an ice-cold Heineken.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That sounds good.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two.</utterance>
+   <speaker>MAITRE D'</speaker>
+      <mode></mode>
+      <context>On stage a FAT COMIC is telling jokes. The jokes are tailored for this kind of working-class crowd. The people are laughing. The place is almost full. Jeffrey and Sandy are taking it all in.</context>
+      <utterance>Two Heinekens, thank you. The Maitre d' leaves.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When does Dorothy Vallens come on?</utterance>
+   <speaker>WAITER</speaker>
+      <mode></mode>
+      <context>After the Waiter leaves,</context>
+      <utterance>I don't know. pretty soon. Who knows.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>They pour their beers.</context>
+      <utterance>That guy was filled with information.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here's to. an interesting experience.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>They drink.</context>
+      <utterance>I'll drink to that.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="6">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey, I don't think you ought to do it.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's crazy and dangerous. My God. I shouldn't have told you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It'll be okay. I don't think you should wait out here though. I think you should go home. Can you drive this car?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. but.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leave it in the front of your house for me. okay?</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="16">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could you wait a little while. this key may not fit.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. I wish you wouldn't do this. It doesn't make any sense. Let's go somewhere and have some coffee.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going in, Sandy. I'll see you tomorrow and tell you how it went.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Mike's coming over.</context>
+      <utterance>I. I don't want to see you tomorrow.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, okay. can I call?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. yeah, call.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look. it can wait till Sunday.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call tomorrow. It's okay. Good luck. I hope you can sneak out okay. You're going to wait until she's asleep?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going to wait here until she comes.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you sure?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll honk four times so you'll hear it and know she's on her way up. Okay? Jeffrey nods.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. thanks.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know if you're a detective or a pervert.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's for me to know and for you to find out. I'll see you. I mean call you. okay?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Jeffrey gets out of the car and shuts the door. He looks in one more time at Sandy. They stare at each other silently. Jeffrey can see her lips in the black darkness of the car. Sandy watches him cross the lawn and go into the apartment building. She slides over and sits in the driver's seat.</context>
+      <utterance>Okay, okay. Bye.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="5">
+   <speaker>DOROTHY</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Thanks Jimmy, see you tomorrow. You want a drink, or something?</utterance>
+   <speaker>JIMMY</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I better get back. thanks anyway.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodnight.</utterance>
+   <speaker>JIMMY</speaker>
+      <mode></mode>
+      <context>The front door shuts and the living room lights go on. Jeffrey can see Dorothy come toward him. She walks RIGHT UP, almost to his face, when the phone RINGS. She turns immediately and goes to answer it. Jeffrey almost passes out. He thought he'd had it. He overhears.</context>
+      <utterance>Goodnight now.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>She hangs up the phone hard and puts her head in her hands.</context>
+      <utterance>Hello. yes. yes sir, Frank. Let me talk to him. Please Frank, sir. I like to sing Blue Velvet. Don? It's okay. Don't worry. Don??. can you hear me? Is little Donny OK? Is he there? Don? You mean Meadow Lane? Frank?! What's the matter with him? I know. When? Okay. In an hour. I'll be sweet. Momma loves you. Okay Frank, sir.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="17">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey. Jeffrey what?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey nothing.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You tell me!! Let me see that wallet.  Jeffrey Beaumont. What're you doing in my apartment, Jeffrey Beaumont?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wanted to see you.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? Are you kidding me? Who sent you here?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nobody.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit. You better tell me something.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was. an experiment. Just to see if I could do it.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An experiment? Hey, I've seen you before.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I sprayed your apartment. I took your key. I really didn't mean to do anything but see you.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me what you saw tonight. TELL ME.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>get undressed.</context>
+      <utterance>. I saw you come in, talk on the phone.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The phone. What did you hear on the phone . Tell me. Word for word.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Dorothy stares at Jeffrey studying him for some time thinking.</context>
+      <utterance>You said hello. to Frank. You wanted to talk to someone?. Don?. and little Donny. You said something about Momma loves you. and something about a Meadow Lane. something in an hour. I don't remember any more.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right. That's what I said. You have a good memory. Then what?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="9">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then you got undressed.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many times have you sneaked into girls' apartments and watched them undress?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never before this.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How'd you like it if someone sneaked into your house and watched you.  Get undressed. I want to see you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Come on.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>NO, you come on. Take off your pants. I want to see you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look. I'm sorry. Just let me leave.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Dorothy moves to the kitchen counter and gets a knife. She goes to Jeffrey. Now she has a knife and a gun. He's scared.</context>
+      <utterance>No way.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey begins to undress. First he takes off his shoes and socks, Then his shirt. He undoes his belt and unzips his pants and takes them off. Now he is only in his underwear.</context>
+      <utterance>Get undressed. I want to see you.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="20">
+   <speaker>STAND UP.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He does.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Dorothy has a strange look on her face. She reaches out and pulls Jeffrey's underpants down to his knees. She looks at him.</context>
+      <utterance>Come closer.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want from me?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I . I don't know.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Dorothy is getting very DREAMY and begins to talk in a childlike voice. She opens her robe and pulls Jeffrey to her breasts.</context>
+      <utterance>What do you want?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey's eyes close with nervous ecstasy as Dorothy begins touching him.</context>
+      <utterance>Don't move. don't look at me.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you like that?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>He tries to touch her.</context>
+      <utterance>Yes.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>She looks at him.</context>
+      <utterance>Don't move or I'll kill you.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you like talk like that?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>There's a KNOCK, KNOCK on the door. Dorothy looks VERY frightened. She quickly moves a finger to her lips in a "quiet" sign and whispers to Jeffrey.</context>
+      <utterance>Lie down on the bed. He lies down. He looks frightened.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, baby.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up. It's daddy. shithead.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, daddy.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Dorothy goes into the kitchen to get Frank his drink. As she passes the closet, Jeffrey can see the fear in her face. She returns with a small glass of bourbon and hands it to Frank. Frank sips on it.</context>
+      <utterance>. my bourbon.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Dorothy brings a small chair over from the wall and sits down. She adjusts her robe.</context>
+      <utterance>. sit down. get your chair.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Dorothy slowly spreads her legs. She can see Jeffrey staring out of the darkness of the closet at her.</context>
+      <utterance>. spread your legs.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>She opens her legs wider. Frank looks at her crotch and drinks his bourbon. He stares at the floor for a moment, then slowly looks back at Dorothy, her body - her crotch. Dorothy looks up at the ceiling, waiting. Frank suddenly reaches to his belt, where he has a small canister and a mask. He opens a valve on the canister and places the mask over his nose and mouth. The canister is filled with helium, which makes Frank's voice very high and strange sounding. The result is frightening.</context>
+      <utterance>wider.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Dorothy jumps. She keeps looking at the ceiling.</context>
+      <utterance>. mommy.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="2">
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. mommy's here.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Then, Frank's voice goes to normal.</context>
+      <utterance>Baby wants to fuck.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="30">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Dorothy opens her robe and gives a part of the robe to Frank.</context>
+      <utterance>Baby wants blue velvet.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Frank slowly moves his mouth to the robe and runs his lips along the texture of the velvet. His hands rub the velvet and feel Dorothy's body underneath. His hands start feeling her breasts as he sucks and bites the velvet robe. Dorothy is very frightened but she is getting hot in spite of her fear. Then Frank, in a sort of sickening way, pulls Dorothy down to rug. He warns her.</context>
+      <utterance>Okay. Frank slowly moves</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>He begins stuffing part of the robe into her mouth. Then, he pushes her arms back and she keeps them back, letting Frank have his way. Frank sucks and bites the velvet coming out of her mouth, while he pinches and feels her breasts in a strange, compulsive, timidly sickening way. Dorothy is moaning. Frank is breathing very heavily. He feels her crotch.</context>
+      <utterance>Don't look at me!</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>He starts stuffing the robe in his mouth now and he gets on top of Dorothy. He starts humping her and pulling her nude body up and down him. Faster and faster, then he has a climax in his pants. Dorothy's head is falling back. She can see Jeffrey blurred in the distance - in the closet. Cautiously, she looks sideways at Frank.</context>
+      <utterance>Don't look at me!!!  Daddy's home.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Frank leaves and shuts the door. The apartment is silent except for Dorothy's moans. Jeffrey is stunned. He doesn't move. He watches Dorothy in the half-light. She rolls over and starts crying. The crying is deep and genuine. Slowly, Jeffrey emerges from the closet and goes to her. He bends down and touches her. She flinches and turns to see him. She turns back sobbing. He tries to get her up.</context>
+      <utterance>Stay alive baby. See you next Christmas!</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>She struggles up with Jeffrey's help and he takes her over to the bed. She falls down on her side, turned toward the wall. He covers her with the sheet.</context>
+      <utterance>Why don't you come lie down. Come on, I'll help you.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't.  I don't like that. What do you want?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing. Are you alright?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>(she starts crying again)</context>
+      <utterance>Sure I'm alright.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>He starts to put on his underwear. They're inside out. He tries to turn them around.</context>
+      <utterance>I'll go then.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey turns to her. He studies her. He reaches out and takes her shoulders. He moves down and holds her.</context>
+      <utterance>Don. Hold me. I'm scared. Hold me. Please.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you. honey.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>They lie together for a long silent moment.</context>
+      <utterance>It's okay. It's okay.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you like the way I feel?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey looks.</context>
+      <utterance>See my breasts? . See?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See my nipples?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey can't help himself. He licks and sucks her nipples and feels her breasts. They both are getting very hot.</context>
+      <utterance>Go ahead. I don't mind.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey is all over her now. Dorothy suddenly seems to recognize him.</context>
+      <utterance>Feel me.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can hit me, if you want to.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Dorothy arches back and whining she throws her head back hard against the wall.</context>
+      <utterance>No. please. I won't.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>She moves and won't let him feel her anymore. She holds his hands away.</context>
+      <utterance>Stop it!</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you like me?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I like you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Suddenly Dorothy slaps Jeffrey in the face. very hard.</context>
+      <utterance>What's the matter?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey gets off her, pressing his hand to his face. Dorothy goes into the bathroom crying all the way. Jeffrey sits, confused. Suddenly Jeffrey hears a horrible scream from Dorothy. A true scream of horror. He rushes into the bathroom to see what is wrong.</context>
+      <utterance>Get off me.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="3">
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I made it go down the toilet.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>He looks in the swirling water. It looks like an ear revolving around and around then whatever it is disappears.</context>
+      <utterance>What?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey looks up. he sees written with a bar of soap the words "look down" on the mirror. He looks down into the sink. At the bottom he sees a small clot of blood and a smear of fresher blood. Jeffrey suddenly remembers mentally Frank's high helium voice reverberating in the bathroom.</context>
+      <utterance>I made it go down the toilet.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="8">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Next Christmas. Is he Santa Claus who has left a present for Dorothy? What was it? An ear? Another ear?!!  What was it?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you know?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. What is happening?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you don't know. I know you though. You're Jeffrey Beaumont and I know where you live and I know ways to get you and I know ways to kill you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please don't talk like that. You're upset. I'm not helping you. I'm sorry for what I did. I better go.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go then. I can't let you put it in me now but I want you. I like you.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="4">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then don't talk about killing.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did I say that?. I didn't mean it. or did I?  Sometimes I think it would be fun.  Go ahead, you better leave now. I can't open myself to you now. I'll tell you a little secret.  I want to die.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't say that.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a secret so don't tell anyone. Some day I'll show you where. I've gotta go to sleep now.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="2">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>She is whispering something to herself.</context>
+      <utterance>I'm leaving now.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey doesn't know what he can do.</context>
+      <utterance>Help me. help me. please help me.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="4">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God. you scared me.</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is something wrong? What's happened to your face?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing. I'm fine.</utterance>
+   <speaker>MRS. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't just stay out half the night and carry on, Jeffrey. There's got to be some order, Jeffrey. I thought it would have been nice to call your father when you got home but now it is much too late.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="5">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Jeffrey dials the phone.</context>
+      <utterance>How can I help her? I can't tell her to go to Detective Williams. She'll think I'm a policeman. She has my address. She can go there. if she has to. I'll tell her. and her. and she thinks I'm Don. her husband? Where the hell is Don? - maybe he died.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello?. Mrs. Williams?. This is Jeffrey Beaumont. Fine. Okay. Is Sandy there? Okay. Hi Sandy. Can you talk? He is?. Well, I guess I'll talk to you later on. It went okay. I'll tell you about it. Dinner?. Tomorrow night? Seven o'clock, yeah, sounds good. Okay. he's still in the hospital. Okay, yeah. See you tomorrow. thanks.</utterance>
+   <speaker>102. INT. HOSPITAL LABORATORY - DAY</speaker>
+      <mode></mode>
+      <context>A DOCTOR is looking at various blood samples under a powerful microscope. Various sophisticated gadgets are seen in CLOSEUPS.</context>
+      <utterance>The searching, mysterious MUSIC plays over while,</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>This is what my father's disease looks like?</utterance>
+   <speaker>DR. GYNDE</speaker>
+      <mode></mode>
+      <context>The BLOOD is seen in CLOSEUP. Cells are moving. The Doctor makes a change in magnification. The cells are huge - then, even bigger. They are so big we can hear them moving.</context>
+      <utterance>Yes.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="4">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A table in back, please.</utterance>
+   <speaker>MAITRE D'</speaker>
+      <mode></mode>
+      <context>Dorothy is singing her opening song as the Maitre d' seats Jeffrey.</context>
+      <utterance>Certainly</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll have an ice-cold Heineken.</utterance>
+   <speaker>MAITRE D'</speaker>
+      <mode></mode>
+      <context>Jeffrey surveys the place after the Maitre d' leaves. It is very dark and smoky inside. He has trouble seeing, but suddenly he spots Frank sitting with some other GUYS watching Dorothy sing. They are sitting two tables away. Frank is totally captivated by Dorothy's singing and is very serious- looking. He looks right up to her eyes. In his hand he works a small piece of blue velvet cloth with his fingers. Again her first number, "BLUE MOON," segues into "BLUE VELVET." This song she sings mainly to Frank. When it is over Frank continues watching Dorothy and everyone else applauds loudly. Jeffrey drinks up his Heineken and goes back outside.</context>
+      <utterance>One Heineken, certainly, sir.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="2">
+   <speaker>107. EXT. CITY STREETS - NIGHT</speaker>
+      <mode></mode>
+      <context>He follows them to an intersection where they turn off to the right. He waits at a light right behind them. Inside they are lighting cigarettes. The light turns green and Frank takes off. Jeffrey follows them through a dark area down by the docks. He follows them up a narrow street through dark factories.</context>
+      <utterance>The mysterious MUSIC plays.</utterance>
+   <speaker>108. EXT. FRONT STREET - NIGHT</speaker>
+      <mode></mode>
+      <context>Up ahead, Frank parks his car. Jeffrey quickly pulls over and kills his lights and engine. He watches Frank and his friends enter an old apartment building next to a bookbinding factory. They disappear within. The electric lines above buzz loudly. Jeffrey gets out of his car and walks up the deserted street. He reaches Frank's car which is making popping and clicking NOISES as it cools down. He looks at the license plates - walks a few paces ahead and then writes it down in his notebook. He continues on to the apartment building.</context>
+      <utterance>Dark, low MUSIC now.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="2">
+   <speaker>115. EXT. VACANT FIELD - NIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. and runs through the vacant lot.</utterance>
+   <speaker>116. EXT. APARTMENT BUILDING - NIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. to Dorothy's building.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="2">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi. can I come in?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>They go inside.</context>
+      <utterance>Yeah. hurry up though.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="29">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Dorothy breaks down crying.</context>
+      <utterance>Are you alright?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey goes to her.</context>
+      <utterance>No. I'm not.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you here. whatiya want?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. I. uh.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I looked for you in my closet tonight.  It's crazy, I don't know where you came from but. I like you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Dorothy looks up. They stare at each other for some time.</context>
+      <utterance>That's not crazy. I like you too.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I liked being with you last night.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>There is a loud knocking on the door.</context>
+      <utterance>. same here.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh shit.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frank? .can you stand up?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey gets in the closet and Dorothy closes the door. She holds her head collecting her fragile self. Dorothy goes to the door and opens it. It's the Man with the Yellow Sports Coat - tonight he's wearing a purple sports coat and light blue double knit pants. His eyes are glazed and his face is broken out in a sweat.</context>
+      <utterance>I'm alright. go hide. This won't take long. Be quiet.</utterance>
+   <speaker>YELLOW MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frank gone?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. but get outta here. He's comin' back.</utterance>
+   <speaker>YELLOW MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bull.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alright, suit yourself.</utterance>
+   <speaker>YELLOW MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's comin' back?. What for?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Frank's got you really loaded tonight.</context>
+      <utterance>'Cause he's comin' back, that's what for.</utterance>
+   <speaker>YELLOW MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, maybe so. Frank's got me. and you. and really it's all thanks to Don. isn't it. remember that. Your husband was the one who started fucking my mind with drugs.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh he forced you, huh?</utterance>
+   <speaker>YELLOW MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's the reformed dealer though who wanted to turn himself in. he's the one that caused Frank to come and Frank's fucking us real good. I just feel so horny. I'm supposed to be here watching you why can't I be here fucking you. Listen. I know his cock's the size of a pin - let me give you the real thing. let me wet my whistle, baby.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>I'm gonna tell him what you said.</context>
+      <utterance>No way. get out. I'm gonna tell Frank.</utterance>
+   <speaker>YELLOW MAN</speaker>
+      <mode></mode>
+      <context>Dorothy kicks the door after he closes it, then she chains it. Jeffrey comes out of the closet.</context>
+      <utterance>Okay, I'm goin'. You'll see. I'll get you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nice guy. Who's he?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>SUDDENLY, Dorothy starts to shake and cry. Jeffrey grabs her and shakes her and holds her tight to him. She starts sobbing again.</context>
+      <utterance>Who's it, you mean.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh God. Don!!! Why can't I just die.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>You can make it.</context>
+      <utterance>There you go again. stop saying that.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't. I can't. You think you know so much.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Dorothy is sobbing and Jeffrey is holding her. There is a long silence and she calms down.</context>
+      <utterance>Take it easy. What's goin' on anyway?. Why are you in so much trouble?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Dorothy takes Jeffrey through the kitchen and out the back.</context>
+      <utterance>I. don't. okay. Just don't. just be with me.  Oh God. Come with me. Who are you. Come up here.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="16">
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Falling.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>He moves closer to her.</context>
+      <utterance>No. Please, Dorothy. Why are you in so much trouble?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who is Don?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don?. Are you in with them?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. But you're in very big trouble.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you so interested? Why do you keep asking me?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came back to help you. You said do I let girls sneak into my house. You know where I live. if you need to. come to where I live. O.K.?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you? Maybe I'll need to. you like me, huh?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. or do you just want me? I'm going to let you enter me now.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I should go.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>She makes him kiss her. he really likes it. Once again, Jeffrey and Dorothy get VERY HOT. Dorothy and Jeffrey lie down on the roof. Dorothy cries out suddenly and bangs her head hard again and again against the roof.</context>
+      <utterance>Please. please stay.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>We move very close to Jeffrey's ear as Dorothy's lips come up and whisper into it.</context>
+      <utterance>Why Dorothy?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>She reaches up and clutches Jeffrey then pulls him down with a feverish kiss. Lightening cracks above them and the wind howls.</context>
+      <utterance>Don? I have to make it hurt. I want there to be nothing again. Don!!!</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="6">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you tell Mom when she gets home from the hospital that I've gone to dinner at Sandy Williams' house?</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context>I think you've got termites in the house.</context>
+      <utterance>Okay honey. that sounds nice. Jeffrey.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yeah?. Have you seen any?</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've seen a few.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I haven't seen any. I wouldn't worry about it. Look. I better go.</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context>Jeffrey leaves and Aunt Barbara moves about tapping on the walls. She moves into a dark area and taps. Something falls. She reaches down. In EXTREME CLOSEUP we see a termite walking by her shoe on the thick carpet. Then in EXTREME CLOSEUP we see Aunt Barbara's fingers pinch the termite and bring it up in front of her thick glasses for a look. She looks at the termite, then looks back at the walls. We GLIDE ALONG the dark walls of the house.</context>
+      <utterance>Okay honey.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="20">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We thank you in the name of the Father, the Son, and the Holy Ghost. Amen. They start passing food around.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like I was saying. if you toss the ball like this, with your fingers just down here, that thing'll spin like a beauty. real straight.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah? Then how come nobody caught anything last week?.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Cause we had a bad day.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You play any sports, Jeffrey?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks like you'd make a good runner.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Jeffrey looks around and sees Sandy looking at him. She then gives a stern look to Mike. Then Mike and Sandy both look at Jeffrey.</context>
+      <utterance>I mean, you don't exactly have the build for a football. I mean. no offense.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. you're right.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean. some guys play anyway but they usually get slaughtered.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, well I never wanted to get slaughtered much.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, most guys don't. I mean that's the point. You all mind if I take my vitamins?</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context>Everyone laughs.</context>
+      <utterance>No, Mike. but there are vitamins in the food, you know.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but I gotta supplement that. I gotta take a bunch of zinc too. The body is like a machine. EVERYTHING has got to stay in perfect tune for perfect health. That's what I'm interested in. Sandy looks at Mike.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Everyone laughs again.</context>
+      <utterance>Oh yeah. and a few other things.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've got some Heinekens.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. I like Bud myself.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll get it. Mike, whatiya want?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Sandy and Jeffrey share a look.</context>
+      <utterance>I guess another glass of water.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="44">
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context>Jeffrey and Sandy say "yes."</context>
+      <utterance>Who wants dessert? It's blueberry pie. and ice cream.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Jeffrey looks over at Sandy. Mike sees this. There is more tension growing.</context>
+      <utterance>None for me, thanks.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are watchin' this junk for?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can change it if you want to.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know why we have to watch T.V.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Mrs. Williams comes downstairs carrying a tray with dessert.</context>
+      <utterance>Mike. We don't have to watch it. Come on.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here you are. Would anyone like coffee?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That sounds great!</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context>Mrs. Williams goes back upstairs. Jeffrey and Sandy start eating their dessert. Sandy watches Jeffrey happily wolf down his pie. Mike stands up.</context>
+      <utterance>Anyone else?. Alright Jeffrey, just a minute.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>He leaves as if he's going to go upstairs. Once around the corner he stops and listens to see what Jeffery and Sandy will say to one another.</context>
+      <utterance>I'll be right back.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, how did it go?. What happened?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well. I've found out some things. nothing really for certain. There are some strange people involved.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you see?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>(looking around, feeling funny) Maybe we should discuss this somewhere else. you know what I mean? Just then, Mrs. Williams starts down with the coffee for Jeffrey. She sees Mike at the bottom of the stairs. This seems strange to her.</context>
+      <utterance>Well.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context>Mike starts upstairs.</context>
+      <utterance>Mike?. Are you alright?</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Downstairs, Jeffrey and Sandy hear that Mike was close by. Mrs. Williams and Mike pass on the stairs and Mrs. Williams enters the basement. She throws Sandy a concerned look. Just then, Mike calls downstairs.</context>
+      <utterance>Yes.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sandy?. Could I talk to you a minute?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. just a sec.  Excuse me.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on out a minute, okay?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>They leave.</context>
+      <utterance>Okay.</utterance>
+   <speaker>125A. INT. WILLIAMS' BASEMENT - NIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Downstairs Mrs. Williams picks up some dishes.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please excuse me a moment, Jeffrey, and I'll get to the dishes.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure thing. please don't worry about me. Can I help you with the dishes?</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context>Detective Williams comes to the top of the stairs and calls down.</context>
+      <utterance>Nice of you to offer, Jeffrey, but certainly not. just relax and enjoy your coffee. I'm sure Sandy will be back soon.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes?</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you want to come up a minute, I'll show you some pictures.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These are beautiful. How's the case coming?</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anything you can tell me?</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The criminals are winning.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that why you say it's horrible?</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess you've seen some bad things.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes I have - so bad I wouldn't poison your mind by telling you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do you do it?</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't let the bastards get me up against the wall. It's an act of defiance.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Suddenly Jeffrey sees something in the black and white photos. A piece of cloth in the grass. Carefully he asks.</context>
+      <utterance>Yeah. I get it.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is this? What color is it?</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context>Sandy comes into her father's study looking upset. Detective Williams puts the photos away.</context>
+      <utterance>Blue. It's Blue Velvet.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I use the car for a while?</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. What's up?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to buy Jeffrey a Dairy Queen.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A Dairy Queen?  Oh yeah? Sure, that sounds great.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="6">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's with Mike?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He got a little jealous.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, I didn't.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Jeffrey and Sandy smile at one another. They drive on.</context>
+      <utterance>It's okay. Don't worry about it. The car glides along.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want a Dairy Queen?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No way. I'm about to blow up.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="20">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to tell me about it?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. OK. It's a strange world, Sandy. this is what I have found out. What I think I have found out. Dorothy Vallens is married to a man named Don. they have a son. I think the son and the husband have been kidnapped by a man named Frank who has now cut off both of Don's ears. I think he is holding them to make her do things for him. I think she wants to die. the ears were for her a warning to stay alive. there is another man involved. I call him the "yellow man". you saw his back the other day in the hall at her door. I don't know what he does but I think he's on drugs supplied by Frank. Frank is a very dangerous man.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow. Should you tell my father?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't see how I can. and I can't prove any of this. I got all this information illegally. also it could get you in trouble.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You saw a lot in one night.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>. Actually. I've been in twice.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twice. without her sensing anything?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you see her undressed?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. I mean. a little, . you know.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That doesn't bother you, does it?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who, me? Why should it?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what I thought.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're sure right. It is a strange world.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are there people like Frank. Why is there so much trouble in this world.?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. I had a dream. in fact. the night I met you.  . in the dream the world was dark because there weren't any robins. you know, birds. robins stood for love. and all of a sudden thousands of robins flew down and brought this blinding light of love. and it felt like that love would be the only thing that would make any difference. I guess. until the robins come there is trouble.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah I guess so.  You're a neat girl.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So are you.  I mean you're a neat guy. We better get back.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Sandy starts the car and pulls out into the street. They begin driving back.</context>
+      <utterance>I guess so. you want to help me watch Frank?. I'm going to stake out Frank's place tomorrow. with a camera.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="4">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, silly - I'm still in school you know. but I'll meet you after school and you can tell me what you've learned. You better be careful, Jeffrey.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>They pull up in front of Jeffrey's house.</context>
+      <utterance>I will. I'll pick you up on the same corner at three thirty-five, okay?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. be careful.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, Sandy.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="5">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I give you a kiss good night?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You better not, Jeffrey.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. okay.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodnight.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Sandy slowly drives off. Jeffrey watches her go then turns and goes inside his house.</context>
+      <utterance>See ya tomorrow.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="2">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Jeffrey hangs up immediately. He's scared.</context>
+      <utterance>Hello? FRANK  Speak to me Fucker.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stupid!! So stupid. now she might be in even more trouble with Frank. I hope not. I hope not. tomorrow I have to find out more about Frank.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="2">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Just then, he sees movement and takes the box off the camera. He starts shooting as TWO MEN come out the door. It is the Yellow Man and a man who is very well dressed with wavy hair and a mustache. He carries an alligator-skin briefcase FRANK HAS DISAPPEARED. Both are talking together and now laughing. Jeffrey takes five or six pictures and then tries to cover the camera as they approach. The box falls. The Yellow Man looks, but Jeffrey gets the box back in time and pretends to be looking in the glove compartment. The two men walk right by Jeffrey and get into the car behind his. Jeffrey decides to follow them. He waits a few seconds and starts off.</context>
+      <utterance>Fifteen more minutes.</utterance>
+   <speaker>136. EXT. CITY STREET - DAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They drive through town.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="7">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened?</utterance>
+   <speaker>GUY #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was blown away man. can't you see?</utterance>
+   <speaker>GUY #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That cracker was the biggest dealer in this section of the city, brother. the police are going to find more drugs in there than you can believe. It's a speedball heaven in there.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yeah? What about the woman?</utterance>
+   <speaker>GUY #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Probably just a whore he happened to be with at the time.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Man oh brother.</utterance>
+   <speaker>GUY #1</speaker>
+      <mode></mode>
+      <context>Jeffrey takes a last look before checking his watch and hurrying off.</context>
+      <utterance>This is the way the world is my man. take a good look.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="6">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh great.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were late.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm really sorry.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What am I going to do?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to go talk to him?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but. I don't think it's going to do much good. Let's go. I'll try to talk to him later.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="20">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, that cheese is practically all chemicals.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what makes it so good. You wanta hear what I saw today?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shoot.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Number one. I saw the Yellow Man go into Frank's building, laughing with Frank. Now. the only trouble is. what does this prove?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing really, but it's interesting. they know each other. they seem to like each other.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe. But I think the Yellow Man is on drugs. I think Frank supplies him.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yeah?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Number two. I saw the Yellow Man come out. This time with a well-dressed man with an alligator briefcase. They drove down this factory building and stood on a staircase looking at something in the distance. Number three. now get this. In the distance was a murder. a drug dealer shot to death and a woman with her legs broken.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey!!</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then these guys told me the police will find a huge amount of drugs inside the dead man's place.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't believe what you are finding out. Are you going to continue with this. Are you going back to her apartment?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey?. Why?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm seeing something that was always hidden. I'm involved in a mystery. I'm learning. and it's all secret.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You like mysteries that much?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Jeffrey stands up and moves to her side of the booth. They stare at each other.</context>
+      <utterance>Yeah. you're a mystery. I like you. very much.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Jeffrey leans over and kisses her gently. She pulls away.</context>
+      <utterance>Oh yeah?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Jeffrey looks at her for a moment.</context>
+      <utterance>Don't. please, Jeffrey.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You worry about me really?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. is that so surprising?. Yeah I worry. a lot. I got you into this.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="14">
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come in.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>144. INT. DOROTHY'S APARTMENT - NIGHT</speaker>
+      <mode></mode>
+      <context>They kiss. The kiss gets hotter. The feeling begins. They move down the hall to the back bedroom. They've never made love there. As they hurriedly undress Jeffrey sees the pointed child's hat with the propeller. He picks it up and spins the propeller. It makes a bit of music. Dorothy shrieks as she lurches toward Jeffrey grabbing his hand, stopping him from turning the tiny propeller. She gains some control of herself. Jeffrey releases the hat into her hand.</context>
+      <utterance>Dorothy closes the door. She chains it.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It used to make me laugh .but.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry .maybe I better go Dorothy.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Frank-</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frank is coming?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. how could he?. Don't go. You think I'm crazy, don't you? I want you to stay.  . don't hate me.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I sure don't hate you.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not crazy.  I know the difference between right and wrong.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Jeffrey moves to get out of bed.</context>
+      <utterance>That's good.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you like my body?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>She moves closer to him, towards his back touching it with her tongue. She gets down in a pose and holds it.</context>
+      <utterance>Sure I do.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey's hands find her flesh and move about.</context>
+      <utterance>I'm a statue. you can feel me.you can do anything you want.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="54">
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want to do?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm doing it.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you a bad boy?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatiya mean?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you want to do bad things?  Anything. anything.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want you to hurt me.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I told you. I don't want to hurt you. I want to help you. I think I know some of what is happening to you.  . Dorothy? Frank has your husband and son. Dorothy? Doesn't he? You have to do something Dorothy. go to the police.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Suddenly, Dorothy gets very odd. She turns into a little girl. She has a frightening little girl smile.</context>
+      <utterance>No police!!!.  No police!!</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You like to open me. don't you?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>For just one quiet moment we see the stairway to Dorothy's apartment. It is empty. Then back to Jeffrey and Dorothy.</context>
+      <utterance>What if I told Frank that you opened me?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That wouldn't be too good, would it?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frank would open you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. I know you've been scared. now you want to scare someone.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does that scare you?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Beeeee careful.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on Dorothy.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>The curtains in the kitchen bellow out with an eerie gust of wind.</context>
+      <utterance>What if Frank came over here and found us?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, snap out of it, will ya?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>They kiss.</context>
+      <utterance>Kiss me.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you love me?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you love me?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I asked first.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes I think I do.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And sometimes you think you don't?! Well, get away then! She bolts up.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute. Wait. Whatiya want? For cryin' out loud!</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>She hits out at Jeffrey and strikes him in the face. Jeffrey struggles with her to keep her from hitting him again but she breaks loose and slams out at his face again. He pushes back hard and her head actually hits the wall. She smiles through the pain.</context>
+      <utterance>Just get outta my bed.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>She falls on him and smothers him with kisses.</context>
+      <utterance>Oh God. are you alright.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>We move very close to Jeffrey's ear as Dorothy's lips come up and whisper into it.</context>
+      <utterance>See. see how you hurt me? Now. Open me. enter me. Jeffrey moves on top of her in the darkness.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love you Don with all my heart.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>But he can't stop himself or her from making love.</context>
+      <utterance>No. it's not Don.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>The movement subsides. There is silence in the room, except for breathing.</context>
+      <utterance>Come inside me. Oh yes, oh yes, oh yes.  Oh yes, oh yes, oh yes.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't mean to hurt you.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shhhhhh. Now I have your disease.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You. what?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>it's hot and full of disease.</context>
+      <utterance>You put your disease in me. your semen.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's no disease, I can tell you.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Men are crazy. then they put their craziness into me. then it makes me crazy. then they aren't so crazy for awhile. then they put their craziness in me again.  . it's burning me. but I love you. I do, I do. Did you know that? Did you know that I love you?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm glad you do.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's so much I want to tell you. I'm in so much darkness though with things moving. there is darkness sucking me. It's kissing me and darkness is entering me. in every hole. It's opening me to a death.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dorothy. no!</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I die, then they'll be free. It's getting late, isn't it? I can tell. it's a cold feeling when it's late. It's warm then it gets cold. Jeffrey. I feel it getting cold.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You called me Jeffrey.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did. are you?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you here?  Hmmmmmmmm!!!! Ok.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Dorothy stops and looks at him - she holds his face. She starts to cry.</context>
+      <utterance>No. not really.  but also because I really want you to be alright.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>She continues holding his face - looking in his eyes crying openly. he pulls him down to her.</context>
+      <utterance>You do .you really do.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey smiles.</context>
+      <utterance>Jeffrey. Jeffrey. Jeffrey.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess I should go.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want you to stay with me.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think I better go.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="19">
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Jeffrey doesn't know what to say. He starts walking toward the door with Dorothy beside him.</context>
+      <utterance>You're my special friend, aren't you?  I have you inside of me still.  It helps me. I need you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll call you.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. soon? Do you think I'm too fat?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm getting a little bit fat. I hate that.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>She pats her hips.</context>
+      <utterance>You look beautiful to me.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Dorothy takes the chain off the door and opens it. The hall is empty. There is some noise on the stairs. Suddenly, Frank and TWO FRIENDS of his come into view on the stairway.</context>
+      <utterance>Right in here. fat, fat, fat.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh no.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.  Hi baby.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's this fuck?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>we were just talking.</context>
+      <utterance>He's a friend. from the neighborhood.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>From the neighborhood?  Shut the fuck up.  You like telephones? Huh?. You wanta go for a ride?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No thanks.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No thanks. what does that mean?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to go.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go where?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On a ride.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A ride?. Hell, that's a good idea. okay, let's go. Hey, let's go. Frank grabs Jeffrey and pulls him along.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on. We're goin' for a joy ride.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="4">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on. I wancha to meet a frienda mine. Raymond, get enough beer for Ben too.</utterance>
+   <speaker>RAYMOND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay Frank.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What kinda beer do you like?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heineken.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="2">
+   <speaker>JEFFREY</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>What color is it?</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>It's blue. blue velvet.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="4">
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey Frank I'm sorry buddy.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah?. get ready for a love letter. When you least expect it.</utterance>
+   <speaker>WILLARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frank. please man.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Frank pushes him down on the bed with the dried vomit whore. They leave Willard.</context>
+      <utterance>A big love letter.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="4">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>A tall, slender man with a smoking jacket and a mustache opens the door. It's BEN. His voice is very horse from years of smoking.</context>
+      <utterance>Hey Ben. OPEN UP. It's Frank.</utterance>
+   <speaker>BEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frank. Come in.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, I brought some friends. and some beer.</utterance>
+   <speaker>BEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine. Welcome. Come sit down.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="25">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>You want some beer?</context>
+      <utterance>Suave. goddam are you suave, you fucker.</utterance>
+   <speaker>BEN</speaker>
+      <mode></mode>
+      <context>Everyone kinds of mills around. Paul sits down in a chair and starts laughing at some private joke in his head.</context>
+      <utterance>Certainly Frank.  Darling, get some glasses. We'll have some beer with Frank. Won't you sit down?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit Ben! How the shit are ya?</utterance>
+   <speaker>BEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine Frank. Fine. How are you?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>this little tid bit, Dorothy, and this thing, here, (referring to Jeffrey) is a neighbor. What the shit we're doin' with a neighbor, I don't know. goddam!!!(referring to Ben) This is the suavest guy I know. look at you. You're one beautiful fucker, Ben. I love this jacket and that cigarette holder of yours. shit, that is too fuckin' much. Where's those glasses. this beer's gonna get too warm. I can't stand fuckin' warm beer. it makes me puke.</context>
+      <utterance>Fuckin' good, real fuckin' good. You know</utterance>
+   <speaker>BEN</speaker>
+      <mode></mode>
+      <context>The Big Lady brings the glasses in and sets them on the card table. She looks worried. She gives a helpless pleading look to Ben.</context>
+      <utterance>Darling, where are the glasses?. Oh. here they are.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Raymond! Where's the fuckin' beer?</utterance>
+   <speaker>RAYMOND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right here Frank. You want me to pour it?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>pour the fuckin' beer.</context>
+      <utterance>No, I want ya to fuck it. Shit, yes.</utterance>
+   <speaker>RAYMOND</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There ya go.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good, let's drink up.</utterance>
+   <speaker>BEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To your health, Frank.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit. let's drink to something else. let's drink to fuckin'. Say here's to your fuck Frank.</utterance>
+   <speaker>BEN</speaker>
+      <mode></mode>
+      <context>Frank's friends, Paul and Raymod, laugh.</context>
+      <utterance>If you like Frank. Here's to your fuck. cheers.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Frank slaps Jeffrey in the face.</context>
+      <utterance>Cheers. Suave man. you're so fuckin' suave. WE LOVE BEN! Here's to Ben!.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey neighbor. Here's to Ben.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Here's to Ben.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Ben goes to Jeffrey.</context>
+      <utterance>Do you see, Ben?. I can make him do anything I fuckin' please.</utterance>
+   <speaker>BEN</speaker>
+      <mode></mode>
+      <context>Jeffrey shows him.</context>
+      <utterance>Thank you neighbor. let me see your face. did he hurt you?</utterance>
+   <speaker>BEN</speaker>
+      <mode></mode>
+      <context>Suddenly Ben slugs Jeffrey in the stomach. Jeffrey doubles over.</context>
+      <utterance>Oh. my.</utterance>
+   <speaker>BEN</speaker>
+      <mode></mode>
+      <context>Frank almost dies laughing. Everyone else joins in. Ben turns to Frank.</context>
+      <utterance>Is that any better?</utterance>
+   <speaker>BEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frank, I have something for you. Excuse us everyone.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>As Jeffrey tries to catch his breath, he sees tremendous emotion fill Dorothy's face. She rushes forward. Raymond grabs her by the arm and takes her into another room. Jeffrey hears her crying out. He hears a small boy.</context>
+      <utterance>EXCUSE US por favor! Hey. let Tits see her kid.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Donny, oh my Donny.</utterance>
+   <speaker>DONNY</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Mommy!</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="6">
+   <speaker>DONNY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mommy. You left me. you stopped loving me.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Dorothy rejoins the group. She's in a state of shock. Frank pinches her cheek.</context>
+      <utterance>Okay. let's hit the fuckin' road. we're givin' our neighbor a joy ride. let's get on with it. Bye, Ben. Ya wanna go on a joy ride with us, anyone? You?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Raymond has picked up the greasy girl.</context>
+      <utterance>No smile for Frank? No? Okay, fuck it. Let's go. Oh you wanna come with Raymond?</utterance>
+   <speaker>BEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See you Tuesday, Frank.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right Ben. LET'S GO FUCK. I'll fuck anything that moves.</utterance>
+   <speaker>156. EXT. "BARBARY COAST" - NIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They leave and pile back into the car.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="10">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey? . You like to walk.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>As Frank is driving Jeffrey sees Dorothy nervously look at the road and surrounding countryside, then questioningly at Frank. She senses something about where they are going.</context>
+      <utterance>Let's take our neighbor out. Let him fuckin' walk back.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are we going, Frank?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey. Tits. I'm taking your neighbor to the country. maybe something for you too.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frank?</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to see him too, right?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, but.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Frank sees Dorothy look back at Jeffrey.</context>
+      <utterance>Then, shut up!</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey. What's this fuck got to do with anything.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="6">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you lookin' at?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Jeffrey is quiet.</context>
+      <utterance>Don't look at me, Fuck. I shoot when I see the whites of the eyes.  You like me?.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look at these. What are these?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Frank is doing something to Dorothy's chest but Jeffrey can't see.</context>
+      <utterance>Come on, Frank. Let's go. Please.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't say PLEASE, Fuckhead. WHAT ARE</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="6">
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Those are my breasts.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I feel 'em?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Frank takes helium.</context>
+      <utterance>If you want to.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>She winces and tries to pull away.</context>
+      <utterance>Baby wants to pinch 'em.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Frank pretends not to hear Jeffrey and pinches Dorothy's breasts real hard. She stifles a scream. Jeffrey gets mad. He hits Frank hard in the face. Everyone is deadly silent as Frank turns to Jeffrey. Frank stares at Jeffrey.</context>
+      <utterance>Hey. leave her alone.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>NEXT! . out of the car fuck. HELP HIM</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="2">
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frank. he didn't mean it. Leave him alone. come on. He didn't mean it.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Dorothy doesn't move fast enough so Frank dumps her whole purse out on the front seat and grabs the lipstick and a flashlight. He puts lipstick heavy onto his lips. While Raymond and Paul hold Jeffrey. Frank kisses Jeffrey all over the mouth. Jeffrey tries to hit Frank and pull away, but Raymond and Paul have a hold of him. Jeffrey looks very strange with these big blotches of red lipstick on his face and mouth.</context>
+      <utterance>Shut up. Gimme your lipstick.  . Hey, pretty, pretty.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="5">
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Understand, Fuck?</context>
+      <utterance>Don't be a good neighbor to her or I'm gonna send you a love letter. straight from my heart, fucker. You know what a love letter is? It's a bullet. straight from my gun, fucker. Once you get a love letter from me, you're fucked forever.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Frank takes a small square of blue velvet out of his pocket and begins feeling Jeffrey's face with it.</context>
+      <utterance>I'll send you straight to hell, Fuck!</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Raymond makes Jeffrey raise his arm and Jeffrey feels Frank's biceps.</context>
+      <utterance>You feel good. feel my muscles.</utterance>
+   <speaker>FRANK</speaker>
+      <mode></mode>
+      <context>Suddenly Frank starts hitting Jeffrey in the face. Dorothy screams at the car window.</context>
+      <utterance>You like that?  Hold him tight for me.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="3">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to talk about it. Everything's okay now. I don't want to talk about it.</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes it helps to talk things over. for instance, many marriages are saved by.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>He holds his fist up.</context>
+      <utterance>Aunt Barbara. I love you, but you're not gonna get it.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="2">
+   <speaker>170. JEFFREY'S ROOM - DAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey dials the phone.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Williams? Hi, this is Jeffrey Beaumont. fine and you? Good. Is Sandy there? Good, thanks. Sandy?. Can you talk? Good. I'm through with this business. I'll explain, but it got a little out of hand. I'm lucky to be able to call you. anyway. I promise I'll tell you everything .How are you?</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="2">
+   <speaker>171. INT. SANDY'S BEDROOM - DAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sandy on her phone.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We broke up. No. It's okay. It's okay. Jeffrey?. Jeffrey?. Hey, Jeffrey?. Do you want to go to a party with me Friday night?. He won't be there, don't worry. It'll be real nice. This Friday. You don't dance? Well, I'll teach you, silly.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="2">
+   <speaker>172. INT. JEFFREY'S ROOM - DAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey on his phone.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great. Hey. I've got a bit of a problem. I know some things. that could help your father but you might get into trouble.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="4">
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey! Come on in.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi. Hi Sandy. I'm sorry to bother you, but I've got to talk to you.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. come on in. Looks like you had a bad face lift.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="20">
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>He shows him the picture of Frank and studies Detective Williams' face as he sees it.</context>
+      <utterance>Okay. I gotta tell you. I've. discovered some things. .Anyway I have to show you some pictures and tell you some things about them. The first picture is this.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And that man came out with a third man - this well-dressed guy. here's the photo. I think a girl named Dorothy Vallens is in trouble with these people. I think Frank has taken her husband and her son.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have no hard proof of any of this. Her address is also on the photos. I think these people are involved with drugs. and murder. I think Frank is killing drug dealers and.  . and somehow Frank is getting all their drugs. I had to tell you I got slightly more involved in this than you wanted me to, but it's over now for sure. .I had to tell you about these things in case it could help.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well now Jeffrey, how did you come to get so involved?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't tell you the whole story. I. I took it upon myself. I can't say more.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is Sandy part of this?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. not at all.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who knows you have these?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Only you. and the photo lab.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're all through with this now?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Detective Williams studies Jeffrey, then the photos.</context>
+      <utterance>Yes sir. I sure am.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For now. Alright. you better be. And Sandy better not be involved with this, I can tell you. Be prepared to come in for further interrogation on this later.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Jeffrey leaves the study.</context>
+      <utterance>Yes sir.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everything okay?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. I think so. I just had to tell him some of what I knew. Is Friday still on?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't tell him about me?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Detective Williams comes out of his study and sees the two of them talking. He sees some nervousness. Sandy quickly changes the subject.</context>
+      <utterance>No.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I should never had gotten you going on this.  Yes Jeffrey. Friday's on!</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay. great!</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="13">
+   <speaker>186. EXT. WILLIAMS HOME - NIGHT</speaker>
+      <mode></mode>
+      <context>He has to park across the street because a police car is sitting in front of the Williams' house. Its lights are slowly revolving on top. The engine idles. a Man is inside. his head down, studying some papers. Jeffrey barely notices all this, as he heads for the door. Mrs. Williams answers the door and Sandy is behind her in the dining room.</context>
+      <utterance>Jeffrey is driving over to Sandy's.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, Jeffrey. Come in.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Detective Williams comes in arranging some papers which he begins placing in a briefcase on the dining room table. Just then a man comes up to the door which is still open. Jeffrey turns to see. It is Detective T.R. Gordon, the Yellow Man. All the color instantly drains from Jeffrey's face.</context>
+      <utterance>You all set?</utterance>
+   <speaker>YELLOW MAN</speaker>
+      <mode></mode>
+      <context>Detective Williams turns. He sees Detective Gordon. He turns again. He sees Jeffrey's expression. Sandy hasn't seen it yet. Detective Williams goes to Jeffrey. He looks him straight in the eye. He also positions himself between Jeffrey and T.R. Gordon.</context>
+      <utterance>Hey John - get a move on!!</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context>Sandy becomes curious and moves over to Jeffrey and her father. Jeffrey decides to trust Detective Williams. The Yellow Man (T.R. Gordon) yells again.</context>
+      <utterance>Easy does it Jeffrey. Behave yourself. don't blow it.</utterance>
+   <speaker>YELLOW MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on John, get it in gear pal!</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So long Jeffrey. You two have a nice night, okay?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just some fatherly advice.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context>Jeffrey and Sandy head for the door. The Yellow Man's and Jeffrey's eyes meet once more. The Yellow Man cocks his head. thinking. No recognition.</context>
+      <utterance>That's right.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodnight mom.  Goodnight Tom.</utterance>
+   <speaker>T.R. GORDON-YELLOW MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodnight, Sandy.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="10">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was that all about?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing. really! It's good to see you.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's good to see you.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where to?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just go over to Gelford and up to Vista. It's not far. Can you tell me any more about what you learned?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd rather not talk about it. I'll tell you about it sometime.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... You look beautiful.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you. Whatiya say we just enjoy the evening?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I like that idea. that's a real good idea.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="4">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to dance?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't dance fast.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really. you want to dance with someone else?</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="7">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's wait for some slow one.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Sandy leaves Jeffrey for a moment and Jeffrey watches her make her way through the crowd to a GIRL by the record player. Sandy confers with the girl. Sandy comes back to Jeffrey.</context>
+      <utterance>Just a minute.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Just then, the music goes slow.</context>
+      <utterance>Don't worry. I took care of it. You want something to drink?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to dance?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>They begin to dance. At first, further apart, then, they make the mistake of looking in each other's eyes and they move very close together. They move around to another look. Then they kiss. They kiss for the entire rest of the song. Between songs and during the entire next song. They finally, as they say, come up for air.</context>
+      <utterance>Okay.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>They kiss again. Then they dance and look at each other. Then they hug each other. As they hug, Jeffrey closes his eyes.</context>
+      <utterance>I love you, Jeffrey.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I really do love you.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="8">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God. What's wrong?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>He swerves around the corner. Up ahead, a car is pulling out of a driveway.</context>
+      <utterance>Frank!!</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Jeffrey swings hard around another corner and heads up a dark street, passing "Lincoln St."</context>
+      <utterance>Come on. MOVE IT!</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>He floors the car and flies down another street very fast.</context>
+      <utterance>I can't outrun this guy.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My father has a gun at home.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Sandy turns back to take a look. Jeffrey swerves the car again; he bangs it off a curb as he rounds a corner. A hub cap goes flying off rolling noisily down the street.</context>
+      <utterance>Sandy. this guy is a killer!! I promise you.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Try to get to my house. then my father can.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="2">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Jeffrey floors the car again. but the car behind him is fast and gains on him. It swerves back and forth in the rear view mirror. Now it swerves and roars up alongside Jeffrey's car. Sandy screams.</context>
+      <utterance>No!!</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Jeffrey looks over. It is Mike. Out of enormous sense of relief he starts laughing. He slows instantly and so does Mike.</context>
+      <utterance>It's Mike! It's Mike!</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="17">
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey come here, you stole my girl, you bastard. I'm gonna kick your ass, right in front of your stupid house.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Stop it Mike.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Everyone turns and looks. Slowly out of the darkness comes a nude woman. It is Dorothy. She is totally in shock, bloody saliva is dripping from her mouth. She is bloody, swollen and bruised all over. She is totally different, drained of her sexuality. She has been ravaged.</context>
+      <utterance>You shut up. nobody's talkin' to you. Hey who's that Jeffrey? Your mother?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dorothy! ... Dorothy!</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dorothy Vallens?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>He jumps out of the car, gets a hold of her and helps her back. Mike comes after him.</context>
+      <utterance>Yes.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, you ivy league shit. COME HERE!</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Later Mike. I gotta take care of someone who's hurt here, in case you haven't noticed.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Mike's friends are dazed, watching Dorothy staggering beside Jeffrey. Mike steps back as Jeffrey puts Dorothy in the car. Jeffrey stands back up and glances at Mike.</context>
+      <utterance>Mike, go home.</utterance>
+   <speaker>MIKE</speaker>
+      <mode></mode>
+      <context>Jeffrey gets into the car.</context>
+      <utterance>Hey, I'm sorry. Hey.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Jeffrey shuts the door. Dorothy is sandwiched between him and Sandy in the front seat.</context>
+      <utterance>Yeah. okay, Mike.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take her to my house. My dad can get an ambulance faster than anyone. Do you have anything to put around her?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Is Detective Gordon going to be at your house?</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Probably not. no. Why?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>OK. Let's get her over to your father's.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Mike and his friends are getting in Mike's car. Mike is trying to start the engine. He does and clumsily throws the car in reverse. He screeches out and screeches to a stop. Then he guns away forward and shoots crazily down the road.</context>
+      <utterance>Right. Watch out for Mike, there.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>They drive off.</context>
+      <utterance>Here we go.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="3">
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Sandy looks at Jeffrey questioningly.</context>
+      <utterance>Oh God. Jeffrey is that you?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, it's me.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Sandy is confused. how do they know each other?</context>
+      <utterance>Oh God, Jeffrey. is that you? Oh God.</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="8">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is Dad home?</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Dorothy is clinging to Jeffrey. Mrs. Williams goes to call. Sandy moves closer. Jeffrey looks at Sandy and she returns the look.</context>
+      <utterance>You better call him and get an ambulance too.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where have you been?  Oh God. they hurt him, Jeffrey. Jeffrey, Jeffrey, Jeffrey, hold me. HOLD ME. Oh God.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay. it's okay.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Mrs. Williams comes in.</context>
+      <utterance>My secret lover.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The ambulance will be here in a minute. I left word for John. The police are on their way.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't get the police. Oh God, ...Jeffrey</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="9">
+   <speaker>LOVE ME,</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She looks up at Mrs. Williams.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>She presses herself tight to Jeffrey.</context>
+      <utterance>I opened myself to him. He put his disease in me.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sandy? ...Sandy, please.</utterance>
+   <speaker>MRS. WILLIAMS</speaker>
+      <mode></mode>
+      <context>She leaves the room hurriedly.</context>
+      <utterance>I'll get a coat for her.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jeffrey? .What's going on?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shh. I'll tell you.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They hurt his head.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who, Dorothy?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>Dorothy starts screaming.</context>
+      <utterance>Don. help him. HELP HIM!! DONNY!!!! A huge, roaring wind sound comes up.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="4">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I should go with her, Sandy.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go ahead.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... Sandy?.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Jeffrey turns slowly and gets into the ambulance.</context>
+      <utterance>Go ahead!</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="5">
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold me, Don.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don?. Where is he?</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>HELP HIM!! Promise me you'll help him!</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I promise, Dorothy. I promise.</utterance>
+   <speaker>DOROTHY</speaker>
+      <mode></mode>
+      <context>She bolts up screaming directly into Jeffrey's face. Her beaten face and milky eyes are a study in horror.</context>
+      <utterance>Hold me. I'M FALLING!</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="2">
+   <speaker>206. 	INT. SANDY'S ROOM - NIGHT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sandy with red eyes in a darkened room.</utterance>
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I forgive you. I just couldn't watch. I love you Jeffrey. I love you. Is she okay?. How horrible. What?</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="3">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please get to your father and send him and the police to Dorothy's apartment right away. Be sure your father comes. Something is happening over there. They're hurting someone. the guy she loves. Tell them to hurry. I'm going over right now.</utterance>
+   <speaker>SANDY</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>No Jeffrey!!</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes I'm going. I have to. I love you. I will, believe me.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="8">
+   <speaker>RADIO VOICE #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get back and stay down.</utterance>
+   <speaker>RADIO VOICE #2</speaker>
+      <mode></mode>
+      <context>Music. LOVE LETTERS STRAIGHT FROM MY HEART. begins to play. Jeffrey watches the Yellow Man and listens to the radio.</context>
+      <utterance>. It's apartment eight.</utterance>
+   <speaker>RADIO VOICE #2</speaker>
+      <mode></mode>
+      <context>It's.</context>
+      <utterance>I'm sending Jack and Pete to the roof.</utterance>
+   <speaker>RADIO VOICE #1</speaker>
+      <mode></mode>
+      <context>Sounds of shots.</context>
+      <utterance>Hey.</utterance>
+   <speaker>RADIO VOICE #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's shooting. from the second window.</utterance>
+   <speaker>RADIO VOICE #3</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stay in place.</utterance>
+   <speaker>RADIO VOICE #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jack. get up there quick. can return fire?.</utterance>
+   <speaker>RADIO VOICE #3</speaker>
+      <mode></mode>
+      <context>We see Jeffrey's face in CLOSEUP.</context>
+      <utterance>I think he's alone. but return fire to second window only. Many shots.</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="3">
+   <speaker>POLICEMAN #1</speaker>
+      <mode></mode>
+      <context>A policeman runs off. more shots are fired into the building but none are returned. The policeman comes running back.</context>
+      <utterance>He hasn't fired a shot for six minutes. maybe we got him. get on the radio. get Detective Williams. ask him if we can rush the son of a bitch.</utterance>
+   <speaker>POLICEMAN #2</speaker>
+      <mode></mode>
+      <context>Suddenly there is a long barrage of gunfire into Frank's apartment. Then a loud whistle.</context>
+      <utterance>It's in the works already. we're in there. they're goin' down the back stairs now. It won't be long. and they'll have us rush 'em from here. one whistle and we go.</utterance>
+   <speaker>POLICEMAN #1</speaker>
+      <mode></mode>
+      <context>Police race across the street to Frank's building.</context>
+      <utterance>That's it. let's go.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="2">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>He rounds the corner on a landing on the stairway and goes down another floor. and another. At the next landing, something out the window catches his eye. He notices a man get out of the car. He recognizes the man. It is the well-dressed man he saw with the alligator briefcase. Jeffrey watches the man come toward Dorothy's building. Then his eye goes back to the man's car. It is Frank's car. He notices the man is carrying a police radio.</context>
+      <utterance>So. Frank escaped.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened that day?.</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="4">
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Detective Williams!! Detective Williams!!</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Detective Williams here. Is that you, Jeffrey?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes it's me!!! Frank is on his way up to Dorothy's apartment.  Oh no. Frank has a radio and is hearing everything we say!!  Detective Williams. hurry. I'm in the apartment. hurry. I'm hiding in the back bedroom.</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're ten minutes away and moving as fast as we can.</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="10">
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because of your information I alerted internal affairs to check out Detective Gordon. I had to keep on with him as if nothing was different. He slipped off on his own when he found out we were going to raid Frank's place.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does Dorothy know her husband is dead?</utterance>
+   <speaker>DETECTIVE WILLIAMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not yet.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God. Is her son OK?</utterance>
+   <speaker>F.B.I. MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're looking for him. In your opinion, why did Frank kidnap Dorothy's son and husband?</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He became obsessed with her. She hated him. He had to have her. He kidnapped them to control her. to make her do things. Then she wanted to commit suicide so he started cutting off ears as a warning to her to stay alive. I'm not kidding. Frank loved blue. blue velvet. He had to have Dorothy cause her whole life was blue.</utterance>
+   <speaker>F.B.I. MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You seemed to see some very interesting things on your little escapade with Dorothy Vallens.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. I guess I did.  What's going to happen to me?</utterance>
+   <speaker>F.B.I. MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're going to leave that up to Detective Williams. I'll tell you though. you're okay. you shot a real son of a bitch.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. I sure know that. Yeah, but how many more are out there?</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="5">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context>Jeffrey opens his eyes. He looks around confused for a moment. He sees Sandy.</context>
+      <utterance>Jeffrey. Lunch is ready.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>Sandy goes back inside. Suddenly, a big red ROBIN chirps loudly above. Jeffrey looks up at it sitting in the cherry tree. The Robin and Jeffrey seems to exchange a special look. Jeffrey smiles up at the fat bird. He gets off the lawn chair and walks away from us toward the back door of the house. As he passes his father and Detective Williams:</context>
+      <utterance>Okay. I'll be right in.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How ya doin' Dad?</utterance>
+   <speaker>MR. BEAUMONT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey Jeff. I'm feelin' so much better.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context>He and Detective Williams share a smile.</context>
+      <utterance>Good deal Dad.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="4">
+   <speaker>SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look Jeffrey.</utterance>
+   <speaker>JEFFREY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. I just saw him outside. Maybe the robins are here.</utterance>
+   <speaker>AUNT BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't see how they do it. I could never eat a bug.</utterance>
+   <speaker>JEFFREY AND SANDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a strange world, isn't it?</utterance>
+</dialogue>
+
+
+</movie>

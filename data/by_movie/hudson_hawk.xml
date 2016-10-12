@@ -1,0 +1,2787 @@
+<movie id="286" title="Hudson Hawk">
+
+<dialogue id="1" n_utterances="4">
+   <speaker>APPRENTICE TWO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maestro, che meraviglia!</utterance>
+   <speaker>APPRENTICE THREE</speaker>
+      <mode></mode>
+      <context>Da Vinci's pride goes dead as the implications hit.</context>
+      <utterance>Lei e' proprio fantastico!</utterance>
+   <speaker>DA VINCI</speaker>
+      <mode></mode>
+      <context>The apprentices scurry out. Mind reeling, Da Vinci turns his back to the viewer, before a wall of frescoes.</context>
+      <utterance>Lasciatemi, solo. Solo!</utterance>
+   <speaker>DA VINCI</speaker>
+      <mode></mode>
+      <context>Spinning back around, using the edge of his cloak, Da Vinci pulls out the large gleaming crystal with a pop.</context>
+      <utterance>L'ho fatto.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="3">
+   <speaker>WISE GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're losing our biggest celebrity today.</utterance>
+   <speaker>YOUNG GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're kidding, Petey the Paint Thinner Killer is getting paroled?</utterance>
+   <speaker>WISE GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not that slime, you Fizzhead. Hudson Hawk. The last of the great cat burglars.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="10">
+   <speaker>WISE GUARD</speaker>
+      <mode></mode>
+      <context>The Guards approach Hawk's cell. Hawk, with his back turned, hefts on a nifty blazer.</context>
+      <utterance>As a thief, Hawk was a poem. Iambic fucking pentameter. You know, Crime used to have a little class. A hundred reporters were here when he came in, now they're probably out covering some tired crack gang war...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>The Wise Guard chuckles as the Young Guard fumbles with his key-ring.</context>
+      <utterance>Remind me to fire my publicist.</utterance>
+   <speaker>YOUNG GUARD</speaker>
+      <mode></mode>
+      <context>Hawk's hand reaches through the bars and grabs a pipe cleaner from the Wise Guard's pocket. Then the lighter from the Young Guard's pocket--BURNS OFF the fabric fuzz with the lighter beside it--bends the now blackened wire--and with a quick turn of the wrist uses it to UNLOCK the door.</context>
+      <utterance>Darn, these are for L-block...</utterance>
+   <speaker>YOUNG GUARD</speaker>
+      <mode></mode>
+      <context>He stops, dumbfounded, as the door clunks open. The Guards double-take as Hawk, finally in full view, struts past them, down the hall. The Guards hustle to catch up. The wise guard puts his finger in the air and sarcastically pretends to be stung by the heat emanating from Hawk.</context>
+      <utterance>- go back down to security and-</utterance>
+   <speaker>WISE GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guess this means, Hawk, you'll be able to let yourself back in...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk and the Wise Guard hit fists, half-smiling. Hawk unfolds the painting.</context>
+      <utterance>Never happen. Bet. Ten bucks.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, give this back to Petey in A block. Tell him it was a sweet gift, but I think he got some wrong ideas about our friendship.</utterance>
+   <speaker>YOUNG GUARD</speaker>
+      <mode></mode>
+      <context>The trio comes to the final checkpoint. Hawk takes a deep breath.</context>
+      <utterance>The Paint Thinner Killer did this? I think you picked a good day to get out...</utterance>
+   <speaker>WISE GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hope I lose the bet. Have that cappuccino on me.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got it. A double.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="6">
+   <speaker>ANTONY</speaker>
+      <mode></mode>
+      <context>We've got a proposition...</context>
+      <utterance>Welcome back, buddy ol' pal.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Answer's no, not even if you bathe. Cesar Mario, Antony Mario, how's the "Family?" Kill any monkeys lately?</utterance>
+   <speaker>CESAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many times do I have to say it? I didn't put the hit on Little Eddie... Never had anything against that kooky chimp. I actually found him, "endearing."</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Smouldering, Hawk struts off. Cesar takes a black canvas bag from a SCARFACED DRIVER and hustles up to Hawk. The Lincoln rumbles behind them, Antony riding on the hood.</context>
+      <utterance>Sure. Face down. Two endearing shots to the back of the head. That's your mark, man. What did Little Eddie ever do to...</utterance>
+   <speaker>CESAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're hitting Rutherford's Auction House. Easy as my brother's wife. Directions are in the bag. Just open the seventh floor safe and take out the thingie...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or you cut off my thingie. Directions even your brother would understand.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="9">
+   <speaker>ANTONY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, directions even I could understand. The car squeals to a stop. Antony bounds off. Cesar shove-throws the canvas bag into Hawk's unwilling hands.</utterance>
+   <speaker>CESAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hawk, you're a great thief. Got set up, did some time, nothing to be ashamed of. Don't give me a sonata about you always just really wanted to settle down, open a hardware Store and sell spatulas...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk fiercely push-shoves the canvas bag back into Cesar's hands.</context>
+      <utterance>If the Mario brothers weren't Jersey's third largest family, I'd say kiss my ass. But considering your status, I'll say slurp my butt.</utterance>
+   <speaker>CESAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's your favorite sport, Hawk?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Antony opens the back door of the Lincoln and says "Baseball." He is handed a baseball bat. Hawk backs up as Antony moves threateningly toward him.</context>
+      <utterance>Baseball, why?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>A PRISON GUARD from above turns as not to be a witness. Hawk feebly calls up to him.</context>
+      <utterance>I meant, ping pong. Listen, I'd rather go back in than whore for you...  Oh, I need to borrow ten dollars.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Antony swings at Hawk, who pretends not to notice until the last second. Hawk ducks and slam-kicks his calf. Antony crumples, using the bat as a crutch. Hawk boots up the bat for a two-handed catch then savagely pivots it across Antony's face, knocking him into the backseat of the car.</context>
+      <utterance>Help? Police?</utterance>
+   <speaker>CESAR</speaker>
+      <mode></mode>
+      <context>Hawk seethes...</context>
+      <utterance>You need some time to think. That's cool, but next time, I'm not going to say "Please." Cesar floats into the backseat. The Lincoln takes off.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>A BACKFIRE rings out. Hawk hits the ground, thinking it is a gunshot.</context>
+      <utterance>I don't believe this. I've been out forty seconds...</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="7">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the first thing I did. Smooch the ground and taste the freedom. Sorry I was late. Miss anything?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your timing, and your shoes, are impeccable... Good to see you, Alex, been having a lousy day.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Hawk pauses to say something, then just hugs Alex.</context>
+      <utterance>Lousy day? The man's getting out of prison and he's having a lousy day. What, you missing out on the Cell Block Water Ballet pageant? Believe me, it's overrated.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>A laughing Hawk gives Alex's stomach a slap before getting in the car....</context>
+      <utterance>Where's the kiss? No tongue this time, I promise.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks like you've been expanding your...</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't say it, Hawkins. I'm incredibly sensitive about my fucking figure.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>tubby.</context>
+      <utterance>My next word was gonna be "consciousness." Swear to God...</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="13">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's your definition of "Hard?"</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Show off. Hey, boss tune. "Come Fly with Me."</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three minutes, 51 seconds.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Still do the puzzles, still know the running times of songs, and I'll bet you're still the best damn cat burg--</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not anymore. Now I'm the laziest damn cat burg--I'm going to take it so straight that I won't tape a Mets game without the expressed written consent of the National Baseball League.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now that you're born again,what do you wanna do? Statue of Liberty? Entertain some ladies? Miss Saigon tix? Seduce some women? Play Nintendo? Bone some chicks?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, Alex, let's just get to Alex's. Your bar's the only place that's going to cheer me. God, I'd kill for a damn cappuccino. What the hell's a Nintendo?</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Alex pulls a styrofoam cup from a paper bag.</context>
+      <utterance>Oh man, you still got a thing for those unmasculine European coffees? Who's your buddy?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk takes off the cap with a stimulating whiff.</context>
+      <utterance>The man knows, the man knows!</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So Mr. Coffee, what went down outside the prison?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Alex brakes and cappuccino flies. Hawk half-heartedly tries to lick up with his fingers.</context>
+      <utterance>Oh, not much. Mario Brothers want me to do a job.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Those dago-guinea-I can say this shit I'm Italian-wop motherfu--</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, had the perfect amount of foam. Just get me to the bar... It's the one good thing in my life that'll never change....</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="12">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't know how to tell you. A couple brokers stopped in for Stoley Spritzers one night. Next thing I know Fast Track Digest votes us "Watering Hole of the Month." Now, I'm shopping for Aqua Salmon wallpaper.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I read about these people in Newsweek. Where's all the regulars, Crazy Jeff Cava, the Todd sisters, Indian Joe? Where's Ed Kranepool's autograph? Captain Bob's steering wheel?</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Alex lifts a piece of the bar and moves behind it. Snatching up a menu, Hawk calls out...</context>
+      <utterance>Hey, get this irritable guy a cappuccino. I gotta go be a boss.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk lights up a cigarette. A TORTOISE SHELL NON-SMOKER immediately turns to him wearing a "Yes, I mind if you smoke" button.</context>
+      <utterance>This is Pizza? Reindeer Goat cheese? I admit, I've been known to go wild and order a Canadian Bacon in my time, but..</utterance>
+   <speaker>TORTOISE SHELL NON-SMOKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you read.... smoker?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you take a sunrise and sprinkle it with dew?</utterance>
+   <speaker>TORTOISE SHELL NON-SMOKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Candy Man can, Felix. You know, I thought this was a country where you could do any stupid thing you wanted; drive to work naked, make love to a V.C.R. Guess I'm wrong. Maybe that's why I became a serial arsonist.</utterance>
+   <speaker>TORTOISE SHELL NON-SMOKER</speaker>
+      <mode></mode>
+      <context>The Non-smoker fumbles out a pack of cigarettes and flees. A cappuccino in cup and saucer slides down the bar saloon-style. A smiling Hawk picks it up, turns away from the bar and closes his eyes, bringing the cup to his lips until a POLICE BADGE swirls into frame and splashes into the cup, splattering coffee over Hawk's blazer.</context>
+      <utterance>Hey, it's okay, big guy. Smoke all you want. Have mine....</utterance>
+   <speaker>GATES</speaker>
+      <mode>O.S.</mode>
+      <context>Hawk makes eye contact up to a crude, coarse, and cackling island of a man, OFFICER GATES, amid the sea of oblivious and self-obsessed yuppitude, standing by a table.</context>
+      <utterance>You're under arrest...</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have a seat. Good to see you, buddy ol' pal...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The pleasure's all yours, Officer Gates.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="18">
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do you show your parole officer such disrespect? Especially after I got you such a nice job.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Gates pulls up the black canvas bag and puts it on the table.</context>
+      <utterance>What job?</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context>It's a great deal, I can't lie.</context>
+      <utterance>The auction house, asshole. One night's work and you're free like no ex-con's ever been. No checking in with a shrink, no community service teaching retards how to play air hockey.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The only thing you can't do is get sex for free. I know I was in prison for like basically the 80's, but, call me daffy, aren't you supposed to</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Gates simmers into his seat with a self-control smile.</context>
+      <utterance>How was I supposed to know they were women? Besides one of them was bald and kept saying "Soitinly."</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Remember that guy in the cell next to you who hung himself?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Remember that shoe you lost...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Gates pulls up a shoe and puts it on the table.</context>
+      <utterance>Uh, yeah. Cut to the chase.</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context>Hawk bobs under the table and up.</context>
+      <utterance>One phone call and your shoe will become a piece of evidence and that suicide'll become a murder.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What else do you got under there ... I don't want to be rude, but this is all pretty lame.</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context>Alex suddenly approaches the table.</context>
+      <utterance>That's the beauty. It's bullshit, but I can make it stick because I'm a good guy parole officer and you re a bad guy who's about to find out that there's a thin line between ex-con and escape con.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How is everything tonight, sir?</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Beat it, Alex. You're a dinosaur.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alex, did you know this ape was going to be here...</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. That's why his meatballs are made out of marinated Chuck Wagon.</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context>As Alex speaks, an eating dog is on the screens.</context>
+      <utterance>You're full of shit.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Gates grabs the shoes and races off, gagging. Hawk gets up to laugh next to Alex. Their laughter dies as they turn to look at the black canvas bag left on the table between them.</context>
+      <utterance>No, man, actually you are. Just add water and it makes its own gravy. Keeps your teeth healthy and your coat shiny.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="18">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hmmmm.....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk is rummaging through stockpiled remnants of an old, "true" bar. Round lamps, tacky mirrors, pictures of Hawk and the Regs at the bar. Managing a weary smile, Hawk lifts a ship steering wheel, while Alex puts on a pair of granny classes and pulls out blueprints.</context>
+      <utterance>Yo Pandora, quit hummm-ing... look at this.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Remember when the Captain.....</context>
+      <utterance>It's Captain Bob's steering wheel!</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Hawk nervously picks up a Rubik's Cube and holds it behind his back. He brings it back around, completed. Sighing, Hawk drops the cube and rubs his scalp. Alex starts rubbing his stomach. They pace in pre-job syncopation and speak rapid-fire.</context>
+      <utterance>Hmmm, nasty little safe on the 7th.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The safe's a Simpson 71. Last time I played the game, Simpson only had a 40.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just means it'll take you an extra 31 seconds to seduce. You re still the best, I know it.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you got three guards who... Shit, what am I doing? Where's the want ads? Gonna sell some spatulas.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Alex gives Hawk a consoling two-hand-shake then jumps back to reveal he has put Hawk into thumbcuffs.</context>
+      <utterance>Hey, I'm sorry, man. I'm putting out a fire with kerosene.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This isn't funny. I'm not into this. I...</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There goes five seconds...My record's eighteen.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Out of annoyance, Hawk breaks out of the cuffs and violently throws them at Alex, who sits down a little wounded.</context>
+      <utterance>You're not...LISTENING!</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorr--Goddamn Mario Brothers. Goddamn Gates. Goddamn Rutherford Auction House. By the way, how many seconds?</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Alex jumps up excitedly and then convulses in pain.</context>
+      <utterance>Rutherford Auction... that name...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alex!</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Alex flops down behind a work table before a wallfull of drawings of different kinds of vaults. He sets himself up for an insulin injection.</context>
+      <utterance>Don't wet your diapers. I'll have to change them. "Witchcraft." What's the running time?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk leans in and administers the shot of insulin to Alex.</context>
+      <utterance>3:48. I can't get you involved, man. This is my sewage and...  God, you love all this, don't you, you bastard. Haven't you ever heard of stamp collecting, or curling?</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Hawk collapses next to Alex, resigned to his fate.</context>
+      <utterance>I'm in. Have you seen the public service announcements for Diabetes. We can ride horses, play LaCrosse, and knock off auction houses. I got a plan. You won't have to hail Cesar or Gates.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a bum.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="2">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa, you better cut a bigger hole than that.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, you promised......Don't worry, I'm wearing my girdle.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="2">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cameras?</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Alex points to an open doorway just down the hall where laughter and shadows emerge. Hawk tries to flee, but a grinning Alex pulls him toward it. Hawk and Alex slide across the wall to a closed room marked POWER, which is right next to the open Guards' Station. The viewer's viewpoint moves past Hawk and Alex lock-picking into the Power room to...</context>
+      <utterance>No need. Guards' station's right there.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="3">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They record everything their video surveillance takes in...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Alex presses the REWIND buttons on the V.C.R.'s.</context>
+      <utterance>Yes, master-thief, I can see that. You said something about a plan...</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Alex pulls from a nearby shelf six tapes marked MONDAY.</context>
+      <utterance>Am I boring you, smartass? Watch. A little rewind and re-wire action and the Guards are going to be watching a rerun and miss out on our exciting episode.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="5">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got about five minutes and change.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>5:32. "Swinging on a Star."</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>A freight elevator pings. Hawk opens it up as the music of "Swinging on the Star" kicks in on the soundtrack.</context>
+      <utterance>You know they invented something while you were inside. Called a watch.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"A mule is an animal with long funny ears."</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Hawk crams himself into the freight elevator with his Glad bag. Strenuously upbeat Ray Conniffesque singers continue to sing the song, orchestrally accompanied, when Hawk isn't.</context>
+      <utterance>"He kicks up at anything he hears.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="3">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"A fish is annuh nan na nan na brook.</utterance>
+   <speaker>THE FREIGHT ELEVATOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alex is now packed into the freight elevator.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"He can't write his name or read a book. To fool people is his only thought."</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="3">
+   <speaker>SECURITY GUARD TWO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, Jerry. I'm looking at the seventh floor and I don't know how to say this, I see the Blue Chair.</utterance>
+   <speaker>SECURITY GUARD ONE</speaker>
+      <mode></mode>
+      <context>Screen Two shows THE TWO SECURITY GUARDS THEMSELVES hatching open some on-duty beers, going down a hall. Guard Two looks to the empties atop the console....</context>
+      <utterance>What the... You think that's weird, check out screen two.....</utterance>
+   <speaker>SECURITY GUARD TWO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Somebody rewired the recorders!</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="3">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"And all the monkeys aren't in the zoo."</utterance>
+   <speaker>ALEX</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>"Every day you meet quite a few." Alex gives Hawk a congratulatory pat.</utterance>
+   <speaker>HAWK AND ALEX</speaker>
+      <mode></mode>
+      <context>You could be swinging on a star."</context>
+      <utterance>"So you see it's all up to you. You can be better than you are.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="7">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>"You could be swinging on a star."</context>
+      <utterance>The song's over! Come on!</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Kiss a woman in Italy.</context>
+      <utterance>What am I doing here? There are so many things I wanna do that aren't this. Paint a lighthouse.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"You could be swinging on a star."</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk's soliloquy is cut short as Security Guards One and Two crash into the auction auditorium.</context>
+      <utterance>Paint a woman in a lighthou--I don't want to steal a horse. Life is...</utterance>
+   <speaker>ALEX</speaker>
+      <mode>DEADPAN</mode>
+      <context>Alex whips his chair at the floor washer, tipping it forward and causing its electrical cord to pull up and trip the Guards into a bellyflop. Hawk bolts right at the bustling up guards and locks them into Alex's thumbcuffs. He then limbos under their connected arms and springs over the outstretched washer cord. The Security Guards clumsily turn and re-trip themselves.</context>
+      <utterance>"You could be swinging on a star." You couldn't have waited to see a psychiatrist. No, you had...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Big Stan suddenly unhatches from the freight elevator.</context>
+      <utterance>Let's go down the freight elevator.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Hawk and Alex run toward an office located at the right wall. They both do a Gene-Kellyesque-chair-tip-over before simultaneously bashing through the office door.</context>
+      <utterance>Keep those ideas coming.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="4">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Big Stan fires off a warning shot. Hawk and Alex quickly tear up a window. Moving out on to a ledge, Hawk and Alex look down to the huge auction house awning and trade gulps. Big Stan wobbles into the mouth of the office door.</context>
+      <utterance>I'm not as unpleasantly plump as that Guard am I.</utterance>
+   <speaker>HAWK AND ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I got a bad feeling....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't even swim.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Hawk and Alex jump and AAAGH down the face of the building.... Closer and closer to the awning.... The viewer focuses upon Hawk as he free-falls......</context>
+      <utterance>Hell, the fall'll probably kill ya... Big Stan raises his gun.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="14">
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hudson Hawkins gets the chair of honor. How about a Gates-arita?  I used real hot dogs.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Suddenly a light is turned on in the corner, revealing a seated Cesar and Antony Mario, the latter taking a painful Gatesirita sip.</context>
+      <utterance>Weren't you the bartender at Jonestown?</utterance>
+   <speaker>CESAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good job, not pretty, but good.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Gates pulls out the horse and looks at it.</context>
+      <utterance>Ah, the mafia, the cops; do I know how to party or what?</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All this trouble for a horsey. I may not know art, but I know what I like.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You certainly do.</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So when's that Sebastian-Cabot- Buckingham-Palace-looking- Butlerhead getting here?</utterance>
+   <speaker>ALFRED</speaker>
+      <mode></mode>
+      <context>A malevolently snobbish British Butler, ALFRED, enters in distaste. He makes a stressful glance to three VANITY FAIRS on a coffeetable that has a photo of a MAGNETIC HUSBAND-WIFE-DOG COMBO with the caption: MAYFLOWER POWER. Hawk notices this.</context>
+      <utterance>Any minute now, dear Mr. Gates.</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, sorry Jeeves. Gates-arita?</utterance>
+   <speaker>ALFRED</speaker>
+      <mode></mode>
+      <context>Alfred takes the equestrian model and with a jeweler's loupe, studies it carefully.</context>
+      <utterance>I'll pass. May I?</utterance>
+   <speaker>ALFRED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, such craftsmanship. Leonardo Da Vinci's last commission for the Duke of Milan. Irreplaceable.</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context>With dignity, Alfred SMASHES the ancient horse over Gates's head. Alfred rummages through the debris REVEALING a perversely labyrinthine CRYSTAL PIECE. (recognizable from Da Vinci's workshop).</context>
+      <utterance>Hey, Mr. French, I'm delirious for you. Now where's my cut?</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context>Alfred pockets the goodies, but not before Hawk can give them a confused peruse.</context>
+      <utterance>You son-of-a......I don't believe this! You come into my house!</utterance>
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context>A blade slides down Alfred's arm. Half-yawning, he...</context>
+      <utterance>I ought to take Big Ben and shove it up your limey blimey bunghole!</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="8">
+   <speaker>GATES</speaker>
+      <mode></mode>
+      <context>Suddenly a line across Gates's neck turns red and blood begins to gush like a tourist attraction. Gates crashes down upon the table holding the punch bowl and the stereo, sending it to the ground, cutting off the music. The Dog Poker picture falls atop the carnage like a lid. Blown away, Hawk tries to wiggle his way out of the recliner. Alfred pats some stain remover on the blood on his shirt.</context>
+      <utterance>Like I said. Where's my cu-u-...</utterance>
+   <speaker>ALFRED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So much for his "cut."  Excuse my dry British humor.</utterance>
+   <speaker>CESAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lovely work, Alfred, taking the Concorde back?</utterance>
+   <speaker>ALFRED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Indeed I am, Mr. Mario. I'm really racking up those frequent flyer points...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hate to interrrupt you two lovebirds...</utterance>
+   <speaker>ANTONY</speaker>
+      <mode></mode>
+      <context>The Mario brothers cackle out. Hawk tries to flail out of his chair. Alfred turns to him and flicks up his arm. Hawk sees his life pass before his eyes until he realizes Alfred is merely pulling him up off the chair.</context>
+      <utterance>You know, I think Gates promised Hawk a cut, too....</utterance>
+   <speaker>ALFRED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ta ta, Hudson Hawk.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too-do-loo, babe.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="2">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did I miss anything?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, not much. Gates just had his tonsils taken out. The hard way.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="10">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Butler did it. Guy was a cross between Alistair Cook and a Cuisinart. Dude took Mr. Ed and humptied dumptied it over Gates's head. He said it was made by, get this, Leonardo..</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah yes, a rare Renaissance piece. Da Vinci's "Sforza," an equestrian model of a never executed statue. I consider it to be the prize of tonight's auction of objets d'equestrian. Horse things. The cappuccino machine sparks. A perplexed Hawk takes a couple extra seconds to back off.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, you got me, Mr. PBS.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Morning edition. Seems two thieves "attempted" to steal it last night, but thanks to three "courageous" guards, it will be ready for tonight.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk takes the newspaper. There is a picture of the Three Security Guards in a cheery pose behind the "Sforza." Hawk squints to see that Security Guards One and Two are still wearing the thumbcuffs.</context>
+      <utterance>"Attempted." At-tempt-ted! I'm not happy about having to steal that horse, but I do have my pride. Face it, when it comes to burglary, and sex, I....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boing. Uh, this I don t understand...</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why try?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I'm tired of not understanding things. Cops, Mafia, and butlers forcing me to bust my ass to steal something, which it turns out I really didn't steal--it's fucked up.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You re not thinking of going to...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alex, my man, it's time to play a little offense. Where's your tux?</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="5">
+   <speaker>ECCENTRIC BALD AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Florentine marble... Who will start at 160,000...160,000......180,000. Someone raises their paddle as Hawk passes beneath the hanging horses and finds an aisle seat near the stage. Hawk scans everyone in the room before coming to the one seated next to him, AN ENCHANTINGLY BEAUTIFUL WOMAN.</context>
+      <utterance>...fan-taas-tic example of</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All these years of attending auctions, I still get goosebumps. The paintings, the sculptures....the things that aren't really paintings or sculptures...</utterance>
+   <speaker>THE WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>.... the pretentious vultures who don't even look up from their calculators to see what they're buying. Now that gives me goosebumps. Auctions are disgusting.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>The Woman laughs at his gear switch then catches herself.</context>
+      <utterance>I couldn't agree more. Savages.</utterance>
+   <speaker>ECCENTRIC BALD AUCTIONEER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lot Fifteen, an equestrian sconce attributed to the Cellini school..</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="22">
+   <speaker>ECCENTRIC BALD AUCTIONEER</speaker>
+      <mode></mode>
+      <context>A STYLISH FEMALE ASSISTANT takes out an impressive replica of the "Sforza" from the safe behind the podium and brings it to the Auctioneer. The crowd a-a-hs... Hawk laughs and shakes his head.</context>
+      <utterance>Sold! To the caller from Newfoundland.</utterance>
+   <speaker>ECCENTRIC BALD AUTIONEER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And finally, Lot number 17, thought to be lost in the war, and again last night, the Da Vinci "Sforza," the jewel of the sale. Fan-taas-tic...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is looking like a constipated warthog a prerequisite to getting a job in the art world?</utterance>
+   <speaker>ECCENTRIC BALD AUCTIONEER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There have naturally been questions of its authenticity, so to verify we have Doctor Anna Baragli of the Vatican. Doc?</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Hawk uneasily laughs as Anna makes her way up the stage and pulls out a large magnifying glass. A look of distress passes over her face. Hawk closes his eyes in anticipation.</context>
+      <utterance>Some of us warthogs are more constipated than others.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, the shit is going to hit the fa--</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fantastic. Perfection. The Vatican extends its jealousy to the lucky bidder.</utterance>
+   <speaker>ECCENTRIC BALD AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Hawk opens his eyes in confusion. He scans Anna coming off the stage, gliding toward the phone table. Hawk floats into the aisle, curling toward her as she picks up a phone and murmurs into it.</context>
+      <utterance>We'll begin the bidding at 82.5 million dollars. To you, sir. Eighty-three, Ninety--your bid, madame--Ninety point five.....</utterance>
+   <speaker>DARWIN MAYFLOWER</speaker>
+      <mode></mode>
+      <context>The crowd orgasms as Vanity Fair cover boy, DARWIN MAYFLOWER works the aisle, playfully mussing up the appreciative, tiaraed Princess's hair, giddily high- fiving the Rock Star, and sloppily frenching the Hooker.</context>
+      <utterance>lOO million clams, Francesco!</utterance>
+   <speaker>ECCENTRIC BALD AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Hawk turns to gaze at the enigmatically familiar figure. Anna looks up from the phone to do the same. She swerves her attention to the back-turned Hawk. Darwin moves to one of two reserved empty seats as his wife, Minerva, makes her entrance par excellahnce. She is outrageously dressed with a mammoth Tiffany watch that extends from her wrist down to, acting as a leash, her obnoxious little dog, BUNNY.</context>
+      <utterance>100 million dollars to Mr. Darwin Mayflower.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>Darwin, to the crowd's delight, holds his struck heart.</context>
+      <utterance>Francesco, 100 million and one.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Outbid by my own wench, quelle bummere.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Poor baby..... Here, Bunny.</utterance>
+   <speaker>ECCENTRIC BALD AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Commencing a slow motion sequence, Big Stan comes out of the nearby office, zipping up his fly. He immedi- ately scopes Hawk in the space before the stage. The Mayflowers lower themselves into their seats with devoured canary smiles.</context>
+      <utterance>Fan-taas-tic, the bid is at 100 million and one dollars.</utterance>
+   <speaker>ECCENTRIC BALD AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Big Stan pulls out his gun, untheatrically, as not to cause a scene. Anna sees this and follows Big Stan's eyeline to Hawk. Hawk turns to re-pursue but stops dead at the sight of the gloating Big Stan.</context>
+      <utterance>Go-ing!</utterance>
+   <speaker>ECCENTRIC BALD AUCTIONEER</speaker>
+      <mode></mode>
+      <context>Big Stan launches a gallop toward Hawk, who spins and veers back round up the aisle. The Mayflowers zero their sights on the activity.</context>
+      <utterance>Go-ing!</utterance>
+   <speaker>ECCENTRIC BALD AUCTIONEER</speaker>
+      <mode></mode>
+      <context>The gavel comes down in super slow-motion. Anna's leg pokes out of the aisle, tripping the guard. Hawk brakes at the end of the Mayflower's row and smiles in relief, casually turning to Darwin and Minerva. The gavel continues to come down in super slow-motion. Both Darwin and Minerva Mayflower suddenly DUCK DOWN. Smile vanishing, Hawk spins toward the stage. The Gavel hits. Breaking out of slow-motion into wide-angle, the entire podium explodes sending debris, equestrian pieces, and eccentric bald pieces searing into the screaming, battered crowd. Knocked off his feet, Hawk gropes into a standing position. He sees the Mayflowers make a smooth exit. He starts to give chase until he sees a battered Anna rising from the ground. A hanging white Tri-Star Pegasus, cracks from the damaged ceiling and swooshes down towards Anna. Hawk bolts upon some auction chairs and makes a flying leap. He slams Anna out of the Pegasus's pulverizing Path. They weary up off the ground and move down the aisle, calm in a storm of packed art patrons.</context>
+      <utterance>Gone!</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My God, that was bold of you, you didn't have to do that...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget about it--it was nothing-- anybody would have done the same thing--It's an impulse...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I meant you didn't have to tackle me and rip my dress. A polite push, perhaps? A clear shout of "watch out, Anna" would have done nicely...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Anna touches Hawk's lips and laughs.</context>
+      <utterance>Excuse me, Milady. I would have flown over and carried you up to a pink cloud, but I left my cape at the cleaners.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Why was the guard chasing you?</context>
+      <utterance>Thanks tough guy, thanks a lot.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="5">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk's eyes focus. The Mario Brothers hover over him.</context>
+      <utterance>Saint Pete, hey I know, the whole cat burglar thing, it sounds bad, but I'll take the worst cloud you got...</utterance>
+   <speaker>CESAR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>News flash. You're not in heaven. Yet. 30 seconds and counting, if you know what I'm saying. Couldn't just play along, could you...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pretty class way of covering your tracks. I think that auctioneer landed at La Guardia.</utterance>
+   <speaker>ANTONY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Subtlety was never one of our strong points.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>A confused Antony touches his teeth with his gun hand. Hawk escapes from one of his straps and launces a nearby trayful of syringes into Antony's face where they ghoul- ishly quiver. Antony fires a wild shot, shattering the partition.</context>
+      <utterance>Neither's flossing.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="3">
+   <speaker>FRONT SEAT OF THE AMBULANCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cesar pops his head through the partition.</utterance>
+   <speaker>CESAR</speaker>
+      <mode></mode>
+      <context>Antony, seemingly oblivious to the syringes porcupined in his skull, pokes his head next to Cesar's.</context>
+      <utterance>Make him into Roadkill!</utterance>
+   <speaker>ANTONY</speaker>
+      <mode></mode>
+      <context>Cesar and the Bodyguard/Driver turn to Antony and scream, then all three look out the windshield and scream.</context>
+      <utterance>Yeah, run him down!</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="5">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the worst night...</utterance>
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context>Snickers zaps Hawk in the leg with his device. Hawk a- a-ghs into a kneeling position. Snickers returns to his suitcase and is passed by a PLEASANT YOUNG BLACK WOMAN in the "outfit."</context>
+      <utterance>When it rains, it pours. Name's Snickers. The plane leaves in 40.</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context>She deftly kicks Hawk across the face. Hawk angrily bounds back up until he sees the BIGGEST MEMBER OF THE GROUP Fe-Fi-Fo-Fum his way toward them. Suddenly, the Giant clumsily trips over Snickers' suitcase apparatus and ram-collapses into Hawk and the gurney. Laying atop Hawk, Butterfinger goofily speaks...</context>
+      <utterance>Almond Joy. I know, pretty silly. But it's better than when we first started out, our code names were Diseases. You don't know what it's like being called Clymidia for a year.  Whoops, forgot....</utterance>
+   <speaker>BUTTERFINGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My name's Butterfinger.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>The mysterious group parts to reveal a much more mature and cynically subdued man dressed in big lapels and a hat that screams Old Time CIA. His name will be GEORGE</context>
+      <utterance>No shit.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="16">
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you just hate kids...</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>George, you promised. No Old CIA/ New CIA jokes...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I call them the MTV.I.A. Punks think Bay of Pigs is an herbal tea. They think the Cold War involves penguins and...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't I know you...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just might. I'm the guy who tricked you into robbing a government installation and then had you sent to prison for it. At the time, I was bald with a beard, no moustache, and I had a different nose, so if you don't recognize me, I won't be offended.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk explodes upward. Everyone but cool Kaplan draws a gun.</context>
+      <utterance>Bastard, you're going to need another nose!</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I'm not the type of guy to hold a grudge.</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I used you as a diversion. while you were getting captured upstairs, I was shredding documents in the basement. Deep down, I guess I was just jealous. You were one incredible thief...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>As Kaplan converses, Snickers and Butterfinger bring out a mammoth empty suitcase and open it behind Hawk.</context>
+      <utterance>To what do I owe the dishonor of a reunion, you centrally intelligent scumsicle.</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I Want to make things up to you. That's why I got you this gig, doll. Hawk, my name's George Kaplan and to quote the late, great Karen Carpenter, "We've only just begun."</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three minutes, twenty-three seconds. If you think I'm doing another...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hush. My employer wants a meeting.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Employer? The president?</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>what's that up there?</context>
+      <utterance>No, somebody powerful. Oh. Look.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm supposed to fall for that?</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>Kaplan savagely point-blank punches Hawk in the face, knocking him out cold and into the mammoth suitcase. Snickers slams it shut revealing a KENNEDY INTERNATIONAL sticker.</context>
+      <utterance>Shucks. Guess not.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="3">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk's spinning view and the music on the soundtrack slam to a halt as he zeroes in on the sight of Scary Butler Alfred elegantly reaching the top of the staircase.</context>
+      <utterance>No. Way.</utterance>
+   <speaker>ALFRED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welcome to Rome, sir.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes way.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="4">
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For those kind of wages, I could have built the factory in America! They're Vietnamese, can't we just give them more Bart Simpson shirts? I hear depressing news like this and I want to commit genocide!  Alfred, hold my calls. So, Hawk! The Hawkster! What do you think of the vehicle?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could host American Bandstand in here. Why did you duck at the auction, asshole?</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>A FAX MACHINE comes to life as Darwin babbles.</context>
+      <utterance>Because I didn't want to get hurt, taterhead.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>Darwin scans the Fax message with annoyance, and then shoves it into a violent paper shredder.</context>
+      <utterance>What can I tell you, I'm the villain. Initially it was a priority to keep a lot of buffers between you and me, but since most of them are dead now, I thought what the heck. Hawk, you come highly recommended. I would have done some things differently at the auction house, but hey, I want to be in business with you.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="5">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My life is not some deal. I...</utterance>
+   <speaker>ALFRED</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>It's Boston, Mr. Mayflower.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>Darwin picks up the phone and goes Mr. Hyde, while giving Hawk "Can you believe this guy"-type gestures.</context>
+      <utterance>I'm sorry, I have to take this. Those are valid points though...</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>Darwin holds the phone over a 50 cent piece-size siren in his armrest. Darwin presses a button and a PIERCING NOISE fills the car as it comes to a stop.</context>
+      <utterance>You better have a good excuse... You better have a better excuse! You are so weak! I'm only thankful your ancestors didn't settle America or else my name would be Running Brave or Vomiting Antelope...Really. Well, listen close, babe.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>Darwin bolts out. Hawk hangs back, waiting for Rod Serling to explain things, then bolts out too.</context>
+      <utterance>Shall we?</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="5">
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So Hawkasaurus, I won't mince words...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatever. You own Boardwalk, you own Park Place, you own the four railroads. You think you're God. For all I know, you're probably right. I just wanted to have a damn cappuccino, maybe play some Nintendo after I find out what it is. Man, why didn't you just</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you're pausing for a "thank you," give it up. So boss, you going to tell me what the crystal piece inside the pony means?</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Way to go, Alfie! How many people did you break that thing in front of. Good help's hard to find.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess that's a no.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="19">
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>The board members go into tableau silence. Minerva con- tinues a brief sing-a-long before Darwin scolds...</context>
+      <utterance>Ladies and gentlemen of the board...</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>The board applauds as Alfred pushes Hawk inside.</context>
+      <utterance>And Min-er-va. Let's give it up for Hudson Hawk.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>Minerva lobs a ball in the air. Bunny, the annoying dog, scurries beside Hawk to catch it. Moving down toward the other end of the table, Hawk takes in the surreal surroundings with battle fatigue. He sees ONE BOARD MEMBER take a luxurious sip of cappuccino. Minerva paces up upon the table.</context>
+      <utterance>Hello......Bunny, Ball-Ball!</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hawkmeister, we got you clothes, great hotel, and a 250,000 lira per diem.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's two hundred dollars a day? So he can get a hooker and some tequila. Veto, Darwin.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guess I know who wears the penis in this family.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>With a yawn, Alfred pulls out a pair of state-of-the-art handcuffs.</context>
+      <utterance>For God's sake, chain this convict.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk kicks out at Alfred, who nimbly moves slightly and gives a pummel to Hawk's body somersaulting him over the edge of the table, into an empty seat. The Board Members politely applaud. Alfred pulls Hawk's hands around his back and cuffs him. Bunny intensely sniffs his crotch.</context>
+      <utterance>Alfred, you're a very polite psychopath, but if you...</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We want Da Vinci's sketchbook, what do they call it, the Codex.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen Hawk, this might be hard to believe, but I'm a regular joe. I just want to be happy and happiness comes from the achieving of goals. It's just when you make your first billion by the age of 19, it's hard to keep coming up with new ones. But now finally I got my new goal. World domination. With your help...Bunny....quit that!</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bunny, ball-ball! Bad bunny!</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Minerva yanks away the yelping dog.</context>
+      <utterance>Think he's already got today's ball-balls. Five more minutes please, it's been so long...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anybody have a cigarette? But seriously, do me a favor and Concorde me back to prison. I don't care anymore. I hope you have the receipts for the threads.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>Depressing.</context>
+      <utterance>You go back, you won't be alone. You'll have a diabetic barkeep cellmate. You're still young enough to have fun shanking child molesters for a pack of smokes, but "Alex" will go in knowing that the next time he gets out it'll be to attend his own funeral.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wouldn't risk the dime to call the police. You have no proof.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>Alfred plants a slide machine on the table and Darwin starts clicking gorgeous images of Hawk and Alex robbing the auction house, on a bare wall. The Board members gush. The Elderly Woman gives a thumbs-up.</context>
+      <utterance>Ah, the magic word...</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>A slide hits the wall of himself and Minerva kneeling in Big Baby clothes with Alfred snarling over them, decked out in leather. He clicks ahead... Hawk looks away and sees that the Board members have an annual Report-type booklet in front of them that reads--</context>
+      <utterance>It's veja du, Hawkhead. Something you wish never happened. We shot the entire operation with hidden cameras behind the hidden cameras. Hired the guy who did the last Sports Illustrated Swimsuit issue. Excellent work... whoops, damn Fotomat assholes...</utterance>
+   <speaker>THE DA VINCI/ALCHEMY PROJECT.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Minerva leans over in front of him.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tomorrow, you're going to hit a church.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="3">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, I'm being blackmailed into robbing the Vatican by a psychotic American corporation along with a CIA...</utterance>
+   <speaker>VATICAN GUARD</speaker>
+      <mode></mode>
+      <context>A jaded Hawk laughs and pats the cop on the back.</context>
+      <utterance>"You're being".....uh, I don't, uh...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget it, man. Go tackle a jaywalker.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="6">
+   <speaker>ANNA</speaker>
+      <mode>V.O.</mode>
+      <context>Hawk brightens to the return of Anna, carrying a portfolio bag, striding down the stairs with a group of INVESTORS AND FAMILIES. She brightens back, giving him a quick verbal breath and a hand squeeze.</context>
+      <utterance>But it is his gift as an inventor who drew together science and art that is most incredible.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tough guy. What are you--How's your head.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>She laughs, going into her public voice.</context>
+      <utterance>Yes, and my giraffe loves it, too...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As you know, the Da Vinci Codex, has lived in the Vatican for centuries and will continue to live here for centuries more.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what you theenk.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Question, sir? His untiring pen predicted the airplane, the submarine, the bicycle, the helicopter, and even the tank.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="5">
+   <speaker>LITTLE BRAT</speaker>
+      <mode></mode>
+      <context>The Little Brat stops and lets Pokey the elephant dangle from her side. Hawk eyes the elephant strangely.</context>
+      <utterance>This is so bor-ing! Do you hate Italy as much as I do, Pokey?  Si, senor! Italy sucks the big one! why can't we go to the Epcot Center!</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>inspired him to develop a secret code that .... The stuffed elephant suddenly goes flying over Anna's head. The ALARM goes off. The Massive Ornate Lighting Fixture swoops down from the ceiling, inverting in air, and slams down over the Codex, transformed into a makeshift cage. Strange green gas comes billowing out of the vents. Needless to say, everyone goes crazy. Coughing gas, Hawk peeks to see that a line of light sensor alarms imbedded in the tablets are what set the alarm off. Two GAS MASKS drop airlinesquely from the mouth of the entranceway and TWO RACING-IN GUARDS wrangle them on. The Little Brat sees that Pokey the stuffed elephant has been beheaded by the cage/lamp. She is pulled away and spanked.</context>
+      <utterance>These more dangerous designs</utterance>
+   <speaker>LITTLE BRAT</speaker>
+      <mode></mode>
+      <context>Anna yanks a notetaking Hawk away as the gas blusters in around him. The Two Flunkies, eyes on Hawk, are hap- lessly making their way up the opposite staircase.</context>
+      <utterance>Pokey, come back!</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, this stuff will knock you out. Have you ever had the feeling you were being followed, Mr. Bond.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Reaching the top of the stairs, just outside the door, Anna briskly pulls Hawk into a PIECE OF WALL THAT IS REALLY A DOOR. The wall closes as the Flunkies come flying out, baffled.</context>
+      <utterance>Never, why do you ask?</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="3">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Not a compliment...</context>
+      <utterance>Whoa. Name's Hawkins, Eddie Hawkins. My nickname's Hudson Hawk, but don't call me Hudson, not even as a joke. The Nuns at St. Agnes called me that and they're the ones who helped make me what I am today.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure Hudson. Are you going to tell me why you did that back there or are you going to blame it on Dumbo?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Anna shakes her head as she opens a door into...</context>
+      <utterance>Could you believe that crazy elephant?</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="15">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa, part 2. Does it go to Times Square?</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Delivers up to ten at night. The Pope has an obsession with his Easter Seals. It's actually not that an unusual set-up. The secret passageway on the other hand....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Vatican is made of constant mysteries meant to be enjoyed, not explained.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nice. But right out of our brochure.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you read that.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Actually I wrote it. It's a good sentence. It can apply to people.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not an unmysterious thang yourself.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't steal stuffed elephants from little girls.  And I buy my own clothes. My life's a little boring...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God, I wish I could say the same thing. What about having a nice, dull dinner with me tonight. Scrabble, Knock-knock jokes, Anecdotes about famous dead Italians....</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>The Two Flunkies stumble into the station, looking around. Anna and Hawk crouch down.</context>
+      <utterance>I'll bring my entire repertoire...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I'll bring my entourage...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Enzo's. Say 10:30.</context>
+      <utterance>Secret passageways don't mean as much as they used to. There's a place two blocks east of here.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk and Anna peck each other with a smile. He crawls out an exit door. As he leaves, Anna's smile disappears. She pulls out a rosary and gives herself a self-scolding bang on the head. She then darts to a large crucifix and looks up.</context>
+      <utterance>Said.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Suddenly a speaker in Jesus's mouth gently crackles. JESUS (Italian) Report downstairs at once.</context>
+      <utterance>Father, it's obvious. He's up to something.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="6">
+   <speaker>CARDINAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did he mention the Mayflowers?</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, your Eminence. I think he's going to steal the Codex, as early as next week.</utterance>
+   <speaker>CARDINAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Attempt, you mean. The vanity of this man, Hudson Hawk. The Vatican has foiled the advances of Pirates and Terrorists. We will not lie down for some schmuck from New Jersey. Must you flirt with him so realistically?</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the best kind. A wise woman once said "Polite conversation is rarely either."</utterance>
+   <speaker>CARDINAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me be the one to quote Scripture. ....As an agent of our organization, you are put in awkward situations. Just remember, Hudson Hawk is an evil, evil man.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. The big E.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="3">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>The Mayflower limousine creeps to the edge of the piazza, behind an oblivious Hawk.</context>
+      <utterance>Hello, operator. I'd like to make a collect call to New York number...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk turns, putting a finger in his ear. Seeing the limo, he FREAKS and balls himself into a corner.</context>
+      <utterance>Thank you, operator, thank you.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, Alex, pick up, you Reindeer goat cheese-eating motherfucker.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="17">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk slams down the phone and turns to see the limousine pull off. Hawk angrily bursts from the door and is painfully CLOTHESLINED by agent Butterfinger, who is dressed as a mailman. Crumpled on the ground, Hawk kicks out with his foot, into Butterfinger's stomach, doubling him. Hawk then grabs him by the head and rams into the glass of the booth. Hawk rotates off for an escape...but the rest of the CIA crew cuts him off holding barely concealed guns; Snickers dressed as a maitre 'd, Almond Joy as a Bermuda tourist, and Kaplan in his usual emsemble. Kit Kat is dressed exactly like Hawk, right down to a bloody lip. Hawk gives him a double take.</context>
+      <utterance>A-lex, A-lex, come on Alex.</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hawk, Hawk, Hawk. Enjoying Italy? I always had a soft spot for Rome. Did my first barehanded strangulation here. Communist politician.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why George, you big softie...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>A humiliated Butterfinger comes waddling out, holding the phone. Kaplan rolls his eyes.</context>
+      <utterance>God, I miss communism. The Red Threat. People were scared, the Agency was respected, and I got laid every night.</utterance>
+   <speaker>BUTTERFINGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry, coach...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If his father wasn't the head of Shit, I hate this, the government's got me farmed out, working for the Mayflower corporation now, money beats politics. War isn't Hell anymore, it's Dull. Don't slaughter their men and rape their women, just steal their microchips.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know Kaplan, if you weren't the slimiest pinata of shit that ever lived, I'd feel sorry for you.</utterance>
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context>You're hitting the Vatican to-night.</context>
+      <utterance>Good news, bud, the Mayflowers have moved up the time-table.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Almond Joy smoothly extracts Hawk's notebook and reads...</context>
+      <utterance>Tonight? You're whacked. The timing's off, I'm underequipped Damnit, I have a date!</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Grapple, Biker's bottle, hairspray, black turtleneck, Pocket Fisherman, acid, collapsible yardstick, softball, and 72 stamps. Gee Stud, this is going to be some date. No Harvey's Bristol Cream?</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Snickers, make the list happen. Oh and it's one thing to play hide and seek with the Mayflower's pathetic staff, but we're sore losers. I've put jumper cables on the nipples of children and not always in the line of duty.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks for sharing.</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We blow up space shuttles for breakfast. You and your friend Alex would be a late afternoon Triscuit.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you do anything to my friend...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>Kaplan and the crew quickly disperse in different directions as Hawk howls in frustration. Kit Kat moves behind Hawk and perfectly mimics him.</context>
+      <utterance>Yeah, right. By the way, as long as I'm getting things off my chest, I'm the one who killed your little monkey. Made it look like a Mafia hit. Did it for fun. Ciao.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Without looking, Hawk elbows the mimic Kit Kat in the face. Kit Kat gives Hawk a strange smile and hands him a card that reads: BEWARE THE ODD STEPS. Hawk looks up from the card. Kit Kat is gone, but Butterfinger scampers in his place.</context>
+      <utterance>What did you have against Little Eddie, motherfucker? He was just a monkey who liked to laugh. Come back without your yuppie army. I'll triscuit you, you space shuttle eating...Shit.!</utterance>
+   <speaker>BUTTERFINGER</speaker>
+      <mode></mode>
+      <context>Sighing, Hawk takes the huge sheath of stamps.</context>
+      <utterance>Hey, Mr. Hawk, I got those 72 stamps!</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="2">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk crouches down and notices the step below him has a clear magnetic tape running across it to a dime sized alarm button.</context>
+      <utterance>"Beware the Odd Steps."</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk bounds down every other one of the steps down to where the Codex is bathed in a holy light. He hefts up the two now frameless mirrors and puts them each in a groove of a collapsible yardstick running across the top. The parallel mirrors now face out from each other. Hawk sprays a blast of Clairol to reveal the light sensor beams, and then with a deep breath, he thrusts the mirrors into the beams. The light bounces harmlessly off the mirrors and Hawk exhales. He balances the connected mirrors then crawls through his tent-like passageway. Hawk squirts acid from a biker's bottle on the cracks of the rectangular glass case that holds the Codex. The acid sizzles.</context>
+      <utterance>Why Kit Kat, aren't you a gentleman...</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="2">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk pulls up the bag and turns himself to see Vatican Guard hovering over him on the roof.</context>
+      <utterance>Please God, Please God.......let the guard shoot me.</utterance>
+   <speaker>VATICAN GUARD</speaker>
+      <mode></mode>
+      <context>Hawk sees the Vatican Guard's foot move toward the grapple. Hawk ferociously tugs, ripping the Guard off-balance and knocking down a side of the roof.</context>
+      <utterance>The worm's on the other foot, yankee noodle candy.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="5">
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh Hudson, I was worried you weren't going to drop by....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk does the honor sign with his black gloved hand then quickly rips it off as a WAITER comes to the table.</context>
+      <utterance>I never break a date. Scout's honor.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fettucini con Funghi Porcini.</utterance>
+   <speaker>WAITER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bellissimo, signor.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Anna hits her forehead with the palm of her hand while the waiter's entire body sinks in disappointment. Other TABLE OCCUPANTS sadly shake their heads.</context>
+      <utterance>Oh, and could I have some ketchup with that.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="5">
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, Pierre, Steak-bur-ger, Fren-n-ch Fries. This is France, you gotta have French.....</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context>The Waiter sneaks off. Butterfinger devours his bread.</context>
+      <utterance>Actually we're in Italy, Snickers, she said as if it made a difference.</utterance>
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Italy, France, Moscow. They all just wanna be Nebraska. Old Man Kaplan thinks since Communism is dead, we got nothing to do. Man, Democracy isn't free elections. We gotta teach the world that Democracy is Big Tits, College Football on Saturdays, Eddie Murphy saying the word "Fuck" and Kids putting their hands down garbage disposals on "America's Funniest Home Videos."</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn baby, when's the last time you had a vacation...Jesus, I gotta get out of this job. If my Mom knew her daughter assassinated the leader of the anti-Apartheid movement....</utterance>
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context>They look off to....</context>
+      <utterance>Quit bitching, you got the employee of the month plaque for that shit...Ah to be in Pari-is and in love.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="10">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is bueno. They had the worst ketchup in prison.....uh...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Prison?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was the Warden?</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long were you in?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's just say, I never saw E.T.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow, you were "in the joint." "Doing hard time." It's funny, but that excites me. I seem to have a thing for sinners.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>sinning. Check please....</context>
+      <utterance>I seem to have a thing for sinning.</utterance>
+   <speaker>WAITER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, anything for dessert?</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. Something to go.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll bring the ketchup.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="7">
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What have you been doing?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Anna giggles and bends to kiss a bruise. She stops herself and opts for tickling.</context>
+      <utterance>Uh....old badminton injury.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>tickles, ticKleS, TICKLES.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Roaring with laughter, they capsize onto the floor. Hawk slithers around to devour her toes. Anna closes her eyes and arches her back..... She opens her eyes and sees a large crucifix staring right at her. With a gasp, she rolls away from Hawk and stands up, trying to brush off her sins.</context>
+      <utterance>Oh, I'm so sorry...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. I can't. I....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey now, outside of a very friendly dog this morning, it's been a slow decade. I don't make love every ten years, I get a little cranky.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Their heads fuse for a semi-classic screen kiss until</context>
+      <utterance>It's also been a long time for me. I--</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="7">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Catholic girls are scary...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Somebody robbed the Vatican.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Anna slides on her shoes and makes a hasty retreat. She bumps into the canvas bag. The Codex slides out. They both catch it in mid-air. Anna's eyes pop. She wrenches the Codex away and kicks. Hawk pulls her into a compassionate back-against-his-stomach hug. The Codex falls to the floor unharmed.</context>
+      <utterance>Oh. No.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not what you think. Okay, maybe it is....</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You really went and did it. With one day, not even a day, of planning, you did it. Nobody does it better, Hudson. You started the week stealing the Sforza and you ended it swiping the Codex.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wha--</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are your plans for the weekend? Hoisting away the Colosseum? Tell me, did the devil make you do it or did Darwin and Minerva Mayflower?</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="5">
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on in there?</utterance>
+   <speaker>BUTTERFINGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you want me to rape them?  Dunkin does it better.</utterance>
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context>Butterfinger pulls up the book on Da Vinci that Anna wrote and starts reading like a schoolboy.</context>
+      <utterance>Just read, Butterfinger.</utterance>
+   <speaker>BUTTERFINGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Da Vinci had fears about his more dangerous designs, so he created a shorthand code in reverse script..."</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To yourself!.....What are they doing? In twenty seconds, we go in.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="6">
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For two years, I've been tracking the Mayflowers' peculiar interest in three Da Vinci pieces. Their Sforza replica was as fake as the "gas leak" that supposedly destroyed it.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does everyone in the world know more than me? Jesus, I'm just some guy who happens to be good at swiping stuff.....Lifted a piece of licorice when I was one and a half. Who knew it would lead... They even got the CIA involved!</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The C.I. what? God, no...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ooh, I guess I do know something Here's looking at you, kid...</utterance>
+   <speaker>THE CAR OUTSIDE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The agents burst from the car, guns raised.</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="5">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This doesn't taste like cappuccino.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Anna throws a pillow on the ground and holds out her hand. Hawk collapses. His coffee cup lands perfectly in Anna's outstretched hand and his head lands perfectly on the pillow. The candy bars bash the door open, guns raised.</context>
+      <utterance>Oh, I must have put too much ethyl-chloride in it.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why didn't you tell me at the restaurant that he had hit the Vatican tonight. My people will not be happy. I want to see Kaplan.</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not overly possible. He...</utterance>
+   <speaker>BUTTERFINGER</speaker>
+      <mode></mode>
+      <context>Snickers and Almond Joy grimace into fake smiles.</context>
+      <utterance>But guys, remember, he's in the castle at Vinci....</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="15">
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Way to go, Anna.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When the Mayflowers find out we have the Codex, they're going to want to make a deal...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>Hawk stirs. The viewer gets his woozy P.O.V.</context>
+      <utterance>And then we'll arrest those greedy pigs... Is that it?</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>The lights in the room come on to the sound of holy Da Vinci theme, revealing an almost perfect refurbishing of the exact same workshop Da Vinci toiled in in the opening.</context>
+      <utterance>Actually George, it's not it. What are we doing in this castle? I happen to know the Mayflowers bought this castle last year when they found out Da Vinci used to do...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the site of their new museum and we're taking it over. Operation Deflower Mayflower is going full speed ahead.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh Lord.... the only reason I ask is that Hudson, uh, Mr. Hawk, Hawkins, had some "neat" things to say about Darwin, Minerva, and you. Basically that you're part of the same car pool.</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>Kit Kat in drag spookily moves inches away from Anna.</context>
+      <utterance>Anna. Anna. Anna. If that were true, Almond Joy would have handed you your heart right after you handed me the Codex. Now, get some sleep. Kit Kat...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cat got his tongue?</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>Kit Kat smiles, revealing the fact he has no tongue.</context>
+      <utterance>Actually he never told us what it was.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How sweet. I trust you will see Hudson Hawk is given to the proper authorities. I recommend leniency...</utterance>
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context>Hawk gives her a look of honesty and pain that causes Anna to guiltily gulp as she heads out with the mimicking Kit Kat.</context>
+      <utterance>Oh, I think we all do.</utterance>
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you think she has any idea that Operation Deflower Mayflower is as bogus as Kit Kat's tits?</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think so, although bringing her to the castle gave her a big, juicy hint.</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With all due respect to that great blouse, why didn't I cut out her heart?</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Close call, but she's our only way of keeping tabs on that damn mysterious Vatican organization. Hawk, it's time to go to the principal's office....</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="11">
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>Minerva turns the gadget up to SEVEN and presses a button. Another tennis ball shoots out, a little faster. Darwin batters it. The ball ricochets into the forehead of an "amused" Alfred who is retrieving balls in sweat pants.</context>
+      <utterance>Seven!</utterance>
+   <speaker>ALFRED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jolly. Good. Shot. Sir.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ooh, it's Hudson Hawk, you cease to amaze me, convict. You are a</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like a "cat", one could say.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk reaches for the Codex. Kaplan pulls it over to Darwin, who pulls up his goggles and fondles the ancient binding. Taking a knife from Kaplan, he begins to slit it open.</context>
+      <utterance>Shucks, I'll just take it back.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, let me!</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>Hawk looks away to the billowing sheets and the strange machine parts behind them. Minerva slits the bindings and tugs out another geometri- cally perverted crystal.</context>
+      <utterance>I don't care.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Kaplan, Darwin, and Minerva look up to Hawk, then to each other, all start to speak, then all stop. This quandary is deferred by the entrance of the twin Flunkies.</context>
+      <utterance>Another piece of the puzzle for the Da Vinci Alchemy project.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>Hawk uses the distraction to amble toward the sheets.</context>
+      <utterance>Oh, you. There's nothing more I hate than failure. All you had to do was follow the Hawk, it's not like I said "Teach our nation's children how to read."</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>Shockingly swift, Minerva pulls a small gun from beneath her tennis dress and blasts a burning hole between each set of Flunky eyes, splattering them to the ground.</context>
+      <utterance>I guess we're just going to have to kill 'em...</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God Minerva, I was</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="17">
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get away from there, convict!</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Snickers touches him. Hawk smashes him in the jaw. Snickers rears back to reciprocate....</context>
+      <utterance>Just browsing. Don't touch me....</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>Snickers stops himself, snarling in frustration. Hawk is suddenly the happiest man he's been in Italy.</context>
+      <utterance>Don't hurt him! We need him for the final job!</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk pulls Snickers' glasses off and stamps them.</context>
+      <utterance>Oh weeeeelly, don't hurt me? Even if I do this....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk knees Butterfinger in the stomach.</context>
+      <utterance>And this....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk body-block-dominoes Butterfinger and Snickers to the ground. Kaplan and Almond Joy aim their guns.</context>
+      <utterance>Surely this must offend....</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>Playfully lifting his shirt, Hawk grabs Minerva and manually swivels her hips to the beat of his.</context>
+      <utterance>That's it!</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk mambos to Alfred who rifles his blade up to Hawk's crotch. Hawk stops dancing.</context>
+      <utterance>Things are getting a little loose at the Da Vinci workshop tonight. "Put your left leg in, take your right foot out." May I call you Minnie....</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come to think of it there is a part of your body that you won't need for your next job...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Alfred moves the blade a little upward. Hawk a-a-ghs.</context>
+      <utterance>Hey, guys, I've always wanted to sing like Franki Valli and the other seasons, but come on....</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Big girls don't cry-I-eye.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>I wanna be treated as an adult.</context>
+      <utterance>Two minutes, 35 seconds. Damnit, I'm involved in this thing, so I just wanna know what this thing is.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>Alfred strategically Vulcans Hawk on the neck. He falls.</context>
+      <utterance>That's fair. Tomorrow. Back in Rome. Now go to your room.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forgive me Father for I have sinned. It's been 1200 hours since my last confession.</utterance>
+   <speaker>CARDINAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hit me with your best shot.</utterance>
+   <speaker>ANNA</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>I betrayed a man. A good man. An innocent man. A thief.</utterance>
+   <speaker>CARDINAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anna, what are you trying to say...</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="3">
+   <speaker>CARDINAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Messed around" messed around? I know-- I don't want to know. First base? Second Base? Stop me when I'm getting warm...</utterance>
+   <speaker>ANNA</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>A little petting is not the issue!</utterance>
+   <speaker>CARDINAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry. Seventeen Hail Marys and five minutes outside.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="6">
+   <speaker>CARDINAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So let me get this straight, sister, you're saying Hudson Hawk is not willingly working for the Mayflowers but Kaplan and the Candy Bars</utterance>
+   <speaker>CARDINAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, why couldn't I be the Cardinal in charge of catering.... If the Mayflowers get the three sections of Da Vinci's crystal and his instructions for the gold machine-- Aie-yi--Do we got anything? What of Alex, Hawk's friend, where is his loyalty?</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going to find out.</utterance>
+   <speaker>CARDINAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry for losing it back there, but you must remember, sister, you have vows to God as well as a mission to the world.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know, I know, your Eminence, just say "God go with me."</utterance>
+   <speaker>CARDINAL</speaker>
+      <mode></mode>
+      <context>Anna puts on the coolest pair of sunglasses, deliciously contrasting with her habit. She moves off....</context>
+      <utterance>God go with you, sister.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="16">
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, Captain Hawk, in one of your paws you got a gold bar worth about 8 thou. In the autre, you got lead that won't get you gelato.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Surely a master-thief like you can tell the difference.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk "weighs" the two bars in his hands--digs with his fingernails. He rips off the blindfold in subdued frustration. As Minerva speaks, she unconsciously molests Alfred.</context>
+      <utterance>That's two down to Kitty Carlisle...</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cool, isn't it? Weight, feel, mal1eability, they're all but identical. On the periodic chart of elements, they're but one proton apart. Great minds worked for centuries to turn worthless into priceless.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alchemy.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alchemy! Is the business term of the 90's, my man! Minerva read about it in an airline magazine about four years ago. I dumped some lira into research... Shazam, we come across a diary by one of Da Vinci's apprentices detailing La Machine de Oro, the gold machine for those at home, and the rest is about to become history. Money isn't everything, gold is. Fuck blue chip stocks! Fuck T-bills! Fuck Junk Bonds! I got the real deal! Money will always be paper but gold will always be gold!</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Market crashes. Bomb drops. Greenhouse effect affects. We'll still be the richest, most powerful people in the world. In 1992, Europe is coming together to become one business superpower. It's one party we'd love to poop.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, that said, the last ingredient in the recipe is in, get this, you're gonna die, the Kremlin.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. The Kremlin. Makes sense. The Kremlin. Why not? Listen, this is all too Indiana Jones and the Lost City of King Tut for me, man. Throw me in jail and go ahead, just try and throw Alex...</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>Minerva angrily throws the dog off her lap and whips a tennis ball into its mouth.</context>
+      <utterance>Jail, you asshole! Our foot soldiers will blow your brains out! Bunny, Ball-Ball!</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll torture you so slowly you'll think it's a career! I'll kill your family, your friends, and the bitch you took to the Prom!</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Bunny barks up at Hawk in anger.</context>
+      <utterance>You want an address on that last one?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bunny, not you too?</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>Alfred quickly latches on the state-of-the-art handcuffs and the blindfold. The viewer's viewpoint stays on a writhing Hawk.</context>
+      <utterance>You've got a dilemma, tiger. I think I know what's going to help you solve it.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk kicks back on the table, "jump ropes" the cuffs, then picks the lock with his teeth. Hawk rips off the blindfold to see that the entire room is empty except for Alex, standing at the other end, in an incongruous Italian leather coat.</context>
+      <utterance>I'll kill all you. Even the old lady.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Alex pulls out a gun from his jacket and clicks it in.</context>
+      <utterance>I hated cigarettes until I saw my first No Smoking sign. Keep off the Grass? Let's play Soccer. Only law I cared about was friendship. Broke that one too, didn't I? This Gates-Mario Brothers-CIA-Mayflower-Da Vinci thing seemed like a sweet deal. Visit foreign lands, take their treasures. I don't know, I thought you'd get into it. It's better than playing darts with M.B.A.'s at the bar. I didn't know it was going to be like this. Them using me to use you... I'm sorry, there's only one way out of this and it's gonna hurt me more than it's gonna hurt you.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="8">
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just don't think it was a smoking hot idea to leave them up there alone.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry George, this is the reason we put the old diabetic guinea on the payroll to begin with. To keep Hawk in line. They'll talk about "being buddies" and "chugging brewskis."</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>As Darwin slaps Kaplan on the back, behind them, Hawk and Alex come crashing out of the windowed doors of the building.</context>
+      <utterance>You gotta love male bonding.</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>Moving to the edge of the stairs, Hawk and Alex, latter holding his gun, sprout up from their own debris and continue savagely brawling. The wigging out passers- by give them space.</context>
+      <utterance>You were saying...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Alex trembles, going into a diabetic seizure. He shakily raises his gun.</context>
+      <utterance>You bastard! You fucked my freedom for a lousy job!</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Hawk roars forward like a bull and helmets Alex. They roll together down the massive staircase past Darwin, Minerva, and the CIA who react with "This can't be happening" catatonia. Two SHOTS go off as Hawk and Alex crash to the bottom of the staircase. Hawk rises up in a daze to see Alex on the ground with two bloody bullet holes.</context>
+      <utterance>Hawk... I'm so sorry...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk falls to his knees as Snickers hustles toward him. Suddenly, sirens are heard as a police van pulls up. Snickers stops. Four policemen blast from the back of the van. One holds back the crowd. One strenuously pulls Hawk into the van. The other two drag in Alex. The villains look to each other for non-existent guidance as the van pulls away.</context>
+      <utterance>No.....Alex! Wake up, you can't go out like this.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>Using initiative, Snickers hops on a Vespa and roars off after them. The van can be seen swerving off.....</context>
+      <utterance>Plan B, anyone...</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="26">
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh thank God, you're dead...</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Hawk's fist whooshes into frame and blasts Alex's jaw.</context>
+      <utterance>It was so beautiful! When the blanks went off, they...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You bastard. You fucked my freedom for a lousy job.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I said I was sorry....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No sweat, Alex, you only made the biggest mistake of</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hudson, don't you understand...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you, Dr. Cappucino, you're lucky I don't hit women, assuming you are a woman. I'm not taking anything for granted anymore.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I-work-for-a-covert-Vatican-humanitarian- organization. The-CIA-made-a-fool-of-me. I-care-for-you...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk pulls out the Demon Head that was in the Mayflower Museum from out of his pocket. Anna turns white.</context>
+      <utterance>Oh. Well, what's this?</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where did you get this?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, the place where you gave the bad guys the Codex.... the Mayflower Museum.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's from the machine. All they need is the crystal to run it and they have 2/3 of it already. We can't let that happen.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're saying you want us to beat them to the crystal and save the world from financial disarray.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Something like that.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, forget about it. Hawk and I are going to Rio. We're hurt, we're tired, and a hero ain't nothing but a sandwich. Right, buddy?...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hudson, God's given you a gift for cat burglary, you can t just...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You better believe I can. I'm sick of people telling me what I have to do.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's that kind of selfish attitude that...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Selfish attitude? I'm just some guy who wants a little nap and a cappuccino for when he wakes up, not too much foam...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Anna looks to Hawk with a choked-up expression. The weight of the world on his shoulders, Hawk turns away to a lovely view, his mind painfully raging and swirling toward peaceful clarity.</context>
+      <utterance>You re not "some guy" anymore, Hudson. Right now, you're the only guy. Without your help, I....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Anna involuntarily does the sign of the cross. Alex goodnaturedly does a jerking off motion.</context>
+      <utterance>The world is beautiful. Every day in prison I made sure to remember that. It's only when I actually got out that I forgot. If I was sane, I'd be on that plane to Rio. But being beaten and abused to fulfill some corporation's perverted vision does something to your mental health. The world is beautiful and I'm tired of being fucked.  It's Darwin and Minerva's turn to bite the pillow...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was beautiful.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Shaking his head, Hawk swipes the plane tickets from Alex.</context>
+      <utterance>I laughed, I cried.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rio, Alex? After all they've done to...Hey, these tickets are for Moscow!</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn travel agency. That Kremlin thing is in Moscow, isn't it? A proud Hawk slaps Alex on the back as some passing ITALIAN LOCALS stop to stare, horrified, at Alex's bullet holes. Anna sweetly intervenes.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>The locals give off a slightly dazed "A-a-h" and move off.</context>
+      <utterance>Ketchup. Stupido Americani...</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="4">
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're all family now. My team has done a lot of rougher things than steal the model of a helicopter.</utterance>
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context>Darwin and Minerva politely smile and then turn away to each other with knowing looks. The computer screen shows the familiar image of the Kremlin building that turns into a complex look at interiors the viewer will later see.</context>
+      <utterance>We're going to whack this place so fast we'll have time to shop for American imports.</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lucky for us, the Da Vinci is located in a wing of the Kremlin that they used to throw the Miss Ukraine pageant and stuff. It'll have the least number of guards....</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As for our plan of action, anybody'd be insane to go in from the ground floor...</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="10">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're going in from the ground floor.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk laughs and pops up into the passenger seat. Anna is revealed to be driving in her habit. Hawk gives her a kiss.</context>
+      <utterance>Geez, this Art Treasures Room looks like a burnt diaphragm.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, don't take your disguise so seriously.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, yeah. Guess I'm a wee bit nervous. I'm sorry I could only score clergy passports.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk, Alex, and Anna all spit out their gum into a bag Hawk holds.</context>
+      <utterance>Fits my new image. A thief for the masses. This is one job I'm not going to feel guilty about enjoying. Gum.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The security's actually not that severe.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Hawk takes in some views of Moscow that remind one of Budapest.</context>
+      <utterance>It doesn't have to be. Everybody knows that if you mess with the Kremlin, you'll end up in a Siberian gulag eating your own fingernails.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shwoof, that makes me feel better. I can't believe this is the Iron Curtain. All the guy at Airport customs wanted to know was "Who Shot J.R.?"</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sound disappointed.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I mean, come on, going through the Iron Curtain is supposed to be crawling underneath barbed wire, it's supposed to be strangling a guard...</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="2">
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We are the blue light. The green light is where the Art Treasures room is.</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>Where's Kit Kat?</context>
+      <utterance>Let's go make a purple light.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="5">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Delivery Entrance. Low Security.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gum. All three spit out their gum into Hawk's bag.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Count of three?</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not just go now?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>The Trio rush for the door.</context>
+      <utterance>Okay.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="4">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>They then make a mad scuffle across their side of the second level, hunkering down by the level railing. As they move into another wing hallway, the viewer's viewpoint moves back down to the ballroom floor to see a gloating DARWIN AND MINERVA ENTER, the latter still on the phone.</context>
+      <utterance>Oh-Eee-Oh-A-Whoa-Oh.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>The servants move away from the tablecloth and the table, revealing that it is shaped like an M. A GROUP OF SERIOUS SOVIET V.I.P.'s come out to join the Mayflowers at the table.</context>
+      <utterance>Everybody here, in Rome, wishes you tinsel boxes of love...</utterance>
+   <speaker>THE ROOF</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kaplan hangs up the phone.</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>The team moves up to the rooftop doorway where Kit Kat is. He holds up an "About Time" card. The agents laugh and greet them.</context>
+      <utterance>Lazy, rich, condescending bitch.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="6">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eighth room down, babe...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guards come exactly every three minutes....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three. Oh. Oh. "Side by Side." Our trio charges down the hallway.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Oh, we ain't got a barrel of money.</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>They reach a MASSIVE SPOOKY DOOR WITH AN ODD, ANCIENT LOCK. They go to work on it. Not losing the beat.</context>
+      <utterance>"Maybe we're ragged and funny."</utterance>
+   <speaker>HAWK AND ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"But we'll travel along, singing a song. Side by Side..."</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="4">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now that's a lock.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry, we'll get it...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Hawk and Alex are not thrilled about the idea, but Anna's eye flutter does it.</context>
+      <utterance>Can I sing this time, too? Please?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>The Bespectacled Guard moves back into the darkness.</context>
+      <utterance>Uh, I guess so.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="3">
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I look at you Soviet people and I feel... pity... superiority. Most of your life, your government has told you that Capitalism turns people into robots who'd rather eat microwave sushi, naked in the back of a Cadillac than hear the laughter of children.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're here to say, your government was right.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So let's get busy. Have some fun and make some deals.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="3">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Oh this lock is a pain in the bu-utt"</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Anna suddenly, booms out the chorus in a way that Hawk and Alex can barely concentrate.</context>
+      <utterance>"How'd we ever get such in a ru-utt"</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"But we'll travel the road, Sharing the load. Side by Side!"</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="6">
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the room above the Art Treasures room. The lock is a Natalya Z-Z, first created...</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context>Butterfinger pulls from around his shoulder a strange rifle. He attaches to the front of it;, a glass encased, suctioning time-bomb from a waist satchel. He fires the bomb against the door and it starts ticking.</context>
+      <utterance>Snickers, baby, I love you like a brother, but really, who cares? Silencer bomb...</utterance>
+   <speaker>BEHIND THE WINDOWED DOUBLE DOORS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>come Hawk, Alex, and Anna, panting.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was close....</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anna, I think you better stay....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Alex hands Anna his gun, who glumly takes it like a Little Sister not allowed to play. Hawk and Alex go back through the doors.</context>
+      <utterance>You can be lookout!..... Take Alex's gun.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="5">
+   <speaker>SOVIET LEADER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Before we serve you "the main course," hee, hee, we need to know specifics about what you can do for us. We--</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bluntness. How amusingly Hungarian. Listen up, for reasons I don't want to get into, I recently had to close down a petroleum factory, but I'm going to re-build it here and Madonna's going to cut the ribbon! Frozen burritos in Leningrad. 1982 fantasy. 1992 reality.</utterance>
+   <speaker>THE LOCK OUTSIDE THE DOOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hawk and Alex more frantically toil on the lock.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"We all had our quarrels and parted..."</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>The lock clunks open. They race through the doors into...</context>
+      <utterance>"But we'll be the same as we started...</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="12">
+   <speaker>HAWK AND ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Just traveling along, singing a song. Side--"</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Geez, this place is a mess...</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>They rumble toward an opening in the wall of the room covered by a small curtain that has the Da Vinci Man in the Circle drawing emblazoned across it. Hawk reaches for the curtain. Alex puts his arm around him and speaks, not sings.</context>
+      <utterance>Voila...</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Suddenly, the roof above them explodes. Kaplan and the Candy Bars drop down behind them.</context>
+      <utterance>Side by side, man...</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell....</utterance>
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're supposed to be dead!</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a ghost. Boo.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't want to sound immature, but we were here first...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>Kaplan point blank shoots Alex in the chest. Alex crumples backward, moaning. Butterfinger, casually, but with incredible strength, holds Hawk's arms behind his back.</context>
+      <utterance>I wish I could think of those cute quips the way you can, Hawk, but I can't, so I'll just shoot Alex.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No....</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was pretty uncool, George...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>Kaplan pulls back the Da Vinci curtain. Nothing is there.</context>
+      <utterance>Sorry, you know he kind of reminds me of Little Eddie. But I digress. Ah, victory is so sweet....</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="5">
+   <speaker>THE ART TREASURES ROOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kaplan is bugging out.</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>They thunder out. Hawk, still in Butterfinger's oblivious clutches, shouts..</context>
+      <utterance>Damnit, this isn't the plan! Blue light, green light, shit! Snickers, Kit Kat, A.J., scramble, see if you can find out anything.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't you see the Mayflowers double-crossed you...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They may be scum, but if I get the Da Vinci model back, then we'll be roasting weenies on the beach.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Kaplan raises his gun.</context>
+      <utterance>I don't think you'll appreciate their choice of weenie.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="11">
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>Skoal, amigos...</context>
+      <utterance>You're helping us achieve a goal and in return, I'm giving you a key to the world's executive washroom. Don't piss it away....</utterance>
+   <speaker>ANNA</speaker>
+      <mode>O.S.</mode>
+      <context>Minerva and some various Soviet VIPS spew their vodka to look up to Anna pointing a gun down at them from the second level. She is shivering, shaking the gun.</context>
+      <utterance>Stop or I'll shoot.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>In unison, the Soviet Soldiers surrounding the table begin machine gunning up at her. She dives behind the railing.</context>
+      <utterance>You people are immoral and narcissitic and I won't let you...</utterance>
+   <speaker>THE ART TREASURES ROOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kaplan lowers his gun.</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>Any last immature quips?</context>
+      <utterance>I can't believe this. I'm in fucking Russia, or do I have to say, the fucking Soviet Union and I'm shooting a non-Bolshevick.  I never thought I'd say "I'm just in this job for the money." Sad.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.  But why do you let Butterfinger keep those blood stains on his shirt? Falling for the oldest trick in the book, Butterfinger looks down to his shirt.</utterance>
+   <speaker>BUTTERFINGER</speaker>
+      <mode></mode>
+      <context>Hawk bounces up to savagely head-butt Butterfinger. Butterfinger slams back against a wall causing the Gold Sickle to fall down around his neck and knock him to the ground, pinning his head to the floor. The Gold Hammer next trembles off the wall and crushes Butterfinger's skull.</context>
+      <utterance>What blood stains....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk flings a Faberge egg, smashing the gun out of Kaplan's hand. Hawk pelts a batch more at him. Kaplan sloppily whips some eggs back. Hawk finally smashes one in half and beans the jagged piece into Kaplan's eye. He squeals to the ground, geysering blood. Hawk swoops down to a wheezing, breath controlling Alex.</context>
+      <utterance>You want immature, how 'bout an egg fight...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alex, are you....</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't believe you didn't notice. My weight. I lost ten pounds in Rome</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a reed, man. I gotta get Anna. Hang in there...</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="3">
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context>Anna feebly raises her gun. Almond Joy laughs and pulls out a knife.</context>
+      <utterance>Anna-bannana-fo-fanna, I guess I have to cut out your heart for real now. It's not personal.</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context>The Soviet Soldiers snap in new cartridges as Almond Joy moves out from behind the pillar towards Anna. The Soldiers blast away at this newly appearing figure. Almond Joy ruptures and vibrates in a Sonny Corleone ballet.</context>
+      <utterance>You won't shoot. I read your dossier... Sister.</utterance>
+   <speaker>ALMOND JOY</speaker>
+      <mode></mode>
+      <context>Snickers and Kit Kat militarily roll on either side of Anna as their partner wilts to the ground. The men, Snickers with his mini-Uzi, Kit Kat with his cross- bow rifle, briefly leap up to fire down at the soldiers with some graphic success. Anna watches Darwin and Minerva head up the stairs to her level. She bolts off....</context>
+      <utterance>I gotta get a new job...</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="9">
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>breaks the standstill.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What a pleasant surprise. You're probably wondering...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you're going to tell us anyway...</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hate a man with a sense of humor. While you corn dogs were comparing the lengths of your masculinity, we obtained the helicopter the new fashioned way: a thoroughly corrupt business deal.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Grunting behind them, Snickers gun-butts Hawk to the ground.</context>
+      <utterance>If you think you're getting past me...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be stupid...they...</utterance>
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bastard! If you were a true American.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Snickers swings a punch. Hawk blocks it then whomps him in the chest. As they battle, Darwin grabs Anna's hair, slams her into a pillar, and watches her crumple.</context>
+      <utterance>Just shut up and hit me!</utterance>
+   <speaker>KIT KAT</speaker>
+      <mode></mode>
+      <context>him deep, deep, deeply, and lifts him from the ground. A shower of cards reading "OUCH" "PAIN" and "THIS REALLY HURTS" rain from out of Kit Kat's coat. Alfred discards him over the edge. Kit Kat sails down upon the M. The lone card of "FUCK" plops from his open eyed corpse.</context>
+      <utterance>gets in an arrow but it's too late. Alfred stabs</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="5">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damnit, I hate this! I'm a cat burglar! Nobody said anything about this fight-to-the-death shit.</utterance>
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context>Snickers goes for a final thrust when suddenly one of the silencer time bombs suctions to his head. Hawk turns to see Alex, barely standing, at the top of the stairs, holding the strange rifle. Darwin and Minerva turn to this dramatic entrance. They start to trot off...</context>
+      <utterance>Too bad.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew it! I told you it was a fake.</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That New-York-Italian-Father- made-twenty-bucks-a-week-son- of-a-bitch. What was our bet? A million?</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Million five, lover...</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="2">
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context>The soldiers high-tail it out. Snickers plugs his ears. Nothing happens.</context>
+      <utterance>Help me you Democratic Reform lovers! Get a screwdriver, you Stupid Eskimoes! Screw-dri-ver! Oh God, I always wanted to know how to play the harp, there just was so little time! Rosebud!</utterance>
+   <speaker>SNICKERS</speaker>
+      <mode></mode>
+      <context>Snickers blows up gloriously before the M.</context>
+      <utterance>Maybe it was just a....</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="3">
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get 'em. They went down the hallway.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's just forget it, I mean...</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Hawk rushes up the. stairs, gives a "What can I do?" glance to the unconscious Anna, and then continues rushing, past a pillar. Minerva emerges from behind the pillar and moves forward.</context>
+      <utterance>Get em....</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="4">
+   <speaker>THE BALLROOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Minera sits down next to the pained Alex.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alex. How's it going?</utterance>
+   <speaker>ALEX</speaker>
+      <mode></mode>
+      <context>Minerva pulls out a candy bar and rips it open.</context>
+      <utterance>Go, go to Hell, to Hell.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>Minerva savagely slams Alex's head down and shoves the candy bar in his mouth.</context>
+      <utterance>Where's your insulin....No? Well, Bon Appetite.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="7">
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>She pulls out another candy bar. Alex, with a last burst of strength, punches her across the face.</context>
+      <utterance>Very good, Alex, but you re still alive....</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's fair.</utterance>
+   <speaker>THE LONG HALLWAY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hawk and Kaplan lock onto each other's throats.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why does this have to be so hard...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>Suddenly, of all things, a car is heard rumbling in the darkness. Hawk and Kaplan stop fighting and turn to see THE MAY- FLOWER LIMOUSINE screeching out of the darkness with Darwin standing out of the sunroof firing a gun. Bullets fly around them. From his back pocket, Hawk slaps the nice picture of him and Little Eddie into Kaplan's hands.</context>
+      <utterance>Tell me about it...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk jumps up and grabs a hanging lamp. Deranged with confusion, Kaplan turns from the picture to the charging limousine.</context>
+      <utterance>Take this to Hell with you...</utterance>
+   <speaker>KAPLAN</speaker>
+      <mode></mode>
+      <context>The driving Alfred smiles through the windshield. Kaplan's body slams into a vivid somersaulting crash into the windshield. Hawk's hands burn and sizzle on the hanging lamp. Passing beneath, Darwin raises up his gun. Hawk lets go of the lamp and drops down on Darwin, locking his legs around his neck and crushing him down into....</context>
+      <utterance>My pension.....</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="2">
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>destroy the world in my own image. I'm a regular Joe... Darwin pounds his fists on Hawk's head as Hawk hits the sunroof switch sliding it shut on Darwin, pinning his arms below the roof, but leaving his torso twisting in the wind. The mural of a happy Lenin with his arms outstretched looms ahead waiting to greet Darwin. Putting two and two together, Darwin loses it....</context>
+      <utterance>God-damnit, I only wanted to</utterance>
+   <speaker>DARWIN</speaker>
+      <mode></mode>
+      <context>The limousine charges through the double doors and Darwin's body connects with the mural.</context>
+      <utterance>Not Lenin, anybody but Lenin. God, let's talk abut this.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="2">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk looks to Alex, sitting on the stairs, the same way he left him. Hawk rushes to him.</context>
+      <utterance>Oh, honey....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk grabs Alex's shoulder. Alex falls back. Written over his face in red lipstick is REALLY DEAD. Engaging a slow motion sequence, Minerva saunters behind Anna, putting on red lipstick. Minerva slams her back to the ground. Hawk howls then turns to see stiff-upper-lip Alfred, bleeding from the neck. Hawk tries to throw a punch, but Alfred blocks it and crunches him across the face. The Da Vinci helicopter model bounces down the stairs in slow motion and cracks open, revealing the intricate mirror of the opening scene.</context>
+      <utterance>We did it man, we...</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="7">
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh Hudson...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you not to call me Hudson. The only people who called me that were the nuns at...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh Hudson, I'm a sister of the Catholic church as well as an agent.</utterance>
+   <speaker>ALFRED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welcome back to Vinci.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Last rites, sister?</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Hawk and Anna unconvincingly laugh then sadly pause.</context>
+      <utterance>Please, no nun jokes...They're a bad habit to get into....get it?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Alfred gives them a push.</context>
+      <utterance>She killed Alex.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="15">
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>As Minerva speaks, TECHNICIAN ONE forcibly escorts Anna toward a stand near the gold machine and tightly handcuffs her to it.</context>
+      <utterance>Sorry, I couldn't resist. You're probably wondering why you're still alive. Anna.....</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>TECHNICIAN TWO commences a forcible escort of Hawk to the gold machine. Hawk cold-cocks him to the ground.</context>
+      <utterance>I want you to monitor the Da Vinci's directions from the apprentice diary. And Hawk, I didn't want you to go to hell without knowing that Darwin and I's dream came true.  Beside that, none of us can seem to put that damn crystal together. Alfie and I were up all night with the thing.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You killed a friend. Why should I help you go for the gold?</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It'll take a couple of years of steady production, but I'll flood the market with so much gold that gold itself, the foundation of all finance, will lose its meaning. Brokers, economists, and fellow entrepreneurs will drown in the saliva of their own nervous breakdowns. Markets will crash- crash. Financial Empires will crumble-crumble.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Except yours-yours. The goal of world domination. Well, if you put it that way, Minnie. How can I resist?</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't, convict! You're just a shmoe! Every shmoe has the fantasy the planet revolves around them. It rains, car crash stops traffic, you say "How could this happen to me?" It's a natural inclination. But for I, this isn't a fantasy, it is</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you pull this off, I can't promise I won't kill you. I mean, who we trying to kid? But I will spare the Flying Nun here....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And to think I thought you were Evil Incarnate in pumps.</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>Minerva flicks a switch on the stand Anna's handcuffed to. Anna vibrates, being electrocuted.</context>
+      <utterance>I killed some lovable working class Italian-diabetic, but you killed the most significant male figure of the decade and a kind, gentle lover. So don't play with me.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Minerva switches it off. Giving himself a head rub, Hawk bears down on the three oddly malleable objects. He TANGLES and BENDS and with a loud SNAP, puts them together, forming the Crystal from the opening scene. Minerva snatches it from him and puts on a head-set.</context>
+      <utterance>Okay, fine!</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context>Minerva giddily sets the crystal in the same place as Da Vinci had it in his machine. Using a long steel pole, Technician One adjusts a myriad of mirrors so they are in a proper angle with a series of lenses culminating on the top of the machine. Technicians Two (black-eyed) and Three pour various chemical powders and liquids into corresponding compart- ments on the machine, beautifully decorated by the chemical's zodiac sign. Alfred places a lead bar in its proper place. Hawk glides to Anna and undoes her handcuff.</context>
+      <utterance>Oh Hawk, don't ever change. Go, team, go!</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hope you know what....</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Trust Leonardo....</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Anna puts her fingers on his lips. Minerva throws a lever. Steam begins to percolate from the furnace towards the machine.</context>
+      <utterance>Wha.....</utterance>
+   <speaker>MINERVA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're for real.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="6">
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>murmurs to Hawk.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Da Vinci made the real directions in a secret script that I decoded. The way the machine is running now, the gold will produce too quickly, clog, and the machine will shut itself down. Isn't it wonderful?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but what would happen if that little mirror came out of the crystal.</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Hawk pulls out the mirror from his pocket.</context>
+      <utterance>Wha -- you don't want to know...</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wanna know...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Da Vinci would be proud of you.</context>
+      <utterance>Holy sh-h--things are going to get very interesting, very fast.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="6">
+   <speaker>ALFRED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're unemployed, Alfie. Boss is dead. Her plan is over.</utterance>
+   <speaker>ALFRED</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My plan is just beginning. I'll forgive you for denying me the pleasure of slaughtering my boorish employers, but I'm afraid the birth of the new British Empire can have no witnesses!</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Alfred rushes forward with a howl. Hawk meets him halfway. They trade savage punches and then lock onto each other's throats. Anna pulls a gun from a technician's holster and prays for forgiveness. She aims steadily, and fires... right into Hawk's arm. This allows Alfred to knock him back with a strong punch.</context>
+      <utterance>Ooh-kay...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>She fires again. The bullet pings off Hawk's belt buckle.</context>
+      <utterance>Sorry!</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk's turning to chastize Anna, allows Alfred to kick Hawk back against a wall. Alfred lunges out with his blade, hitting the wall off-angle. Hawk yanks the shaft. Alfred goes with the flow and presses the shaft on Hawk's throat. Gasping, Hawk looks to a rip in Alfred's shirt and sees a hinge and lever on the shaft. With an all or nothing jerk, Hawk flicks the lever. The shaft clicks on the hinge. Alfred's greater strength and narrower grip makes it fold away from Hawk and suddenly it is</context>
+      <utterance>Stop helping me! Thou shalt not kill!</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="2">
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context>Anna confidently moves toward the dog until Bunny leaps up and savagely clamps his teeth into her throat sending her crashing to the ground. Hawk pauses in disbelief before raising the gun. Bunny continues to viciously gnaw away on the convulsing Anna, blood gently starts to emerge. Hawk can't get off a shot. He throws down the gun in exasperation. It lands next to The Gadget that is connected to the Tennis Ball Machine. Hawk rushes forward, picks up the gadget, turns the dial to Ten, and then smiles sweetly toward the dog.</context>
+      <utterance>Allow me.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Bunny stops his violent behavior and perkily looks up blood droplets drizzling from his mouth. Hawk slams down on the gadget. A tennis ball comes rocketing out of the machine. Bunny leaps and catches the rocketing ball but the force of it sends him FLYING AND CRASHING out a window. Hawk pulls up Anna as the machine completely EXPLODES. A huge chunk of the roof THUDS before the workshop door. Hawk suddenly looks off-camera and smiles. Anna shakes her head vigorously. He pulls her out of the frame.</context>
+      <utterance>Oh Bunny, Ball-Ball.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="4">
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have I ever told you the world is beautiful...  I'd really like to play Nintendo with you, or something...</utterance>
+   <speaker>ANNA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hudson, I'm afraid I'm sticking with God.  But you're a close second, tough guy. What is that smile?</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>Hawk puts on a pair of sunglasses that look exactly like the ones Da Vinci wore in the opening and raises his cup.</context>
+      <utterance>I got my planet back.</utterance>
+   <speaker>HAWK</speaker>
+      <mode></mode>
+      <context>The viewer's viewpoint moves into Hawk's lips having a sip of that damn unmasculine European coffee.</context>
+      <utterance>The first one's for Alex. Cheers.</utterance>
+</dialogue>
+
+
+</movie>

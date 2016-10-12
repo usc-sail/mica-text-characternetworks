@@ -1,0 +1,2317 @@
+<movie id="157" title="Day the Earth Stood Still The">
+
+<dialogue id="1" n_utterances="2">
+   <speaker>BRITISH ANNOUNCER</speaker>
+      <mode></mode>
+      <context>This announcer keeps talking, but his voice fades out, and now we hear the words the American announcer is saying...</context>
+      <utterance>Reports are coming in from all over the Empire -- from all over the world. The Government have not yet issued a statement, but there seems to be no question that there actually is a large, unidentified object circling the earth at incredible speed.</utterance>
+   <speaker>AMERICAN ANNOUNCER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We still don't know what it is or where it's from –- but we do know there's something there. It's been tracked around the world by radar traveling at a rate of four thousand miles an hour.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="5">
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Klaatu lets the object drop with a shrug of mild exasperation. The two lieutenants exchange a helpless look of bewilderment. Then Klaatu raises himself to his feet painfully, holding his wounded shoulder. As he does so, a colonel and a captain come into scene.</context>
+      <utterance>It was a gift. For your President.  With this he could have studied life on other planets.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is he all right?</utterance>
+   <speaker>FIRST PLATOON LEADER</speaker>
+      <mode></mode>
+      <context>The three junior officers exchange ineffectual glances and look to the colonel, who thinks for a moment before making his decision.</context>
+      <utterance>Got hit in the shoulder, sir.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Send for an ambulance. Get him to Walter Reed Hospital right away.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="12">
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How is he?</utterance>
+   <speaker>MAJOR WHITE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's all right, General... Blood pressure's a little high, but it could be aggravation.</utterance>
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't blame him. I always get mad when somebody shoots me.</utterance>
+   <speaker>MAJOR WHITE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He still wants to see the President.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We informed the White House over an hour ago.</utterance>
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Didn't drop any hints about where he's from, did he?</utterance>
+   <speaker>MAJOR WHITE</speaker>
+      <mode></mode>
+      <context>The door to the corridor opens and a worried young Captain enters.</context>
+      <utterance>No, sir, he didn't.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context>The Colonel turns, in deference, to the General.</context>
+      <utterance>Excuse me.  What about the reporters, Colonel? They're swarming all over the lobby.</utterance>
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell them there won't be any statement tonight.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context>Harley appears in the doorway, a brief case under his arm. He's a dignified, intelligent member of the White House secretariat. He proceeds uninterruptedly into the room, nodding cordially to the General.</context>
+      <utterance>Yes, sir.  Mr. Harley's here from the White House.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>General --</utterance>
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context>Harley proceeds in businesslike fashion to the door. He knocks and then enters.</context>
+      <utterance>Right in there, Mr. Harley.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="37">
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My name is Harley -- Secretary to the President  I've been told that you speak our language -- that your name is Mr. Klaatu.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just Klaatu.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The President asked me to convey his deepest apologies for what has happened. We all feel--</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Somewhat relieved, Harley seats himself. He speaks with a half smile, hoping to ease the tension.</context>
+      <utterance>Sit down, Mr. Harley.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure I don't have to point out that your arrival was something of a surprise.  Had you been traveling long?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About five months -- your months.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You must have come a long way.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Harley glances at him quickly to be sure he's not joking. He's not.</context>
+      <utterance>About 250 million of your miles.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Naturally we're very curious to know where it is you come from.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's rather difficult for us to think of another planet as a neighbor.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid, in the present situation you'll have to learn to think that way.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The present situation?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean the reasons for my coming here.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're very curious about that, too. Would you care to talk about it?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd be glad to.  Not now, of course -- with you alone.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps you'd rather discuss it personally with the President--</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is not a personal matter, Mr. Harley. It concerns all the people on your planet.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I -- I'm not sure I understand--</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to meet with representatives from all the nations of the Earth.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid that would be a little awkward. It's -- it's completely without precedent. And there are practical considerations -- the time involved -- the enormous distances.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I traveled 250 million miles. What about your United Nations?</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know about the United Nations?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've been monitoring your radio broadcasts for a good many years. That's how we learned your languages. Lately, we've been getting your television also.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You must have a rather strange impression of us.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure you recognize from our broad- casts the evil forces that have produced the tension in our world. Surely you would agree--</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am not concerned, Mr. Harley, with the internal affairs of your planet. I consider that to be your business -- not mine.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was only hoping to make you understand.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My mission here is not to solve your petty squabbles. It concerns the existence of every last creature who lives on Earth.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps if you could explain a little--</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Harley is thoroughly shaken. The tremendous force and power implicit in Klaatus's manner preclude the possibility of argument.</context>
+      <utterance>I intend to explain. To all the nations -- simultaneously.  How do we proceed, Mr. Harley?</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We could call a special meeting of the General Assembly... But of course the UN doesn't represent all of the nations.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then why not a meeting of all the Chiefs of State?</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context>Growing a little impatient with such nonsense, Klaatu eyes him evenly, speaks with Jovian authority.</context>
+      <utterance>Believe me, you don't understand. They wouldn't sit down at the same table.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>The eyes of the two men meet for a long, silent moment. Then Harley rises quietly.</context>
+      <utterance>I don't want to resort to threats, Mr. Harley. I simply tell you bluntly that the future of your planet is at stake... I suggest you transmit that message to the nations of the Earth.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will make that recommendation to the President.  I must tell you in all honesty that I'm extremely dubious about the results.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Apparently I'm not as cynical about Earth's people as you are.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context>He turns and goes out.</context>
+      <utterance>I've been dealing in Earth's politics a good deal longer than you have.  Goodnight, sir.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="6">
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Getting any place, Sergeant?</utterance>
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context>A man named Carlson, a civilian metallurgical expert, comes into scene. The General nods to him.</context>
+      <utterance>No, sir.  Beats me, General. I saw that ramp come out of the side of the ship -- right here. Now I can't even find a crack!</utterance>
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the report, Carlson?</utterance>
+   <speaker>CARLSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've tried everything from a blowtorch to a diamond drill.</utterance>
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about him?</utterance>
+   <speaker>CARLSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's made out of the same stuff.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="4">
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Has he moved?</utterance>
+   <speaker>SERGEANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No sir. Not an inch</utterance>
+   <speaker>CARLSON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the toughest material I ever saw, General. For hardness and strength, it's out of this world.</utterance>
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context>The two men exchange an uneasy glance, then turn to look at the ship.</context>
+      <utterance>I can tell you officially -– that's where it came from.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="17">
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The skeletal structure is completely normal.  Same for the major organs -– heart, liver, spleen, kidneys.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And the lungs are the same as ours. Must mean a similar atmosphere -- similar pressure.  How old do you think he is?</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I'd say forty-five.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He told me this morning when I examined him. He's seventy-eight.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't believe it.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Their life expectancy is a hundred and thirty.</utterance>
+   <speaker>MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How does he explain that?</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context>The door to Klaatu's rooms opens and Major White appears. He's the man who attended Klaatu the day before. He closes the door behind him and stands motionless facing the other two, his face wearing a blank expression.</context>
+      <utterance>He says their medicine is that much more advanced.  He was very nice about it. But he made me feel like a third-class witch doctor.</utterance>
+   <speaker>MAJOR WHITE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I took a bullet out of that man's arm yesterday.</utterance>
+   <speaker>FIRST MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about it?</utterance>
+   <speaker>MAJOR WHITE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just examined the wound and it's all healed.</utterance>
+   <speaker>FIRST MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What does he say about it?</utterance>
+   <speaker>MAJOR WHITE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Said he put some salve on it -- some stuff he had with him.</utterance>
+   <speaker>CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you going to do with it?</utterance>
+   <speaker>MAJOR WHITE</speaker>
+      <mode></mode>
+      <context>As he starts out the door to the corridor, he passes Mr. Harley, who is on his way in, carrying his ever-present brief case. Harley is accompanied by an enlisted M.P.</context>
+      <utterance>Take it downstairs and have it analyzed.  Then I don't know whether I'll just get drunk or give up the practice of medicine.</utterance>
+   <speaker>FIRST MAJOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Afternoon, Mr. Harley.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context>Harley goes to the door of Klaatu's room, a businesslike expression on his face. He knocks on the door, then enters. The M.P. remains in the sitting room.</context>
+      <utterance>Afternoon, gentlemen.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="12">
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good afternoon.  I'm glad to see you up and around.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you... Have you any news?</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context>first incredulously, then with mounting indignation. Conscious of his quiet, Olympian wrath, Harley continues uncomfortably.</context>
+      <utterance>Not very good news, I'm afraid.  The President accepted your suggestion and cabled the invitations for a meeting last night.  Let me read you some of the replies.  "The Premier wishes to inform the Government of the United States that it will be impossible for him to attend the meeting suggested by the President unless the meeting is held in Moscow."  "The suggestion of the President regarding the possibility of a meeting in Moscow would be unacceptable to Her Majesty's Government at the present time. Representation could be sent only if the meeting were held in Washington."  Well -- there you have it. Harley extends a sheaf of cables for Klaatu's inspection, but he ignores them. Klaatu has listened to this recital,</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I tried to make you understand. The suspicions -- the jealousies -- the mistrust--  Surely you realize that my government has done everything in its power--</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not your government I'm thinking about. It's your world.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now that you understand the situation more clearly, perhaps you'd like to discuss the matter with the President</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will not speak to any one nation or group of nations.  I don't intend to add my contribution to your childish jealousies and suspicions.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Our problems are very complex, Mr. Klaatu. You mustn't judge us too harshly.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can judge only by what I see.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your impatience is quite understandable.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am impatient with stupidity. My people have learned to live without it.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context>Reluctantly Harley has picked up his hat and brief case. He finds Klaatu staring out the window.</context>
+      <utterance>I'm afraid my people haven't.  I'm very sorry -- I wish it were otherwise.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="3">
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Before making any decisions, I think I should get out among your people -- become familiar with the basis for these strange, unreasoning attitudes.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context>Harley has paused near the door, a little embarrassed by Klaatu's level gaze.</context>
+      <utterance>Under the circumstances I'm afraid that will be impossible.</utterance>
+   <speaker>HARLEY</speaker>
+      <mode></mode>
+      <context>With a polite nod, he goes out. Klaatu stares after him as he realizes that he is in effect a prisoner. He shakes his head slowly, thoughtfully. The ways of this planet are strange indeed.</context>
+      <utterance>I must ask that you don't attempt to leave the hospital. Our military people have insisted on this. I'm sure you'll understand.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="14">
+   <speaker>MRS. CROCKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I -- I'm sorry. What is it you want?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>There is a noticeable letdown in the general tension, during which Booby has been studying Klaatu, his imagination working overtime.</context>
+      <utterance>My name is Carpenter. I'm looking for a room.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you an FBI man?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Helen has stepped forward to make Bobby desist.</context>
+      <utterance>No -- I'm afraid not.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bet he is, Mom. Bet he's out looking for that space man.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Mrs. Crockett reverts to her role as landlady. She likes to think of her house as a home.</context>
+      <utterance>I think we've all been hearing too much about "space men."</utterance>
+   <speaker>MRS. CROCKETT</speaker>
+      <mode></mode>
+      <context>There are polite noddings and how-do-you-do's. Mrs. Crockett is satisfied that she's established a cozy atmosphere.</context>
+      <utterance>This is Mrs. Benson, Mr. Carpenter.  And little Bobby.  Mr. and Mrs. Barley -- and Mr. Krull... I'm Mrs. Crockett.</utterance>
+   <speaker>MRS. CROCKETT</speaker>
+      <mode></mode>
+      <context>She leads the way toward the hall and Klaatu starts to follow, picking up his suitcase, when he is intercepted by Bobby.</context>
+      <utterance>Well -- this is our little family.  I have a very nice room on the second floor.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I help you look for the space man? Can I?  I know what he looks like! He's got a square head -- and, three great big eyes!</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's enough, Bobby. I think it's time you went to bed.</utterance>
+   <speaker>MRS. CROCKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We mustn't annoy Mr. Carpenter -- or he won't want to stay here. She goes on into the hall, followed by Klaatu, who has exchanged a polite smile with Helen.</utterance>
+   <speaker>MRS. CROCKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's really a dear little boy -- and quiet as a mouse.  You're a long way from home, aren't you, Mr. Carpenter?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did you know?</utterance>
+   <speaker>MRS. CROCKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I can tell a New England accent a mile away.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="23">
+   <speaker>GABRIEL HEATER'S VOICE</speaker>
+      <mode></mode>
+      <context>During the above, Mrs. Barley has turned to her husband in sharp annoyance.</context>
+      <utterance>There is grave danger -- everyone agrees to that. The question is what can we do to protect ourselves? What measures can we take that will--</utterance>
+   <speaker>MRS. BARLEY</speaker>
+      <mode></mode>
+      <context>Mr. Barley reaches out and snaps off the radio.</context>
+      <utterance>George, I wish you'd turn that radio off. I'm trying to concentrate.</utterance>
+   <speaker>MR. BARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why doesn't the Government do something -- that's what I want to know.</utterance>
+   <speaker>MR. KRULL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What can they do? They're only people -- Just like us.</utterance>
+   <speaker>MR. BARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>People my foot! They're Democrats!</utterance>
+   <speaker>MR. KRULL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's enough to give you the shakes. He's got that robot standing there -- ten-foot tall -- just waiting for orders to destroy us.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This space man -- or whatever he is. We automatically assume he's a menace... Maybe he isn't at all.</utterance>
+   <speaker>MR. BARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then what's he hiding for? Why doesn't he come out in the open?</utterance>
+   <speaker>MR. KRULL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.  Like the fella says: "What's he up to?"</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe he's afraid.</utterance>
+   <speaker>MRS. BARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's afraid!</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>After all, he was shot the moment he landed here.  I was just wondering what I would do.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps before deciding on a course of action, you'd want to know more about the people here -- to orient yourself in a strange environment.</utterance>
+   <speaker>MRS. BARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's nothing strange about Washington, Mr. Carpenter.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A person from another planet might disagree with you.</utterance>
+   <speaker>MRS. BARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you want my opinion, he came from right here on Earth.  And you know where I mean.</utterance>
+   <speaker>MR. KRULL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They wouldn't come in a space ship. They'd come in airplanes.</utterance>
+   <speaker>MRS. BARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't be so sure about that.</utterance>
+   <speaker>MR. BARLEY</speaker>
+      <mode></mode>
+      <context>Klaatu pauses for a moment, then recites pleasantly.</context>
+      <utterance>Stands to reason that fella wants some thing or he wouldn't be here.  That make sense, Carpenter?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Mrs. Crockett enters and speaks to Helen.</context>
+      <utterance>I must admit I'm a little confused.</utterance>
+   <speaker>MRS. CROCKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Benson -- Mr. Stevens is here to see you.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>She rises and goes out.</context>
+      <utterance>Oh -- thank you.</utterance>
+   <speaker>MRS. BARLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Finish your coffee, George. I told the Carsons we'd be there at eleven.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="6">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Tom kisses her.</context>
+      <utterance>Good morning.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're all set. I picked up some sandwiches and put gas in the car. And the radio's still busted, so me can forget about the space man for today.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's only one thing -- I haven't been able to arrange for anyone to stay with Bobby.  I don't suppose we could take him with us?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, we could--</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's always somebody here, but today of course they've all got plans.</utterance>
+   <speaker>KLAATU'S VOICE</speaker>
+      <mode></mode>
+      <context>Helen and Tom turn in surprise.</context>
+      <utterance>I haven't any plans.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="4">
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd be glad to spend the day with him -- if you'd let me.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say, that'll be great! Wouldn't it, Helen.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>The two men shake hand's and exchange how-do-you-do's. Then Klaatu turns back to Helen.</context>
+      <utterance>It's awfully nice of you to suggest it.  I'm sorry Mr. Carpenter -- this is Tom Stevens.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Helen is debating the matter in her mind, concerned about leaving Bobby with a comparative stranger, but tempted because of her favorable impression of Klaatu.</context>
+      <utterance>Bobby and I had a fine time yesterday afternoon. We talked -- and listened to the radio.  I thought today he might show me around the city.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="11">
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Bobby looks up at him in bewilderment. After a moment Klaatu speaks slowly, thoughtfully.</context>
+      <utterance>That's the kind of man I'd like to talk to.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bobby -- who's the greatest man in America today?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gee -- I don't know... The space man, I guess.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was speaking of earth men. I meant the greatest philosopher -- the greatest thinker.</utterance>
+   <speaker>B0BBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean the smartest man in the whole world?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes -- that would do nicely.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well -- Professor Barnhardt, I guess. He's the greatest scientist in the world.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He lives here in Washington, doesn't he?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. Right near where my mother works.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is that?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Department of Commerce. She's a secretary.  They have a man they call the Secretary, but he isn't at all. My mother's a real secretary.  Mr. Carpenter -- now can we go see the space ship?</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="3">
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boy, I'll bet he's strong. I bet he could knock down a whole building.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Bobby's attention shifts to the ship.</context>
+      <utterance>I shouldn't be at all surprised.</utterance>
+   <speaker>MED. SHOT - SPACE SHIP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>From Bobby's viewpoint.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="5">
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gee, I'd like to get inside and see how it works. What do you think makes it go?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well -- atomic power, I would imagine.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought that was only for bombs.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. It's for a lot of other things, too.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think it can go faster than an F-</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="4">
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>Klaatu has noticed the two men, who have edged a little closer to listen. He is not perturbed by them, but he lowers his voice a bit.</context>
+      <utterance>About a thousand miles an hour?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe four thousand miles an hour. And outside the Earth's atmosphere a good deal faster.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gee! How could they make a landing?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Klaatu interrupts himself as he realizes that he may be going too far. The two men have moved closer, listening and grinning. One of them whispers to the other behind the back of his hand. Then the man realizes that Klaatu has stopped speaking and is looking at him.</context>
+      <utterance>Well -- there are several ways to reduce landing speed. You see, the velocity--</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="10">
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think they'll ever find him?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, Bobby. I'm inclined to doubt it.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Carpenter -- what does velocity mean?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>Pulled out of his reverie, Klaatu glances down at Bobby and smiles apologetically. Bobby grins back at him. Then, as they walk on a few more steps, Klaatu stops and speaks thoughtfully.</context>
+      <utterance>I'll bet that's the way Professor Barnhardt talks.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bobby -- I have an idea. Let's go see Professor Barnhardt and find out how he talks.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're just kidding, aren't you?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wouldn't you like to meet him?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, sure I would, but --  Aw, I'll bet you'd be scared.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Bobby stares up at him and his face breaks into a broad admiring grin.</context>
+      <utterance>We can scare him more than he can scare us.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I like you, Mr. Carpenter. You're a real screwball.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="2">
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>Bobby wanders down the porch and looks into a window. Fascinated by what he sees, he gestures to Klaatu.</context>
+      <utterance>Gee -- maybe he isn't home.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>After a glance at the front door, Klaatu joins Bobby at the window and looks in.</context>
+      <utterance>Betcha this is where he works--</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="4">
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What does that mean?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a problem in celestial mechanics.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bet he's the only one in the world knows the answer.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>As Bobby moves away from the doors dejectedly, Klaatu puts his hand on the knob.</context>
+      <utterance>We probably couldn't get to see him even if he was home.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="6">
+   <speaker>HILDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How dare you write on that blackboard!  Do you realize the Professor has been working on that problem for weeks?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He'll catch on to it in no time now.</utterance>
+   <speaker>HILDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did you get in here? And what do you want?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We came to see Professor Barnhardt.</utterance>
+   <speaker>HILDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, he's not here. And he won't be back till this evening.  I think you'd better leave now. Unruffled, Klaatu turns to the desk and scribbles something on a scratch pad. He tears off the piece of paper and hands it to Hilda.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>I think the professor will want to get in touch with me. With a polite nod he goes out the French doors, followed by Bobby. Hilda eyes the door for a moment, then glances down at the paper in her hand, disturbed and puzzled by this stranger. Her glance wanders to the blackboard and she picks up an eraser, debating whether to erase Klaatu's corrections. At that moment the French door opens and Klaatu sticks his head in. Startled, Hilda drops the eraser.</context>
+      <utterance>You might keep this.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="15">
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did all these people die in wars?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. Didn't you ever hear of Arlington Cemetery?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- I'm afraid not.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Carpenter" -- you don't seem to know about anything.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll tell you, Bobby -- I've been away for a long time. Very far away.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it different where you've been?  Don't they have places like this?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They have cemeteries. But not like this one... You see, they don't have any wars. Bobby looks at him, puzzled and impressed by this incomprehensible notion.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>His eyes are drawn subconsciously out to the rows of crosses. Then he turns back to Klaatu with a slow-dawning look of curiosity, and Klaatu deliberately changes the subject.</context>
+      <utterance>Gee -- that's a good idea.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>After a moment Bobby's expression changes and he breaks into a broad grin.</context>
+      <utterance>What would you like to do this afternoon?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go to the movies.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No foolin'? Will you?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Bobby gives him a look of amazement, then grins, assuming Klaatu was kidding and simply hasn't any money.</context>
+      <utterance>Certainly.  Tell me, Bobby -- do you have to have money to go there?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got some money. My mother gave me two dollars.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- I want to take you to the movies.  Do you think they'd accept these?</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="9">
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gee -- those look like diamonds!</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some places that's what people use for money. They're easy to carry -- and they don't wear out.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bet they're worth about a million dollars.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you give me your two dollars for a couple of them?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>The boy studies Klaatu's face to see if he's kidding. Realizing that he's not, Bobby's face takes on a childishly shrewd expression -- as though he were about to trade a jackknife for an ocean liner.</context>
+      <utterance>Well, sure, but--</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>The boy takes out two dollar bills and offers them almost challengingly. Klaatu takes the bills and hands Bobby two good-sized Diamonds. They study their new acquisitions with interest. Bobby looks up from his diamonds to steal a guilty glance at Klaatu.</context>
+      <utterance>Okay.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's not say anything to my mother about this, Mr. Carpenter.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not, Bobby?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She doesn't like me to steal from people.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="2">
+   <speaker>DETECTIVE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Carpenter come home yet?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah -- he's right inside.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="5">
+   <speaker>DETECTIVE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell him I'd like to see him.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>The Detective steps inside and Bobby closes the door, as Klaatu appears from the living room.</context>
+      <utterance>Mr. Carpenter--!  Come on in.</utterance>
+   <speaker>DETECTIVE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your name Carpenter?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.  Oh -- I suppose Professor Barnhardt's looking far me.</utterance>
+   <speaker>DETECTIVE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I been looking for you all afternoon.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="7">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was a wonderful day.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You still haven't answered my question.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know how I feel, Tom. I just want to think it over.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The boss is leaving for Chicago tomorrow. If I could tell him I was getting married -- with two dependents--</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a good salesman -- but I've got to think about it.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>With a smile and, a quick kiss, Helen gets out of the car.</context>
+      <utterance>A good insurance salesman wouldn't give you time to think.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Night.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="22">
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi Mom!</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Klaatu is uneasy but tries not to show it as he smiles in greeting and introduces the Detective.</context>
+      <utterance>Hello, darling.  Good evening, Mr. Carpenter.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Benson -- this is Mr. Brady.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>Helen glances quickly at the Detective, then at Klaatu, surprised and troubled. She turns to Bobby to cover her confusion.</context>
+      <utterance>Mr. Brady's a cop.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you have a nice day, dear?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boy, we had a swell time. Didn't we, Mr. Carpenter?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We certainly did.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We went to the movies -- and we had ice cream cones -- and we went to see Daddy--</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know how to thank you.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I enjoyed every minute of it.</utterance>
+   <speaker>DETECTIVE</speaker>
+      <mode></mode>
+      <context>As Klaatu nods and prepares to follow him, Bobby speaks to Klaatu.</context>
+      <utterance>We better get goin', Mr. Carpenter.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aw, gee -- we didn't finish our story.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll finish it tomorrow... Goodnight, Bobby.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>Klaatu and the Detective nod to Helen and they go out. Helen watches the door close with real concern, wondering why the police want Klaatu and hoping he hasn't done anything wrong. Still disturbed, she turns to lead Bobby upstairs.</context>
+      <utterance>Goodnight.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, Bobby. Time to go to bed.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom -- why does Mr. Carpenter have to go down to the police station?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>This satisfies him for the moment -- even though it doesn't satisfy Helen. He is climbing the stairs beside her.</context>
+      <utterance>I -- I don't know, dear... Perhaps there's some mistake.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We sure had fun today. We saw the space ship and we went to see Professor Barnhardt -- and--</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Professor Barnhardt.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, sure. Mom, do I have to go to school tomorrow?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course, dear.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aw, gee, Mom -- I had plans to play with Mr. Carpenter.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="7">
+   <speaker>FIRST COP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>B.M. Alberts -- no prior arrests.</utterance>
+   <speaker>SECOND COP</speaker>
+      <mode></mode>
+      <context>The man is taken out of the line as CAMERA MOVES ON to the next desk, with another pair of cops and another line. A rather distinguished-looking business man is placing a sheaf of identification cards and papers on the desk.</context>
+      <utterance>No identification?  Send him over to G-2.</utterance>
+   <speaker>BUSINESSMAN</speaker>
+      <mode></mode>
+      <context>One of the cops at the desk glances over the papers and nods to the man.</context>
+      <utterance>My wife just arrived with my identification.</utterance>
+   <speaker>THIRD COP</speaker>
+      <mode></mode>
+      <context>CAMERA MOVES ON to a third desk where a small, rat-faced man is standing uneasily before the two cops, one of whom is flipping through a card file.</context>
+      <utterance>That'll be all, Mr. Baxter. Sorry to bother you... Next.</utterance>
+   <speaker>FOURTH COP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cappo, John C?  Two priors -- one for petty theft -- one for shoplifting.</utterance>
+   <speaker>FIFTH COP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, Jonny -- you can go.</utterance>
+   <speaker>MAN</speaker>
+      <mode></mode>
+      <context>(and he moves off)</context>
+      <utterance>Sometimes a record comes in handy.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="12">
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Professor's secretary says she found you in Barnhardt's room, making marks on his blackboard.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>The Lieutenant exchanges a look with the Detective.</context>
+      <utterance>I was only trying to be helpful. He was having difficulty with a problem.</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I see. He was having trouble and you were helping him out.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right.</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose you know that Barnhardt does a lot of secret work for the Army.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In this case the secret wouldn't be worth much. He doesn't know the answer himself.</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I suppose you know the answer.</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your name's Carpenter -- that right?  Any identification, Mr. Carpenter? Driver's license -- social security number?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- I'm afraid not.</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, how do I know who you are?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>The Lieutenant is turning away in exasperation as a uniformed cop comes into the scene.</context>
+      <utterance>You don't.</utterance>
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, Lieutenant --  The Doc says this man needs treatment right away.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="10">
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the story?</utterance>
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context>The Lieutenant grimaces his disgust and impatience with mob violence.</context>
+      <utterance>Some fella caught him lookin' in a window and figured he was the space man. The whole neighborhood went crazy and they ganged up on him. Would have killed him if we hadn't come along... Turns out he was just a prowler.</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay -- book him and get him fixed up.  Looks like everybody's goin' nuts.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They would have killed this man?</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>People get hysterical enough, they do anything.  Look, Mr. Carpenter -- if you can't identify yourself, I got to send you over to the Army.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long will that take?</utterance>
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context>Really concerned now, Klaatu tries to find a way out. He attempts an authoritative air.</context>
+      <utterance>They can tell right away. They've got a couple of doctors who saw this man in the hospital.  Take him over to G2.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's very important, Lieutenant, that I see Professor Barnhardt.</utterance>
+   <speaker>DETECTIVE</speaker>
+      <mode></mode>
+      <context>Shaking off the Detective's hand, Klaatu speaks to the Lieutenant.</context>
+      <utterance>Come on, Mr. Carpenter--</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I suggest that you call the Professor?</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="2">
+   <speaker>LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute, Brady--  The Captain here's got orders from General Cutler to take this man over to Professor Barnhardt.</utterance>
+   <speaker>M.P. CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will you come with me, Sir?</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="55">
+   <speaker>M.P. CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the man you wanted to see, Professor.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you, Captain.</utterance>
+   <speaker>M.P. CAPTAIN</speaker>
+      <mode></mode>
+      <context>He steps out into the hall, closing the door. Barnhardt continues to study Klaatu for a moment, then points to the notations he made on the blackboard. There is a controlled but anxious excitement in Barnhardt's attitude.</context>
+      <utterance>I'll wait outside.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wrote this?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was a clumsy way to introduce myself -- but I understand you're a difficult man to see.  I thought you'd have the solution by this time.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context>Klaatu glances at the work Barnhardt has been doing on the board. Then he points to one of the expressions in an equation.</context>
+      <utterance>Not yet. That's why I wanted to see you.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Impressed and interested, Barnhardt tugs at his chin as he studies and weighs the results.</context>
+      <utterance>All you have to do now is substitute this expression--  --at this point.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes -- that will reproduce the first- order terms. But what about the effect of the other terms?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Almost negligible... With variation of parameters, this is the answer.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How can you be so sure? Have you tested this theory?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I find it works well enough to get me from one planet to another.  I understand you've called a meeting to study our space ship.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>goes to the door, opens it and speaks to the Captain outside.</context>
+      <utterance>My name is Klaatu.  I spent two days at your Walter Reed Hospital. Room 309. My doctor's name was Major White -- and I had a very attractive nurse called Ruth, who's getting married next Wednesday.  If you are not interested -- or if you intend to turn me over to your Army -- we needn't waste any more time. Barnhardt hesitates for a long, thoughtful moment. Then he</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context>Barnhardt closes the door and turns to find Klaatu watching him with a faint smile. Barnhardt sinks into a chair, trying to adjust his mind.</context>
+      <utterance>You can go now, Captain. Please thank General Cutler and tell him -- tell him that I know this gentleman.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have faith, Professor Barnhardt</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It isn't faith that makes good science, Mr. Klaatu. Its curiosity.  Sit down, please. I have several thousand questions to ask you.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I would like to explain something of my mission here.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was my first question.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was my intention to discuss this officially -- with all the nations of the Earth -- but I was not allowed the Opportunity. I have come to realize since that your mutual fears and suspicions are merely the normal reactions of a primitive society.  We know from scientific observation that you have discovered a rudimentary kind of atomic energy. We also know that you are experimenting with rockets.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes -- that is true.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the hands of a mature civilization, these would not be considered weapons of aggression. But in the hands of your people--  We've observed your aggressive tendencies, and we don't trust you with such power.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you mean that you are afraid of us--</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We want to be sure you don't make -- let us say -- an unfortunate mistake. We know the potentiality of these developments and we are disturbed to find them in the hands of children... You see, we've had atomic energy for five thousand of your years.  We discarded instruments like this many centuries ago.  So long as you were limited to fighting among yourselves -- with your primitive tanks and planes -- we were unconcerned. But soon you will apply atomic energy to space ships -- and then you become a threat to the peace and security of other planets. That, of course, we cannot tolerate.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>These other planets -- do they have peace and security?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We had our atomic wars -- thousands of years ago.  After that we fought with bows and arrows. Then, slowly, we learned that fighting is no solution -- that aggression leads to chaos.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We scientists understand this. Even we primitive scientists.  What exactly is the nature of your mission, Mr. Klaatu?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came here to warn you that, by threatening danger, your planet faces danger -- very grave danger. I am prepared, however, to offer a solution.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you care to be more specific?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What I have to say must be said to all concerned.  It is too important to be entrusted to any individual. Barnhardt is forced reluctantly to accept Klaatu's refusal to go any further. After a moment's thought, he speaks seriously, but with a twinkle in his eye.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I gather that your efforts on the official level were not entirely successful.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I come to you as a last resort -- and I confess that my patience is wearing thin.  Must I take drastic action in order to get a hearing?</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What -- what sort of action do you mean?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Barnhardt stands staring at him for a moment, passes his hand across his brow. Then, as Klaatu watches, Barnhardt paces the floor, trying to digest what he has heard. After a moment, he turns to Klaatu.</context>
+      <utterance>Violent action -- since that seems to be the only thing you people understand.  Leveling the island of Manhattan, perhaps -- or dropping the Rock of Gibraltar into the sea.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you be willing to meet with the group of scientists I am calling together?. Perhaps you could explain your mission to them, and they in turn could present it to their various peoples.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is not enough to have men of science. We scientists are too easily ignored -- or misunderstood. We must get important men from every field. Educators -- philosophers -- church leaders -- men of vision and imagination -- the finest minds in the world.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I leave that in your hands.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd have no objection to revealing yourself at this meeting?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- not at all.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about your personal safety in the meantime? What about the Army -- and the police?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My name is Carpenter and I'm a very earthy character living in a respectable boarding house.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid I can't offer you any real protection. I have no influence in cases of inter-planetary conspiracy.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure I'll be quite safe until the meeting.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One thing, Mr. Klaatu. Suppose this group should reject your proposals. What is the alternative?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>The implications of this statement leave Barnhardt speechless, his keen mind reeling.</context>
+      <utterance>I'm afraid you have no alternative. In such, a case the planet Earth would have to be--  --eliminated.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Such power exists?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Barnhardt stands silent for a moment, trying to collect his shattered thoughts. Klaatu watches him as he starts pacing again.</context>
+      <utterance>I assure you such power exists.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The people who came to the meeting must be made to realize this. They must understand what is at stake.  You mentioned a demonstration of force--</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would such, a demonstration be possible before the meeting?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes -- of course.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Something that would dramatize for them and for their people the seriousness of the situation. Something that would affect the entire planet.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That can easily be arranged.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't want you to harm anybody -- or destroy anything.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you leave it to me? I'll think of something.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe a little demonstration.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Klaatu's bland manner leaves Barnhardt shaken, almost wishing he'd never started this business.</context>
+      <utterance>Something dramatic -- but not destructive.  It's quite an interesting problem.  Would day after tomorrow be all right? Say about noon?</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="13">
+   <speaker>MRS. CROCKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Going out, dear?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I'm waiting for Tom to pick me up.</utterance>
+   <speaker>MRS. CROCKETT</speaker>
+      <mode></mode>
+      <context>She turns to go on into the dining room and as she does so almost bumps into Klaatu who is coming out, having been kibitzing the card game.</context>
+      <utterance>Personally, I won't go out after dark these days.  But then -- I'm not courting, am I?</utterance>
+   <speaker>MRS. CROCKETT</speaker>
+      <mode></mode>
+      <context>Klaatu steps aside as she hurries nervously into the dining room. He turns, puzzled, to find Helen watching with a slight smile.</context>
+      <utterance>Oh -- Mr. Carpenter--!</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everyone seems so--</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Helen watches him, a little uneasy in his presence. She is fond of him, and she can't help being curious and concerned about his brush with the police.</context>
+      <utterance>Jittery is the word.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bobby's the only person I know who isn't -- Jittery.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He has his homework to keep him occupied.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a fine boy, Mrs. Benson.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Naturally I think so.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Helen is deeply moved by Klaatu's affection for the boy, She tried to dismiss her curiosity about him, but she can't. She decides to face it.</context>
+      <utterance>Warm and friendly and intelligent--  You know -- he's the only real friend I've made since I've been here.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Carpenter -- this is none of my business, but -- why did that detective come here last night?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh -- they just wanted to ask me a few questions. Bobby and I tried to see Professor Barnhardt in the afternoon, but he wasn't in. Apparently they thought I was looking for secrets of some kind. Helen has reacted in puzzlement at this second mention of Barnhardt. They are interrupted by the ringing of the doorbell. Helen goes to answer it.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="10">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello--</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ready?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I will be in just a minute.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The picture starts at eight-fifty.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was talking to Mr. Carpenter.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>Helen tries to shush him, to indicate Klaatu is in the next room, when Klaatu appears in the doorway. He must have heard Tom's remark, and there is an awkward moment. Klaatu is completely unperturbed, but Helen is embarrassed.</context>
+      <utterance>I hope Mr. Carpenter won't think I'm intruding.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me. I was just going up to my room.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Klaatu stops and turns to face them pleasantly.</context>
+      <utterance>Goodnight, Mr. Carpenter.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>He goes on up the stairs. Helen steers Tom toward the living room.</context>
+      <utterance>Have a good time -- both of you.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you wait in here while I get my things?</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="3">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, Tom, that was awful.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>This touches on Helen's own private doubts, and she cannot answer.</context>
+      <utterance>I'm sorry. I guess I'm just tired of hearing about Mr. Carpenter.  I don't like the way he's attached himself to you and Bobby. After all, what do you know about him?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>She turns quickly and goes into the hall and hurries up the stairs. Tom looks after her, dismissing the matter with a shake of the head and a philosophical sigh. Of such stuff are women made.</context>
+      <utterance>I'll go get my things.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="19">
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All you have to remember is, first find the common denominator -- then subtract.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Mr. Carpenter.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Helen is embarrassed. She would like to apologize for the awkwardness downstairs but she doesn't quite know how to go about it.</context>
+      <utterance>I'll say goodnight again.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Carpenter, I--  Goodnight.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>He turns and goes out, closing the door. A little distracted, Helen turns to Bobby.</context>
+      <utterance>Goodnight, my dear.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go to bed, darling. You can finish that in the morning.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>Helen watches as he starts to put away his work. She wants to tell him something, but finds it difficult to say.</context>
+      <utterance>Okay.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bobby -- I think it would be better if we didn't see quite so much of Mr. Carpenter</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gee, why, Mom? He's my best friend... And he's awful good in arithmetic. He even helps Professor Barnhardt.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you and Mr. Carpenter really go to see Professor Barnhardt?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>Helen is surprised to get this corroboration for Klaatu's story. Sensing his mother's uneasiness, the boy looks for something intriguing -- some deep, dark secret.</context>
+      <utterance>Sure we did! He wasn't there but we went to see him. And Mr. Carpenter showed him how to do his arithmetic.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom -- is there something wrong with Mr. Carpenter?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean, dear?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean -- on account of that policeman last night.  You think he's a bank robber, maybe? Or a gangster?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>With a reassuring smile, she starts for the door.</context>
+      <utterance>No, dear, of course not. He's a very nice man. I Just think he might prefer to be left alone. Now you get to bed and forget about it.  'Night, darling.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>(stopping her in the doorway, his imaginative suspicions mounting) Hey Mom -- why would he want to be alone? Not wanting to go into this any further, Helen blows him a kiss and backs out, closing the door. Bobby stands thinking for a moment, his mind still speculating on all sorts of wonderful possibilities. Still preoccupied, he drifts over to his bed and sits down to take of his shoes. He drops the first one to the floor and is starting on the other, when there is a light rap on his door. The door opens and Klaatu appears.</context>
+      <utterance>Goodnight.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bobby -- have you a flashlight?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>Bobby hands him the light, studying his face with eager curiosity.</context>
+      <utterance>Yeah -- sure.  It's a real Boy Scout flashlight.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want it for, Mr. Carpenter?</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="16">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bobby--! What are you doing up at this hour?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I couldn't go to sleep, Mom. I had to tell you!</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me what?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I followed Mr. Carpenter -- right after you left -- and, gee, Mom, where do you think he went? Right into the space ship!</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now, Bobby, just a minute--</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honest, Mom, I saw him. It just opened up and he walked right in. And that great big iron man was moving around!</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bobby, you've been dreaming again.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>Helen and Tom exchange a glance of tolerant amusement.</context>
+      <utterance>No, I haven't, Mom. I promise you... I saw it!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where did you see all this, Bobby?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On the lawn down at the mall -- in that place with the soldiers out front.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where were the soldiers all this time?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>He rushes into Helen's arms, clutching her desperately, trying to hold back his tears.</context>
+      <utterance>That robot fella grabbed 'em and dragged 'em inside!  I like Mr. Carpenter -- but I'm scared, Mom.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Nodding, Tom disappears into the hall and up the stairs. Still holding Bobby, Helen tries to dispel his fears by an appeal to logic.</context>
+      <utterance>Mustn't be frightened, darling -- It was just a bad dream. Here -- we'll prove it to you.  Tom, will you ask Mr. Carpenter if he'll come down for a minute.  The room right opposite mine.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now think back hard. You didn't follow Mr. Carpenter at all, did you? You haven't even been out of the house.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I have!</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd never call you a liar.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="16">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's not there.  But look what I found in his room</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it real?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looks real to me.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>Helen takes the two diamonds Bobby holds out in his hand, looking at them in amazement.</context>
+      <utterance>Mr. Carpenter's got a lot of diamonds.  He gave me a couple of them.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He gave these to you?</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, not exactly. I gave him two dollars.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>Helen tries to shush Tom, not wanting to re-stimulate Bobby's imagination, but it's too late.</context>
+      <utterance>This doesn't make sense... I think the guy's a crook. I never did trust him.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gee, Mom, do you think maybe he's a diamond smuggler?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, darling -- we're going up to bed.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wonder if we ought to--</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bobby and I have had enough excitement for tonight.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think it's all right for you to stay here?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got a good lock on my door.  And Bobby's going to sleep in my room tonight.</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, boy -- can I, Mom?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, dear. Come on now.  Bobby, your shoes are soaking!</utterance>
+   <speaker>BOBBY</speaker>
+      <mode></mode>
+      <context>As the impact of this sinks in, Helen and Tom turn to stare at each other in questioning consternation.</context>
+      <utterance>Yeah -- the grass was kind of wet.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="5">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh -- hello--</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>May I see you for a minute?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I -- I was Just going to lunch.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>She is nervous and uneasy but obviously can't refuse. The telephone on her desk rings and Helen turns to answer it.</context>
+      <utterance>May I walk out with you?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Benson speaking.  Oh, hello...</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="5">
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I saw Bobby this morning before he went to school--</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes--?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to know what he told you last night.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I -- I didn't really pay much attention--  Bobby has such an active imagination.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you believe what he told you?  I have a reason for asking this -- a very important reason.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="11">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it you want?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Without warning the elevator comes to a jolting, jarring stop as the power is cut off and the lights go out. The car is illuminated faintly and eerily by light that seeps through the ventilating grills from a skylight in the shaft. Helen is terrified.</context>
+      <utterance>Before I ask you to be honest with me, perhaps I should be completely honest with you--</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Helen fumbles to get her wrist watch into a faint beam of light.</context>
+      <utterance>What time is it?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just twelve.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll be stuck here for a little while -- about thirty minutes.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We could try pushing the other buttons.  I have a flashlight in my purse.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Helen has the flashlight out and is snapping it on, but it doesn't work. She looks up at him blankly.</context>
+      <utterance>It won't work.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>The impact of this calm, quiet statement is shattering. Helen stares at him awe-struck. Then she speaks numbly, almost inaudibly.</context>
+      <utterance>You see -- the electricity's been neutralized -- all over the world.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Klaatu stares at her evenly, as we--</context>
+      <utterance>Bobby was telling the truth -- wasn't he?</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="11">
+   <speaker>HILDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You should see it, Professor Barnhardt! You should go out and see it for yourself!</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks -- I'm enjoying it right here.</utterance>
+   <speaker>HILDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The whole city has stopped. People are running around like ants!</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context>Hilda flings him a questioning look, annoyed that he won't share her excitement.</context>
+      <utterance>What a brilliant idea. I never would have thought of it.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about the people who are coming to the meeting tonight? Have they all arrived?</utterance>
+   <speaker>HILDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I talked to most of them this morning... They were all very curious about the meeting.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good. Did you speak to our friend Mr. Carpenter?</utterance>
+   <speaker>HILDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He'll be there at 8:30.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me, Hilda -- does all this frighten you -- does it make you feel insecure?</utterance>
+   <speaker>HILDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir -- it certainly does!</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context>The poor woman flings him a look of shocked amazement as we--</context>
+      <utterance>That's good, Hilda. I'm glad.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="5">
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context>Ryder is a Colonel of engineers, a man about forty-five.</context>
+      <utterance>--as far as we can tell, all power's been cut off everywhere -- with a few exceptions: hospitals, planes in flight -- that sort of thing. I wish I could be more specific but, as you now, all communications are out telephone, radio, cable -- everything.  I can tell you that the President is prepared to declare a state of national emergency.  Before we start discussing plans, I want a report from Colonel Ryder. What about the robot, Colonel?</utterance>
+   <speaker>COLONEL RYDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When it was discovered last night that the robot had moved, I was directed by the Joint Chiefs to find a means of immobilizing him. We accomplished that this morning by encasing him in a block of KL 93.  It's a new plastic material -- stronger than steel.</utterance>
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it possible that he's broken out of this stuff?</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, sir. I've Just checked on that. He's locked up tight as a drum.</utterance>
+   <speaker>GENERAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right -- that means we concentrate on the man.  Up till now we've agreed on the desirability of capturing this man alive. We can no longer afford to be so particular. We'll get him alive, if possible -- but we must get him!  Is that clear?</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="12">
+   <speaker>JEWELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eleanor, did you call the electrician?</utterance>
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I tried, Mr. Bleeker. But the phone doesn't work, either.</utterance>
+   <speaker>JEWELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, call the phone company.</utterance>
+   <speaker>GIRL</speaker>
+      <mode></mode>
+      <context>The Jeweler gives her a preoccupied glance of annoyance and turns back to the stone.</context>
+      <utterance>But the phone doesn't work.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is it worth anything?</utterance>
+   <speaker>JEWELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have never seen such a stone. Will you please tell me where it came from?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what I wanted you to tell me.</utterance>
+   <speaker>JEWELER</speaker>
+      <mode></mode>
+      <context>Impressed by the import of what the man is saying, Tom's mind is racing wildly.</context>
+      <utterance>There are no diamonds like this -- any place in the world.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sure about that?</utterance>
+   <speaker>JEWELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you like to sell it?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- no, thanks.</utterance>
+   <speaker>JEWELER</speaker>
+      <mode></mode>
+      <context>Preoccupied with his own excited thoughts, Tom has already started for the door.</context>
+      <utterance>I'd give you a very good price.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="6">
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>--I've already told you more than I told Professor Barnhardt, because my life, in a sense, is in your hands. I thought if you knew the facts you'd appreciate the importance of my not being -- apprehended, -- before the meeting tonight. Helen is staring at him in awe, but also in complete admiration and sympathy.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Klaatu smiles at her warmly and she manages to return the smile. Their relationship is further cemented by the sharing of this vital secret.</context>
+      <utterance>Yes, of course. Of course I do.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You hold great hope for this meeting.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Suddenly and without warning, the elevator starts moving and the lights go on. Startled, Helen looks at him.</context>
+      <utterance>I can see no other hope for your planet. If the meeting should fail, then I'm afraid there is no hope.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It must be twelve-thirty.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes -- Just exactly.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="6">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you going now?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>This recalls to Helen something she had forgotten and she stops in sudden concern.</context>
+      <utterance>Back to the boardinghouse. I'll be safe there for the afternoon -- and I can keep an eye on Bobby. He's the only other person who knows anything about--</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, wait a minute -- there's someone else.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>The look of concern on Klaatu's face heightens Helen's overwhelming fear and uncertainty.</context>
+      <utterance>Tom... He was there last night when Bobby told me what he saw.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course, he doesn't know anything definite. He'd talk to me first, anyway, before--  We can't take that chance. I'll get in touch with him right away and make sure. Helen turns and starts determinedly for the lobby door, followed by Klaatu, as we--</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="9">
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>The corridor door opens and Tom enters with an air of urgency.</context>
+      <utterance>--Honest, Mary, I'm so scared I can't sit still. I'd like to run some place, but I don't know where to go--  'Bye now.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>The secretary has a reaction of surprise, but she manages to stop Tom at his door. He has flipped on the lights in passing.</context>
+      <utterance>Call the Pentagon and find out who's in charge of this space man business. Whoever it is I want to talk to him.</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Benson's been trying to get you all afternoon. She says it's important.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>Tom disappears into his office, closing the door. The secretary is getting out a telephone directory when the corridor door opens and Helen enters, tense and nervous.</context>
+      <utterance>Get this other call first.</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, Mrs. Benson -- He just walked in.  Are you nervous, too?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>The secretary buzzes the intercom and speaks into it.</context>
+      <utterance>Yes, I am, Margaret.</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode></mode>
+      <context>Helen is starting for the door when it opens and Tom appears.</context>
+      <utterance>Mrs. Benson is here.  Go on in.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tom -- I've been trying to get you all afternoon--</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on in.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="23">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got some terrific news about your friend, Mr. Carpenter.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about him?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Helen, he's the man from the space ship!  I had that diamond checked at three different places. Nobody on earth's ever seen a stone like that! After what Bobby told us, that's enough for me. Why is it nobody knows anything about him? Why hasn't he got any money?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, Tom -- it's true. I know it's true.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you know?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never mind about that.  You've got to promise me you won't say a word to anybody.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you crazy? After what happened today?</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't understand. You don't realize how important it is.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Important? Of course it's important. The point is we can do something about it.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what I'm trying to tell you. We mustn't do anything about it. Believe me, Tom, I know what I'm talking about.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a menace to the whole world! It's our duty to turn him in.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But he isn't a menace! He told me what he came here for.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He told you... Don't be silly, honey -- just because you like the guy.  You realize what this'd mean for us? I'd be the biggest man in the country. I could write my own ticket.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that what you're thinking about?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>They are interrupted by the sharp sound of the interoffice buzzer.</context>
+      <utterance>Why not? Somebody's got to get rid of him.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>Tom picks up the phone and answers it.</context>
+      <utterance>I'm not going to let you do it, Tom.  Believe me, this is literally the most important thing in the world.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes?... What's his name, Margaret? General Cutler?  All right, I'll hold on. Realizing what he's doing, Helen crosses to him, pleading wildly, desperately.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tom, you mustn't -- ! You don't know what you're doing! It isn't just you and Mr. Carpenter. The rest of the world, is involved!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll feel different when you see my picture in the papers.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I feel different right now.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wait and see. You're going to marry a big hero!</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context>She turns and runs quickly out of the room. Tom's inclination is to follow her, when his connection is completed.</context>
+      <utterance>I'm not going to marry anybody.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, General Cutler?  No, I don't want to speak to his aide. I want to speak to the General. Tell him it's about the space man... My name is Tom Stevens. S-t-e-v-e-n- s.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="3">
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure Barnhardt can arrange to hide me until the meeting.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where is the meeting going to be?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At the ship.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="6">
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's only a few blocks to Barnhardt's.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm worried about Gort. I'm afraid of what he might do -- if anything should happen to me.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gort?  But he's a robot. I mean -- without you, what could he do?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's no limit to what he could do. He could destroy the Earth.  If anything should happen to me, you must go to Gort. You must give him this message: "Klaatu barada nikto." Please repeat that.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Klaatu barada nikto."</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Helen nods, repeating the words soundlessly.</context>
+      <utterance>Remember those words.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="2">
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir, we've got the body here now. Downstairs in a cell... No question about it, General -- he's dead all right... Yes, sir. Yes -- I understand. The General has apparently hung up and the Colonel does likewise, turning to the officers in the room.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>The two officers mutter their "yes, sirs" and start off about their business.</context>
+      <utterance>General Cutler's coming down here right away.  Take a squad of men, Lieutenant, and post a guard around that cell.  Captain, don't let anyone in or out of the building.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="8">
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I -- I thought you were--</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean he has the power of life and death?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- that is a power reserved to the Almighty Spirit.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This technique, in certain cases, can re-stimulate life for a limited period. It's a refinement of scientific principles known to your own people.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But how -- how long--?</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Klaatu moves one of the sliding panels and reaches for a suit of his "other world" clothing from behind the panel. With a nod of apology, he steps behind the panel to change.</context>
+      <utterance>How long will I live?  That no one can say.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="3">
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, Professor Barnhardt -- I have to ask you to call off this meeting.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Call it off? I... But I had permission from the Army--</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know you did. But the robots on the loose now and it isn't safe around here. You'll have to get your friends out of that building.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="6">
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context>Helen is genuinely upset at the thought of his leaving and the knowledge that he is to die. There is a compelling warmth of feeling between these two.</context>
+      <utterance>Gort and I will be leaving soon.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll miss you very much -- Bobby and I.  He won't have anyone to play with.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He'll have you -- and Tom.</utterance>
+   <speaker>HELEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. That's all finished.</utterance>
+   <speaker>KLAATU</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry.</utterance>
+   <speaker>BARNHARDT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ladies and Gentlemen--</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="3">
+   <speaker>KLAATU'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There must be security for all -- or no one is secure... This does not mean giving up any freedom except the freedom to act irresponsibly.</utterance>
+   <speaker>CLOSE SHOT - A DELEGATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He is an American.</utterance>
+   <speaker>KLAATU'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your ancestors knew this when they made laws to govern themselves -- and hired policemen to enforce them.</utterance>
+</dialogue>
+
+
+</movie>

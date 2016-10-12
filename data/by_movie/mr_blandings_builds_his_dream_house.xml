@@ -1,0 +1,4339 @@
+<movie id="398" title="Mr Blandings Builds His Dream House">
+
+<dialogue id="1" n_utterances="2">
+   <speaker>VOICE</speaker>
+      <mode>OVER DISSOLVE</mode>
+      <context></context>
+      <utterance>Its fine broad streets and boulevards facilitate the New Yorker's carefree, orderly existence.</utterance>
+   <speaker>BROADWAY AND FORTY-SECOND STREET - STOCK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>An enormous traffic jam, horns honking, etc.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="2">
+   <speaker>VOICE</speaker>
+      <mode>OVER DISSOLVE</mode>
+      <context></context>
+      <utterance>Kindly, courteous public servants ever on hand to offer a word of friendly advice.</utterance>
+   <speaker>TRAFFIC COP AND CAB DRIVER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>yelling at each other.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="3">
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"When you've got the whim, say 'Wham!'"... Jim Blandings wrote that slogan. Seven magic words that shine like a beacon light for the American housewife!  "When you've got the whim, say 'Wham!'" Jim Blandings' contribution to the American Scene.</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For fourteen years Jim and Muriel had been living in their apartment over on East Seventy-fourth Street. It was just another of those wonderful crisp September mornings and the Blandings were still asleep. Just like millions of other people in good old Manhattan -- New York City --</utterance>
+   <speaker>U.S.A.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The CAMERA GOES THROUGH the window and INTO:</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="2">
+   <speaker>BETSY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, dad.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Jim continues down the hall, stops at the closed door of the children's room, knocks. No sound. He opens the door and enters.</context>
+      <utterance>Mm.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="2">
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, dad.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>As she sleepily stretches and prepares to rise, Jim exits into the hall.</context>
+      <utterance>Mm.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="2">
+   <speaker>GUSSIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Morning, Mr. Blandings!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Gussie takes a glass of hot water, squeezes in a little lemon, stirs and hands it to Jim who gulps it down, makes a slight face and pats his stomach. Gussie hands Jim a cup of black coffee and he starts back toward the bedroom.</context>
+      <utterance>Mm.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="20">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Muriel awakens, sniffs the fresh coffee, smiles, sits up, takes the cup.</context>
+      <utterance>Coffee.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>They kiss briefly. Muriel starts to sip the coffee as Jim goes to his chest of drawers. It consists of several rows of small drawers above and large drawers below. Jim ruffles through a couple of small drawers, pulls out a suit of underwear, continues noisily and with some annoyance to look through the other drawers.</context>
+      <utterance>Thank you, dear.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Looking for something, dear?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My socks.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you look in your sock drawer?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's where I found my underwear.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh.  Well, try your underwear drawer.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He reaches in and holds up one of Muriel's silk slips.</context>
+      <utterance>I'm in my underwear drawer.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, they must be somewhere.  Socks just don't get up and walk away by themselves.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel, I thought the top two-and-a- half drawers were to be mine! I wish you'd tell Gussie --</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The closet! That's where they are. We put them in the closet.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Socks? In the closet?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, there didn't seem to be any room in the drawers...</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And there's so much of it in the closet!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...so Gussie and I decided that from now on we'll keep them in a basket on the shelf.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He strides angrily to the closet, opens the door, reaches up for the basket and pulls it off the shelf. As he does so, all the hat boxes come tumbling down knocking the basket from his hand, the socks spilling on the floor. About to explode, he looks at Muriel.</context>
+      <utterance>Well, thanks a lot!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim, I do wish you'd make an effort to be a little less clumsy.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Jim looks at her barely containing himself, and then puts the hats back in the boxes, jams them back on the shelf where they toter precariously. With bated breath he gingerly closes the closet door. Pause. Silence. He picks up a pair of socks and walks cautiously toward the hall door. Suddenly there is a rumble and crash from inside the closet. Jim exchanges a look with Muriel, is about to say something, changes his mind, exits into the hall. Muriel looks at the closet, sighs, takes another sip of coffee.</context>
+      <utterance>I'll try, dear.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="2">
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Father, just one morning I wish you'd knock!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Joan disappears into her room as Jim enters the bathroom.</context>
+      <utterance>'Morning, dear.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="16">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Muriel nods, steps back, starts to brush her teeth. They both hum "Home On The Range". Her mouth full, Muriel taps Jim on the shoulder. Without stopping his shaving, Jim moves to one side as Muriel rinses her mouth. She examines her face in the mirror.</context>
+      <utterance>Excuse...</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>As he steps back in front of the mirror, Muriel continues to look at her face in the glass, over his shoulder. She decides she needs a little skin lotion.</context>
+      <utterance>If you don't mind, dear.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>She again opens the cabinet. Jim once more follows the mirror around, nicks his face, gives up, stands glaring arms folded. Muriel takes the lotion from the cabinet.</context>
+      <utterance>Sorry.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Moment, dear.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take your time. I can spare the blood.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh... cut yourself?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I cut myself every morning. I kind of look forward to it.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you get an electric razor?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't like them. No close shave.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ridiculous! Bill Cole's been using one for years.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He doesn't have my beard!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's silly. Bill's beard is just as tough and coarse and --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not interested in discussing the grain and texture of Bill Cole's hair follicles before I've had my orange juice.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't have to carry on so. I only said, why don't you get an electric razor?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I prefer the cool, clean sweep of the tempered steel as it glides smoothly --</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Muriel exits. Jim sighs, turns back to the mirror and with a few deft strokes finishes shaving. As he reaches for the water faucet, he encounters the tube of toothpaste, squeezed in the middle. Reacting with annoyance, he meticulously smoothes it out and rolls it up from the bottom. He opens the cabinet and gingerly places the tube on the top shelf. The iodine bottle pops out. He grimly catches it, studies his problem, has a solution. With his right hand he starts slowly to close the mirror door. Just before it closes, he slips the bottle into the cabinet with his left hand, quickly slamming the mirror door, trapping the bottle. He reacts masterfully at his triumph, picks up his robe and starts for the door. As he reaches it, there is the SOUND of the cabinet opening and a crash as the bottle obviously hits the washstand. As Jim winces,</context>
+      <utterance>Stop writing advertising copy! Hurry up, dear, you'll be late for breakfast.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="57">
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context>She holds out her hand to Joan, who, automatically, and without looking up hands her the salt.</context>
+      <utterance>I did.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have repeatedly told you --  -- don't cut up the morning paper until I've had a chance to look at it!</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context>She hands the salt back to Joan who automatically passes it to Muriel.</context>
+      <utterance>I'm sorry, father. It's necessary research.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose this is another of Miss Stellwagon's so-called Progressive Projects?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now dear, there just isn't any point in sending your children to an expensive school if you're going to undermine the teacher's authority in your own dining room.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not undermining anything. I happen to be in the advertising business and keeping abreast of the times is important to me.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And so is your children's education.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not the point.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It certainly is.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It certainly is not!</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bicker, bicker, bicker.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Jim ducks as Gussie passes back on her way to the kitchen.</context>
+      <utterance>You eat your cornflakes!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joan, every time your father and I have a lively discussion we aren't necessarily bickering.  What is it, dear, another English composition?</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Stellwagon has assigned each of us to take a want ad and write a human interest theme about it.  I found one typical of the disintegration of our present society.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wasn't aware of the fact that our society was disintegrating.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context>Jim puts down the paper, turns to Muriel.</context>
+      <utterance>I didn't expect you to be, father. Miss Stellwagon says that middle- class people like us are all too prone to overlook the pressures and tensions which befall the less fortunate members of our community.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Picks up his paper.</context>
+      <utterance>Muriel, I know it's asking a lot, but just one morning I would like to sit down and have breakfast without social significance!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim, you really might take a little more interest in your children's education.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right. All right. I'll listen.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's just twenty-four words. But in simple eloquence it mirrors a minor tragedy of our times.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well?...</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Forced to sell. Farm dwelling, oak grove, apple orchard, trout stream, hay fields, four barns, seclusion, superb view, original beams, paved highway, acreage...  Will sacrifice..." Pause.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go on.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's all.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's all?!</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't see it, do you, father?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Fellow wants to sell a house so he puts an ad in the paper. What did you expect him to do, take it to the United Nations!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There must be more to it than that.  Isn't there, dear?</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Certainly, mother. What some people don't see is the whole sordid picture. A poor, honest farmer, pushed to the wall by hardship, soil erosion, mortgages, everybody gobbling, gobbling, gobbling, until finally, in desperation, he is "forced to sell," and stoops to the crass commercialism of newspaper advertising.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, indeed... crass commercialism... advertising...</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Stellwagon says advertising is a basically parasitic profession.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, she does?</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Stellwagon says that advertising makes people who can't afford it buy things they don't want with money they haven't got.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps your Miss Stellwagon is right. Perhaps I ought to get out of this "basically parasitic profession," which at the moment is paying for her very fancy tuition, those extra French lessons, her progressive summer camp and for that matter, the very braces on your teeth!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wish you wouldn't discuss money in front of the children.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not, they spend enough of it!</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context>As Jim gives her a look and buries himself in his paper, the downstairs buzzer rings. Gussie enters, squeezes by Jim who automatically ducks, goes to the phone in b.g.</context>
+      <utterance>Bicker, bicker, bicker.</utterance>
+   <speaker>GUSSIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello. Who?  Miss Blandings, there's a Mr. Funkhauser wants to see you.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Funkhauser?  Oh, Mr. Funkhauser!</utterance>
+   <speaker>GUSSIE</speaker>
+      <mode></mode>
+      <context>Muriel looks nervously at Jim who is preoccupied, reading his paper. Then she turns back to Gussie.</context>
+      <utterance>That's what he says.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh -- better ask him to come up.</utterance>
+   <speaker>GUSSIE</speaker>
+      <mode></mode>
+      <context>Gussie hangs up, squeezes by Jim, exits into the kitchen. Pause.</context>
+      <utterance>Says to come up.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh -- uh -- darling, Mr. Funkhauser's here.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Who?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You remember, Bunny Funkhauser, that clever young interior decorator we met at the Collins' cocktail party?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's he doing here?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I imagine he's brought the -- uh -- estimates.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Estimates?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Darling, you know how long we've said we've got to do something about this apartment, and, well, he called last week, and I had him come over, and he's got some simply wonderful ideas!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There couldn't be two Bunny Funkhausers, could there?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why, no, dear.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then this is the same clever young man who's responsible for that zebra- striped monstrosity in the Collins' living room?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That couch is terribly functional.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Phil Collins told me what he paid for all that function!  If you think I'm going to -- SOUND of doorbell ringing.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>The children rise, pick up their school paraphernalia.</context>
+      <utterance>Darling, please!  Children, you'll be late to school. Run along and --</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Stellwagon says that functionalism in modern furniture --</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>She hustles Betsy and Joan toward the foyer as Jim rises.</context>
+      <utterance>Never mind, dear.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="4">
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good morning.</utterance>
+   <speaker>THE GIRLS</speaker>
+      <mode></mode>
+      <context>As they rush out and the door closes, Jim and Muriel enter scene.</context>
+      <utterance>Hi.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good morning, Mr. Funkhauser. You remember Mr. Blandings?</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context>He sweeps by them into the living room, taking over completely.</context>
+      <utterance>But of course.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="50">
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context>Funkhauser looks briefly for a high object over which to display his last bolt of chintz, finds none, settles for Jim's shoulder over which he drapes the cloth, the folds flowing down in front. As Jim reacts:</context>
+      <utterance>You'll have to pardon my bursting in at this dreary hour --  -- practically the middle of the night --  -- but I did so want to catch you in. I've been at it hammer and tongs all week and I'm just a mess --  -- but then Muriel and I thought we ought to talk it over with you before we take the plunge...</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context>Jim looks down at the chintz.</context>
+      <utterance>After all, it's your home, too, and it should reflect you. You know, Man's Castle, all that sort of thing.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim, just wait till you hear. He's got some wonderful ideas for the foyer.</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, that's out! All out! Changed the whole thing! I just couldn't live with it! I said to myself, "Bunny, what are the Blandings? How shall we do them?" And the answer was perfectly obvious. Very American, very grass roots, very blueberry pie -- that sort of thing.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Funkhauser fingers the material of a drape, disdainfully removes his hand.</context>
+      <utterance>Mm.</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now first, let's dig into this living room of yours, it's really a dreary.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We want this room to be very gay, dear. Something in bright reds, yellows and greens.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Red, yellow and green?!</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, come, Mr. Blandings, let's not run away from color.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not running away --  -- just backing off a little.</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh -- yes.  Now as I see our room, it's definitely Colonial. You know, cobbler's bench, breakfront, pie cooler, student lamp, hooked rug. But everything in good taste. It must not jump out at you and scream: "Look -- see how antique I am!"</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heaven forbid.</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course, these things take imagination. You've simply got to be able to visualize.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you'll forgive me, Mr. Funkhauser, what I'd like to visualize -- at this dreary hour -- is how much is this all going to cost?</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, really, I hesitate to say. After all --  -- by the time this wall is out we may find --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This wall is -- what?</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Out. Source of light is from the east. Obviously if our room is to have any function at all --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going to tear out the wall?!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dear, it's a wonderful notion.</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Visualize three feet of leaded panes, the rest --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you give me a figure?</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well! Costs aren't what they used to be, you know, and --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just a figure.</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Materials are impossible, labor has just run wild --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just an overall figure.</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well!... I shouldn't like to be tied down. But I suppose if you must have a figure, I'd say -- mm --  -- somewhere in the neighborhood of seven.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm... Seven.</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That would be seven... thousand?</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context>Jim looks at Muriel, considers.</context>
+      <utterance>Mm.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We-ll. That seems fair.  After all, we're not running away from color --  -- and we are tearing out walls --  Mr. Funkhauser, do you have a card?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim, we haven't even discussed the rest of the house.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We will, dear.</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, really, I --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>CAMERA TRUCKS with them to the door.</context>
+      <utterance>We'll talk it all out and then we'll get in touch with Bunny.</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, really, I mean, I was under the impression we'd come to some decision today.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure we will.</utterance>
+   <speaker>FUNKHAUSER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We-ll!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>And Funkhauser is gone. Jim closes the door, turns ominously.</context>
+      <utterance>So nice of you to come.  Good day.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now darling, you -- you just don't go to a man like Funkhauser and ask how much it's going to cost before you even know what he's going to do!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, that would be too logical! Seven thousand dollars! Blueberry pie! I wouldn't put seventy-five cents into this broken-down rat trap!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's our home, Jim. Betsy was practically born in this apartment.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That does not make it a national shrine!  Seven thousand dollars and not one word about closets.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Closets! You wouldn't even let him get to the bathroom!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't got that kind of money!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The way you talk, Jim Blandings, you'd think I was some kind of congenital idiot!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes I'm beginning to wonder!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can just get out of here!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He angrily jerks open the hall closet door, pulls his hat down from the shelf, several hat boxes, some ski boots and a tennis racket tumbling down on his head. Jim jams his hat onto his head, takes a deep breath and storms out, slamming the door. Muriel walks over to the closet, is about to bend down and pick up a hatbox when all of her pent-up emotions explode. She kicks the hat box into the closet, slams the door, starts to cry.</context>
+      <utterance>That's not a bad idea!</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="4">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>His secretary enters.</context>
+      <utterance>Sorry.</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good morning, Mr. Blandings.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Morning.</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context>She hands him a magazine. He looks at it perfunctorily, is about to hand it back when his eye is caught by an ad on the back cover.</context>
+      <utterance>You wanted to see the color copy from this month's House and Stream.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="6">
+   <speaker>SOOT FOR SYLVAN CHARM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In smaller type:</utterance>
+   <speaker>MARY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will that be all?</utterance>
+   <speaker>JIM - MARY.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim - Mary.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hm?</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context>Without answering he turns back to the ad. The CAMERA COMES IN for a HEAD CLOSEUP as he studies the ad and on the sound track we hear:</context>
+      <utterance>Will that be all?</utterance>
+   <speaker>BETSY'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Forced to sell. Farm dwelling, oak grove, apple orchard, trout stream, hay fields, four barns, original beams --" As he looks up thoughtfully:</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="4">
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>Smith looks speculatively at the Blandings.</context>
+      <utterance>There they are, two little fish from New York -- out in the deep deep waters of Connecticut real estate. That's Smith, the real estate salesman. Mighty shrewd cookie in a quiet sort of way. Never thought he'd get a bite this quick.</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>Jim takes a deep breath, looks at Muriel as if to say, "Get that air!" Muriel smiles with approval. Jim pats her hand affectionately. Smith reacts.</context>
+      <utterance>Now he's sizing up the catch. "Mm. Let's see. Convertible -- orchids -- must be pretty well fixed. Wonder if they're lookers or buyers?"</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>Yes, sir, Smith, looks like you're finally going to unload the old Hackett place. Now first thing is get 'em a little anxious. Jim slows down the car as they approach a rather picturesque- looking old Connecticut farmhouse. He and Muriel react with approval, look questioningly at Smith. Smith shakes his head, "no," as though to say, "Not nearly good enough for you."</context>
+      <utterance>They're buyers.</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Th-a-a-t's right!</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="2">
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now we're ready to gaff 'em.</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context>The Blandings look off, react with interest and approval.</context>
+      <utterance>Well, folks, there she is -- the old Hackett Place.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="16">
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Jim's look cautions against her over-enthusiasm.</context>
+      <utterance>It's simply charming!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That is, for an old house.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course, you understand, Mr. Smith, we're just window shopping, so to speak. Nothing really definite in mind.</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perfectly all right.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm. Not a bad-looking place, but it's certainly a lot older than anything we had in mind.</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context>They look at him curiously. Smith's attitude is matter-of- fact, almost without enthusiasm.</context>
+      <utterance>She's no spring chicken --  -- but that's just what makes her such a buy.</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This isn't just old timber, or a virgin stand oak grove other side of the trout stream, or a couple of fruit orchards... You're buying a piece of American history.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't say! How's that?</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>First year she was built, General Gates stopped right here to water his horses.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh! Old General Gates -- Civil War.</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Revolutionary War.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Oh, that General Gates. Hear that, honey, General Gates!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wouldn't that make the house over a hundred years old?</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context>The Blandings, as one, turn to the house with renewed interest. This is not lost on Smith.</context>
+      <utterance>Now I'm not trying to sell you anything -- all I'm saying is that one of these days someone with a little vision and imagination's goin' to come along, and just steal this place --  and I mean steal it.</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Blandings, I know you can look at that house and just about picture what a couple of coats of paint and a little pointing up here and there can do to it.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>The CAMERA MOVES TO a HEAD CLOSEUP of Jim as he begins to visualize</context>
+      <utterance>Mm.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="2">
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I guess I don't have to tell you, Mrs. Blandings, what a woman's touch could do to a place like this.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>CAMERA MOVES to a HEAD CLOSEUP of Muriel as she starts to visualize.</context>
+      <utterance>Well --</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="8">
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shall we go up and take a look at her?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well -- I -- suppose as long as we're here...</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>As Smith precedes them up the path toward the house:</context>
+      <utterance>I guess it doesn't hurt to take a look.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It does have possibilities. Do you think we can get it?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like taking candy from a baby.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now don't lose your head.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>As they enter the house:</context>
+      <utterance>Shh. Just keep quiet and let me handle this.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me, Smith, what kind of a price is the owner asking for this old place?</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="25">
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's wonderful, Jim! That master bedroom with those two closets!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shh!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Funkhauser could do wonders with this --</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, George!</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, Eph!  What do you know, it's Eph Hackett, owner of the place!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Eph Hackett gets out of the car, saunters over. Hackett is a middle-aged, rural-looking, taciturn New Englander</context>
+      <utterance>Well, you don't say.</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eph, this is Mr. and Mrs. Blandings -- from New York City.</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Howdy.</utterance>
+   <speaker>THE BLANDINGS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you do?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You certainly have a lovely place here, Mr. Hackett.</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ye-ap.</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context>As the Blandings react with dismay:</context>
+      <utterance>Ain't for sale!</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How'm I doin', George?</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nice timin', Eph. Think we got something here.</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They the same people you showed it to in nineteen-thirty-eight?</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They were lookers -- this is the real thing.</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If they got five thousand dollars on 'em. don't let 'em get away.</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They already offered ten.</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Y'don't say... What's my asking price?</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fifteen...</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A mite stiff...</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got 'em measured.  They're gonna take the place for --  eleven thousand.</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Make it eleven thousand five hundred fifty.</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Odd kind of figure.</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context>As Smith raises a knowing eyebrow:</context>
+      <utterance>Might as well take the commission out of them instead of me.</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="36">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Home, home in Connecticut With a closet to hang up your petticut..."</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Jim?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"No hustle or fuss No Fifth Avenue bus --"</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh -- Jim?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hm?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Jim looks suspiciously at her, at the children, then back at her.</context>
+      <utterance>I was just wondering, dear. Ten thousand dollars is such an awful lot to offer --</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That is, for two people who don't know anything at all about real estate, or anything...  I mean, don't you think perhaps we should have asked someone's professional advice?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like... say... a lawyer?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, Bill knows about these things and --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel, for once in my life I'm going to make one small decision, on my own, without the legalistic machinations of Mr. Bill Cole.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It seems very peculiar that when your very best friend happens to be one of the very cleverest young lawyers in New York City --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel, I don't want to hear another word about Bill Cole!  Well, did your mother tell you about the house?</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well?</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Stellwagon says the current craze for modernizing old farmhouses is a form of totem worship.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did it ever occur to you two that there may be some remote, intangible subjects upon which your Miss Irma Stellwagon is not the final authority?</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't we buy a Solaxion house?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...You know it's just barely conceivable -- What kind of a house?</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Solaxion. It's built on a mast like a tent and it revolves with the sun.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, it... revolves... with the sun?</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who lives next door -- Buck Rogers?!</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the only practical way to live. When a new model comes out you trade the old one in like a used car.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel --</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Children, you haven't even seen this house yet.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Personally, I'd like a Crane Mobile home. It comes all folded up and all you do is plug it in for electricity and water and --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now just a minute!  What kind of children are these?  Do you want to spend the rest of your lives in chromium tents and portable merry-go-rounds? This house was built before our country became a nation. It has dignity. It's -- it's -- Gussie enters with a letter.</utterance>
+   <speaker>GUSSIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Special delivery, Mr. Blandings.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>As he eagerly opens it and reads, his face falls.</context>
+      <utterance>From Smith!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"I have conveyed your offer of ten thousand dollars to Mr. Hackett and am sorry to say he is not interested. However, I feel..."</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, dear. Maybe we should have gone a few dollars higher.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's bluffing. Simple as that.</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For ten thousand dollars we could get a Rockford Trailer and a Zamboni Power Unit. It's kitchen, bathroom and air conditioning all rolled up into -- Jim gives her a weary look, turns to Muriel.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel, I'll let him push me to ten thousand, two hundred, but not a penny more!</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="5">
+   <speaker>JIM'S VOICE</speaker>
+      <mode></mode>
+      <context>As a succession of letters flutter across the screen, first from left to right and then from right to left, and the house is jockeyed back and forth, they are punctuated with the following lines:</context>
+      <utterance>"Dear Mr. Smith: You may inform Mr. Hackett that the very highest I could possibly go --"</utterance>
+   <speaker>SMITH'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Dear Friend Blandings --"</utterance>
+   <speaker>JIM'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"My dear Friend Smith --"</utterance>
+   <speaker>SMITH'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Dear Blandings --!"</utterance>
+   <speaker>JIM'S VOICE</speaker>
+      <mode></mode>
+      <context>Throughout this Smith's voice remains bland and unperturbed while Jim's has the desperate, frenetic quality of a man being slowly pushed to the wall. The Special Effect concludes with the house finally and firmly at rest on the preordained $11,550. As the antagonists on both sides of the house relax, Smith reaches around in front of the house and shakes hands with Jim. It's a deal! About halfway through when the going gets tough, Jim beckons Muriel to help in the losing fight. As they now embrace, Smith and Hackett shake hands in mutual congratulation.</context>
+      <utterance>"Dear Smith - !"</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="39">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think, Bill? Steal, huh?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Jim looks triumphantly at Muriel.</context>
+      <utterance>It certainly is.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps "steal" is an understatement -- "swindle" might be a little more appropriate.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it wasn't much, Bill. I just saw a good thing and I --  What do you mean?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every time you get a little tight you weep on my shoulder about the advertising business and how it forces a sensitive soul like yourself to make a living by bamboozling the American public.  I would say that a small part of this victimized group has now redressed the balance.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You! You've been taken to the cleaners and you don't even know your pants are off!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dear, I told you. I said we should call Bill --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never mind, Muriel!  All right, just what's wrong with this deal?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>First time around you offered ten thousand dollars for fifty acres, right?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What of it?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's two hundred dollars an acre. I know that part of Connecticut and one hundred dollars an acre is standard top-gouge price to city slickers. When the natives sell to each other it's around forty or less.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forty dollars an acre!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The man's entitled to a fair profit.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not two hundred and eighty-four percent.  And besides, you're not getting fifty acres, you're only getting thirty- five, more or less.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where does it say that?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>He hands the letter to Muriel.</context>
+      <utterance>I refer to a rather obscure post- script on the back of the second letter from Friend Smith.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Incidentally, Mr. Hackett has been a little over-optimistic about the acreage. It will probably survey somewhere in the neighborhood of thirty-five acres, more or less, but I feel sure..."</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, so it's thirty-five! What's the difference? Do you know how many tennis courts you can get on thirty- five acres?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're not spending eleven thousand five hundred dollars for tennis courts!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not the point!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's precisely the point. We're going to write this Hackett a strong letter and tell him he can either kick in with those fifteen acres, reduce the price, or find another sucker.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll do no such thing! I'm not going to queer this deal over fifteen broken- down acres!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We were just going window shopping and so far it's cost us eleven thousand five hundred dollars and they even made us pay the commission!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't understand business.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>As Jim turns on Bill and is about to answer him explosively:</context>
+      <utterance>You mean extortion.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wonder if we could get another two year lease on the apartment?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now wait a minute! You can't measure everything on a slide rule. This house has certain intangibles.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like what, for instance?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like antique value, for instance! It just so happens that General Gates stopped right there, at that very house, to water his horses.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't care if General Grant dropped in for a scotch and soda -- you're still getting rocked!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was a different war!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think Bill's absolutely right.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me explain something. To both of you. For fifteen years I've been cooped up in a four room cracker box! Just getting shaved in the morning entitles a man to the Congressional Medal for bravery.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That doesn't make this a good buy.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Muriel looks at Jim, impressed, her face softening with compassion.</context>
+      <utterance>Bill -- Muriel and I have found what I am not ashamed to call our Dream House. It's like a fine painting. You buy it with your heart, not your head. You don't ask, how much was the canvas, how much was the paint? You look at it and you say, "It's beautiful... I want it," and if it costs a few pennies more you pay it -- and gladly -- because you love it and you can't measure the things you love in dollars and cents!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well -- that's how I feel about this place. And when I sign those papers Saturday, I can look the world in the face and say, "It's mine! My house! My home! My thirty-five acres!"</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>They tenderly kiss.</context>
+      <utterance>Our house. Our home. Our thirty-five acres...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>On Jim's reaction:</context>
+      <utterance>...more or less...</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="10">
+   <speaker>JUDGE QUARLES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"...thence along said stonewall fence forming the East boundary of said Lansdale Road, N 20 27' E, 21.84 feet to the end of said stonewall fence, thence along a wire fence, N 16 31' W, 78.66 feet to a dead twenty- inch chestnut tree, thence westward to said stonewall fence, to a total of thirty-one and a half acres --"</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Judge Quarles looks up impatiently at the interruption.</context>
+      <utterance>What was that? How many acres?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thirty-one and a half.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was under the impression your property was thirty-five acres, Mr. Hackett.</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context>Bill looks significantly at Jim.</context>
+      <utterance>It is... more or less.</utterance>
+   <speaker>SMITH</speaker>
+      <mode></mode>
+      <context>Jim turns to Bill for affirmation. Bill soberly nods his head, "yes."</context>
+      <utterance>You see, Mr. Blandings, when you signed the purchase agreement it was subject to traced map attached. Surveyed to an even thirty-one and a half acres.</utterance>
+   <speaker>JUDGE QUARLES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anything wrong?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Jim gives Bill a sour look as the Judge continues:</context>
+      <utterance>It's nothing, Your Honor, just a few less tennis courts.</utterance>
+   <speaker>JUDGE QUARLES</speaker>
+      <mode></mode>
+      <context>During this, and as a shaft of sunlight hits them, a beatific look comes across the faces of Jim and Muriel. For a moment it has become their wedding day. After a momentary pause:</context>
+      <utterance>"...to have and to hold to him, the said Grantee, his heirs and assigns to his and their own proper use and benefit forever."</utterance>
+   <speaker>JUDGE QUARLES</speaker>
+      <mode></mode>
+      <context>As the Blandings are startled back to grim reality:</context>
+      <utterance>Subject to a six thousand dollar mortgage held by Ephemus Whittaker Hackett...</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="5">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What in the world are "Shrunk Mills?"</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They are probably mills that have shrunk.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you certainly aren't much of a help.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>They look at him curiously.</context>
+      <utterance>Look -- you really want to find that house of yours -- it's no problem.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Jim looks at him darkly, drives through the bridge, turns right, as Muriel looks slightly triumphant.</context>
+      <utterance>Just pretend you're one of General Gates' horses and you're thirsty... Now where would you go for a drink of water?</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="13">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I must admit it's a very beautiful thing.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Three shingles slide from the roof. As Jim and Muriel react:</context>
+      <utterance>The house and the lilac are just the same age, Bill; if the lilac can live and be so old, so can the house. It just needs someone to love it, that's all.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>As Jim gives him a look:</context>
+      <utterance>It's a good thing there are two of you -- one to love it and one to hold it up.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'd your engineer say when he checked over the foundation and that roof?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who needs engineers? This isn't a train, you know.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just saw it move.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>As if on cue, a few more shingles slide off the roof, nearly hitting Jim.</context>
+      <utterance>This house has been standing since the second year of the Continental Congress. You take one look at it and shingles start to fall off!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look -- let me do you a favor. I've got a client, crackerjack structural engineer, Joe Apollonio; he practically built the George Washington Bridge single-handed.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks a lot, but we're not building a bridge.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's the follow who advised the Government not to raise the Normandie -- they didn't listen to him, cost them five million dollars.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have my word, if I were raising the Normandie, I wouldn't make a move without Apollonio.  Now would you like to come inside and look around?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>As Jim opens the door and disappears, there is a crash, followed by a series of other crashes. Muriel looks in, turns back to Bill.</context>
+      <utterance>No thanks, I'll just stay out in the car and listen to "Life Can Be Beautiful."</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think you'd better contact Mr. Apollonio.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="11">
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It has charm, hasn't it, Mr. Apollonio?</utterance>
+   <speaker>APOLLONIO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh-huh.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course, any small changes would have to conform with the character of the countryside.</utterance>
+   <speaker>APOLLONIO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm-hmm.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Apollonio casually walks over to the corner of the house, kicks an exposed beam. It crumbles, apparently rotted by termites. Two shingles fall off. The Blandings watch him anxiously.</context>
+      <utterance>And yet still be functional.</utterance>
+   <speaker>APOLLONIO</speaker>
+      <mode></mode>
+      <context>As he thoughtfully rubs his chin, Jim, followed by Muriel, limps his way over to him.</context>
+      <utterance>Uh-huh.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Apollonio looks at the Blandings, at the house, then back at the Blandings. He takes the cigar from his mouth.</context>
+      <utterance>Well, uh, what's your professional opinion?</utterance>
+   <speaker>APOLLONIO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tear it down.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tear it down??!</utterance>
+   <speaker>APOLLONIO</speaker>
+      <mode></mode>
+      <context>During this speech Apollonio picks up a wooden frame, squares it with a pocket square, levels it on a fence, and looks through it at the house.</context>
+      <utterance>If your chimney was shot and your sills was okay, I'd say go ahead, fix her up. If your sills was shot and your chimney was okay, again I'd say go ahead, fix her up. But your sills are shot and your chimney is shot.</utterance>
+   <speaker>APOLLONIO</speaker>
+      <mode></mode>
+      <context>The Blandings step over, look through the frame.</context>
+      <utterance>Take a look at the way she sags.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="5">
+   <speaker>APOLLONIO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So I say don't throw good money after bad -- tear it down.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks a lot.</utterance>
+   <speaker>APOLLONIO</speaker>
+      <mode></mode>
+      <context>He tips his hat, walks out of scene.</context>
+      <utterance>It's okay.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bill Cole and his experts!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Darling, we'll get our own experts.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="2">
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And so they got their own experts. Mr. Simpson said --</utterance>
+   <speaker>SIMPSON</speaker>
+      <mode></mode>
+      <context>The Blandings look at each other.</context>
+      <utterance>Tear it down.</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="2">
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On the other hand, Mr. Murphy said --</utterance>
+   <speaker>MURPHY</speaker>
+      <mode></mode>
+      <context>The Blandings smile feebly.</context>
+      <utterance>I think you'd better tear it down.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="2">
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And then just to be a wee bit different, Mr. Jones said --</utterance>
+   <speaker>JONES</speaker>
+      <mode></mode>
+      <context>The Blandings are now considerably shaken.</context>
+      <utterance>Tear it down!</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="12">
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course you could fix up that old house. You can fix up any structure that's still standing. The sills and floors couldn't be worse, I grant you, and I guess you'd have to jack up that west corner at least three feet to make it level. Need new chimney. New roof. Complete new plumbing.  Too bad you didn't buy it ten years ago. Could have fixed it up in jig time then, and it would have made some sense.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh-huh... mm-hmmm... uh-huh.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fact is, before you're through, it would be less expensive to tear the old place down and build a new one, same size.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm. New house...  New house.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean... for the same money... we could build a brand new house?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It certainly wouldn't cost any more.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He turns and looks thoughtfully at Muriel who raises an interested eyebrow. Then, to Simms:</context>
+      <utterance>Hm... New house...</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just... what sort of thing do you have in mind?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I imagine the type of house you'd want would be something in quiet good taste, two story, frame and brick veneer construction -- modern, but of course fitting in with the architectural traditions of the countryside.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I -- What do you think, Muriel?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think it sounds fine.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context>Simms places the basic floor plan on the desk before him, the Blandings moving around, flanking him. They examine the plan with interest.</context>
+      <utterance>Perhaps you'd like to see a basic floor plan --  -- something like this.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="4">
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's very nice, I'm sure, but -- uh -- well -- doesn't it seem just a little bit conventional?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, Simms, if we were going to build a house we want it -- well, you know -- just a little bit different.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, of course.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now, for instance --</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="14">
+   <speaker>JIM'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- here in the study if we could just push out this wall a little -- and put in a built-in bar we could --</utterance>
+   <speaker>MURIEL'S VOICE</speaker>
+      <mode></mode>
+      <context>Her hand takes the pencil from his, starts to trace as she talks. Jim's fingers drum with the beginnings of impatience.</context>
+      <utterance>Excuse me, dear --</utterance>
+   <speaker>MURIEL'S VOICE</speaker>
+      <mode></mode>
+      <context>As she draws it in, Jim's hand takes the pencil. Muriel's fingers drum nervously.</context>
+      <utterance>These bedrooms. They do seem rather small. And, of course we'd have to have a little dressing room -- and --</utterance>
+   <speaker>JIM'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And closets, Simms, lots of closets.  If there's one thing this family needs, it's closets.</utterance>
+   <speaker>SIMMS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I might make a suggestion -- But Muriel's hand reaches the pencil first.</utterance>
+   <speaker>MURIEL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And bathrooms, Mr. Simms. Each bedroom must have at least one bathroom.</utterance>
+   <speaker>SIMMS' VOICE</speaker>
+      <mode></mode>
+      <context>Jim's hand reaches the pencil before Simms. Now Simms' fingers and Muriel's drum in unison.</context>
+      <utterance>But that would be four bathrooms, Mrs. Blandings --  I think I'd better point out to you --</utterance>
+   <speaker>JIM'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just a minute. Do you think --  we might manage a little playroom in the basement, nothing tremendous, you know, something like this --</utterance>
+   <speaker>SIMMS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it's always possible, but at the moment our fundamental problem -- But Muriel's hand has the pencil.</utterance>
+   <speaker>MURIEL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I've always wanted a little sewing room upstairs --  You know, a little utility room where I can be alone, and sew, or sulk, or on a rainy afternoon...</utterance>
+   <speaker>JIM'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pardon me, dear. On that playroom, Simms, not too small. You know, plenty of room for ping-pong, darts, nice big poker table...</utterance>
+   <speaker>SIMMS' VOICE</speaker>
+      <mode></mode>
+      <context>But Muriel has reached the pencil first. As she and Jim sketch simultaneously and the scene begins to DISSOLVE, we hear:</context>
+      <utterance>If you don't mind, I --</utterance>
+   <speaker>MURIEL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...And off the kitchen, I'd like a little flower sink just to putter around in...</utterance>
+   <speaker>JIM'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...And a terrace off the study, with an owning and little outdoor fireplace...</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="3">
+   <speaker>SIMMS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- I'm afraid you've got the upstairs about twice as big as the downstairs.</utterance>
+   <speaker>JIM'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all those bathrooms.</utterance>
+   <speaker>MURIEL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is not, it's all those closets.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="15">
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By extending this breakfast room you've eliminated the possibility of any stairs going to the second floor.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you can just shove those stairs in anywhere.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And, Mrs. Blandings, on that sewing room, the way you have it now, the chimney stack would come up right through the middle of the room, leaving you with something in the shape of a square doughnut.  Which, of course, might be very warm in winter, but otherwise of doubtful utility.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could always move the chimney somewhere else, couldn't you?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We-ll...  Look, I think I know just about what you two have in mind. Why don't I go ahead with some preliminary plans and --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You do that, Simms, but remember, we've got to hold it down to ten thousand.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That, I can tell you right now, is impossible. Even with a considerable trimming of the things you've indicated, I don't see how we can bring it in for less than twelve or twelve-five.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twelve-five!  Well, I guess we're not going to quibble about a few pennies one way or the other.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, you'll find Mr. Blandings never quibbles about pennies.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And -- uh -- have you any notions about how you'd like the old place taken down?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't we just blow on it?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context>Jim expansively puts his arm around Simms' shoulders.</context>
+      <utterance>There's a good local house wrecker. I'll have him contact you.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine. You just shoot ahead with those plans, and remember, try to keep it down to ten, ten-five.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context>As the Blandings walk to the door:</context>
+      <utterance>Well -- we'll try.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>As they go out the door:</context>
+      <utterance>There's one good thing about getting that old relic down. Those original beams and everything -- this time somebody pays us.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="8">
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Them beams is worth money. You payin' him, or he payin' you?</utterance>
+   <speaker>WRECKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's payin' me.</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much?</utterance>
+   <speaker>WRECKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A thousand.</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A thousand!</utterance>
+   <speaker>WRECKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He squawked, but he paid.</utterance>
+   <speaker>HACKETT</speaker>
+      <mode></mode>
+      <context>As he starts out of scene:</context>
+      <utterance>Hmm. I guess maybe I got a little somethin' comin' too.</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context>Tractors attached to chains and cables start to pull.</context>
+      <utterance>Okay, boys, let her go!</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="2">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, so far it's cost us thirteen thousand, three hundred and twenty- nine dollars and forty-five cents.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>They exchange a look of mixed emotions.</context>
+      <utterance>But we've got the nicest vacant lot in the state of Connecticut.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="109">
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's impossible. I don't see how we can cut another inch.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honey, you heard Simms. As the house stands now it's over fifteen thousand dollars!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it just doesn't seem possible --  for a house with such small rooms.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Blandings, I've already explained. It's not only the size of the rooms so much as it is the number. You see, our primary problem is one of cubage --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right, dear, cubage.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh --  just a figure of speech.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But what does it mean?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cubage. It's just the number of cubic feet that --  -- go into a cubic foot. Go on, Simms.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now is it absolutely essential for each of your daughters to have her own room with two closets and a separate bath?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. You see, er, my daughters are, er, approaching womanhood, and, er --</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hadn't realized they were approaching it quite so fast.  Perhaps what you need is not so much a house as a series of little bungalows.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hmmm.  What about that silly flower sink? We could eliminate that.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I beg your pardon.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or that sewing room upstairs, that's certainly a waste.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If we're going to eliminate anything, we'll lose that ridiculous play room in the basement with that great big poker table.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honey, I've got to have some relaxation.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've got thirty-one and a half acres. Go out in the back and do a little gardening.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure, and get poison ivy!</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I may interrupt, I'd like to suggest that none of these are really major eliminations. Now if we could do with one less bathroom on the second floor --</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. We couldn't possibly.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mrs. Blandings, a simple bathroom, eight by ten by eight with grade A fixtures will cost around thirteen hundred dollars.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I refuse to endanger the health of my children in a house with less than four bathrooms.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For thirteen hundred dollars they can live in a house with three bathrooms and rough it!</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, perhaps the most practical thing would be --</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, look, we're in the Lansdale paper!  "Historical Society Blasts Vandalism!"</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel, Simms explained to you. We've just got to cut, cut --  What's that?</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Censure Vote Passed re Destruction of Famed Hackett Edifice."</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He takes the paper, scans it, suddenly bursts into laughter.</context>
+      <utterance>Well, isn't that just too bad! Let me see that.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's so funny.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Prutty. Mrs. Bildad Prutty. Get a load of this!  "The semi-monthly meeting of the Lansdale Historical Society was turned into an uproar last night when its president, Mrs. Bildad Prutty" -- How do you like that, Bildad Prutty? -- "reported the total demolition by its New York buyer of the historic old Hackett house."  Bildad Prutty! Muriel, I've got to send this to the New Yorker!</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Read on, father.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Mrs. Prutty," -- Bildad, that is -- "reminded her audience that several years ago the Society started to raise a fund to purchase and restore the old house to its original condition."</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Read on, father.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"The project fell through by being seven hundred dollars short of the sum of twenty-six hundred dollars..."  "...which Ephemus Hackett testified was the lowest reasonable price he could accept as --" The paper drops.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Twenty-six hundred dollars.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And what did we pay, father?</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eleven-five, with the commission.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel, isn't it time for those children to be in bed?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>The front doorbell rings.</context>
+      <utterance>Now girls, I don't want to tell you again.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>As the CAMERA FOLLOWS Muriel to the door, we hear:</context>
+      <utterance>Excuse me.</utterance>
+   <speaker>JIM'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twenty-six hundred dollars!</utterance>
+   <speaker>SIMMS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I wouldn't be too concerned about Mrs. Prutty and her committee. After all, it's your property and if you want to tear it down -- Muriel opens the door, admits an excited Bill Cole.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why, Bill!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, Muriel.  Well, you've done it again'. Once, just once, why don't you come to me and find out if it's all right, if it's legal, before you go barging off and run yourself smack into another jam!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's eating you?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I must say, Simms, I hold you equally responsible!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? What happened?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid I don't understand.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you let this idiot tear down that house?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if he did? What of it?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Reconstruction was unsound and totally impractical.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I quite agree. But you're dealing with a man who doesn't think before he acts, who goes off half-cocked!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it? What did I do?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're an architect! You must have been aware of the legality involved.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? What legality?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You knew there was a mortgage on that house.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I assumed as much.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened? What are you talking about?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you know the requirements in regard to a mortgage where there's demolition intended!</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Certainly. But since you were his lawyer, I naturally assumed --</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With a man like this you can't assume anything!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just one minute! I am entitled to know what I did! This is America! A man's guilty until he's proven innocent --</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's the other way around, father.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You go to bed!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Girls!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bill, I've had a very trying day. Would you mind telling me in clear, concise English just what crime I've committed -- and why?!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In clear, concise English, you tore down a house on which another man holds a mortgage without first getting his written permission.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I -- I did?!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And in such case, the mortgagee can demand the full payment of said mortgage upon demand --  and Mr. Ephemus Hackett so demands! Six thousand clams! And he wants them now!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now?!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Jim gulps. Pause.</context>
+      <utterance>You've got ten days.</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For six thousand dollars we could have had a Solaxion house and a Crane Mobile home.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Girls, say your good nights and off to bed without another word.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good night, Mr. Simms. Uncle Bill.</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Stellwagon says the problems of the parents should be the problems of the children.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>The children exit. An embarrassed pause.</context>
+      <utterance>You keep that in mind, dear. It'll help prepare you for motherhood.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps we'd better let the plans go for the time being and --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Simms, I'll work this out. You go ahead with your final plans and let's see some estimates.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And we'll just forget about that extra bathroom.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context>Good nights are exchanged. Muriel takes Simms out of scene toward the door. CAMERA HOLDS on Bill and Jim.</context>
+      <utterance>Very well. You'll hear from me as soon as possible. Good night.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Bill looks at Jim with compassion.</context>
+      <utterance>Six thousand dollars!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What'll you do for collateral on your building loan?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, turn in my insurance policies or something.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now, Jim, you can't do that.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why not?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What if something should happen? You can't leave the children unprotected.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not dead yet! And if I die, there's plenty left to take care of them.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>As Jim reacts with painful resignation:</context>
+      <utterance>Not if you cash in your policies.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure it won't be necessary. I'll see the boys at the bank. Maybe you can put up your insurance as collateral. If necessary, I'll sign a personal note.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Bill.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And Jim, do me a little favor. The next time you're going to do anything, or say anything, or buy anything, think it over very carefully, and when you're sure you're right -- forget the whole thing. Good night, Muriel. He goes to Muriel and kisses her on the cheek. Jim sees it, is annoyed.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>CAMERA FOLLOWS Muriel and Bill to the door. He exits. Muriel comes back into the room.</context>
+      <utterance>Good night, Bill.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What a wonderful friend.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's with this kissing all of a sudden?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just because a man is helpful in a business way, it doesn't give him extra-curricular privileges with my wife!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a fine thing to say about a friend of fifteen years!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I don't like it. Every time he goes out of this house, he shakes my hand and he kisses you.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you prefer it the other way around?!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I don't like it, that's all! Why is he always hanging around? Why doesn't he ever get married -- or something?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because he can't find another girl as sweet and pretty and wholesome as I am.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Muriel comes over, puts a sympathetic arm around him.</context>
+      <utterance>Well -- it -- it doesn't look right. There are limits to friendship and --</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Darling, let's not be silly about this. It's not Bill, it's the house you're upset about.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>They kiss.</context>
+      <utterance>I suppose so.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you think it's worth all this?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course, darling. We're not just building a house -- it's a home. A home for ourselves -- and our children -- and maybe our children's children.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>They look at each other, smile and kiss intimately, as we</context>
+      <utterance>It's getting awfully crowded with only three bathrooms.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="3">
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well -- here are the estimates. Before you look at them, I think I'd better explain --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Jim is halfway into his chair as his eye catches the first bid. There is a sharp MUSICAL EFFECT as Jim bounces out of his seat.</context>
+      <utterance>Don't bother, Simms.  I'm getting to be an old hand at this sort of --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>The CAMERA GOES IN for a CLOSE SHOT of the column of estimates. As the CAMERA IRISES DOWN ON each sum, there is a dissonant MUSICAL EFFECT. Antonio Doloroso, Builders $32,117.00 Caries &amp; Plumline $30,500.00 Julius Akimbo &amp; Co. $28,575.00 Zach, Tophet &amp; Payne $24,250.00 John Retch &amp; Son $21,000.00</context>
+      <utterance>Jumping H. Mahogany --!!</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="8">
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now obviously these bids are way out of line, that is, all except John Retch and Son at twenty-one thousand.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twenty-one thousand!</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And with some judicious cutting, I think we can pare that down to eighteen.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've only asked for the barest necessities --</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Frankly, with all the extras you two have --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never mind.  If you'll just send us a bill for your services, I'll see that it's taken care of.  Now, if you'll excuse us.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are we going?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>As they are about to exit, they pause as their eyes are caught by a drawing on an adjacent drawing board.</context>
+      <utterance>I am going out to get my head examined! Then, if I don't jump off the Brooklyn Bridge, I'm going to find the owner of our building and sign a twenty-year lease!</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="12">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, things are certainly humming.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said, humming.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>As they get out of the car, there is an unusually loud crash from the well-digger's rig.</context>
+      <utterance>Oh.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's going on over there?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's Mr. Tesander. He's digging our well.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well? What happened to the trout stream, with that pure, clear, cold mountain water?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>There is a sudden cessation of the steam shovel and complete silence. Jim, unaware of it, continues to shout.</context>
+      <utterance>I decided against it --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The trout stream --  didn't seem practical.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It wasn't exactly a decision, dear.  We discovered the trout stream dries up in August and the rest of the year it's polluted.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, anyway, I'd rather have artesian water. It's healthier. Calcium -- vitamins -- artesian --</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>They look off.</context>
+      <utterance>What's wrong with that steam shovel?</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="31">
+   <speaker>JIM, MURIEL AND BILL.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim, Muriel and Bill.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He starts off for the steam shovel, nimbly jumping over a drainage trench. Muriel starts to follow, pauses, unable to negotiate the trench.</context>
+      <utterance>Better take a look.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Jim turns in time to see Bill pick Muriel up and carry her across the trench. As he sets her down:</context>
+      <utterance>Jim!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Jim frowns, annoyed. They approach the group around the shovel.</context>
+      <utterance>Thank you, dear.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the matter, Mr. Zucca? Something wrong?</utterance>
+   <speaker>ZUCCA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do you lika that? Broka my bucket. Two times this week I broka my bucket?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you do, strike a boulder?</utterance>
+   <speaker>ZUCCA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Atsa no boulder, atsa ledge.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What does that mean?</utterance>
+   <speaker>ZUCCA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Meansa we gotta blast!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Blast?</utterance>
+   <speaker>ZUCCA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Blast. Witha dynamite.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean, dynamite?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean, "What do you mean?" Mr. Zucca just explained. He's going to use dynamite and blast until he gets rid of the rock.</utterance>
+   <speaker>ZUCCA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Atsa no rock, atsa ledge.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What Mr. Blandings means is -- what precisely is a ledge?</utterance>
+   <speaker>ZUCCA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ledge. Lika bigga stone, only a- bigger.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like a boulder?</utterance>
+   <speaker>ZUCCA</speaker>
+      <mode></mode>
+      <context>Jim looks at Muriel and Bill.</context>
+      <utterance>No, like ledge.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Like a ledge.</utterance>
+   <speaker>ZUCCA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you don't gotta worry. Only cost twenty-four cents a cubic foot, plussa dynamite an'a fuse.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But how far will you have to blast?</utterance>
+   <speaker>ZUCCA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Harda tell. Might be a lilla baby ledge -- mighta run the whole toppa the mountain.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At twenty-four cents a foot? Do you realize what that means?!</utterance>
+   <speaker>ZUCCA</speaker>
+      <mode></mode>
+      <context>Zucca walks off.</context>
+      <utterance>Meansa we gotta blast.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, anyway, our house will never sink.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>There is a crash from the well-digging rig.</context>
+      <utterance>If it does, we can always get Mr. Apollonio. He raised the Normandie.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Come to peaceful Connecticut --  Trade city soot for sylvan charm." Another crash.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long does that go on?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.  Three weeks now at four dollars and fifty cents a foot.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He starts off. Muriel and Bill, curious, follow.</context>
+      <utterance>I think I'd better have a little talk with Mr. Tesander.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="35">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh -- Mr. Tesander -- The motor is making too much noise.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Tesander looks up, shuts off his motor.</context>
+      <utterance>Mr. Tesander!</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yep?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's it coming?</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context>With a nod he turns on his motor, resumes work. Jim exchanges a look with Muriel and Bill.</context>
+      <utterance>It's comin'.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- no -- I mean -- But he's drowned out by the motor.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Tesander! Tesander patiently stops his motor, looks up.</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yep?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Tesander looks at his equipment, considers.</context>
+      <utterance>What I meant was -- how far down are you?</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh -- 'bout a hundred and ninety feet.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well -- isn't that pretty deep?</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context>He's about to turn on his motor, but Jim detains him.</context>
+      <utterance>Yep.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you think maybe you'd better try another spot?</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Up to you.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean -- well, have you hit anything yet at all?</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hit some limestone yesterday.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that good?</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context>Jim looks at Bill who shakes his head with mock commiseration.</context>
+      <utterance>That's bad.</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And right now it looks like we're coming into some shale.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's bad?</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's good.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Jim looks at Muriel for comfort which isn't forthcoming.</context>
+      <utterance>Oh...</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Course it might turn out to be sandstone.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Tesander shakes his head, "No."</context>
+      <utterance>That's bad?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Tesander shakes his head, "No."</context>
+      <utterance>That's good?</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't tell. Might be good. Might be bad. One thing you know -- you got plenty of shale, sandstone and limestone.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He turns a little helplessly to Muriel and Bill.</context>
+      <utterance>...I see.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On a hot day there's nothing like a nice cool limestone shower.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Tesander, just for the record, of course, what ever happened to water?</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context>He turns on his motor, goes back to work. Jim, Muriel and Bill start to move off.</context>
+      <utterance>Oh, it's there, all right.  Just got to be patient.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you ask me, this project's getting a little out of hand.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing's getting out of hand at all. I've made a chart of the whole operation, and --  with a few minor deviations, I know exactly what every penny's going to cost.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two pennies.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And just what does that mean?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>There is a loud dynamite blast o.s. As a shower of dirt and rocks cascade down and they run for cover:</context>
+      <utterance>Meansa we gotta blast.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="19">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>There is a knock on the door. It opens and Bill Cole appears, briefcase under his arm.</context>
+      <utterance>You see, Mary, the average fellow who builds a house doesn't know where he stands from day to day -- but I do things a little differently. With a few minor deviations I know exactly where every penny is going --</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bill! Come in, come in.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just going over the Knapp contracts with old man Dascomb and I -- uh --  Can I talk?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. What's up?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>While I was in there with Dascomb the conversation kind of got around to you and -- uh --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, he didn't say in so many words that ever since you started with that house you haven't turned in a decent piece of copy, but --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you kind of got the feeling...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...that if I told you, you'd know that he knew that you knew that he knew... that you knew... or something.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's he worrying about? The deadline's three months off. I've always -- The phone rings. Mary answers.</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello? Yes. Just a minute.  Mrs. Blandings calling from Lensdale.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, Muriel. What? What's that? Tesander struck water! Say that's wonderful!  We've finally got our well.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>He extends his hand. Jim absently shakes it, then:</context>
+      <utterance>Congratulations.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Huh? What's that?  What do you mean we've got two wells?  I'll be right out.  Come on, Bill, we'd better get out to Lansdale.</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anything wrong?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mary, have you ever seriously considered building a house?</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, no offense, Mr. Blandings, but my boy friend says that anybody who builds a house today is crazy.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>As he and Bill start for the door:</context>
+      <utterance>You stick with that boy, he's got a great future.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="13">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean you hit a spring, a bubbling spring right here in our cellar?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It'll have to be diverted before Retch here can lay his cement.</utterance>
+   <speaker>RETCH</speaker>
+      <mode></mode>
+      <context>Tesander walks into scene, looks down at the water.</context>
+      <utterance>May take a while. Pumps are over in Jersey.</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tsk, tsk, tsk.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Water, Mr. Tesander.</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yep.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At six feet!</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yep.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And over there, just thirty-two yards away, you had to go down two hundred and twenty-seven feet to hit the same water.</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yep.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Tesander considers a moment, rubs his chin, then:</context>
+      <utterance>How do you account for that, Mr. Tesander?</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We-ll, way it seems to me, Mr. Blandings, over here the water's down around six feet and over there it's -- uh --</utterance>
+   <speaker>BILL AND TESANDER</speaker>
+      <mode></mode>
+      <context>Jim exchanges a weary look with Muriel.</context>
+      <utterance>-- down around two hundred and twenty- seven feet.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="48">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's this, another closet?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This happens to be our dining room.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not the dining room, dear, the living room.  There's the fireplace.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then where's the dining room?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe it's that little room off the hallway.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the breakfast nook.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not the breakfast nook, it's the powder room.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Two workmen pass by carrying a few long pieces of lumber. The workmen don't see the Blandings.</context>
+      <utterance>Do me a favor -- don't ever invite me here for a meal.</utterance>
+   <speaker>FIRST WORKMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't figure this Blandings at all. If you gotta build on the windiest hill in Connecticut, why do you have to pick the windiest side of the hill?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>The workmen pass from view.</context>
+      <utterance>You know these New York millionaires -- they're eccentric.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think I'd like to go outside.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>After you, Rockefeller. As they enter the foyer, a carpenter appears.</utterance>
+   <speaker>CARPENTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just the man I want to see. Would you step over here a second?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>As Bill starts up the stairs, Jim and Muriel follow the carpenter.</context>
+      <utterance>I'll browse around upstairs.</utterance>
+   <speaker>CARPENTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On them second floor lintels between the lally columns, do you want we should rabbet them or not?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The -- second -- floor -- lallys?</utterance>
+   <speaker>CARPENTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The second floor lintels, between the lallys.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Oh, the lintels between the lallys?</utterance>
+   <speaker>CARPENTER</speaker>
+      <mode></mode>
+      <context>Jim throws a brief look at Muriel who is regarding him skeptically.</context>
+      <utterance>Yeah. From the blueprints you can't tell. You want they should be rabbeted?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Un -- umm. No, I guess not.</utterance>
+   <speaker>CARPENTER</speaker>
+      <mode></mode>
+      <context>After the sheerest pause there comes a shriek of nails brutally withdrawn from timber, a loud splintering of wood and then something of the appearance of entrails comes hurtling down end over end landing with a dusty slap at Jim's feet. The carpenter exits. Muriel gives Jim an accusing look.</context>
+      <utterance>Okay, you're the doctor.  Hey, fellas, you got any of them rabbeted lintels set, rip 'em out!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>From upstairs comes a long, shrill whistle. Instantly all sound of activity ceases and a voice is heard.</context>
+      <utterance>Stop it! Stop it!</utterance>
+   <speaker>VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, fellas, let's quit!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>As Muriel turns with apprehension, eighteen workmen come trooping down the stairs.</context>
+      <utterance>Now look what you've done.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, men, Mrs. Blandings didn't mean anything.  I mean, there's no point in walking off a job just because... a woman makes a silly little remark.</utterance>
+   <speaker>WORKMAN</speaker>
+      <mode></mode>
+      <context>As the workmen exit the Blandings look at each other a little sheepishly, start up the stairs.</context>
+      <utterance>It's Saturday, mister. We quit at twelve o'clock. This ain't a chain gang, you know.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>As they reach the second floor landing, we hear, o.s. a steady but muffled pounding. They stop as they hear the thumping.</context>
+      <utterance>I'm just sick. From the outside this house looks like a grain elevator, and on the inside everything's miles too small.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's what?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>They rush to the closet, open the heavy oak door. Bill is inside, leaning disgustedly against the wall.</context>
+      <utterance>That noise -- listen.  It's coming from the closet!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The door blew shut. I got locked in.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Impossible. I had this closet built especially for myself. The lock opens from the inside.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>As Bill starts to step out, Jim detains him.</context>
+      <utterance>Maybe for Houdini -- not for me.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He steps inside with Bill, firmly closes the door. A moment's pause. The door re-opens.</context>
+      <utterance>Nothing to it. A child could work it. Look, I'll show you.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see, it just takes a little good old Yankee know-how.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, dear, it's just possible the lock worked for you and not for Bill.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ridiculous. Even you could do it.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He ushers Muriel inside and the door closes on the threesome. The CAMERA REMAINS on the closed door.</context>
+      <utterance>Come on, I'll show you.</utterance>
+   <speaker>JIM'S VOICE</speaker>
+      <mode></mode>
+      <context>The knob turns, jiggles a little, but the door remains closed.</context>
+      <utterance>Go ahead, dear, just open it.</utterance>
+   <speaker>MURIEL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't seem to be able to ---</utterance>
+   <speaker>JIM'S VOICE</speaker>
+      <mode></mode>
+      <context>An efficient clockwise turn of the knob. Pause. An impatient doubletwist of the knob. Pause. A more forceful rattling of the knob, plus a slight kick. A furious rattling, pounding and kicking. The door remains closed.</context>
+      <utterance>Here, let me show you! You just take the knob and turn it clockwise.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Jim turns back to the door, pounds on it, yelling:</context>
+      <utterance>Nothing like that good old Yankee know-how.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Silence. Muriel is at the shoulder-high circular frame solid glass window. She looks out.</context>
+      <utterance>Hey! Hey! Somebody let us out of here!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Jim and Bill look out.</context>
+      <utterance>Oh, dear.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="9">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leave a call for seven o'clock.  Monday morning. Jim gives him a look, turns back to the window, sizing up an escape, starts muttering to himself.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He tests the window frame, finds it solid.</context>
+      <utterance>If I could just get over to that scaffolding...</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Jim picks up a piece of tar paper.</context>
+      <utterance>Seems a shame but I guess it's the only way...</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you going to do?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>As Bill somewhat skeptically complies, Jim picks up a piece of two-by-four.</context>
+      <utterance>Don't get panicky, I'll get you out of here.  Here, hold this over the window.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Jim raises the plank, takes a stance.</context>
+      <utterance>Stand back, Muriel.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ready?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Jim swings; the window shatters. Almost simultaneously there is a click and the door to the closet swings open. As Jim turns with a sense of accomplishment, his face falls as he and the others see that the erratic door has opened.</context>
+      <utterance>Roger.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Funny... always worked before. Huh. I wonder...</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="19">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Home, home in Connecticut -- Where you have to conform to local traditions, customs, politics and etiquette..."</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad, do you suppose I could have a chemistry lab in the basement?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure, why not?</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think it's awful. Smelling up the house with those horrible chemicals.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Never mind, Betsy.  Dear, I'm going up to the place this afternoon to see about landscaping. Bill's driving me.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's nice.  What do you mean, Bill's driving you?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do you always say, "what do you mean," when you know perfectly well what I mean and what you mean?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean that every time I turn my back Bill Cole's driving you some place or something.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's only being helpful.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought he was a lawyer! Why isn't he out suing somebody?</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bicker, bicker, bicker.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Another word and you don't get your laboratory.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context>Jim suddenly explodes, crumpling a letter he has just read.</context>
+      <utterance>Well, that's something!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll just see about that!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Ignoring her, he reaches for the phone, starts to dial.</context>
+      <utterance>What is it, dear?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim, what's the matter?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>(hangs up)</context>
+      <utterance>Mr. William Cole, please.  Hello, Bill? I want you to fight this thing! I know my rights as a citizen! They can't get away with it!... What do you mean, what am I talking about? The letter, of course. From the owner of this building. They want us to move! It's a thirty day notice!  But that's ridiculous. How can I move into a house that isn't even finished?! No windows, no plaster -- or paint, or -- or plumbing!  Now you listen to me! I have no intention of moving in thirty days! This is not legal! I'm going to fight this thing! And I don't care if it takes every penny I've got!  Yeah... Yeah... Yeah... All right!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Well?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>On Muriel's reaction:</context>
+      <utterance>We're moving in thirty days.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="4">
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not bad at that.</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>Everybody piles out of the car. As Jim and Muriel walk toward the house away from us and Bill, Muriel sentimentally reaches out, takes Jim's hand.</context>
+      <utterance>All right! -- Everybody out.</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>At the door, Jim stops, indicates that he'd like to carry Muriel across the threshold.</context>
+      <utterance>Guess you can't blame them for feeling just a little bit proud.</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look -- he wants to carry his wife across the threshold. Romantic, isn't it?</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="3">
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>Jim manages to lift Muriel.</context>
+      <utterance>Uh-uh. Watch that sacroiliac. Fifteen years since you've done this sort of thing.</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>Jim carries Muriel over the threshold and into the foyer.</context>
+      <utterance>Whew! Nice work, Tarzan. Now, let's see if you can make it into the hall.</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>The CAMERA PANS TO a LOW SHOT of a sign on the floor of the foyer. It reads:</context>
+      <utterance>That's right. Go right in. Don't pay any attention to the sign.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="5">
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>Jim reacts, raises a tentative foot, the sticky varnish practically holding it to the floor. Jim says something.</context>
+      <utterance>Don't mind me, buddy, I just got through varnishing that floor.</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>The painter says something, points at Muriel. Jim looks darkly and accusingly at Muriel whose weak smile is an admission of guilt.</context>
+      <utterance>Whose bright idea was this?</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>Jim turns and shouts something to the painter.</context>
+      <utterance>She just wanted everything to be nice and shiny on the day they moved in.</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>The painter shouts back.</context>
+      <utterance>Stop painting that floor and put some planks down in here, or some thing!</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>Jim reacts, turns and walks back out of the foyer, desperately trying to match his clearly outlined incoming footsteps. Each step is outlined by strands of thick sticky varnish.</context>
+      <utterance>Okay, mister, but take it easy. The Republicans ain't in yet, you know.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="2">
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>Abruptly handing Muriel to Bill he starts off. Ahead of him and unnoticed are a layer of newspapers which have been spread out.</context>
+      <utterance>Oh, fine! A house without windows! We'll just see about that!</utterance>
+   <speaker>BILL'S VOICE</speaker>
+      <mode></mode>
+      <context>But Jim has stepped on the papers. They stick to his feet. After a few steps he is aware of it, tries to get rid of them. After a few hectic but futile attempts, he disgustedly disappears around a corner of the house, the newspapers flapping behind him.</context>
+      <utterance>Look out for those papers!</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="5">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's Simms?</utterance>
+   <speaker>WORKMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Around back trying to figure out what to do about them windows.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the problem? You put windows up.</utterance>
+   <speaker>WORKMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not these. They don't fit.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He continues on toward the back of the house, the newspapers flapping beneath him.</context>
+      <utterance>Oh, they don't, don't they?</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="22">
+   <speaker>RETCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, Mr. Blandings, you'd better look these over.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's this about the windows?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid there's a little slip-up. These windows seem to belong to a Mr. Landings in Fishkill, New York. I talked to Mr. Landings this morning.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, has he got mine?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, he seems to have some windows that belong to a Mr. Blandsworth of Peekskill.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are my windows?!</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context>Bill wanders into scene, looks over Jim's shoulder.</context>
+      <utterance>As near as we can figure out they've either been sent to a Mr. Benton in Evanston, Illinois, or a Mr. Bamberger of Phoenix, Arizona.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are we supposed to do -- live the rest of our lives in a house without windows?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It'll just be a matter of a few days.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's a "Zuz-Zuz Water Soft-N-R"?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How should I know?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've got one.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"Furnishing and installing one Zuz- Zuz Water Soft-N-R, two hundred and eighty dollars!"  I will not have any such piece of equipment in my house!</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid I authorized that, Mr. Blandings -- to save your boiler and water pipes.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>From what?!</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rust. The plumbing man assures us the water from your well is the most corrosive in his entire experience in the trade.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Another first!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm.  Well, if it's necessary, put it in! We're moving in today, you know and --</utterance>
+   <speaker>RETCH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's in.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh.  Then get me the bill for it!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've got it.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>And he stalks off, his papers, shavings, etc. flapping behind him.</context>
+      <utterance>All right then.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="18">
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now I want the living room to be a soft green.  Not quite as bluish as a robin's egg, but yet not as yellow as daffodil buds.</utterance>
+   <speaker>PEDELFORD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The best sample I could get is a little too yellow, but don't let whoever mixes it go to the other extreme and get it too blue. It should just be sort of a grayish yellow green.</utterance>
+   <speaker>PEDELFORD</speaker>
+      <mode></mode>
+      <context>They turn to the dining room.</context>
+      <utterance>Mm-hmm.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now the dining room I'd like yellow. Not just yellow, a very gay yellow.</utterance>
+   <speaker>PEDELFORD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm-hmm.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Something bright and sunshiny.  I tell you, Mr. PeDelford, if you'll just send one of your workmen to the A&amp;P for a pound of their best butter and match it exactly, you can't go wrong.</utterance>
+   <speaker>PEDELFORD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>PeDelford looks carefully at the sample, then:</context>
+      <utterance>This is the paper we're going to use here in the foyer.  It's flowered but I don't want the ceiling to match any of the colors of the flowers. There are some little dots in the background, and it's these dots I want you to match. Not the little greenish dots near the hollyhock leaf, but the little bluish dot between the rosebud and the delphinium blossom. Is that clear?</utterance>
+   <speaker>PEDELFORD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm-hmm.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The kitchen's to be white. Not a cold, antiseptic hospital white -- a little warmer but not to suggest any other color but white.</utterance>
+   <speaker>PEDELFORD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mm.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now for the powder room, I want you to match this thread.  You can see it's practically an apple red. Somewhere between a healthy Winesap and an unripened Jonathan.</utterance>
+   <speaker>PEDELFORD</speaker>
+      <mode></mode>
+      <context>There is a crash from the kitchen.</context>
+      <utterance>Mm.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Muriel hastily exits toward the kitchen. PeDelford turns to his assistant.</context>
+      <utterance>Will you excuse me?</utterance>
+   <speaker>PEDELFORD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got it, Charlie?</utterance>
+   <speaker>CHARLIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Green, yellow, blue, white, red.</utterance>
+   <speaker>PEDELFORD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Check.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="5">
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joan, you know father was to take care of the heavy dishes.</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context>Betsy flies into the room waving a railroad timetable.</context>
+      <utterance>He disappeared. I haven't seen him for an hour.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's Uncle Bill? I just checked the timetable -- he's going to miss his train.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>From upstairs comes the SOUND of a steady, methodical thumping of a hand on a solid oak door.</context>
+      <utterance>If they've run off somewhere it certainly isn't very --</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>She rushes for the door.</context>
+      <utterance>Heavens!</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="20">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you were going to take care of it.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you were.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going to miss your train, Uncle Bill! It leaves Lansdale in twenty-five minutes.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Isn't there a later one?</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not till the Commuter's Special tomorrow morning at six-fifteen.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean seven-fifteen.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Dad, six-fifteen.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about the seven-fifteen I'm supposed to take to the office every morning?!</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a little asterisk. The seven- fifteen only runs Saturdays, Sundays and holidays.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me see that!  Muriel!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, dear, don't tell me I read it wrong.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's fine! For the rest of my life I'm going to have to get up at five o'clock in the morning to catch the six-fifteen, to get to my office by eight, which doesn't even open until nine -- and which I never get to until ten!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps if you started earlier you could quit earlier.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So I could get home earlier to go to bed earlier to get up earlier!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you can have the railroad push the train up to four-fifteen -- then you won't have to go to bed at all!</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uncle Bill, you're going to miss your train!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Betsy and Joan pick up some boxes and walk into the dining room.</context>
+      <utterance>Jim, you clean up this mess. I'll drive Bill to the station and pick up some cold cuts for dinner.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd better hurry!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kind of hate to leave that little place. Just four walls and a couple of mothballs, but to me it'll always be home.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Bill and Muriel exit.</context>
+      <utterance>So long, Bill.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="5">
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's certainly going to be fun this summer when Uncle Bill comes up for his vacation.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We'll get in a lot of doubles.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hmm?  What are you talking about? Bill's going to Europe.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, he's not. I heard him and mother talking. He's going to move his vacation up and take a place in Lansdale.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh-huh... Mm-hm. Mm-hm... Uh-huh.  All right, come on, come on. Get busy.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="5">
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll scout around and find you a place in Lansdale.  Now, you're not going to change your mind about coming up?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry, I'll be on the job.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It won't be easy. I promise you a Cook's tour of every lamp maker, rug weaver, and antique shop in Lansdale County.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good old Uncle Bill.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>As they exchange an understanding smile:</context>
+      <utterance>Good old Uncle Bill.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="17">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Betsy coughs her way to the fireplace, turns the flue handle. The smoke immediately goes up the chimney and the room starts to clear.</context>
+      <utterance>Now look what you've done!</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Father, the first principle of lighting a fire is to see if the flue is open. A three-year-old child knows that.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>The children start gathering up the debris. Joan picks up some trinkets which have spilled from a cardboard box.</context>
+      <utterance>Next time we want a fire I'll send out for a three-year-old child!  Get that stuff cleaned up and go in and help Gussie set the table. It's getting late.</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, Dad, your fraternity pins.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pins? I only had one.</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are two of them here.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, all right. Just put them away.</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Funny, this one says W.C. on the back. W.C.?  William Cole! It must be Uncle Bill's!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Betsy has picked up a small leather-bound book. She whistles.</context>
+      <utterance>Huh?  Let me see that.  Hmmmm.</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that?</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mother's diary when she was in college. It's slightly torrid.</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's see.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's none of your business!</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd say mother and Uncle Bill were somewhat of an item!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>People do not read other people's diaries! It's not a very nice thing to do!  Now go in there and help Gussie with the table.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about --?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>The children exit. Jim is about to put down the diary when his curiosity gets the better of him. Making sure he's unobserved, he sits down on a box, opens the book, starts to read. As his brows wrinkle with concern:</context>
+      <utterance>I'll take care of that. Now, shoo, shoo.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="4">
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you going?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To shave.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tonight??</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Jim abruptly exits. Muriel looks after him with concern.</context>
+      <utterance>While I can still trust myself with a razor. At six o'clock in the morning I'd probably cut my throat. Goodnight.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="31">
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>She takes her toothbrush and opens the cabinet, Jim automatically moving around back of it in their previously established pattern. As Muriel puts the paste on her brush, replaces the tube, shuts the cabinet and starts to brush her teeth, Jim uncomfortably moves back to his original position.</context>
+      <utterance>Excuse...</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse...</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel, do you have to do that now?!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's no need to be so irritable just because you have to shave at night.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not irritable!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you're certainly something! You haven't said a civil word all evening.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes a man doesn't feel like talking.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it, dear? Something down at the office?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you got the new slogan for "Wham"?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not due yet!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it's something. You're certainly upset about something. I can always tell.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not upset.  It's just that I don't happen to approve of falsehood and deception. Particularly in my own wife.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Muriel looks at him, puzzled.</context>
+      <utterance>Oh, nothing. It's just that I distinctly remember your telling me you gave back Bill's fraternity pin fifteen years ago.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, did you or didn't you?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did I, or didn't I what?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give it back to him.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course I did. If I said I did, I did.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's so funny?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You! You're jealous! You're standing there with your face full of soap and you're jealous.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you were so crazy about the guy, why didn't you marry him?!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because I wasn't in love with him!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not what you said in your diary!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, now you've been reading my diary!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well -- it happened to fall open and... I... happened to look at it. It... just happened.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll just bet!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's all over the book so why don't you admit it? You were in love with Bill Cole!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be absurd! Of course I was in love with Bill. In those days I was in love with a new man every week.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then why did you marry me?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Muriel stalks out of the bathroom. Jim looks after her, thoughtfully starts to dry his face.</context>
+      <utterance>I'm beginning to wonder!  Maybe it was those big cow eyes of yours or that ridiculous hole in your chin! Maybe I knew that some day you'd bring me out to this thirty- eight thousand dollar icebox with a dried-up trout stream and no windows! Or maybe I just happened to fall in love with you -- but for heaven's sake, don't ask me why!</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="15">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>No reaction.</context>
+      <utterance>...Muriel?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>No reaction.</context>
+      <utterance>...Honey?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would it do any good to say I'm sorry?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Jim gently turns her around facing him.</context>
+      <utterance>I don't know.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Muriel looks at Jim. Finally she smiles.</context>
+      <utterance>Well -- I am. I acted like a schoolboy and I'm sorry.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>She goes into his arms and they kiss intimately. As their lips part:</context>
+      <utterance>Oh, Jim!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you take the soap out of your ears?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Jim again kisses her tenderly, warmly.</context>
+      <utterance>Why do I love you so much?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Darling, it's awfully late. Jim kisses her again, a little more ardently.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you ought to go down and lock the doors.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What for? The windows are all open anyway.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim, you have to get up at six o'clock.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I guess so.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Goodnight, dear.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Each gets into his own bed, still wearing the overcoats.</context>
+      <utterance>Goodnight.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="8">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd better send out for coffee and sandwiches,... It looks like an all night session.</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did he say?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tomorrow morning.</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I guess you'll just have to dream something up -- good or bad.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I rather got the impression it had better be good.</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context>He picks up a pencil, nibbles on it thoughtfully. The silence in the room is broken only by the patter of raindrops on the window. It strikes a note in Jim's subconscious. He swivels around in his chair and stares soberly out the window.</context>
+      <utterance>Oh.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Funny how you look forward to the little things. Rain, for instance. Mary looks at him curiously. He turns to her.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>As he starts to work.</context>
+      <utterance>For a month now, I guess I've been looking forward to the first rainy night at the house.  Big blazing fire. Muriel knitting. Me in my new smoking jacket... with my pipe and slippers, reading my paper...  Oh, well.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="18">
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank heavens! The children.</utterance>
+   <speaker>MR. JONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whew! What a night! I'm Jones, from down the road. Just came over to tell you your kids are all right, Mr. Blandings.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>He sees Jones' doubtful look at the smoking jacket, feels an explanation is necessary.</context>
+      <utterance>Oh, I'm not Mr. Blandings. Cole's the name, Bill Cole.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Muriel walks into scene. Jones takes in the bathrobe, again looks skeptically at Bill.</context>
+      <utterance>Friend of the family. Wet clothes. Just came in out of the rain.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm Mrs. Blandings.</utterance>
+   <speaker>JONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do. Mrs. Williams just called. Says your phone's out of order. Wanted me to tell you the water's rising and they've got the bridge roped off. Girls'll spend the night over at her place.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you. I was beginning to get concerned. Can I make you a cup of tea?</utterance>
+   <speaker>JONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, thanks. Better be gettin' back 'fore I have to swim for it. 'Night, Mrs. Blandings.  'Night, Mr. Bl--</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cole. Bill Cole. Friend of the family. Just came in out of the rain.</utterance>
+   <speaker>JONES</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well -- 'Night.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>The door is opened with a terrific swirl of wind and rain. Jones exits as Muriel and Bill push the door against the wind, finally getting it shut.</context>
+      <utterance>Goodnight... and thanks so much.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's fine. No bridge. How do I get back to Lansdale?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>As they start back into the living room:</context>
+      <utterance>You'll just have to spend the night right here.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel, really! With your husband in New York and your children away -- think of my reputation.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry, Snow White, you'll be as pure and unsullied in the morning as you were the night before.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Muriel pokes the dying fire, looks up thoughtfully.</context>
+      <utterance>That's the story of my life.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Poor Jim, he sounded so worried before. I certainly hope he comes up with something.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry about the man who gave the world "When you've got the whim, say Wham!"-- This well will never run dry.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="9">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"If you'd buy better ham. You'd better buy Wham!"</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context>Her eye closes. Jim sinks back with defeat, his hand dropping over the edge of the couch. It encounters a crumpled piece of paper, earlier work. He smoothes the paper, scans it, kind of likes it. He gets up, comes over, snaps fingers. Mary looks up.</context>
+      <utterance>It's Boyle Petroleum. "If you'd buy better oil, You'd better buy Boyle."</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"This little pig went to market As meek and as mild as a lamb. He smiled in his tracks When they slipped him the axe He knew he'd turn out to be Wham!" A long silent look passes between them.</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you going?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Home, to get some sleep -- and I'd advise you to do the same.</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But -- but you haven't --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Suppose I haven't! This isn't the only job in town!</utterance>
+   <speaker>MARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But -- but -- what'll I tell Mr. Dascomb?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He exits.</context>
+      <utterance>You just tell him to -- to --  You just tell him!</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="30">
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Morning, dear.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Darling, you must be exhausted. How did it go?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>They kiss.</context>
+      <utterance>Fine. Fine.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is... everything all right?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Everything's fine.  Hello, Simms, what brings you out with the morning dew?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just dropped by to check the blueprints. Some extras came in from Retch this morning and there're a couple of things I thought we ought to go over together.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really. What are they?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, let's see.  Few little things here, all right, I guess. "Mortising five butts -- a dollar sixty-eight."</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's not quibble about that. A man's entitled to mortise a few butts now and then.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Extra nails and screws -- three dollars, eighty-nine cents.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Petty larceny, but let him get away with it.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now there's one here I frankly don't understand. Ah, here we are.  "Changes in closet, twelve hundred and forty-seven dollars." Did you authorize that?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, we probably told him to --  Twelve hundred and what?!</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context>(hands bill to Jim)</context>
+      <utterance>Forty-seven dollars. Changes in closet.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who does he think we are!  What's this notation: "Refer to Detail Sheet Number one thirty-five?"</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context>As he unrolls the blueprints, Jim looks suspiciously at Muriel. She seems a little nervous.</context>
+      <utterance>Far as I remember, that would be something in the back of the house. Let's just take a look.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, here we are. It isn't a closet at all. It's off the back pantry... Mrs. Blandings' little flower sink.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh... Mrs. Blandings' little flower sink.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't authorize any changes, did you?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well... they certainly weren't changes.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What -- have -- you -- done?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't done anything! And what I did was... just nothing at all.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What -- have -- you -- done?!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well --  All I did was one day I saw four pieces of flagstone left over from the porch that were just going to be thrown away because nobody wanted them and I asked Mr. Retch if he wouldn't just put them down on the floor of the flower sink and poke a little cement between the cracks and give me a nice stone floor where it might be wet with flowers and things. That was absolutely all I did. During the above speech Simms sinks into a chair, puts his head in his hands and closes his eyes, a fact that isn't lost on Jim.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's all you did?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Absolutely. Just four little pieces of flagstone.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you by any chance authorize a drain?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Jim takes a deep breath, turns to Simms.</context>
+      <utterance>Of course I didn't. All I said was I wanted a nice stone floor and Mr. Retch was just as nice as could be and said, "You're the doctor," and that's all anybody ever said to anybody about anything.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Well?</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, I think I can tell you what happened. First, the carpenters had to rip up the flooring that was already laid. Those planks run under the whole width of the pantry, so Retch had to knock the bottom out of the pantry wall to get at them.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="3">
+   <speaker>SIMMS' VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then he had to chop out the tops of the joists under the flower sink space to make room for a cradle. I guess he bought some iron straps and fastened them to a big pan to give him something to hold the cement. What with that added load on the weakened joists, I'll bet he had to put a lally column down there for support, too.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was just four little pieces of flagstone, and I only ---</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Quiet!</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="8">
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, the main soil pipe runs under there on wall brackets, so Retch had to get his plumbing man back to take out a section so he could get that cradle set. I guess that meant he had to change the pitch of the soil pipe from one end of the house to the other.  'Morning, Mr. Cole.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Morning. Hello, Jim.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Jim turns away, reacts, suddenly turns back to Bill, taking in the pajamas and robe. A little shocked but unwilling to believe the implication of what he sees, he looks to Muriel for an explanation.</context>
+      <utterance>Hello, Bill.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The bridge was roped off and Bill had to stay last night.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...Oh.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Slept like a rock.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Jim looks at Bill, then back at Muriel.</context>
+      <utterance>I'm delighted.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And then, of course, there are hot and cold water pipes hooked to the joists right under that pantry. They go up to the wing bathroom on the second floor, and I'll bet my bottom dollar he had to relocate them.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="44">
+   <speaker>GUSSIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Morning, everybody. Whew! What a night!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where have you been?</utterance>
+   <speaker>GUSSIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lansdale. Couldn't get back across the bridge.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You... weren't here last night?</utterance>
+   <speaker>GUSSIE</speaker>
+      <mode></mode>
+      <context>As Jim reacts:</context>
+      <utterance>They weren't letting anybody across that bridge, Mr. Blandings.  I passed the girls over at the Williams. They'll be along any minute.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>As Gussie exits, Muriel turns to Simms.</context>
+      <utterance>Thank you, Gussie. You'd better get breakfast started.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where were we?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We were at the two hundred twenty volt cable that goes to the stove.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just a minute.  You mean the children weren't here last night either?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How could they be, dear? The bridge was closed.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just came across it.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, it was closed last night.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Embarrassed pause.</context>
+      <utterance>It's open now!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Bill exits. Another pause. Simms, aware of the tension, wants to get out of there.</context>
+      <utterance>If you'll all excuse me -- I -- I think I'll just go up and slip into something a little more comfortable.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, that's about the size of it -- Through Simms' speech, Jim looks darkly at Muriel.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>-- except that Retch had to repair the pantry wall and that meant getting a plasterer back. And of course, he couldn't have broken through that wall --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All right, Simms, all right. We'll take care of it.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll admit it's a little steep. But I'll try to get Retch to knock a hundred dollars off the bill. If I can't get that, I'll certainly try for seventy-five.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If he doesn't go for seventy-five, I'll take a stab at fifty.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You do that.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context>There is no answer.</context>
+      <utterance>Anyway, I'm almost sure we can get twenty-five.</utterance>
+   <speaker>SIMMS</speaker>
+      <mode></mode>
+      <context>He leaves. There is a deadly pause.</context>
+      <utterance>Well. Good day.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now dear, you're upset, you've got a lot of things on your mind --</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Muriel, there's only one thing on my mind -- This house -- and how fast we can get rid of it!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not what you're thinking.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe it's not. Maybe I'm thinking I was once a happy man!  I didn't have a closet, I didn't have three bathrooms, but I did have my sanity, a few dollars in the bank, two children who loved me and a wife I could trust!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's a fine thing to say!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I also had a job at Danton and Bascomb, something I don't happen to have at the moment!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right, I've resigned! We're starting all over again! From scratch! And without this house!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You love this house!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>In the b.g. Mr. Tesander enters, cap in hand, stands there, nervous and embarrassed.</context>
+      <utterance>I hate it!</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't mean that.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Tesander clears his throat. Jim turns.</context>
+      <utterance>Every word of it! Anybody who builds a house today is crazy! The minute you start, they put you on the list. The All-American Sucker list! Everywhere you turn they've got a hand in your pocket. If you take out their hands, they find more pockets!  It's a conspiracy, I tell you, a conspiracy against every man and woman who want a home of their own! Against every boy and girl who were ever in love!</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>A slight embarrassed pause. Then:</context>
+      <utterance>What do you want?!</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, Mr. Blandings, there's a matter of twelve dollars and eighty-six cents.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twelve dollars and eighty-six cents! Why be a piker, Mr. Tesander?  Take everything I've got! Spread it out among your pals!  Wouldn't Retch like a little something? Maybe Zucca could use my new dinner jacket? It's open house, Mr. Tesander! Help yourself! If this isn't enough I'll come over to your place and do some odd chores. Maybe I can mow your lawn or scratch your back!</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context>There is a momentary pause.</context>
+      <utterance>You don't understand, Mr. Blandings. This twelve dollars and eighty-six cents -- you don't owe me, I owe you.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...W-what was that?</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context>He hands the money to Jim, who stares at it blankly.</context>
+      <utterance>Found I overcharged you. Almost three feet.</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context>Jim looks haplessly at Muriel, sheepish, guilty.</context>
+      <utterance>Better count it. I think it's all there.</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you very much, Mr. Tesander.</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context>Jim and Muriel look at each other a little sheepishly.</context>
+      <utterance>Well, I guess I'd better be gettin' along.  Sure got a pretty place here.  I'll tell Mr. Zucca about the dinner jacket.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="3">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, Mr. Tesander -- could you give me a lift to town?</utterance>
+   <speaker>TESANDER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yep.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be right with you.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="22">
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you mean before about losing your job? Will we really have to sell the house?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>Bill enters.</context>
+      <utterance>I don't know, dear... I don't know.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In case anyone's interested, I'm leaving for town.  If you want to count the silverware, I'll wait.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bill, be patient with me. Maybe one of these days I'll grow up.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened to him?</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twelve dollars and eighty-six cents.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Jim and Muriel look at him curiously.</context>
+      <utterance>Mind if I say something?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>As Bill turns and leaves, the outer door is heard opening and the kids appear. There is an exchange of "Hi's" as they pass.</context>
+      <utterance>You know, I've kind of been the voice of doom about this whole project. Every step of the way I was firmly convinced you were getting fleeced, bilked, rooked, flimflammed and generally taken to the cleaners. And maybe you were. Maybe it cost you a whole lot more than you thought it would. Maybe there were times when you wished you'd never started the whole thing. But when I look around and see what you two have here -- I don't know.  Maybe there are some things you should buy with your heart and not with your head. Maybe those are the things that really count... See you around.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Morning, everybody!</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, Dad! How come you're not at the office?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm on a... kind of a vacation.</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean you got fired?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, not exactly, I --</utterance>
+   <speaker>MURIEL</speaker>
+      <mode></mode>
+      <context>Gussie's head appears from the kitchen.</context>
+      <utterance>We'll discuss it later.</utterance>
+   <speaker>GUSSIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come and get it! Breakfast everybody.</utterance>
+   <speaker>BETSY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good! I'm starving! What are we having, Gussie?</utterance>
+   <speaker>GUSSIE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Orange juice, scrambled eggs and you- know-what.</utterance>
+   <speaker>JOAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ham?</utterance>
+   <speaker>GUSSIE</speaker>
+      <mode></mode>
+      <context>Gussie's head disappears.</context>
+      <utterance>Not ham -- Wham!  If you ain't eatin' Wham, you ain't eatin' ham!</utterance>
+   <speaker>CLOSE SHOT - JIM.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>CLOSE SHOT - Jim.</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>He reacts with the sudden exhilaration of Balboa first seeing the Pacific. He snaps his fingers.</context>
+      <utterance>What did she say?</utterance>
+   <speaker>JIM</speaker>
+      <mode></mode>
+      <context>His eyes light up as he begins to visualize.</context>
+      <utterance>Darling, give Gussie a ten dollar raise!</utterance>
+</dialogue>
+
+
+</movie>

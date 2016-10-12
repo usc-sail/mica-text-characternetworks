@@ -1,0 +1,2489 @@
+<movie id="434" title="Pianist The">
+
+<dialogue id="1" n_utterances="7">
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context>He turns, to see an extremely pretty young woman gazing adoringly at him while they're jostled and shoved. His eyes light up.</context>
+      <utterance>Mr. Szpilman.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I came specially to meet you today. I love your playing, but what a day to choose.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My name's Dorota, I'm Jurek's sister. oh! You're bleeding.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>JUREK pushes in beside them and takes her arm.</context>
+      <utterance>It's nothing.</utterance>
+   <speaker>JUREK</speaker>
+      <mode></mode>
+      <context>Jurek, pulling Dorota, fights his way down the stairs.</context>
+      <utterance>C'mon, Dorota, you can write him a fan letter later, this isn't the best time, c'mon.</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="43">
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What you think, should I take Uncle Szymon's photograph?</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it, don't take it, take what you like. Can't you see I'm worried sick?</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>He goes into his room. She can barely control her tears and hurries into the kitchen just as the front door opens and Szpilman enters, looks round bemused by the activity.</context>
+      <utterance>He'll come home, he'll be all right.</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context>Mother dashes out of the kitchen.</context>
+      <utterance>Mama, Wladek's home.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank God - Wladek! You're wounded.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a little cut, nothing.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been worried sick.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context>The girls suppress smiles.</context>
+      <utterance>I told her not to worry. You had your papers on you. If you'd been hit by a bomb, they'd have known where to take you.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Henryk, don't say things like that, God forbid, God forbid.</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context>Father appears in the doorway, beaming, clutching a violin case.</context>
+      <utterance>Papa, Wladek's home.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did I tell you?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing?</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context>The toing and froing continues non-stop.</context>
+      <utterance>What's it look like we're doing?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They bombed us, we're off the air.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Warsaw's not the only radio station.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pack, darling, get your things, pack.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are we going?</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Out of Warsaw.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Out of Warsaw. Where?</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You haven't heard?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Heard what?</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context>She starts to look. The others continue to bustle and pack.</context>
+      <utterance>Haven't you seen the paper? Where's the paper?</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I used it for packing.</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She used it for packing.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The government's moved to Lublin.</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All able-bodied men must leave the city, go across the river and set up a new line of defence, that's what it said.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's hardly anybody left in this building, only women, the men have gone.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And what do you think you'll do while you're setting up a new line of defence? Wander round lugging your suitcases?</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pack, Wladek, there's no time.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not going anywhere.</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good! I'm not going anywhere either!</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be ridiculous, we've got to keep together.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no, no, I'm staying put. If I'm going to die, I prefer to die at home.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God forbid!</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sssh! Crackles, whistles and static from the radio.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context>They gather round.</context>
+      <utterance>Ssh! I've got something, listen...</utterance>
+   <speaker>RADIO ANNOUNCER</speaker>
+      <mode></mode>
+      <context>Henryk hits the set.</context>
+      <utterance>... an important announcement. News has just been received through the BBC that Great Britain, having had no reply...  ...and therefore has declared war on Nazi Germany...  ... next few hours... awaiting latest news...</utterance>
+   <speaker>RADIO ANNOUNCER</speaker>
+      <mode></mode>
+      <context>The Polish national anthem plays. All are still.</context>
+      <utterance>... but France is expected to make a similar announcement...  ... Poland is no longer alone.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mama, that was a great dinner.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It certainly was.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>The glasses are handed round.</context>
+      <utterance>When there's something to celebrate, you've got to make an effort.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>They all clink glasses and drink.</context>
+      <utterance>Here's to Great Britain and France.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you. Didn't I tell you? All will be well.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="30">
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Five thousand and three.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that all?</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, five thousand and three zlotys, that's all we've got left.</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's three thousand and three zlotys too much,  'Re: Further restrictions regarding liquid assets: Jews will be allowed to keep a maximum of two thousand zlotys in their homes.'</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are we supposed to do with the rest?</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Deposit it in a bank. Blocked account.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Banks? Who'd be stupid enough to deposit money in a German bank?</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We could hide the money here in the window frame.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no, no. I'll tell you what we'll do. We'll use tried and tested methods. You know what we did in the last war? We made a hole in the table leg and we hid the money in there.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And suppose they take the table away?</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What d'you mean, take the table away?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Germans go into Jewish homes and they just take what they want, furniture, valuables, anything.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do they?</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>All look at the table: it's covered in stains and the veneer is coming away at one end. A table like this? He pokes his finger under the veneer. It snaps, revealing bare wood beneath.</context>
+      <utterance>Idiot! What would they want with a table?</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What on earth are you doing?</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a good place under the cupboard.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no. Listen, I've been thinking --</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That makes a change.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what we do? We use psychology.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We use what?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We leave the money and the watch on the table. And we cover it like this.  In full view. The Germans will search high and low, I promise you, they'll never notice it.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course they'll notice it. But look--  This is a good place for something.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A good place for what?  He's insane!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just shut up.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>They all talk at once.</context>
+      <utterance>My violin?</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Quiet! Quiet! Order, please, order!</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's a lawyer, she likes order.</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context>A brief silence.</context>
+      <utterance>Listen, just listen. Let's come to an agreement. We jam the money in the window frame. The watch we hide under the cupboard. And the chain we put in the violin.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will I still be able to play?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>They start to hide the things.</context>
+      <utterance>Let's find out.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="7">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jurek? Wladek Szpilman.</utterance>
+   <speaker>JUREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wladek! How are you?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine, we're fine, thank you, and you?</utterance>
+   <speaker>JUREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine, we're fine in the circumstances. But I can guess what you've called about. There's nothing we can do; they won't reopen the station--</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I know, but Jurek, Jurek...</utterance>
+   <speaker>JUREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...not even music, nothing, no radios for the Poles. But I'm sure you'll find work, Wladek, a pianist like you.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe, maybe not, but, Jurek, don't be offended, I didn't call to discuss my future career.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="10">
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I nagged Jurek for weeks and weeks. And at last he gave in and said, 'All right, come with me tomorrow,' and so I came and they bombed the station.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know something? Meeting you like that was absolutely wonderful.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>She's embarrassed.</context>
+      <utterance>Yes!  It was...it was unforgettable.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've always loved your playing, Mr. Szpilman.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wladek, please.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context>She begins to laugh.</context>
+      <utterance>No one plays Chopin like you.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>They become almost helpless, holding on to each other.</context>
+      <utterance>I could accompany you, me on the piano, you on the cello.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, Mr Szpilman, you're quite... quite wonderful.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Amidst their laughter, he takes her hand and kisses it.</context>
+      <utterance>Wladek, please.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="6">
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Re: emblems for Jews in the Warsaw District. I hereby order that all Jews in the Warsaw District will wear visible emblems when out of doors. This decree will come into force on the 1st December 1939 and applies to all Jews over twelve years of age. The emblem will be worn on the right sleeve and will represent a blue Star of David on a white background. The background must be sufficiently large for the Star to measure eight centimetres from point to point. The width of the arms of the Star  must be one centimetre. Jews who do not respect this decree will be severely punished. Governor of Warsaw District, Dr. Fischer.' Silence. Then:</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't wear it.</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>won't wear it. I'm not going to be branded.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me see this.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doesn't it say we have to provide these armbands ourselves? Where will we get them?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context>Silence, each locked in their own thoughts.</context>
+      <utterance>We're not going to get them. We're not going to wear them!</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="4">
+   <speaker>GERMAN OFFICER</speaker>
+      <mode></mode>
+      <context>Father stops, turns fearfully and approaches the Germans.</context>
+      <utterance>You!</utterance>
+   <speaker>GERMAN OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why didn't you bow?</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>I German Officer cracks him hard across the face, catching his ear. Father reels, collects himself as best he can and starts to shuffle on -</context>
+      <utterance>I'm sorry I...</utterance>
+   <speaker>GERMAN OFFICER</speaker>
+      <mode></mode>
+      <context>Father steps off the pavement and walks in the gutter. The German turn and go. Father walks on.</context>
+      <utterance>You are forbidden to walk on the pavement. Walk in the gutter!</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="2">
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you seen this?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>She hands him the paper. He looks at it. His expression darkens.</context>
+      <utterance>What, I'm working, what?</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="3">
+   <speaker>SZPILMAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is it?</utterance>
+   <speaker>HALINA'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's where they're going to put us.</utterance>
+   <speaker>SZPILMAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What d'you mean, put us?</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="3">
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'By order of the Governor of the Warsaw District, Dr. Fischer, concerning the establishment of the Jewish District in Warsaw. There will be created a Jewish District in which all Jews living in Warsaw or moving to Warsaw will have to reside." And look here: 'Jews living outside of the prescribed area will have to move to the Jewish district by 31st of October 1940.' Szpilman gazes at the map, horrified.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But...they won't get all of us... we'll...it's too small...there's four hundred thousand of us in Warsaw!</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context>He laughs but they're disturbed by a sound from another room, the sound of crying. They look at each other puzzled, then Halina opens a door and looks in. Szpilman and Henryk join her.</context>
+      <utterance>No. Three hundred and sixty thousand, so it'll be easy.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="2">
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context>Mother opens the purse to reveal a crumpled note.</context>
+      <utterance>Mama, what is it?</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>She weeps. Halina tries to comfort her. Szpilman and Henryk watch.</context>
+      <utterance>Twenty zlotys. That's all we've got left. What can I buy with twenty zlotys?  I'm sick of cooking potatoes, potatoes, potatoes.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="9">
+   <speaker>MR LIPA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the price. That's what I'm offering. And my advice is to accept. You won't get more from anyone else.</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But...but it's a Steinway, Mr Lipa...</utterance>
+   <speaker>MR LIPA</speaker>
+      <mode></mode>
+      <context>Henryk suddenly makes a lunge for him, grabs hold of him, a rough struggle takes place and during it Mother and Father appear at their bedroom door to watch, appalled.</context>
+      <utterance>Two thousand. My advice is to take it. What you going to do when you're hungry? Eat the piano?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context>Regina tries physically to restrain him.</context>
+      <utterance>Get out! You're a thieving bastard, we don't want your money, get out! We'd rather give it away! Get out!</utterance>
+   <speaker>MR LIPA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey! Hey! What's the matter with you? Haven't you eaten today, what you suffering from? Hey!</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Henryk, stop it, leave him alone.</utterance>
+   <speaker>MR LIPA</speaker>
+      <mode></mode>
+      <context>Henryk subsides, glowering at him.</context>
+      <utterance>You people are crazy! I'm doing you a favour, two thousand, and I'm paying for the removal, I'm not even charging for the removal.</utterance>
+   <speaker>MR LIPA</speaker>
+      <mode></mode>
+      <context>Suddenly:</context>
+      <utterance>You haven't eaten today, you're crazy...</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="7">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dorota!</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't want to come, I didn't want to see all this, but I couldn't stop myself.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How are you doing?</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine, no, not really, they arrested my cousin, but Jurek says they'll let him out.  This is disgraceful.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry, it won't last long.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what I said, it's so - it's too absurd!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>He smiles and runs to catch up with his family. He looks back, but Dorota is lost to sight and the procession continues on its way.</context>
+      <utterance>I'll see you...soon.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="4">
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To tell you the truth, I thought it would be worse.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How will we sleep?</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll sleep with the girls in the kitchen. You, Henrykc and Papa in here.</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context>Further along, men are building a wall across the street.</context>
+      <utterance>Look! Come and look! They all go to the window and look out. Their POV - the street.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="11">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sell anything?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just one. Dostoevsky. The Idiot. Three zlotys.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's better than yesterday.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Three lousy zlotys. And there are people here making millions.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context>Suddenly, a WOMAN appears in front of them, barring their way. She's brightly rouged with thickly painted eyebrows, dressed in an old green velvet curtain with an unsteady mauve ostrich feather rising from her straw hat.</context>
+      <utterance>You don't know, believe me. They bribe the guards. The guards turn a blind eye. They're bringing in cartloads, food, tobacco, liquor, French cosmetics, and the poor are dying all around them and they don't give a damn.</utterance>
+   <speaker>THE FEATHER WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, but have you by any chance seen my husband Izaak Szerman?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid not.</utterance>
+   <speaker>THE FEATHER WOMAN</speaker>
+      <mode></mode>
+      <context>They shake their heads.</context>
+      <utterance>A tall handsome man with a little grey beard?</utterance>
+   <speaker>THE FEATHER WOMAN</speaker>
+      <mode></mode>
+      <context>She wanders on. Szpilman and Henryk, too, continue on their way. And as they go:</context>
+      <utterance>No?  Oh, do forgive me.  Goodbye, sleep well, if you see him, please do write, Izaak Szerman's his name...</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes I wish I could go mad.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="22">
+   <speaker>THE NERVOUS MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is totally insane; why do we have to have a gentile street running through our area? Can't they go around?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't worry about it, they're about to build a bridge, haven't you heard?</utterance>
+   <speaker>THE NERVOUS MAN</speaker>
+      <mode></mode>
+      <context>Meanwhile, a street band begins to play a waltz. Jewish policemen and German soldiers are clearing a space, shoving Jews out of the way, including Szpilman, Henryk and the nervous man. Other soldiers are clearing a space. Two GERMAN SOLDIERS pull out of the crowd a tall woman and a short man and haul them into the cleared space.</context>
+      <utterance>A bridge, a schmidge, and the Germans claim to be intelligent. You know what I think? I think they're totally stupid. I've got a family to feed and I spend half my time here waiting for them to let us through.</utterance>
+   <speaker>THE GERMAN SOLDIER</speaker>
+      <mode></mode>
+      <context>The couple dance to the street band's waltz. At intervals, German soldiers select even more unlikely couples: a fat woman with a painfully thin man, a young boy with an elderly woman, two men, and two cripples. The German soldiers are, to various degrees, amused. One of them is almost hysterical with laughter.</context>
+      <utterance>Dance!</utterance>
+   <speaker>SOLDIERS</speaker>
+      <mode></mode>
+      <context>The couples dance as fast as they can. A soldier kicks one of the cripples who can't go on any more.</context>
+      <utterance>Faster! Go on, faster! Dance!</utterance>
+   <speaker>SOLDIERS</speaker>
+      <mode></mode>
+      <context>Then a whistle blows, a policeman stops the traffic, the barrier swings open and people swarm across in both directions.</context>
+      <utterance>Dance! Dance!</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>Seated at the table with Mother and Father is a uniformed young man, YITZCHAK HELLER, unusual appearance, a man with red hair and a Hitler moustache. Heller remains seated, just nods at the brothers.</context>
+      <utterance>Good, they're here. Yitzchak Heller's been waiting for you, Henryk.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's this about?</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>Henryk and Szpilman sit. They eye Heller suspiciously.</context>
+      <utterance>Sit down, have tea, I'll start lunch when the girls get back.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, what are you doing here?</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>Awkward silence.</context>
+      <utterance>He brought cakes.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>He runs dry. Another awkward silence. Then:</context>
+      <utterance>His father's back in the jewellery business and doing well, isn't that so, Yitzchak? Amazing. Jewellery.</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're recruiting.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's recruiting?</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be clever with me, Henryk. I've come here as a friend. They're bringing Jews in from all over the country. Soon there'll be half a million people in the ghetto. We need more Jewish police...</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh? More Jewish police? You mean you want me to wear a cap like yours, beat up Jews with my truncheon and catch the Gestapo spirit. I see!</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Someone's got to do it, Henryk.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But why me? I thought you only recruited boys with rich fathers. Look at my father, look at us, I mean...</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, I'm looking at you and that's why I'm here. Your whole family can have a better life. You want to go on struggling for survival, selling books on the street?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, please.</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm doing you people a favour. And what about you, Wladek? You're a great pianist. And we've got an excellent police jazz band. They'd welcome you with open arms. Join us. You've got no work...</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Silence. Heller rises angrily.</context>
+      <utterance>Thank you. But I've got work.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="2">
+   <speaker>BENEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, Mr Wladek, he wants you to stop.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Benek points to the customer, who makes an imploring gesture to Szpilman. Szpilman stops playing. The friend watches the customer intently as he drops the coins one by one onto the marble. He drops them, puts his ear close and listens. Two or three he discards, but he smiles when coins make a pure tone, and he keeps them. Szpilman exchanges looks with a pretty whore, who makes eyes at him. Satisfied, the customer beams, nods his thanks to Szpilman, who resumes his piano playing.</context>
+      <utterance>Who wants me to stop?</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="21">
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context>He laughs and coughs, starts looking through papers. His room is piled from floor to ceiling with old papers and stuff. Dark, shabby, run-down. One of his sons, SYMCHE, is operating the mimeograph machine. The other, DOLEK, is sorting the sheets as they come off the roller. MRS. ZYSKIND, holding a toddler, is cooking at a small stove. JEHUDA finds what he's been looking for, a newspaper made up of a few sheets.</context>
+      <utterance>I always say look on the bright side. You're in the small ghetto, intellectuals, professional people, you're better off than us. Here, in the large ghetto, it's a cesspool. But you, you're living in Monte Carlo. You could say you're privileged and that, of course, goes against my principles. Nevertheless...</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, here. Today's news from the other side.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're amazing, Jehuda.</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm a socialist. I have brothers everywhere. They bring me news and food. We care about our fellow human beings. Workers of the world unite.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, what's the news?</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Germans are advancing on Kharkhov.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know why I come here every evening, it's always such bad news.</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context>He beams. Szpilman leans over, takes a sheet from the mimeograph.</context>
+      <utterance>Bad news, you crazy? You have no world view, Wladek, that's your trouble. The news couldn't be better. The moment Hitler invaded Russia, I knew we'd be all right. Remember Napoleon. Same business. The Germans will freeze to death, please God.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jehuda, give me something to do.</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're an artist, Wladek, you keep people's spirits up. You do enough.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But I want to help, I want to.</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context>He loves this, laughs, coughs.</context>
+      <utterance>You're too well known, Wladek. And you know what? You musicians don't make good conspirators. You're too...too musical.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There are notices going up. The city's to be cleansed of undesirables.</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context>A distinctive knock on the door. Szpilman tenses but Jehuda beams. To one of his boys: Symche - The boy opens the door to admit a short, neat man, MAJOREK.</context>
+      <utterance>There are always notices going up.</utterance>
+   <speaker>MAJOREK</speaker>
+      <mode></mode>
+      <context>He stops, seeing Szpilman.</context>
+      <utterance>Hello, Symche, Dolek, Mrs Zyskind, Jehuda. Working hard?</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Majorek, this is the greatest pianist in Poland, maybe in the whole world. Wladyslaw Szpilman. Meet Majorek.</utterance>
+   <speaker>MAJOREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know your name. I've never heard you play.</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context>Szpilman shrugs.</context>
+      <utterance>Majorek used to be in the army. Brilliant man. He's got a mind like a searchlight. The only thing I've got against him is he's not a socialist.  You'd better go now, Wladek. It's nearly curfew.  You see these, Wladek? You know how many copies we print of our newspaper?</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Five hundred. You know how many people on average read one copy? Twenty. That makes ten thousand readers. These will start the uprising. Majorek hides them in his underpants. And leaves them in toilets.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Toilets?</utterance>
+   <speaker>MAJOREK</speaker>
+      <mode></mode>
+      <context>Jehuda loves this too, but his laugh makes him cough appallingly.</context>
+      <utterance>As many toilets as I can find. Germans never go into Jewish toilets. They're too clean for them.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="16">
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And, please, tonight, for once, I don't want anything bad talked about. Let's enjoy our meal.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, then I'll tell you something funny. You know who I mean by Dr. Raszeja.</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The surgeon?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The surgeon. Well, for some reason, don't ask me why, the Germans allowed him into the ghetto to perform an operation...</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On a Jew? They allowed a Pole to come in to operate on a Jew?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He got a pass, that's all I know. Anyway, he puts the patient to sleep and starts the operation. He'd just made the first incision when the SS burst in, shoot the patient lying on the table, and then shoot Dr. Raszeja and everybody else who was there. Isn't that a laugh? The patient didn't feel a thing, he was anaesthetised - He laughs. No one else does.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Henryk, I said nothing bad.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the matter with you all? Have you lost your sense of humour?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not funny.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you know what's funny? You're funny with that ridiculous tie.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about, my tie? What's my tie got to do with anything? I need the tie for my work.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boys, boys...</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your work, yes, playing the piano for all the parasites in the ghetto, they don't give a damn about people's sufferings, they don't even notice what's going on around them!</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>The others look at him.</context>
+      <utterance>I blame the Americans.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For what? For my tie?</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>Suddenly, there's a roar of engines and a screech of brakes. Slamming of doors. The family rush to the windows.</context>
+      <utterance>American Jews, and there's lots of them, what have they done for us? What do they think they're doing? People here are dying, haven't got a bite to eat. The Jewish bankers over there should be persuading America to declare war on Germany!</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="2">
+   <speaker>NCO</speaker>
+      <mode></mode>
+      <context>The family rise to their feet fast, except for the old man in the wheelchair. The NCO bears down on him.</context>
+      <utterance>Stand up!</utterance>
+   <speaker>NCO</speaker>
+      <mode></mode>
+      <context>The old man in the wheelchair grips the arms of the chair and tries desperately to stand. But he can't. Without warning, the SS men seize the chair with the old man in it, carry him out on to the balcony.</context>
+      <utterance>Stand up!</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="4">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's happened?</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God, it's terrible, you've got to do something, oh my God!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Calm down, what, what is it?</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're hunting people on the streets. They've picked up Henryk.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="3">
+   <speaker>THE FEATHER WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, but have you seen my husband Izaak Szerman?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm afraid not. He tries to dodge past but she grabs his arm.</utterance>
+   <speaker>THE FEATHER WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's tall, he's handsome. He has a little grey beard. If you see him, please do write, Izaak Szerman's his name, don't forget. Szpilman manages to free himself and runs on.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="18">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's happening?</utterance>
+   <speaker>THE ELDERLY MAN</speaker>
+      <mode></mode>
+      <context>Szpilman scans the mob. The Jewish policemen using batons and whips to herd the men. No sign of Henryk. Szpilman becomes alert. He's seen someone he recognises. Heller, with his red hair and Hitler moustache, wielding a baton, driving men into the building. With difficulty, Szpilman pushes his way through the mob and gets nearer to Heller.</context>
+      <utterance>They've got my grandson in there. They pick 'em up, they take 'em away. What do they do to them? I've stopped believing in God!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Heller doesn't hear.</context>
+      <utterance>Yitzchak!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Heller glances round.</context>
+      <utterance>Yitzchak!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Heller shoves someone aside so that Szpilman can approach, but he continues to beat and manhandle people.</context>
+      <utterance>Here, please! Wladek Szpilman!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Henryk's in there.</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I haven't seen him.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Believe me, they've picked him up.</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tough luck.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you help?</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you need me now, yes, now you need me!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you help us?</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It costs.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've no money.</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then there's nothing I can do. He should've joined us when I gave him the chance..</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yitzchak, they told me you had influence.</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who told you?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Heller just glares at Szpilman and then moves away. Szpilman stands, jostled by the crowd, uncertain, forlorn.</context>
+      <utterance>People I know. They said you're an important man.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="18">
+   <speaker>RUBINSTEIN'S VOICE</speaker>
+      <mode></mode>
+      <context>RUBINSTEIN, a ragged, dishevelled little man, Chaplinesque, waving a stick, hopping and jumping, approaches the Germans outside the bureau.</context>
+      <utterance>Boys, keep your peckers up! And girls, keep your legs crossed!</utterance>
+   <speaker>RUBINSTEIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't let 'em get you down - He approaches a couple of Shupos.</utterance>
+   <speaker>RUBINSTEIN</speaker>
+      <mode></mode>
+      <context>He waves his stick at them. They laugh. One of them bows low.</context>
+      <utterance>Bandits! Crooks! Thieves!</utterance>
+   <speaker>1ST SHUPO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good day, Herr Rubinstein.</utterance>
+   <speaker>RUBINSTEIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If that means good day, I'm your man, you gangsters, robbers, pirates!</utterance>
+   <speaker>2ND SHUPO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mad!</utterance>
+   <speaker>RUBINSTEIN</speaker>
+      <mode></mode>
+      <context>Almost in tears with laughter, they give him a cigarette and he goes on his way. Szpilman almost smiles, then looks again at the building. He waits.</context>
+      <utterance>Ich bin meshuge, you bandit!</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You go to Heller, did I ask you to talk to him?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>They start to walk.</context>
+      <utterance>You're out, aren't you?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you beg, did you grovel to that piece of shit, that cockroach?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't grovel, I asked him to help.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you pay him?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pay him? With what? With what could I pay him? Every zloty I earn we spend on food!</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can look after myself!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They were taking you away.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's nothing to do with you. It's me they wanted, not you. Why do you interfere in other people's business?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're mad, that's your trouble, you're mad.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context>They walk on.</context>
+      <utterance>That's also my business.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="2">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the matter? Are you sick?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hungry.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="6">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that mean, no employment certificate?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have to have an employment certificate to work for one of the German firms in the ghetto, otherwise...</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Otherwise what?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll be deported.</utterance>
+   <speaker>BENEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So the rumours were true...</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context>Silence.</context>
+      <utterance>They're going to resettle us. Send us to labour camps. In the east. And they're closing the small ghetto.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="15">
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context>Szpilman stops.</context>
+      <utterance>Wladek!</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you'd be off on tour, playing London, Paris, New York?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>They're buffeted by the crowd. In the street below them, cars, trams, pedestrians and German guards.</context>
+      <utterance>Not this week.</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have to say you look terrible. What's the trouble?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've heard the rumours they're going to resettle us in the East?</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rumours, rumours, you take it all too much to heart, Wladek.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been trying to get a certificate of employment for my father. I've managed to get certificates for me and the rest of the family but I need one more for my father. I've been trying all the firms, the shops...</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why didn't you come to me?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't know you were in the certificate business.</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not, but Majorek is.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you help? I've no money...</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please, don't insult us.  Can you do something for him?</utterance>
+   <speaker>MAJOREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Be at the Schultz Workshop, tomorrow, four o'clock.</utterance>
+   <speaker>JEHUDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You see what a wonderful piece of luck you've had today? That's die historical imperative in action and that's why I always say, look on...</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...the bright side, yes, I know.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="2">
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>SCHULTZ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My pleasure. It won't help you anyway.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="3">
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>Szpilman nods, climbs into his bunk, settles down. Somewhere near, the sound of a train. Then a volley of shots, German voices shouting. Szpilman slips off his bunk, hurries to the door, opens it and comes face to face with a German NCO and soldiers.</context>
+      <utterance>At least we've got work in the ghetto. At least we're still together.</utterance>
+   <speaker>NCO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Out! Assemble in the yard!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>The NCO cracks Szpilman across the face, turns and goes. Szpilman retreats into the room, his nose bleeding. The women are watching from behind the blankets, but Mother hurries towards Szpilman. She wipes his nose. Shots, shouts, a scream.</context>
+      <utterance>We're employed here, we've got certificates -</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="2">
+   <speaker>NCO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The rest of you get dressed then report back here. Bring your belongings. Fifteen kilos only.</utterance>
+   <speaker>A YOUNG WOMAN</speaker>
+      <mode></mode>
+      <context>The NCO turns his pistol on the young woman and shoots her through the head. He marches off while she lies on the ground with blood spurting out of her.</context>
+      <utterance>Where are you taking us?</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="3">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, I did my best, I thought the certificates would save us all.</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop it, Wladek.</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context>Sounds of shots, screams, shouts, a piercing whistle.</context>
+      <utterance>Let's just hope that Henryk and Halina will be better off -</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="3">
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where will we be going?</utterance>
+   <speaker>JEWISH POLICEMAN #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going to work. You'll be much better off than in this stinking ghetto. The gates are The gates are opened.</utterance>
+   <speaker>JEWISH POLICEMAN #2</speaker>
+      <mode></mode>
+      <context>They shuffle forward.</context>
+      <utterance>Move!</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="27">
+   <speaker>THE YOUNG WOMAN</speaker>
+      <mode></mode>
+      <context>A young man, beside her, whispers to her, but she does not seem to take in what he's saying. Her cries continue at intervals.</context>
+      <utterance>Why did I do it? Why did I do it?</utterance>
+   <speaker>THE YOUNG WOMAN</speaker>
+      <mode></mode>
+      <context>The sound of trucks. Everyone looks towards the gates. More Jews are being unloaded from trucks and are marched through the gates. Mothers, children, old people, begging, most of them holding papers. Pandemonium. Later: The sun high, blazing. Szpilman is wandering around, occasionally greeting people. The place is crowded now, packed. Trucks bring more and more Jews at intervals. Old people lying down, exhausted, impossible to tell whether some of them are alive or dead. Women carrying dehydrated children drag themselves from group to group. One WOMAN approaches Szpilman.</context>
+      <utterance>Why did I do it? Why did I do it?</utterance>
+   <speaker>WOMAN WITH CHILD</speaker>
+      <mode></mode>
+      <context>Szpilman shakes his head sadly. The woman with child wanders off to another group.</context>
+      <utterance>He's dying, don't you have a drop of water? My child's dying of thirst, he's dying, he's dying, I beg you!</utterance>
+   <speaker>A MAN'S VOICE</speaker>
+      <mode></mode>
+      <context>Szpilman turns to see a man, DR. EHRLICH, haranguing Father.</context>
+      <utterance>I'm telling you, it's a disgrace.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context>Szpilman goes to them.</context>
+      <utterance>I can hear you.</utterance>
+   <speaker>DR. EHRLICH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're letting them take us to our death like sheep to the slaughter!</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dr. Ehrlich, not so loud!</utterance>
+   <speaker>DR. EHRLICH</speaker>
+      <mode></mode>
+      <context>Another man, Grun, joins in.</context>
+      <utterance>Why don't we attack them? There's half a million of us, we could break out of the ghetto. At least we could die honourably, not as a stain on the face of history!</utterance>
+   <speaker>GRUN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why you so sure they're sending us to our death?</utterance>
+   <speaker>DR. EHRLICH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not sure. You know why I'm not sure? Because they didn't tell me. But I'm telling you they plan to wipe us all out!</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dr. Ehrlich, what do you want me to do? You want me to fight?</utterance>
+   <speaker>GRUN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To fight you need organisation, plans, guns!</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's right. What d'you think I can do? Fight them with my violin bow?</utterance>
+   <speaker>GRUN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Germans would never squander a huge labour force like this. They're sending us to a labour camp.</utterance>
+   <speaker>DR. EHRLICH</speaker>
+      <mode></mode>
+      <context>A loud cry from Mother. Szpilman and Father spin round.</context>
+      <utterance>Oh, sure. Look at that cripple, look at those old people, the children, they're going to work? Look at Mr Szpilman here, he's going to carry iron girders on his back?</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Henryk!</utterance>
+   <speaker>REGINA</speaker>
+      <mode></mode>
+      <context>Near the gates, among a large bunch of new arrivals, Henryk and Halina.</context>
+      <utterance>Oh my God!</utterance>
+   <speaker>MOTHER</speaker>
+      <mode></mode>
+      <context>Regina and Szpilman also call and wave. Henryk and Halina struggle through to them. Halina falls into Mother's arms and they hug.</context>
+      <utterance>Halina! Henryk!</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context>Mother comforts her. And so does Regina. Father smiles sadly.</context>
+      <utterance>We heard you were here...we...didn't want...we...we wanted to be with you.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stupid, stupid!</utterance>
+   <speaker>THE YOUNG WOMAN</speaker>
+      <mode></mode>
+      <context>The place is now packed to suffocation. People calling out names, trying to find each other. The wailing of women and the cries of children. A cordon of Jewish policemen and SS guards are, almost surreptitiously, ringing the compound. The Szpilmans sit in the same place, with Henryk sitting a little apart and now reading a small book.</context>
+      <utterance>Why did I do it? Why did I do it? Szpilman stands and stares at her. Later: The sun lower but the heat still intense.</utterance>
+   <speaker>THE YOUNG WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why did I do it? Why did I do it?</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context>Grun leans across to her.</context>
+      <utterance>She's getting on my nerves. What did she do, for God's sake?</utterance>
+   <speaker>GRUN</speaker>
+      <mode></mode>
+      <context>Halina looks at him in disbelief.</context>
+      <utterance>She smothered her baby.</utterance>
+   <speaker>GRUN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They'd prepared a hiding place and so, of course, they went there. But the baby cried just as the police came. She smothered the cries with her hands. The baby died. A policeman heard the death rattle. He found where they were hiding. Later: Szpilman and Henryk.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you reading?</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'If you prick us, do we not bleed? If you tickle us, do we not laugh? If you poison us, do we not die? And if you wrong us, shall we not revenge?' Szpilman takes the book and reads the title page:</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="7">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very appropriate.</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context>The Szpilmans seated on the kerb. Their attention is caught by a BOY who has a box of sweets on a string round his neck. And he's setting the sweets, pocketing money.</context>
+      <utterance>Yes, that's why I brought it. Later:</utterance>
+   <speaker>HENRYK</speaker>
+      <mode></mode>
+      <context>Father calls to the Sweet Boy and beckons him over.</context>
+      <utterance>Idiot. What's he think he's going to do with the money?</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much for a caramel?</utterance>
+   <speaker>THE SWEET BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twenty zlotys.</utterance>
+   <speaker>FATHER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? For one caramel? What d'you think you're going to do with the money?</utterance>
+   <speaker>THE SWEET BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Twenty zlotys.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="6">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Halina?</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Funny time to say this.</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>wish I knew you better.</utterance>
+   <speaker>HALINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="5">
+   <speaker>A VOICE</speaker>
+      <mode></mode>
+      <context>A Jewish policeman grabs Szpilman by his collar and pulls him back out of the police cordon. It's Heller. The rest of the family have reached the next truck to be filled. A scuffle as Szpilman tries to resist. Another Jewish policeman shoves him. Szpilman stumbles, falls to the ground, in front of him the closed ranks of the Jewish policemen's backs. He stands, runs at the cordon, seeing between their heads, shoulders, Mother, Regina, Henryk and Halina clambering into the trucks. Father is looking around, bewildered.</context>
+      <utterance>Szpilman! Szpilman!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Father sees him, takes a step towards him, but stops, smiling helplessly. He raises his hand and waves, then turns and goes towards the trucks. Again, Szpilman flings himself at the policemen's shoulders.</context>
+      <utterance>Papa!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Heller turns on him.</context>
+      <utterance>Papa! Mama! Halina!</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context>Szpilman stands for a moment, confused, terrified. Then he turns and starts to run.</context>
+      <utterance>What do you think you're doing, Szpilman? I've saved your life! Now, go on, save yourself!</utterance>
+   <speaker>HELLER</speaker>
+      <mode></mode>
+      <context>Szpilman drops to walking pace, makes for the gates. Workers are pushing carts piled with the bloated corpses that lay against the wall. Szpilman falls in with them and they pass through the gates.</context>
+      <utterance>Don't run!</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="3">
+   <speaker>BENEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you here, Mr. Wladek?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>He can't continue. Benek nods.</context>
+      <utterance>It's like this... I...we...all of them.</utterance>
+   <speaker>BENEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps they're lucky. The quicker the better.  It isn't over yet. We'll stay here for a couple of days. Until things die down.  I've bribed a policeman. He'll come when it's over.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="2">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My God. I haven't been outside for - it must be two years.</utterance>
+   <speaker>FELLOW WORKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't get over-excited.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="8">
+   <speaker>DEALERS</speaker>
+      <mode></mode>
+      <context>Szpilman, on top of a free-standing scaffold, Benek and the others demolishing a ghetto wall, wielding skdgehammers. They work slowly. A smartly dressed young couple are passing, but stop. They stare. The young woman is extremely attractive and knows it. The foremen, workers and the German policemen ogle her.</context>
+      <utterance>Gold, buy gold! Dollars! Roubles! Later:</utterance>
+   <speaker>THE YOUNG WOMAN</speaker>
+      <mode></mode>
+      <context>Her young man is puzzled; she points.</context>
+      <utterance>Look - oh, do look!</utterance>
+   <speaker>THE YOUNG WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jews!</utterance>
+   <speaker>THE YOUNG MAN</speaker>
+      <mode></mode>
+      <context>Embarrassed, she giggles and they go. Szpilman, Benek and the others continue to work. The foremen sit, sunning themselves, and the German policemen stand, deep in conversation, ignoring the workers. Szpilman suddenly stops work. He has seen something in the square that alerts him. At the furthest stall, he sees a woman, attractive, chic, in her thirties, buying vegetables at a stall. Her name is JANINA GODLEWSKA. Surreptitiously, Szpilman raises a hand, trying to catch her attention. But he's frightened of alerting the German policemen and the foremen. Benek has noticed.</context>
+      <utterance>Can't be the first time you've ever seen Jews.</utterance>
+   <speaker>BENEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Someone you know?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Again Szpilman tries, but Janina, her profile to him, doesn't see.</context>
+      <utterance>Yes.</utterance>
+   <speaker>BENEK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A beauty. Who is she?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A singer. Her husband's an actor. I knew them well. Good people. I'd like to talk to her.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="2">
+   <speaker>YOUNG SS MAN</speaker>
+      <mode></mode>
+      <context>The column halts before a young SS man, wild-eyed, with his sleeves rolled up and wielding a pistol. He talks excitedly to the policemen then turns, walks along the column dividing them up: some men to the right, others, seven of them, to the left. Benek he orders to the left, Szpilman to the right. Young SS man turns to those on the left.</context>
+      <utterance>Halt!</utterance>
+   <speaker>YOUNG SS MAN</speaker>
+      <mode></mode>
+      <context>Terrified, they obey. He stands over them and, one by one, shoots them. When he comes to Benek, the seventh man, his pistol runs out of ammunition. He changes the clip, shoots Benek and marches off.</context>
+      <utterance>Lie down!</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="4">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long have you been here?</utterance>
+   <speaker>MAJOREK</speaker>
+      <mode></mode>
+      <context>Brief silence.</context>
+      <utterance>Since last night. I was pleased to see you.</utterance>
+   <speaker>MAJOREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're going to start the final resettlement now. We know what it means. We sent someone out. Zygmunt. A good man. His orders were to follow the trains out of Warsaw. He got to Sokolow. A local railwayman told him the tracks are divided, one branch leading to Treblinka. He said every day freight trains carrying people from Warsaw forked to Treblinka and returned empty. No transports of food are ever seen on that line. And civilians are forbidden to approach the Treblinka station. They're exterminating us. Won't take them long. We're sixty thousand left. Out of half a million. Mostly young people. And this time we're going to fight. We're in good shape. We're organised. We're prepared.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Szpilman again mounting the ramp with a hod full of bricks on his back. The noise of airplanes overhead.</context>
+      <utterance>If you need help... Whistle blows. A little later:</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="7">
+   <speaker>ZICK-ZACK</speaker>
+      <mode></mode>
+      <context>An SS man, ZICK-ZACK (his nickname), with a whip, approaches Szpilman.</context>
+      <utterance>You!</utterance>
+   <speaker>ZICK-ZACK</speaker>
+      <mode></mode>
+      <context>Szpilman goes to him. Enraged, Zick-Zack grabs him by the hair and presses his head hard between his thighs and then beats him mercilessly.</context>
+      <utterance>Here!</utterance>
+   <speaker>ZICK-ZACK</speaker>
+      <mode></mode>
+      <context>After a dozen or so strokes, Szpilman falls forward and lies in the dirt. Zick-Zack nods, satisfied.</context>
+      <utterance>Und-zick! Und-zack! Und-zick! Und- zack!</utterance>
+   <speaker>ZICK-ZACK</speaker>
+      <mode></mode>
+      <context>Two Poles, without armbands, one of them Bartczak, drag him away. Bartczak and the other man help Szpilman to his feet.</context>
+      <utterance>Get him away from here.</utterance>
+   <speaker>BARTCZAK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hope you played the piano better than you carry bricks.</utterance>
+   <speaker>POLISH WORKMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He won't last long if he goes on like this.</utterance>
+   <speaker>BARTCZAK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll see if I can get him something better.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="6">
+   <speaker>WORKER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Trouble.</utterance>
+   <speaker>A GERMAN VOICE</speaker>
+      <mode></mode>
+      <context>The Jewish workers start to assemble on the site in haphazard ranks as an SS Captain strides in. The SS Captain, with much jollity and jokes, hops up on to scaffolding and stands, beaming broadly, surveying the workers.</context>
+      <utterance>Assemble! Fall in! Only the Jews! Poles go on working! Only the Jews! Poles go on working!</utterance>
+   <speaker>SS CAPTAIN</speaker>
+      <mode></mode>
+      <context>A glance between Szpilman and Majorek.</context>
+      <utterance>I have important and good news for you. There are rumours circulating that resettlement measures are again going to be taken.</utterance>
+   <speaker>SS CAPTAIN</speaker>
+      <mode></mode>
+      <context>He beams; no reaction from the workers.</context>
+      <utterance>I want to assure you personally that no such measures will be taken now or in the future. Posters will be going up also to this effect. As proof of our good will, we want you to select a delegate, who will be permitted to go into town once a day to buy, on each worker's behalf, five kilos of potatoes and one loaf of bread, which you will be allowed to take back into the ghetto. Now, why would we do that j if we meant to resettle you?</utterance>
+   <speaker>SS CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can do good business on what you don't eat. Isn't that what you Jews are best at? Making 'geld'? Rubs thumb and forefinger and leers; still no reaction; his smile vanishes.</utterance>
+   <speaker>SS CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Carry on.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="3">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Majorek is instantly awake.</context>
+      <utterance>Majorek!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have a favour to ask. I want to get out of here.</utterance>
+   <speaker>MAJOREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's easy to get out, it's how you survive on the other side that's hard.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="9">
+   <speaker>SS LIEUTENANT</speaker>
+      <mode></mode>
+      <context>Szpilman immediately hurries to a cupboard, finds a First Aid tin, removes a plaster and gives it to the SS Lieutenant.</context>
+      <utterance>Any fucking plaster?</utterance>
+   <speaker>SS LIEUTENANT'S VOICE</speaker>
+      <mode></mode>
+      <context>Nothing from Szpilman.</context>
+      <utterance>What were you up to?</utterance>
+   <speaker>SS LIEUTENANT'S VOICE</speaker>
+      <mode></mode>
+      <context>He indicates the sacks with his chin.</context>
+      <utterance>What the fuck are those?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're allowed to take food into the ghetto. Five kilos of potatoes and a... The SS Lieutenant walks over to the sacks and kicks the smallest one.</utterance>
+   <speaker>SS LIEUTENANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Open it.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's only potatoes and bread.</utterance>
+   <speaker>SS LIEUTENANT</speaker>
+      <mode></mode>
+      <context>Szpilman tries to untie the string, but he's too terrified and can't manage it. The SS Lieutenant shoves him out of the way, then takes from his belt a dagger and cuts the string. The SS Lieutenant reaches in and withdraws a handful of long yellow beans. He glowers at Szpilman, reaches in again, produces a handful of oatmeal.</context>
+      <utterance>Fuck that, you're lying, I can smell it. Open it.</utterance>
+   <speaker>SS LIEUTENANT</speaker>
+      <mode></mode>
+      <context>He throws the oatmeal in Szpilman's face.</context>
+      <utterance>You're all the same. Give a Jew a little finger, he takes the whole hand.</utterance>
+   <speaker>SS LIEUTENANT</speaker>
+      <mode></mode>
+      <context>He kicks Szpilman viciously and marches away. Szpilman catches his breath, then quickly reaches into the bottom of the sack and finds a pistol and ammunition. He hides them under his clothes.</context>
+      <utterance>You lie to me again and I'll shoot you personally.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="13">
+   <speaker>MAJOREK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I tried your friends. They're not at that address any more. But.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You made contact?</utterance>
+   <speaker>MAJOREK</speaker>
+      <mode></mode>
+      <context>Sudden, frantic cries from the head of the column, which comes to a stop. Two SS men, blind drunk, drinking vodka from bottles, are lashing the column with whips. One of them is Zikk-Zack, .</context>
+      <utterance>Be ready to leave in two days' time. Same place as last night.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>As the SS men advance on Szpilman and Majorek's section, Majorek slips back to his place in the column. Szpilman hides his package inside his coat. Zick-Zack lashes out at the workers blindly.</context>
+      <utterance>Oh, shit!</utterance>
+   <speaker>ZICK-ZACK</speaker>
+      <mode></mode>
+      <context>He takes a swig of vodka and comes face to face with Szpilman.</context>
+      <utterance>Und-zick! Und-zack!</utterance>
+   <speaker>ZICK-ZACK</speaker>
+      <mode></mode>
+      <context>No response; shaking him.</context>
+      <utterance>Know why we beat you?</utterance>
+   <speaker>ZICK-ZACK</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Know why we beat you?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Why?</utterance>
+   <speaker>ZICK-ZACK</speaker>
+      <mode></mode>
+      <context>He and his comrade find this hilarious; recovering from his laughter.</context>
+      <utterance>To celebrate New Year's Eve!</utterance>
+   <speaker>ZICK-ZACK</speaker>
+      <mode></mode>
+      <context>The column starts to march. ....</context>
+      <utterance>Now, march! Go on, march!</utterance>
+   <speaker>ZICK-ZACK</speaker>
+      <mode></mode>
+      <context>A brief silence, then from the back, a solo voice starts to sing, 'Children of Warsaw will go to fight!' Szpilman glances back, sees that it's Majorek singing. Szpilman smiles, Majorek nods. Szpilman joins in. Now, so do the others. They march on, singing lustily.</context>
+      <utterance>And sing!  Sing something cheerful!  And sing it good and loud!</utterance>
+   <speaker>ALL WORKERS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, ranks unite And follow the White Eagle! Stand up and fight Our mortal enemy. Riflemen, hey! Let's give them fire and brimstone. We'll blow away The yoke of slavery. Punish and rout The rapists of our nation. We'll smash the knout To save our dignity. Soon we'll be proud Of our liberation -</utterance>
+   <speaker>ALL WORKERS</speaker>
+      <mode></mode>
+      <context>The column reaches the lamp posts near the ghetto gates. Szpilman his package over the wall. So does Majorek.</context>
+      <utterance>Hey, take your sights! Aim sharply at the heart. Hey, load! Hey, shoot! Hey, load! Hey, shoot! Give 'em a bloody start! Hey, load! Hey, shoot! Aim sharply at the heart.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="2">
+   <speaker>BOGUCKI</speaker>
+      <mode></mode>
+      <context>Bogucki holds up a towel. Szpilman lifts himself out of the bath and dries himself.</context>
+      <utterance>You must hurry.</utterance>
+   <speaker>BOGUCKI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're going to have to keep moving you. The Germans are hunting down indiscriminately now. Jews, non- Jews, anybody, everybody.  See if these fit. And, Wladek, you'd better shave. Use my razor. In the cabinet.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="4">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you, I don't.</utterance>
+   <speaker>BOGUCKI</speaker>
+      <mode></mode>
+      <context>Janina adds the last strip of clothing.</context>
+      <utterance>You'll be looked after by Mr Gebczynski. He's on the other side of town. You'll stay there tonight. Then we'll find you somewhere else.</utterance>
+   <speaker>JANINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll bring you food.</utterance>
+   <speaker>BOGUCKI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's go.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="4">
+   <speaker>GEBCZYNSKI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not going to be very comfortable.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll be fine.</utterance>
+   <speaker>GEBCZYNSKI</speaker>
+      <mode></mode>
+      <context>He helps Szpilman into the compartment.</context>
+      <utterance>You'll have to stay here until tomorrow afternoon.</utterance>
+   <speaker>GEBCZYNSKI</speaker>
+      <mode></mode>
+      <context>He hands over the cushion and the blanket to Szpilman; then, putting his back to the shelves and his feet against the wall, he pushes the shelves back into place so that Szpilman is now hidden.</context>
+      <utterance>We've got a flat for you. Near the ghetto wall. But it's safe.</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="6">
+   <speaker>GEBCZYNSKI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Must feel better this side of the wall.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, but sometimes I'm still not sure which side of the wall I'm on.</utterance>
+   <speaker>GEBCZYNSKI</speaker>
+      <mode></mode>
+      <context>He leads Szpilman to the small kitchen. Gebczynski opens a cupboard to reveal potatoes, bread.</context>
+      <utterance>Here.</utterance>
+   <speaker>GEBCZYNSKI</speaker>
+      <mode></mode>
+      <context>He closes the cupboard.</context>
+      <utterance>I'll come again. And Janina Bogucki will visit twice a week. Bring more food. See how you are.</utterance>
+   <speaker>THE MAIN ROOM.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gebczynski makes for the front door, stops.</utterance>
+   <speaker>GEBCZYNSKI</speaker>
+      <mode></mode>
+      <context>He hands over a scrap of paper, shakes Szpilman's hand and goes quickly. Alone, Szpilman stands, lost for a moment. Then, he takes off his shoe and stuffs the scrap of paper into it. While he does so, his eyes light on the divan bed. He goes to it, slips off his other shoe and lies down, testing the divan's springiness with his whole body. He smiles beatifically. He shuts his eyes and is instantly asleep.</context>
+      <utterance>Yes, now, this is very important. In case of emergency, I mean emergency, go to this address.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="16">
+   <speaker>KITTEN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Puppydog, what d'you mean, you forgot?</utterance>
+   <speaker>PUPPYDOG'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What d'you think I mean, Kitten? I forgot, that's what I mean.</utterance>
+   <speaker>KITTEN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what? You treat me like dirt!</utterance>
+   <speaker>PUPPYDOG'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I treat you like dirt because you are dirt.</utterance>
+   <speaker>KITTEN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pig!</utterance>
+   <speaker>PUPPYDOG'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cow!</utterance>
+   <speaker>KITTEN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pig!</utterance>
+   <speaker>PUPPYDOG'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bitch!</utterance>
+   <speaker>KITTEN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dirty pig!</utterance>
+   <speaker>PUPPYDOG'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a dirty pig!</utterance>
+   <speaker>KITTEN'S VOICE</speaker>
+      <mode></mode>
+      <context>Then the sound of a piano being played with great feeling but a lot of wrong notes.</context>
+      <utterance>Takes one to know one! Pig! Silence. Szpilman is enjoying himself.</utterance>
+   <speaker>PUPPYDOG'S VOICE</speaker>
+      <mode></mode>
+      <context>The piano continues for a moment, but suddenly stops:</context>
+      <utterance>You play like an angel, Kitten.</utterance>
+   <speaker>KITTEN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If I play like an angel, why don't you listen?</utterance>
+   <speaker>PUPPYDOG'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was listening, Kitten.</utterance>
+   <speaker>KITTEN'S VOICE</speaker>
+      <mode></mode>
+      <context>A door slams.</context>
+      <utterance>Liar, you fell asleep. Pig!</utterance>
+   <speaker>PUPPYDOG'S VOICE</speaker>
+      <mode></mode>
+      <context>Silence. Szpilman smiles but then hears the sound of rifle shots and a huge explosion. He crosses quickly to the window, looks out.</context>
+      <utterance>Kitten, let me in.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="9">
+   <speaker>JANINA</speaker>
+      <mode></mode>
+      <context>She hands him the parcel.</context>
+      <utterance>wanted to come earlier but...</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>He goes into the small kitchen and unpacks the contents while Janina gazes out of the window.</context>
+      <utterance>Thank you.</utterance>
+   <speaker>JANINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No one thought they'd hold out so long.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>should never have come out. I should've stayed there, fought with them.</utterance>
+   <speaker>JANINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wladek, stop that. It's over now. Just be proud it happened. My God, did they put up a fight.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, so did the Germans.</utterance>
+   <speaker>JANINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're in shock. They didn't expect it. Nobody expected it. Jews fighting back? Who'd have thought?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, but what good did it do?</utterance>
+   <speaker>JANINA</speaker>
+      <mode></mode>
+      <context>she turns to look again out of the window.</context>
+      <utterance>What good? Wladek, I'm surprised at you. They died with dignity, that's what good it did. And you know something else? Now the Poles will rise. We're ready. We'll fight, too. You'll see.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="8">
+   <speaker>EXT./INT.  1ST APARTMENT - DAY</speaker>
+      <mode></mode>
+      <context>Szpilman turns as the door opens and Gebczynski enters, distraught. Whispered, at speed:</context>
+      <utterance>Snow. Ice on the windows. The sound of the key in the door.</utterance>
+   <speaker>GEBCZYNSKI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get your things together, you have to leave!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Gebczynski takes out a cigarette and lights it. While he does so:</context>
+      <utterance>What's happened?</utterance>
+   <speaker>GEBCZYNSKI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm on the run!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's happened?</utterance>
+   <speaker>GEBCZYNSKI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Gestapo found our weapons. They've arrested Janina and Andrzej. They're bound to find out about this place, too - you must get away at once.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where do you want me to go? Look at me. No, no, I'm not leaving. Can't I take my chances here?</utterance>
+   <speaker>GEBCZYNSKI</speaker>
+      <mode></mode>
+      <context>But when they storm the flat, throw yourself out of die window - don't let them get you alive. I have poison on me, they won't get me alive either! And he goes. Szpilman listens to his footsteps clattering down the stairs. He sees the cigarette stub, takes it, lights it, coughs, smokes awkwardly. Later: Szpilman hears a car engine and the screech of brakes. He tenses. German voices shouting and their heavy footsteps on the stairs. He goes to the window, opens it. He gets a chair, places it sideways in front of the window to make a step. He's working out how best to throw himself out. He leans against the wall near the door and waits.. Slamming of doors, German shouts, a scream. Szpilman steels himself, ready to jump. Again footsteps on the stairs, but this time descending. A door slams. He cautiously goes to the window and looks out.</context>
+      <utterance>That's your decision.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="4">
+   <speaker>KITTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you from the flat in there? You're not registered.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It belongs to a friend of mine. I came to visit but I must have just missed him.</utterance>
+   <speaker>KITTY</speaker>
+      <mode></mode>
+      <context>Szpilman hesitates; she shouts more loudly.</context>
+      <utterance>Have you got your identity card? Let me see your identity card!</utterance>
+   <speaker>KITTY</speaker>
+      <mode></mode>
+      <context>On various floors, doors open, tenants put their heads out to see what's going on. Summoning all his strength, Szpilman makes a dash for it, pushing past Kitty.</context>
+      <utterance>I want to see your identity card!</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="25">
+   <speaker>WOMAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>The door opens and Dorota stands there. She is pregnant. They stand for a moment staring at each other.</context>
+      <utterance>Mr Gebczynski sent me.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wladyslaw Szpilman.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dorota.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come in! come in!</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sit.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry - I was given this address. I'm looking for a Mr--  -- a Mr Dzikiewicz.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context>Szpilman sits down slowly.</context>
+      <utterance>Michal Dzikiewicz. He's my husband.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need help.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He'll be back before curfew.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been in hiding. I need somewhere to stay.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context>Awkward silence. He gazes at her. She looks away.</context>
+      <utterance>He'll be here soon.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How long have you been married?</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context>He nods. Brief silence.</context>
+      <utterance>Just over a year.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And how's Yurek?</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context>Again, the awkward silence.</context>
+      <utterance>Dead.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When's your baby due?</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Christmas.  This is not a good time to have children. But then... The door opens and Michal Dzikiewicz enters. He sees Szpilman and stops. Szpilman stands.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is my husband. Wladyslaw Szpilman. Marek Gebczynski sent him.</utterance>
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context>He shakes hands with Szpilman.</context>
+      <utterance>Oh, yes. I remember.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr Gebczynski said to contact you only in an emergency, but...</utterance>
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context>Szpilman, dizzy, leans on the table for support.</context>
+      <utterance>Don't worry now. We can't move you tonight.</utterance>
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context>He and Dorota look at him.</context>
+      <utterance>You'll sleep on the sofa.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, could I have a piece of bread?</utterance>
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, of course, we'll eat.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="2">
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're in a very German area. The building opposite is a hospital, taking in wounded from the Russian front. Next door is the Schutzpolizei. It's the safest place to be. Right in the centre of the lion's den.</utterance>
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context>He nods and goes. The sound of the padlock closing. Szpilman takes in the room. He sees the piano, is still for a moment, then goes to it. He sits on the piano stool and adjusts its height. He opens the lid. A cloth covers the keys. He removes the cloth. He gazes lovingly at the keyboard. He flexes his fingers. Then, without touching the keys, his fingers floating just above them, he plays. Silently. Passionately.</context>
+      <utterance>I'll be locking you in. No one knows you're here. So keep as quiet as possible.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="12">
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All well?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context>Szalas and Szpilman shake hands.</context>
+      <utterance>This is Antek Szalas.</utterance>
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context>Szalas produces a quarter bottle of vodka, thumps the back of the bottle so that the cork flies out. He finds glasses and pours. While he does all this:</context>
+      <utterance>He's going to look after you. I've given him a second key. He'll bring you food. See that you're all right. He's with the underground, a good man.</utterance>
+   <speaker>SZALAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't remember me, Mr. Szpilman?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I don't think so?</utterance>
+   <speaker>SZALAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Warsaw Radio. I was a technician. I saw you almost every day.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry, I don't remember.</utterance>
+   <speaker>SZALAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doesn't matter. You've nothing to worry about. I'll visit often.</utterance>
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you'll be pleased to hear the Allies are bombing Germany night after night - Cologne, Hamburg, Berlin.</utterance>
+   <speaker>SZALAS</speaker>
+      <mode></mode>
+      <context>He gives the others their vodka.</context>
+      <utterance>And the Russians are really giving them hell. It's the beginning of the end.</utterance>
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context>They clink glasses and drink.</context>
+      <utterance>Let's hope so. I don't know when I'll see you again?</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="24">
+   <speaker>SZALAS</speaker>
+      <mode></mode>
+      <context>He hands over the package. You still got that vodka? Szpilman stares at the package.</context>
+      <utterance>Still alive then, are you? Here. Sausage. Bread.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Szalas shrugs, finds the vodka, pours two glasses</context>
+      <utterance>How long is this meant to last?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>He unwraps the package to reveal sausage and bread. He takes a bite of sausage, chewing deliberately, slowly.</context>
+      <utterance>think I've got jaundice.</utterance>
+   <speaker>SZALAS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't want to worry about that. My grandfather was jilted by his girl friend when he got jaundice.  In my opinion, jaundice is not very serious. Drink up.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Szalas goes to the window, looks out.</context>
+      <utterance>Why didn't you come sooner? It's been over two weeks.</utterance>
+   <speaker>SZALAS</speaker>
+      <mode></mode>
+      <context>Szpilman thinks for a moment, then takes off his wristwatch, hands it to Szalas.</context>
+      <utterance>Problems. Money. I've got to raise money to buy the food. I need things to sell, it' s not easy.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>Szalas pockets the watch, makes for the door, stops.</context>
+      <utterance>Sell this. Food's more important than time.</utterance>
+   <speaker>SZALAS</speaker>
+      <mode></mode>
+      <context>He grins, downs Szpilman's vodka, gives a mock salute and goes. Hie padlock is locked on the other side. Szpilman enjoys his sausage.</context>
+      <utterance>Oh, yes. I meant to tell you. The Allies have landed in France. The Russians'll be here soon. They'll beat the shit out of the Germans. Any day now.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context>Szpilman barely has strength to open his eyes and focus on them. He mutters incoherently.</context>
+      <utterance>Wladek? Wladek!  I knew it, I knew this would happen!</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm going to get a doctor.</utterance>
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't, it's too dangerous.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll get Dr Luczak, we can trust him.</utterance>
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dorota, don't be ridiculous, he's a pediatrician.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context>She starts for the door.</context>
+      <utterance>He's still a doctor.</utterance>
+   <speaker>MICHAL</speaker>
+      <mode></mode>
+      <context>Dorota goes to the kitchen, wets a towel, comes back to the bed, kneels it, places the towel on Szpilman's brow. He focuses on her, smiles.</context>
+      <utterance>No, you stay, I'll go. He leaves. The padlock sound.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context>Szpilman suddenly winces with pain.</context>
+      <utterance>We came to say goodbye. We're going to stay with my mother in Otwock.The baby's already there. It's safer. There's talk that the uprising will begin any day now.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context>She looks at him; barely audible.</context>
+      <utterance>That man Szalas should be shot. He's been collecting money on your behalf all over Warsaw. Apparently, people gave generously. So he collected a tidy sum. He told us he was visiting you daily.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context>Szpilman looks up at Dr Luczak, who has a stethoscope in his ears. Dorota and Michal stand behind him.</context>
+      <utterance>Oh God! Later:</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Acute inflammation of the gall bladder. Liver the size of a football. But he'll live. I'll try to get hold of some levulose, but it's not easy.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you visit him again?</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who knows?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Doctor, thank you.</utterance>
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context>The Doctor and Michal leave his line of vision. Dorota moves in beside him.</context>
+      <utterance>Don't speak. Rest.</utterance>
+   <speaker>DOROTA</speaker>
+      <mode></mode>
+      <context>Szpilman tries again to say something, but he can't, just lies there, distressed.</context>
+      <utterance>Michal brought food. I'll prepare something now for you, then we must go.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="2">
+   <speaker>VOICES</speaker>
+      <mode></mode>
+      <context>More clatter of footsteps. Then:</context>
+      <utterance>Where? Where? Just get out! Everywhere! Get out into the street!</utterance>
+   <speaker>A MAN'S VOICE</speaker>
+      <mode></mode>
+      <context>Footsteps descending stairs, more shouts, and:</context>
+      <utterance>Get out now! The Germans have surrounded the building! They're going to blow us to pieces.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="2">
+   <speaker>GERMAN VOICE</speaker>
+      <mode></mode>
+      <context>He looks round, sees that the roof has been shattered, leaving a large, jagged gap. He climbs through the gap, on to the roof at the back of the building.</context>
+      <utterance>Fourth floor, Fischke!</utterance>
+   <speaker>GERMAN VOICE</speaker>
+      <mode></mode>
+      <context>The soldier turns and hurries out.</context>
+      <utterance>At the double, Fischke!</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="8">
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>Szpilman just stares at him.</context>
+      <utterance>Who the hell are you?</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>No response.</context>
+      <utterance>Who are you?</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell are you doing?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was... I was trying to open this tin.</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>No response.</context>
+      <utterance>Where do you live?</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's your work?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am... I was a pianist.</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>He studies Szpilman for a moment, then with a nod orders him to follow. Szpilman picks up the tin and follows.</context>
+      <utterance>A pianist.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="8">
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>Szpilman hesitates, then limps to the piano, puts down the tin, and opens the lid. He turns and drags one of the chairs over and sits. The German Captain stands and watches. Szpilman glances surreptitiously at his hands, and then he plays Chopin. The German Captain listens, expressionless. The pale moonlight shows him to be a handsome, elegant man. Szpilman finishes playing. Silence. Somewhere, a cat mews. Distant burst of rifle fire. The German Captain stares at Szpilman. After a moment:</context>
+      <utterance>Play.</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>Szpilman nods.</context>
+      <utterance>Are you hiding here?</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>Long pause. Szpilman just stares at him.</context>
+      <utterance>Jew?</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you hiding?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the attic.</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>Szpilman hesitates, takes the tin and then shuffles past the German Captain towards the door.</context>
+      <utterance>Show me.</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>Szpilman shows him the tin.</context>
+      <utterance>Have you anything to eat?</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>He goes quickly, leaving Szpilman in darkness. Szpilman, overcome by relief, can barely catch his breath.</context>
+      <utterance>I'll bring you something.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="4">
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>After a moment, the trapdoor shifts and Szpilman looks down. The German Captain takes a package from his shoulder bag and throws it up into the loft. He turns to go.</context>
+      <utterance>Open up.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>The German Captain stops.</context>
+      <utterance>Please.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's all that gunfire?</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>Szpilman opens the package, finds bread and marmalade. Then he finds a tin-opener.</context>
+      <utterance>The Russians. On the other side of the river.  All you have to do is hang on for a few more weeks. He goes quickly.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="13">
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>Szpilman descends.</context>
+      <utterance>Come down.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's happening?</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>Szpilman faces the German Captain.</context>
+      <utterance>We're getting out.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are the Russians here?</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>He hands Szpilman the package. Szpilman opens it to find inside several loaves of bread.</context>
+      <utterance>Not yet.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know how to thank you.</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context>Silence. Szpilman shivers with cold. The German Captain takes off his coat and gives it to him.</context>
+      <utterance>Don't thank me. Thank God. It's His will that we should survive. Well. That's what we have to believe.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about you?</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got another one. Warmer.  What will you do when it's all over?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll play the piano again. On Polish radio.</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tell me your name. I'll listen out for you.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Szpilman.</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Szpilman.  Good name for a pianist.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="2">
+   <speaker>LOUDSPEAKER VOICE</speaker>
+      <mode></mode>
+      <context>His excitement grows and he walks out into the street. He sees at one end soldiers serving soup from afield kitchen to a group of people. On the opposite side of the street, he sees a man and a woman who have left the field kitchen. The man carries a two-tiered canister. Szpilman rushes towards them, grabs hold of the man and tries to kiss him. The man, totally bewildered, tries to fight him off. The woman is terrified.</context>
+      <utterance>...German army! Polish soil liberated! Official!</utterance>
+   <speaker>THE WOMAN</speaker>
+      <mode></mode>
+      <context>She runs, yelling, towards the field kitchen. So does the man. Szpilman stands and stares, then sees one of the soldiers cock his rifle and fire at him. Szpilman runs, the firing continuing.</context>
+      <utterance>German! German!</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="19">
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>More shots and another grenade explosion.</context>
+      <utterance>Stop, for God's sake, I beg you, I'm Polish!</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>The Polish soldiers: Two of the officers stand near the entrance, hearing Szpilman's shouts.</context>
+      <utterance>Don't shoot! I'm Polish!</utterance>
+   <speaker>1ST POLISH OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's Polish!</utterance>
+   <speaker>2ND POLISH OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come out with your hands up.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't shoot! I'm Polish! Please, please! I'm Polish!</utterance>
+   <speaker>1ST POLISH OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, he's Polish!</utterance>
+   <speaker>2ND POLISH OFFICER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why the fucking coat?</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context>The Polish officers confer briefly in whispers. Then:</context>
+      <utterance>I'm cold.</utterance>
+   <speaker>2ND POLISH OFFICER</speaker>
+      <mode></mode>
+      <context>And they march him off.</context>
+      <utterance>Take him to headquarters.</utterance>
+   <speaker>1ST MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look at them - bastards!</utterance>
+   <speaker>2ND MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>German fuckers!</utterance>
+   <speaker>3RD MAN</speaker>
+      <mode></mode>
+      <context>The fourth man, ZYGMUNT LEDNICKI, approaches the barbed wire.</context>
+      <utterance>I prayed for this, never thought I'd see it.</utterance>
+   <speaker>LEDNICKI</speaker>
+      <mode></mode>
+      <context>He stands glowering at them, then sees a POW rise from a group, wretched, shabby, unshaven. It's the German Captain, uniform tattered, a wreck. He comes to the barbed wire.</context>
+      <utterance>Murderers! Assassins! Look at you now! You took everything I had! Me, a musician!  You took my violin! You took my soul!</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you happen to know another musician, a Mr Szpilman? A pianist! Polish radio?</utterance>
+   <speaker>LEDNICKI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, of course, I know Szpilman.</utterance>
+   <speaker>THE GERMAN CAPTAIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I helped Mr Szpilman when he was in hiding. Tell him I'm here. Ask him to help me... A RUSSIAN GUARD, inside the compound, approaches, grabs hold of the German Captain.</utterance>
+   <speaker>RUSSIAN GUARD</speaker>
+      <mode></mode>
+      <context>He drags the German Captain away from the wire.</context>
+      <utterance>Hey! No talking to the prisoners. Get away from there!</utterance>
+   <speaker>LEDNICKI</speaker>
+      <mode></mode>
+      <context>The German Captain is being bundled away by the guard, who aims a kick at him. The German Captain shouts out his name but it's unintelligible.</context>
+      <utterance>What's your name?</utterance>
+   <speaker>LEDNICKI</speaker>
+      <mode></mode>
+      <context>The German Captain and the guard have disappeared. Lednicki stands for a moment, then turns and goes.</context>
+      <utterance>What?</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="5">
+   <speaker>LEDNICKI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was here, I'm certain of it.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not here now.</utterance>
+   <speaker>LEDNICKI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I shouted abuse at them, I'm not proud of it, but that's what I did, and, I'm certain, I stood where you are now. There was barbed wire, and this German came up to me.</utterance>
+   <speaker>SZPILMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't catch his name.</utterance>
+   <speaker>LEDNICKI</speaker>
+      <mode></mode>
+      <context>Szpilman stands, looking around the empty field. He is filled with sadness. He sits. He closes his eyes and put his face to the sun.</context>
+      <utterance>No. I'll ask at the factory. They may know something. Lednicki goes.</utterance>
+</dialogue>
+
+
+</movie>

@@ -1,0 +1,4211 @@
+<movie id="368" title="Malibu s Most Wanted">
+
+<dialogue id="1" n_utterances="7">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>The crowd cheers and waves "Gluckman For Governor" signs.</context>
+      <utterance>... And so if you elect me governor, I promise to take care of California the same way I take care of my own family; with compassion, caring, kindness, and most of all, with an interest in everyone. My friends...  'California is my family!'</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Bess smiles and waves.</context>
+      <utterance>Speaking of family, I'd like to introduce my wife Bess...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Brenda smiles and waves like a campaign-trail veteran.</context>
+      <utterance>... and my daughter, little Brenda.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>The press begins shouting questions. Bill picks...</context>
+      <utterance>Any questions?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Deb?</utterance>
+   <speaker>REPORTER #1</speaker>
+      <mode></mode>
+      <context>Bill is instantly flustered and TOM GIBBONS, Bill's campaign manager (African-American, but the soul of William F. Buckley) steps in front of Bill.</context>
+      <utterance>Where's your son?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>Just then the ground shakes with a frightening RUMBLE. Everyone quiets down -- is it an earthquake? As the RUMBLE HITS again, the surface of the water in the koi pond ripples, a la Jurassic Park. Reporters look around anxiously as another RUMBLE HITS; Bill's face falls as he sees...</context>
+      <utterance>Thank you for all your questions, but we've run out of...</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="5">
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context>He lays down a beat "human beat box"-style as MONSTER (a.k.a. MIRIAM SHAIDELBAUM) climbs out. She's big, wearing short shorts, a tight leather halter, huge hoop earrings and oversized designer sunglasses.</context>
+      <utterance>Yo yo yoooo! Listen up, y'all!</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context>Next out is HADJI (a.k.a. YUSEF AMIRASLANI), a skinny Persian kid with cornrows.</context>
+      <utterance>Y'all better chill...</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context>The driver's door swings open, and a gleaming white pair of four hundred dollar, untied Nike sneaks as they step to the pavement; we CRANE UP, PAST Nike sweats, to BRAD GLUCKMAN, wearing a do rag under his Nike baseball cap.</context>
+      <utterance>... 'cuz B-Rad G about to get ill!!!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Four fine white girls in bikini tops, vinyl shorts and Timberlands come out and dance behind Brad, shaking everything they've got. Reporters move in like vultures.</context>
+      <utterance>Yo! What's up all you media people?! This is B-Rad G, kickin' it real from the 'bu, represizzin'!!!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Y'all gathered here on this special occasion. Listen to my pops, he's your West Coast liaison' So show up, don't make me throw up.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="2">
+   <speaker>BRAD</speaker>
+      <mode>CONT'D</mode>
+      <context>Tom again steps in and blocks Brad from view.</context>
+      <utterance>Take out your purse and cough some dough up. My chickens get wit you, if you vote right. And don't worry y'all, cuz my girls is tight. Immigration, education, runaway inflation. California ain't flowin' like old constipation. Vote Bill G on your election ballot. If you don't I'm gonna hit you wit a mallot! Get Glucked y'all!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>Reporters shout questions as Tom herds Bill up the steps. Two staff members hustle Brad into the house.</context>
+      <utterance>That's it for today, guys, very busy schedule, thank you!!</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="5">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the damage?</utterance>
+   <speaker>JEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're down nine points in the polls.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In fifteen minutes?</utterance>
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And dropping.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a disaster.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="12">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the spin?</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I called the Times and the Chronicle, they're gonna play the whole thing off as a joke.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank God.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How the hell did this happen?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have no idea. I thought he was out of town.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jen, I gave you specific orders to get some handlers and keep Brad locked down until after the announcement.</utterance>
+   <speaker>JEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did! They flew to the ranch in Maui last night!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maui?! Wasn't he at the villa in South Hampton?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought he was at the chalet in Aspen.</utterance>
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope... It was the compound in Bermuda.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh for God's sake! Can't we -- Brad enters and Tom shuts up.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, Pops, that was off the hizzook! I just got you another million votes right dare!</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="6">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you doing here, son?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad holds out his fist and Bill reluctantly hits it. On his way out, Brad chest-bumps Tom.</context>
+      <utterance>I knew I had to show up in order for you to blow up. So I had Captain Tony fire up the Lear jizzy and booya! I'm in da hizzy, gonna be on the campaign trizzy, 24/seven, you know, kissin' babies and whatnot. Pound it!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bill, you've got to shut this down, now. Tell Brad he can't work with you, period.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no. I love his enthusiasm... It's just a little misguided. There must be something he can do for the campaign, where he can't hurt us.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Such as...?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know... phones, stuffing envelopes, making signs, something.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="3">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bill Gluckman's down with the bitches and ho's'?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was supposed to read, 'Women are first with Gluckman.'</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's old school. Pops, you got to keep your pimp hand strong.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="4">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's it, Bill. If Brad doesn't straighten up, your political career is finished.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Tom. I promise you, I will not lose this election over my son.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you going to do?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Set up an appointment with my shrink.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="7">
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So... Bradley...</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why you keep callin' me dat?</utterance>
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well that's your name, isn't it?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's my slave name, a'ight? I told you like fi'ty times.</utterance>
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, okay... B-Rad...</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wassup?</utterance>
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context>He picks up three CD's, keeping the backs to Brad.</context>
+      <utterance>Let's play an association game.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="10">
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context>He turns the first one around. It's an NWA CD. Next is a Snoop CD, then a Naz CD, and last is Brad's high school yearbook photo.</context>
+      <utterance>Alright, B-Rad. I want you to look at these...</utterance>
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now, which one doesn't belong?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shoot. N.W.A., fool. They broke up a long time ago.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dammit, Brad, stop acting like a gang member. You're from Malibu, you live in a nice home...</utterance>
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With nice maids!</utterance>
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context>Bill sits back, frustrated.</context>
+      <utterance>Bill, Bess, go to your happy places.</utterance>
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are your goals, B-Rad? What do you want out of life?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>To be the biggest rapper dere ever was! See, I got something to say, and I need the world to hear it. I'm the shiznit. I'll buy y'all cars!</utterance>
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see. And when did you first start feeling like you were this... shiznit?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, damn... way back in the day. I've had these beats in my head since I was a little shortie...</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="3">
+   <speaker>GLADYS</speaker>
+      <mode></mode>
+      <context>Brad takes the headphones and pulls them over his ears.</context>
+      <utterance>Gluckman residence.</utterance>
+   <speaker>GLADYS</speaker>
+      <mode></mode>
+      <context>His eyes go wide as the hip-hop gold enters his head for the first time...</context>
+      <utterance>No, Bill and Bess are out of the country until December.</utterance>
+   <speaker>BRAD</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>From then on it was hip-hop 24/seven.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="5">
+   <speaker>BESS</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Finish those vegetables, Bradley.</utterance>
+   <speaker>BILL</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>You can't be excused until you do.</utterance>
+   <speaker>SEVEN-YEAR-OLD-BRAD</speaker>
+      <mode></mode>
+      <context>REVEAL: on the table across from Brad is a video conference system. Both parents are on separate monitors -- Bess's has a sign that reads, "Paris," and Bill's reads, "Tokyo." There is a place setting in front of each monitor, as if they're dining with him.</context>
+      <utterance>Tch. Forget y'all.</utterance>
+   <speaker>BILL</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>That's it, mister.</utterance>
+   <speaker>BESS</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>When we get home... sometime in the near future... you're going to be in big trouble!!</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="4">
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What I'm sensing, Brad, is that your parents weren't really there for you.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope.</utterance>
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's ridiculous!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about your bar mitzvah?</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="3">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>UNCLE LOUIE, fifty and fat, with prayer shawl and yarmulke, moves past them and calls out to Brad:</context>
+      <utterance>Mazel tov, Bradley!</utterance>
+   <speaker>UNCLE LOUIE</speaker>
+      <mode>O.S.</mode>
+      <context>REVEAL: THIRTEEN-YEAR-OLD BRAD dressed like Flava Flav, a big clock around his neck, looking like he's just smelled a fart.</context>
+      <utterance>What's the theme of your party, kid? Star Wars? Baseball? Superheroes?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad exits through French doors, and as we FOLLOW him</context>
+      <utterance>It's O.P.P., bitch!</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="8">
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bess, I'm sensing you'd like to share.</utterance>
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context>it's just that, well --</context>
+      <utterance>B-Rad, you're a wonderful son...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh stop beating around the bush, Bess. What we're trying to say is, Brad, that your behavior is, well, it's an embarrassment to the family.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, Pops, that hurts my feelings.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, but it's the truth.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be hatin'.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And, Brad... I can't have you on the campaign any longer.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?! Oh that's how it is? A'ight then. I'm Audi! I need to take a drive.</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="5">
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What can we do, doctor?</utterance>
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, his lack of parental guidance left Brad wide open to outside influence, allowing hip- hop culture to firmly imprint on his psyche.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you think we can bring him back?</utterance>
+   <speaker>DR. FELDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. This is the most advanced case of gangsta-phrenia I've ever seen.</utterance>
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh no, not gangsta-phrenia!</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="3">
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context>Brad lifts his sunglasses and turns to his mother.</context>
+      <utterance>Bradley, I know you're busy, but we need to talk.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's up?</utterance>
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>After our therapy session I realized that your father and I could have been better parents. We neglected you and I feel terrible.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="4">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For real?</utterance>
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context>Just then, her CELL PHONE RINGS. She pulls it out from her hip and answers.</context>
+      <utterance>Yes. So from here on out I'm going to be a better mother. I want to get closer to you... be there for you. If ever you need --</utterance>
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context>She stands.</context>
+      <utterance>Hello? Celeste! When did you get back?! What?! Oh my God! I've been waiting for that bag for six months!  It's my personal shopper.  Stay right there. I'm on my way!</utterance>
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context>She hands Brad a piece of paper and exits. Brad pulls down his shades and takes a long sip from his forty.</context>
+      <utterance>So... where we... Oh yes. I'm always here for you, Bradley. Do you have my cell number?</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="3">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gladys?</utterance>
+   <speaker>GLADYS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ever feel like you don't belong?</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="5">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you do about it?</utterance>
+   <speaker>GLADYS</speaker>
+      <mode></mode>
+      <context>Be proud of who you are.</context>
+      <utterance>Nothin' to do but keep it real.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, you right... Gladys, when they gonna leave our people alone?</utterance>
+   <speaker>GLADYS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, baby, I just don't know...  Eat your greens before they get cold, boy. A PAGER GOES OFF. Brad searches his pockets, pulls out a pager -- that's not it; pulls out another pager -- that's not it either; pulls out a two-way -- that's the one.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>He gets up and runs out of the room.</context>
+      <utterance>Oh no, not again!</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="4">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How'd it go with Feldman?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great news. If he sees Brad five days a week, he says we'll see improvement in three to four years.</utterance>
+   <speaker>JEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But... the election's in two months.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right, good point.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="13">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've been brainstorming on some different approaches, and I think we may have something solid here.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm all ears.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>The team gathers around -- it's a gang pitch.</context>
+      <utterance>Guys?</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Brad might act 'ghetto,' but let's face it, he's never been east of Beverly Hills.</utterance>
+   <speaker>JEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But what if we give him a little dose of reality?</utterance>
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let him get a firsthand look at the ghetto.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean, have Brad actually... go there?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Exactly.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds dangerous...</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It'll be perfectly safe.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How does it work?</utterance>
+   <speaker>JEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We hire actors to play gangsters.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They car-jack Brad, then take him on a 'tour' of the 'hood... give him a little taste of what thug life's really like. It might just scare the black out of him.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="7">
+   <speaker>AFRICAN-AMERICAN AIDE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>The team all nods.</context>
+      <utterance>Look, I'm as down as the next brother, guy... fellah. I grew up in Compton, okay? But let's get over the P.C. thing and face facts. Unless we do something soon, Brad's gonna cost us this election.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know... it sounds so drastic.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>They all chuckle. Bill sighs.</context>
+      <utterance>Maybe drastic is what Brad needs, Bill. He is twenty-four. I mean, what's he gonna do for a living, rap?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who do we get for the gangsters?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Remember the anti-crime spot we shot last month?</utterance>
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context>On the monitor: A Gluckman campaign ad plays.</context>
+      <utterance>We've got it cued up. They turn to the TV and Gary hits PLAY.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="6">
+   <speaker>NARRATOR</speaker>
+      <mode>V.O.</mode>
+      <context>We cut wide: to reveal Bill Gluckman standing in between the two gangbangers. He's in shirtsleeves, tie loosened.</context>
+      <utterance>Bill Gluckman wants to put our divisions behind us.</utterance>
+   <speaker>BILL</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Fellas, instead of thinking of yourselves as what set you're from, or what crew you're rolling with, why can't you both be brothers. What do you say?</utterance>
+   <speaker>SEAN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I guess we never thought of each other like that.</utterance>
+   <speaker>PJ</speaker>
+      <mode>V.O.</mode>
+      <context>PJ and Sean think is over, nod and shake hands.</context>
+      <utterance>Me neither, dawg.</utterance>
+   <speaker>BILL</speaker>
+      <mode>V.O.</mode>
+      <context>Cut to angle on Bill and the gangbangers playing basketball, having a wonderful time.</context>
+      <utterance>You see...  'California is my family'...</utterance>
+   <speaker>BILL</speaker>
+      <mode>V.O.</mode>
+      <context>Bill flies by, obviously from an O.S. trampoline, and soars over the gangbangers for a monster dunk. Freeze on: the two awestruck "gangbangers."</context>
+      <utterance>If we work together as a family there's no telling how high we can go.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="2">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Those are our guys, right there.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will he be safe?</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="3">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Absolutely.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>He looks out the window and sees Brad's new banner. It reads, in graffiti colors: "ELECTION ERECTION."</context>
+      <utterance>I don't know... can't we just...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Alright, fine, just do it.</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="9">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lemme go.</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't want to see him like dis.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happened?</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He O.D.'d again.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why didn't you stop him?</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I tried, yo!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many did he do?</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like twelve, thirteen, I don't know!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn. Twelve Frapachizzo's. Brotha's caffeined out. Move aside.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="4">
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'ma get mine! Step, fool! I'll cut you, I swear!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just chill, Hadji, we're here to help. What's up?</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context>Brad turns to Hadji.</context>
+      <utterance>I... I... I was pickin' up aromatherapy candles at Illuminations for Moms, right? And the counter trick gave me lemon when I specifically axed for lilac!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>MUSIC: PUBLIC ENEMY'S "Fight The Power" KICKS IN as we --</context>
+      <utterance>It's on now!</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="8">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, fool! We got some hard-core drama 'bout to go down right neow!!</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dat's right!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dis is our mall. Always was and always will be!</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Woof woof!</utterance>
+   <speaker>OLD WOMAN</speaker>
+      <mode></mode>
+      <context>She hands Hadji a box marked "Lilac."</context>
+      <utterance>Oh, Mr. Amiraslani. I'm so glad you came back. Our clerk accidentally gave you the wrong aromatherapy candles. Here you go.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You better be validatin' my parking?</utterance>
+   <speaker>OLD WOMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course, sir.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dat's what I'm talkin' 'bout. We get ours!</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="2">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold the phone, buddy... you want us to scare this kid until he starts acting like a nice little white boy again?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't think you can handle it?</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="3">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course I can handle it. I studied at Juilliard for God's sake.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>Tom hands them a manila envelope.</context>
+      <utterance>Fantastic.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>PJ pulls Brad's CD from the envelope.</context>
+      <utterance>Here's some background information on Brad.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="5">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He considers himself a 'rapper.'</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>They all laugh. Tom hands them a checklist/itinerary.</context>
+      <utterance>Frickin' A.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, so here's the story -- it's your basic kidnapping...</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So we hold him for ransom?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right. But when you see him acting ghetto and all, it pisses you off so much, you tour him around the 'hood to show him what things are really like.  I had my guys brainstorm a few ideas...</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="12">
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'Mugging, drive-by shooting, crack deal gone bad...'</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why don't you have him steal some watermelon while you're at it?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Pays fifteen grand apiece.</utterance>
+   <speaker>SEAN AND PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're in.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait -- we're kidnapping him, couldn't we get arrested?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got you covered. Mr. Gluckman's a billionaire -- if you run into any problems with the law, we're very close with the commissioner. On the flip side, if you screw up and a single hair is touched on Bradley's over-privileged head, I will make sure that you do serious time. Clear?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cris... tal.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>Pulls out a smaller envelope.</context>
+      <utterance>What about the money?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Five up front, twenty-five when you return him to us, white.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... As the driven snow.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="9">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>Tom gets in the limo and leaves as Sean and PJ head for their car.</context>
+      <utterance>I'll call you.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Congrats, my brother. We just booked another gig.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, but it's totally dangerous, dude. You know what it's like in the 'hood. We could get shot!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We can handle ourselves. Come on, man, it's the ultimate acting challenge.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know what really chaps my ass? After years of training and study, the only parts they'll give us are gangbangers. Just once I'd like to play a character who has decent grammar and doesn't wear Timberlands.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Beats gettin' dunked on by Bill Gluckman.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>They think, then come up with it at the same time.</context>
+      <utterance>Do we even know anybody down there?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My cousin.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shondra.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="11">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honest to God.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the stupidest thing I ever heard. I got better things to do with my time, boy.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like work at Wienie In A Bun?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really. You're the one always talkin' about improvin' yourself.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am improvin' myself, fool. I broke up with no-good gang-bangin' Tec, I'm going to beauty school, then I'ma hook up my own salon...</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the meantime, how about hooking a brother up with a Pepsi and some fries?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up, stupid.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do this, Shondra. You'll get some real money so you can quit this minimum wage crap and start up your business.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What you payin'?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A grand.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Make it trey, we on.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="3">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus Christ, three grand?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or you can kiss my ass.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>MUSIC: An UPTEMPO RAP TRACK KICKS IN as we...</context>
+      <utterance>Deal. Now how about those fries?</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="8">
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>He sets the box down and begins pulling out guns.</context>
+      <utterance>We're strapped now, my brother.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They have everything we ordered?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>PJ takes off the cap to wipe his brow, revealing that his hair has been braided into cornrows.</context>
+      <utterance>Glocks, Uzis, Tec-9s...</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell is that?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, my hair? Shondra just did it.  What? You hate it?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I just think it's a choice my character would have made.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't go there, Sean. You're just jealous you didn't think of it first.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatever.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="3">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's so funny?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>He doubles over, falling on the floor.</context>
+      <utterance>That wig, man! I didn't know this was Halloween. Bring me back some candy!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>Sean yanks the wig off and whips it into the corner.</context>
+      <utterance>Whatever.</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="2">
+   <speaker>CLOSE ON SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His face filled with rage.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gimme your ride, punk, or I will dust yo ass!</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="3">
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope, you're not convincing me. Remember your core character. You're an oppressed black man from the ghetto.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I know, I'm having trouble finding this one. Lemme try it again. Gimme your ride, punk, or I will dust yo ass!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>MUSIC: the MUSIC SEGUES from our MONTAGE RAP BEAT TO Mocha's HUMAN BEAT BOX, as we...</context>
+      <utterance>Add a 'beeyotch' and I think you're there.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="2">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>They pound and congratulate Brad on his brilliance. Shondra drops her shades back down and moves in. Hadji sees her first. His jaw drops, then he tugs on Mocha's shirt, whose jaw drops, then Mocha tugs on Brad's shirt.</context>
+      <utterance>I'm thin to win!  'The name is B-Rad, Not Robbie Van Winkle... Go get my latte nonfat, And don't forget the sprinkle!'</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, what up, fool? I'm --</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="3">
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me get them tig ol' bitties.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>She throws open her shirt, and before we see anything we...</context>
+      <utterance>Word up.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="7">
+   <speaker>REVERSE ANGLE - BRAD</speaker>
+      <mode></mode>
+      <context>BACK TO REAL TIME: Brad snaps to as Shondra brushes by and then moves to the counter.</context>
+      <utterance>His eyes go wide, then we're...</utterance>
+   <speaker>BARISTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I help you?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Coffee.</utterance>
+   <speaker>BARISTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tall, Grande, Venti, nonfat, soy --</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Big...  ...black.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, Krista the Barista. Put it on my account.  Get yourself a blueberry scizonne too, girl.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>She smiles. Brad follows her over to the condiment table.</context>
+      <utterance>Cool, playa.</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="12">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Where you reside?</context>
+      <utterance>I ain't seen you in here before.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Compton. You?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The streets.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Which streets?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Bard throws the "M" sign.</context>
+      <utterance>Malibu... Represent.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right. I guess it's pretty hardcore up in here.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad points to three white wannabes in another corner.</context>
+      <utterance>Hell yeah.  I'm down with the P.C.H. Hustlers. And dems over dere...</utterance>
+   <speaker>BRAD</speaker>
+      <mode>O.S.</mode>
+      <context>We PAN TO another table, where four thug posers sit.</context>
+      <utterance>The Calabasis Crabs... and behind dem...</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... the Palaside Pimps.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn. How do you deal?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>She smiles seductively.</context>
+      <utterance>All day every day.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Was that you droppin' rhymes when I came in?</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="12">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad hands her his CD.</context>
+      <utterance>Hell yeah, I'm a rhyma on tima...</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>You gettin' any air play?</context>
+      <utterance>Mali-boo-tay, huh? Looks phat.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm holdin' out for Power 106. I sent Big Boy a CD, he just ain't gotten back to me yet.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>I'll talk to him 'bout it.</context>
+      <utterance>Sounds just like that fat fool.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold dup? You know Big Boy?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell yeah. I see him at the swap meet almost every Sunday.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For rizzill?!</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For rizzeal.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo. Holler at him for me.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know. I guess you do kinda got it goin' on... It's funny. I was just on my way down to see him. Wanna roll with me?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now?  Well, tonight was my Seder dinner...</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just helping out a brotha.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="9">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's bounce.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>She heads off. Brad turns to his posse.</context>
+      <utterance>I'm just gonna hit the ladies' room, a'ight, pimp juice?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, y'all, this fine dimey is hookin' me up with Big Boy hisself.</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>They pound, shake, hug.</context>
+      <utterance>I ain't lyin'!</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, but what about us?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Start droppin' beats. Soon as I sign with Biggy, we gonna need some sick tracks.</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context>They all pound as Mocha starts throwing beats.</context>
+      <utterance>Bet!</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's on.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="10">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I can rap about anything.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For real?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, lemme kick it freestyle.  'Traffic, traffic, Lookin' for my Chap Stick, Feelin' kinda carsick, There's a Ford Maverick...'  See? Dat's a million-dollar song right dare.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, how did you get to be so down?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I been a playa all my life, girl. And I must say, of all the sisters I been wit', you de finest. So, you got a man?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I did, but I just got through kickin' his sorry ass to the curb. I ain't nobody's 'gangsta hoochie.' I am an entrepreneur.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Word.  What's that?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A businesswoman.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One day I'ma have a chain of beauty salons all up in the 90210, just like Starbucks, only instead of coffee, with hair and nails. Makin' sick money turnin' all the rich hoochies ghetto fab.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="10">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>She's taken aback by his sincerity. She doesn't get much validation from guys.</context>
+      <utterance>That's genius, girl. Damn. You fine and smart too. You gonna blow up huge, no doubt.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>She gives him a strange look, then notices where they are.</context>
+      <utterance>For real, girl. You like a cross between Martha Stewart and Oprah. I'ma call you Mothrah.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>Brad swerves across three lanes of the freeway to take the exit, and suddenly finds himself actually in South Central. He's awestruck -- he notices a homeless guy with a shopping cart loaded with bags of stuff.</context>
+      <utterance>Take this exit.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Suddenly Sean pops his head into the car and stares directly at Brad. He puts a prop Tec 9 in Brad's chest and yanks him out of the car.</context>
+      <utterance>Yo. He really should use delivery.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gimme yo ride, punk, or I will dust yo ass... beeyotch!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're gettin' jacked! Move!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shondra?!</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up, fool!</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="12">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dis a come-up?!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. It's a stickup.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think I'm gonna throw up.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I'm about to wet you up if you don't move!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does this mean we're not going to Big Boy's?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Big Boy's? What this fool talkin' about?!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>They throw Brad in the car and get in.</context>
+      <utterance>You jus' been kidnapped.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kidnapped?!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. We got your rich Gluckman ass now!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How you know me?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We saw you on the news the other night!  B-Rad!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your papa's gonna pay or you're gonna pay!</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="13">
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A'ight, come on now, let's stop messing around. B told us to lay down some beats for the new album.</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lemme go free style.</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Free style, please! Your momma rap better than you.</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you talk about my momma.</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll talk about your momma all I want.</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ain't got the bizalls, bitch!</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yeah? Peep dis. Your momma's so poor, when she shops at Barneys, she has to drive herself!</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oooh!</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah? Well your momma's so poor, when she went to Monte Carlo, she flew commercial.</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dang!</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your momma's so poor, her round the world cruise ended in Spain!</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bam!</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your momma's so poor, when she stayed at the Four Seasons, she could only afford three.</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="10">
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's get him inside.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dang. Why you doin' this to a brother?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A brother?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh no you didn't.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whose brother?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yours, y'all. I'm down.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Down? God damn!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh-oh. You done did it now.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are not black! You can never be black. And your perpetratin' ass is stealin' the only thing I got -- my culture!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell makes you think you know what's goin' down in the 'hood?!</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="8">
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think this is a joke, wigga?!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. Don't be hatin'.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>Two LITTLE GIRLS are walking by.</context>
+      <utterance>You a long way from the beach now, punk! You in South Central. The ghetto. The 'hood. It's hard core up in here! People here die every day!</utterance>
+   <speaker>LITTLE GIRL #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Shondra! Can you come on by later? Princess just had her litter of puppies.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay then.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're pit bulls.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mean pit bulls.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now get ya ass inside.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="4">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad pulls out another pager, a phone, another phone. Sean and PJ both pull several more out of his other pockets, as well as his wallet.</context>
+      <utterance>Uh... just this...</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>Brad does, and PJ duct-tapes his hands behind his back.</context>
+      <utterance>All that James Bond electronic crap can't save you now, fool. Sit ya ass down.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We gonna go call yo daddy.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>Sean, PJ and Shondra exit, slamming the door behind them.</context>
+      <utterance>You better pray he home. If he not, you're one dusted trick!</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="3">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you buy my rage?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're indicating.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm indicating?</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="11">
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'I will smoke your dumb wigga ass'? Come on.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'If he not, you're one dusted trick!' Please!</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you two fools shut the hell up?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>Shondra rolls her eyes and heads back into the room.</context>
+      <utterance>Sure, Shondra, sorry. You're on. Go play good cop. We've gotta call Tom.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You a'ight in here?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yeah. I just been kidnapped, carjacked, hands tied behind my back, but other than that, it's all good.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, I'm sorry about all that, it wasn't my idea.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you liked me.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I do.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then how come you set me up?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I had to. They...  ... they threatened to kill me if I didn't play along.</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="11">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For real?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yeah. They straight-up killas.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For Real?!</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lemme school you on something, help you to stay alive, a'ight? The one thing they hate more than anything, that really sets them off, is posers.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I feel you, girl, me too.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm talkin' 'bout you!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me? But I hate posers! I got a Ph.D. -- a Poser-Hater Degree.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on. Quit frontin'.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ain't fron'in'.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen to reason. If you just be a nice little white boy and say you're sorry, I think I can convince them to let you go.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn. I am who I say I am. Why won't anyone believe me? This is a issue that's been comin' up a lot in my life lately.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="12">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>PJ refers to the itinerary they got from Tom.</context>
+      <utterance>What's next?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How about... number three?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>He and PJ "get into character" and head in.</context>
+      <utterance>Yeah, perfect. Let's take it to another level, my man.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A'ight, we put the call in to yo pops, and you know what he said?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Huh?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That he'd have to think about it.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? Straight up?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's not sure he wants you back, cuz.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can't see as I blame him.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, y'all, quit hatin'. I'm just a rapper, that's it.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>Sean cuts the duct tape with a blade.</context>
+      <utterance>Wigga please!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="4">
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What you doin', fool?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'ma teach this little white girl a lesson!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, dawg, stick to the plan. Lay low here at the crib 'til we get the ransom.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>Sean yanks Brad out by his collar.</context>
+      <utterance>The plan just done changed, Tree. Wannabe claims he down, I'ma show him just how un-down he is.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="12">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A'ight, Malibu, go get us six 40s of O.E.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And a fifth of Henny.  Anything else?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd like some Pringles.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This ain't a picnic, bitch!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, I'm sorry... y'all got some duckets, 'cause I'm tapped.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>Hell no.</context>
+      <utterance>You about to go up in there and give this Korean bitch yo ends?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You jack that shit.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>He hands Brad one of the prop guns -- a Glock. It's heavier than Brad thought. He drops it.</context>
+      <utterance>And if the Asiatic gives you any static, show the brotha this...</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Little trick claims he down, can't even swing a gat.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But...</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do it, punk, or I'll use that on you.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, a'ight, I'll do it.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="4">
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>He holds up his prop gun.</context>
+      <utterance>You try to get away, I'ma let you get a little taste of my steel, understand?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad sticks the prop gun into his pants and gets out. As soon as he's in the store, Sean and PJ burst into laughter.</context>
+      <utterance>I feel you.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is gonna be classic.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>They laugh again and pound it.</context>
+      <utterance>He's gonna run out of there a scared little white boy.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="4">
+   <speaker>KOREAN GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, uh, where the Old English at?</utterance>
+   <speaker>KOREAN GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Back there, under security camera.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad hurries to the back of the store, and spots a door by the beer cooler. He tries to open it. It's locked. Brad looks up to the security mirror and sees that the Korean Guy is watching him. He moves to the beer cooler and tries to calm down.</context>
+      <utterance>Thank you, sir.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="8">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>It's not working. Brad tries a cleansing breath. It doesn't help either. Brad gathers up an armful of Old English 40s and heads for the front. The Korean Guy watches him as he walks past the counter toward the door.</context>
+      <utterance>Namyoho renge kyo, namyoho renge kyo, namyoho renge kyo and whatnot...</utterance>
+   <speaker>KOREAN GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I help you?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Naaw, but I'ma help myself to all this O.E., and whatever else I want!</utterance>
+   <speaker>KOREAN GUY</speaker>
+      <mode></mode>
+      <context>Brad drops the beer. It CRASHES to the floor in SLOW MOTION. Brad makes a crazy, threatening face as he pulls back a fist, but the Korean Guy throws a fast right hand, landing squarely on Brad's chin. Brad goes down like a sack of hammers; then we FLASHBACK TO: Moments earlier: We realize we've just been in a fantasy, as Brad again approaches the counter with his beer.</context>
+      <utterance>No, stop.</utterance>
+   <speaker>KOREAN GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can I help you?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me axe you something. Ever been robbed?</utterance>
+   <speaker>KOREAN GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh sure. Last week was my fifty- fourth time. But they were cool, no gun to head, never scream; you know, good people.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>He sets the 40s on the counter, then reaches into his waistband for his gun, and we...</context>
+      <utterance>Cool.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="8">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much did you have to give this guy, anyway?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When you set this thing up yesterday, what did you pay?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought you set it up.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean the owner doesn't know this is all fake?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh damn.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get in there! He could get shot!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>They continue to argue as we...</context>
+      <utterance>I'm not going in there! You go in there!</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="2">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>He pulls out a hundred and kisses it.</context>
+      <utterance>My emergency stash. Thank you God.</utterance>
+   <speaker>KOREAN GUY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Glad you got cash, 'cause if you try to jack me, I was gonna have to lay you out wid dis...</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="4">
+   <speaker>KOREAN GUY</speaker>
+      <mode></mode>
+      <context>The Korean Guy's wife has an AK-47 on Brad, the red dot of its laser sight trained steadily in the middle of his forehead.</context>
+      <utterance>... and wid dis.</utterance>
+   <speaker>KOREAN GUY</speaker>
+      <mode></mode>
+      <context>The Korean Guy's six-year-old boy has a sawed-off shotgun pointed at Brad's knees. The gun is bigger than the boy. The Koreans laugh at Brad. Brad drops the hundred on the counter.</context>
+      <utterance>... And wid dat.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Keep the change.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh, I know this is gonna sound wack, but what I'm about to do is just a joke, so don't shoot me, okay?</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="3">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right! Next time I'll bust a cap in yo trick ass!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did he actually do it?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This can't be happening.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="7">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad turns to the guys.</context>
+      <utterance>Yeah. I'ma come back later and get some more.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's dip!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You did it?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Straight up. Trick didn't do nothin'.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>PJ pulls the receipt off of his 40.</context>
+      <utterance>Yo, what up with this?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>Brad freezes. They both stare at him.</context>
+      <utterance>If you jacked this, how come you got a receipt?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I stole that too!</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="6">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... a meet and greet with Greenpeace, then drinks with the offshore oil lobby.</utterance>
+   <speaker>CLOSE ON BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>face through hole.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Terrific. How's the Brad project doing?</utterance>
+   <speaker>TOM</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Smooth... he's in South Central.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And he's okay?</utterance>
+   <speaker>TOM</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>He's in excellent hands.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="6">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've about had it, boy!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who you callin' boy?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got about five seconds to get real, or I'ma Timbo stomp your ass to de curb!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean, get real?!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>He shoves a prop gun into Brad's ribs.</context>
+      <utterance>Act your white self!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Five! Four!</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="6">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad takes a deep sigh, looks them in the eye, and begins to talk like a conservative white guy.</context>
+      <utterance>Okay, a'ight, chill.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Sean and PJ move off to the side.</context>
+      <utterance>I guess I now know I can never be as cool as you guys. I promise I will never, ever front or act like a thug again, and I'm really really sorry if I offended you.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You buying it?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't tell.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Me either.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's give him the test.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="6">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, y'all, but this is just who I am. I'm a rapper straight- up.</utterance>
+   <speaker>SEAN AND PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wigga, please!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, for real. I can rap about anything.  'Bloodbath and Tree, hang all day, They real tight, but they ain't gay... No, they okay...'</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>Well, we'll see about dat.</context>
+      <utterance>You think you got mad skills, huh?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I done had it with you, fool. You better check yourself before you wreck yourself. This ain't Malibu!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Represent.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="5">
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, we gonna see what you represent neeow. We at the club.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cube, Snoop, they all came up through here.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>They shove Brad into the club, then turn to each other and giggle like school girls.</context>
+      <utterance>You want to prove yourself, this the place to do it.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is definitely gonna do it.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>They pound and follow Brad into the club.</context>
+      <utterance>Pay day!</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="3">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How you feelin' now, Malibu?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Finally, a place where I feel at home.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>Brad boldly fist-shakes jaw-dropped patrons as he wades through the crowd, AD LIBBING "Whassup?" and "Pardon me, homey."</context>
+      <utterance>Get yo' ass in there.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="11">
+   <speaker>TEC</speaker>
+      <mode>O.S.</mode>
+      <context>She turns and faces TEC, her ex-boyfriend, a no-nonsense roughneck gangbanger. He's very soft-spoken, almost expressionless.</context>
+      <utterance>Hey, girl. Where you been?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>She yanks her arm away from him.</context>
+      <utterance>None of your damn bizness, Tec. Now let go.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Y'all been busy, huh?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Too busy for you.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You been gettin' busy?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell no.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, girl, I'm cool. Just tell me who it is.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All you need to know is that it ain't you, okay?</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Just then, Brad walks up, grinning like a fool.</context>
+      <utterance>You know, you ain't shit, Shondra. You're just a chickenhead, and that's all you'll ever be.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>He gives her a sloppy kiss on the cheek.</context>
+      <utterance>What up, girl?!</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You a'ight?</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="11">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm fine, but you the finest!  She a genius too, man! I'm tellin' you, one she gets set up, Mothra gonna blow up like Rosie O'Donnell's head!</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>She tries to pull away, but Tec holds on tight.</context>
+      <utterance>Don't tell me you been hittin' that?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn, man. Don't you know how to treat a lady? That's not nice.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Brad, don't --</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Tec releases Shondra's arm and immediately grabs Brad by the throat and hangs him over the balcony.</context>
+      <utterance>It's cool, Shondra. The brutha's right.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Didn't yo mama teach you to mind you own bizness?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be hatin'.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't do it, Tec!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Tec feels everyone looking at him. Now is not the time. He releases Brad and composes himself.</context>
+      <utterance>Auuuuuuuuu!</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Tec stalks off.</context>
+      <utterance>Y'all both gonna be sorry.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You alright?</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="2">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm okay. Who was that?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>Shondra grabs Brad and moves him to the stairs.</context>
+      <utterance>Old history. Come on.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="7">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>Sean bumps the DJ table. A vicious look from the DJ, as Sean tries to play it off. The MC just looks at him disdainfully.</context>
+      <utterance>Yo!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>The MC looks them over...</context>
+      <utterance>Uh... My boy want Young Dre next.</utterance>
+   <speaker>MC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell, nah...</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>equal opportunities?</context>
+      <utterance>Maybe a C-Note would open some...</utterance>
+   <speaker>MC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's his name?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>The MC makes a face, but puts down Brad's name anyway.</context>
+      <utterance>B-rad. From Malibu.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>The MC just looks at him...</context>
+      <utterance>Hey playa... You got any Will Smith back there?</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="4">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn Shondra, where's the fire at?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going home.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You settin' me free?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I'm savin' your ass. I'm not havin' your blood on my hands.  It's the blue Honda across the street.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="4">
+   <speaker>MC</speaker>
+      <mode></mode>
+      <context>Looks of confusion, as the Crowd searches for "B-rad."</context>
+      <utterance>A-ight y'all. Up next, to challenge Young Dre, we got... B- rad from Malibu.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>Brad turns to Shondra, looks at the keys, and shakes his head.</context>
+      <utterance>Wait a second. Brad, don't do it.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Shondra can't argue. Brad starts to the stage. A WAVE OF SHOCK, as the crowd realizes who B-rad actually is.</context>
+      <utterance>Shondra, I gots to do 'dis. this is my shot. I gotta prove myself.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>Brad gets his game face on and walks the gauntlet on his way to the stage -- an imposing path of intimidating looks.</context>
+      <utterance>This is gonna be like an episode of 'Oz.'</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="7">
+   <speaker>YOUNG DRE</speaker>
+      <mode></mode>
+      <context>The crowd LAUGHS. Brad cluelessly laughs along with them.</context>
+      <utterance>Nah, nah, nah... I ain't gonna battle no bitch. What am I? Ike Turner?</utterance>
+   <speaker>MC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A-ight, a-ight... We gotta do this. Yo, Saltine... Heads or tails?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Everyone is totally confused.</context>
+      <utterance>Tizzaizzlszzs!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>The MC flips and "tails" it is.</context>
+      <utterance>Tails... I want tails.</utterance>
+   <speaker>MC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You wanna go first?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad LAUGHS, turning to the crowd to appreciate his lame burn... Nothing. Young Dre looks furious. Young Dre grabs the mic and the DJ spins. Young Dre proceeds to incinerate Brad. With every line, the crowd goes insane. (NOTE: Actual Young Dre Rap to Come.) As Young Dre flows, Brad is visibly shaken, but tries to play it off -- not so discreetly scribbling notes on his hand and up his arm. Young Dre finishes with devastating blow, dropping the mic on the stage. The crowd goes wild...</context>
+      <utterance>Nah... Ladies first.</utterance>
+   <speaker>MC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whooo... GOD DAMN! Now, let's see if this Eminem melts in yo ass and in your hand.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="5">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>TAUNTS and LAUGHS as the beat plays again. Brad wags his head, ready to come in strong. He looks down at his notes... He's sweating so badly his arm is a mess of runny ink. He freezes again... The crowd is really on him now -- collectively making the "choke" sign.</context>
+      <utterance>Can we start again? I lost my place.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad finally starts up.</context>
+      <utterance>I'm cool... I'm cool.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Complete silence.</context>
+      <utterance>'You big and rough, You act all tough, I bet in your childhood You never had much love.  Alert the media, I'm a rap encyclopedia, My shrink says I suffer from a case of gansta-phrenia, I'm tryin' to be meania, I'm feeling much vigor, I'm the "Bu's" number one, hardcore NIGGAA!!!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>Brad looks around as blank faces stare back at him.</context>
+      <utterance>Let's get the hell out of here.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>The crowd erupts with outrage and rushes the stage.</context>
+      <utterance>I'm sorry...</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="5">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>A RUMBLE comes from the dumpster and they pull back the lid. ANGLE ON: Inside the dumpster where Brad lies in the bottom -- his fall was broken by several loaves of old Wonder Bread. PJ and Sean fall into hysterics, as Shondra emerges from the club. She finds PJ and Sean apoplectic with laughter, shakes her head and begins to help Brad out of the dumpster.</context>
+      <utterance>What was that?</utterance>
+   <speaker>SNUFFY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You gettin' played, ese.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>SNUFFY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Loco boy hittin' your lady, homes, and she's diggin' it.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, Snuffy, that's right.</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="4">
+   <speaker>8-BALL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not here, Tec.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A'ight, y'all, let's roll.</utterance>
+   <speaker>DEUCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatchoo wanna do?</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>As they move toward the exit we...</context>
+      <utterance>Bag me a white boy.</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="4">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey y'all, check this out. I can rap about anything! Haaa!!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Word.  'Listen, all you rappers, the name's Brad Gluckman. When on the mic you could say I really suck man!' They burst out laughing. Brad just stares ahead, pouting, sick to his stomach.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A'ight, y'all had your fun, why don't you chill...</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>They burst out laughing again as they head for the car.</context>
+      <utterance>'Cuz B-Rad G about to get ill!!!</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="6">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn. I haven't laughed like that in a long time. 'Fess up, boy, you can't hang.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just want to go home.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>He ain't payin'.</context>
+      <utterance>Uhn uhn, ain't happening. By the way, forgot to tell you. We heard from your pops, and guess what?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He thinks y'all belong down here in the 'hood with us brothas, seein' how you so 'down' and all.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, I guess that means we got to ice your punk ass.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad gets in the car. Sean and PJ look at each other -- this isn't what they expected.</context>
+      <utterance>I don't care no more. I got nothin' to live for. Go ahead and smoke me.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="3">
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Psst. Hey, dawg.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Huh?</utterance>
+   <speaker>VOICE</speaker>
+      <mode>O.S.</mode>
+      <context>Brad looks over the edge of the bed. A small gray RAT looks up at him.</context>
+      <utterance>Down here, dawg.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="13">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stuart Little?</utterance>
+   <speaker>RAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Negro, pleeeze. That little white rat ain't got nothin' on me -- yo, I'm Ronny rizat, represizzat.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I ain't never seen no talking rat before. Although at the Malibu County Fair they had a chicken that played tic tac toe. Man, I hated losing to that chicken.</utterance>
+   <speaker>RAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why you so down, dog?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a failure.</utterance>
+   <speaker>RAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nah, nah it's not like that. You need to stop listening to what all them perpetrators is running and believe in yourself.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For real?</utterance>
+   <speaker>RAT</speaker>
+      <mode></mode>
+      <context>They punch it in.</context>
+      <utterance>For riz-real. Pound it.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you saying if I put my mind to it I can be whatever I want to be?</utterance>
+   <speaker>RAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn straight.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I could be a highstylin' pimp?</utterance>
+   <speaker>RAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They stylin-est.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I could drive a mad '63 El Camino with 43-inch gold-plated dubs and a trunk full o' bitches?</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="3">
+   <speaker>RAT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could have a roof rack full of bitches. And some teeny-tiny little bitches in the glove compartment.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And I could be the biggest rapper in the world.</utterance>
+   <speaker>RAT</speaker>
+      <mode></mode>
+      <context>The Rat runs off. Brad sighs, flops back down on the bed, utterly depressed.</context>
+      <utterance>Rapper? Hell no! You stink! I'd rather eat garbage than listen to your tired ass rhymes.  Hmmm, garbage. That's making me hungry. Peace out.</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="2">
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>Brad sniffles.</context>
+      <utterance>Hey... You okay?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, it's not as bad as it seems.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="11">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>My rhymes is weak.</context>
+      <utterance>It's worse. Everybody's right.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You just need a little experience.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I should've run when you gave me the chance.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Naw. You were right. I respected you for getting' up there.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you heard 'em laughing. I ain't nothin' but a busta.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They just don't understand you. None of them know how hardcore it is up in... Malibu.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah with the... traffic, and the... parking, and...</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like, when the public be all up in your private beach?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>Brad smiles, looks at her.</context>
+      <utterance>Right. You just got to stick with it, you know, don't let anyone tell you who you are.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Shondra.  You know what I was sayin', earlier, in the car, about being a playa and all? Well... I was just foolin'. I never been with a sister before.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="10">
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For real?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Except for on the internet.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I never would've known.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think you about the finest girl I ever met in my whole life, and, well, since they gonna ice me in the morning, I was wondering... could I, kinda like, kiss you? She thinks, smiles, then sits down next to him on the bed. Brad sits up and looks at her face in the moonlight.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're so pretty.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>Brad leans in and kisses her tenderly. She kisses him back. Encouraged, Brad opens his mouth wide and tries to stick his tongue down her throat. She pushes him back.</context>
+      <utterance>Thank you.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>She gets up and heads for the door.</context>
+      <utterance>I said kiss, fool. Damn.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I offered you a snack, not the whole kitchen.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>She rolls her eyes and leaves. Brad falls back on the bed, a dreamy smile on his face.</context>
+      <utterance>I'm sorry. I'm sorry. I'm chill.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Totally chill.</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="10">
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A'ight, that's it, this game is lame. I want my money, and then y'all can get out.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But we're not done yet...</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ain't never gonna be done. Did it ever occur to you two jackasses that this is the way he really is?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No way.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not possible.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatever. Look, I did what you asked, and I want my money.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, I'll get it, you know, but settin' everything up was expensive, and I don't exactly have it right now.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>Shondra hands Sean the phone.</context>
+      <utterance>Excuse me? You playin' me?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Y'all get me my money now, or I'ma go in there and tell him what's up.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>As Sean starts to dial, we --</context>
+      <utterance>Alright, okay, just relax...</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="4">
+   <speaker>SEAN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>Great, terrific, we're making real progress here.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your suggestions were really helpful. He totally bought the car jack and kidnapping...</utterance>
+   <speaker>SEAN</speaker>
+      <mode>O.S.</mode>
+      <context>Brad's eyes widen.</context>
+      <utterance>... we staged a fabulous liquor store robbery. Mr. Gluckman's going to be very happy...</utterance>
+   <speaker>SEAN</speaker>
+      <mode>O.S.</mode>
+      <context>Brad slumps back. He can't believe it.</context>
+      <utterance>But, he's still posing, so we wanted to put him in a drive-by shooting next... but, it's a little more money then our original projections...</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="3">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So I was wondering if I could get an advance.</utterance>
+   <speaker>TOM</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>No deal. You get the rest when Richie Cunningham steps through the door here, and not one second sooner, understand?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But -- Mr. Gibbons, hello?</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="8">
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell do you think you're doing?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey! Listen up... Brad G is in da hiz, and things gonna start changin' round here!</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do something.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You must be out yo mind. Get back in that room before I beat your ass!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Sean backs down.</context>
+      <utterance>You feelin' froggy, den leap!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anyone else wanna step?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell got into you?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up, ho.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="9">
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who you callin' ho, ho?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, ho, the same ho that gave up that weak-ass kiss five minutes ago in the bedroom.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really? Damn.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who the hell do you think you are?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Shondra, PJ and Sean watch, stunned, as Brad grabs a prop gun, his car keys and heads out.</context>
+      <utterance>I'm B-Rad G, from 'Bu, representin'! What y'all don't realize is that I was tryin' to put my mobbin' days behind me, but rollin' with y'all done re-awoke my inna killa. Let's start droppin' bodies!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, girl. Let's go!</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uhn uhn. You created that monster, you deal with it.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But we got big a problem here.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>Sean and PJ exit quickly.</context>
+      <utterance>Until I see my money, it's your problem.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="12">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where the hell you goin'?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need to take a drive.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, man. Chill.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Today is a good day to die, didn't have to use my A.K...  Yey yey!</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why you talkin' crazy?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Might as well go out in a blaze of glory. My daddy don't love me, my rhymes is played. I ain't down enough for y'all --</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. You down, right PJ, er, Tree?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>Suddenly, Tec jumps up, yanks Brad's door open and shoves a Nine in his side.</context>
+      <utterance>That's right, Bloodbath, he's very down. As down as they come.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get out of the car, white boy.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Tec can't believe what he's hearing.</context>
+      <utterance>Oh, you dat weak fuck from de club.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Got somethin' for me?</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="10">
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just this cap, fool! You ready to die?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ain't that a coinky-dink? I was just talkin' to my homies about just dat...</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Move!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>He heads for Tec's car.</context>
+      <utterance>A'ight, but y'all should change up your style, cuz these jackings is gettin' tired.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, Bloodbath, if there's one tiny scratch on my ride, I'ma eat y'all's children.  Shotgun!</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>A crew member yanks out some duct tape and tapes over Brad's mouth, then they throw him in Tec's trunk and slam it shut. Tec steps up to Sean and PJ.</context>
+      <utterance>Tape up this fool's hole, man.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What should we do with this Bloodbath and his friends?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not Bloodbath! My real name is Sean James, I'm an actor. I swear!</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is Shondra hittin' the white boy?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No way, man. She's in on the scam, just like us.</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="7">
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Scam?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. We're all being paid to pretend to kidnap Bill Gluckman's kid.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gluckman? The dude runnin' for Governor.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've heard of him?</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The dawg who's down with bitches and hoes? Hell yeah, I've heard of him. Just 'cause I live down here you think I'm ignorant?</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We didn't say that, brother.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A'ight then.  Damn, we got Gluckman's son. Fool's gotta be worth more alive than dead.  Let's roll.</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="6">
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're still dead in the urban demo, though.</utterance>
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gays too.</utterance>
+   <speaker>JEN</speaker>
+      <mode></mode>
+      <context>The INTERCOM RINGS.</context>
+      <utterance>There's no way we can win without them.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yep?</utterance>
+   <speaker>SECRETARY</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I have a Sean on the phone for you, sir.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Put it through.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="5">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tom, we have a real problem.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you, no more money.</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know you said that, but we're in real serious troub -- Tec rips the phone out of Sean's hand.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen, fool. Gluckman's boy has been kidnapped for real, along with your punk friends.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="10">
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If Mr. Governor wants to see his punk bitch son alive again I'm gonna need five hundred grand by tomorrow midnight.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How do I know this is real?</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Tec puts the phone up to Sean.</context>
+      <utterance>You think your actors are this good?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>Sean begins to wail. Tec yanks the phone back.</context>
+      <utterance>Help us, please...  I'm...  so...  Scared!!!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, I'm convinced.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good. Now get me my money.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine... Please don't do anything until I talk to Mr. Gluckman and arrange the finances.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Tec hangs up.</context>
+      <utterance>You got ten minutes.</utterance>
+   <speaker>DEUCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now what?</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Behind, no one notices as a low rider cruises by slowly.</context>
+      <utterance>We wait.</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="3">
+   <speaker>SNUFFY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that him, ese?</utterance>
+   <speaker>LOC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, that's Tec, homes, from the I-9's.</utterance>
+   <speaker>SNUFFY</speaker>
+      <mode></mode>
+      <context>The homeboy works his cell, as we:</context>
+      <utterance>Call Cyco, tell him to bring it all. We gonna have a party.</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="8">
+   <speaker>JEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell's going on?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Brad's been kidnapped for real.</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They want five hundred grand or they'll kill him.</utterance>
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now let's not panic. Lemme just think this through for a minute. We could have a very interesting opportunity here.</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where are you going with this?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, the negatives are obvious.</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="12">
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bill drops out of the race, emotional distress...</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can handle Bill. Let's brainstorm the positives.</utterance>
+   <speaker>JEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's so many. No more 'Brad problem.'</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context>They start riffing on the idea, getting excited.</context>
+      <utterance>Right, right, I'm liking it.</utterance>
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With a dead son, the sympathy factor could give us big spike in the female and gay demos.</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've had such a problem with Bill's rich guy image, we could spin the issue to make him more 'Everymen,' you know, 'crime touches everyone,' like that.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about a voter backlash, like how could he run on the heels of a tragedy?</utterance>
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No -- we push the 'courage under adversity' angle.</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Helps with his leadership profile.</utterance>
+   <speaker>JEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bill Gluckman, crusader/martyr...</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've got the image -- Bill weeping over Brad's open casket.</utterance>
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Then, after grieving appropriately, he goes on the offensive...</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="8">
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bill Gluckman's war on crime...</utterance>
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... drugs.</utterance>
+   <speaker>JEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... gangs.</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>War's hot now.</utterance>
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>War's great.</utterance>
+   <speaker>JEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's just what we've needed.</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's like a green light to Sacramento.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>The PHONE RINGS and Tom picks up.</context>
+      <utterance>Next stop, the White House.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="5">
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What up?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No deal.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say what?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bill Gluckman does not make deals with criminals.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's it, then, fool. I ain't playin'. His ass is done.</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="9">
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Tec's homie rips the tape off Brad's mouth.</context>
+      <utterance>That's cold.  Lose the tape.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>God damn that hurts!!! I get out of this I'ma hafta teach y'all some manners!</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your daddy ain't payin'.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, yeah, tell me somethin' I don't know!</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Tec cocks his nine and aims at Brad.</context>
+      <utterance>You heard me, you half-steppin' moist-ass bitch!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh what, you gonna do me like this? A'ight, then bring it.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's brought.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Man up! Put this wannabe out of his misery.</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="4">
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Tec's pinned down behind the dumpster. He's without a weapon, and Rollin' G's are FOCUSING their FIRE on him.</context>
+      <utterance>Lay down some cover, fool!</utterance>
+   <speaker>8-BALL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're tryin', man, but they're too strapped.</utterance>
+   <speaker>DEUCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell we gonna do?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad grabs the Uzis and rolls out from under the car.</context>
+      <utterance>Punks. Gimme dem gats.</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="9">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>He jumps up on the hood of Tec's car and OPENS FIRE with both Uzis, laying down a withering rain of lead.</context>
+      <utterance>Y'all wanna play? Let's play! You know who you're dealin' with???</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Aaaaaaaaaaaaaaaaa!</context>
+      <utterance>I'm B-Rad G, from the 'BU, y'all...  King Kong ain't got nothin' on me!</utterance>
+   <speaker>BRAD</speaker>
+      <mode>STOPS FIRING</mode>
+      <context>The Rollin' G's try to respond, but Brad's fire is too intense.</context>
+      <utterance>Damn. These special effects are the bomb!  Aaaaaaaaaaaaaaaaaa!!!</utterance>
+   <speaker>SNUFFY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Devil's got some balls.</utterance>
+   <speaker>LOC</speaker>
+      <mode></mode>
+      <context>They all hop in their convertible and tear-ass out of there as Brad jumps off the cars and follows on foot, FIRING after them as they turn the corner and SQUEAL away.</context>
+      <utterance>For real! Let's dip!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Tec emerges from behind the dumpster. The crew rolls out from under the car, followed by Sean and PJ. They look at Brad in awe. They're impressed.</context>
+      <utterance>It's safe now, y'all.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>He offers his fist to Brad. They pound.</context>
+      <utterance>That was ill! Y'all definitely got juice.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where'd you learn that shit?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn. Jus' MTV.</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="3">
+   <speaker>HAL FISHMAN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>This hardcore gangster, believed to be the notorious 'White Kong,' leader of I-9 street gang, fires his weapons with wanton disregard for human life or personal property.</utterance>
+   <speaker>CLOSEUP - BRAD'S CRAZED FACE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>in SLOW MOTION as he FIRES.</utterance>
+   <speaker>HAL FISHMAN</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>If you have any information on the whereabouts of this man, call our hot line at 1-555-GANG.</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="11">
+   <speaker>TIME</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tom stares at the TV.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>And then, in QUICK SHOTS, we INTERCUT BETWEEN:</context>
+      <utterance>... aaaaa...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... oooooo...</utterance>
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaa...</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaa...</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaa...</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaa...</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaa...</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaa...</utterance>
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaa...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... oooooo...</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="9">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaa...</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaa...</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaa...</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaa...</utterance>
+   <speaker>GARY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... oooooo...</utterance>
+   <speaker>JEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... oooooo...</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... oooooo...</utterance>
+   <speaker>BARISTA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaa...</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... aaaaaad!</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="5">
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dat is some hardcore shiznit, y'all!</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If dat's what you got to do to get on Big Boy's label, count me out.</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He ain't with Big Boy, fool! B- Rad's hangin' with some serious bangers!</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What we gonna do, Moch?</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bounce to our respective cribs, jack our moms' and pops' biggest gats, jet down to South Central and save his ass.</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="3">
+   <speaker>HADJI AND MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Word.</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But... what if they don't have coffee?</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Krista -- six Tsunamis to go!</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="8">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bradley's been involved in a gang shooting.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you positive?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>His face was on the news, Tom! I think I know my own son!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sure there's a logical explanation. Why don't you get some sleep --</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sleep? He's shooting the hell out of South Central. We've got to get him!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about the debate tomorrow in Sacramento --</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forget the debate!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you cancel, you can kiss this campaign good-bye.</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="11">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can shove the campaign up your ass, Tom! I will not lose my son over this election!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I understand you're upset, Bill, but Jesus, for once in your life think outside the box! We can make Brad's whole gang thing a positive...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A positive!</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If he's arrested or, God forbid injured, we spin it so you are the victim, you know, 'crime reaches everyone,' something like that...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're trying to get votes out of this?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm trying to win, Bill, and you don't seem to care!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm his father.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When did that happen?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Bill grabs Tom by the shirt and slams him into the wall.</context>
+      <utterance>I guess right now.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>As Bill takes off:</context>
+      <utterance>You're fired.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>They just stare at him.</context>
+      <utterance>All right, guys, let's pitch on how I get my job back.</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="2">
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Guys?</utterance>
+   <speaker>BRETT</speaker>
+      <mode></mode>
+      <context>The other staffers follow Brett out, leaving Tom alone.</context>
+      <utterance>Just so you know, I never liked the way you ran things around here.  Bill? Mr. Gluckman?</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="2">
+   <speaker>HUMAN OPERATOR</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>This is Lojack.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>(reluctant)</context>
+      <utterance>I need a location on license number...</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="4">
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's yours, B.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For real? You shouldn't have.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welcome to the 9's. Only way out now, is in a box.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad laughs. They all join in, laughing hard as we --</context>
+      <utterance>In a box... right.</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="5">
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A'ight, Monster, what kind of toast you strappin'?</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context>Monster pulls a scuba divers' spear gun from the bag.</context>
+      <utterance>This.</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell is it?</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context>Mocha laughs and starts doing whale sounds.</context>
+      <utterance>My pop's spear gat. From the yacht.</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A'ight Free Willy, think you so bad, what you got?</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="10">
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context>He puts an old musty case in the car and starts to close the doors. Hadji stops him.</context>
+      <utterance>Never mind.</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Come on, let's see it.</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context>He opens the case, revealing an antique blunderbuss musket, with a flintlock hammer and a bell muzzle.</context>
+      <utterance>A'ight, a'ight, chill.</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that a freakin' musket?</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context>Monster grabs the musket and points it at Mocha.</context>
+      <utterance>What? My pops is a collector.  Come on, man, pirates used that shit.</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context>Monster and Hadji start laughing.</context>
+      <utterance>Aargh, matey, give up yer treasure or I'll bust me harpoon in yer booty.</utterance>
+   <speaker>MOCHA</speaker>
+      <mode></mode>
+      <context>He snatches the musket from Monster and carefully places it back in the case.</context>
+      <utterance>Shut up! Damn posers!</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hadji, how 'bout you?</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context>Hadji opens a duffel and pulls out three Kevlar vests.</context>
+      <utterance>Couldn't get much, yo...</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When I told my pops we was going on a drive-by, he gave me three of these.</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="4">
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context>He opens a plastic case, revealing a Stinger rocket launcher and four missiles.</context>
+      <utterance>Good thinking, but what heat you got?</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context>Mocha and Monster are blown away.</context>
+      <utterance>... dis.</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dang! Where'd you get all dat?</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Christmas present from Uncle Ahmet.</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="2">
+   <speaker>FEMALE OPERATOR</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Yes, Mr. Amiraslani, can I help you?</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell yes, chicken. I need a location on license number D-</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="3">
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's Brad?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>She moves on. PJ lifts up his bound wrists.</context>
+      <utterance>I haven't seen anything.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>But she's gone.</context>
+      <utterance>Shondra! Little help, please.</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="7">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, I just got tested positive ... for G.A.M.E.</utterance>
+   <speaker>SISTER #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Cool playa.</utterance>
+   <speaker>SISTER #2</speaker>
+      <mode></mode>
+      <context>They laugh when suddenly Shondra comes through the door.</context>
+      <utterance>Let's get busy.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the same damn line he used on me, and now this no good deadbeat weak-ass white boy won't take care of little Malik.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?!</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know he's yours...</utterance>
+   <speaker>SISTER #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This gettin' heavy.</utterance>
+</dialogue>
+
+<dialogue id="127" n_utterances="2">
+   <speaker>SISTER #2</speaker>
+      <mode></mode>
+      <context>The girls leave.</context>
+      <utterance>Let's jet.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn, why you throwin' salt on my</utterance>
+</dialogue>
+
+<dialogue id="128" n_utterances="10">
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>Come on.</context>
+      <utterance>I'm savin' your lily-white ass.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad lifts his shirt and shows her the tattoo on his stomach: I-9 THUG.</context>
+      <utterance>I ain't goin' nowhere. I'm a I-9 neow, straight-up. Peep my tat.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Listen, fool.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up, Shondra! I know y'all set me up, I know it's all fake, de kidnap, de stickup, de whole nizzy.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, damn...</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why'd you play me, huh?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For the money.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>for?</context>
+      <utterance>What you need money Money?! Tch.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, fool, this may sound stupid to you, but not everybody has money, and to people that don't, money is important!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Please. You prob'ly still flippin' me anyway, so --</utterance>
+</dialogue>
+
+<dialogue id="129" n_utterances="6">
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dammit, Brad, this is real. Tec and his crew are real --</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad pulls his nine.</context>
+      <utterance>Oh really? Well if Tec is real then this gat must be real...</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad aims at his foot and pulls the trigger and BLAM! He puts a BULLET through the toes of his sneaks.</context>
+      <utterance>And if this gat is real then the in it have got to be real. caps And seein' how my foot is real, this would really hurt... then</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad starts hopping around the room.</context>
+      <utterance>See dat. I just shot myself in the foot and...  It's reaaaaalll! It's totally reaaaaalll!!!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just shot my foot!! I just shot my foot!!!</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop hoppin' around, fool, so I can look at it.</utterance>
+</dialogue>
+
+<dialogue id="130" n_utterances="5">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh gaawwwd!</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>Cap just grazed your toe.</context>
+      <utterance>Lucky you're such a weak shot.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Tec enters, gun in hand.</context>
+      <utterance>But, it's real, Shondra, it's all reeeeeeeeeeeeeeeal!</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's the hell's poppin' ca --</utterance>
+   <speaker>TEC'S POV</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shondra, on her knees, kneeling before Brad.</utterance>
+</dialogue>
+
+<dialogue id="131" n_utterances="5">
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Shondra stands quickly, scared.</context>
+      <utterance>What up, cuz?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ha ha, Tec, my road dawg, yeah, just the man I wanta see.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's goin' on, Shondra?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not what it looks like, Tec, I swear.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you lie to me. That was always my line to you, and it always was what it looked like. Now what's up with your boyfriend here.</utterance>
+</dialogue>
+
+<dialogue id="132" n_utterances="3">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, dawg, love to kick it wit' you and run the whole thizang, but I got some bidness back in the 'Bu, li'l somethin' somethin' with Big Boy and whatnot, so if y'alls don't mind --</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Tec grabs Brad and drags him out.</context>
+      <utterance>I do mind.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, Tec, stop!</utterance>
+</dialogue>
+
+<dialogue id="133" n_utterances="2">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait, Tec, lemme explain, 'cause I don't belong here...</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Tec cocks his gun.</context>
+      <utterance>You done forgot already, fool? I told you the only one way out of the I-9s, and your 'E' ticket's in this here chamber.</utterance>
+</dialogue>
+
+<dialogue id="134" n_utterances="10">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>See how committed he is? That's the rage I was talking about.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Word.</utterance>
+   <speaker>BACK TO SCENE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tec aims at Brad.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Shondra steps in front of Brad.</context>
+      <utterance>Please, don't be hatin'.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I won't let you do it, Tec.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Tec levels the barrel at Shondra and Brad. He starts to squeeze the trigger when suddenly Bill's HUMMER CRASHES through the wall. I-9's scatter and duck as the Hummer's front grill skids to a stop inches from Tec. The driver's door pops open and Bill jumps out.</context>
+      <utterance>No problem, then. I'll just do the both of you.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn fool! You just hit my house!</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Brad! Are you okay?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Bill turns: six I-9s are aiming guns at he and Brad.</context>
+      <utterance>Not really. And unless you seriously strapped, you about to be not really okay too.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey there, fellas. Bill Gluckman... I'm running for governor.</utterance>
+</dialogue>
+
+<dialogue id="135" n_utterances="8">
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We know who you are, fool.</utterance>
+   <speaker>DEUCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You the candidate that's down with bitches and ho's.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tsss. Dude think we ignorant just 'cause we live down here. You better recognize.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>What do you say?</context>
+      <utterance>I absolutely recognize that street violence is tearing Californians apart... You see, guys, California is my family, and hey, here's a thought. Instead of thinking of ourselves as what set we're from, or what crew we're rolling with, why can't we just be brothers?</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hmmm. I guess I never looked at it like that before. What do you say, 'brothers'? The I-9's smile, cock their weapons, aim them, and just as they're about to start blasting, the side WALL EXPLODES and Hadji's dad's MERCEDES CRASHES through.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>Gangsters fall back as Hadji, Mocha, and Monster jump out wearing the Kevlar vests and wielding their weapons.</context>
+      <utterance>Don't anybody know where the driveway's at?! Damn!</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Better step, y'all, or I'ma have to waste all y'all up in this piece!</utterance>
+   <speaker>MONSTER</speaker>
+      <mode></mode>
+      <context>The I-9s, unafraid, point their guns right back at Hadji, Monster and Mocha. It's a multi-player Mexican standoff.</context>
+      <utterance>Yeah! Drop yo gats!</utterance>
+</dialogue>
+
+<dialogue id="136" n_utterances="8">
+   <speaker>DEUCE AND 8-BALL</speaker>
+      <mode></mode>
+      <context>Nobody does. Brad steps out.</context>
+      <utterance>Drop your gats!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>No one stops him, so Brad turns to his dad.</context>
+      <utterance>Hold dup, y'all. Before anybody ices anybody I got to say something.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You really weren't gonna pay my ransom?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't know anything about that. You've got to believe me, that was not part of the plan.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was the plan? Send me down here to scare me white?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was stupid, I know. I thought I'd tried everything... I just didn't know how to deal with you anymore.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Shondra, Tec, all the I-9's and Brad's posse slowly turn from Brad to Bill, completely caught in the moment, waiting for his response.</context>
+      <utterance>You've never known how to deal with me 'cause you don't know me, and you never cared to find out. And now that your election's on the line, that's when you take a stand? That's bullshit, Pops. Look at me, 'cause this is who I am, and if you can't accept that, then I'll walk out that door, never see your sorry-ass again.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not proud of myself, Brad. I made a lot of mistakes, and I know I wasn't there for you, and I can't change that, but I always loved you and still do...</utterance>
+</dialogue>
+
+<dialogue id="137" n_utterances="5">
+   <speaker>BILL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>... and if you say this is really who you are, then I believe you and accept you, and from here on in, I promise to be a real father to you.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Talk is cheap, Pops. Prove it.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Brad looks at him. Bill looks back. Everyone looks on, riveted.</context>
+      <utterance>I'm here, ain't I?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A'ight, Pops, we cool.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>They pound.</context>
+      <utterance>Much love.</utterance>
+</dialogue>
+
+<dialogue id="138" n_utterances="4">
+   <speaker>8-BALL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wish I could talk to my pops like that.</utterance>
+   <speaker>DEUCE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No doubt. He's raising his kid.</utterance>
+   <speaker>8-BALL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'ma call my pops right now.</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>The I-9s straighten up and re-aim their guns.</context>
+      <utterance>Would y'all get a hold of your fool selves?! It's time to waste these punks!</utterance>
+</dialogue>
+
+<dialogue id="139" n_utterances="6">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tec, before we all go out in a blaze of glory, can I say one last thing?</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatchya got to say?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Mocha rests the musket in the crook of his arm, and does his human beat box thing as Brad begins to rap.</context>
+      <utterance>Moch, kick it freestyle.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'What's up with all this fightin'? We all should be unitin'! Y'all egos need deflatin', Gangstas, please, quit all this hatin'.'</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Stop, please! If I hear you drop one more rhyme, I'ma hafta smoke myself.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>As Brad grabs the missile launcher from Hadji...</context>
+      <utterance>A'ight, cool, but all these gats got to go!</utterance>
+</dialogue>
+
+<dialogue id="140" n_utterances="3">
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>CLOSE ON a FEMALE TV REPORTER speaking TO CAMERA.</context>
+      <utterance>I know my rights, man, and these fools drove two damn cars into my house, then they blew the shit up! This all better be rebuilt before my ma comes back, or she will make you wish you were never born.</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context>She turns and the CAMERA WIDENS to include Sean and PJ; their clothes are singed and still smoking.</context>
+      <utterance>I have two witnesses who were at the scene of the explosion...</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you tell us what happened?</utterance>
+</dialogue>
+
+<dialogue id="141" n_utterances="6">
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>Sean steps in front of PJ, speaking directly INTO CAMERA.</context>
+      <utterance>It was hard core, yo. All these crazy busters was strapped to the nines, and I was like, keepin' the peace, telling the brothers to talk it out, find their common bond...</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>hearts turned dark --</context>
+      <utterance>See, the explosion was just a metaphor for the anger we oppressed young men of color have buried deep inside our hearts...</utterance>
+   <speaker>REPORTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, thank you, Bloodbath and Tree.  And all of this mayhem is rumored to have been caused by the mysterious White Kong, who remains at large. This is Soon Yi Baxter- Hernandez, reporting from South Central.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When's this gonna air?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>She glares and they move off... We FIND Brad and Shondra by an ambulance, talking as a paramedic bandages Brad's ass.</context>
+      <utterance>Can I get a copy of this? I need it for my reel.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aaah!!!</utterance>
+</dialogue>
+
+<dialogue id="142" n_utterances="5">
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You alright?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm cool... still a little confused maybe. I'm still not exactly sure what was for real and what wasn't.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context>She kisses him full on the lips.</context>
+      <utterance>Well, as far as being real, I can only vouch for two things.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>They kiss again, then Brad breaks it.</context>
+      <utterance>I can deal with a little more of that reality.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Shondra smiles as we...</context>
+      <utterance>Wait a minute. You said two things was real. What was the other?</utterance>
+</dialogue>
+
+<dialogue id="143" n_utterances="3">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Damn, you knew Big Boy the whole time?</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I told you we go way back.</utterance>
+   <speaker>BIG BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So Shondra tells me you drop rhyme.</utterance>
+</dialogue>
+
+<dialogue id="144" n_utterances="3">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>He hands over a Mali-Bootay CD.</context>
+      <utterance>Peep dis.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Once you hear my demo, you're gonna want to give me Eminem play, dawg!</utterance>
+   <speaker>BIG BOY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know exactly what to do with this.</utterance>
+</dialogue>
+
+<dialogue id="145" n_utterances="12">
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like father like son.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shondra, girl. I just have to thank you.</utterance>
+   <speaker>SHONDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For what?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You the only one who accepted me for who I really am.  You also car jacked me, kidnapped me and tried to turn me white, but I'm gonna let that go. They kiss, tongues and all as Bill walks up.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, kids... Sorry to interrupt.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What up?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I'm about to go on and, Brad... I want you to be part of this.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean, be onstage with you?</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need you to help me get the urban vote. Introduce me.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dang, I'd be honored.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And, son, don't say it...  Rap it.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For real, Pops?</utterance>
+</dialogue>
+
+<dialogue id="146" n_utterances="4">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>Shondra looks on proudly as MUSIC -- heavy on emotional strings, swells, driving the movie audience to feel as good as they've ever felt in a movie. Brad takes the stage.</context>
+      <utterance>For real, son, for rizzeal.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>A rap beat kicks in as Brad goes all out.</context>
+      <utterance>Hey, y'all! I'm here to introduce you to my father, Bill Gluckman! The big Gluck!!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Bill moves onstage and attempts to dance hip hop style.</context>
+      <utterance>We all gather here on this special occasion. To listen to my pops, he's your west coast liaison. A speech from him, dude, is like sex with a hoochi. It's hot and excitin', like shoppin' at Gucci! Asians, Jews, Mexicans, too. Everybody's votin', yo, it's a cultural stew. Once he's in office you'll experience great riches. As a thank you for helpin', you can get wit my bitches! Let's get Glucked! Y'all get Glucked! We get Glucked! Come on everybody put your hands up!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Immigration, education, and runaway inflation. It got me so stressed I need to start masturbatin'. California ain't flowin' like some ol' constipation. Vote for dad or I'll bash your frickin' face in! Come on everybody put your hands up!</utterance>
+</dialogue>
+
+<dialogue id="147" n_utterances="3">
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Welcome to Wienie In A Bun.</utterance>
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>Tom leans in, with a "Manager" nametag, whispering angrily:</context>
+      <utterance>How about a Double Dog?</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Push the Mega Meal, or you punks are so fired.</utterance>
+</dialogue>
+
+<dialogue id="148" n_utterances="2">
+   <speaker>BRAD</speaker>
+      <mode>V.O.</mode>
+      <context>Shondra spins the chair to REVEAL: BEES GLUCKMAN with a crazy ghetto hairstyle. She looks like Busta Rhymes. She checks herself in the mirror.</context>
+      <utterance>She styled up all the ladies in Malibu so they were stone-cold ghetto fabulous.</utterance>
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context>She smiles revealing a GOLD TOOTH with a DIAMOND in it.</context>
+      <utterance>I love it.  Boo-ya!</utterance>
+</dialogue>
+
+<dialogue id="149" n_utterances="5">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>APPLAUSE, as POLICE OFFICERS salute Bill.</context>
+      <utterance>This is a monumental day for our glorious state and there are several people I need to thank here tonight...  There's the International Brotherhood of Police Officers...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>A table full of well-dressed PROFESSIONALS wave politely.</context>
+      <utterance>The Southern California Rotary Club...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>A group of granola-type ENVIRONMENTALISTS smile. Brad CLEARS HIS THROAT, causing Bill to look at him. Brad gives Bill a "reminder" nod...</context>
+      <utterance>And our friends at the Environmental Defense Fund...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>PULL BACK TO REVEAL: We're actually in the PROUD BIRD...</context>
+      <utterance>Oh, and of course...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... all the Bitches and Ho's...</utterance>
+</dialogue>
+
+<dialogue id="150" n_utterances="7">
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>The lavishly-dressed PIMPS raise their canes to Bill.</context>
+      <utterance>The Pimps... The Hoodrats...</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>An ASIAN FAMILY give Bill the "thumbs-up."</context>
+      <utterance>The Association of Korean Grocers.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The Playas. The Ballers. The Shot Callers. And a special shout out to the I-9's.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>A table full of prim ELDERLY LADIES golf-clap and smile.</context>
+      <utterance>And... The Women's Organization of California.</utterance>
+   <speaker>BILL</speaker>
+      <mode></mode>
+      <context>APPLAUSE as Brad grabs the mic at the podium.</context>
+      <utterance>And most of all, I'd like to thank my campaign advisor on urban affairs, and my son, B-rad G.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>HIP HOP MUSIC KICKS IN and the entire Ballroom turns into one huge dance party. Bill raises the roof as he meanders into the celebrating crowd. People of all different races and backgrounds dance together, all having a blast... Hadji grinds on an ELDERLY CONSTITUENT's ass... she's into it.</context>
+      <utterance>West Coast Reprezzizzin'! Bill and Brad hug.</utterance>
+   <speaker>HADJI</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm totally taxing your ass.</utterance>
+</dialogue>
+
+<dialogue id="151" n_utterances="2">
+   <speaker>BESS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You get that from Tiffany?</utterance>
+   <speaker>TEC</speaker>
+      <mode></mode>
+      <context>They continue to marvel at each other's decorative accessories...</context>
+      <utterance>I think that was the Bitches' name, yeah...</utterance>
+</dialogue>
+
+<dialogue id="152" n_utterances="5">
+   <speaker>PJ</speaker>
+      <mode></mode>
+      <context>Courtesy of Wiener on a Bun.</context>
+      <utterance>Would you care for a wiener?</utterance>
+   <speaker>SEAN</speaker>
+      <mode></mode>
+      <context>Tom enters wearing a "Wiener on a Bun" manager's outfit.</context>
+      <utterance>Or perhaps I can interest you in a head shot? I'm trained in jazz dance, tap, and I can do a Southern accent.</utterance>
+   <speaker>TOM</speaker>
+      <mode></mode>
+      <context>He pushes them out of there.</context>
+      <utterance>Idiots. What did I tell you about bothering the guests? Now move it, those wieners aren't serving themselves.</utterance>
+   <speaker>BRAD</speaker>
+      <mode>O.S.</mode>
+      <context>Everyone turns to see Brad still at the podium. Confusion...</context>
+      <utterance>Yo, yo, yo...</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Last time I was here, y'all threw my ass out. But now that I haves yo attention, I gots somethin' I gotta say... And I have to do it the only way I know how... Kick it, Moch.</utterance>
+</dialogue>
+
+<dialogue id="153" n_utterances="2">
+   <speaker>TOM GIBBONS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>'White Kong'? Damn! I'm not even white.</utterance>
+   <speaker>COP</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's what they all say.  Shut up, White Kong.</utterance>
+</dialogue>
+
+
+</movie>

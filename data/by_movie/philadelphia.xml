@@ -1,0 +1,3654 @@
+<movie id="432" title="Philadelphia">
+
+<dialogue id="1" n_utterances="2">
+   <speaker>JOSEPH MILLER</speaker>
+      <mode>OS</mode>
+      <context></context>
+      <utterance>This construction site is causing mortal and irreparable harm to an unsuspecting public!</utterance>
+   <speaker>ANDREW BECKETT</speaker>
+      <mode>OS</mode>
+      <context>Jamey shoves open the door, REVEALING TWO LAWYERS (BACKS TO</context>
+      <utterance>My client has one of the finest and most respected safety records in the business, Your Honor!</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="9">
+   <speaker>JUDGE TATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One at a time. Mr. Miller?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Honor, since Rockwell Corp. began construction, the surrounding residential neighborhood has been enshrouded in a cloud of foul-smelling, germ-carrying, pestilent dust. My client is being forced to breathe known carcinogens daily! Other residents are coming forth on a daily basis to add their voices of outrage!</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Behind his back, Andrew wiggles his fingers. Jamey stuffs a document into Andrew's hand.</context>
+      <utterance>Your Honor, I submit there were no complaints until Counselor began knocking on doors, drumming up business. And the dust, which Counselor refers to, has appeared on only three occasions. Each time it has been examined and the results...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context>Andrew submits the report to the Judge.</context>
+      <utterance>Limestone. Messy, but innocuous.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Innocuous?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Defined by Webster's as harmless.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>His back turned momentarily to the JUDGE, Andrew mouths to Jamey: "Not bad." But he whips around, serious again:</context>
+      <utterance>I know what it means. Your Honor, imagine how the children in this neighborhood have been made to feel. The pounding of construction ringing in their ears as this skyscraper, a tribute to mankind's greed, grows daily, casting an ominous shadow over their lives, filling them with dread even as they are surrounded in a black, toxic fog, blocking out the sun while poisoning their lungs! And Counselor calls it harmless?!</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Honor, Counselor is attempting to portray my client as a hideous manifestation of evil and corruption. But nothing could be further from the truth. Rockwell has generously contributed ten thousand dollars to this neighborhood's schools, clinics and youth centers! Granting a restraining order on the construction site will throw hundreds of Philadelphians out of work, and will lend validation to this contemptible and groundless nuisance suit, which speaks directly to the kind of greed and treachery that today is threatening the very fabric of our society. Judge Tate looks skeptically at both lawyers.</utterance>
+   <speaker>JUDGE TATE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's not go off the deep end, gentlemen. I thought we were talking about some dust.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="4">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>The ELEVATOR OPENS: Andrew breezes past the MAN ON CRUTCHES, saying to Joe:</context>
+      <utterance>Right.  Miller.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Client of yours?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Andrew hurries down the corridor. Joe waits a moment... then pursues the MAN ON CRUTCHES.</context>
+      <utterance>Funny.</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Excuse me..? Sir? Yo!</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="3">
+   <speaker>TYRONE</speaker>
+      <mode></mode>
+      <context>DR. ROBERTA GILLMAN, passes through, speaking to Andrew:</context>
+      <utterance>Gonna have to start looking for veins in your feet, sweetheart.</utterance>
+   <speaker>DR. GILLMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy. Can you stop at my office on your way out?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew is distracted by A HISPANIC MAN across the room, rolling up his sleeve for an IV -- his bare arms, hands, face and neck are marked with PURPLE BLOTCHES. Andrew closes his eyes, concentrating for a moment on the CLASSICAL MUSIC... then goes back to work.</context>
+      <utterance>Sure.</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="12">
+   <speaker>ANTHEA</speaker>
+      <mode></mode>
+      <context>Andrew BLASTS out of the elevator, flashing Anthea a four- star smile. They stride down the corridor together.</context>
+      <utterance>... up to Tax, on fourteen, and get right back, I need you.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just the dazzling paralegal I wanted to see.</utterance>
+   <speaker>ANTHEA</speaker>
+      <mode></mode>
+      <context>They pass a silver-haired partner, KENNETH KILLCOYNE.</context>
+      <utterance>I know what that means, and the answer is no. I have a class tonight. Exploit someone else. And since you've asked ...</utterance>
+   <speaker>KILLCOYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Solid work on the Rockwell situation, Andy. Top-notch.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Kenneth.  Your exam!</utterance>
+   <speaker>ANTHEA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you. 98. I gotta go...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew reaches the secretaries' station. A cheerful secretary, SHELBY, shoves documents at him.</context>
+      <utterance>Ninety-eight?! Ninety-eight!</utterance>
+   <speaker>SHELBY</speaker>
+      <mode></mode>
+      <context>Need me in there?</context>
+      <utterance>Conference call's up. They just started the roll call. Here's the settlement agreement, the red-lined copy's on your desk.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew passes a colleague on her way out, RACHEL SMILOW:</context>
+      <utterance>No. Great. Thanks, Shelby.  It's 6:30, go home.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Rach.</utterance>
+   <speaker>RACHEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm late, I have to pick up Amy from her afterschool but I want to talk to you about that Hansen thing.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew SAILS toward his office.</context>
+      <utterance>Catch me later, I'll be here. And tell Amy, I love her painting, it's on my wall.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="8">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>The</context>
+      <utterance>Present.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>The LAWYERS are into the conference, in</context>
+      <utterance>Hi, Mom. It's me.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm fine.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's Dr. Gillman say?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold on, Mom.  There's no way my client will go along with that.</utterance>
+   <speaker>HARGREAVE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's this?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>He punches out of the conference, back to his Mom (glancing over his shoulder to make sure the door is</context>
+      <utterance>Andrew Beckett. Hi, Karen. I'm sorry I interrupted...</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you on one of those conference calls? I hate when you put me on hold.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="9">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>ANGLE: TWO MEN IN SILHOUETTE. WALTER KENTON says:</context>
+      <utterance>Ah hah! Yes!  Rentworth v. Pennsylvania... court of appeals affirms jury award of punitive damages for wrongful interference with prospective economic relations... A SHADOW falls across Andrew. He IGNORES IT.</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context>Andrew's hands DO NOT LEAVE the keyboard.</context>
+      <utterance>Look at this fucking guy. He's an animal.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>The SECOND MAN steps forward, a silhouette becoming visible This is BOB SEIDMAN. He and Kenton wear tuxedos.</context>
+      <utterance>Walter.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are we interrupting, Andy?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In a word, Bob...</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context>ANOTHER SILHOUETTED FIGURE APPEARS. This image has a horror-film feeling to it. Andrew WHIPS AROUND to face them.</context>
+      <utterance>Charles is right behind me.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>CHARLES WHEELER, also in tuxedo, remains in shadow.</context>
+      <utterance>I was just about to take a break. Good evening, Charles.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy? Could you step into my office for a sec?  I feel like firing someone tonight. Andrew throws an arm over Seidman's shoulder.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're gonna miss you around here, Bob...</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="22">
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context>The lawyers have gathered in Wheeler's spacious office, with its floor-to-ceiling view of the Philadelphia skyline.</context>
+      <utterance>Andy's expressed a keen interest in the Kronos Inc. situation, Charles. Is that correct, Andy?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Wheeler, Kenton and Seidman proceed with the male ritual of preparing cigars to be smoked: snipping the ends with a brass clip, rolling them over their tongues to wet them, sliding the cigars in and out of their rounded mouths. Andrew, holding a cigar but NOT preparing to light it, watches with a not completely concealed twinkle in his eye. Wheeler leans back in his chair, swirling a brandy snifter. He exhales cigar smoke with a great deal of pleasure.</context>
+      <utterance>The fate of the participants interests me, yes sir.</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's good to be King, hey Charles?</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kings are out of fashion. I'd rather be thought of as a benevolent tyrant.  It's an anti-trust action.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It is, and it isn't, Charles. Macrosystem's new software copies all the best-known elements of Kronos' spreadsheet program. If they're allowed to sell it, Kronos will get undersold right out of business. For me, the legal principle, involved is copyright infringement.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bearing in mind that Bill Wright, the chairman of MacroSystems, is a close, personal friend of mine... which side of this mess would</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context>Walter Kenton has shifted a lamp, so that its LIGHT FALLS ACROSS ANDREW'S FACE, REVEALING:</context>
+      <utterance>I'd like to see Kronos win.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew lifts his hand, finding that his hair has been pushed back, revealing the blotch. He stands, nonchalantly running a hand through his hair to cover the blotch.</context>
+      <utterance>Because they deserve to, Walter.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>If MacroSystems wins, an energetic, young company will be destroyed, five thousand Americans will be out of work. Moreover, the laws of copyright and anti-trust were enacted to prevent exactly the kind of bullshit Macrosystems is trying to pull.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy, do you know who reps Kronos Inc.?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bailey, Brackman.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>A moment before it sinks in, then: Andrew clenches his fist in a victory salute.</context>
+      <utterance>Get with the program, Andy. As of this evening, about 8:05 this evening, right after the soup course... Kronos Incorporated is represented by Wyant Wheeler Hellerman Tetlow and Brown. Or, more specifically, senior associate Andrew Beckett.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes!</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context>An ASSOCIATE LAWYER in shirtsleeves taps on the office door.</context>
+      <utterance>You'll have to get right on it, Andy, we're up against the statute of limitations.</utterance>
+   <speaker>ASSOCIATE LAWYER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tokyo on four, Bob.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context>Andrew offers his hand to Walter Kenton.</context>
+      <utterance>Great. Excuse me, fellas.  Connichiwa. Itsumo osewa ni nari mashita. Arigato gozaimasu.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Walter.</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that on your forehead, pal?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whacked with a racquetball.  I appreciate your faith in my abilities.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>Andrew and Wheeler are eye-to-eye, an intimate moment.</context>
+      <utterance>Faith, Andy, is the belief in something for which we have no evidence. It doesn't apply to this situation.  Go home. I mean, get back to work.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Charles.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>Smiling, Andrew exits the office.</context>
+      <utterance>No sweat, buddy.</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="18">
+   <speaker>CHANDRA</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>You want to apply the foundation as evenly as you can, Andy. You don't want to look like you've thrown it on with a spoon.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>O.S.</mode>
+      <context>CAMERA PULLS BACK REVEALING Andrew sitting at a table in his loft, a towel around his neck, protecting his shirt from makeup. Chandra applies the makeup gently, supervised by another friend named ALAN. (Andrew's loft has been turned into a lawyer's command post: stacks of books, documents, etc.). A third friend, BRUNO, sits in the corner, flipping through channels on the TV.</context>
+      <utterance>Uh huh.</utterance>
+   <speaker>CHANDRA</speaker>
+      <mode></mode>
+      <context>Andrew tries applying makeup to his face.</context>
+      <utterance>Okay. You try.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chandra? Don't you think this color's a little... orange for me?</utterance>
+   <speaker>CHANDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tahitian Bronze works best on lesions.</utterance>
+   <speaker>ALAN</speaker>
+      <mode></mode>
+      <context>IN THE BACKGROUND: Andrew's fax machine receives a fax in Andrew's "work area": desk, personal computer, etc.).</context>
+      <utterance>Think of it as the "I just back from Aruba" look.</utterance>
+   <speaker>BRUNO</speaker>
+      <mode></mode>
+      <context>Bruno removes the fax from the machine, walking it over to Andrew, handing Andrew the fax, while munching an apple.</context>
+      <utterance>I got it.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew puts on a pair of big glasses with tortoise shell frames, meant to help conceal the blotches.</context>
+      <utterance>Thanks, Bruno.  I've been out of the office four days. I don't want them to think I've been to the beach.  Okay. Check this out.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Hides everything, right? What do you think?</utterance>
+   <speaker>CHANDRA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know who you look like, Andy? That actor, in that movie. Not the one where he was autistic, the one where he dressed up like a lady on a soap opera...</utterance>
+   <speaker>ALAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dustin Hoffman.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Tootsie!</utterance>
+   <speaker>BRUNO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right.</utterance>
+   <speaker>CHANDRA</speaker>
+      <mode></mode>
+      <context>Suddenly, Andrew winces, gripping his gut.</context>
+      <utterance>You want to try Light Egyptian?</utterance>
+   <speaker>CHANDRA</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew starts out of the room -- suddenly HAVING TO RUN.</context>
+      <utterance>Excuse me a sec...</utterance>
+   <speaker>CHANDRA</speaker>
+      <mode></mode>
+      <context>CAMERA HOLDS ON Chandra, Alan and Bruno. SOUND OF BATHROOM DOOR slamming shut. Bruno saunters across the room and knocks on the bathroom door.</context>
+      <utterance>Just like my cousin Fredo.</utterance>
+   <speaker>BRUNO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You okay, Andy?</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="34">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, you guys.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context>Miguel puts his arms around Andrew.</context>
+      <utterance>Yeah. Thanks, guys.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>I</context>
+      <utterance>Gillman's out of her office today.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aren't you giving an exam?</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context>Miguel places a gentle kiss on Andrew's sweaty forehead.</context>
+      <utterance>I said, don't worry about it.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode>CONT.</mode>
+      <context>Suddenly, the facade cracks and TEARS STING Andrew's eyes.</context>
+      <utterance>You got a fever, baby.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I almost didn't make it to the bathroom, Miguel. I almost lost control right in front of everybody.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context>Andrew pulls himself together, brushing aside tears, in control of his emotions once more.</context>
+      <utterance>So what? It's nothing to be ashamed of. You have nothing to be ashamed of, okay?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew catches the attention of a harried INTERN, whose surgeon's greens are covered with blood.</context>
+      <utterance>Wait, here's my guy... Hey!</utterance>
+   <speaker>INTERN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Beckett, I'm sorry...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>About my blood work?</utterance>
+   <speaker>INTERN</speaker>
+      <mode></mode>
+      <context>Miguel opens a small notebook, making notes.</context>
+      <utterance>We're waiting...</utterance>
+   <speaker>INTERN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... meanwhile, I'd like to prepare you for a colonoscopy, so we can take a look inside.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sounds delightful.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do you need to do this?</utterance>
+   <speaker>INTERN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you? Doctor... ?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Nothing personal.</context>
+      <utterance>This is my partner. We keep records of hospital visits.</utterance>
+   <speaker>INTERN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dr. Klenstein.  It's not a pleasant procedure, but if the KS is causing the diarrhea, we ought to know right away.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It could be parasites, an infection...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A reaction to AZT...</utterance>
+   <speaker>KLENSTEIN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's possible, but.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's not going through some painful procedure until we've cancelled out everything else.</utterance>
+   <speaker>INTERN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm trying to help your "partner." You're not a member of his immediate family, I could have you removed from the ER.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's upset, he's sorry.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't apologize for me.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Everybody happy?</context>
+      <utterance>He's not sorry, okay, fine.  Why don't we see what we find out from the blood work? I'll work on getting a specimen, I'm sure hospital food could help in that direction. Maybe, by then, we'll hear from my doctor, and we'll go from there. Okay?</utterance>
+   <speaker>INTERN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Allright. I'll get on the lab about the blood work.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. The INTERN walks away. Andrew's BEEPER BEEPS.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's the third time. I better call the office.  Would you relax, please?</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context>Andrew HOBBLES toward a pay phone, outside a VISITOR LOUNGE, where weary relatives are watching TV. Andrew drops a quarter into the phone.</context>
+      <utterance>I am relaxed.</utterance>
+   <speaker>JOE MILLER'S VOICE</speaker>
+      <mode></mode>
+      <context>ANDREW'S POV ON TELEVISION: Joe Miller on the screen, with the words "Negligence... Malpractice... Auto accidents"... and in the background, PHOTOS of MAIMED, BURNED, INJURED CLIENTS.</context>
+      <utterance>"If you or someone you know..."</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context>Andrew LAUGHS. Then, his call is answered:</context>
+      <utterance>"... has been injured through the fault of others, you may be entitled to legal remedy...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shelby? It's me. Jamey's been beeping me, I... Okay, okay, calm down. Put Jamey on.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="18">
+   <speaker>JAMEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy?! This is a disaster! We can't find your revisions on the Kronos complaint!</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Slow down, Jamey, for Christ's sake!</utterance>
+   <speaker>JAMEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I went down to Word Processing to pick up the corrected copy, but</utterance>
+   <speaker>JAMEY</speaker>
+      <mode></mode>
+      <context>Jamey puts his hands on Andrew's computer keyboard.</context>
+      <utterance>What did you file it under?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Jamey types the file name.</context>
+      <utterance>K-R-O-one.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context>Jamey stares dumbfounded at the computer monitor.</context>
+      <utterance>Jamey, I don't have to mention, do I, that we're up against a statute of limitations on this complaint which runs out in...  Seventy-five minutes.</utterance>
+   <speaker>JAMEY</speaker>
+      <mode></mode>
+      <context>Andrew closes his eyes. He can't believe this.</context>
+      <utterance>It's not here, Andy.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You go down to Word Processing and tell those motherfuckers they better come up with that complaint,</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context>Miguel approaches with tea purchased at the canteen.</context>
+      <utterance>Every problem has a solution...</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are you getting dressed?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew puts his arms around Miguel.</context>
+      <utterance>You're not going to like this. Please try to smile...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Thanks for leaving school, and coming here, and...  I will be back. An hour, tops.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're going to the office?!</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew rushes toward the exit doors.</context>
+      <utterance>You're not smiling.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're leaving the hospital? You're going into the office looking like that? Are you insane?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One hour!</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Drew!</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I promise!</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="27">
+   <speaker>SHELBY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm looking through the files but...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>(she reaches for the phone)</context>
+      <utterance>Call the messenger service, have someone standing by...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Rachel comes into his office.</context>
+      <utterance>Think. You brought the discs in, you transferred...</utterance>
+   <speaker>RACHEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I thought I was supposed to be covering for you.  God, Andy, you look awful.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fucking Word Processing lost my Kronos complaint. Which must be filed by fucking five o'clock! If it's late, there's no case...  Every problem has a solution.</utterance>
+   <speaker>RACHEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What can I do?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew begins shoving floppy discs into the slots on his computer, bringing up each disc's directory.</context>
+      <utterance>Get down to Word Processing. Help Jamey look. She rushes out.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context>He throws the disc to the floor. Shoves in another. Shoves in another, bending it in half.</context>
+      <utterance>No.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context>He pulls open a file drawer, dumping legal briefs onto the floor, frantically spreading them around with his foot. Andrew THROWS a document across the room, takes a breath. He picks up the telephone.</context>
+      <utterance>No, goddammit!</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context>He switches off the overhead light. He slants the window blinds, filling the room with shadow Bob Seidman comes into the office, typically cheerful.</context>
+      <utterance>Bob? Something's come up. With Kronos. I don't want to upset Charles, but...  Oh, shit, Bob, the complaint's due in forty minutes and I can't find it.  No, you don't have to come...  Great. Fucking great. Andrew rubs his eyes, this is a nightmare.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context>Seidman is struck by the mess in the office, and Andrew's disheveled appearance.</context>
+      <utterance>C'mon, Andy, you didn't lose anything...</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Jesus.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know what to do, Bob.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context>Seidman FLIPS ON the overhead light. Andrew flinches. Seidman approaches. Andrew gives up trying to hide the purple blotches, facing his mentor straight on.</context>
+      <utterance>You'll never find it in the dark.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>What in God's name... ?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bob...</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's wrong with your face?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's wrong with my face? You want to know what's wrong with my face? I've got a skin condition. Next question, Bob? No more questions? Fine. Now can you help me find the complaint?</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Allright. Calm down.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Seidman sits in front of Andy's computer.</context>
+      <utterance>Sorry...</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What was the file name?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>K-R-O-one.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context>Seidman goes to work. Andrew leans over his shoulder.</context>
+      <utterance>Maybe you mistyped the name when you were saving it. We'll try combinations of those letters...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're right, I probably just misfiled...</utterance>
+   <speaker>KENTON</speaker>
+      <mode>O.S.</mode>
+      <context>Walter Kenton is standing at Andrew's door. His demeanor is casual. So casual it seems a little forced.</context>
+      <utterance>Andy?</utterance>
+   <speaker>KENTON</speaker>
+      <mode>CONT.</mode>
+      <context>Andrew has kept his face averted. But now he TURNS DIRECTLY TOWARD CAMERA, showing his face to Kenton.</context>
+      <utterance>Some sort of problem?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, Walter. Yeah. Some sort of major problem.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="5">
+   <speaker>DOCTOR</speaker>
+      <mode></mode>
+      <context>LISA MILLER has just given birth to a baby girl. She collapses on her pillow, gasping for breath, moaning in pain, quietly crying a little. TITLE: "</context>
+      <utterance>There she is, okay. You can relax now, Lisa.</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context>Don't move the baby!</context>
+      <utterance>You load the film... ? No, on this side... or this side?</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context>Lisa pops the film into the camera, hands it back.</context>
+      <utterance>Give me the camera, Joe.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>With wildly trembling hands, Joe begins SNAPPING PHOTOS.</context>
+      <utterance>Thanks, hon. Oh my god...</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Oh my god... oh my god, look at her... oh my god...</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="3">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Passing a PATIENT IN TRACTION, ROLLING BY ON A GURNEY, Joe drops a business card into the PATIENT'S broken hand.</context>
+      <utterance>Go to Famous Fourth Street and buy a pound of Nova. No! She likes Scotch salmon better. Ah heck, get a pound of both! Get a dozen onion rolls. Get some bagels. Get a dozen. Get a bottle of champagne. Dom Peringon... A hundred bucks a bottle?! Better get a good California...</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context>Turning a corner, Joe comes face to face with HIS RELATIVES, who charge at him joyfully:</context>
+      <utterance>Give me a call.  Get everything over here as soon as you can, she's starved. No, not the baby! Lisa! ... Iris, listen: any calls I should know about? ... Uh huh... Uh huh... Beckett? Who's Andrew Beckett?</utterance>
+   <speaker>JOE'S MOTHER/AUNTS/UNCLES, ETC.</speaker>
+      <mode></mode>
+      <context>When can we see the baby?!</context>
+      <utterance>Congratulations! How is Lisa?!</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="3">
+   <speaker>MRS. FINLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why didn't you cross at the crosswalk?</utterance>
+   <speaker>MRS. FINLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why should I?</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="32">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Explain this to me like I'm a six year old, okay? The entire street is clear except for one small area under construction, with a huge hole that is clearly marked and blocked off, and you decide you</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Nightmares?</context>
+      <utterance>Of course you have a case! Now, I want you to go with my assistant, Iris, and fill out some forms. She'll tell you about our fee arrangement.  Mrs. Finley? Any back pain since the accident? Dizziness?</utterance>
+   <speaker>MRS. FINLEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now that you mention it...</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe offers his hand, getting a look at Andrew's face.</context>
+      <utterance>Tell Iris all about it.  Take good care of Mrs. Finley, Iris.  Beckett, come in.</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Jesus Christ, what happened to you?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Joe WITHDRAWS his hand, before it touches Andrew's.</context>
+      <utterance>I have AIDS.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa-oh!  Sorry, I...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay. Can I sit down?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Andrew hesitates. Joe doesn't sound sure.</context>
+      <utterance>Uh, yeah.</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context>Andrew sits, Joe returns to his desk. (Joe finds himself acutely aware of where Andrew places his hands.)</context>
+      <utterance>Go ahead.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>New baby?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One week old.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Congratulations.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Little baby girl.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Kids are great.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Beckett. I'm real excited about it.  What can I do for you?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was fired by Wyant Wheeler. I plan to bring a wrongful termination suit against Charles Wheeler and his partners.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to sue Wyant Wheeler Hellerman Tetlow and Brown?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Correct. I'm seeking representation.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Continue.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Want to hear mine?</context>
+      <utterance>I misplaced an important complaint. That's their story.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many lawyers did you go to, before you called me?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nine.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Continue.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was diagnosed with AIDS eight months ago. During a bout of pneumonia. I recovered quickly and was back at work in ten days. Since I was doing so well on the AZT, we decided against telling anyone about it.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My lover and I.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your... lover?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miguel Alvarez. We've lived together for nine years.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Continue.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I dove back into work, everything was fine. Until the lesions started...</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="2">
+   <speaker>ANDREW</speaker>
+      <mode>OS - CONT.</mode>
+      <context>REVERSE ANGLE ON ANDREW</context>
+      <utterance>The next morning, I was called to the office for a meeting with the managing partners. Walking down that corridor was strange. Felt like everyone was staring.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Makeup.</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="43">
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>Wheeler's secretary, LYDIA, takes notes.</context>
+      <utterance>Sit down, Andy.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Thanks for coming in.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Bob Seidman CANNOT look directly at Andrew.</context>
+      <utterance>Of course.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy. Before we begin, I'd just like to say: everyone in this room is your friend.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>(NOTE: Joe IS SEEN IN HIS OFFICE, or LEANING AGAINST A WINDOW IN THE CONFERENCE ROOM whenever he speaks.)</context>
+      <utterance>You're in trouble.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know that, Charles.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>More than your friend. Family.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Big trouble.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>And no damage was done.</context>
+      <utterance>Charles, I must apologize again, for the Kronos mishap.  It was a scary few minutes around here. Wow. But thank God, the complaint was found.</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This time. What about next time?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There won't be a next time, I guarantee it.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andy. It seems that something has come over you, lately: A kind of... stupor, a fogginess, a lack of focus... Earth to Andy. Anybody home?</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Helloooo...</utterance>
+   <speaker>KILLCOYNE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right, Andy. The last four, five months you've seemed really out of it...</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>At least... different, somehow.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Perhaps... you're right. I've certainly been busy. With the Kronos complaint, a preliminary injunction hearing and the Saunders trial all falling at the same time...</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Some people think you have an attitude problem, Beckett.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really? Who thinks that, sir?</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>Wheeler seems very grave.</context>
+      <utterance>I do.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>NO ONE else smiles.</context>
+      <utterance>I had no idea there was a concern in that area. Hey:  I'll get to work on it right away.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We've been talking it over, Andy. Your future that is... We feel that, because we respect you so much, we have to be honest with you.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honesty is always best.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you really think so, Andy?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, Bob, I do.  Excuse me? Am I being fired?</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's put it this way, Andy: your place in the future of this firm is no longer secure.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In a word, yes.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>Wheeler rises, wearing a friendly smile.</context>
+      <utterance>We don't think it's fair to keep you here, where your future is limited. But we wish you luck, Andy, all the luck in the world.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>And I hate to rush you out of here, but...</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But he's got lots of other people's lives to ruin...</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... we've got a committee meeting.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, Charles. With all due respect... this is... preposterous! It doesn't make any sense, it sounds as if we're talking about someone else. Pardon the lack of humility, but I've had the distinct impression I was kind of... one of the rising stars around here. And I feel that wasn't just my imagination. And I also think I deserve to know what's really going on here, Charles.</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you're right, Beckett, you don't have an attitude problem.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it easy, Walter.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you'd lost confidence in me, why did you give me the Kronos suit?</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I hoped the challenge would improve your performance. You could say it was a carrot.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A carrot?!</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I buy that.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As in, the vegetable?</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context>Andrew FREEZES -- the full nature of this situation hitting home. He looks each of the PARTNERS in the eye...</context>
+      <utterance>Andy, you nearly blew the case, for God's sake! That alone is inexcusable. It would have been catastrophic for us. Put yourself in our shoes, Andy. There's no coming back from an error like that, regardless of who you are!  I'm sorry, Andy.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>... at last LOOKING DIRECTLY AT Wheeler's secretary Lydia, whose pen is poised above her notebook, waiting for someone to say something. Wheeler breaks the silence.</context>
+      <utterance>Uh huh... Okay... I see...</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>Wheeler, Kenton, Killcoyne, Seidman and Lydia file out. Andrew doesn't move. A SECURITY GUARD enters the room.</context>
+      <utterance>Good luck, Andy.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you?</utterance>
+   <speaker>SECURITY GUARD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm here to escort you to your office so you can organize your belongings.</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="12">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Andrew removes his ballcap -- his hair is cut short, to disguise the effects of chemo.</context>
+      <utterance>Okay. Explain to me like I'm a two year old, because there's an element to this I can't get through my thick head: Didn't you have an obligation to inform your employer you had this dreaded, deadly, infectious disease?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The law says people with disabilities cannot be terminated, so long as they can perform the duties required by their position...</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, okay... They discover you have this horrible, disgusting, terminal illness, and they panic, for any number of perfectly valid reasons. They're frightened for themselves, their families... Maybe it's the homo angle. Maybe they don't want to rub elbows with someone who's just popped out of the closet with a terminal case of acne. And how do they explain your status to the client for Chrissake?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joe, from the day I arrived to the day they fired me, I performed consistently, thoroughly and with absolute excellence. And if they hadn't fired me, that's what I'd be doing today.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay... They want you out. It's against the law to fire you for having AIDS, so they make you look like a fuck up. Which leads us to the mysterious, lost file.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They sabotaged me.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I knew you were going to say that. I don't buy it, and I don't see a case.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look. I know I have a case. If you don't want to take it for personal reasons...</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Andrew rises, thoroughly business-like.</context>
+      <utterance>Correct. I don't.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks for your time.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Beckett? I'm sorry about... what's happened to you. It's a fucking kick in the head.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew exits.</context>
+      <utterance>Don't send flowers, Joe. I'm not dead yet.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="3">
+   <speaker>IRIS</speaker>
+      <mode></mode>
+      <context>Andrew nods, passing one of Joe's colleagues, a hustler named FILKO, who STARES SHAMELESSLY. Joe approaches Iris's desk.</context>
+      <utterance>Have a nice day.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Find out if Armbruster can see me this afternoon.</utterance>
+   <speaker>FILKO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell's wrong with him?</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="20">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe sits in his shirtsleeves on the examining table.</context>
+      <utterance>I'm not worried. What are you doing?</utterance>
+   <speaker>DR. ARMBRUSTER</speaker>
+      <mode></mode>
+      <context>The DOCTOR wraps the blood pressure unit around Joe's arm.</context>
+      <utterance>Checking your blood pressure, relax.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't have contact. What do you consider "contact?" We were sitting in the same room, three, four feet... What if you shake hands? Wait. I know the answer. Only sex, or sharing needles.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe begins rolling down his sleeve.</context>
+      <utterance>Right.</utterance>
+   <speaker>DR. ARMBRUSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Leave that.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>We were wrong.' You</context>
+      <utterance>Yeah, but Doc, isn't it true they keep finding out new things about this disease? So you tell me, today, there's no danger, and I go home, and I hold my baby, and six months from now I hear on the news: "whoops!</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why are we going to do that?</utterance>
+   <speaker>DR. ARMBRUSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joe. I don't care a whit about your private life.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to give me an AIDS</utterance>
+   <speaker>DR. ARMBRUSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Right.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It doesn't travel through the air, by breathing, or touching, right?</utterance>
+   <speaker>DR. ARMBRUSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not by touching, or shaking hands, or hugging, using the same toilet... Even kissing someone with AIDS is safe. But it there's something in your past you're worried about...</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe throws on his jacket, opens the door... then TURNS BACK:</context>
+      <utterance>Thanks, Doc, but I don't need an AIDS test. Are you crazy? But thanks for the information. Really.</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>In my past?</utterance>
+   <speaker>ARMBRUSTER</speaker>
+      <mode></mode>
+      <context>Joe shakes his head.</context>
+      <utterance>IV drug use.</utterance>
+   <speaker>DR. ARMBRUSTER</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>A homosexual encounter.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get real.</utterance>
+   <speaker>DR. ARMBRUSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Unprotected sex with a prostitute.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh.... No. Not really.</utterance>
+   <speaker>DR. ARMBRUSTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Or unprotected sex with someone you didn't know very well, any time during the last twelve years.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="14">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Lisa eats standing up, at the stove, while Joe walks the BABY in their modern kitchen.</context>
+      <utterance>Not especially.</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many gays do you know?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many do you know?</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lots.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who?</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context>For a moment, Joe is struck dumb. Then he says:</context>
+      <utterance>Karen Berman. Aunt Teresa. My cousin Tommy who lives in Rochester. Eddie Meyers from the office. Joe Cantwell, he's one of the partners. His lover, Greg. Stanley, the guy who's putting in our kitchen cabinets.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Aunt Teresa is gay? That beautiful, sensuous woman is a...</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Since when?</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Probably since she was born.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Allright. I admit it: I'm prejudiced. I don't want to work with a homosexual. You got me.</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, Joe...</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean, two guys, doing the horizontal thing? I don't get it. Don't they get confused? "Is that mine? I thought it was yours." Hey, call me old fashioned, call me conservative... I think maybe you have to be a man to get just how nauseating the whole basic idea really is.</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine, Joe.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And the way they work out, pumping up, so they can be macho and faggot at the same time... I can't</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="28">
+   <speaker>LIBRARIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is the supplement. You're right, there is a section on...  ... HIV related discrimination.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew takes the book from her -- but she remains.</context>
+      <utterance>Thank you.</utterance>
+   <speaker>LIBRARIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have a private research room available.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew BLOWS HIS NOSE. Now other PATRONS are watching.</context>
+      <utterance>I'm fine, thanks.</utterance>
+   <speaker>LIBRARIAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wouldn't you be more comfortable in a research room?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. But would it make you more comfortable?</utterance>
+   <speaker>LIBRARIAN</speaker>
+      <mode></mode>
+      <context>The LIBRARIAN turns away, shrugging to a PATRON, indicating she's done all she can do. As Joe continues to watch: one of Andrew's NEIGHBORS picks up his books and moves away. Joe rises, gliding down an aisle of books, keeping one eye on Andrew, who concentrates on his work. Joe approaches, nonchalantly, as if he just</context>
+      <utterance>Whatever, sir.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew goes back to his work.</context>
+      <utterance>Fine.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who'd you get?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Find a lawyer?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a lawyer. How's your baby?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Huh? Oh. Great. She's great.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's her name?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Rayisha.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Joe comes back.</context>
+      <utterance>Rayisha. Very nice. Andrew focuses on his work. Joe steps away.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did they find out?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Nearby, a CHINESE PROFESSOR looks up, startled, when she hears the word "lesion."</context>
+      <utterance>One of the partners spotted a lesion on my forehead.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Andrew concentrates on his work once more.</context>
+      <utterance>Uh huh...</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context>The CHINESE PROFESSOR moves away.</context>
+      <utterance>How do you get from one lawyer spotting a lesion, which could have been a bruise, to the partners deducing you had AIDS and basing a decision to terminate you on that conclusion?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew removes a legal pad with "KENTON" written in big letters across the top, and lots of notes underneath.</context>
+      <utterance>Good point.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>The partner who spotted the lesion, Walter Kenton, used to work for Benton, Myers, in D.C. There's a paralegal there, Maria Torres. She's had lesions on and off for three years. She says it was common knowledge around the office that her lesions were caused by AIDS.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They didn't fire her?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew goes back to his work. Joe stands there.</context>
+      <utterance>No. They didn't fire her.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So Kenton connected the... lesion,</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There is no relevant precedent.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Arline decision. Supreme Court.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>CLOSE ON ANDREW'S HANDS (</context>
+      <utterance>Arline? Andrew SHOVES the legal book toward Joe.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="7">
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Julius!</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dr. J.!</utterance>
+   <speaker>DR. J.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gentlemen... Ladies... JULIUS ERVING enters, greeted by the LAWYERS.</utterance>
+   <speaker>LAWYERS</speaker>
+      <mode></mode>
+      <context>The door is opened again, by the SECURITY GUARD, REVEALING Joe Miller (in jeans and basketball jacket) and a MARSHALL.</context>
+      <utterance>How's it goin', Doctor?/This is an honor!/etc ...</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Wheeler turns. Joe SLAPS a document into Wheeler's hand.</context>
+      <utterance>Excuse me. Charles Wheeler?</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context>NOW the box is QUIET.</context>
+      <utterance>Summons. For you.</utterance>
+   <speaker>DR. J.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Say. What's up, Chuck?</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="17">
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>Did</context>
+      <utterance>... interview every employee, support staff, associates, partners.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What about other homosexual facilities, whatever they are?</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charles...</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What deviant groups or organizations did he secretly belong to?  What is it, Bob?!</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context>They arrive at a quiet, semi-private cul de sac.</context>
+      <utterance>Let's settle with Andy and put this whole tragic mess behind us.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andrew brought AIDS into our offices, into our men's room. He brought AIDS to our annual goddamn family picnic.</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We ought to be suing him.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For Christ's sake, where's your compassion?</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context>Only Seidman shows any kind of REACTION.</context>
+      <utterance>Compassion? Andy sucks cocks, Bob. He takes it up the ass. He's a pervert.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's kind of... extreme, Walt. Andy's private life is none of our business.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bob. You're trying my patience. Andrew Beckett is making his private life our business. We gave him Kronos. Did he say, "I'm sick. I might not be able to see this through?"</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was doing a great job.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bob. I must ask you to shut the fuck up. Did Andrew Beckett say "I might not be able to serve our clients to the</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A jury might decide that Andy has a case.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute. The man was fired for incompetence, not because he has AIDS. You didn't know he was sick, did you, Bob?</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Holy Shit. Did you, Bob?</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context>Wheeler walks away, followed by Kenton and Killcoyne. Bob Seidman stands alone in this dark place.</context>
+      <utterance>No. Not really.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="9">
+   <speaker>FILKO</speaker>
+      <mode></mode>
+      <context>Joe sweeps by, just arriving for work.</context>
+      <utterance>Charles Fucking Wyant Wheeler?!</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Filko keeps pace with Joe down the corridor. ANOTHER COLLEAGUE calls out from an office as Joe passes:</context>
+      <utterance>Morning, Filko.</utterance>
+   <speaker>COLLEAGUE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, it's the local chapter of the ACLU!</utterance>
+   <speaker>FILKO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're a Republican, Joe! You belong to the NRA!</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How many toilet stalls are there in the women's restroom on this floor, Filko?</utterance>
+   <speaker>FILKO</speaker>
+      <mode></mode>
+      <context>Filko follows Joe into Joe's office.</context>
+      <utterance>How many... what?!</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two. How many toilet stalls are there in the</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>(tapping on the window, to the</context>
+      <utterance>Low-life, sleazy scumbags. Of course they want a postponement, I've got a client with a terminal disease. They're going to drag their heels every step of the way, the rotten bastards.</utterance>
+   <speaker>PAINTERS)</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that spelled right?</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="6">
+   <speaker>JOE</speaker>
+      <mode>VO - CONT.</mode>
+      <context>CAMERA DRIFTS THROUGH the loft, finding Andrew in the rooftop solarium, sitting crosslegged in front of a candle.</context>
+      <utterance>I just wanted to tell you...</utterance>
+   <speaker>JOE</speaker>
+      <mode>VO - CONT.</mode>
+      <context>Andrew's eyes are closed. Next to him rests a tape player. A WOMAN'S VOICE IS HEARD, accompanied by NEW AGE MUSIC:</context>
+      <utterance>... we're trying to set a date for the prelim. Hang in there.</utterance>
+   <speaker>WOMAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can heal myself.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can heal myself.</utterance>
+   <speaker>WOMAN'S VOICE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can heal myself.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can heal myself.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="5">
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was coming out of the gym today, and I ran into Jimmy. Do you know what he asked me? "What's it like knowing your boyfriend's going to die?"</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jerk... What did you say?</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said, "Everyone's going to die, Jimmy. But Drew's not going to die of AIDS. There's a cure around the corner, and he plans to be around to take advantage of it." Miguel strokes Andrew's hair.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got that right, Mikey...  You still believe that, don't you?</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I think it will be a simple solution. They'll put it in a syringe, inject it into your bloodstream. It'll neutralize the virus. It'll revitalize the immune system, and people with AIDS will become healthy again.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="28">
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>SILENCE. Everyone watches Andrew for his reaction.</context>
+      <utterance>You're looking better, Andy. How do you feel?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>JUDGE LUCAS GARNETT enters his chambers (not wearing a Judge's robe). He shakes hands with Wheeler and Kenton.</context>
+      <utterance>Fine, thanks, Charles.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charles, Walter...</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Congratulations on the new grandson.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context>The Judge brushes by Joe and Andrew without a word. The room becomes SILENT as the Judge takes a seat.</context>
+      <utterance>Thank you. We're very happy.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Attorney for the plaintiff?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Macready and Shilts Legal Services.</context>
+      <utterance>Joseph Miller, Your Honor.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've seen your television commercials. "If you or anyone you know has been injured through the fault of others... It should say, "through the</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>On behalf of the defendants?</utterance>
+   <speaker>BELINDA CONINE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Belinda Conine. Of Petersen, Lehigh, Monroe and Smith.</utterance>
+   <speaker>JEROME GREEN</speaker>
+      <mode></mode>
+      <context>And a WASPISH lawyer wearing round glasses:</context>
+      <utterance>And Jerome Green.</utterance>
+   <speaker>DEXTER SMITH</speaker>
+      <mode></mode>
+      <context>A white-haired lawyer next to Belinda:</context>
+      <utterance>Dexter Smith.</utterance>
+   <speaker>RALPH PETERSEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ralph Petersen.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're outnumbered four to one.  Whom do I address? I can't talk to four lawyers at once.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm chief litigator, Your Honor.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine. I've asked the litigants to be present for this conference, in the hope we can settle this matter today, among ourselves... There is nothing I hate more, than to see lawyers suing each other. If you look at the opinion polls, when Mr. John Q. Citizen is asked to rank professions according to the respect he holds for them... Where are the lawyers? Somewhere below personal fitness trainers and only slightly above child pornographers. If we keep suing each other, if we fail to settle the smallest difference among ourselves with mutual respect, if we continue to scrap like bucks in heat, we'll fall lower on that list. And when people lose respect for lawyers, they lose respect for the law. And when this society loses all respect for the law, we'll be murdered in our beds, my friends, our cherished institutions will be burned to the ground and our children and our grandchildren will live like savages.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If it please Your Honor, we</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold it, Joe.  He wants to come back to work, Chuck.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's impossible, Your Honor.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's impossible, Joe.</utterance>
+   <speaker>BELINDA CONINE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If it please Your Honor, we're prepared to offer a cash settlement of twenty-five thousand dollars.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your generosity overwhelms me, Belinda, considering my client was earning over a hundred thou when he was terminated almost six months ago.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Give me a break, Joe. Let's cut through these false attitudes. Give them a figure. How much do you want?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Based on what my client would have earned over the next three years, including benefits and projected raises, and the extraordinary cost of medical care for someone with Acquired Immune Deficiency Syndrome... We would settle today for the very fair amount of one million five hundred thousand dollars.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context>Andrew WHISPERS to Joe, who interrupts the Judge:</context>
+      <utterance>Very good, Joe. Now, Belinda, I've got a figure over here, of one million, five. I...</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One more thing, Your Honor...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Any settlement agreement</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="11">
+   <speaker>JEROME GREEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We have letters.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why haven't you produced these letters?</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it easy.  What's the big deal, Chuck? The boy wants a letter, to show to his mother, for her to keep after he's gone. Why are you being hard- assed about this?</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>But I'd have to lie to do it.</context>
+      <utterance>I wish I could exonerate you, Andy.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can save it for the jury, Charles. I want to hear you say, under oath, in front of a judge and a jury, I'm a bad lawyer.  Gentlemen.  Counselor.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't do this, Andy.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa, whoa...  What do you expect them to say, you're Alan Dershowitz?</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A trial takes</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'll be sorry, Beckett.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>Joe scans the room, all eyes are on him. His frown turns into a grin. He faces the Judge.</context>
+      <utterance>Andy, you don't want this.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe exits.</context>
+      <utterance>With all due respect, Your Honor, my client chooses to pursue his constitutionally guaranteed right to a trial.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="2">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>The CAMERA POINTS to SEVERAL PAIRS OF CHILD'S HAND PRINTS in the sidewalk, then, BACK TO ANDREW IN CLOSE UP, SMILING.</context>
+      <utterance>This is the house where I grew up. In Downington, Pennsylvania.  See this... ?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Those are my cute little hand prints. And my brother's and my sister's.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="2">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew goes inside, speaking to the CAMERA:</context>
+      <utterance>Today is my parents' fortieth wedding anniversary.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>This is the front door. I caught a finger in this door, once...  This one. Broke it.  This is the hallway, my mother calls it a foyer...</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="10">
+   <speaker>ALEXIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uncle Andrew!</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is my niece, Alexis. Say hello, Alexis.</utterance>
+   <speaker>ALEXIS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mommy's pregnant again.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew's older and very down to earth sister JILL, puts her arms around Andrew, squeezing tight.</context>
+      <utterance>You heard it here first, folks. News as it happens.</utterance>
+   <speaker>JILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello, darlin'.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is my sister, Jill, the most fertile woman on the planet. She's married to Reverend Jim.</utterance>
+   <speaker>JILL</speaker>
+      <mode></mode>
+      <context>As Jill leaves Andrew's arms, the CAMERA IS TRADED OFF TO ANDREW, who SHOOTS JILL GIVING MIGUEL A HUG.</context>
+      <utterance>You feel thin.  Hello, Miguel.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey, Jill. Nice to see you, sweetheart.</utterance>
+   <speaker>JILL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Handsome devil.  Is he eating?</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We don't discuss his weight.  Do we?</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="5">
+   <speaker>ANDREW</speaker>
+      <mode>OS</mode>
+      <context>A GROUP OF LADIES</context>
+      <utterance>And what will we find in... da duh da duh da duh... the KITCHEN!</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, Mom. How do you feel on your fortieth anniversary?</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ancient. How do you think I feel? Put that thing down and give me a hug.  Andrew, stop! ... He still doesn't listen.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's Dad?</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>One of Andrew's YOUNG NEPHEWS SHOVES HIS FACE into the CAMERA, UNTIL</context>
+      <utterance>He's out in his shed showing your uncle his new riding mower.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="13">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Things might be said, at the trial, that... are not going to be easy for you to hear. Things about me, about my private life. And I want to make sure it's okay with everybody.</utterance>
+   <speaker>MATT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I appreciate you asking, Andy, but really, it's your call.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you think, Jill?</utterance>
+   <speaker>JILL</speaker>
+      <mode></mode>
+      <context>Andrew's father STARES at his folded hands.</context>
+      <utterance>To be honest, I'm worried about Mommy and Daddy. They've had to go through so much already... And, we all know...  There's going to be even worse things to deal with, eventually. I wonder if it's fair to put them through this.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom?</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>All I know is, you got through your diagnosis fine, like a trooper. But when they fired you... you were so devastated, Andy... I don't expect any of my kids to sit in the back of the bus. Fight for your rights.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>There's a pause before Bud Beckett speaks.</context>
+      <utterance>Thanks, Mom... Dad?</utterance>
+   <speaker>BUD</speaker>
+      <mode></mode>
+      <context>Andrew's construction worker brother, RANDY, wipes tears from his eyes. Clearly their father is in alot of pain.</context>
+      <utterance>Supposedly, the Lord doesn't give you more trouble than you can handle. But I'm having a hard time believing that these days.</utterance>
+   <speaker>BUD</speaker>
+      <mode>CONT.</mode>
+      <context>Andrew gazes at his father with incredible love. Miguel puts an arm around Andrew.</context>
+      <utterance>Andy, the way you've faced this whole thing, you and Miguel, with so much courage... your mother and I have been so very impressed...</utterance>
+   <speaker>BUD</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>I can't imagine there is anything, that anyone could say, that would make us feel less proud of you.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Dad. I love you guys. How about you, Randy?</utterance>
+   <speaker>RANDY</speaker>
+      <mode></mode>
+      <context>Everyone LAUGHS. Andrew and Randy high five.</context>
+      <utterance>Hey. You're my kid brother, Andy. That's the bottom line. I mean, what are those bastards going to say? You're gay? Shit, I knew that when you were five years old.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wait a minute...  You're</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="3">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess... I don't have time for that any more.</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>Everyone bows heads, holding hands in a circle.</context>
+      <utterance>Jim? Will you lead us in a prayer?</utterance>
+   <speaker>REVEREND JIM</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dear Lord. Sometimes it is difficult to remember to be grateful...</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="2">
+   <speaker>REVEREND JIM</speaker>
+      <mode>CONT.</mode>
+      <context>In Jesus' name, we pray...</context>
+      <utterance>To remember, in our times of sorrow and confusion, that we have You to turn to, and each other. Bless and keep Andrew and Miguel, dear Lord, deepen and strengthen their love as they face the struggles that lay ahead. Bless and watch over all of us, fill us with Your love, Your light, and Your peace, which passeth all understanding.</utterance>
+   <speaker>EVERYONE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Amen.</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="4">
+   <speaker>GUIDO</speaker>
+      <mode></mode>
+      <context>VIDEO CAMERA PANS: RELATIVES eating cake, KIDS chasing each other, a GRANDMOTHER in a wheelchair holding a NEWBORN, watching silent, video home movies. CAMERA FINDS Andrew and Niguel eating anniversary cake (Andrew barely touches his). Playing for the camera, Miguel dips his finger into icing and smears it onto Andrew's nose. Andrew tries to reach the icing with his tongue. CAMERA PANS WITH ANDREW as he comes forward to dance with his mother, while Jill dances with their father. CAMERA RETURNS TO MIGUEL. MATT (behind the camera) says:</context>
+      <utterance>"After all the days of Spring have flown..."</utterance>
+   <speaker>MATT</speaker>
+      <mode>OS</mode>
+      <context>ZOOM IN CLOSE ON NIGUEL (who's watching Andrew):</context>
+      <utterance>Hey, Miguel, can you imagine any two people being together for forty years?</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context>VIDEO CAMERA PANS to Andrew dancing with his Mom, lingering on this IMAGE...</context>
+      <utterance>Yes. I can.</utterance>
+   <speaker>JOE</speaker>
+      <mode>VOICE OVER</mode>
+      <context></context>
+      <utterance>Forget everything you've seen on TV, and in the movies...</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="4">
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context>Joe crosses the courtroom, coming to stand in front of... ANDREW, whose appearance has changed:</context>
+      <utterance>You are presented with a simple fact: Andrew Beckett was fired. You will hear two explanations for why he was fired. Ours. And theirs...</utterance>
+   <speaker>AIDS...</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joe pauses, letting that sink in.</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context>Joe walks away from Andrew.</context>
+      <utterance>Point number four. They panicked. And, in their panic, they did what most of us would like to do with AIDS... Get it, and the people who have it, as far away from us as possible.</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>The behavior of Andrew Beckett's employers may seem reasonable to you. It does to me. After all, AIDS is a deadly, incurable, disease...</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="3">
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fact. Andrew Beckett performed at a consistently mediocre level. Fact. He made a grievous error on a multi-million dollar lawsuit... Fact. He claims he is the victim of lies and deceit. Fact. Andrew Beckett lied to his employers, going to great efforts to conceal his disease from them. Fact. He was successful in his duplicity. The partners at Wyant Wheeler did</utterance>
+   <speaker>BELINDA</speaker>
+      <mode>CONT.</mode>
+      <context>Joe watches Andrew for his reaction.</context>
+      <utterance>Fact. Andrew Beckett is dying.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Fact. Andrew Beckett is angry. Because his "lifestyle," his reckless behavior, has cut short his life... And in his anger, his rage, he's lashing out. And he wants someone to</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="20">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andrew Beckett represented your company in a lawsuit in 1990, is that correct?</utterance>
+   <speaker>LAIRD</speaker>
+      <mode></mode>
+      <context>Andrew glances toward the jury box: the MARINE JUROR writes in a tiny notebook.</context>
+      <utterance>Wyant Wheeler represented us.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But, Andrew Beckett was in charge of litigation for the suit.</utterance>
+   <speaker>LAIRD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's correct.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Were you pleased with his work?</utterance>
+   <speaker>LAIRD</speaker>
+      <mode></mode>
+      <context>Joe and Andrew exchange a LOOK -- Laird's response surprises and disappoints them.</context>
+      <utterance>We were satisfied.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Laird glances toward Charles Wheeler before answering.</context>
+      <utterance>Were you satisfied, or were you pleased?</utterance>
+   <speaker>LAIRD</speaker>
+      <mode></mode>
+      <context>Joe refers to legal documents.</context>
+      <utterance>We were satisfied.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Is that correct?</context>
+      <utterance>Mr. Laird, when I approached you about being a witness at this trial, and you agreed, you gave sworn testimony in a deposition.</utterance>
+   <speaker>LAIRD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's correct.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>According to the deposition, you said you were "thrilled, impressed, overwhelmed" by the quality of Andrew Beckett's work. Do you remember saying that?</utterance>
+   <speaker>LAIRD</speaker>
+      <mode></mode>
+      <context>Joe takes on a street-tough tone:</context>
+      <utterance>I may have said something like that. But that's not how I feel at this moment.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, Mr. Laird. Explain this to me like I'm a four year old: Did Andrew Beckett win your lawsuit for you or not?</utterance>
+   <speaker>LAIRD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We won.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did that thrill, impress and overwhelm you?</utterance>
+   <speaker>LAIRD</speaker>
+      <mode></mode>
+      <context>Joe STARES at the guy.</context>
+      <utterance>It satisfied me.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a long way between being overwhelmed and being satisfied. A cheeseburger may be satisfying whereas caviar and champagne and roast duck and baked Alaska for dessert might be considered overwhelming. Do you agree?</utterance>
+   <speaker>LAIRD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I might.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Five months ago you characterized Andrew Beckett as caviar and now you're calling him a cheeseburger. Your standards have shifted a great deal, and I'd like to know why you've changed your mind.</utterance>
+   <speaker>LAIRD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Since that time I've devoted more thought to the subject, and that's how I feel now.</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="6">
+   <speaker>JEROME GREEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Partner Robert Seidman was the supervising attorney for your lawsuit?</utterance>
+   <speaker>MR. LAIRD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right.</utterance>
+   <speaker>JEROME GREEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Does the supervising attorney guide the litigating attorney during the trial?</utterance>
+   <speaker>MR. LAIRD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Often, he does.</utterance>
+   <speaker>JEROME GREEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As far as you know, in the handling of your lawsuit, Andrew Beckett was simply following orders.</utterance>
+   <speaker>LAIRD</speaker>
+      <mode></mode>
+      <context>Andrew glances over his shoulder: at Robert Seidman, who meets his gaze.</context>
+      <utterance>That's a fair assessment of the situation.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="2">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not political. I just want compensation for being fired.</utterance>
+   <speaker>REPORTER MEDINA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you are gay, aren't you?</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="7">
+   <speaker>FILKO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hell, no! JOE  "Angela, we're standing in Philadelphia, the City of Brotherly Love, the birthplace of freedom, where our Founding Fathers authored the Declaration of Independence. And I don't remember that glorious document saying "All</utterance>
+   <speaker>FILKO</speaker>
+      <mode></mode>
+      <context>Joe does not laugh.</context>
+      <utterance>Hey, Joe.  You're not starting to get a little... light on your feet here on us, are you?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, Filko. I am.  I'm on the prowl, Filko. I need a man. Not just any man. I need a hunk. A hunk like you. How about it, Filko? Want to play sailor? This time, I'll be first mate and you can be Columbus.</utterance>
+   <speaker>FILKO</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Chill out, Joe.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Those people make me sick, Filko! But a law's been broken, okay? The</utterance>
+   <speaker>TV REPORTER MEDINA</speaker>
+      <mode></mode>
+      <context>All eyes turn to the TV: SARAH BECKETT IN CLOSE UP.</context>
+      <utterance>"... now the public knows that your son has AIDS and he's gay. How does that make you feel?"</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>The bar ERUPTS with a CHORUS OF BOOS AND CATCALLS.</context>
+      <utterance>"This is a world full of war, famine, poverty, homelessness... and people make a fuss because two men or two women want to live together, or make love. Seems kind of silly, doesn't it?"</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="11">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>The witness: MARIA TORRES, Hispanic, 35, healthy-looking.</context>
+      <utterance>And Walter Kenton knew the lesions on your face and arms were caused by AIDS?</utterance>
+   <speaker>MARIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Definitely. People were going around, whispering things. I figured I didn't have anything to lose, so I told all the partners.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>CLOSE ON KENTON, looking confident.</context>
+      <utterance>How did Walter Kenton treat you, after you told him you had AIDS?</utterance>
+   <speaker>MARIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Every time he came into contact with me, he'd get this look on his face. I called it, the "Oh God" expression. As in "Oh God, here comes that woman with</utterance>
+   <speaker>AIDS."</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Andrew LAUGHS.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ms. Torres? Have your employers fired you for having AIDS?</utterance>
+   <speaker>MARIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. When I need time off, for medical reasons, we work it out.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Jerome Green rises.</context>
+      <utterance>Thank you. No more questions.</utterance>
+   <speaker>JEROME GREEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Torres. How did you contract the AIDS virus?</utterance>
+   <speaker>MARIA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>During a transfusion. I lost a lot of blood giving birth to my second child.</utterance>
+   <speaker>JEROME GREEN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In other words, in</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="20">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Beyond noticing the marks on his face, were there other things about his appearance that made you suspect he had</utterance>
+   <speaker>AIDS?</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>THE WITNESS: Paralegal Anthea Burton.</utterance>
+   <speaker>ANTHEA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was losing weight. He looked kind of tired sometimes. But he was working so hard... Still, I felt something was wrong.  And I can't believe</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just answer the question.</utterance>
+   <speaker>ANTHEA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ms. Burton. You're black.</utterance>
+   <speaker>ANTHEA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that a question?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. Have you ever felt discriminated against, at Wyant Wheeler?</utterance>
+   <speaker>ANTHEA</speaker>
+      <mode></mode>
+      <context>Wheeler shakes his head, disgusted. Kenton fumes, outraged. Seidman looks surprised.</context>
+      <utterance>Yes.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In what way?</utterance>
+   <speaker>ANTHEA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well... One time, Mr. Wheeler's secretary, Lydia, told me Mr. Wheeler had a problem with my earrings.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Anthea is wearing large, dangling African-style earrings.</context>
+      <utterance>Your earrings?</utterance>
+   <speaker>ANTHEA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Apparently, Mr. Wheeler felt they were too... "ethnic" is the word she used. She said he would like it if I wore something smaller, less garish, and... more "American."</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did you say?</utterance>
+   <speaker>ANTHEA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said my earrings</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miss Burton? Do you still work at Wyant Wheeler?</utterance>
+   <speaker>ANTHEA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Were you recently promoted?</utterance>
+   <speaker>ANTHEA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes. I'm now in charge of the paralegal department.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="13">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good school. What year?</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Second.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Great.</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you like to have a drink with me? I just finished a game, I could use a beer.  I don't pick up people in drug stores every day.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa, whoa, whoa, whoa... do you think... ? You think</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's the matter with you? Do I look gay to you?</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do I look gay to you? Relax.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Relax? I ought to kick your faggoty little ass for you!</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Take it as a compliment. Geesh. But Joe is really upset. People are watching.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't you know this is exactly the kind of bullshit that makes people hate you guys?</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you! You want to kick my ass? You want to try?  Asshole.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're the asshole, buddy.</utterance>
+   <speaker>YOUNG MAN</speaker>
+      <mode></mode>
+      <context>Joe stands there, holding the Pampers, people STARING.</context>
+      <utterance>Get a life.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="4">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But what was it?! What was this guy thinking... ?!</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't know, Joe.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is there some kind of expression I've picked up from Beckett?! Some kind of fairy attitude I've unconsciously adopted?! Am I walking different?! Some kind of vocal thing?! Have I picked up some kind of homo</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very funny. I had a box of Pampers under my arm for Chrissake!</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="4">
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joe?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah... ?</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two men making love... ? Now tell me again...</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, so... help me with this one, Joe... Is it disgusting for someone to put his dick into someone's mouth? Or, is it disgusting for someone to take a dick into</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="14">
+   <speaker>JAMEY</speaker>
+      <mode></mode>
+      <context>TITLE: "</context>
+      <utterance>Yes. We found a copy. It been incorrectly filed...</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Jamey answers nervously:</context>
+      <utterance>Has a file ever disappeared like that before? Vanished into thin air, all of a sudden, only to reappear in the nick of time?</utterance>
+   <speaker>JAMEY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've never known that to happen before. No.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you have something to do with this file being lost accidentally-on-purpose?</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Objection!</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll rephrase.  Did you have anything to do with this file being... misplaced?</utterance>
+   <speaker>JAMEY</speaker>
+      <mode></mode>
+      <context>Joe stands, staring at Jamey. Too long. Jamey squirms.</context>
+      <utterance>Absolutely not.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you a homosexual?</utterance>
+   <speaker>JAMEY</speaker>
+      <mode></mode>
+      <context>Joe pressing forward, toward Jamey.</context>
+      <utterance>What?!</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>The COURTROOM ERUPTS: ACTIVISTS booing Joe, Wheeler's crowd expressing OUTRAGE, JURORS looking confused. Andrew takes in the commotion, as the JUDGE BANGS HIS GAVEL.</context>
+      <utterance>C'mon, Mr. Collins. Are you homosexual? You know, gay?</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context>Andrew trains his attention on Joe.</context>
+      <utterance>Hold it, hold it!</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Objection! Where has this come from?! Suddenly Counsel is attacking his own witness. Mr. Collins' sexual orientation has absolutely no relevance to this case.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context>Joe faces Andrew, also curious to know what Joe's up to.</context>
+      <utterance>I said, HOLD IT!  Mr. Miller. Could you kindly share with me exactly what's going on in your brain, because I don't have a clue at the moment.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Honor, everyone in this courtroom is thinking about sexual preference, sexual orientation, whatever you want to call it. They're looking at me, and wondering about it...  They're looking at Mr. Beckett, and wondering about it. They're looking at Mr. Wheeler and wondering about it. They might even be looking at you and wondering about it. So, let's get it out in the open. Let's talk about what this case is really about: the general public's hatred... our loathing, our</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="3">
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context>And sexual orientation.</context>
+      <utterance>In this courtroom, Mr. Miller, justice is blind. To matters of race, creed, color, religion.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With all due respect, Your Honor... We don't live in this courtroom, do we?</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. We don't... However, as regards this witness, I'm going to sustain the defense's objection.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="4">
+   <speaker>ROCK MUSICIAN JUROR</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Everybody has a couple of gay friends. Don't you?</utterance>
+   <speaker>MARINE</speaker>
+      <mode></mode>
+      <context>The MARINE moves closer to the urinal, so that no one can see his private parts.</context>
+      <utterance>No, sir. I do not.</utterance>
+   <speaker>ROCK MUSICIAN JUROR</speaker>
+      <mode></mode>
+      <context>The MARINE shakes, zips, flushes, turns away. He pauses to look directly at the ROCK MUSICIAN JUROR.</context>
+      <utterance>You might have them, and just not know they're gay.</utterance>
+   <speaker>MARINE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="19">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And how many weeks at a time would you be out to sea, without stopping at port?</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Anywhere from two weeks, to several months.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Kenton glances at the MARINE JUROR.</context>
+      <utterance>Any women on board?</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not when I was in the Navy.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So during those long voyages, months at a time, out to sea, no women in sight, a hundred, hardworking, robust, young men, in the prime of their life, at the peak of their natural appetites, desires, their god- given, hormonal</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Andrew covers his face with his hands.</context>
+      <utterance>Like... two sailors playing hide the salami.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Objection!</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Miller!</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We had one guy like that.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context>Kenton seems eager to tell his story. Joe stands with crossed arms, waiting.</context>
+      <utterance>You haven't ruled on my objection, Your Honor.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's continue.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You had one guy "like that?"</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. But we took care of him.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did you do that?</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context>LAUGHTER and SOME APPLAUSE from some SPECTATORS, and some JURORS. ACTIVISTS BOO and HISS. The JUDGE POUNDS HIS GAVEL.</context>
+      <utterance>We stuck his head in the latrine, after ten of us had used it.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You taught him a lesson.</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, we did.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like firing Andrew Beckett taught</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll withdraw.  You were aware, when you worked with Maria Torres, that she had AIDS, correct?</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="2">
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I</utterance>
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I felt, and still feel, nothing but the deepest sympathy and compassion for people like Maria, who have contracted this terrible disease through no fault of their own.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="12">
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not going through.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew reaches for a law book.</context>
+      <utterance>We'll have to flush it again.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hold still. Shit.  The goddamn vein's clotted. We have to go the goddamn hospital, so they can change the goddamn catheter.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Skip the treatment.</context>
+      <utterance>I have too much work to do.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're not skipping this treatment.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I said, skip it, Michael. It's my treatment.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fuck you. This shit's probably not doing me any good anyway.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context>Miguel shoves away from the table.</context>
+      <utterance>That shit's saving your life, you asshole!</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's wrong with you?</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Close the law book.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not going to close the--</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="9">
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The least you can do is look at me, while I'm sticking this shit into your arm. Forget the fucking case, one hour a day, and give me a little of your time.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't think there's much time left, do you?</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not what I said.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're scared. You think we're near the end.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe I should start making plans, is that what you think? Start planning my memorial service? "Begin to prepare for the inevitable."</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you should think about it.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's that mean?!</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Maybe you should think about it.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="3">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not going to die.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right. We're on the Positive Plan. You don't have a Fatal Disease, you have Manageable Illness.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want me to give up? Let this thing turn us into</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="6">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not ready to die.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context>Miguel slides down the wall, sitting in a heap. Andrew goes to him. They hug. Miguel holds him tight.</context>
+      <utterance>Do you think I'm ready for it?! I hate this shit. I'm not a fucking martyr! I hate every goddamn part of it!</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode>CONT.</mode>
+      <context>Miguel rocks in Andrew's arms. Andrew kisses the top of his head, holding tight.</context>
+      <utterance>Please don't leave me. I love you so much. Don't die, don't leave me, please...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>A MOMENT. Andrew stroking Miguel's hair, as he calms down.</context>
+      <utterance>I am so scared. I am so fucking, incredibly, fucking scared...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>You know, there's only one thing to do.  We have to have a party.</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context>The DOOR IS OPENED -- by the LEAD SINGER OF WHITE SNAKE: big hair, leather, guitar.</context>
+      <utterance>My lettuce is wilting.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="4">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're friends of Beckett's.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's me, you dork.</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm Lisa Miller.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Glad to finally meet you. Come on in.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="23">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Miguel approaches, dressed as a MEMBER OF MEGA-DEATH or ANTHRAX. He strikes a pose, contorts his face and hits an air guitar riff. Andrew crosses guitars with Miguel. Then:</context>
+      <utterance>I have to introduce you to the can of soup. You can enter the costume contest together as a lunch special.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Miguel's sister MARIA is passing by with a GROUP OF FRIENDS. Everyone ad libs greetings.</context>
+      <utterance>This is Lisa Miller. Miguel Alvarez.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My sister, Maria.  Pastrami on rye?</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Corned beef.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Want to dance?</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context>Miguel leads Lisa away. Joe is reluctant to give her up.</context>
+      <utterance>Sure!</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Energized, more alive...</context>
+      <utterance>Beckett. You seem... better.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew studies Joe, trying to figure out the costume.</context>
+      <utterance>I had a blood transfusion today. I feel great.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm a law suit.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not bad.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get it?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew leads Joe through the crowd, greeting Rachel, skin painted blue (SMURFETTE) her daughter AMY (BART SIMPSON), Anthea, TYRONE from Dr. Gillman's office (A COWBOY), and TYRONE'S LOVER (A HORSE) ... Some of Dr. Gillman's PATIENTS are here too, including the YOUNG ASIAN MAN who is now in a wheelchair. And, one or two of ANDREW'S SIBLINGS may be present as well. And Alan, Bruno and Chandra, and some arty friends and neighbors.</context>
+      <utterance>Let's find you a drink.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>What do you want?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Beer.  We need to go over your Q and A.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me, I'm having a goddamn party, is that allright with you?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sure. It's fine.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, we have to do it. But later, allright?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>A MAN dressed as LA TOYA JACKSON (with fake snake) squeezes past Joe, reaching for a beer.</context>
+      <utterance>Thank you.</utterance>
+   <speaker>LA TOYA</speaker>
+      <mode></mode>
+      <context>Andrew is SMILING at Joe.</context>
+      <utterance>'Scuse me, darling.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You think I'm uncomfortable...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Correct.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe spills beer down his shirt.</context>
+      <utterance>You're right.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="6">
+   <speaker>MARIE ANTOINETTE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm an accountant. What do you do?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>--Andrew's mother Sarah, as Marge Simpson, delivers a tray of hors d'oeuvres to Joe (standing next to a POLICEMAN):</context>
+      <utterance>I'm a lawyer.  That's my wife!</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have a cocktail wienie.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, Sarah.  Nice costume.</utterance>
+   <speaker>POLICEMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not a costume, I just got off work. You're cute.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's my wife. Want to see a picture of my baby?</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="3">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'll see you in an hour, max.</utterance>
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context>Lisa climbs into the cab which she is sharing with the NUN and MARIE ANTOINETTE and LA TOYA.</context>
+      <utterance>Night, honey.</utterance>
+   <speaker>NUN/MARIE ANTOINETTE/LA TOYA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Night, Joe!</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="32">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew clears away party debris from the table, making space for his legal work. He is attached to an IV line, which is connected to a drip bag on a rolling stand, that can move with him. He is no longer in costume.</context>
+      <utterance>Congratulations, Miller.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>You survived your first gay party intact.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let me tell you something, okay? When you're brought up, like the rest of us, in a place like where I was brought up, there's not a whole lot of discussion about... homosexuals. As a kid, you're taught right away that queers are weird, queers are funny, they're a danger to kids, they're afraid to fight, and they all want to cop your joint. And that pretty much sums up the general thinking out there, if you want to know the truth.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you for sharing that with me, Joe.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe begins ticking off a list of courtroom reminders:</context>
+      <utterance>Let's review these notes for your testimony. We have a big day on Monday.</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>When you refer to Wheeler, call him Charles, to show how you'd been admitted to the inner circle, you were considered one of them.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh huh...</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Beckett?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charles. Okay. Miller?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Joe hesitates. They're having a personal conversation?</context>
+      <utterance>Do you... pray?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe goes back to the notes:</context>
+      <utterance>Yeah. Sure.</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Then we establish how Wheeler's boys recruited you after law school...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What have you prayed for?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For a healthy baby. For Lisa to make it through the delivery. For the Phillies to get into the playoffs.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a possibility I won't be around for the end of this trial.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've considered that.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What happens?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We proceed, representing your estate.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've made provisions in my will for some charities. Miguel will need a lawyer. I know it's not your area...</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know a good probate lawyer.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew moves to the stereo, pulling the IV line with him.</context>
+      <utterance>Thanks.  Do you like opera?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Opera?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Want to hear my favorite aria?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Opera?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew sways through the room to the music, pulling the IV at his side. He seems truly free and relaxed.</context>
+      <utterance>Andrea Chenier, by Giordano. This is Madeleine. She's telling how, during the French revolution, a mob set fire to her house. Her mother died, saving her. "I look... The place that cradled me was burning!" Do you hear the heartache in her voice? Then, here come the strings. Everything changes. The music fills with hope. Madeleine says...</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>"It was during that sorrow that love came to me! A voice filled with harmony That said... Live still, I am Life!" "I am the god that descends From the heavens to the earth To make of the earth A heaven!" ANGLE ON JOE: Shifting, uncomfortable.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context>Joe sits there, fidgeting. He reaches for his briefcase organizing his notes.</context>
+      <utterance>"I am Oblivion! I am Glory! I am Love, Love, Love!" The MUSIC ENDS.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Andrew collects himself, as Joe rises from his chair.</context>
+      <utterance>I think I'll... I told Lisa.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew follows Joe to the door.</context>
+      <utterance>Right.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>I'll look over the Q and A.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>An awkward moment, both men standing with their hands at their sides -- will one of them initiate a handshake? Joe gives a little "salute," then leaves.</context>
+      <utterance>You're ready, don't worry.</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="2">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wyant Wheeler had aggressively recruited me. They were the most prestigious firm in Philadelphia, full of opportunity. And I was impressed by the partners.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>(</context>
+      <utterance>Including Charles Wheeler?</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="11">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What impressed you about him?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He was... the kind of person I thought I wanted to be.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What kind of person is that?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Belinda Conine MAKES A NOTE ABOUT THAT.</context>
+      <utterance>Possessed of an encyclopedic knowledge of the law. A razor sharp litigator, a genuine leader, gifted at bringing out the very best in others. An awesome ability to illuminate the most complex of legal concepts to colleagues, courtrooms, the person on the street.  The kind of person who plays three sets of tennis but doesn't sweat. But underneath the elegant surface, was an adventurous spirit.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Obviously, at this time, you weren't sick.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's possible I was infected with the HIV virus at that time, but I wasn't diagnosed until several years later.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You didn't look then, the way you look now?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A regular all-American guy?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I suppose you could say that.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Except... you were gay?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I still am.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="17">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In the years you worked at Wyant Wheeler, did you ever tell Charles Wheeler you were gay?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I didn't.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you explain</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm seeing him this afternoon.</utterance>
+   <speaker>FIRST MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you call a woman who has PMS and ESP at the same time?.</utterance>
+   <speaker>SECOND MAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>FIRST MAN</speaker>
+      <mode></mode>
+      <context>LAUGHTER. Andrew keeps his eyes closed, leaning against the wall of the sauna, next to Wheeler, relaxing.</context>
+      <utterance>A bitch who knows everything.</utterance>
+   <speaker>CHARLES WHEELER</speaker>
+      <mode></mode>
+      <context>Andrew opens one eye.</context>
+      <utterance>How does a faggot fake an orgasm?</utterance>
+   <speaker>CHARLES WHEELER</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>He spits on your back.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context>All the men LAUGH, and Wheeler LAUGHS THE HARDEST.</context>
+      <utterance>Charles, that's revolting!</utterance>
+   <speaker>JOE</speaker>
+      <mode>VOICE OVER</mode>
+      <context></context>
+      <utterance>How did that make you feel?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you a good lawyer?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm an excellent lawyer.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What makes you an excellent lawyer?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I love the law. I know the law. I excel at practicing it. It's the only thing I've ever wanted to do.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you love about it?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well... many things. But I think the thing I love the most, is that every once in a while, not that often, but occasionally... you get to be part of justice being done. It's really quite a thrill when that happens.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="8">
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You said earlier you aspired to be the kind of person who had "an adventurous spirit." Is that correct?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Something like that.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you take risks?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In my work? Yes. Calculated risks. You have to.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In general. Do you take risks in other areas of your life?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not unnecessary ones.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context>Joe cringes a little with discomfort.</context>
+      <utterance>Have you ever been to the Apollo Cinema on Sansom Street?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>A few times.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="2">
+   <speaker>BELINDA</speaker>
+      <mode>OS</mode>
+      <context></context>
+      <utterance>What kind of movies do they show there?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>OS</mode>
+      <context></context>
+      <utterance>Gay movies.</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="3">
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gay</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do men have sex with each other in that theater?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="3">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew steps into the booth.</context>
+      <utterance>Andrew.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Now what do we do? Robert laughs, closing the door of the booth.</utterance>
+   <speaker>ROBERT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think we'll figure it out.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="41">
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When? Approximately what year did this event take place?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I guess it was 1984, 85.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Were you aware in 1984 or 1985 that there was a fatal disease out there, called AIDS, and that you could contract it through sexual activity?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's impossible to know exactly when or how I was infected with HIV.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But you</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>While you were employed at Wyant Wheeler, you did everything you could to make sure no one knew you were an active homosexual, correct?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That is</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do other lawyers at the firm keep pictures of their spouses or fiances on their desks?</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>As a homosexual, one is often forced to conceal one's sexuality, is that right?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In some situations.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Isn't it true you have spent your life pretending to be something you're not, so much so that the art of concealment and dishonesty has become second nature to you?!</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Objection!</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context>ANGLE ON MIGUEL, sitting next to Sarah.</context>
+      <utterance>I'll withdraw it. Mr. Beckett? Were you living with Miguel Alvarez in 1984 or 1985 when you had your anonymous sexual encounter in the porn theater?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You could have infected him, isn't that right?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miguel has not been infected. As I said, we weren't aware of AIDS, then, or how it is spread.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Andrew wipes sweat from his forehead.</context>
+      <utterance>Yes.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You've testified the lesions on your face were visible to the people you worked with, correct?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's right.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And it's your contention, that when the partners were made aware of the lesions, they jumped to the conclusion you had AIDS and fired you.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Absolutely.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you have any lesions on your face at this time?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>An ASSISTANT hands Conine a shaving mirror. She holds it before Andrew.</context>
+      <utterance>One. Here, in front of my ear.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context>Andrew looks in the mirror: the lesion is NOT very visible.</context>
+      <utterance>Remembering you are under oath, answering truthfully, can you see the lesion on your face, in this mirror, three feet away? Answering truthfully.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>By the time I was fired, there were four lesions on my face, much bigger...</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Answer the question, please.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No. I can't really see it.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context>Andrew rubs his eyes.</context>
+      <utterance>Thank you.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode>OS</mode>
+      <context></context>
+      <utterance>This would be a good time to break for the day...</utterance>
+   <speaker>JOE</speaker>
+      <mode>OS</mode>
+      <context></context>
+      <utterance>Your Honor? May I have ten minutes in re-direct?</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode>OS</mode>
+      <context>Andrew finds the Judge looking at him.</context>
+      <utterance>Beckett?</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Can you go on for ten minutes?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Joe JUMPS UP from the plaintiff's table.</context>
+      <utterance>Yes sir.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Joe approaches Andrew, with the mirror.</context>
+      <utterance>I only need five!  May I?</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Do you have any lesions on</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If it please the court, I'd like to ask Mr. Beckett to remove his shirt, so that the jury can have an</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your Honor, if Mr. Beckett was forced by his illness to use a wheelchair, would the defense ask him to park it outside? We're talking about AIDS, we're talking about lesions. Let's</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="3">
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you see the lesions on your chest in this mirror?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thank you.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="9">
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've discovered something interesting, Charles.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... keep them from that area, on grounds of relevancy.  What, Bob?</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context>NOW he's got EVERYONE'S attention.</context>
+      <utterance>No matter how hard I try, I can't lose a file in my computer.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode>CONT.</mode>
+      <context>Belinda holds up both hands, interrupting with:</context>
+      <utterance>The system automatically makes a backup.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context>She walks away, giving a glance over her shoulder as:</context>
+      <utterance>I don't think I should hear this.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can erase the backup...  But</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very interesting, Bob. Let's make a note of that. Andy didn't lose the complaint in his computer. He never put it in. He lied about that, too.</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Charles...</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>Wheeler and the gang moves on, leaving Seidman alone in the high-ceilinged corridor. Belinda hesitates, before re-grouping with Wheeler and the rest, casting a curious glance toward Bob Seidman.</context>
+      <utterance>If you feel differently, Bob, you should say so, when you're called to the stand. After all, this isn't a conspiracy.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="12">
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context>Charles Wheeler speaks with great sincerity.</context>
+      <utterance>Why did you recruit Andrew Beckett to your firm? Andrew uses all his strength to concentrate.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>If you're the owner of a major league ball club, you recruit the hot rookie. And Andy was tremendously promising as a young attorney. That's why we went after him, that's why we hired him, and that's why we stuck with him, year after year... waiting for the promise to be fulfilled. But it never was.</utterance>
+   <speaker>BELINDA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You kept giving him another chance?</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course we did. When you've groomed someone they way we groomed Andy, nurturing him, lavishing all kinds of special treatment on him... you've made quite an investment. We were waiting for his promise to kick in, and deliver. But, ultimately, we could no longer ignore the gap between the promise and the reality... This is one of the saddest times in my life. To sit in this court, testifying to Andy's ultimate failure to make the grade. To discover that he is one of those people who wants to benefit by the system, but doesn't want to play by the system's rules. To think you</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mr. Miller? Joe rises. Adjusts his jacket. Wheeler waits.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Explain to me, if you can, Mr. Wheeler, explain this to me like I'm a ten year-old. This trial is not about a disease, is that what you're saying?</utterance>
+   <speaker>WHEELER</speaker>
+      <mode>CONT.</mode>
+      <context>ANDREW'S POV -- ON RACHEL, sitting among the spectators. Rachel begins speaking, her WORDS OVERLAPPING Wheeler's (we should get the feeling she's giving her testimony).</context>
+      <utterance>Andy worked when he wanted to work, telling us what he thought we needed to know about his lifestyle...</utterance>
+   <speaker>RACHEL</speaker>
+      <mode></mode>
+      <context>Looking back to the court: Joe presses in on Wheeler. Everything seems normal.</context>
+      <utterance>I didn't mind covering for Andy, but I did wonder... when was he planning to deal with his problem? Andrew blinks... what's going on?</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sometimes it seems like society is</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>ANDREW'S POV -- KENNETH KILLCOYNE at the defense table:</context>
+      <utterance>People who want to bend the rules...</utterance>
+   <speaker>KILLCOYNE</speaker>
+      <mode></mode>
+      <context>Wheeler keeps speaking:</context>
+      <utterance>If you want to be a leader in this society, you have to make certain sacrifices.</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... to suit their personal desires, and the rest of us have to live with it.</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="2">
+   <speaker>KENTON</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You have to make a decision: is this guy partner material?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who makes the rules, Mr. Wheeler?</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="6">
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>The everyday, common person with decent values...</utterance>
+   <speaker>RACHEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It seems like he wasn't willing to face the</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... But now, we're standing up for ourselves...</utterance>
+   <speaker>SEIDMAN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>... But we shouldn't have fired him...</utterance>
+   <speaker>WHEELER</speaker>
+      <mode></mode>
+      <context>Andrew OPENS HIS EYES... WE SWITCH TO HIS POV: The Judge, the Jury -- everyone silent, looking concerned. ANDREW'S POV of the courtroom floor. Andrew falls into his own POV SHOT. In slow motion. He lies on the floor, looking up. ANDREW'S POV -- Joe steps over him.</context>
+      <utterance>... It's time to get this society back on track!</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could you call an ambulance, please?</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="2">
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context>Dr. Gillman RUSHES into the room, in street clothes, obviously having answered an emergency call. She tries assessing the situation, just as the tube is removed and Andrew GASPS for breath. A NURSE places an oxygen mask over Andrew's face and he drinks in the air. His eyes are wide open with fear, sweat covering his face.</context>
+      <utterance>It's making it worse. Take it out. Take it out!</utterance>
+   <speaker>LESBIAN JUROR</speaker>
+      <mode>VO</mode>
+      <context></context>
+      <utterance>If he was "mediocre," why did they gave him this major assignment</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="12">
+   <speaker>SCHOOLTEACHER JUROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They wanted to give him a final chance.</utterance>
+   <speaker>POSTAL WORKER JUROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Makes sense.</utterance>
+   <speaker>BUSINESSMAN JUROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd still love to know what happened to that missing file.</utterance>
+   <speaker>HOMEMAKER JUROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wouldn't we all?</utterance>
+   <speaker>POSTAL WORKER JUROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ask the computer.</utterance>
+   <speaker>COLLEGE STUDENT JUROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They say he wasn't competent. But, you heard him on the stand.</utterance>
+   <speaker>ROCK MUSICIAN JUROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He sounded pretty smart to me.</utterance>
+   <speaker>BUSINESSMAN JUROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why would they fire him? Why not a medical leave, or...</utterance>
+   <speaker>COLLEGE STUDENT JUROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They freaked out over the AIDS.</utterance>
+   <speaker>SCHOOLTEACHER JUROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They hate homosexuals.</utterance>
+   <speaker>BUSINESSMAN JUROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's not against the law to disapprove of homosexuals.</utterance>
+   <speaker>LESBIAN JUROR</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="3">
+   <speaker>MARINE</speaker>
+      <mode>CONT.</mode>
+      <context>Charles Wheeler whispers to Belinda Conine.</context>
+      <utterance>We find for the plaintiff, Andrew Beckett. Joe smiles, just barely, remaining calm.</utterance>
+   <speaker>JUDGE GARNETT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you awarded any damages?</utterance>
+   <speaker>MARINE</speaker>
+      <mode></mode>
+      <context>Joe shakes his head, disappointed, writing down the amount. Wheeler and his crew SMILE -- THIS IS</context>
+      <utterance>Yes, we have, Your Honor.  For back pay and loss of benefits ... one hundred fortythree thousand dollars.</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="15">
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you call a thousand lawyers chained together at the bottom of the ocean?</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Joe smiles.</context>
+      <utterance>A good start.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>Excellent work, Joe. I thank you.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Andrew begins fitting the mask back in place, but his hands are weak. Joe helps adjust the straps behind Andrew's ears.</context>
+      <utterance>It was good working with you, Andrew. You're welcome.  Hey. Shouldn't you put that thing back on?</utterance>
+   <speaker>JOE</speaker>
+      <mode>CONT.</mode>
+      <context></context>
+      <utterance>I better get home. Lisa and I are having some friends over.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context>Joe stands.</context>
+      <utterance>Sure thing.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Andrew nods, weakly. But he's still smiling and his eyes are dancing.</context>
+      <utterance>I'll see you, Beckett.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks for coming by.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You bet. We'll see you later. Joe heads for the door, meeting Miguel there.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's looking good. I wouldn't be surprised if he gets out of here soon.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context>Miguel puts his arms around Joe and hugs him. Joe slaps Miguel's back.</context>
+      <utterance>We just want to get him home. Thanks for stopping by, Joe.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>Miguel begins circulating among the "guests," saying:</context>
+      <utterance>Night. Joe leaves.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's tired. He ought to sleep.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context>The elevator doors close.</context>
+      <utterance>What do you call a thousand lawyers chained together at the bottom of the ocean?</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="9">
+   <speaker>MATT</speaker>
+      <mode></mode>
+      <context>Rev. Jim pats Andrew's shoulder.</context>
+      <utterance>Night, Andy. See you tomorrow, buddy.</utterance>
+   <speaker>REV. JIM</speaker>
+      <mode></mode>
+      <context>Bud Beckett kisses Andrew on the cheek.</context>
+      <utterance>God bless you, Andy.</utterance>
+   <speaker>BUD</speaker>
+      <mode></mode>
+      <context>Sarah Beckett is strong, kissing Andrew on the forehead.</context>
+      <utterance>Goodnight, son. Get some rest, okay?</utterance>
+   <speaker>SARAH</speaker>
+      <mode></mode>
+      <context>Randy Beckett loses control of his emotions as he bends to hug his brother. He begins to sob.</context>
+      <utterance>Goodnight angel, my sweet boy...</utterance>
+   <speaker>RANDY</speaker>
+      <mode></mode>
+      <context>Andrew puts his weak arms, with the IV lines connected, around his brother Randy, to comfort him.</context>
+      <utterance>Andy.</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm ready...</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ready for what, baby?</utterance>
+   <speaker>ANDREW</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatever.</utterance>
+   <speaker>MIGUEL</speaker>
+      <mode></mode>
+      <context>They lie next to each other, watching television.</context>
+      <utterance>I hope you're ready for "Studs," because that's what's on. Andrew replaces the oxygen mask.</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="2">
+   <speaker>LISA</speaker>
+      <mode></mode>
+      <context>Joe sits bolt upright.</context>
+      <utterance>It's Miguel.</utterance>
+   <speaker>JOE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Miguel?</utterance>
+</dialogue>
+
+
+</movie>

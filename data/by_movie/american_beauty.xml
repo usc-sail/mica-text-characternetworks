@@ -1,0 +1,3130 @@
+<movie id="25" title="American Beauty">
+
+<dialogue id="1" n_utterances="2">
+   <speaker>RICKY</speaker>
+      <mode>O.C.</mode>
+      <context>Jane looks at us and sits up.</context>
+      <utterance>Want me to kill him for you?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, would you?</utterance>
+</dialogue>
+
+<dialogue id="2" n_utterances="2">
+   <speaker>JIM #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hush, Bitsy. You hush. What is wrong?</utterance>
+   <speaker>LESTER</speaker>
+      <mode>V.O.</mode>
+      <context>A second MAN in a conservative suit (JIM 2) comes out of the house.</context>
+      <utterance>That's our next-door neighbor Jim.</utterance>
+</dialogue>
+
+<dialogue id="3" n_utterances="10">
+   <speaker>JIM #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What in the world is wrong with her? She had a walk this morning.</utterance>
+   <speaker>JIM #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And a jerky treat.</utterance>
+   <speaker>JIM #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You spoil her.  Bitsy. No bark. Come inside. Now.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>Jim 1 walks toward the fence to greet Carolyn.</context>
+      <utterance>Good morning, Jim!</utterance>
+   <speaker>JIM #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Morning, Carolyn.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just love your tie! That color!</utterance>
+   <speaker>JIM #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I just love your roses. How do you get them to flourish like this?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>Jim 1 and Carolyn continue to chat, unaware that Lester is watching them.</context>
+      <utterance>Well, I'll tell you. Egg shells and Miracle Grow.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>V.O.</mode>
+      <context>Lester's POV: We can't hear what Jim and Carolyn are saying, but she's overly animated, like a TV talk show host.</context>
+      <utterance>Man. I get exhausted just watching her.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>V.O. - CONT'D</mode>
+      <context></context>
+      <utterance>She wasn't always like this. She used to be happy. We used to be happy.</utterance>
+</dialogue>
+
+<dialogue id="4" n_utterances="2">
+   <speaker>LESTER</speaker>
+      <mode>V.O.</mode>
+      <context>CLOSE on the COMPUTER MONITOR: A PERSONAL BANKING SOFTWARE window suddenly disappears to reveal another window: a PLASTIC SURGERY WEBSITE, featuring clinical "before" and "after" photos of surgically augmented breasts.</context>
+      <utterance>My daughter Jane. Only child.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>V.O. - CONT'D</mode>
+      <context>Outside, a CAR HORN BLARES. Jane stuffs items into her</context>
+      <utterance>Janie's a pretty typical teenager. Angry, insecure, confused. I wish I could tell her that's all going to pass...</utterance>
+</dialogue>
+
+<dialogue id="5" n_utterances="3">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jane. Honey. Are you trying to look unattractive?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>Jane gets in the car. Lester hurries out the front door, carrying a BRIEFCASE.</context>
+      <utterance>Well, congratulations. You've succeeded admirably.</utterance>
+</dialogue>
+
+<dialogue id="6" n_utterances="2">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Lester smiles sheepishly, trying to lighten the moment. His POV: Carolyn looks down at us, contemptuous but also bored, as if she gave up expecting anything more long ago.</context>
+      <utterance>Nice going, Dad.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>Both my wife and daughter think I'm this gigantic loser, and... they're right.</utterance>
+</dialogue>
+
+<dialogue id="7" n_utterances="3">
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context>Lester disconnects the call, obviously irritated.</context>
+      <utterance>It's 555 0199. Lester Burnham. Thank you!</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Lester turns around, smiling perfunctorily</context>
+      <utterance>Hey Les. You got a minute?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>For you, Brad? I've got five.</utterance>
+</dialogue>
+
+<dialogue id="8" n_utterances="6">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Lester sits across from him, looking small and isolated.</context>
+      <utterance>I'm sure you can understand our need to cut corners around here.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, sure. Times are tight, and you gotta free up cash. Gotta spend money to make money. Right?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Brad stands, ready to usher Lester out.</context>
+      <utterance>Exactly. So...</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Like the time when Mr. Flournoy used the company MasterCard to pay for that hooker, and then she used the card numbers and stayed at the St. Regis for, what was it, like, three months?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's unsubstantiated gossip.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's fifty thousand dollars. That's somebody's salary. That's somebody who's gonna get fired because Craig has to pay women to fuck him!</utterance>
+</dialogue>
+
+<dialogue id="9" n_utterances="5">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus. Calm down. Nobody's getting fired yet. That's why we're having everyone write out a job description, mapping out in detail how they contribute. That way, management can assess who's valuable and--</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who's expendable.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's just business.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been writing for this magazine for fourteen years, Brad. You've been here how long, a whole month?</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context>Lester stares at him, powerless.</context>
+      <utterance>I'm one of the good guys, Les. I'm trying to level with you. This is your one chance to save your job.</utterance>
+</dialogue>
+
+<dialogue id="10" n_utterances="4">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>--there is no decision, you just write the damn thing!</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't think it's weird and kinda fascist?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Possibly. But you don't want to be unemployed.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, well, let's just all sell our souls and work for Satan, because it's more convenient that way.</utterance>
+</dialogue>
+
+<dialogue id="11" n_utterances="6">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>As they get out of the car, Carolyn scopes out the MOVERS next door.</context>
+      <utterance>Could you be just a little bit more dramatic, please, huh?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>So we've finally got new neighbors. You know, if the Lomans had let me represent them, instead of--  --"The Real Estate King," that house would never have sat on the market for six months. She heads into the house, followed by Lester.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, they were still mad at you for cutting down their sycamore.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Their sycamore? C'mon! A substantial portion of the root structure was on our property. You know that. How can you call it their sycamore? I wouldn't have the heart to just cut down something if it wasn't partially mine, which of course it was.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom, do we always have to listen to this elevator music?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>A long beat. Lester suddenly turns to Jane.</context>
+      <utterance>No. No, we don't. As soon as you've prepared a nutritious yet savory meal that I'm about to eat, you can listen to whatever you like.</utterance>
+</dialogue>
+
+<dialogue id="12" n_utterances="9">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So Janie, how was school?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It was okay.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just okay?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>A beat.</context>
+      <utterance>No, Dad. It was spec-tac-ular.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, you want to know how things went at my job today? Now she looks at him as if he's lost his mind.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context>Carolyn is watching this closely.</context>
+      <utterance>They've hired this efficiency expert, this really friendly guy named Brad, how perfect is that? And he's basically there to make it seem like they're justified in firing somebody, because they couldn't just come right out and say that, could they? No, no, that would be too... honest. And so they've asked us--  --you couldn't possibly care any less, could you?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>She gets up and heads toward the kitchen.</context>
+      <utterance>Well, what do you expect? You can't all of a sudden be my best friend, just because you had a bad day.</utterance>
+   <speaker>JANE</speaker>
+      <mode>CONT'D</mode>
+      <context>She's gone. Lester notices Carolyn looking at him critically.</context>
+      <utterance>I mean, hello. You've barely even spoken to me for months.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, what, you're mother-of-the-year? You treat her like an employee.</utterance>
+</dialogue>
+
+<dialogue id="13" n_utterances="3">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>Lester is quiet, staring at his plate.</context>
+      <utterance>What?!</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>CONT'D</mode>
+      <context>Lester gets up and starts after Jane, taking his plate with him.</context>
+      <utterance>What?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Carolyn watches him go, irritated.</context>
+      <utterance>I'm going to get some ice cream.</utterance>
+</dialogue>
+
+<dialogue id="14" n_utterances="5">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Jane turns and stares at him, waiting for him to finish.</context>
+      <utterance>Honey, I'm sorry. I...</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context>He's looking to her for a little help here, but she's too uncomfortable with this sudden intimacy to give him any.</context>
+      <utterance>I'm sorry I haven't been more available, I just... I'm...</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You know, you don't always have to wait for me to come to you...</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, great. So now it's my fault?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't say that. It's nobody's fault. Janie, what happened? You and I used to be pals.</utterance>
+</dialogue>
+
+<dialogue id="15" n_utterances="3">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>The man and woman glance around the dark room, unimpressed.</context>
+      <utterance>This living room is very dramatic. Wait 'til you see the native stone fireplace!</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>CONT'D</mode>
+      <context>The woman wrinkles her face, skeptical.</context>
+      <utterance>A simple cream would really lighten things up. You could even put in a skylight.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Well, why don't we go into the kitchen?</utterance>
+</dialogue>
+
+<dialogue id="16" n_utterances="4">
+   <speaker>WOMAN #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's not even any plants out here.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you call this? Is this not a plant? If you have a problem with the plants, I can always call my landscape architect. Solved.</utterance>
+   <speaker>WOMAN #2</speaker>
+      <mode></mode>
+      <context>A beat.</context>
+      <utterance>I mean, I think "lagoon," I think waterfall, I think tropical. This is a cement hole.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have some tiki torches in the garage.</utterance>
+</dialogue>
+
+<dialogue id="17" n_utterances="2">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>But the tears continue. She SLAPS herself again.</context>
+      <utterance>Shut up. Stop it. You... Weak!</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>CONT'D</mode>
+      <context>She SLAPS herself repeatedly until she stops crying. She stands there, taking deep breaths until she has everything under control, then pulls the blinds shut, once again all business. She walks out calmly, leaving us alone in the dark, empty room. We HEAR CHEERING and APPLAUSE.</context>
+      <utterance>Weak. Baby. Shut up. Shut up! Shut up!</utterance>
+</dialogue>
+
+<dialogue id="18" n_utterances="4">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Who are you looking for?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My parents are coming tonight. They're trying to, you know, take an active interest in me.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gross. I hate it when my mom does that.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>They're such assholes. Why can't they just have their own lives?</utterance>
+</dialogue>
+
+<dialogue id="19" n_utterances="6">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What makes you so sure she wants us to be there? Did she ask us to come?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course not. She doesn't want us to know how important this is to her. But she's been practicing her steps for weeks.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I bet money she's going to resent it. And I'm missing the James Bond marathon on TNT.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lester, this is important. I'm sensing a real distance growing between you and Jane.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Growing? She hates me.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's just willful.</utterance>
+</dialogue>
+
+<dialogue id="20" n_utterances="2">
+   <speaker>ANNOUNCER</speaker>
+      <mode></mode>
+      <context>In the crowded stands, Lester and Carolyn find seats.</context>
+      <utterance>And now, for your half-time entertainment, Rockwell High's award- winning Dancing Spartanettes!</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>The HIGH SCHOOL BAND plays "ON BROADWAY." On the gym floor, the girls perform. They're well-rehearsed, but too young to carry off the ambitious Vegas routine they're attempting. Lester, watching from the stands, picks out his daughter. His POV: Jane performs well, concentrating. Dancing awkwardly next to her is Angela. Suddenly Angela looks right at us and smiles... a lazy, insolent smile. Lester leans forward in his seat. His POV: We're focused on Angela now. Everything starts to SLOW DOWN... the MUSIC acquires an eerie ECHO... We ZOOM slowly toward Lester as he watches, transfixed. His POV: Angela's awkwardness gives way to a fluid grace, and "ON BROADWAY" FADES into dreamy, hypnotic MUSIC. The light on Angela grows stronger, and the other girls DISAPPEAR entirely. Lester is suddenly alone in the stands, spellbound. His POV: Angela looks directly at us now, dancing only for Lester. Her movements take on a blatantly erotic edge as she starts to unzip her uniform, teasing us with an expression that's both innocent and knowing, then... she pulls her uniform OPEN and a profusion of RED ROSE PETALS spill forth... and we SMASH CUT TO:</context>
+      <utterance>We can leave right after this, right?</utterance>
+</dialogue>
+
+<dialogue id="21" n_utterances="9">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Her POV: Lester and Carolyn stand at the edge of the parking lot.</context>
+      <utterance>Oh shit, they're still here.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Janie!</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>She crosses reluctantly toward her parents, followed by Angela.</context>
+      <utterance>Hi! I really enjoyed that!</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Congratulations, honey, you were great.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't win anything.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, I'm Lester. Janie's dad.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>An awkward beat.</context>
+      <utterance>Oh. Hi.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is my friend, Angela Hayes.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, good to meet you. You were also good tonight. Very... precise.</utterance>
+</dialogue>
+
+<dialogue id="22" n_utterances="11">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>She starts toward the parking lot. Lester stays behind.</context>
+      <utterance>Nice to meet you, Angela.  Honey, I'm so proud of you. I watched you very closely, and you didn't screw up once.  Okay, we have to go.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, what are you girls doing now?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We're going out for pizza.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh really, do you need a ride? We can give you a ride. I have a car. You wanna come with us?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks... but I have a car.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you have a car. Oh. That's great! That's great, because Janie's thinking about getting a car soon too, aren't you, honey?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad. Mom's waiting for you.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Angela smiles, aware of the power she has over him. He is mesmerized; grateful, even.</context>
+      <utterance>Well, it was very nice meeting you, Angela. Any, uh, friend of Janie's is a friend of mine.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Well... I'll be seeing you around then.</utterance>
+</dialogue>
+
+<dialogue id="23" n_utterances="3">
+   <speaker>CONTINUED:</speaker>
+      <mode>2</mode>
+      <context></context>
+      <utterance>Lester waves awkwardly as he crosses off.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Could he be any more pathetic?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think it's sweet. And I think he and your mother have not had sex in a long time.</utterance>
+</dialogue>
+
+<dialogue id="24" n_utterances="3">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>The ROSE PETAL drifts into view, landing on his pillow.</context>
+      <utterance>It's the weirdest thing.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context>More ROSE PETALS fall onto the bed, and he smiles up at... His POV: Angela, naked, FLOATS above us as a deluge of ROSE PETALS falls around her. Her hair fans out around her head and GLOWS with a subtle, burnished light. She looks down at us with a smile that is all things... Lester smiles back and LAUGHS, as ROSE PETALS cover his face.</context>
+      <utterance>I feel like I've been in a coma for about twenty years, and I'm just now waking up.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Spec-tac-ular.</utterance>
+</dialogue>
+
+<dialogue id="25" n_utterances="5">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay. I'm used to guys drooling over me. It started when I was about twelve, I'd go out to dinner with my parents. Every Thursday night, Red Lobster. And every guy there would stare at me when I walked in. And I knew what they were thinking. Just like I knew guys at school thought about me when they jerked off.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Vomit.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>An awkward beat. Jane stares at the floor.</context>
+      <utterance>No, I liked it. And I still like it. If people I don't even know look at me and want to fuck me, it means I really have a shot at being a model. Which is great, because there's nothing worse in life than being ordinary.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I really think it'll happen for you.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I know. Because everything that was meant to happen, does. Eventually.</utterance>
+</dialogue>
+
+<dialogue id="26" n_utterances="3">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>Lester is frozen, unable to speak. Suddenly, the SHOWER is turned off in the next room. Lester hangs up and exits quickly. A moment, then the PHONE RINGS. Jane emerges from the bathroom, a towel wrapped around her torso, drying her wet hair. She picks up the PHONE.</context>
+      <utterance>Hello? Hello?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why'd you call me?</utterance>
+</dialogue>
+
+<dialogue id="27" n_utterances="2">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I didn't.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, my phone just rang and I answered it and somebody hung up and then I star sixty-nined and it called you back.</utterance>
+</dialogue>
+
+<dialogue id="28" n_utterances="2">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Then Jane notices her address book open to the H page.</context>
+      <utterance>I was in the shower.</utterance>
+   <speaker>JANE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Oh, gross.</utterance>
+</dialogue>
+
+<dialogue id="29" n_utterances="3">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Startled, Barbara turns to him.</context>
+      <utterance>Mom.</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context>As she attempts to serve him bacon:</context>
+      <utterance>Hello.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't eat bacon, remember?</utterance>
+</dialogue>
+
+<dialogue id="30" n_utterances="4">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's new in the world, Dad?</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>A DOORBELL rings. The Colonel and Barbara look at each other, alarmed.</context>
+      <utterance>This country is going straight to hell.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Are you expecting anyone?</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context>The Colonel heads toward the living room, a little puffed up.</context>
+      <utterance>No.  No.</utterance>
+</dialogue>
+
+<dialogue id="31" n_utterances="7">
+   <speaker>JIM #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi.</utterance>
+   <speaker>JIM #2</speaker>
+      <mode></mode>
+      <context>Jim 1 holds out a basket filled with flowers, vegetables and a small white cardboard box tied with raffia.</context>
+      <utterance>Welcome to the neighborhood.</utterance>
+   <speaker>JIM #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just a little something from our garden.</utterance>
+   <speaker>JIM #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Except for the pasta, we got that at Fallaci's.</utterance>
+   <speaker>JIM #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's unbelievably fresh. You just drop it in the water and it's done. The Colonel stares at them, suspicious.</utterance>
+   <speaker>JIM #1</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Jim Olmeyer. Two doors down. Welcome to the neighborhood.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Colonel Frank Fitts, U.S. Marine Corps.</utterance>
+</dialogue>
+
+<dialogue id="32" n_utterances="7">
+   <speaker>JIM #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nice to meet you. And this is my partner...</utterance>
+   <speaker>JIM #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jim Berkley, but people call me J.B.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Let's cut to the chase, okay? What are you guys selling?</utterance>
+   <speaker>JIM #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing. We just wanted to say hi to our new neighbors--</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>The Jims look at each other, then back at the Colonel.</context>
+      <utterance>Yeah, yeah, yeah. But you said you're partners. So what's your business?</utterance>
+   <speaker>JIM #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, he's a tax attorney.</utterance>
+   <speaker>JIM #2</speaker>
+      <mode></mode>
+      <context>The Colonel looks at them, confused. Then it dawns on him.</context>
+      <utterance>And he's an anesthesiologist.</utterance>
+</dialogue>
+
+<dialogue id="33" n_utterances="3">
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How come these faggots always have to rub it in your face? How can they be so shameless?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>The Colonel looks at Ricky sharply.</context>
+      <utterance>That's the whole thing, Dad. They don't feel like it's anything to be ashamed of.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>A beat, as Ricky continues his calculations, before he realizes a response is expected from him. Then:</context>
+      <utterance>Well, it is.</utterance>
+</dialogue>
+
+<dialogue id="34" n_utterances="4">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>The Colonel's eyes flash angrily.</context>
+      <utterance>Yeah, you're right.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>Ricky sighs, then looks at his father.</context>
+      <utterance>Don't placate me like I'm your mother, boy.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Forgive me, sir, for speaking so bluntly, but those fags make me want to puke my fucking guts out. The Colonel is taken aback but quickly covers.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>Case closed, Ricky goes back to his calculations. CLOSE on the pencil in his hands: He's totaling two columns of NUMBERS. Under the column "Income" he writes in swift, bold strokes: $24,950.00.</context>
+      <utterance>Me too, son. Me too.</utterance>
+</dialogue>
+
+<dialogue id="35" n_utterances="5">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm serious, he just pulled down his pants and yanked it out. You know, like, say hello to Mr. Happy.</utterance>
+   <speaker>TEENAGE GIRL #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Gross.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It wasn't gross. It was kind of cool.</utterance>
+   <speaker>TEENAGE GIRL #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So, did you do it with him?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Of course I did. He is a really well- known photographer? He shoots for Elle on like, a regular basis? It would have been so majorly stupid of me to turn him down.</utterance>
+</dialogue>
+
+<dialogue id="36" n_utterances="2">
+   <speaker>TEENAGE GIRL #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are a total prostitute.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hey. That's how things really are. You just don't know, because you're this pampered little suburban chick.</utterance>
+</dialogue>
+
+<dialogue id="37" n_utterances="7">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>The Colonel's Ford Explorer pulls up, and Ricky gets out.</context>
+      <utterance>Cunt!  I am so sick of people taking their insecurities out on me.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God. That's the pervert who filmed me last night.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Him? Jane. No way. He's a total lunatic.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know him?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. We were on the same lunch shift when I was in ninth grade, and he would always say the most random, weird things, and then one day, he was just like, gone. And then, Connie Cardullo told me he his parents had to put him in a mental institution.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why? What did he do?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+</dialogue>
+
+<dialogue id="38" n_utterances="11">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Angela stares at Jane, then her mouth widens into a smile.</context>
+      <utterance>Well, they can't put you away just for saying weird things.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You total slut. You've got a crush on him.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? Please.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were defending him! You love him. You want to have like, ten thousand of his babies.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Jane suddenly finds Ricky standing in front of her.</context>
+      <utterance>Shut up.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi. My name's Ricky. I just moved next door to you.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I know. I kinda remember this really creepy incident when you were filming me last night?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Angela shoots a wide-eyed look at Jane, who ignores it.</context>
+      <utterance>I didn't mean to scare you. I just think you're interesting.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks, but I really don't need to have some psycho obsessing about me right now.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>He looks at her intently, his eyes searching hers. Jane is unnerved and has to look away. Ricky smiles and walks off.</context>
+      <utterance>I'm not obsessing. I'm just curious.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What a freak. And why does he dress like a Bible salesman?</utterance>
+</dialogue>
+
+<dialogue id="39" n_utterances="2">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's like, so confident. That can't be real.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't believe him. I mean, he didn't even like, look at me once.</utterance>
+</dialogue>
+
+<dialogue id="40" n_utterances="4">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>He sits on the couch, next to his father, and watches TV along with them. The Colonel's smile fades.</context>
+      <utterance>Hey.</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry, what?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom. Nobody said anything.</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context>The three of them stare at the TV, like strangers in an airport.</context>
+      <utterance>Oh. I'm sorry.</utterance>
+</dialogue>
+
+<dialogue id="41" n_utterances="10">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Inside the ballroom, well-dressed real estate professionals stand in clumps, chatting. Catering waiters serve hors d'eouvres.</context>
+      <utterance>Well, you always end up ignoring me and going off--</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Now listen to me. This is an important business function. As you know, my business is selling an image. And part of my job is to live that image--</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Just say whatever you want to say and spare me the propaganda.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, Shirley!  Listen, just do me a favor. Act happy tonight?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Carolyn's jaw tightens, then:</context>
+      <utterance>I am happy, honey.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>She drags Lester toward a silver-haired MAN and his much younger WIFE. We recognize the Man as BUDDY KANE, The Real Estate King.</context>
+      <utterance>Oh! Buddy!</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Buddy! Buddy. Hi! Good to see you again.</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's so good to see you too, Catherine.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Carolyn.</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Carolyn! Of course. How are you?</utterance>
+</dialogue>
+
+<dialogue id="42" n_utterances="11">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Very well, thank you.  Hello, Christy.</utterance>
+   <speaker>CHRISTY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hello.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My husband, Lester--</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's a pleasure.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, we've met before, actually. This thing last year. Or the Christmas thing at the Sheraton.</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, yes.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>He LAUGHS. A little too loudly. Carolyn quickly joins in.</context>
+      <utterance>It's okay. I wouldn't remember me either.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>She smiles her most winning smile at him. He knows this persona well, only it's never pissed him off as much as it does right now.</context>
+      <utterance>Honey. Don't be weird.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>And he kisses her--a soft, warm kiss that speaks unmistakably of sex--then turns to the others and grins.</context>
+      <utterance>All right, honey. I won't be weird.  I'll be whatever you want me to be.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>We have a very healthy relationship.</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context>Carolyn's smile is frozen on her face.</context>
+      <utterance>I see.</utterance>
+</dialogue>
+
+<dialogue id="43" n_utterances="9">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>The bartender complies. Lester takes his drink and turns to face the center of the room. His POV: Carolyn is talking to Buddy and Christy. She's on: smiling, animated, LAUGHING too loud at their jokes. Lester shakes his head. Ricky approaches him, wearing a waiter's uniform, carrying a tray of empty glasses.</context>
+      <utterance>Whoa. Put a little more in there, cowboy.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me. Don't you live on Robin Hood Trail? The house with the red door?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm Ricky Fitts. I just moved into the house next to you.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Hi, Ricky Fitts. I'm Lester Burnham.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>A beat. Lester looks away, scans the crowd, then downs the rest of his drink in one gulp. Ricky just stands there, watching him. Finally Lester turns back to Ricky: what does this kid want?</context>
+      <utterance>Hi, Lester Burnham.</utterance>
+   <speaker>RICKY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Do you party?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you get high?</utterance>
+</dialogue>
+
+<dialogue id="44" n_utterances="5">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, I probably wouldn't even tell you this if I weren't a little tipsy, but... I am in complete awe of you. I mean, your firm is, hands down, the Rolls Royce of local Real Estate firms, and your personal sales record is, is, is very intimidating. You know, I'd love to sit down with you and just pick your brain, if you'd ever be willing. I suppose, technically, I'm the "competition," but... I mean, hey, I don't flatter myself that I'm even in the same league as you...</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'd love to.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really?</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Absolutely. Call my secretary and have her schedule a lunch.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>They look at each other for a beat, then look away. This situation is loaded and they both know it.</context>
+      <utterance>I'll do that. Thank you.</utterance>
+</dialogue>
+
+<dialogue id="45" n_utterances="2">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>...did you ever see that movie, where the body's walking around holding its own head? And then the head goes down on that babe?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Re-Animator.</utterance>
+</dialogue>
+
+<dialogue id="46" n_utterances="9">
+   <speaker>CATERING BOSS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look. I'm not paying you to...  ...do whatever it is you're doing out here.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine. So don't pay me.</utterance>
+   <speaker>CATERING BOSS</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Excuse me?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I quit. So you don't have to pay me. Now, leave me alone.</utterance>
+   <speaker>CATERING BOSS</speaker>
+      <mode></mode>
+      <context>He goes back inside. Lester looks at Ricky, who shrugs.</context>
+      <utterance>Asshole.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think you just became my personal hero.  Doesn't that make you nervous, just quitting your job like that? Well, I guess when you're all of, what? Sixteen?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Eighteen.  I just do these gigs as a cover. I have other sources of income. But my dad interferes less in my life when I pretend to be an upstanding young citizen with a respectable job.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>O.C.</mode>
+      <context>Carolyn is standing in the open service entrance. Lester quickly hides the joint behind his back.</context>
+      <utterance>Lester?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What are you doing?</utterance>
+</dialogue>
+
+<dialogue id="47" n_utterances="8">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honey, this is...  Ricky Fitts. This is Ricky Fitts.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm Ricky Fitts, I just moved in the house next to you. I go to school with your daughter.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>With Jane? Really?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah. Jane.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>And she goes back inside.</context>
+      <utterance>Hi.  I'm ready to go. I'll meet you out front.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh-oh. I'm in trouble. Nice meeting you, Ricky Fitts. Thanks for the, uh, thing.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Lester goes inside.</context>
+      <utterance>Any time.</utterance>
+   <speaker>RICKY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Lester. If you want any more, you know where I live.</utterance>
+</dialogue>
+
+<dialogue id="48" n_utterances="2">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Jane switches off the TV.</context>
+      <utterance>Oh, shit. They're home. Quick, let's go up to my room.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>She starts toward the kitchen. Jane doesn't like this.</context>
+      <utterance>I should say hi to your dad.  I don't want to be rude.</utterance>
+</dialogue>
+
+<dialogue id="49" n_utterances="3">
+   <speaker>ANGELA</speaker>
+      <mode>O.C.</mode>
+      <context>He turns, and is instantly transfixed by: His POV: Angela leans against the counter, twirling her hair.</context>
+      <utterance>Nice suit.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode>CONT'D</mode>
+      <context>She starts toward him.</context>
+      <utterance>You're looking good, Mr. Burnham.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode>CONT'D</mode>
+      <context>She reaches inside the refrigerator to grab a bottle. As she does, she moves to place her other hand casually on Lester's shoulder. He sees it coming. Everything SLOWS DOWN, and all sound FADES... EXTREME CLOSE UP on her hand as it briefly touches his shoulder in SLOW MOTION. We HEAR only the amplified BRUSH of her fingers against the fabric of his suit, and its unnatural, hollow ECHO... BACK IN REAL TIME: She grabs the root beer and smiles at him. CLOSE on Lester: his eyes narrow slightly, then: He cups her face in his hands and kisses her. She seems shocked, but doesn't resist as he pulls her toward him with surprising strength. He breaks the kiss, looking at her in awe, then he reaches up and touches his lips. His eyes widen as he pulls a ROSE PETAL from his mouth right before we SMASH</context>
+      <utterance>Last time I saw you, you looked kind of wound up.  Ooh, is that root beer?</utterance>
+</dialogue>
+
+<dialogue id="50" n_utterances="4">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mom, you remember Angela.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, of course!</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I forgot to tell you, she's spending the night. Is that okay?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>He takes a sip of his root beer, but it goes down the wrong way and he starts COUGHING violently.</context>
+      <utterance>Sure!</utterance>
+</dialogue>
+
+<dialogue id="51" n_utterances="6">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry about my dad.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't be. I think it's funny.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>he's just too embarrassing to live.</context>
+      <utterance>Yeah, to you, he's just another guy who wants to jump your bones. But to me...</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>Jane glances at Angela, irritated.</context>
+      <utterance>Your mom's the one who's embarrassing. What a phony.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Your dad's actually kind of cute.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up.</utterance>
+</dialogue>
+
+<dialogue id="52" n_utterances="4">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shut up.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, come on. Like you've never sneaked a peek at him in his underwear? I bet he's got a big dick.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are so grossing me out right now.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>Jane covers her ears and starts SINGING to drown her out.</context>
+      <utterance>If he built up his chest and arms, I would totally fuck him.</utterance>
+</dialogue>
+
+<dialogue id="53" n_utterances="2">
+   <speaker>ANGELA</speaker>
+      <mode>O.C.</mode>
+      <context>Jane's SINGING stops.</context>
+      <utterance>I would! I would suck your dad's big fat dick, and then I would fuck him 'til his eyes rolled back in his head!  What was that noise? Jane.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode>O.C. - CONT'D</mode>
+      <context>Panicked, Lester scurries down the hall.</context>
+      <utterance>I swear I heard something.</utterance>
+</dialogue>
+
+<dialogue id="54" n_utterances="3">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>We HEAR the sharp TAP of a penny being thrown against glass.</context>
+      <utterance>I'm serious.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode>CONT'D</mode>
+      <context>Angela crosses to the window and looks out.</context>
+      <utterance>See?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Oh my God. Jane.</utterance>
+</dialogue>
+
+<dialogue id="55" n_utterances="3">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's that psycho next door. Jane, what if he worships you? What if he's got a shrine with pictures of you surrounded by dead people's heads and stuff?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shit. I bet he's filming us right now.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really?</utterance>
+</dialogue>
+
+<dialogue id="56" n_utterances="8">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Suddenly we HEAR someone trying to open a locked door.</context>
+      <utterance>Welcome to America's Weirdest Home Videos.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode>O.C.</mode>
+      <context>Moving swiftly, Ricky pulls the drapes shut and switches on a light. His room is a haven of high-tech. A state-of-the-art multimedia COMPUTER crowds his desk, and high-end STEREO and VIDEO EQUIPMENT line the shelves, as well as HUNDREDS OF CDs. There is easily twenty thousand dollars worth of equipment in this room.</context>
+      <utterance>Ricky!</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Coming, Dad.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode>O.C.</mode>
+      <context>Ricky opens the door. The Colonel stands outside, eyeing him.</context>
+      <utterance>You know I don't like locked doors in my house, boy.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>The Colonel holds out a small PLASTIC CUP WITH A CAP.</context>
+      <utterance>I'm sorry, I must have locked it by accident. So what's up?</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I need a urine sample.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow. It's been six months already. Can I give it to you in the morning? I just took a whiz.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>He disappears down the hall. Ricky smiles, shuts and locks his door. He puts the plastic cup on the shelf, then crosses to a MINI REFRIGERATOR in the corner of his room and takes out a cup-sized TUPPERWARE CONTAINER from the freezer, already filled with urine, albeit frozen, and places it on a saucer to thaw overnight.</context>
+      <utterance>Yeah, I suppose.  Well. Good night, son.</utterance>
+</dialogue>
+
+<dialogue id="57" n_utterances="3">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>Lester kneels by the bathtub like a man in church.</context>
+      <utterance>I've been waiting for you.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode>CONT'D</mode>
+      <context>She arches her back and looks up at him provocatively.</context>
+      <utterance>You've been working out, haven't you? I can tell.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode>CONT'D</mode>
+      <context>Lester gives her a hard look, then slowly slips his hand into the water between her legs. Her eyes widen and she throws her head back... and we SMASH CUT TO:</context>
+      <utterance>I was hoping you'd give me a bath... I'm very, very dirty.</utterance>
+</dialogue>
+
+<dialogue id="58" n_utterances="3">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>A beat.</context>
+      <utterance>What are you doing?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Carolyn switches on the bedside LIGHT.</context>
+      <utterance>Nothing.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were masturbating.</utterance>
+</dialogue>
+
+<dialogue id="59" n_utterances="12">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I was not.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>He turns to her, trying to look innocent, then gives up.</context>
+      <utterance>Yes, you were.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Carolyn gets out of bed, repelled. Lester LAUGHS.</context>
+      <utterance>All right, so shoot me. I was whacking off.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>That's right. I was choking the bishop. Shaving the carrot. Saying hi to my monster.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's disgusting.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, excuse me, but I still have blood pumping through my veins!</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So do I!</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really? I'm the only one who seems to be doing anything about it.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lester. I refuse to live like this. This is not a marriage.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This hasn't been a marriage for years. But you were happy as long as I kept my mouth shut. Well, guess what? I've changed. And the new me whacks off when he feels horny, because you're obviously not going to help me out in that department.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. I see. You think you're the only one who's sexually frustrated?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm not? Well then, come on, baby! I'm ready.</utterance>
+</dialogue>
+
+<dialogue id="60" n_utterances="3">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do not mess with me, mister, or I will divorce you so fast it'll make your head spin!</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>She sinks into a chair, stunned. It's clear he knows where she's most vulnerable. He sees this, and likes it; it feels good to win for a change. He curls up under the covers contentedly.</context>
+      <utterance>On what grounds? I'm not a drunk, I don't fuck other women, I don't mistreat you, I've never hit you, or even tried to touch you since you made it so abundantly clear just how unnecessary you consider me to be. But. I did support you while you got your license. And some people might think that entitles me to half of what's yours.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Turn out the light when you come to bed, okay? CLOSE on Lester, smiling.</utterance>
+</dialogue>
+
+<dialogue id="61" n_utterances="6">
+   <speaker>JIM #2</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lester, I didn't know you ran.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, I just started.</utterance>
+   <speaker>JIM #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good for you.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I figured you guys might be able to give me some pointers. I need to shape up. Fast.</utterance>
+   <speaker>JIM #1</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, are you just looking to lose weight, or do you want have increased strength and flexibility as well?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want to look good naked.</utterance>
+</dialogue>
+
+<dialogue id="62" n_utterances="3">
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>Lester breaks off from the two Jims and jogs up to Ricky and the Colonel, out of breath. He grabs hold of his knees and bends over, panting.</context>
+      <utterance>What is this, the fucking gay pride parade?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>He LAUGHS, and extends his hand to the Colonel.</context>
+      <utterance>Hey! Yo! Ricky!  My entire life is passing before my eyes, and those two have barely broken a sweat.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Sorry, hi. Lester Burnham, I live next door. We haven't met.</utterance>
+</dialogue>
+
+<dialogue id="63" n_utterances="10">
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>COLONEL Frank Fitts, U.S. Marine Corps.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>He salutes the Colonel good-naturedly, grinning. The Colonel doesn't think it's funny. An awkward beat.</context>
+      <utterance>Whoa. Welcome to the neighborhood, sir.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>So, Ricky, uh, I was thinking about the, uh... I was gonna... the movie we talked about...</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Re-Animator.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah!</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>He heads into the house. Lester waves at the Colonel, then follows him. The Colonel watches them go, his eyes dark.</context>
+      <utterance>You want to borrow it?  Okay, it's up in my room. Come on.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Can you hold this for a sec?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>He gives the URINE SPECIMEN to Lester, then locks the door.</context>
+      <utterance>Sure.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Ricky crosses to a bureau and opens a DRAWER. He takes clothing out and piles it on his bed.</context>
+      <utterance>I don't think my dad would try to come in when somebody else is here, but you never know.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What is this?</utterance>
+</dialogue>
+
+<dialogue id="64" n_utterances="11">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Urine. I have to take a drug test every six months to make sure I'm clean.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you kidding? You just smoked with me last night.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Lester picks up a CD case from a shelf and examines it.</context>
+      <utterance>It's not mine. One of my clients is a nurse in a pediatrician's office. I cut her a deal, she keeps me in clean piss.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You like Pink Floyd?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I like a lot of music.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>He shakes his head, then puts the CD case down. Ricky, having emptied the drawer, now removes a FALSE BOTTOM, revealing rows of MARIJUANA, tightly packed in ZIP-LOC BAGS.</context>
+      <utterance>Man, I haven't listened to this album in years.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much do you want?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know, it's been a while. How much is an ounce?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, this is totally decent, and it's three hundred.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>But this shit is top of the line. It's called G-13. Genetically engineered by the U.S. Government. Extremely potent. But a completely mellow high, no paranoia.</utterance>
+</dialogue>
+
+<dialogue id="65" n_utterances="12">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Is that what we smoked last night?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is all I ever smoke.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How much?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two grand.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jesus. Things have changed since 1973.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't have to pay now. I know you're good for it. A beat.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Thanks.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's a card in there with my beeper number, call me anytime day or night. And I only accept cash.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, now I know how you can afford all this equipment. When I was your age, I flipped burgers all summer just to be able to buy an eight track.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That sucks.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No actually, it was great. All I did was party and get laid.  I had my whole life ahead of me...</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Lester smiles. This kid's cool.</context>
+      <utterance>My dad thinks I pay for all this with catering jobs.  Never underestimate the power of denial.</utterance>
+</dialogue>
+
+<dialogue id="66" n_utterances="5">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh-oh, mom's mad.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What the hell do you think you're doing?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Bench presses. I'm going to wail on my pecs, and then I'm going to do my back.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I see you're smoking pot now. I'm so glad. I think using illegal psychotropic substances is a very positive example to set for our daughter.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're one to talk, you bloodless, money- grubbing freak.</utterance>
+</dialogue>
+
+<dialogue id="67" n_utterances="4">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lester. You have such hostility in you!</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you mind? I'm trying to work out here.  Unless you want to spot me.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>And she's gone. Lester leans back on the bench and grabs the weights.</context>
+      <utterance>You will not get away with this. You can be sure of that!</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's. What. You. Think.</utterance>
+</dialogue>
+
+<dialogue id="68" n_utterances="4">
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>"...my job consists of basically masking my contempt for the assholes in charge, and, at least once a day, retiring to the men's room so I can jerk off, while I fantasize about a life that doesn't so closely resemble hell."  Well, you obviously have no interest in saving yourself.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Brad, for fourteen years I've been a whore for the advertising industry. The only way I could save myself now is if I start firebombing.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whatever. Management wants you gone by the end of the day.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, just what sort of severance package is "management" prepared to offer me?</utterance>
+</dialogue>
+
+<dialogue id="69" n_utterances="10">
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Which I'm sure would interest the I.R.S., since it technically constitutes fraud. And I'm sure that some of our advertisers and rival publications might like to know about it as well. Not to mention, Craig's wife. Brad sighs.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>One year's salary, with benefits.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That's not going to happen.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, what do you say I throw in a little sexual harassment charge to boot? Brad LAUGHS.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Against who?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Brad stops laughing.</context>
+      <utterance>Against you.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Can you prove you didn't offer to save my job if I'd let you blow me? Brad leans back in his chair, studying Lester.</utterance>
+   <speaker>BRAD</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Man. You are one twisted fuck.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nope. I'm just an ordinary guy with nothing to lose.</utterance>
+</dialogue>
+
+<dialogue id="70" n_utterances="7">
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Carolyn.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>Carolyn smiles, genuinely touched that he remembers her name.</context>
+      <utterance>Buddy.</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm so sorry I kept you waiting. Christy left for New York this morning, and... let's just say things were very hectic around the house.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What's she doing in New York?</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's moving there.  Yes. We are splitting up.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Buddy. I'm so sorry.</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, according to her, I'm too focused on my career. As if being driven to succeed is some sort of character flaw. Well, she certainly knew how to take advantage of the lifestyle my success afforded her. Oh. Wow.  Ah, it's for the best.</utterance>
+</dialogue>
+
+<dialogue id="71" n_utterances="2">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When I saw you two at the party the other night, you seemed perfectly happy.</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context>He smiles, then opens his menu. Carolyn picks hers up mechanically, but continues to stare at him, enraptured, like a fervent Christian who's just come face to face with Jesus.</context>
+      <utterance>Well, call me crazy, but it is my philosophy that in order to be successful, one must project an image of success, at all times.</utterance>
+</dialogue>
+
+<dialogue id="72" n_utterances="7">
+   <speaker>ANGELA</speaker>
+      <mode>O.C.</mode>
+      <context>On VIDEO: The camera JERKS up to discover Jane and Angela staring at us.</context>
+      <utterance>What are you doing?</utterance>
+   <speaker>RICKY</speaker>
+      <mode>O.C.</mode>
+      <context></context>
+      <utterance>I was filming this dead bird.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>RICKY</speaker>
+      <mode>O.C.</mode>
+      <context>On VIDEO: Angela looks at Jane, trying not to laugh.</context>
+      <utterance>Because it's beautiful.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>On VIDEO: She falls out of frame as we ZOOM toward Jane.</context>
+      <utterance>I think maybe you forgot your medication today, mental boy.</utterance>
+   <speaker>RICKY</speaker>
+      <mode>O.C.</mode>
+      <context></context>
+      <utterance>Hi, Jane.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Ricky lowers the Digicam.</context>
+      <utterance>Look. I want you to stop filming me.</utterance>
+</dialogue>
+
+<dialogue id="73" n_utterances="8">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>He looks at her, curious, his eyes searching hers. She doesn't look away.</context>
+      <utterance>Okay.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, whatever.  This is boring. Let's go.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you need a ride?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you crazy? I don't want to end up hacked to pieces in a dumpster somewhere.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's okay. I'll walk. But thanks.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>Angela starts off, but Jane doesn't follow. Ricky smiles at her. She almost smiles back, then:</context>
+      <utterance>Yeah, see? He doesn't want to go anyway. C'mon, let's go.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Angela stops and stares at her.</context>
+      <utterance>I think I'm going to walk, too.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What? Jane, that's like, almost a mile.</utterance>
+</dialogue>
+
+<dialogue id="74" n_utterances="2">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes! Oh, God! I love it!</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You like getting nailed by the king?</utterance>
+</dialogue>
+
+<dialogue id="75" n_utterances="5">
+   <speaker>DRIVE-THRU GIRL</speaker>
+      <mode>O.C.</mode>
+      <context>Lester turns down the volume on the stereo.</context>
+      <utterance>Smile you're at Mr. Smiley's.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>DRIVE-THRU GIRL</speaker>
+      <mode>O.C.</mode>
+      <context></context>
+      <utterance>Would you like to try our new bacon and egg fajita just a dollar twenty-nine for a limited time only.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh... no. But thank you.  I'll have a Big Barn Burger, Smiley fries, and an orange soda.</utterance>
+   <speaker>DRIVE-THRU GIRL</speaker>
+      <mode>O.C.</mode>
+      <context>He pulls the car around to the WINDOW, where a teenage GIRL wearing a headset is waiting.</context>
+      <utterance>Please drive up to the window, thank you.</utterance>
+</dialogue>
+
+<dialogue id="76" n_utterances="4">
+   <speaker>COUNTER GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Would you like some Smiley Sauce?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>She stares at him, confused by his age and attire.</context>
+      <utterance>No. No, actually... I'd like to fill out an application.</utterance>
+   <speaker>COUNTER GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>There's not jobs for manager, it's just for counter.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Good. I'm looking for the least possible amount of responsibility.</utterance>
+</dialogue>
+
+<dialogue id="77" n_utterances="4">
+   <speaker>MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think you'd fit in here.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I have fast food experience.</utterance>
+   <speaker>MANAGER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, like twenty years ago.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>The Manager sighs and runs a hand through his greasy hair, wondering what he could possibly have done to deserve this.</context>
+      <utterance>Well, I'm sure there have been amazing technological advances in the industry, but surely you have some sort of training process. It seems unfair to presume I won't be able to learn.</utterance>
+</dialogue>
+
+<dialogue id="78" n_utterances="9">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>That was exactly what I needed. The royal treatment, so to speak. They laugh.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I was so stressed out.</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Know what I do when I feel like that?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context>Carolyn sits up, eager to learn from the master.</context>
+      <utterance>I fire a gun.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Really.</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh yeah, I go to this little firing range downtown, and I just pop off a few rounds.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've never fired a gun before.</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context>Carolyn is quick to pick up her cue and kisses him, ready for another round.</context>
+      <utterance>Oh, you've gotta try it. Nothing makes you feel more powerful.  Well, almost nothing.</utterance>
+</dialogue>
+
+<dialogue id="79" n_utterances="11">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>A beat.</context>
+      <utterance>I like it.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>An automobile FUNERAL PROCESSION appears and begins to pass them slowly.</context>
+      <utterance>The people who used to live there fed these stray cats, so they were always around, and it drove my mother nuts. And then she cut down their tree.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Have you ever known anybody who died?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.  Have you?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, but I did see this homeless woman who froze to death once. Just laying there on the sidewalk. She looked really sad. They watch the FUNERAL CARS pass.</utterance>
+   <speaker>RICKY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I got that homeless woman on video.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why would you film that?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because it was amazing.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>A beat.</context>
+      <utterance>What was amazing about it?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When you see something like that, it's like God is looking right at you, just for a second. And if you're careful, you can look right back.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And what do you see?</utterance>
+</dialogue>
+
+<dialogue id="80" n_utterances="5">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Barbara's eyes flutter and she turns to him slowly.</context>
+      <utterance>Mom, I want you to meet somebody.  Mom.</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I want you to meet somebody. This is Jane.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi.</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context>Jane glances around. The room is spotless.</context>
+      <utterance>Oh, my. I apologize for the way things look around here.</utterance>
+</dialogue>
+
+<dialogue id="81" n_utterances="3">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>GLASS CASES filled with GUNS line the walls.</context>
+      <utterance>This is where my dad hides out.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Ricky crosses to a built-in CABINET behind the desk.</context>
+      <utterance>I take it he's got a thing for guns.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>He unlocks the cabinet and opens it, revealing shelves stacked with WAR MEMORABILIA.</context>
+      <utterance>You got to see this one thing...</utterance>
+</dialogue>
+
+<dialogue id="82" n_utterances="10">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Did you steal his keys?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>He reaches into the cabinet and carefully removes an oval CHINA PLATTER, which he hands to Jane. She examines it.</context>
+      <utterance>No. One of my clients is a locksmith. He was short on cash one night, so I let him pay me in trade.</utterance>
+   <speaker>RICKY</speaker>
+      <mode>CONT'D</mode>
+      <context>CLOSE on the bottom of the plate: A small SWASTIKA is imprinted in the center.</context>
+      <utterance>Turn it over.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>He puts the platter back into the cabinet and shuts the door, then notices Jane looking at him oddly.</context>
+      <utterance>It's like official state china of the Third Reich. There's a whole subculture of people who collect this Nazi shit. But my dad just has this one thing.</utterance>
+   <speaker>RICKY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What's wrong?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, you're scared of me.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>But she is. Ricky studies her.</context>
+      <utterance>No I'm not.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You want to see the most beautiful thing I've ever filmed?</utterance>
+</dialogue>
+
+<dialogue id="83" n_utterances="3">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>A beat.</context>
+      <utterance>It was one of those days when it's a minute away from snowing. And there's this electricity in the air, you can almost hear it, right? And this bag was just... dancing with me. Like a little kid begging me to play with it. For fifteen minutes. That's the day I realized that there was this entire life behind things, and this incredibly benevolent force that wanted me to know there was no reason to be afraid. Ever.</utterance>
+   <speaker>RICKY</speaker>
+      <mode>CONT'D</mode>
+      <context>Now Jane is watching him.</context>
+      <utterance>Video's a poor excuse, I know. But it helps me remember... I need to remember...</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh my God. What time is it?</utterance>
+</dialogue>
+
+<dialogue id="84" n_utterances="9">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sorry I'm late.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no, that's quite all right, dear. Your father and I were just discussing his day at work.  Why don't you tell our daughter about it, honey? Jane stares at both her parents, apprehensive. Lester looks at Carolyn darkly, then flashes a "you-asked-for-it" grin.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Janie, today I quit my job. And then I told my boss to fuck himself, and then I blackmailed him for almost sixty thousand dollars. Pass the asparagus.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your father seems to think this kind of behavior is something to be proud of.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And your mother seems to prefer I go through life like a fucking prisoner while she keeps my dick in a mason jar under the sink.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How dare you speak to me that way in front of her? And I marvel that you can be so contemptuous of me, on the same day that you lose your job!</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lose it? I didn't lose it. It's not like, "Oops, where'd my job go?" I quit. Someone pass me the asparagus.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh! Oh! And I want to thank you for putting me under the added pressure of being the sole breadwinner now--</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I already have a job.</utterance>
+</dialogue>
+
+<dialogue id="85" n_utterances="7">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, no, don't give a second thought as to who's going to pay the mortgage. We'll just leave it all up to Carolyn. You mean, you're going to take care of everything now, Carolyn? Yes. I don't mind. I really don't. You mean, everything? You don't mind having the sole responsibility, your husband feels he can just quit his job--</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Will someone pass me the fucking asparagus?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, I'm not going to be a part of this--</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Jane does so, surprised and intimidated by the power in his voice. Lester gets up, crosses to the other side of the table to get a PLATE OF ASPARAGUS, then sits again as he serves himself.</context>
+      <utterance>Sit down.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I'm sick and tired of being treated like I don't exist. You two do whatever you want to do whenever you want to do it and I don't complain. All I want is the same courtesy--</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, you don't complain? Oh, excuse me. Excuse me. I must be psychotic then, if you don't complain. What is this?! Am I locked away in a padded cell somewhere, hallucinating? That's the only explanation I can think of-- Lester hurls the plate of asparagus against the wall with such force it SHATTERS, frightening Carolyn and Jane.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't interrupt me, honey.</utterance>
+</dialogue>
+
+<dialogue id="86" n_utterances="7">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go. Away.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>O.C.</mode>
+      <context>Jane rolls her eyes, crosses to the door and lets Carolyn in.</context>
+      <utterance>Honey, please let me in.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I wish that you hadn't witnessed that awful scene tonight. But in a way, I'm glad.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why, so I could see what freaks you and Dad really are?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>She stares at Jane, then starts to cry.</context>
+      <utterance>Me?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Aw, Christ, Mom.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No, I'm glad because you're old enough now to learn the most important lesson in life: you cannot count on anyone except yourself.  You cannot count on anyone except yourself. It's sad, but true, and the sooner you learn it, the better.</utterance>
+</dialogue>
+
+<dialogue id="87" n_utterances="2">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Carolyn suddenly SLAPS Jane, hard.</context>
+      <utterance>Look, Mom, I really don't feel like having a Kodak moment here, okay?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>Embarrassed, she quickly leaves. Jane looks in a mirror and rubs her cheek, then crosses to the window and looks out.</context>
+      <utterance>You ungrateful little brat. Just look at everything you have. When I was your age, I lived in a duplex. We didn't even have our own house.</utterance>
+</dialogue>
+
+<dialogue id="88" n_utterances="2">
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>Ricky scrambles to dodge his father, but the Colonel is too fast; he punches Ricky in the face, knocking him to the floor.</context>
+      <utterance>You little bastard--</utterance>
+   <speaker>COLONEL</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>How did you get in there?</utterance>
+</dialogue>
+
+<dialogue id="89" n_utterances="9">
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How!? How?! C'mon, get up! Fight back, you little pussy!</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>The Colonel grabs him by the collar.</context>
+      <utterance>No, sir. I won't fight you.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How did you get in there?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I picked the lock, sir.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What were you looking for? Money? Are you on dope again?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>A beat.</context>
+      <utterance>No, sir. I wanted to show my girlfriend your Nazi plate.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Girlfriend?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>His POV: In the WINDOW across from us, Jane peeks out from behind the drape. She quickly pulls it shut.</context>
+      <utterance>Yes, sir. She lives next door. The Colonel glances toward the window.</utterance>
+   <speaker>RICKY</speaker>
+      <mode>CONT'D</mode>
+      <context>A beat. The Colonel is suddenly, deeply shamed.</context>
+      <utterance>Her name's Jane.</utterance>
+</dialogue>
+
+<dialogue id="90" n_utterances="8">
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is for your own good, boy. You have no respect for other people's things, for authority, for...</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Sir, I'm sorry.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You can't just go around doing whatever you feel like, you can't--there are rules in life--</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes, sir.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You need structure, you need discipline--</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>But something keeps him from doing it.</context>
+      <utterance>Oh, Ricky...</utterance>
+   <speaker>COLONEL</speaker>
+      <mode>CONT'D</mode>
+      <context>He leaves. Ricky gets up and goes to his bureau. He looks at his reflection in the mirror, calmly takes a cloth and starts to wipe the blood from his face.</context>
+      <utterance>You stay out of there.</utterance>
+   <speaker>FADE TO BLACK.</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>In darkness, we HEAR repetitive GUNSHOTS.</utterance>
+</dialogue>
+
+<dialogue id="91" n_utterances="2">
+   <speaker>ATTENDANT</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I gotta say, Mrs. Burnham, when you first came here I thought you would be hopeless. But you're a natural.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>And she starts FIRING again.</context>
+      <utterance>Well, all I know is... I love shooting this gun!</utterance>
+</dialogue>
+
+<dialogue id="92" n_utterances="11">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Ah, whose car is that out front?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mine. 1970 Pontiac Firebird. The car I always wanted and now I have it. I rule!</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's the Camry?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I traded it in.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Shouldn't you have consulted me first?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hmm, let me think... No. You never drove it.  Have you done something different? You look great.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's Jane?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>He smiles at her playfully. She stares back, annoyed. It's the same look she had at the beginning, when he dropped his briefcase, but whatever power that look had is gone. Lester just LAUGHS.</context>
+      <utterance>Jane not home. We have the whole house to ourselves.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Christ, Carolyn. When did you become so... joyless?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Joyless?! I am not joyless! There happens to be a lot about me that you don't know, mister smarty man. There is plenty of joy in my life.</utterance>
+</dialogue>
+
+<dialogue id="93" n_utterances="5">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So what? It's just a couch.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>This is a four thousand dollar sofa upholstered in Italian silk. This is not "just a couch."</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>He stands and gestures toward all the things in the room.</context>
+      <utterance>It's just a couch!</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context>Carolyn stares at him, on the verge of tears, then turns and walks out of the room before he can see her cry.</context>
+      <utterance>This isn't life. This is just stuff. And it's become more important to you than living. Well, honey, that's just nuts.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I'm only trying to help you.</utterance>
+</dialogue>
+
+<dialogue id="94" n_utterances="11">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>We're watching the WIDE-SCREEN TV in Ricky's room. A CORD leads from the TV to Ricky's DIGICAM. Ricky holds the camera, sitting naked in a chair. It's been almost a month since his father beat him up, and there are still slight SCARS on his face. He's aiming his camera at Jane.</context>
+      <utterance>Don't.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It's weird, watching myself. I don't like how I look.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I can't believe you don't know how beautiful you are.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>She gets out of bed, takes his Digicam and focuses it on him. We see his image on the TV as she videotapes.</context>
+      <utterance>I'm not going to sit here for that shit.</utterance>
+   <speaker>JANE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Ha. How does it feel now?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Fine.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't feel naked?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I am naked.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Jane ZOOMS in on his face, which remains placid.</context>
+      <utterance>You know what I mean.</utterance>
+   <speaker>JANE</speaker>
+      <mode>CONT'D</mode>
+      <context>Ricky smiles.</context>
+      <utterance>Tell me about being in the hospital.</utterance>
+</dialogue>
+
+<dialogue id="95" n_utterances="8">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>When I was fifteen, my dad caught me smoking dope. He totally freaked and decided to send me to military school. I told you his whole thing about structure and discipline, right?  Well, of course, I got kicked out. Dad and I had this huge fight, and he hit me... and then the next day at school, some kid made a crack about my haircut, and... I just snapped. I wanted to kill him. And I would have. Killed him. If they hadn't pulled me off.  That's when my dad put me in the hospital. Then they drugged me up and left me in there for two years.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow. You must really hate him.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>He grabs a half-smoked JOINT from an ashtray and lights it.</context>
+      <utterance>He's not a bad man.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well... you better believe I'd hate my father if he did something like that to me.  Wait. I do hate my father.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>He passes her the joint, then takes the Digicam and focuses it on her. We see her image on the TV as he videotapes.</context>
+      <utterance>Why?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>He's a total asshole and he's got this crush on my friend Angela and it's disgusting.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You'd rather he had the crush on you?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>(then)</context>
+      <utterance>Gross, no! But it'd be nice if I was anywhere near as important to him as she is.</utterance>
+</dialogue>
+
+<dialogue id="96" n_utterances="10">
+   <speaker>JANE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I know you think my dad's harmless, but you're wrong. He's doing massive psychological damage to me.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Jane looks into the camera, a loopy, stoned grin on her face.</context>
+      <utterance>How?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, now, I too need structure. A little fucking discipline. They LAUGH. She lays back on the bed.</utterance>
+   <speaker>JANE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>I'm serious, though. How could he not be damaging me? I need a father who's a role model, not some horny geek-boy who's gonna spray his shorts whenever I bring a girlfriend home from school.  What a lame-o. Somebody really should put him out of his misery. Her mind wanders for a beat.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Jane looks at him and sits up.</context>
+      <utterance>Want me to kill him for you?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, would you?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>It'll cost you.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>She stands and sticks out her breasts, then falls back on the bed, LAUGHING.</context>
+      <utterance>Well, I've been baby-sitting since I was about ten. I've got almost three thousand dollars. 'Course, I was saving it up for a boob job.</utterance>
+   <speaker>JANE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>But my tits can wait, huh?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, that's not a very nice thing to do, hiring somebody to kill your dad.</utterance>
+</dialogue>
+
+<dialogue id="97" n_utterances="4">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>She smiles dreamily at him. He turns the Digicam off and the TV screen goes BLUE. He lowers the camera and looks at her intently.</context>
+      <utterance>Well, I guess I'm just not a very nice girl, then, am I?</utterance>
+   <speaker>JANE</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You know I'm not serious, right?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>He puts the Digicam down and joins Jane on the bed. A long moment where neither of them speaks. He caresses her hair, gazing into her eyes.</context>
+      <utterance>Of course.</utterance>
+   <speaker>RICKY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>Do you know how lucky we are to have found each other?</utterance>
+</dialogue>
+
+<dialogue id="98" n_utterances="7">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jane, hurry up. I've got a very important appointment--</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Jane looks at Lester to see how he reacts. He doesn't.</context>
+      <utterance>Mom, is it okay if Angela sleeps over tonight?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>And she's gone. Jane continues staring at her father. Finally, he glances over at her.</context>
+      <utterance>Well, of course, she's always welcome.  You know, I thought maybe you two had a fight. I haven't seen her around here in a while.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I've been too embarrassed to bring her over. Because of you, and the way that you behave.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What are you talking about? I've barely even spoken to her.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad! You stare at her all the time, like you're drunk! It's disgusting!</utterance>
+</dialogue>
+
+<dialogue id="99" n_utterances="2">
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You ready to go?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, I don't need a ride. I'm going to go in with Jane and her mom.</utterance>
+</dialogue>
+
+<dialogue id="100" n_utterances="2">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yo, Ricky. How's it going?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Ricky pulls his door shut, but not before Lester mouths "call me" and Ricky gives a slight nod in acknowledgment.</context>
+      <utterance>Pretty decent, Mr. Burnham.</utterance>
+</dialogue>
+
+<dialogue id="101" n_utterances="5">
+   <speaker>CAROLYN</speaker>
+      <mode>O.S.</mode>
+      <context></context>
+      <utterance>What's good here?</utterance>
+   <speaker>BUDDY</speaker>
+      <mode>O.C.</mode>
+      <context></context>
+      <utterance>Nothing.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>O.C.</mode>
+      <context></context>
+      <utterance>Then I guess we'll just have to be bad, won't we?  I think I'll have a double Smiley Sandwich and curly fries, and a vanilla shake.</utterance>
+   <speaker>BUDDY</speaker>
+      <mode>O.C.</mode>
+      <context></context>
+      <utterance>Make that two.</utterance>
+   <speaker>COUNTER GIRL</speaker>
+      <mode>O.C.</mode>
+      <context>Lester's face darkens, then... he smiles. He puts his spatula down.</context>
+      <utterance>Please drive around thank you.</utterance>
+</dialogue>
+
+<dialogue id="102" n_utterances="3">
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I think we deserve a little junk food, after the workout we had this morning.</utterance>
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context>They are too involved with each other to notice Lester watching them from the drive-thru window.</context>
+      <utterance>I'm flattered.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Carolyn almost jumps out of her skin.</context>
+      <utterance>Smile! You're at Mr. Smiley's!</utterance>
+</dialogue>
+
+<dialogue id="103" n_utterances="10">
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context>Carolyn struggles to appear nonchalant.</context>
+      <utterance>Would you like to try our new beef and cheese pot pie on a stick, just a dollar ninety-nine for a limited time only?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We were just at a seminar.  Buddy, this is my--</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Her husband. We've met before, but something tells me you're going to remember me this time.</utterance>
+   <speaker>COUNTER GIRL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Whoa. You are so busted.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You know, this really doesn't concern you.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Actually, Janeane is senior drive-thru manager, so you kind of are on her turf.  So. This makes sense.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, Lester--</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Honey, it's okay. I want you to be happy.  Would you like Smiley Sauce with that?</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Lester, just stop it!</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh-uh. You don't get to tell me what to do. Ever again.</utterance>
+</dialogue>
+
+<dialogue id="104" n_utterances="3">
+   <speaker>BUDDY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm sorry. I guess we should cool it for a while. I'm facing a potentially very expensive divorce.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context>She regrets it the second it's out of her mouth, and turns to him. He just looks at her sadly, then gets out of the car and shuts the door. She starts to CRY. As before, she SLAPS herself, hard.</context>
+      <utterance>Oh, no. I understand completely.  In order to be successful, one must project an image of success. At all times.</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode>CONT'D</mode>
+      <context>She closes her eyes tight, trying to stop the tears, then suddenly SCREAMS as loud as she can.</context>
+      <utterance>Stop it. Stop it!</utterance>
+</dialogue>
+
+<dialogue id="105" n_utterances="5">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>So you and psycho boy are fucking on like, a regular basis now, right?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>No.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, come on. You can tell me. Does he have a big dick?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Look, I'm not gonna talk about his dick with you, okay? It's not like that.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not like what? Doesn't he have one?  Why don't you want to talk about it? I mean, I tell you every single detail about every guy that I fuck.</utterance>
+</dialogue>
+
+<dialogue id="106" n_utterances="2">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yeah, and maybe you shouldn't, all right? Maybe I don't really want to hear all that.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, so now that you have a boyfriend, you're like, above it?  We gotta get you a real man.</utterance>
+</dialogue>
+
+<dialogue id="107" n_utterances="3">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You got any papers?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>And he slaps Ricky playfully on the chest. Ricky grins, then squats down and reaches under the weight bench.</context>
+      <utterance>Yeah, in the cigar box, right over there.  You know, put up a fight, dude! You are such a pushover. "No I can't. Really. Okay."</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Lester sits in the bowl chair and leans back, his hands behind his head, watching Ricky roll the joint.</context>
+      <utterance>You should learn to roll a joint.</utterance>
+</dialogue>
+
+<dialogue id="108" n_utterances="8">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh. Hi.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's Mom?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't know.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Hi, Mr. Burnham.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>He's trying to remain cool, and doing a pretty good job.</context>
+      <utterance>Hi.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow. Look at you. Have you been working out?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Jane rolls her eyes and exits. Angela walks over to Lester.</context>
+      <utterance>Some.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>She places her hand on his arm flirtatiously, looks up at him and smiles, fully expecting to intimidate him by doing so.</context>
+      <utterance>You can really tell. Look at those arms.</utterance>
+</dialogue>
+
+<dialogue id="109" n_utterances="2">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>His voice is low and intense. She moves away, suddenly insecure.</context>
+      <utterance>You like muscles?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>And she heads out quickly. Lester watches her go, baffled.</context>
+      <utterance>I--I should probably go see what Jane's up to.</utterance>
+</dialogue>
+
+<dialogue id="110" n_utterances="7">
+   <speaker>COLONEL</speaker>
+      <mode>O.C.</mode>
+      <context>His POV: The Colonel steps out of the shadows. Ricky takes a step back.</context>
+      <utterance>Where'd you get that? Ricky turns, startled.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>From my job.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Don't lie to me.  I saw you with him.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You were watching me?</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What did he make you do?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Burnham?</context>
+      <utterance>Dad, you don't really think... me and Mr.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>(then)</context>
+      <utterance>Don't you laugh at me!</utterance>
+</dialogue>
+
+<dialogue id="111" n_utterances="11">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>The Colonel BACKHANDS Ricky so hard it sends the boy sprawling.</context>
+      <utterance>Jesus, what is with you--</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I swear to God, I will throw you out of this house and never look at you again.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You mean that?</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context>A beat. Ricky suddenly smiles. He gets up.</context>
+      <utterance>Damn straight I do. I'd rather you were dead than be a fucking faggot.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're right. I suck dick for money.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Boy--</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Two thousand dollars. I'm that good.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get out.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>And you should see me fuck. I'm the best piece of ass in three states.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What a sad old man you are.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Get out.</utterance>
+</dialogue>
+
+<dialogue id="112" n_utterances="2">
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>A beat.</context>
+      <utterance>Mom, I'm leaving.</utterance>
+   <speaker>BARBARA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Okay, wear a raincoat.</utterance>
+</dialogue>
+
+<dialogue id="113" n_utterances="9">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't think we could be friends anymore.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You are way too uptight about sex.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Please?</context>
+      <utterance>Just don't fuck my dad, all right?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>There is a KNOCK on the door. Jane sits up, alarmed.</context>
+      <utterance>Why not?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Dad! Leave us alone!</utterance>
+   <speaker>RICKY</speaker>
+      <mode>O.C.</mode>
+      <context>Jane jumps up and opens the door and lets him in.</context>
+      <utterance>It's me.</utterance>
+   <speaker>RICKY</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>If I had to leave tonight, would you come with me?</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Tonight. Would you come with me?</context>
+      <utterance>If I had to go to New York. To live.</utterance>
+</dialogue>
+
+<dialogue id="114" n_utterances="13">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You guys can't be serious.  You're just a kid. And he's like, a mental case. You'll end up living in a box on the street.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I'm no more a kid than you are!  We can use my plastic surgery money.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>We won't have to. I have over forty thousand dollars. And I know people in the city who can help us get set up.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What, other drug dealers?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jane, you'd be out of your mind to go with him.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Why do you even care?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Because you're my friend!</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>She's not your friend. She's somebody you use to feel better about yourself.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Go fuck yourself, psycho!</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You shut up, bitch!</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Jane! He is a freak!</utterance>
+</dialogue>
+
+<dialogue id="115" n_utterances="4">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Well, then so am I! And we'll always be freaks and we'll never be like other people. And you'll never be a freak because you're just too perfect.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Oh, yeah? Well, at least I'm not ugly.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context>Angela stares at him, stunned, then starts toward the door.</context>
+      <utterance>Yes, you are. And you're boring. And you're totally ordinary. And you know it.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>And she exits, SLAMMING the door behind her. Jane turns to Ricky and he takes her in his arms.</context>
+      <utterance>You two deserve each other.</utterance>
+</dialogue>
+
+<dialogue id="116" n_utterances="9">
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>The Colonel just stands there, looking at Lester.</context>
+      <utterance>You want me to get Ricky? He's in Jane's room.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>You okay?</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Where's your wife?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Uh... I don't know. Probably out fucking that dorky prince of real estate asshole. And you know what? I don't care. The Colonel moves closer towards him.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Your wife is with another man and you don't care?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>He grins... and so does the Colonel.</context>
+      <utterance>Nope, our marriage is just for show. A commercial, for how normal we are. When we are anything but.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context>He places his hand on the Colonel's shoulder. The Colonel closes his eyes.</context>
+      <utterance>You're shaking.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>We really should get you out of these clothes.</utterance>
+   <speaker>COLONEL</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Yes...</utterance>
+</dialogue>
+
+<dialogue id="117" n_utterances="2">
+   <speaker>TAPE VOICE</speaker>
+      <mode></mode>
+      <context>Carolyn switches the TAPE OFF and puts the gun in her purse.</context>
+      <utterance>"I refuse to be a victim." When this becomes your mantra, constantly running through your head--</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I refuse to be a victim.</utterance>
+</dialogue>
+
+<dialogue id="118" n_utterances="6">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>Lester leans against the wall and takes a swig of his beer.</context>
+      <utterance>I hope you don't mind if I play the stereo.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not at all.  Bad night?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Not really bad, just... strange.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>She's trying to be seductive as she says this, but she's pretty bad at it. Lester raises his eyebrows.</context>
+      <utterance>Jane and I had a fight.  It was about you.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode>CONT'D</mode>
+      <context>Lester grins. He is sexy.</context>
+      <utterance>She's mad at me because I said I think you're sexy.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>She nods. Lester holds the bottle up to her mouth and she drinks clumsily. He gently wipes her chin with the back of his hand.</context>
+      <utterance>Do you want a sip?</utterance>
+</dialogue>
+
+<dialogue id="119" n_utterances="8">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't know.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>His face is very close to hers. She's unnerved--this is happening too fast...</context>
+      <utterance>You don't know?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you want?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Angela takes a deep breath just before Lester leans in to kiss her cheek, her forehead, her eyelids, her neck...</context>
+      <utterance>Are you kidding? I want you. I've wanted you since the first moment I saw you. You are the most beautiful thing I have ever seen.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You don't think I'm ordinary?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You couldn't be ordinary if you tried.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>And Lester kisses her on the lips.</context>
+      <utterance>Thank you.  I don't think there's anything worse than being ordinary...</utterance>
+   <speaker>CAROLYN</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I refuse to be a victim. I refuse to be a victim. I refuse to be a victim...  Lester, I have something I have to say to you...</utterance>
+</dialogue>
+
+<dialogue id="120" n_utterances="4">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Are you scared?</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I don't get scared.</utterance>
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>My parents will try to find me.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Mine won't.</utterance>
+</dialogue>
+
+<dialogue id="121" n_utterances="3">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>Lester LAUGHS.</context>
+      <utterance>This is my first time.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You're kidding.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>A beat. Lester looks down at her, his grin fading. His POV: Angela lies beneath us, embarrassed and vulnerable. This is not the mythically carnal creature of Lester's fantasies; this is a nervous child.</context>
+      <utterance>I'm sorry.</utterance>
+</dialogue>
+
+<dialogue id="122" n_utterances="8">
+   <speaker>ANGELA</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>What's wrong? I thought you said I was beautiful.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>He grabs a blanket from the back of the couch and drapes it around her shoulders, covering her nakedness.</context>
+      <utterance>You are beautiful.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context>He smiles and shakes his head. Humiliated, Angela starts to cry.</context>
+      <utterance>You are so beautiful... and I would be a very lucky man...</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I feel so stupid.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>He hugs her, letting her put her head on his shoulder, stroking her hair and rocking her gently.</context>
+      <utterance>Don't.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>Lester takes her by the shoulders and looks at her, serious.</context>
+      <utterance>I'm sorry.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>But she keeps crying. Lester hugs her again. We HEAR a loud CLAP of THUNDER outside.</context>
+      <utterance>You have nothing to be sorry about.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>CONT'D</mode>
+      <context></context>
+      <utterance>It's okay. Everything's okay.</utterance>
+</dialogue>
+
+<dialogue id="123" n_utterances="8">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>Lester puts a jar of mayonnaise back in the refrigerator.</context>
+      <utterance>Wow. I was starving.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Do you want me to make you another one?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>He turns to her and cocks an eyebrow.</context>
+      <utterance>No, no, no. I'm fine.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>You sure?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>A long beat, as Lester studies her, then:</context>
+      <utterance>I mean, I'm still a little weirded out, but...  ...I feel better. Thanks.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How's Jane?</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>What do you mean?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>I mean, how's her life? Is she happy? Is she miserable? I'd really like to know, and she'd die before she'd ever tell me about it.</utterance>
+</dialogue>
+
+<dialogue id="124" n_utterances="5">
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context>Angela rolls her eyes at how silly this notion is.</context>
+      <utterance>She's... she's really happy. She thinks she's in love.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>An awkward beat.</context>
+      <utterance>Good for her.</utterance>
+   <speaker>ANGELA</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>How are you?</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>They just sit there, smiling at each other, then:</context>
+      <utterance>God, it's been a long time since anybody asked me that.  I'm great.</utterance>
+   <speaker>LESTER</speaker>
+      <mode></mode>
+      <context>Something at the edge of the counter catches his eye, and he reaches for... CLOSE on a framed PHOTOGRAPH as he picks it up: It's the photo we saw earlier of him, Carolyn and Jane, taken several years ago at an amusement park. It's startling how happy they look. Lester crosses to the kitchen table, where he sits and studies the photo. He suddenly seems older, more mature... and then he smiles: the deep, satisfied smile of a man who just now understands the punch line of a joke he heard long ago...</context>
+      <utterance>I'm great.</utterance>
+</dialogue>
+
+<dialogue id="125" n_utterances="4">
+   <speaker>JANE</speaker>
+      <mode></mode>
+      <context>Their POV: A pool of blood is forming on the kitchen table. Ricky comes into the kitchen and slowly approaches Lester's lifeless body, wide-eyed but not afraid. Jane follows him, in shock. Ricky kneels, gazing at Lester's unseen face... then he smiles, ever so slightly. His POV: Lester looks back at us; his eyes are lifeless, but he's smiling the same slight smile.</context>
+      <utterance>Oh God.</utterance>
+   <speaker>RICKY</speaker>
+      <mode></mode>
+      <context></context>
+      <utterance>Wow.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>I had always heard your entire life flashes in front of your eyes the second before you die.</utterance>
+   <speaker>LESTER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>First of all, that one second isn't a second at all, it stretches on forever, like an ocean of time...</utterance>
+</dialogue>
+
+<dialogue id="126" n_utterances="2">
+   <speaker>LESTER</speaker>
+      <mode>V.O.</mode>
+      <context></context>
+      <utterance>...and then I remember to relax, and stop trying to hold on to it, and then it flows through me like rain and I can't feel anything but gratitude for every single moment of my stupid little life...  You have no idea what I'm talking about, I'm sure. But don't worry...</utterance>
+   <speaker>FADE TO BLACK.</speaker>
+      <mode>V.O. - CONT'D</mode>
+      <context></context>
+      <utterance>You will someday.</utterance>
+</dialogue>
+
+
+</movie>
