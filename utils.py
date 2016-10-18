@@ -6,6 +6,7 @@ import networkx as nx
 import scipy.io 
 from funcy import walk_keys 
 import string
+from matfile_utils import loadmat
 
 punct_elim = str.maketrans({key:' ' for key in string.punctuation})
 
@@ -68,7 +69,7 @@ def readGenders(filename):
 # So that it coincides with movies titles 
 ############################################################
 def readGenre(filename, override = None, remove_punct = True):
-	mat = scipy.io.loadmat(filename)
+	mat = loadmat(filename)
 
 	if override:
 		with open(override) as inpt:
