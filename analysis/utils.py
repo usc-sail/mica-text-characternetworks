@@ -6,22 +6,31 @@ import networkx as nx
 import scipy.io 
 from funcy import walk_keys 
 import string
-from matfile_utils import loadmat
+# from matfile_utils import loadmat
+import logging
+
+logging.basicConfig(level = logging.DEBUG)
 
 punct_elim = str.maketrans({key:' ' for key in string.punctuation})
 
 def read(filename, threshold = 2):
 	
-	doc = untangle.parse(filename)
-	movie_name = doc.movie['title']
+	with open(filename) as inpt:
 
-	transitions = []
-	for diag in doc.movie.dialogue:
-		speaker = diag.speaker[0].cdata 
+		transitions = []
+		cur_spkr = ""
+		
+		for idx, line in enumerate(inpt):
+			try:
+				char, utt = line.strip().split(" => ")
+				
+				if char != cur_spkr:
+					transitions.append((cur_spkr, char))
+					cur_spkr = char 	
 
-		for spk in diag.speaker[1:]:
-			transitions.append((speaker, spk.cdata))
-			speaker = spk.cdata 
+			except:
+				pass
+				# logging.warn("Line:{} in file:{} cannot be read".format(idx, filename) )
 
 	# Filter empty speakers and same speaker
 	transitions = list(filter(lambda x: x[0]!=x[1], transitions))
@@ -47,21 +56,30 @@ def read(filename, threshold = 2):
 	# Make it binary
 	adj = (adj > 0).astype(int)
 
-	return (movie_name, char_list, adj)
+	return ("", char_list, adj)
 
 def readGenders(filename):
 	genders = defaultdict(lambda: 'unknown')
+	races = defaultdict(lambda: 'unknown')
+
 	with open(filename) as inpt:
 		for line in inpt:
 			if "=>" in line:
 				CNAME, info = line.strip().split("=>")
 				try:
-					cid, char_name, actor_name, _, gender, _ = info.split(" | ")
-				except:
-					cid, gender, _ = info.split(" | ")
+					_, _, _, _, gender, etc = info.split(" | ", 5)
+
+					try:
+						_, race = etc.split(" | ")
+						races[CNAME] = race 
+					except ValueError:
+						pass 
+
+				except ValueError:
+					_, gender, _ = info.split(" | ")
 
 				genders[CNAME] = gender
-	return genders
+	return (genders, races)
 
 ############################################################
 # Override is a filename with a mapping from k -> k'
@@ -83,11 +101,15 @@ def readGenre(filename, override = None, remove_punct = True):
 
 	return walk_keys(aux, mat)
 
-def createGraph(char_list, adj, genders):
+def createGraph(char_list, adj, genders, races = defaultdict(lambda x: None)):
 	G = nx.from_numpy_matrix(adj)
-	node_gender = {i:genders[x] for i, x in enumerate(char_list)}
-	nx.set_node_attributes(G, 'gender', node_gender)
 	
+	node_gender = {i:genders[x] for i, x in enumerate(char_list)}
+	node_races = {i:races[x] for i, x in enumerate(char_list)}
+
+	nx.set_node_attributes(G, 'gender', node_gender)
+	nx.set_node_attributes(G, 'race', node_races)
+
 	return G
 
 def functionals(arr):
