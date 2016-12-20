@@ -4,14 +4,14 @@ Number of matched characters: 13
 Total number of utterances in script: 1827
 Detailed Speaker Info: 
 
-DJANGO=> 235 | Django | Jamie Foxx | 0004937 | female | 0.16 | african
+DJANGO=> 235 | Django | Jamie Foxx | 0004937 | male | -1.0 | african
 CALVIN CANDIE=> 166 | Calvin Candie | Leonardo DiCaprio | 0000138 | male | -1.0 | caucasian
 STEPHEN=> 75 | Stephen | Samuel L. Jackson | 0000168 | male | -1.0 | 
 ACE WOODY=> 45 | Ace Speck | James Remar | 0001664 | male | -1.0 | caucasian
 BROOMHILDA=> 36 | Broomhilda von Shaft | Kerry Washington | 0913488 | female | 0.91 | african
 SCOTTY=> 25 | male | -0.98
-ROY=> 23 | Roy | Amari Cheatom | 3281146 | female | 0.15 | 
-DrSCHULTZ=> 23 | male | -0.13
+ROY=> 23 | Roy | Amari Cheatom | 3281146 | male | -1.0 | 
+DrSCHULTZ=> 23 | male | -1.0
 JANO=> 20 | female | 0.18
 SPENCER=> 19 | male | -0.96
 BETINA=> 17 | Betina | Miriam F. Glover | 4134721 | female | 1.0 | 
@@ -24,5 +24,5 @@ TIMMY=> 12 | male | -0.99
 LARA LEE=> 10 | Lara Lee Candie-Fitzwilly | Laura Cayouette | 0147312 | female | 1.0 | 
 ACE SPECK=> 8 | Dicky Speck | James Russo | 0751638 | male | -1.0 | caucasian
 DICKY SPECK=> 8 | male | -0.93
-RODNEY=> 8 | Rodney | Sammi Rotibi | 0745353 | female | 0.53 | 
+RODNEY=> 8 | Rodney | Sammi Rotibi | 0745353 | male | -1.0 | 
 MARSHALL TATUM=> 7 | Tatum | Jamal Duff | 1410687 | male | -0.99 | 

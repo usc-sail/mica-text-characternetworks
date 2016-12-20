@@ -4,20 +4,20 @@ Number of matched characters: 13
 Total number of utterances in script: 1219
 Detailed Speaker Info: 
 
-JEROME=> 177 | Jerome Eugene Morrow | Jude Law | 0000179 | male | -0.44 | caucasian
-EUGENE=> 96 | male | -0.99
-INVESTIGATOR=> 66 | male | -0.13
-IRENE=> 58 | Irene Cassini | Uma Thurman | 0000235 | female | 0.37 | caucasian
+JEROME=> 177 | Jerome Eugene Morrow | Jude Law | 0000179 | male | -1.0 | caucasian
+EUGENE=> 96 | Jerome Eugene Morrow | Jude Law | 0000179 | male | -1.0 | caucasian
+INVESTIGATOR=> 66 | male | -1.0
+IRENE=> 58 | Irene Cassini | Uma Thurman | 0000235 | female | 1.0 | caucasian
 DETECTIVE HUGO=> 38 | Gattaca Detective | Russell Milton | 0590704 | male | -1.0 | 
-VINCENT=> 22 | Vincent Freeman | Ethan Hawke | 0000160 | male | -0.5 | caucasian
-DIRECTOR JOSEF=> 17 | Director Josef | Gore Vidal | 0000683 | male | -0.55 | caucasian
+VINCENT=> 22 | Vincent Freeman | Ethan Hawke | 0000160 | male | -1.0 | caucasian
+DIRECTOR JOSEF=> 17 | Director Josef | Gore Vidal | 0000683 | male | -1.0 | caucasian
 GERMAN=> 16 | German | Tony Shalhoub | 0001724 | male | -0.99 | caucasian
 GENETICIST=> 15 | Geneticist | Blair Underwood | 0005516 | male | -0.99 | african
 LAMAR=> 14 | Dr. Lamar | Xander Berkeley | 0075359 | male | -1.0 | other,caucasian
-ANTON=> 13 | Anton Freeman | Loren Dean | 0000363 | male | -0.68 | caucasian
-MARIA=> 12 | female | 0.5
+ANTON=> 13 | Anton Freeman | Loren Dean | 0000363 | male | -1.0 | caucasian
+MARIA=> 12 | female | 1.0
 CAESAR=> 11 | Caesar | Ernest Borgnine | 0000308 | male | -0.99 | caucasian
 ANTONIO=> 9 | Antonio Freeman | Elias Koteas | 0000480 | male | -1.0 | caucasian
 NURSE=> 8 | Delivery Nurse | Maya Rudolph | 0748973 | female | 0.97 | african,caucasian
 VALERIE=> 7 | female | 0.5
-TECHNICIAN=> 6 | Sequencing Technician | Ken Marino | 0547800 | male | -0.5 | caucasian
+TECHNICIAN=> 6 | Sequencing Technician | Ken Marino | 0547800 | male | -1.0 | caucasian

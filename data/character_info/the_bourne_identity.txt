@@ -1,7 +1,7 @@
 Matched movie IMDb ID: 0258463
 Matched movie IMDb Name: Bourne Identity, The
 Number of matched characters: 12
-Total number of utterances in script: 1117
+Total number of utterances in script: 1116
 Detailed Speaker Info: 
 
 BOURNE=> 187 | Bourne | Matt Damon | 0000354 | male | -1.0 | caucasian
@@ -11,12 +11,12 @@ ABBOTT=> 28 | Ward Abbott | Brian Cox | 0004051 | male | -1.0 | caucasian
 WOMBOSI=> 22 | Wombosi | Adewale Akinnuoye-Agbaje | 0015382 | male | -1.0 | 
 THE MAN=> 18 | male | -1.0
 GIANCARLO=> 12 | Giancarlo | Orso Maria Guerrini | 0346315 | male | -1.0 | 
-ZORN=> 12 | Zorn | Gabriel Mann | 0542759 | male | -0.99 | caucasian
+ZORN=> 12 | Zorn | Gabriel Mann | 0542759 | male | -1.0 | caucasian
 CLERK=> 11 | Consulate Clerk | David Bamber | 0051394 | male | -1.0 | 
 MORGUE BOSS=> 10 | Morgue Boss | Hubert Saint-Macary | 0756651 | male | -1.0 | 
-PROFESSOR=> 10 | male | -0.96
+PROFESSOR=> 10 | male | -1.0
 MANAGERPHONE=> 9 | male | -0.13
 RAWLINS=> 9 | Rawlins | Vincent Franklin | 0291569 | male | -1.0 | 
 SECURITY CHIEF=> 8 | Security Chief | Anthony Green | 0003748 | male | -1.0 | 
 OPERATORPHONE=> 6 | male | -0.13
-WOMAN CLERK=> 5 | male | -0.29
+WOMAN CLERK=> 5 | female | 1.0

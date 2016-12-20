@@ -4,8 +4,8 @@ Number of matched characters: 19
 Total number of utterances in script: 1728
 Detailed Speaker Info: 
 
-MICHAEL=> 210 | Michael Corleone | Al Pacino | 0000199 | male | -0.48 | caucasian
-DON CORLEONE=> 104 | Don Vito Corleone | Marlon Brando | 0000008 | male | -0.46 | caucasian
+MICHAEL=> 210 | Michael Corleone | Al Pacino | 0000199 | male | -1.0 | caucasian
+DON CORLEONE=> 104 | Don Vito Corleone | Marlon Brando | 0000008 | male | -1.0 | caucasian
 SONNY=> 96 | Sonny Corleone | James Caan | 0001001 | male | -1.0 | caucasian
 HAGEN=> 93 | Tom Hagen | Robert Duvall | 0000380 | male | -1.0 | caucasian
 KAY=> 64 | Kay Adams | Diane Keaton | 0000473 | female | 1.0 | caucasian
@@ -21,6 +21,6 @@ PAULIE=> 12 | Paulie Gatto | John Martino | 0553908 | male | -1.0 |
 MAMA=> 11 | female | 1.0
 DON TOMMASSINO=> 10 | Don Zaluchi | Louis Guss | 0348927 | male | -1.0 | 
 MOE=> 10 | Moe Greene | Alex Rocco | 0733678 | male | -0.98 | 
-VITELLI=> 9 | Vitelli - Sicilian Sequence | Saro Urzì | 0882237 | female | 0.54 | 
+VITELLI=> 9 | Vitelli - Sicilian Sequence | Saro Urzì | 0882237 | male | -1.0 | 
 MCCLUSKEY=> 9 | Capt. McCluskey | Sterling Hayden | 0001330 | male | -0.89 | 
 WOLTZ=> 7 | Jack Woltz | John Marley | 0549134 | male | -1.0 | 

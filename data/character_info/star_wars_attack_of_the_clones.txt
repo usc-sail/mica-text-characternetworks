@@ -4,14 +4,14 @@ Number of matched characters: 16
 Total number of utterances in script: 1655
 Detailed Speaker Info: 
 
-ANAKIN=> 192 | Anakin Skywalker | Hayden Christensen | 0159789 | male | -0.34 | caucasian
-OBIWAN=> 159 | male | -0.13
-PADM=> 98 | male | -0.13
-PADME=> 65 | female | 0.5
+ANAKIN=> 192 | Anakin Skywalker | Hayden Christensen | 0159789 | male | -1.0 | caucasian
+OBIWAN=> 159 | Obi-Wan Kenobi | Ewan McGregor | 0000191 | male | -1.0 |
+PADM=> 98 | Padmé | Natalie Portman | 0000204 | female | 1.0 |
+PADME=> 65 | Padmé | Natalie Portman | 0000204 | female | 1.0 |
 YODA=> 29 | Yoda | Frank Oz | 0000568 | male | -0.99 | caucasian
 MACE WINDU=> 27 | Mace Windu | Samuel L. Jackson | 0000168 | male | -1.0 | 
 PALPATINE=> 24 | Supreme Chancellor Palpatine | Ian McDiarmid | 0001519 | male | -0.99 | 
-C3PO=> 23 | male | -0.13
+C3PO=> 23 | C-3PO / Dannl Faytonni | Anthony Daniels | 0000355 | male | -1.0 |
 COUNT DOOKU=> 22 | Count Dooku | Christopher Lee | 0000489 | male | -0.71 | caucasian
 LAMA SU=> 19 | Lama Su | Anthony Phelan | 0679715 | male | -1.0 | 
 JOCASTA NU=> 15 | Madame Jocasta Nu | Alethea McGrath | 0569762 | female | 1.0 | 
@@ -19,10 +19,10 @@ JAR JAR=> 15 | Jar Jar Binks | Ahmed Best | 0078886 | male | -1.0 | other,africa
 TAUN WE=> 11 | Taun We | Rena Owen | 0654240 | female | 1.0 | 
 DEXTER JETTSTER=> 11 | Dexter Jettster | Ronald Falk | 0266193 | male | -1.0 | 
 WATTO=> 11 | Watto | Andy Secombe | 0781181 | male | -1.0 | 
-QUEEN JAMILLIA=> 9 | Queen Jamillia | Ayesha Dharker | 0223499 | female | 0.46 | 
-DOOKU=> 8 | male | -0.13
-JANGO=> 8 | Jango Fett | Temuera Morrison | 0607325 | male | -0.5 | pacificislander,caucasian
-JANGO FETT=> 8 | Boba Fett | Daniel Logan | 0517535 | male | -1.0 | 
+QUEEN JAMILLIA=> 9 | Queen Jamillia | Ayesha Dharker | 0223499 | female | 1.0 | 
+DOOKU=> 8 | Count Dooku | Christopher Lee | 0000489 | male | -0.71 | caucasian
+JANGO=> 8 | Jango Fett | Temuera Morrison | 0607325 | male | -1.0 | pacificislander,caucasian
+JANGO FETT=> 8 | Jango Fett | Temuera Morrison | 0607325 | male | -1.0 | 
 OWEN=> 7 | Owen Lars | Joel Edgerton | 0249291 | male | -0.98 | other,caucasian
 RUWEE=> 7 | male | -0.13
 SOLA=> 7 | female | 0.39

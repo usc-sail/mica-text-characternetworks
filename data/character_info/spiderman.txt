@@ -4,20 +4,20 @@ Number of matched characters: 7
 Total number of utterances in script: 1876
 Detailed Speaker Info: 
 
-PETER=> 176 | Peter Parker | Tobey Maguire | 0001497 | male | -0.5 | latino,caucasian
-OCK=> 136 | female | 0.5
-LIZ=> 120 | female | 0.49
-SPIDERMAN=> 113 | male | -0.13
-HARRY=> 56 | Harry Osborn | James Franco | 0290556 | male | -0.99 | caucasian
+PETER=> 176 | Peter Parker | Tobey Maguire | 0001497 | male | -1.0 | latino,caucasian
+OCK=> 136 | male | -1.0
+LIZ=> 120 | female | 1.0
+SPIDERMAN=> 113 | Peter Parker | Tobey Maguire | 0001497 | male | -1.0 | latino,caucasian
+HARRY=> 56 | Harry Osborn | James Franco | 0290556 | male | -1.0 | caucasian
 WEINER=> 44 | male | -1.0
-FLASH=> 42 | Flash Thompson | Joe Manganiello | 0542133 | male | -0.99 | caucasian
-THORKEL=> 42 | male | -0.13
-ROZ=> 41 | female | 0.35
-JAMESON=> 27 | J. Jonah Jameson | J.K. Simmons | 0799777 | unknown | 0.0 | 
+FLASH=> 42 | Flash Thompson | Joe Manganiello | 0542133 | male | -1.0 | caucasian
+THORKEL=> 42 | male | -1.0
+ROZ=> 41 | male | -1.0
+JAMESON=> 27 | J. Jonah Jameson | J.K. Simmons | 0799777 | male | -1.0 | 
 AUNT MAY=> 25 | May Parker | Rosemary Harris | 0365281 | female | 1.0 | 
-REISS=> 24 | male | -0.92
-KIM=> 17 | female | 0.34
+REISS=> 24 | male | -1.0
+KIM=> 17 | female | 1.0
 BEN=> 14 | Ben Parker | Cliff Robertson | 0731772 | male | -1.0 | caucasian
 CABBIE=> 9 | Cabbie | Ajay Mehta | 0576538 | male | -1.0 | 
-MAY=> 7 | female | 0.49
-CHIEF SURGEON=> 7 | male | -1.0
+MAY=> 7 | May Parker | Rosemary Harris | 0365281 | female | 1.0 |
+CHIEF SURGEON=> 7 | unknown | 0.0

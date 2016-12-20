@@ -4,7 +4,7 @@ Number of matched characters: 29
 Total number of utterances in script: 2177
 Detailed Speaker Info: 
 
-MICHAEL=> 243 | Michael | Al Pacino | 0000199 | male | -0.48 | caucasian
+MICHAEL=> 243 | Michael | Al Pacino | 0000199 | male | -1.0 | caucasian
 HAGEN=> 116 | Gianna Hagen | Karyn Jansen | 7785468 | female | 1.0 | 
 FREDO=> 79 | Fredo Corleone | John Cazale | 0001030 | male | -1.0 | caucasian
 PENTANGELI=> 75 | Frankie Pentangeli | Michael V. Gazzo | 0311155 | male | -1.0 | 
@@ -13,7 +13,7 @@ VITO=> 49 | Vito Corleone | Robert De Niro | 0000134 | male | -1.0 | caucasian
 ROTH=> 39 | Hyman Roth | Lee Strasberg | 0833448 | male | -0.9 | 
 CONNIE=> 38 | Connie Corleone | Talia Shire | 0001735 | female | 1.0 | caucasian
 CLEMENZA=> 36 | Young Clemenza | Bruno Kirby | 0456124 | male | -1.0 | caucasian
-SENATOR GEARY=> 29 | Senator Pat Geary | G.D. Spradlin | 0819525 | unknown | 0.0 | 
+SENATOR GEARY=> 29 | Senator Pat Geary | G.D. Spradlin | 0819525 | male | -1.0 | 
 NERI=> 23 | Al Neri | Richard Bright | 0109175 | male | -1.0 | 
 SENATOR KANE=> 22 | Senator #1 | Phil Feldman | 0271093 | male | -1.0 | 
 GENCO=> 20 | Genco | Frank Sivero | 0803370 | male | -1.0 | 
@@ -28,8 +28,8 @@ OLA=> 11 | Johnny Ola | Dominic Chianese | 0156940 | male | -0.99 |
 TESSIO=> 10 | Tessio | Abe Vigoda | 0001820 | male | -1.0 | 
 ROBERTO=> 9 | Signor Roberto | Leopoldo Trieste | 0872689 | male | -1.0 | 
 CICCI=> 9 | Willi Cicci | Joe Spinell | 0818874 | male | -1.0 | 
-DON CORLEONE=> 9 | Don Francesco | Giuseppe Sillato | 0798077 | male | -1.0 | 
-DON FRANCESCO=> 8 | Don Tommasino | Mario Cotone | 0182876 | male | -1.0 | 
+DON CORLEONE=> 9 | Vito Corleone | Robert De Niro | 0000134 | male | -1.0 | caucasian
+DON FRANCESCO=> 8 | Don Francesco | Giuseppe Sillato | 0798077 | male | -1.0 | 
 SAM ROTH=> 7 | Sam Roth | Julian Voloshin | 0901692 | male | -0.7 | 
 ITALIAN BOY=> 7 | male | -1.0
-KLINGMAN=> 7 | Klingman - Casino Owner | Alan Lee | 4556632 | unknown | 0.0 | 
+KLINGMAN=> 7 | Klingman - Casino Owner | Alan Lee | 4556632 | male | -1.0 | 

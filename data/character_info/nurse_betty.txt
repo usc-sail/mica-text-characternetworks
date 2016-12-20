@@ -5,16 +5,16 @@ Total number of utterances in script: 2498
 Detailed Speaker Info: 
 
 BETTY=> 265 | Betty Sizemore | Renée Zellweger | 0000250 | female | 1.0 | 
-CHARLIE=> 205 | Charlie | Morgan Freeman | 0000151 | female | 0.93 | african,caucasian
+CHARLIE=> 205 | Charlie | Morgan Freeman | 0000151 | male | -1.0 | african,caucasian
 WESLEY=> 147 | Wesley | Chris Rock | 0001674 | male | -1.0 | african,caucasian
-ROSA=> 99 | Rosa Hernandez | Tia Texada | 0004137 | female | 0.99 | 
-GEORGE=> 87 | male | -0.99
-BALLARD=> 76 | Ballard | Pruitt Taylor Vince | 0898546 | male | -0.5 | 
+ROSA=> 99 | Rosa Hernandez | Tia Texada | 0004137 | female | 1.0 | 
+GEORGE=> 87 | male | -1.0
+BALLARD=> 76 | Ballard | Pruitt Taylor Vince | 0898546 | male | -1.0 | 
 ROY=> 72 | Roy Ostery | Crispin Glover | 0000417 | male | -1.0 | caucasian
 DEL=> 57 | Del Sizemore | Aaron Eckhart | 0001173 | male | -1.0 | caucasian
 SUE ANN=> 35 | Sue Ann Rogers | Kathleen Wilhoite | 0001849 | female | 1.0 | 
 ELLEN=> 31 | Ellen | Harriet Sansom Harris | 0364748 | female | 1.0 | 
-LYLA=> 31 | Lyla Branch | Allison Janney | 0005049 | female | 0.99 | caucasian
+LYLA=> 31 | Lyla Branch | Allison Janney | 0005049 | female | 1.0 | caucasian
 JOYCE=> 20 | Joyce | Sheila Kelley | 0445992 | female | 1.0 | 
 DARLENE=> 12 | Darlene | Susan Barnes | 0055794 | female | 1.0 | 
 CHLOE=> 12 | Chloe Jensen | Elizabeth Mitchell | 0593310 | female | 1.0 | 
@@ -22,6 +22,6 @@ DAVID=> 11 | Dr. David Ravell | Greg Kinnear | 0001427 | male | -1.0 | caucasian
 CHIEF NURSE=> 10 | Chief Nurse | Cynthia Martells | 0551642 | female | 1.0 | 
 DUANE=> 9 | Duane Cooley | Christopher McDonald | 0001520 | male | -1.0 | caucasian
 LONNIE=> 9 | Dr. Lonnie Walsh | Laird Macintosh | 0533589 | male | -1.0 | 
-MERCEDES=> 8 | Mercedes | Jenny Gago | 0301083 | female | 0.99 | 
-DOCTOR=> 7 | Doctor | Wayne Tippit | 0864133 | male | -0.99 | 
+MERCEDES=> 8 | Mercedes | Jenny Gago | 0301083 | female | 1.0 | 
+DOCTOR=> 7 | Doctor | Wayne Tippit | 0864133 | male | -1.0 | 
 MERLE=> 7 | Merle | Matthew Cowles | 0184804 | male | -1.0 | 

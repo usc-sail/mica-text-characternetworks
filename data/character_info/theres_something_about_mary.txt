@@ -5,16 +5,16 @@ Total number of utterances in script: 2204
 Detailed Speaker Info: 
 
 TED=> 277 | Ted | Ben Stiller | 0001774 | male | -1.0 | caucasian
-MARY=> 244 | Mary | Cameron Diaz | 0000139 | male | -0.86 | latino,caucasian
+MARY=> 244 | Mary | Cameron Diaz | 0000139 | female | 1.0 | latino,caucasian
 HEALY=> 210 | Healy | Matt Dillon | 0000369 | male | -1.0 | caucasian
 DOM=> 81 | Dom | Chris Elliott | 0254402 | male | -1.0 | caucasian
-TUCKER=> 66 | Tucker | Lee Evans | 0262968 | male | -0.99 | caucasian
-MAGDA=> 44 | Magda | Lin Shaye | 0005417 | unknown | 0.04 | caucasian
-SULLY=> 29 | Sully | Jeffrey Tambor | 0001787 | male | -0.99 | caucasian
+TUCKER=> 66 | Tucker | Lee Evans | 0262968 | male | -1.0 | caucasian
+MAGDA=> 44 | Magda | Lin Shaye | 0005417 | female | 1.0 | caucasian
+SULLY=> 29 | Sully | Jeffrey Tambor | 0001787 | male | -1.0 | caucasian
 MARY'S DAD=> 17 | male | -1.0
-WARREN=> 14 | Warren | W. Earl Brown | 0114868 | unknown | 0.0 | 
-MARY'S MOM=> 14 | Mary's Mom | Markie Post | 0692850 | female | 0.7 | 
-FRIEND 1=> 11 | Friend #3 | Lori Brener | 0322770 | female | 0.99 | 
+WARREN=> 14 | Warren | W. Earl Brown | 0114868 | male | -1.0 | 
+MARY'S MOM=> 14 | Mary's Mom | Markie Post | 0692850 | female | 1.0 | 
+FRIEND 1=> 11 | Friend #3 | Lori Brener | 0322770 | female | 1.0 | 
 HITCHHIKER=> 10 | Hitchhiker | Harland Williams | 0005558 | male | -1.0 | caucasian
 POLICE OFFICER=> 10 | Police Officer | Steve Sweeney | 0842200 | male | -1.0 | 
 JOANIE=> 9 | Joanie | Khandi Alexander | 0018554 | female | 1.0 | african,caucasian
@@ -22,4 +22,4 @@ DETECTIVE FRANEK=> 8 | Detective Stabler | Rob Moran | 0602813 | male | -1.0 |
 DR LALONDE=> 8 | male | -1.0
 LISA=> 8 | Lisa | Marnie Alexenburg | 0018950 | female | 1.0 | 
 MAN=> 7 | male | -1.0
-DETECTIVE CAVALLO=> 7 | male | -0.5
+DETECTIVE CAVALLO=> 7 | male | -1.0

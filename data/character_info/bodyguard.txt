@@ -4,7 +4,7 @@ Number of matched characters: 13
 Total number of utterances in script: 511
 Detailed Speaker Info: 
 
-RACHEL=> 60 | Rachel Marron | Whitney Houston | 0001365 | female | 0.97 | african,caucasian
+RACHEL=> 60 | Rachel Marron | Whitney Houston | 0001365 | female | 1.0 | african,caucasian
 FRANK=> 48 | Frank Farmer | Kevin Costner | 0000126 | male | -1.0 | caucasian
 SPECTOR=> 18 | Sy Spector | Gary Kemp | 0447290 | male | -1.0 | 
 DEVANEY=> 14 | Devaney | Bill Cobbs | 0167850 | male | -1.0 | 
@@ -13,8 +13,8 @@ HERB=> 10 | Herb Farmer | Ralph Waite | 0906627 | male | -1.0 |
 TONY=> 9 | Tony | Mike Starr | 0823563 | male | -1.0 | other
 HENRY=> 8 | Henry | Christopher Birt | 0083782 | male | -1.0 | 
 FLETCHER=> 5 | Fletcher | DeVaughn Nixon | 0633228 | male | -1.0 | 
-FRANK'S POV=> 5 | male | -0.31
-COURT=> 4 | Ray Court | Gerry Bamman | 0051482 | male | -0.65 | 
+FRANK'S POV=> 5 | Frank Farmer | Kevin Costner | 0000126 | male | -1.0 | caucasian
+COURT=> 4 | Ray Court | Gerry Bamman | 0051482 | male | -1.0 | 
 CLIVE=> 4 | Clive Healy | Nathaniel Parker | 0662511 | male | -1.0 | 
-THURINGER=> 3 | Thuringer | Danny Kamin | 0436663 | male | -0.49 | 
+THURINGER=> 3 | Thuringer | Danny Kamin | 0436663 | male | -1.0 | 
 PORTMAN=> 3 | Portman | Tomas Arana | 0032962 | male | -1.0 | 

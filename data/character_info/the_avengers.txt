@@ -4,15 +4,15 @@ Number of matched characters: 8
 Total number of utterances in script: 1486
 Detailed Speaker Info: 
 
-EMMA=> 250 | Emma Peel | Uma Thurman | 0000235 | female | 0.37 | caucasian
-STEED=> 227 | John Steed | Ralph Fiennes | 0000146 | male | -0.99 | caucasian
-VALENTINE=> 56 | female | 0.38
+EMMA=> 250 | Emma Peel | Uma Thurman | 0000235 | female | 1.0 | caucasian
+STEED=> 227 | John Steed | Ralph Fiennes | 0000146 | male | -1.0 | caucasian
+VALENTINE=> 56 | male | -1.0
 MOTHER=> 55 | female | 1.0
-VOICE=> 27 | male | -1.0
+VOICE=> 27 | unknown | 0.0
 FATHER=> 27 | male | -1.0
 DR DARLING=> 21 | Dr. Darling | Nicholas Woodeson | 0940245 | male | -1.0 | 
 INVISIBLE JONES=> 18 | Invisible Jones | Patrick Macnee | 0001495 | male | -1.0 | 
 PETER=> 14 | male | -1.0
 SIR AUGUST=> 12 | Sir August de Wynter | Sean Connery | 0000125 | male | -1.0 | caucasian
 OLD LADY=> 10 | female | 1.0
-BAILEY=> 8 | Bailey | Eddie Izzard | 0412850 | male | -0.88 | caucasian
+BAILEY=> 8 | Bailey | Eddie Izzard | 0412850 | male | -1.0 | caucasian

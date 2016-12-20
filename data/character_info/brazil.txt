@@ -5,9 +5,9 @@ Total number of utterances in script: 1751
 Detailed Speaker Info: 
 
 SAM=> 353 | Sam Lowry | Jonathan Pryce | 0000596 | male | -1.0 | caucasian
-JILL=> 94 | Jill Layton | Kim Greist | 0002114 | unknown | 0.0 | caucasian
+JILL=> 94 | Jill Layton | Kim Greist | 0002114 | female | 1.0 | caucasian
 JACK=> 71 | Jack Lint | Michael Palin | 0001589 | male | -1.0 | caucasian
-KURTZMAN=> 37 | male | -0.13
+KURTZMAN=> 37 | Mr. Kurtzmann  | Ian Holm | 0000453 | male | -1.0 | 
 SPOOR=> 32 | Spoor | Bob Hoskins | 0001364 | male | -1.0 | caucasian
 MOTHER=> 29 | female | 1.0
 HELPMANN=> 29 | Mr. Helpmann | Peter Vaughan | 0891092 | male | -1.0 | 
@@ -19,10 +19,10 @@ SPIRO=> 15 | Spiro | Bryan Pringle | 0697799 | male | -1.0 |
 PORTER=> 15 | M.O.I. Lobby Porter | Gorden Kaye | 0443313 | male | -1.0 | 
 OFFICIAL=> 11 | Arrest Official | Simon Jones | 0429254 | male | -1.0 | 
 GENT=> 10 | male | -1.0
-MRS BUTTLE=> 8 | Boy Buttle | Simon Nash | 0621809 | female | 1.0 | 
+MRS BUTTLE=> 8 | Mrs. Veronica Buttle | Sheila Reid | 0717427 | female | 1.0 | 
 GUARD=> 8 | Basement Guard | John Pierce Jones | 0428435 | male | -1.0 | 
-WARREN=> 8 | male | -0.99
-GIRL=> 7 | female | 1.0
-DOCTOR=> 7 | male | -0.99
+WARREN=> 8 | Mr. Warrenn | Ian Richardson | 0007183 | male | -0.99 | 
+GIRL=> 7 | Girl Buttle | Prudence Oliver | 0646966 | female | 1.0 | 
+DOCTOR=> 7 | Dr. Jaffe | Jim Broadbent | 0000980 | male | -0.99 | 
 GUARD A=> 7 | Second Black Maria Guard | Howard Lew Lewis | 0507270 | male | -1.0 | 
 INTERVIEWER=> 7 | T.V. Interviewer | John Flanagan | 0281044 | male | -1.0 | 

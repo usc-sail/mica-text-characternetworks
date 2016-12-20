@@ -3,26 +3,27 @@ Matched movie IMDb Name: Pride & Prejudice
 Number of matched characters: 18
 Total number of utterances in script: 1917
 Detailed Speaker Info: 
+ 
 
-ELIZABETH=> 264 | Elizabeth Bennet | Keira Knightley | 0461136 | female | 0.5 | caucasian
+ELIZABETH=> 264 | Elizabeth Bennet | Keira Knightley | 0461136 | female | 1.0 | caucasian
 DARCY=> 104 | Mr. Darcy | Matthew Macfadyen | 0532193 | male | -1.0 | caucasian
-MRS BENNET=> 96 | Mr. Bennet | Donald Sutherland | 0000661 | female | 1.0 | caucasian
-MR BENNET=> 54 | Mrs. Bennet | Brenda Blethyn | 0000950 | male | -1.0 | 
+MRS BENNET=> 96 | Mrs. Bennet | Brenda Blethyn | 0000950 | female | 1.0 |
+MR BENNET=> 54 | Mr. Bennet | Donald Sutherland | 0000661 | male | -1.0 | caucasian
 JANE=> 53 | Jane Bennet | Rosamund Pike | 0683253 | female | 1.0 | caucasian
 LYDIA=> 42 | Lydia Bennet | Jena Malone | 0540441 | female | 0.93 | caucasian
 LADY CATHERINE=> 32 | Lady Catherine de Bourg | Judi Dench | 0001132 | female | 0.98 | caucasian
 CHARLOTTE=> 31 | Charlotte Lucas | Claudie Blakley | 0086865 | female | 0.82 | 
 BINGLEY=> 27 | Mr. Bingley | Simon Woods | 1373034 | male | -1.0 | 
-KITTY=> 27 | Kitty Bennet | Carey Mulligan | 1659547 | unknown | -0.07 | caucasian
+KITTY=> 27 | Kitty Bennet | Carey Mulligan | 1659547 | female | 1.0 | caucasian
 CAROLINE BINGLEY=> 27 | Caroline Bingley | Kelly Reilly | 0717709 | female | 0.98 | 
 CUT TO=> 26 | unknown | 0.09
 COLLINS=> 25 | Mr. Collins | Tom Hollander | 0390903 | male | -1.0 | caucasian
-MR COLLINS=> 23 | male | -1.0
+MR COLLINS=> 23 | Mr. Collins | Tom Hollander | 0390903 | male | -1.0 | caucasian
 WICKHAM=> 23 | Mr. Wickham | Rupert Friend | 1670029 | male | -1.0 | caucasian
-MRS GARDINER=> 19 | Mr. Gardiner | Peter Wight | 0927835 | female | 1.0 | 
+MRS GARDINER=> 19 | Mrs. Gardiner | Penelope Wilton | 0934362 | female | 1.0 | 
 LIZZIE=> 12 | female | 0.5
-MR BINGLEY=> 10 | male | -1.0
+MR BINGLEY=> 10 | Mr. Bingley | Simon Woods | 1373034 | male | -1.0 |
 FITZWILLIAM=> 9 | Colonel Fitzwilliam | Cornelius Booth | 1580945 | male | -0.98 | 
 MRS REYNOLDS=> 8 | Mrs. Reynolds | Meg Wynn Owen | 0654207 | female | 1.0 | 
-MARY=> 8 | Mary Bennet | Talulah Riley | 1506908 | female | 0.49 | caucasian
-MR GARDINER=> 7 | Mrs. Gardiner | Penelope Wilton | 0934362 | male | -1.0 | caucasian
+MARY=> 8 | Mary Bennet | Talulah Riley | 1506908 | female | 1.0 | caucasian
+MR GARDINER=> 7 | Mr. Gardiner | Peter Wight | 0927835 | male | -1.0 | caucasian

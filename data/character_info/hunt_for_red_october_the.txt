@@ -5,9 +5,9 @@ Total number of utterances in script: 1193
 Detailed Speaker Info: 
 
 RAMIUS=> 88 | Marko Ramius | Sean Connery | 0000125 | male | -1.0 | caucasian
-RYAN=> 80 | Caroline Ryan | Gates McFadden | 0000533 | male | -0.34 | 
+RYAN=> 80 | Caroline Ryan | Gates McFadden | 0000533 | male | -1.0 | 
 MANCUSO=> 67 | Bart Mancuso | Scott Glenn | 0001277 | male | -1.0 | caucasian
-JONES=> 40 | Seaman Jones | Courtney B. Vance | 0005524 | female | 0.96 | 
+JONES=> 40 | Seaman Jones | Courtney B. Vance | 0005524 | male | -1.0 | 
 GREER=> 33 | Admiral Greer | James Earl Jones | 0000469 | male | -1.0 | african
 PELT=> 21 | Jeffrey Pelt | Richard Jordan | 0430151 | male | -1.0 | 
 TUPOLEV=> 16 | Captain Tupolev | Stellan Skarsgård | 0001745 | male | -1.0 | 
@@ -16,12 +16,12 @@ THOMPSON=> 15 | Lt. Comm. Thompson - USS Dallas | Anthony Peck | 0669625 | male 
 PETROV=> 14 | Dr. Petrov | Tim Curry | 0000347 | male | -1.0 | caucasian
 PAINTER=> 13 | Admiral Painter | Fred Dalton Thompson | 0000669 | male | -1.0 | 
 TYLER=> 12 | Skip Tyler | Jeffrey Jones | 0000470 | male | -1.0 | caucasian
-BEAUMONT=> 11 | Seaman Beaumont - USS Dallas | Ned Vaughn | 0891224 | male | -0.5 | 
-BONAVIA=> 11 | male | -0.13
+BEAUMONT=> 11 | Seaman Beaumont - USS Dallas | Ned Vaughn | 0891224 | male | -1.0 | 
+BONAVIA=> 11 | Andrei Bonovia - Konovalov | Krzysztof Janczar  | 0417360 | male | -1.0 |
 MELEKHIN=> 11 | Lt. Melekhin - Red October | Ronald Guttman | 0349749 | male | -1.0 | 
 LYSENKO=> 11 | Andrei Lysenko | Joss Ackland | 0000722 | male | -0.87 | 
 KAMAROV=> 11 | Kamarov - Red October | Michael Welden | 0919702 | male | -1.0 | 
-COB=> 9 | Russian COB - Red October | Sven-Ole Thorsen | 0861752 | male | -0.65 | 
+COB=> 9 | Russian COB - Red October | Sven-Ole Thorsen | 0861752 | male | -1.0 | 
 PUTIN=> 9 | Ivan Putin | Peter Firth | 0278752 | male | -1.0 | 
 STEINER=> 7 | Bill Steiner | Timothy Carhart | 0137114 | male | -1.0 | 
 PILOT=> 7 | Helicopter Pilot | Don Oscar Smith | 0807989 | male | -0.99 | 
@@ -29,4 +29,4 @@ COPILOT=> 7 | male | -0.13
 DAVENPORT=> 6 | Captain Davenport | Daniel Davis | 0204425 | male | -1.0 | 
 HELMSMAN=> 6 | male | -0.13
 SALLY=> 6 | Sally Ryan | Louise Borras | 0097315 | female | 1.0 | 
-CURRY=> 6 | Lt. Jim Curry | Reed Popovich | 0691479 | male | -0.48 | 
+CURRY=> 6 | Lt. Jim Curry | Reed Popovich | 0691479 | male | -1.0 | 

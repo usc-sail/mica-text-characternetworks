@@ -5,11 +5,11 @@ Total number of utterances in script: 2539
 Detailed Speaker Info: 
 
 LONGFELLOW=> 356 | Longfellow Deeds | Gary Cooper | 0000011 | male | -1.0 | caucasian
-BABE=> 166 | Babe Bennett | Jean Arthur | 0000795 | male | -0.43 | 
+BABE=> 166 | Babe Bennett | Jean Arthur | 0000795 | female | 1.0 | 
 CEDAR=> 151 | Arthur Cedar | Pierre Watkin | 0914246 | male | -1.0 | 
 COBB=> 91 | Cornelius Cobb | Lionel Stander | 0822034 | male | -1.0 | 
-JUDGE=> 45 | Judge May | H.B. Warner | 0912478 | unknown | 0.0 | 
-MAC=> 44 | male | -0.99
+JUDGE=> 45 | Judge May | H.B. Warner | 0912478 | male | -1.0 | 
+MAC=> 44 | MacWade | George Bancroft | 0051628 | male | -0.99 | 
 WALTER=> 39 | Walter | Raymond Walburn | 0906940 | male | -1.0 | 
 MABEL=> 30 | Mabel Dawson | Ruth Donnelly | 0232766 | female | 1.0 | 
 DOUGLAS=> 23 | Douglas | Edwin Maxwell | 0561693 | male | -1.0 | 
@@ -21,7 +21,7 @@ HALLOR=> 19 | Hallor | Charles Lane | 0485272 | male | -1.0 |
 AMY=> 17 | Amy Faulkner | Margaret McWade | 0574739 | female | 1.0 | 
 BOB=> 16 | Bob | George Cooper | 0178049 | male | -1.0 | 
 MORROW=> 14 | Morrow | Walter Catlett | 0146185 | male | -1.0 | 
-HENABERRY=> 12 | male | -0.13
+HENABERRY=> 12 | George Meeker | Henneberry | 0576120 | male | -0.13 | 
 FRANK=> 12 | Frank | Irving Bacon | 0045784 | male | -1.0 | 
 AGENT=> 11 | male | -0.81
 WAITER=> 10 | male | -1.0
@@ -29,7 +29,7 @@ CLERK=> 10 | Clerk | Larry Wheat | 0923647 | male | -1.0 |
 VON HOLLER=> 10 | Dr. Emile Von Hallor | Gustav von Seyffertitz | 0167032 | male | -1.0 | 
 BUDINGTON=> 9 | Budington | Arthur Hoyt | 0398446 | male | -0.99 | 
 BROOKFIELD=> 9 | Brookfield | Eddie Kane | 0437304 | male | -0.96 | 
-BAILIFF=> 8 | Bailiff | Lee Shumway | 0795884 | male | -0.64 | 
+BAILIFF=> 8 | Bailiff | Lee Shumway | 0795884 | male | -1.0 | 
 FIRST BROTHER=> 8 | male | -1.0
 WIFE=> 8 | female | 1.0
 VOICE=> 7 | male | -1.0
