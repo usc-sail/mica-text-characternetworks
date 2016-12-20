@@ -63,22 +63,29 @@ def readGenders(filename):
 	races = defaultdict(lambda: 'unknown')
 
 	with open(filename) as inpt:
+
+		gender, race = "", ""
+
 		for line in inpt:
-			if "=>" in line:
-				CNAME, info = line.strip().split("=>")
-				try:
-					_, _, _, _, gender, etc = info.split(" | ", 5)
+			if "=> " in line:
+				char, info = line.strip().split("=> ")
+				if "|" in info:
+					arr_info = info.split("|")
+					if len(arr_info) == 3:
+						_, gender, _ = arr_info
+					elif len(arr_info) == 7:
+						_, _, _, _, gender, _, race = arr_info
+					else:
+						raise Exception('unknown split number')
 
-					try:
-						_, race = etc.split(" | ")
-						races[CNAME] = race 
-					except ValueError:
-						pass 
+				gender = gender.strip()
+				race = race.strip()
 
-				except ValueError:
-					_, gender, _ = info.split(" | ")
+				if len(race) > 0:
+					races[char] = race
 
-				genders[CNAME] = gender
+				genders[char] = gender
+
 	return (genders, races)
 
 ############################################################
