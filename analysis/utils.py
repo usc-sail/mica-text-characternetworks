@@ -89,24 +89,20 @@ def readGenders(filename):
 	return (genders, races)
 
 ############################################################
-# Override is a filename with a mapping from k -> k'
-# Overwriting the keys of the dict
-# So that it coincides with movies titles 
+#
+#
+#
 ############################################################
-def readGenre(filename, override = None, remove_punct = True):
-	mat = loadmat(filename)
+def readGenre(filename):
+	genres = []
+	with open(filename) as inpt:
+		for line in inpt:
+			if "Genre: " in line:
+				genres = line.strip().split("Genre: ")[1].split(" | ")
+				break 
 
-	if override:
-		with open(override) as inpt:
-			over = eval(inpt.read())
-	else:
-		over = {}
+	return genres 
 
-	def aux(key):
-		newk = re.sub('\s+', ' ', key.translate(punct_elim).strip())
-		return over.get(newk, newk)
-
-	return walk_keys(aux, mat)
 
 def createGraph(char_list, adj, genders, races = defaultdict(lambda x: None)):
 	G = nx.from_numpy_matrix(adj)
