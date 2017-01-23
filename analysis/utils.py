@@ -66,9 +66,9 @@ def readExtraInfo(filename):
 
 	with open(filename) as inpt:
 
-		gender, race, name, actorid = "", "", "", -1
 
 		for line in inpt:
+			gender, race, name, actorid = "", "", "", -1
 
 			if "Year of release" in line:
 				_, yr = line.strip().split(":")
