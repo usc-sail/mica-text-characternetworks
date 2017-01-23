@@ -58,15 +58,22 @@ def read(filename, threshold = 2):
 
 	return ("", char_list, adj)
 
-def readGenders(filename):
+def readExtraInfo(filename):
 	genders = defaultdict(lambda: 'unknown')
 	races = defaultdict(lambda: 'unknown')
+	namesids = defaultdict(lambda: ('', -1))
+	movieyear = -1
 
 	with open(filename) as inpt:
 
-		gender, race = "", ""
+		gender, race, name, actorid = "", "", "", -1
 
 		for line in inpt:
+
+			if "Year of release" in line:
+				_, yr = line.strip().split(":")
+				movieyear = int(yr)
+
 			if "=> " in line:
 				char, info = line.strip().split("=> ")
 				if "|" in info:
@@ -74,19 +81,26 @@ def readGenders(filename):
 					if len(arr_info) == 3:
 						_, gender, _ = arr_info
 					elif len(arr_info) == 7:
-						_, _, _, _, gender, _, race = arr_info
+						_, _, name, actorid, gender, _, race = arr_info
 					else:
 						raise Exception('unknown split number')
 
 				gender = gender.strip()
 				race = race.strip()
+				name = name.strip()
 
 				if len(race) > 0:
 					races[char] = race
 
+				if len(name) > 0:
+					try:
+						namesids[char] = (name, int(actorid))
+					except ValueError:
+						namesids[char] = (name, -1)
+
 				genders[char] = gender
 
-	return (genders, races)
+	return (genders, races, namesids, movieyear)
 
 ############################################################
 #
@@ -103,17 +117,63 @@ def readGenre(filename):
 
 	return genres 
 
+def readBirthdays(filename):
+	birthdays = {}
+	with open(filename) as inpt:
+		for line in inpt:
+			name, info = line.split(":")
+			idx, yr = info.split("|")
+			try:
+				birthdays[int(idx)] = int(yr)
+			except ValueError:
+				birthdays[name] = int(yr)
+	return birthdays
 
-def createGraph(char_list, adj, genders, races = defaultdict(lambda x: None)):
+
+def getCharacterAges(char_list, namesids, movieyear, birthdays):
+	ages = defaultdict(int)
+	for char in char_list:
+		if char in namesids:
+			name, idx = namesids[char]
+			if idx in birthdays:
+				ages[char] = movieyear - birthdays[idx]
+			elif name in birthdays:
+				ages[char] = movieyear - birthdays[name]
+
+
+	return ages 
+
+
+#############################################################
+# Creates a dialogue graph
+# Params:
+#
+#
+#
+#		kwargs may include char_gender dictionary,
+#						   char_race dictionary,
+#						   char_age dictionary,
+# 						   year of release
+#############################################################
+def createGraph(char_list, adj, **kwargs):
+
 	G = nx.from_numpy_matrix(adj)
-	
-	node_gender = {i:genders[x] for i, x in enumerate(char_list)}
-	node_races = {i:races[x] for i, x in enumerate(char_list)}
 
-	nx.set_node_attributes(G, 'gender', node_gender)
-	nx.set_node_attributes(G, 'race', node_races)
+
+	if "genders" in kwargs:
+		genders = kwargs["genders"]
+		node_gender = {i:genders[x] for i, x in enumerate(char_list)}
+		nx.set_node_attributes(G, 'gender', node_gender)
+
+	if "races" in kwargs:
+		races = kwargs["races"]
+		node_races = {i:races[x] for i, x in enumerate(char_list)}
+		nx.set_node_attributes(G, 'race', node_races)
+
+	if "ages" in kwargs:
+		ages = kwargs["ages"]
+		node_ages = {i:ages[x] for i, x in enumerate(char_list)}
+		nx.set_node_attributes(G, 'age', node_ages)
+
 
 	return G
-
-def functionals(arr):
-	return (np.min(arr), np.mean(arr), np.median(arr), np.max(arr))
