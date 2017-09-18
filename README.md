@@ -17,7 +17,6 @@ This repository contains analysis of character networks from movie scripts.
 - Numpy and Scipy
 - [NetworkX](https://networkx.github.io/)
 - [Statmodels](http://www.statsmodels.org/stable/index.html)
-- [rpy2](https://rpy2.readthedocs.io/en/version_2.8.x/)
 
 
 ## How to run
