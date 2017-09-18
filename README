@@ -1,0 +1,11 @@
+# Character Networks from movie scripts
+
+This repository contains analysis of character networks from movie scripts.
+
+## Directory structure
+- LIWC: Output of LIWC2007
+- analysis: Jupyter notebooks with the LIWC analysis and the Graph Networks analysis
+- data: Output of text processing pipeline
+- gender: Aditional data used for character gender
+- genre: Additional data used for movie genre
+
