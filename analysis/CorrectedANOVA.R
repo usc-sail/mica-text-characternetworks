@@ -49,14 +49,35 @@ if(by == "race"){
 	print("")
 
 	# Kruskal-Wallis test
-	kruskal.test(value ~ race, data = degree)
-	kruskal.test(value ~ race, data = betweenness)
-
-
-	posthoc.kruskal.nemenyi.test(value ~ race, data = degree, method = "Tukey")
-
-	posthoc.kruskal.nemenyi.test(value ~ race, data = betweenness, method = "Tukey")
-
+	t <- kruskal.test(value ~ race, data = degree)
+	print("")
+	print("")
+	print(t)
+	print("")
+	print("")
+	
+	
+	t <- kruskal.test(value ~ race, data = betweenness)
+	print("")
+	print("")
+	print(t)
+	print("")
+	print("")
+	
+	t <- posthoc.kruskal.nemenyi.test(value ~ race, data = degree, method = "Tukey")
+	print("")
+	print("")
+	print(t)
+	print("")
+	print("")
+	
+	t <- posthoc.kruskal.nemenyi.test(value ~ race, data = betweenness, method = "Tukey")
+	print("")
+	print("")
+	print(t)
+	print("")
+	print("")
+	
 }else if(by == "age"){
 
 	##########################################################
